@@ -1,0 +1,273 @@
+{
+  "word": "abandon",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciation": {
+    "british": [
+      {
+        "pronunciation": "/əˈbændən/",
+        "audioMp3": "uk_pron/a/aba/aband/abandon__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈbændənz/",
+        "audioMp3": "uk_pron/a/aba/aband/abandons__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈbændənd/",
+        "audioMp3": "uk_pron/a/aba/aband/abandoned__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈbændənɪŋ/",
+        "audioMp3": "uk_pron/a/aba/aband/abandoning__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "american": [
+      {
+        "pronunciation": "/əˈbændən/",
+        "audioMp3": "us_pron/a/aba/aband/abandon__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈbændənz/",
+        "audioMp3": "us_pron/a/aba/aband/abandons__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈbændənd/",
+        "audioMp3": "us_pron/a/aba/aband/abandoned__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈbændənɪŋ/",
+        "audioMp3": "us_pron/a/aba/aband/abandoning__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": [
+    {
+      "form": "root",
+      "prefix": "present simple I / you / we / they",
+      "word": "abandon",
+      "phonetics": [
+        {
+          "pronunciation": "/əˈbændən/",
+          "audioMp3": "uk_pron/a/aba/aband/abandon__gb_2.mp3",
+          "region": "br"
+        }
+      ]
+    },
+    {
+      "form": "thirdps",
+      "prefix": "he / she / it",
+      "word": "abandons",
+      "phonetics": [
+        {
+          "pronunciation": "/əˈbændənz/",
+          "audioMp3": "uk_pron/a/aba/aband/abandons__gb_1.mp3",
+          "region": "br"
+        }
+      ]
+    },
+    {
+      "form": "past",
+      "prefix": "past simple",
+      "word": "abandoned",
+      "phonetics": [
+        {
+          "pronunciation": "/əˈbændənd/",
+          "audioMp3": "uk_pron/a/aba/aband/abandoned__gb_1.mp3",
+          "region": "br"
+        }
+      ]
+    },
+    {
+      "form": "pastpart",
+      "prefix": "past participle",
+      "word": "abandoned",
+      "phonetics": [
+        {
+          "pronunciation": "/əˈbændənd/",
+          "audioMp3": "uk_pron/a/aba/aband/abandoned__gb_1.mp3",
+          "region": "br"
+        }
+      ]
+    },
+    {
+      "form": "prespart",
+      "prefix": "-ing form",
+      "word": "abandoning",
+      "phonetics": [
+        {
+          "pronunciation": "/əˈbændənɪŋ/",
+          "audioMp3": "uk_pron/a/aba/aband/abandoning__gb_1.mp3",
+          "region": "br"
+        }
+      ]
+    }
+  ],
+  "senses": [
+    {
+      "senseNumber": "1",
+      "definition": "to leave somebody, especially somebody you are responsible for, with no intention of returning",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The baby had been abandoned by its mother.",
+          "contextForm": "abandon somebody"
+        },
+        {
+          "text": "People often simply abandon their pets when they go abroad."
+        },
+        {
+          "text": "‘We have been abandoned to our fate,’ said one resident.",
+          "contextForm": "abandon somebody to something"
+        },
+        {
+          "text": "The study showed a deep fear among the elderly of being abandoned to the care of strangers."
+        }
+      ],
+      "collocations": {
+        "adverb": [
+          "hastily"
+        ],
+        "phrases": [
+          "abandon somebody to their fate",
+          "be left abandoned",
+          "be found abandoned"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to leave a thing or place, especially because it is impossible or dangerous to stay",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Snow forced many drivers to abandon their vehicles.",
+          "contextForm": "abandon something"
+        },
+        {
+          "text": "He gave the order to abandon ship (= to leave the ship because it was sinking)."
+        },
+        {
+          "text": "They had to abandon their lands to the invading forces.",
+          "contextForm": "abandon something to somebody/something"
+        }
+      ],
+      "collocations": {
+        "adverb": [
+          "hastily"
+        ],
+        "phrases": [
+          "abandon somebody to their fate",
+          "be left abandoned",
+          "be found abandoned"
+        ]
+      },
+      "extraExamples": [
+        "Much of the land has now been abandoned in favour of more fertile areas to the south.",
+        "The town had been hastily abandoned."
+      ],
+      "topics": [
+        "Difficulty and failure"
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to stop doing something, especially before it is finished; to stop having something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They abandoned the match because of rain."
+        },
+        {
+          "text": "The plans for reform were quietly abandoned."
+        },
+        {
+          "text": "She abandoned hope of any reconciliation."
+        },
+        {
+          "text": "We had to abandon any further attempt at negotiation."
+        }
+      ],
+      "collocations": {
+        "adverb": [
+          "altogether",
+          "completely",
+          "entirely"
+        ],
+        "verb + abandon": [
+          "be forced to",
+          "have to",
+          "decide to"
+        ],
+        "preposition": [
+          "for",
+          "in favour/​favor of"
+        ]
+      },
+      "extraExamples": [
+        "She abandoned her teaching career in favour of sport.",
+        "The government does not propose to abandon the project altogether.",
+        "Traditional policies were simply abandoned.",
+        "They were forced to abandon the game because of rain.",
+        "Work on the new building was finally abandoned.",
+        "He abandoned the army for politics."
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to stop supporting or helping somebody; to stop believing in something",
+      "examples": [
+        {
+          "text": "The country abandoned its political leaders after the war.",
+          "contextForm": "abandon somebody"
+        },
+        {
+          "text": "Critics accused him of abandoning his principles.",
+          "contextForm": "abandon something"
+        },
+        {
+          "text": "This principle has now been effectively abandoned."
+        }
+      ],
+      "collocations": {
+        "adverb": [
+          "altogether",
+          "completely",
+          "entirely"
+        ],
+        "verb + abandon": [
+          "be forced to",
+          "have to",
+          "decide to"
+        ],
+        "preposition": [
+          "for",
+          "in favour/​favor of"
+        ]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to feel an emotion so strongly that you can feel nothing else",
+      "examples": [
+        {
+          "text": "He abandoned himself to despair."
+        }
+      ],
+      "labels": "(literary)"
+    }
+  ],
+  "etymology": "late Middle English: from Old French abandoner, from a- (from Latin ad ‘to, at’) + bandon ‘control’ (related to ban). The original sense was ‘bring under control’, later ‘give in to the control of, surrender to’ (sense (5))."
+}
