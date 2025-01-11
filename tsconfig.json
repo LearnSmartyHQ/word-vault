@@ -8,14 +8,10 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "baseUrl": ".",
-    "paths": {
-      "@/*": [
-        "./*"
-      ]
-    }
   },
   "include": [
-    "src"
+    "src",
+    "types"
   ],
   "exclude": [
     "node_modules",
