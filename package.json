@@ -1,4 +1,23 @@
 {
+  "name": "word-vault",
+  "version": "0.1.0",
+  "description": "A lightweight JavaScript package for English word definitions and collections.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": ["dictionary", "words", "english", "typescript", "504"],
+  "author": {
+    "name": "John Adib",
+    "url": "https://mradib.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LearnSmartyHQ/word-vault.git"
+  },
+  "homepage": "https://github.com/LearnSmartyHQ/word-vault",
+  "bugs": {
+    "url": "https://github.com/LearnSmartyHQ/word-vault/issues"
+  },
+  "license": "MIT",
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js",
