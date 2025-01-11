@@ -1,6 +1,6 @@
 {
   "name": "word-vault",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "A lightweight JavaScript package for English word definitions and collections.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -22,6 +22,9 @@
   "homepage": "https://github.com/LearnSmartyHQ/word-vault",
   "bugs": {
     "url": "https://github.com/LearnSmartyHQ/word-vault/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "license": "MIT",
   "scripts": {
