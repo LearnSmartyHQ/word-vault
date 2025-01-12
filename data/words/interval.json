@@ -1,0 +1,164 @@
+{
+  "word": "interval",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɪntəvl/",
+        "audio": "uk_pron/i/int/inter/interval__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɪntərvl/",
+        "audio": "us_pron/i/int/inter/interval__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a period of time between two events",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The interval between major earthquakes might be 200 years."
+        },
+        {
+          "text": "He knocked on the door and after a brief interval it was opened."
+        },
+        {
+          "text": "Polling day was a week away and Baldwin made two speeches in the interval."
+        },
+        {
+          "text": "They will be interviewed again after an appropriate time interval has elapsed."
+        },
+        {
+          "text": "Try setting your automatic email checker to 30-minute intervals."
+        },
+        {
+          "text": "You are advised to leave a wide interval before you have your next child."
+        },
+        {
+          "text": "the amount of oxygen used by the muscles during a specified interval"
+        },
+        {
+          "text": "She ruled for ten years, except for a brief interval."
+        }
+      ],
+      "collocations": {
+        "adjective": ["brief", "short", "long"],
+        "preposition": ["at intervals", "in the interval", "interval between"],
+        "phrases": [
+          "at fixed, periodic, regular, etc. intervals",
+          "at irregular intervals",
+          "at random intervals"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a short period of time separating parts of a play, film or concert",
+      "labels": "(British English)North American English, British English",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "There will be an interval of 20 minutes after the second act."
+        }
+      ],
+      "topics": ["Film and theatre"],
+      "collocations": {
+        "adjective": ["brief", "short", "long"],
+        "preposition": ["at intervals", "in the interval", "interval between"],
+        "phrases": [
+          "at fixed, periodic, regular, etc. intervals",
+          "at irregular intervals",
+          "at random intervals"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a short period during which something different happens from what is happening the rest of the time",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "She's delirious, but has lucid intervals."
+        },
+        {
+          "text": "The day should be mainly dry with sunny intervals."
+        },
+        {
+          "text": "The intervals between his various illnesses grew shorter and shorter."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a difference in pitch (= how high or low a note sounds) between two notes",
+      "labels": "(music)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "an interval of one octave"
+        }
+      ],
+      "topics": ["Music"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "an activity in interval training",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "You can do intervals by alternating power walking with easy jogging."
+        }
+      ],
+      "topics": ["Health and Fitness", "Sports: other sports"]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "with time between",
+      "examples": [
+        {
+          "text": "Buses to the city leave **at regular intervals**."
+        },
+        {
+          "text": "The runners started at 5-minute intervals."
+        },
+        {
+          "text": "At intervals a bell rang."
+        },
+        {
+          "text": "He returned home during the day at regular intervals."
+        },
+        {
+          "text": "Meetings are held at monthly intervals."
+        },
+        {
+          "text": "The accounts were updated at irregular intervals."
+        },
+        {
+          "text": "Trains run at fixed intervals."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "with spaces between",
+      "examples": [
+        {
+          "text": "Flaming torches were positioned at intervals along the terrace."
+        },
+        {
+          "text": "The flags were spaced at two-metre intervals."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French entrevalle, based on Latin intervallum ‘space between ramparts, interval’, from inter- ‘between’ + vallum ‘rampart’."
+}

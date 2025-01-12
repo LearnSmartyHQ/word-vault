@@ -1,0 +1,86 @@
+{
+  "word": "partial",
+  "partOfSpeech": "adjective",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈpɑːʃl/",
+        "audio": "uk_pron/p/par/parti/partial__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈpɑːrʃl/",
+        "audio": "us_pron/p/par/parti/partial__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "not complete or whole",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "It was only a partial solution to the problem."
+        },
+        {
+          "text": "a partial eclipse of the sun"
+        },
+        {
+          "text": "His efforts met with only partial success."
+        },
+        {
+          "text": "Our success was only partial."
+        },
+        {
+          "text": "They received partial compensation of £5 000."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "remain"],
+        "adverb": ["only", "somewhat", "necessarily"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "liking somebody/something very much",
+      "sensetop": "partial to somebody/something",
+      "labels": "(old-fashioned)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "I'm not partial to mushrooms."
+        },
+        {
+          "text": "He's very partial to ice cream."
+        },
+        {
+          "text": "I'm especially partial to Latin American music."
+        }
+      ],
+      "topics": ["Preferences and decisions"],
+      "collocations": {
+        "verbs": ["be", "become"],
+        "adverb": ["very", "especially", "somewhat"],
+        "preposition": ["to"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "showing or feeling too much support for one person, team, idea, etc., in a way that is unfair",
+      "sensetop": "partial (towards somebody/something)",
+      "labels": "(disapproving)",
+      "examples": [
+        {
+          "text": "The resulting assessment is necessarily partial and subjective."
+        }
+      ],
+      "synonyms": "biased"
+    }
+  ],
+  "wordOrigin": "late Middle English (in sense (3)): from Old French parcial (sense (3)), French partiel (sense (1)), from late Latin partialis, from pars, part- ‘part’."
+}

@@ -1,0 +1,107 @@
+{
+  "word": "evaluate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪˈvæljueɪt/",
+        "audio": "uk_pron/e/eva/evalu/evaluate__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪˈvæljueɪts/",
+        "audio": "uk_pron/e/eva/evalu/evaluates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪˈvæljueɪtɪd/",
+        "audio": "uk_pron/e/eva/evalu/evaluated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪˈvæljueɪtɪŋ/",
+        "audio": "uk_pron/e/eva/evalu/evaluating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪˈvæljueɪt/",
+        "audio": "us_pron/e/eva/evalu/evaluate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪˈvæljueɪts/",
+        "audio": "us_pron/e/eva/evalu/evaluates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪˈvæljueɪtɪd/",
+        "audio": "us_pron/e/eva/evalu/evaluated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪˈvæljueɪtɪŋ/",
+        "audio": "us_pron/e/eva/evalu/evaluating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "evaluate",
+      "heSheIt": "evaluates"
+    },
+    "pastSimple": "evaluated",
+    "pastParticiple": "evaluated",
+    "ingForm": "evaluating"
+  },
+  "definitions": [
+    {
+      "definition": "to form an opinion of the amount, value or quality of something after thinking about it carefully",
+      "sensetop": "evaluate somethingevaluate how, whether, etc…evaluate somebody/something for somethingevaluate somebody/something on something",
+      "examples": [
+        {
+          "text": "The trial will evaluate the effectiveness of the different drugs.",
+          "contextForm": "evaluate something"
+        },
+        {
+          "text": "Researchers evaluated teaching performance by comparing students' exam results."
+        },
+        {
+          "text": "The study will **critically evaluate** whether this technology is useful.",
+          "contextForm": "evaluate how, whether, etc…"
+        },
+        {
+          "text": "We need to evaluate how well the policy is working."
+        },
+        {
+          "text": "The cheeses are evaluated for flavour, texture and colour.",
+          "contextForm": "evaluate somebody/something for something"
+        },
+        {
+          "text": "Candidates are evaluated on their ability to think independently.",
+          "contextForm": "evaluate somebody/something on something"
+        },
+        {
+          "text": "The effects of changes in land use can be evaluated by analysis of flooding patterns."
+        },
+        {
+          "text": "The evidence should be carefully evaluated."
+        },
+        {
+          "text": "This does not seem an accurate way of evaluating employees' performance."
+        }
+      ],
+      "topics": ["Opinion and argument", "Scientific research"],
+      "collocations": {
+        "adverb": ["effectively", "fully", "properly"],
+        "verb + evaluate": ["aim to", "attempt to", "be designed to"]
+      }
+    }
+  ],
+  "wordOrigin": "mid 19th cent. (earlier (mid 18th cent.) as evaluation): from French évaluer, from es- (from Latin ex-) ‘out, from’ + Old French value ‘value’."
+}

@@ -1,0 +1,89 @@
+{
+  "word": "mourn",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/mɔːn/",
+        "audio": "uk_pron/m/mou/mourn/mourn__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/mɔːnz/",
+        "audio": "uk_pron/m/mou/mourn/mourns__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/mɔːnd/",
+        "audio": "uk_pron/m/mou/mourn/mourned__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈmɔːnɪŋ/",
+        "audio": "uk_pron/m/mou/mourn/mourning__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/mɔːrn/",
+        "audio": "us_pron/m/mou/mourn/mourn__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/mɔːrnz/",
+        "audio": "us_pron/m/mou/mourn/mourns__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/mɔːrnd/",
+        "audio": "us_pron/m/mou/mourn/mourned__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈmɔːrnɪŋ/",
+        "audio": "us_pron/m/mou/mourn/mourning__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "mourn",
+      "heSheIt": "mourns"
+    },
+    "pastSimple": "mourned",
+    "pastParticiple": "mourned",
+    "ingForm": "mourning"
+  },
+  "definitions": [
+    {
+      "definition": "to feel and show that you are sad because somebody has died; to feel sad because something no longer exists or is no longer the same",
+      "sensetop": "mourn somethingmourn (for somebody/something)",
+      "examples": [
+        {
+          "text": "Please, leave us to mourn in peace."
+        },
+        {
+          "text": "He was still mourning his brother's death.",
+          "contextForm": "mourn something"
+        },
+        {
+          "text": "They mourn the passing of a simpler way of life."
+        },
+        {
+          "text": "The city was mourning the victims of the bombings."
+        },
+        {
+          "text": "Today we mourn for all those who died in two world wars.",
+          "contextForm": "mourn (for somebody/something)"
+        },
+        {
+          "text": "She mourned for her lost childhood."
+        }
+      ],
+      "topics": ["Feelings"]
+    }
+  ],
+  "wordOrigin": "Old English murnan, of Germanic origin."
+}

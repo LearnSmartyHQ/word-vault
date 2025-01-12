@@ -1,0 +1,94 @@
+{
+  "word": "refer",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈfɜː(r)/",
+        "audio": "uk_pron/r/ref/refer/refer__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈfɜːz/",
+        "audio": "uk_pron/r/ref/refer/refers__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈfɜːd/",
+        "audio": "uk_pron/r/ref/refer/referred__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈfɜːrɪŋ/",
+        "audio": "uk_pron/r/ref/refer/referring__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈfɜːr/",
+        "audio": "us_pron/r/ref/refer/refer__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈfɜːrz/",
+        "audio": "us_pron/r/ref/refer/refers__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈfɜːrd/",
+        "audio": "us_pron/r/ref/refer/referred__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈfɜːrɪŋ/",
+        "audio": "us_pron/r/ref/refer/referring__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "refer",
+      "heSheIt": "refers"
+    },
+    "pastSimple": "referred",
+    "pastParticiple": "referred",
+    "ingForm": "referring"
+  },
+  "definitions": [
+    {
+      "definition": "to send somebody/something to somebody/something for help, advice or a decision",
+      "sensetop": "refer somebody/something to somebody/somethingrefer somebodyrefer somebody for something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "My doctor referred me to a specialist.",
+          "contextForm": "refer somebody/something to somebody/something"
+        },
+        {
+          "text": "The company says it has **referred the matter** to its lawyers."
+        },
+        {
+          "text": "The **case was referred** to the Court of Appeal."
+        },
+        {
+          "text": "May I refer you to my letter of 14 May?"
+        },
+        {
+          "text": "**Patients** should be **referred** to a specialist pain clinic."
+        },
+        {
+          "text": "If you are referred urgently by your GP, a specialist should see you within two weeks.",
+          "contextForm": "refer somebody"
+        },
+        {
+          "text": "She was referred for evaluation and treatment.",
+          "contextForm": "refer somebody for something"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French referer or Latin referre ‘carry back’, from re- ‘back’ + ferre ‘bring’."
+}

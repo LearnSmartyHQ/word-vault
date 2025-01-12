@@ -1,0 +1,179 @@
+{
+  "word": "revise",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈvaɪz/",
+        "audio": "uk_pron/r/rev/revis/revise__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈvaɪzɪz/",
+        "audio": "uk_pron/r/rev/revis/revises__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈvaɪzd/",
+        "audio": "uk_pron/r/rev/revis/revised__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈvaɪzɪŋ/",
+        "audio": "uk_pron/r/rev/revis/revising__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈvaɪz/",
+        "audio": "us_pron/r/rev/revis/revise__us_3.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈvaɪzɪz/",
+        "audio": "us_pron/r/rev/revis/revises__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈvaɪzd/",
+        "audio": "us_pron/r/rev/revis/revised__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈvaɪzɪŋ/",
+        "audio": "us_pron/r/rev/revis/revising__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "revise",
+      "heSheIt": "revises"
+    },
+    "pastSimple": "revised",
+    "pastParticiple": "revised",
+    "ingForm": "revising"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to change your opinions or plans, for example because of something you have learned",
+      "sensetop": "revise something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I can see I will have to revise my opinions of his abilities now."
+        },
+        {
+          "text": "The government may need to revise its policy in the light of this report."
+        },
+        {
+          "text": "I realised that I would have to revise my life plan."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adverb": ["drastically", "extensively", "heavily"],
+        "verb + revise": ["be forced to", "have to", "be necessary to"],
+        "preposition": ["from", "to", "for"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to change something, such as a book or an estimate, in order to correct or improve it",
+      "sensetop": "revise somethingrevise something up/downrevise something (from something) (to something)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a revised edition of a textbook"
+        },
+        {
+          "text": "I'll prepare a revised estimate for you."
+        },
+        {
+          "text": "This revised version of his play has only two acts."
+        },
+        {
+          "text": "They should create a revised marketing plan."
+        },
+        {
+          "text": "We may have to revise this figure upwards.",
+          "contextForm": "revise something up/down"
+        },
+        {
+          "text": "The growth forecast has been revised down."
+        },
+        {
+          "text": "Of the original 200, that was revised to 100, only about 50 people showed up.",
+          "contextForm": "revise something (from something) (to something)"
+        },
+        {
+          "text": "Sales forecasts will have to be revised downwards/​downward."
+        },
+        {
+          "text": "The estimate for the building work had to be revised upwards."
+        },
+        {
+          "text": "The figure has now been revised from $1 million to $2 million."
+        },
+        {
+          "text": "The text has been quite radically revised."
+        },
+        {
+          "text": "Have you got the revised edition of this textbook?"
+        },
+        {
+          "text": "The procedures are continually revised—it is very difficult to keep up with the latest version."
+        }
+      ],
+      "collocations": {
+        "adverb": ["drastically", "extensively", "heavily"],
+        "verb + revise": ["be forced to", "have to", "be necessary to"],
+        "preposition": ["from", "to", "for"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to prepare for an exam by looking again at work that you have done",
+      "sensetop": "revise for somethingrevise something",
+      "labels": "(British English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I can't come out tonight. I have to revise."
+        },
+        {
+          "text": "I spent the weekend revising for my exam.",
+          "contextForm": "revise for something"
+        },
+        {
+          "text": "I'm revising Geography today.",
+          "contextForm": "revise something"
+        },
+        {
+          "text": "I can't come out tonight—I'm revising."
+        },
+        {
+          "text": "She's revising for her exams at the moment."
+        },
+        {
+          "text": "Have you revised geography yet?"
+        }
+      ],
+      "topics": ["Education"],
+      "collocations": {
+        "adverb": ["drastically", "extensively", "heavily"],
+        "verb + revise": ["be forced to", "have to", "be necessary to"],
+        "preposition": ["from", "to", "for"]
+      }
+    }
+  ],
+  "wordOrigin": "mid 16th cent. (in the sense ‘look again or repeatedly (at)’): from French réviser ‘look at’, or Latin revisere ‘look at again’, from re- ‘again’ + visere (intensive form of videre ‘to see’)."
+}

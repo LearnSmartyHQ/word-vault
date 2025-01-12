@@ -1,0 +1,112 @@
+{
+  "word": "disrupt",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪsˈrʌpt/",
+        "audio": "uk_pron/d/dis/disru/disrupt__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪsˈrʌpts/",
+        "audio": "uk_pron/d/dis/disru/disrupts__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪsˈrʌptɪd/",
+        "audio": "uk_pron/d/dis/disru/disrupted__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪsˈrʌptɪŋ/",
+        "audio": "uk_pron/d/dis/disru/disrupting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪsˈrʌpt/",
+        "audio": "us_pron/d/dis/disru/disrupt__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪsˈrʌpts/",
+        "audio": "us_pron/d/dis/disru/disrupts__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪsˈrʌptɪd/",
+        "audio": "us_pron/d/dis/disru/disrupted__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪsˈrʌptɪŋ/",
+        "audio": "us_pron/d/dis/disru/disrupting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "disrupt",
+      "heSheIt": "disrupts"
+    },
+    "pastSimple": "disrupted",
+    "pastParticiple": "disrupted",
+    "ingForm": "disrupting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make it difficult for something to continue in the normal way",
+      "sensetop": "disrupt something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Demonstrators succeeded in disrupting the meeting."
+        },
+        {
+          "text": "Bus services will be disrupted tomorrow because of the bridge closure."
+        },
+        {
+          "text": "The bad weather has seriously disrupted supplies of food."
+        },
+        {
+          "text": "They warned that climate change could potentially disrupt economic activity."
+        },
+        {
+          "text": "I'm not going to let him disrupt my life any longer."
+        },
+        {
+          "text": "Public transport services are likely to be severely disrupted tomorrow."
+        },
+        {
+          "text": "The award ceremony was completely disrupted by a technicians' strike."
+        },
+        {
+          "text": "The refusal of the US to participate threatened to disrupt the negotiations."
+        }
+      ],
+      "collocations": {
+        "adverb": ["badly", "seriously", "severely"],
+        "verb + disrupt": ["threaten to", "attempt to", "be designed to"],
+        "phrases": ["an attempt to disrupt something"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to cause significant change in an industry or market by means of innovation (= new ideas or methods)",
+      "sensetop": "disrupt something",
+      "labels": "(business)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Our radical new printing technology is disrupting traditional manufacturing."
+        }
+      ],
+      "topics": ["Business"]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin disrupt- ‘broken apart’, from the verb disrumpere."
+}

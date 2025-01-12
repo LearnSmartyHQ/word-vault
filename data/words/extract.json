@@ -1,0 +1,75 @@
+{
+  "word": "extract",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈekstrækt/",
+        "audio": "uk_pron/e/ext/extra/extract__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈekstrækt/",
+        "audio": "us_pron/e/ext/extra/extract__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a short passage from a book, piece of music, etc. that gives you an idea of what the whole thing is like",
+      "sensetop": "extract (from something)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The following extract is taken from her new novel."
+        },
+        {
+          "text": "He read out a brief extract from his book."
+        },
+        {
+          "text": "The extract is taken from a long essay."
+        },
+        {
+          "text": "The disc also includes an extract from one of his earlier operas."
+        }
+      ],
+      "collocations": {
+        "adjective": ["brief", "short", "long"],
+        "verb + extract": ["read", "publish"],
+        "extract + verb": ["be from", "be taken from"],
+        "preposition": ["extract from"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a substance that has been obtained from something else using a particular process",
+      "labels": "(North American English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "yeast extract"
+        },
+        {
+          "text": "face cream containing natural plant extracts"
+        },
+        {
+          "text": "vanilla extract"
+        },
+        {
+          "text": "extract of apricot"
+        }
+      ],
+      "collocations": {
+        "adjective": ["natural", "herbal", "green tea"],
+        "preposition": ["extract of"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin extract- ‘drawn out’, from the verb extrahere, from ex- ‘out’ + trahere ‘draw’."
+}

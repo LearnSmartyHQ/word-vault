@@ -1,0 +1,129 @@
+{
+  "word": "generate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdʒenəreɪt/",
+        "audio": "uk_pron/g/gen/gener/generate__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdʒenəreɪts/",
+        "audio": "uk_pron/g/gen/gener/generates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdʒenəreɪtɪd/",
+        "audio": "uk_pron/g/gen/gener/generated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdʒenəreɪtɪŋ/",
+        "audio": "uk_pron/g/gen/gener/generating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdʒenəreɪt/",
+        "audio": "us_pron/g/gen/gener/generate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdʒenəreɪts/",
+        "audio": "us_pron/g/gen/gener/generates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdʒenəreɪtɪd/",
+        "audio": "us_pron/g/gen/gener/generated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdʒenəreɪtɪŋ/",
+        "audio": "us_pron/g/gen/gener/generating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "generate",
+      "heSheIt": "generates"
+    },
+    "pastSimple": "generated",
+    "pastParticiple": "generated",
+    "ingForm": "generating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to produce energy, especially electricity",
+      "sensetop": "generate something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The wind turbines are used to **generate electricity**."
+        },
+        {
+          "text": "to generate heat/power"
+        },
+        {
+          "text": "Living cells generate energy from food."
+        }
+      ],
+      "topics": ["The environment"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to produce or create something",
+      "sensetop": "generate something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **generate revenue/income/profit**"
+        },
+        {
+          "text": "We need someone to generate new ideas."
+        },
+        {
+          "text": "The proposal has **generated **a lot of **interest**."
+        },
+        {
+          "text": "The lottery is expected to generate substantial funds for charities."
+        },
+        {
+          "text": "People used to believe that dirt spontaneously generated disease."
+        },
+        {
+          "text": "a sequence of randomly generated fractions"
+        }
+      ],
+      "collocations": {
+        "adverb": ["quickly", "automatically", "spontaneously"],
+        "verb + generate": ["help (to)", "be used to", "be expected to"],
+        "preposition": ["from"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to produce a set or sequence of data by taking an initial set of data and applying a mathematical or logical process to it",
+      "sensetop": "generate something",
+      "labels": "(computing)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "We generated 10 data sets, which we used to run each of the models."
+        }
+      ],
+      "topics": ["Computers"]
+    }
+  ],
+  "wordOrigin": "early 16th cent. (in the sense ‘beget, procreate’): from Latin generat- ‘created’, from the verb generare, from genus, gener- ‘stock, race’."
+}

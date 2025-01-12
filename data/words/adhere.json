@@ -1,0 +1,84 @@
+{
+  "word": "adhere",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ədˈhɪə(r)/",
+        "audio": "uk_pron/a/adh/adher/adhere__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ədˈhɪəz/",
+        "audio": "uk_pron/a/adh/adher/adheres__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ədˈhɪəd/",
+        "audio": "uk_pron/a/adh/adher/adhered__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ədˈhɪərɪŋ/",
+        "audio": "uk_pron/a/adh/adher/adhering__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ədˈhɪr/",
+        "audio": "us_pron/a/adh/adher/adhere__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ədˈhɪrz/",
+        "audio": "us_pron/a/adh/adher/adheres__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ədˈhɪrd/",
+        "audio": "us_pron/a/adh/adher/adhered__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ədˈhɪrɪŋ/",
+        "audio": "us_pron/a/adh/adher/adhering__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "adhere",
+      "heSheIt": "adheres"
+    },
+    "pastSimple": "adhered",
+    "pastParticiple": "adhered",
+    "ingForm": "adhering"
+  },
+  "definitions": [
+    {
+      "definition": "to stick to something",
+      "sensetop": "adhere (to something)",
+      "examples": [
+        {
+          "text": "Once in the bloodstream, the bacteria adhere to the surface of the red cells."
+        },
+        {
+          "text": "Clean the surface first, or the paint will not adhere."
+        },
+        {
+          "text": "There was oil adhering to the bird’s feathers."
+        },
+        {
+          "text": "The tiles may not adhere properly if you do not use the correct glue."
+        }
+      ],
+      "collocations": {
+        "adverb": ["closely", "firmly", "rigidly"],
+        "preposition": ["to"]
+      }
+    }
+  ],
+  "wordOrigin": "late 15th cent.: from Latin adhaerere, from ad- ‘to’ + haerere ‘to stick’."
+}

@@ -1,0 +1,216 @@
+{
+  "word": "site",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/saɪt/",
+        "audio": "uk_pron/c/cit/cite_/cite__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/saɪt/",
+        "audio": "us_pron/s/sit/site_/site__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a place where a building, town, etc. was, is or will be located",
+      "sensetop": "on a siteon siteat a site",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the site of a sixteenth-century abbey"
+        },
+        {
+          "text": "The government has announced the proposed site for the airport."
+        },
+        {
+          "text": "A site has been chosen for the new school."
+        },
+        {
+          "text": "Nothing can be built on this site.",
+          "contextForm": "on a site"
+        },
+        {
+          "text": "All the materials are on site so that work can start immediately.",
+          "contextForm": "on site"
+        },
+        {
+          "text": "The factory will be built at a site to the north of the city.",
+          "contextForm": "at a site"
+        },
+        {
+          "text": "The inspector may need to make a **site visit**."
+        },
+        {
+          "text": "A local company has recently acquired the site."
+        },
+        {
+          "text": "Hard hats must be worn on site."
+        },
+        {
+          "text": "The council has earmarked the site for possible redevelopment."
+        },
+        {
+          "text": "The hotel is in a prime site overlooking the sea."
+        },
+        {
+          "text": "The school stands on the site of an ancient settlement."
+        },
+        {
+          "text": "The site is being cleared for development."
+        },
+        {
+          "text": "The site is designated for housing."
+        },
+        {
+          "text": "The site is presently occupied by offices."
+        }
+      ],
+      "topics": ["Buildings"],
+      "collocations": {
+        "adjective": ["good", "prime", "designated"],
+        "verb + site": ["allocate", "choose", "designate"],
+        "site + verb": ["belong to somebody"],
+        "site + noun": ["manager", "supervisor", "owner"],
+        "preposition": ["at a/​the site", "in a/​the site", "on (a/​the) site"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a place where something has happened",
+      "sensetop": "at the site of something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the site of the battle"
+        },
+        {
+          "text": "an archaeological site"
+        },
+        {
+          "text": "The president is to **visit the** crash **site** later today."
+        },
+        {
+          "text": "an extremely sensitive site of national importance"
+        },
+        {
+          "text": "People laid flowers at the site of the accident.",
+          "contextForm": "at the site of something"
+        }
+      ],
+      "collocations": {
+        "adjective": ["ancient", "archaeological", "historic"],
+        "verb + site": ["visit", "disturb", "remove something from"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a place that is used for a particular activity",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a caravan site"
+        },
+        {
+          "text": "Gozo has some of the best dive sites in the Mediterranean."
+        },
+        {
+          "text": "a waste-disposal site on the edge of town"
+        },
+        {
+          "text": "the test site for the atom bomb"
+        },
+        {
+          "text": "They say it's an ancient burial site."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a place connected to the internet, where a company or an organization, or an individual person, puts information",
+      "sensetop": "on a site",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "online dating sites"
+        },
+        {
+          "text": "Here are some **links to** other useful **sites**."
+        },
+        {
+          "text": "For more information, **visit the** festival's official **site**."
+        },
+        {
+          "text": "You have to register to gain access to the site."
+        },
+        {
+          "text": "She regularly posts music reviews on an online music site.",
+          "contextForm": "on a site"
+        },
+        {
+          "text": "A site map lists and links to all pages on your website."
+        },
+        {
+          "text": "At this site you'll find all the latest news and gossip."
+        },
+        {
+          "text": "Harvard Law has a very useful and informative site."
+        },
+        {
+          "text": "He saw the image on a racist hate site."
+        },
+        {
+          "text": "I have bookmarked your site for future reading."
+        },
+        {
+          "text": "I'm searching for sites on aromatherapy."
+        },
+        {
+          "text": "Search engines rank sites through a variety of methods."
+        },
+        {
+          "text": "The government tries to block foreign sites deemed subversive."
+        },
+        {
+          "text": "The official site is updated on a regular basis."
+        },
+        {
+          "text": "a music download site"
+        },
+        {
+          "text": "a site devoted to health issues"
+        },
+        {
+          "text": "major news sites"
+        }
+      ],
+      "topics": ["Phones, email and the internet"],
+      "collocations": {
+        "adjective": ["Internet", "online", "Web"],
+        "verb + site": ["access", "check", "check out"],
+        "site + verb": [
+          "be dedicated to something",
+          "be devoted to something",
+          "contain something"
+        ],
+        "site + noun": ["map", "design", "content"],
+        "preposition": ["at a/​the site", "in a/​the site", "on a/​the site"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English (as a noun): from Anglo-Norman French, or from Latin situs ‘local position’. The verb dates from the late 16th cent."
+}

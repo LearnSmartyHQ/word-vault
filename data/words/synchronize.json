@@ -1,0 +1,99 @@
+{
+  "word": "synchronize",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsɪŋkrənaɪz/",
+        "audio": "uk_pron/s/syn/synch/synchronize__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsɪŋkrənaɪzɪz/",
+        "audio": "uk_pron/s/syn/synch/synchronizes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsɪŋkrənaɪzd/",
+        "audio": "uk_pron/s/syn/synch/synchronized__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsɪŋkrənaɪzɪŋ/",
+        "audio": "uk_pron/s/syn/synch/synchronizing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsɪŋkrənaɪz/",
+        "audio": "us_pron/s/syn/synch/synchronize__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsɪŋkrənaɪzɪz/",
+        "audio": "us_pron/s/syn/synch/synchronizes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsɪŋkrənaɪzd/",
+        "audio": "us_pron/s/syn/synch/synchronized__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsɪŋkrənaɪzɪŋ/",
+        "audio": "us_pron/s/syn/synch/synchronizing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "synchronize",
+      "heSheIt": "synchronizes"
+    },
+    "pastSimple": "synchronized",
+    "pastParticiple": "synchronized",
+    "ingForm": "synchronizing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to happen at the same time or to move at the same speed as something; to make something do this",
+      "sensetop": "synchronize (with something)synchronize something (with something)",
+      "examples": [
+        {
+          "text": "The soundtrack did not synchronize with the action.",
+          "contextForm": "synchronize (with something)"
+        },
+        {
+          "text": "The timing of the gun was precisely synchronized with the turning of the plane’s propeller."
+        },
+        {
+          "text": "Let's synchronize our watches *(= make them show exactly the same time)*.",
+          "contextForm": "synchronize something (with something)"
+        }
+      ],
+      "collocations": {
+        "adverb": ["perfectly", "carefully", "automatically"],
+        "preposition": ["with"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to link data files between one computer or mobile device and another so that the information in the files on both machines is the same",
+      "sensetop": "synchronize something (between A and B)synchronize something (with something)",
+      "examples": [
+        {
+          "text": "You can use the technology to synchronize data between computers.",
+          "contextForm": "synchronize something (between A and B)"
+        },
+        {
+          "text": "The phone lets you synchronize your calendar and contacts with your PC.",
+          "contextForm": "synchronize something (with something)"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": null
+}

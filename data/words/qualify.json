@@ -1,0 +1,209 @@
+{
+  "word": "qualify",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkwɒlɪfaɪ/",
+        "audio": "uk_pron/q/qua/quali/qualify__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkwɒlɪfaɪz/",
+        "audio": "uk_pron/q/qua/quali/qualifies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkwɒlɪfaɪd/",
+        "audio": "uk_pron/q/qua/quali/qualified__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkwɒlɪfaɪɪŋ/",
+        "audio": "uk_pron/q/qua/quali/qualifying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkwɑːlɪfaɪ/",
+        "audio": "us_pron/q/qua/quali/qualify__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkwɑːlɪfaɪz/",
+        "audio": "us_pron/q/qua/quali/qualifies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkwɑːlɪfaɪd/",
+        "audio": "us_pron/q/qua/quali/qualified__us_4.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkwɑːlɪfaɪɪŋ/",
+        "audio": "us_pron/q/qua/quali/qualifying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "qualify",
+      "heSheIt": "qualifies"
+    },
+    "pastSimple": "qualified",
+    "pastParticiple": "qualified",
+    "ingForm": "qualifying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to reach the standard of ability or knowledge needed to do a particular job, for example by completing a course of study or passing exams",
+      "sensetop": "qualify as somethingqualify in something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "How long does it take to qualify?"
+        },
+        {
+          "text": "He qualified as a doctor last year.",
+          "contextForm": "qualify as something"
+        },
+        {
+          "text": "She spent seven years qualifying in law.",
+          "contextForm": "qualify in something"
+        }
+      ],
+      "topics": ["Education"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to give somebody the skills and knowledge they need to do something",
+      "sensetop": "qualify somebody for somethingqualify somebody to do something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "This training course will qualify you for a better job.",
+          "contextForm": "qualify somebody for something"
+        },
+        {
+          "text": "The test qualifies you to drive heavy vehicles.",
+          "contextForm": "qualify somebody to do something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to be of a high enough standard to enter a competition; to defeat another person or team in order to enter or continue in a competition",
+      "sensetop": "qualify for something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He failed to qualify."
+        },
+        {
+          "text": "South Korea **qualified for the finals** when they beat Italy 6–1.",
+          "contextForm": "qualify for something"
+        },
+        {
+          "text": "They qualified for the World Cup."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"],
+      "collocations": {
+        "adverb": ["easily"],
+        "verb + qualify": ["fail to"],
+        "preposition": ["for"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to have or give somebody the right to do something",
+      "sensetop": "qualify for somethingqualify somebodyqualify somebody for something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "To qualify, you must have lived in this country for at least three years."
+        },
+        {
+          "text": "If you live in the area, you qualify for a parking permit.",
+          "contextForm": "qualify for something"
+        },
+        {
+          "text": "In order to qualify for scholarships, students must demonstrate potential for academic excellence."
+        },
+        {
+          "text": "Your educational background, interests and family history are some of the things that might qualify you.",
+          "contextForm": "qualify somebody"
+        },
+        {
+          "text": "Paying a fee doesn't automatically qualify you for membership.",
+          "contextForm": "qualify somebody for something"
+        },
+        {
+          "text": "You will automatically qualify for a pension."
+        },
+        {
+          "text": "people who qualify for the grant on the grounds of disability"
+        },
+        {
+          "text": "Membership of the scheme qualifies you for the discount."
+        },
+        {
+          "text": "You have to be over 60 to qualify."
+        }
+      ],
+      "collocations": {
+        "adverb": ["automatically"],
+        "preposition": ["for"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to have the right qualities to be described as a particular thing",
+      "sensetop": "qualify (as something)qualify something (as something)",
+      "examples": [
+        {
+          "text": "Do you think this dress qualifies as evening wear?",
+          "contextForm": "qualify (as something)"
+        },
+        {
+          "text": "It's an old building, but that doesn't qualify it as an ancient monument!",
+          "contextForm": "qualify something (as something)"
+        }
+      ],
+      "collocations": {
+        "adverb": ["barely", "hardly"],
+        "preposition": ["as"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to add something to a previous statement to make the meaning less strong or less general",
+      "sensetop": "qualify somethingqualify what…",
+      "examples": [
+        {
+          "text": "I want to qualify what I said earlier—I didn't mean he couldn't do the job, only that he would need supervision."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to describe another word in a particular way",
+      "sensetop": "qualify something",
+      "examples": [
+        {
+          "text": "In ‘the open door’, ‘open’ is an adjective qualifying ‘door’."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘describe in a particular way’): from French qualifier, from medieval Latin qualificare, from Latin qualis ‘of what kind, of such a kind’ (see quality)."
+}

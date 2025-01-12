@@ -1,0 +1,79 @@
+{
+  "word": "opt",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɒpt/",
+        "audio": "uk_pron/o/opt/opt__/opt__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɒpts/",
+        "audio": "uk_pron/o/opt/opts_/opts__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈɒptɪd/",
+        "audio": "uk_pron/o/opt/opted/opted__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈɒptɪŋ/",
+        "audio": "uk_pron/o/opt/optin/opting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɑːpt/",
+        "audio": "us_pron/o/opt/opt__/opt__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɑːpts/",
+        "audio": "us_pron/o/opt/opts_/opts__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈɑːptɪd/",
+        "audio": "us_pron/o/opt/opted/opted__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈɑːptɪŋ/",
+        "audio": "us_pron/o/opt/optin/opting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "opt",
+      "heSheIt": "opts"
+    },
+    "pastSimple": "opted",
+    "pastParticiple": "opted",
+    "ingForm": "opting"
+  },
+  "definitions": [
+    {
+      "definition": "to choose to take or not to take a particular course of action",
+      "sensetop": "opt for/against somethingopt to do something",
+      "examples": [
+        {
+          "text": "After graduating she opted for a career in music.",
+          "contextForm": "opt for/against something"
+        },
+        {
+          "text": "After a lot of thought, I opted against buying a motorbike."
+        },
+        {
+          "text": "Many workers opted to leave their jobs rather than take a pay cut.",
+          "contextForm": "opt to do something"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late 19th cent.: from French opter, from Latin optare ‘choose, wish’."
+}

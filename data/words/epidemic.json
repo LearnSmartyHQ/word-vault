@@ -1,0 +1,79 @@
+{
+  "word": "epidemic",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌepɪˈdemɪk/",
+        "audio": "uk_pron/e/epi/epide/epidemic__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌepɪˈdemɪk/",
+        "audio": "us_pron/e/epi/epide/epidemic__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a large number of cases of a particular disease or medical condition happening at the same time in a particular community",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the outbreak of a flu epidemic"
+        },
+        {
+          "text": "An epidemic of measles broke out, and over 200 children died."
+        },
+        {
+          "text": "In Victorian times, London endured regular epidemics of smallpox and cholera."
+        },
+        {
+          "text": "Over fifty people died during the flu epidemic last winter."
+        },
+        {
+          "text": "The worst flu epidemic for 14 years is sweeping the country."
+        }
+      ],
+      "topics": ["Health problems"],
+      "collocations": {
+        "adjective": ["major", "global", "national"],
+        "verb + epidemic": ["become", "combat", "fight"],
+        "epidemic + verb": ["break out", "occur", "strike (something)"],
+        "preposition": [
+          "during an/​the epidemic",
+          "in an/​the epidemic",
+          "epidemic of"
+        ],
+        "phrases": ["reach epidemic proportions"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a sudden rapid increase in how often something bad happens",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "A recent report describes an epidemic of crime in the inner cities."
+        }
+      ],
+      "collocations": {
+        "adjective": ["major", "global", "national"],
+        "verb + epidemic": ["become", "combat", "fight"],
+        "epidemic + verb": ["break out", "occur", "strike (something)"],
+        "preposition": [
+          "during an/​the epidemic",
+          "in an/​the epidemic",
+          "epidemic of"
+        ],
+        "phrases": ["reach epidemic proportions"]
+      }
+    }
+  ],
+  "wordOrigin": "early 17th cent. (as an adjective): from French épidémique, from épidémie, via late Latin from Greek epidēmia ‘prevalence of disease’, from epidēmios ‘prevalent’, from epi ‘upon’ + dēmos ‘the people’."
+}

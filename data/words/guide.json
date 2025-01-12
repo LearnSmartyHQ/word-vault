@@ -1,0 +1,180 @@
+{
+  "word": "guide",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɡaɪd/",
+        "audio": "uk_pron/g/gui/guide/guide__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡaɪd/",
+        "audio": "us_pron/g/gui/guide/guide__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a person who shows other people the way to a place, especially somebody employed to show tourists around interesting places",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Our **tour guide** showed us around the old town."
+        },
+        {
+          "text": "We hired a local guide to get us across the mountains."
+        }
+      ],
+      "topics": ["Holidays"],
+      "collocations": {
+        "adjective": ["tour", "tourist", "experienced"],
+        "verb + guide": ["act as", "be"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a person who advises you on how to live and behave",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "A guru is the spiritual guide of his students."
+        },
+        {
+          "text": "His elder sister had been his guide, counsellor and friend."
+        }
+      ],
+      "topics": ["Suggestions and advice"],
+      "collocations": {
+        "adjective": ["tour", "tourist", "experienced"],
+        "verb + guide": ["act as", "be"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a book, magazine, app, etc. that gives you information, help or instructions about something",
+      "sensetop": "guide to somethingguide to doing somethingguide for somebody/something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Let's have a look at the TV guide and see what's on."
+        },
+        {
+          "text": "a Guide to Family Health",
+          "contextForm": "guide to something"
+        },
+        {
+          "text": "a step-by-step guide to creating your own website",
+          "contextForm": "guide to doing something"
+        },
+        {
+          "text": "study guides for mathematics and physics",
+          "contextForm": "guide for somebody/something"
+        },
+        {
+          "text": "an essential guide for every new parent"
+        },
+        {
+          "text": "The book contains a quick reference guide to essential grammar at the back."
+        },
+        {
+          "text": "This book is the definitive guide to world cuisine."
+        },
+        {
+          "text": "a field guide to British birds"
+        },
+        {
+          "text": "a survival guide for business managers"
+        },
+        {
+          "text": "You can download a brief guide to getting started here."
+        }
+      ],
+      "collocations": {
+        "adjective": ["excellent", "good", "essential"],
+        "preposition": ["guide to"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a book that gives information about a place for travellers or tourists",
+      "sensetop": "guide to something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He has written a number of **travel guides**."
+        },
+        {
+          "text": "I consulted my guide as I walked around the cathedral."
+        },
+        {
+          "text": "a guide to Italy",
+          "contextForm": "guide to something"
+        }
+      ],
+      "collocations": {
+        "adjective": ["holiday", "travel", "hotel"],
+        "verb + guide": ["consult", "write", "publish"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "something that gives you enough information to be able to make a decision about something or form an opinion",
+      "examples": [
+        {
+          "text": "**As a rough guide**, allow half a cup of rice per person."
+        },
+        {
+          "text": "I let my feelings be my guide."
+        },
+        {
+          "text": "Remember, this chart is only a guide."
+        },
+        {
+          "text": "As a general guide, large dogs need more exercise than small ones."
+        },
+        {
+          "text": "Use the table below as a guide to how much detergent to use."
+        },
+        {
+          "text": "As a guide, the largest pie will feed twelve."
+        },
+        {
+          "text": "It should only be used as an approximate guide."
+        },
+        {
+          "text": "These figures should be taken as a rough guide."
+        },
+        {
+          "text": "These figures give a rough guide as to the sales we can expect."
+        }
+      ],
+      "collocations": {
+        "adjective": ["approximate", "general", "rough"],
+        "verb + guide": [
+          "give (somebody)",
+          "provide (somebody with)",
+          "use something as"
+        ],
+        "phrases": ["be just a guide", "be only a guide"],
+        "preposition": ["guide as to", "guide to"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "a member of an organization (called the Guides or the Girl Scouts) that is similar to the Scouts and that trains girls in practical skills and does a lot of activities with them, for example camping",
+      "labels": "old-fashioned(both British English)US English",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French guide (noun), guider (verb), of Germanic origin."
+}

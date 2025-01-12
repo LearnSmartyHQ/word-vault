@@ -1,0 +1,88 @@
+{
+  "word": "decipher",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈsaɪfə(r)/",
+        "audio": "uk_pron/d/dec/decip/decipher__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈsaɪfəz/",
+        "audio": "uk_pron/d/dec/decip/deciphers__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈsaɪfəd/",
+        "audio": "uk_pron/d/dec/decip/deciphered__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈsaɪfərɪŋ/",
+        "audio": "uk_pron/d/dec/decip/deciphering__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈsaɪfər/",
+        "audio": "us_pron/d/dec/decip/decipher__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈsaɪfərz/",
+        "audio": "us_pron/d/dec/decip/deciphers__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈsaɪfərd/",
+        "audio": "us_pron/d/dec/decip/deciphered__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈsaɪfərɪŋ/",
+        "audio": "us_pron/d/dec/decip/deciphering__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "decipher",
+      "heSheIt": "deciphers"
+    },
+    "pastSimple": "deciphered",
+    "pastParticiple": "deciphered",
+    "ingForm": "deciphering"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to convert something written in code into normal language",
+      "sensetop": "decipher something",
+      "examples": [
+        {
+          "text": "They were able to decipher the French military codes."
+        },
+        {
+          "text": "She quickly deciphered the whole message."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to succeed in finding the meaning of something that is difficult to read or understand",
+      "sensetop": "decipher something",
+      "examples": [
+        {
+          "text": "Can anyone decipher his handwriting?"
+        },
+        {
+          "text": "She watched the girl’s expression closely, trying to decipher her meaning."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "early 16th cent.: from de- (expressing reversal) + cipher, on the pattern of French déchiffrer."
+}

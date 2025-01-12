@@ -1,0 +1,111 @@
+{
+  "word": "depict",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈpɪkt/",
+        "audio": "uk_pron/d/dep/depic/depict__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈpɪkts/",
+        "audio": "uk_pron/d/dep/depic/depicts__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈpɪktɪd/",
+        "audio": "uk_pron/d/dep/depic/depicted__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈpɪktɪŋ/",
+        "audio": "uk_pron/d/dep/depic/depicting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈpɪkt/",
+        "audio": "us_pron/d/dep/depic/depict__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈpɪkts/",
+        "audio": "us_pron/d/dep/depic/depicts__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈpɪktɪd/",
+        "audio": "us_pron/d/dep/depic/depicted__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈpɪktɪŋ/",
+        "audio": "us_pron/d/dep/depic/depicting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "depict",
+      "heSheIt": "depicts"
+    },
+    "pastSimple": "depicted",
+    "pastParticiple": "depicted",
+    "ingForm": "depicting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to show an image of somebody/something in a picture",
+      "sensetop": "depict somebody/something (as somebody/something)depict somebody/something doing something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a painting depicting the Virgin and Child",
+          "contextForm": "depict somebody/something (as somebody/something)"
+        },
+        {
+          "text": "The artist had depicted her lying on a bed.",
+          "contextForm": "depict somebody/something doing something"
+        },
+        {
+          "text": "The carving clearly depicts a dragon inside a circle."
+        },
+        {
+          "text": "paintings depicting scenes from mythology"
+        },
+        {
+          "text": "The panels depict scenes from the life of St Ursula."
+        }
+      ],
+      "topics": ["Art"],
+      "collocations": {
+        "adverb": ["graphically", "vividly", "accurately"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to describe something in words, or give an impression of something in words or with a picture",
+      "sensetop": "depict somebody/somethingdepict somebody/something as somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The novel depicts French society in the 1930s.",
+          "contextForm": "depict somebody/something"
+        },
+        {
+          "text": "The advertisements depicted the city as glamorous and exciting.",
+          "contextForm": "depict somebody/something as somebody/something"
+        }
+      ],
+      "topics": ["Literature and writing"],
+      "collocations": {
+        "adverb": ["graphically", "vividly", "accurately"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin depict- ‘portrayed’, from the verb depingere, from de- ‘completely’ + pingere ‘to paint’."
+}

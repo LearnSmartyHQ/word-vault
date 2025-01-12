@@ -1,0 +1,191 @@
+{
+  "word": "persuade",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pəˈsweɪd/",
+        "audio": "uk_pron/p/per/persu/persuade__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pəˈsweɪdz/",
+        "audio": "uk_pron/p/per/persu/persuades__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pəˈsweɪdɪd/",
+        "audio": "uk_pron/p/per/persu/persuaded__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pəˈsweɪdɪŋ/",
+        "audio": "uk_pron/p/per/persu/persuading__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pərˈsweɪd/",
+        "audio": "us_pron/p/per/persu/persuade__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pərˈsweɪdz/",
+        "audio": "us_pron/p/per/persu/persuades__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pərˈsweɪdɪd/",
+        "audio": "us_pron/p/per/persu/persuaded__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pərˈsweɪdɪŋ/",
+        "audio": "us_pron/p/per/persu/persuading__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "persuade",
+      "heSheIt": "persuades"
+    },
+    "pastSimple": "persuaded",
+    "pastParticiple": "persuaded",
+    "ingForm": "persuading"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make somebody do something by giving them good reasons for doing it",
+      "sensetop": "persuade somebody to do somethingpersuade somebodypersuade somebody into somethingpersuade somebody into doing somethingpersuade somebody out of somethingpersuade somebody out of doing something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Try to persuade him to come.",
+          "contextForm": "persuade somebody to do something"
+        },
+        {
+          "text": "Please try and persuade her.",
+          "contextForm": "persuade somebody"
+        },
+        {
+          "text": "She's always easily persuaded."
+        },
+        {
+          "text": "I'm sure he'll come with a bit of persuading."
+        },
+        {
+          "text": "I didn't want to go, but my friends persuaded me into it.",
+          "contextForm": "persuade somebody into something"
+        },
+        {
+          "text": "I allowed myself to be persuaded into entering the competition.",
+          "contextForm": "persuade somebody into doing something"
+        },
+        {
+          "text": "There was no way to persuade him out of it *(= persuade him not to do it)*.",
+          "contextForm": "persuade somebody out of something"
+        },
+        {
+          "text": "My sister persuaded me out of dying my hair.",
+          "contextForm": "persuade somebody out of doing something"
+        },
+        {
+          "text": "Dictators can sometimes be gently persuaded to leave power with special deals that guarantee their safety."
+        },
+        {
+          "text": "He eventually managed to persuade one of the staff to let him in."
+        },
+        {
+          "text": "He somehow persuaded the studio to let him make the film."
+        },
+        {
+          "text": "I was reluctantly persuaded to join the committee."
+        },
+        {
+          "text": "She was easily persuaded to accompany us."
+        },
+        {
+          "text": "The education minister personally persuaded the prime minister to rethink."
+        },
+        {
+          "text": "They had difficulty in persuading the two sides to sit down together."
+        },
+        {
+          "text": "Can you persuade him to come?"
+        },
+        {
+          "text": "an unsuccessful attempt to persuade her colleagues"
+        },
+        {
+          "text": "She was persuaded into buying an expensive dress."
+        },
+        {
+          "text": "Why not invite Larry, if he can be persuaded out of hibernation?"
+        }
+      ],
+      "topics": ["Discussion and agreement"],
+      "collocations": {
+        "adverb": ["successfully", "almost", "eventually"],
+        "verb + persuade": ["attempt to", "seek to", "try to"],
+        "preposition": ["into", "of", "out of"],
+        "phrases": [
+          "an attempt to persuade somebody",
+          "an effort to persuade somebody",
+          "be fully persuaded"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make somebody believe that something is true",
+      "sensetop": "persuade somebody/yourself that…persuade somebodypersuade somebody of something",
+      "labels": "(formal)British English",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "It will be difficult to persuade them that there's no other choice.",
+          "contextForm": "persuade somebody/yourself that…"
+        },
+        {
+          "text": "She had persuaded herself that life was not worth living."
+        },
+        {
+          "text": "No one was persuaded by his arguments.",
+          "contextForm": "persuade somebody"
+        },
+        {
+          "text": "I am still not fully persuaded of the plan's merits.",
+          "contextForm": "persuade somebody of something"
+        },
+        {
+          "text": "It has been difficult to persuade people that we have no political objectives."
+        },
+        {
+          "text": "I am not fully persuaded by these arguments."
+        },
+        {
+          "text": "We must persuade the government of the need for change."
+        }
+      ],
+      "synonyms": "convince",
+      "collocations": {
+        "adverb": ["successfully", "almost", "eventually"],
+        "verb + persuade": ["attempt to", "seek to", "try to"],
+        "preposition": ["into", "of", "out of"],
+        "phrases": [
+          "an attempt to persuade somebody",
+          "an effort to persuade somebody",
+          "be fully persuaded"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": "late 15th cent.: from Latin persuadere, from per- ‘through, to completion’ + suadere ‘advise’."
+}

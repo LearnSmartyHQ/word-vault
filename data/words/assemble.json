@@ -1,0 +1,129 @@
+{
+  "word": "assemble",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈsembl/",
+        "audio": "uk_pron/a/ass/assem/assemble__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈsemblz/",
+        "audio": "uk_pron/a/ass/assem/assembles__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈsembld/",
+        "audio": "uk_pron/a/ass/assem/assembled__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈsemblɪŋ/",
+        "audio": "uk_pron/a/ass/assem/assembling__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈsembl/",
+        "audio": "us_pron/a/ass/assem/assemble__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈsemblz/",
+        "audio": "us_pron/a/ass/assem/assembles__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈsembld/",
+        "audio": "us_pron/a/ass/assem/assembled__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈsemblɪŋ/",
+        "audio": "us_pron/a/ass/assem/assembling__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "assemble",
+      "heSheIt": "assembles"
+    },
+    "pastSimple": "assembled",
+    "pastParticiple": "assembled",
+    "ingForm": "assembling"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to come together as a group; to bring people or things together as a group",
+      "sensetop": "assemble something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "All the students were asked to assemble in the main hall."
+        },
+        {
+          "text": "She then addressed the **assembled company** *(= all the people there)*."
+        },
+        {
+          "text": "to assemble evidence/data",
+          "contextForm": "assemble something"
+        },
+        {
+          "text": "The manager has assembled a world-class team."
+        },
+        {
+          "text": "He tried to assemble his thoughts."
+        },
+        {
+          "text": "We had assembled for the first rehearsal."
+        },
+        {
+          "text": "the force that permits atoms to assemble into molecules"
+        },
+        {
+          "text": "The French began to assemble an army."
+        },
+        {
+          "text": "a hastily assembled force of warriors"
+        }
+      ],
+      "collocations": {
+        "adverb": ["carefully", "hastily", "quickly"],
+        "verb + assemble": ["begin to", "manage to", "be easy to"],
+        "preposition": ["for", "into"],
+        "phrases": ["fully assembled", "partially assembled"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to fit together all the separate parts of something, for example a piece of furniture",
+      "sensetop": "assemble something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The shelves are easy to assemble."
+        },
+        {
+          "text": "The company assembles vehicles for Renault and Toyota."
+        },
+        {
+          "text": "The shelves are available in kit form or fully assembled."
+        }
+      ],
+      "topics": ["Business", "Buildings"],
+      "collocations": {
+        "adverb": ["carefully", "hastily", "quickly"],
+        "verb + assemble": ["begin to", "manage to", "be easy to"],
+        "preposition": ["for", "into"],
+        "phrases": ["fully assembled", "partially assembled"]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French asembler, based on Latin ad- ‘to’ + simul ‘together’."
+}

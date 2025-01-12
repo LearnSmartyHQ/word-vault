@@ -1,0 +1,86 @@
+{
+  "word": "abstract",
+  "partOfSpeech": "adjective",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈæbstrækt/",
+        "audio": "uk_pron/a/abs/abstr/abstract__gb_5.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈæbstrækt/",
+        "audio": "us_pron/a/abs/abstr/abstract__us_2_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "based on general ideas and not on any particular real person, thing or situation",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "**abstract knowledge/principles**"
+        },
+        {
+          "text": "The research shows that pre-school children are capable of thinking in abstract terms."
+        },
+        {
+          "text": "Abstract principles are no good in this particular situation."
+        },
+        {
+          "text": "All human beings are capable of thinking in abstract terms."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be"],
+        "adverb": ["extremely", "fairly", "very"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "existing in thought or as an idea but not having a physical reality",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "We may talk of beautiful things but beauty itself is abstract."
+        },
+        {
+          "text": "Mathematics is an extremely abstract discipline."
+        },
+        {
+          "text": "Some of the ideas that their legal system is based on are incredibly abstract."
+        },
+        {
+          "text": "Freedom is more than a purely abstract notion."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be"],
+        "adverb": ["extremely", "fairly", "very"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "not representing people or things in a realistic way, but expressing the artist’s ideas about them",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "the work of American abstract expressionists like Mark Rothko"
+        }
+      ],
+      "topics": ["Art"],
+      "collocations": {
+        "verbs": ["be"],
+        "adverb": ["extremely", "fairly", "very"]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English: from Latin abstractus, literally ‘drawn away’, past participle of abstrahere, from ab- ‘from’ + trahere ‘draw off’."
+}

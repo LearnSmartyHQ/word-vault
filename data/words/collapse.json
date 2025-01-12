@@ -1,0 +1,209 @@
+{
+  "word": "collapse",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəˈlæps/",
+        "audio": "uk_pron/c/col/colla/collapse__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəˈlæpsɪz/",
+        "audio": "uk_pron/c/col/colla/collapses__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəˈlæpst/",
+        "audio": "uk_pron/c/col/colla/collapsed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəˈlæpsɪŋ/",
+        "audio": "uk_pron/c/col/colla/collapsing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəˈlæps/",
+        "audio": "us_pron/c/col/colla/collapse__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəˈlæpsɪz/",
+        "audio": "us_pron/c/col/colla/collapses__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəˈlæpst/",
+        "audio": "us_pron/c/col/colla/collapsed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəˈlæpsɪŋ/",
+        "audio": "us_pron/c/col/colla/collapsing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "collapse",
+      "heSheIt": "collapses"
+    },
+    "pastSimple": "collapsed",
+    "pastParticiple": "collapsed",
+    "ingForm": "collapsing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to fall down or fall in suddenly, often after breaking apart",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The roof collapsed under the weight of snow."
+        },
+        {
+          "text": "The building had partially collapsed."
+        },
+        {
+          "text": "Several buildings have collapsed into the ocean."
+        },
+        {
+          "text": "Timber buildings may simply rot and collapse."
+        }
+      ],
+      "topics": ["Buildings"],
+      "collocations": {
+        "adverb": ["completely"],
+        "preposition": ["into", "under"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to fall down (and usually become unconscious), especially because you are very ill",
+      "sensetop": "collapse + adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She collapsed and was rushed to hospital."
+        },
+        {
+          "text": "The man collapsed in a heap on the floor.",
+          "contextForm": "collapse + adv./prep."
+        },
+        {
+          "text": "He collapsed in the street and died two hours later."
+        },
+        {
+          "text": "One night I practically collapsed from exhaustion."
+        },
+        {
+          "text": "He collapsed with shock."
+        },
+        {
+          "text": "She collapsed suddenly from a heart attack."
+        },
+        {
+          "text": "The man collapsed against the wall and slid down it."
+        },
+        {
+          "text": "They finally arrived, collapsing from fatigue."
+        }
+      ],
+      "topics": ["Health problems"],
+      "collocations": {
+        "adverb": ["suddenly", "immediately", "almost"],
+        "preposition": ["against", "from", "with"],
+        "phrases": ["collapse in a heap"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to sit or lie down and relax, especially after working hard",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "When I get home I like to collapse on the sofa and listen to music."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to fail suddenly or completely",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Talks between management and unions have collapsed."
+        },
+        {
+          "text": "All opposition to the plan has collapsed."
+        },
+        {
+          "text": "The home side collapsed spectacularly in the second half."
+        },
+        {
+          "text": "The coalition collapsed under the pressure of differences between the two parties."
+        },
+        {
+          "text": "His building firm collapsed and he went bankrupt."
+        },
+        {
+          "text": "The scheme collapsed in the face of determined opposition."
+        },
+        {
+          "text": "The region's economy has virtually collapsed."
+        },
+        {
+          "text": "In November the strike finally collapsed."
+        }
+      ],
+      "topics": ["Difficulty and failure"],
+      "collocations": {
+        "adverb": ["eventually", "finally", "quickly"],
+        "phrases": ["to collapse in the face of something"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to decrease suddenly in amount or value",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Share prices collapsed after news of poor trading figures."
+        },
+        {
+          "text": "She lost a lot of money when the property market collapsed."
+        }
+      ],
+      "topics": ["Change, cause and effect", "Money"]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to fold something into a shape that uses less space; to be able to be folded in this way",
+      "sensetop": "collapse (something)",
+      "examples": [
+        {
+          "text": "The table collapses for easy storage."
+        }
+      ],
+      "synonyms": "fold"
+    },
+    {
+      "senseNumber": "7",
+      "definition": "if a lung or blood vessel collapses or is collapsed, it falls in and becomes flat and empty",
+      "sensetop": "collapse (something)",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Health problems"]
+    }
+  ],
+  "wordOrigin": "early 17th cent. (as collapsed): from medical Latin collapsus, past participle of collabi, from col- ‘together’ + labi ‘to slip’."
+}

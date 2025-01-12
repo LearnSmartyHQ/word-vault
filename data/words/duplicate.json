@@ -1,0 +1,94 @@
+{
+  "word": "duplicate",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdjuːplɪkeɪt/",
+        "audio": "uk_pron/d/dup/dupli/duplicate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdjuːplɪkeɪts/",
+        "audio": "uk_pron/d/dup/dupli/duplicates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdjuːplɪkeɪtɪd/",
+        "audio": "uk_pron/d/dup/dupli/duplicated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdjuːplɪkeɪtɪŋ/",
+        "audio": "uk_pron/d/dup/dupli/duplicating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈduːplɪkeɪt/",
+        "audio": "us_pron/d/dup/dupli/duplicate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈduːplɪkeɪts/",
+        "audio": "us_pron/d/dup/dupli/duplicates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈduːplɪkeɪtɪd/",
+        "audio": "us_pron/d/dup/dupli/duplicated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈduːplɪkeɪtɪŋ/",
+        "audio": "us_pron/d/dup/dupli/duplicating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "duplicate",
+      "heSheIt": "duplicates"
+    },
+    "pastSimple": "duplicated",
+    "pastParticiple": "duplicated",
+    "ingForm": "duplicating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make an exact copy of something",
+      "sensetop": "duplicate something",
+      "examples": [
+        {
+          "text": "Please keep the duplicated form and send us the original."
+        },
+        {
+          "text": "This is a natural look which you can easily duplicate at home."
+        }
+      ],
+      "collocations": {
+        "adverb": ["exactly", "simply", "easily"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to do something again, especially when it is unnecessary",
+      "sensetop": "duplicate something",
+      "examples": [
+        {
+          "text": "There's no point in duplicating work already done."
+        },
+        {
+          "text": "The original experiment cannot be exactly duplicated."
+        }
+      ],
+      "collocations": {
+        "adverb": ["exactly", "simply", "easily"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘having two corresponding parts’): from Latin duplicat- ‘doubled’, from the verb duplicare, from duplic- ‘twofold’, from duo ‘two’ + plicare ‘to fold’."
+}

@@ -1,0 +1,178 @@
+{
+  "word": "navigate",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈnævɪɡeɪt/",
+        "audio": "uk_pron/n/nav/navig/navigate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈnævɪɡeɪts/",
+        "audio": "uk_pron/n/nav/navig/navigates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈnævɪɡeɪtɪd/",
+        "audio": "uk_pron/n/nav/navig/navigated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈnævɪɡeɪtɪŋ/",
+        "audio": "uk_pron/n/nav/navig/navigating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈnævɪɡeɪt/",
+        "audio": "us_pron/n/nav/navig/navigate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈnævɪɡeɪts/",
+        "audio": "us_pron/n/nav/navig/navigates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈnævɪɡeɪtɪd/",
+        "audio": "us_pron/n/nav/navig/navigated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈnævɪɡeɪtɪŋ/",
+        "audio": "us_pron/n/nav/navig/navigating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "navigate",
+      "heSheIt": "navigates"
+    },
+    "pastSimple": "navigated",
+    "pastParticiple": "navigated",
+    "ingForm": "navigating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to plan and direct the course of ship, plane, car etc., for example by using a map",
+      "sensetop": "navigate through somethingnavigate your way…",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "to navigate by the stars"
+        },
+        {
+          "text": "I'll drive, and you can navigate."
+        },
+        {
+          "text": "There's nothing worse than navigating through heavy traffic.",
+          "contextForm": "navigate through something"
+        },
+        {
+          "text": "How do you navigate your way through a forest?",
+          "contextForm": "navigate your way…"
+        },
+        {
+          "text": "Pigeons navigate less accurately when the earth's magnetic field is disturbed."
+        },
+        {
+          "text": "She became expert in driving and navigating across the desert."
+        },
+        {
+          "text": "These birds navigate by the sun."
+        },
+        {
+          "text": "learning to navigate your way through a forest"
+        },
+        {
+          "text": "Most planes now use computer technology to navigate."
+        },
+        {
+          "text": "Every day the ship carefully navigated through the channels of blue icebergs."
+        },
+        {
+          "text": "Ships used to be navigated by the stars."
+        }
+      ],
+      "topics": [
+        "Transport by water",
+        "Transport by air",
+        "Transport by car or lorry"
+      ],
+      "collocations": {
+        "adverb": ["safely", "carefully", "successfully"],
+        "preposition": ["by", "across", "through"],
+        "phrases": ["navigate your way"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to sail along, over or through a sea, river etc.",
+      "sensetop": "navigate something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The river became too narrow and shallow to navigate."
+        },
+        {
+          "text": "Only the best-trained captains could safely navigate these routes."
+        }
+      ],
+      "topics": ["Transport by water"],
+      "collocations": {
+        "adverb": ["safely", "carefully", "successfully"],
+        "preposition": ["by", "across", "through"],
+        "phrases": ["navigate your way"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to find the right way to deal with a difficult or complicated situation",
+      "sensetop": "navigate something",
+      "examples": [
+        {
+          "text": "We next had to navigate a complex network of committees."
+        },
+        {
+          "text": "Those who successfully navigate this social minefield are accepted by the royal family."
+        },
+        {
+          "text": "She managed to successfully navigate the complex world of corporate finance."
+        }
+      ],
+      "collocations": {
+        "adverb": ["safely", "carefully", "successfully"],
+        "preposition": ["by", "across", "through"],
+        "phrases": ["navigate your way"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to find your way around on the internet or on a particular website",
+      "sensetop": "navigate (through) something",
+      "labels": "(computing)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Customers will be able to navigate easily throughout the site."
+        },
+        {
+          "text": "Lots of these sites are hard to navigate through.",
+          "contextForm": "navigate (through) something"
+        }
+      ],
+      "topics": ["Phones, email and the internet"],
+      "collocations": {
+        "adverb": ["safely", "carefully", "successfully"],
+        "preposition": ["by", "across", "through"],
+        "phrases": ["navigate your way"]
+      }
+    }
+  ],
+  "wordOrigin": "late 16th cent. (in the sense ‘travel in a ship’): from Latin navigat- ‘sailed’, from the verb navigare, from navis ‘ship’ + agere ‘drive’."
+}

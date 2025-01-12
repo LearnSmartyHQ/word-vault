@@ -1,0 +1,159 @@
+{
+  "word": "calculate",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkælkjuleɪt/",
+        "audio": "uk_pron/c/cal/calcu/calculate__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkælkjuleɪts/",
+        "audio": "uk_pron/c/cal/calcu/calculates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkælkjuleɪtɪd/",
+        "audio": "uk_pron/c/cal/calcu/calculated__gb_4.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkælkjuleɪtɪŋ/",
+        "audio": "uk_pron/c/cal/calcu/calculating__gb_4.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkælkjuleɪt/",
+        "audio": "us_pron/c/cal/calcu/calculate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkælkjuleɪts/",
+        "audio": "us_pron/c/cal/calcu/calculates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkælkjuleɪtɪd/",
+        "audio": "us_pron/c/cal/calcu/calculated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkælkjuleɪtɪŋ/",
+        "audio": "us_pron/c/cal/calcu/calculating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "calculate",
+      "heSheIt": "calculates"
+    },
+    "pastSimple": "calculated",
+    "pastParticiple": "calculated",
+    "ingForm": "calculating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to use numbers to find out a total number, amount, distance, etc.",
+      "sensetop": "calculate somethingcalculate something from somethingcalculate something by somethingcalculate something by doing somethingcalculate how much, what, etc.it is calculated that…be calculated at…",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "An independent valuer will **calculate the value** of your property.",
+          "contextForm": "calculate something"
+        },
+        {
+          "text": "That figure was **calculated using** the standard equation."
+        },
+        {
+          "text": "Use the formula to calculate the volume of the container."
+        },
+        {
+          "text": "We haven’t really calculated the cost of the vacation yet."
+        },
+        {
+          "text": "Benefit is calculated on the basis of average weekly earnings."
+        },
+        {
+          "text": "Expected cancer **rates were calculated** from data from the eight surrounding counties.",
+          "contextForm": "calculate something from something"
+        },
+        {
+          "text": "The daily doses were calculated by a somewhat simpler method.",
+          "contextForm": "calculate something by something"
+        },
+        {
+          "text": "The ratio is calculated by dividing a company's share price by its earnings per share.",
+          "contextForm": "calculate something by doing something"
+        },
+        {
+          "text": "You'll need to calculate how much time the assignment will take.",
+          "contextForm": "calculate how much, what, etc."
+        },
+        {
+          "text": "It has been calculated that at least 47 000 jobs were lost last year.",
+          "contextForm": "it is calculated that…"
+        },
+        {
+          "text": "The sum involved was calculated at $82 million.",
+          "contextForm": "be calculated at…"
+        },
+        {
+          "text": "It's difficult to calculate precisely what we've spent."
+        },
+        {
+          "text": "The amount is calculated according to the number of years you have paid into the plan."
+        }
+      ],
+      "synonyms": "work out",
+      "topics": ["Maths and measurement"],
+      "collocations": {
+        "adverb": ["accurately", "exactly", "precisely"],
+        "preposition": ["according to", "at"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to guess something or form an opinion by using all the information available",
+      "sensetop": "calculate that…calculate how much, what, etc.calculate something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Conservationists calculate that hundreds of species could be lost in this area.",
+          "contextForm": "calculate that…"
+        },
+        {
+          "text": "It is impossible to calculate what influence he had on her life.",
+          "contextForm": "calculate how much, what, etc."
+        },
+        {
+          "text": "How does one calculate the extent of the damage to his reputation?",
+          "contextForm": "calculate something"
+        },
+        {
+          "text": "Calculating that he would not be home yet, I slipped in through the back door."
+        },
+        {
+          "text": "Environmentalists calculate that hundreds of plant species may be affected."
+        },
+        {
+          "text": "I tried to calculate how much time it would take me to get there."
+        }
+      ],
+      "synonyms": "estimate",
+      "topics": ["Opinion and argument", "Doubt, guessing and certainty"],
+      "collocations": {
+        "adverb": ["carefully", "shrewdly", "correctly"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from late Latin calculat- ‘counted’, from the verb calculare, from calculus ‘a small pebble (as used on an abacus)’."
+}

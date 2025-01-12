@@ -1,0 +1,88 @@
+{
+  "word": "magnitude",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmæɡnɪtjuːd/",
+        "audio": "uk_pron/m/mag/magni/magnitude__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmæɡnɪtuːd/",
+        "audio": "us_pron/m/mag/magni/magnitude__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the great size or importance of something; the degree to which something is large or important",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "We did not realize the magnitude of the problem."
+        },
+        {
+          "text": "a discovery **of the first magnitude**"
+        },
+        {
+          "text": "The effects were substantial in magnitude."
+        },
+        {
+          "text": "They appear to underestimate the magnitude of such influences."
+        },
+        {
+          "text": "We will face challenges of a similar magnitude."
+        },
+        {
+          "text": "We are talking about something of a different order of magnitude."
+        },
+        {
+          "text": "a fall in costs of sufficient magnitude to enable us to reduce prices"
+        }
+      ],
+      "collocations": {
+        "adjective": ["considerable", "great", "unprecedented"],
+        "verb + magnitude": ["appreciate", "comprehend", "grasp"],
+        "preposition": ["in magnitude"],
+        "phrases": [
+          "of the first magnitude",
+          "of comparable magnitude",
+          "of similar magnitude"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the degree to which a star is bright",
+      "labels": "(astronomy)",
+      "examples": [
+        {
+          "text": "The star varies in brightness by about three magnitudes."
+        },
+        {
+          "text": "Stars of the first magnitude are visible to the naked eye."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the size of an earthquake",
+      "labels": "(geology)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The quake reached a magnitude of 7.1 on the Richter scale."
+        }
+      ],
+      "topics": ["The environment"]
+    }
+  ],
+  "wordOrigin": "late Middle English (also in the sense ‘greatness of character’): from Latin magnitudo, from magnus ‘great’."
+}

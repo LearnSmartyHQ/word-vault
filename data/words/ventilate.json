@@ -1,0 +1,93 @@
+{
+  "word": "ventilate",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈventɪleɪt/",
+        "audio": "uk_pron/v/ven/venti/ventilate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈventɪleɪts/",
+        "audio": "uk_pron/v/ven/venti/ventilates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈventɪleɪtɪd/",
+        "audio": "uk_pron/v/ven/venti/ventilated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈventɪleɪtɪŋ/",
+        "audio": "uk_pron/v/ven/venti/ventilating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈventɪleɪt/",
+        "audio": "us_pron/v/ven/venti/ventilate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈventɪleɪts/",
+        "audio": "us_pron/v/ven/venti/ventilates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈventɪleɪtɪd/",
+        "audio": "us_pron/v/ven/venti/ventilated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈventɪleɪtɪŋ/",
+        "audio": "us_pron/v/ven/venti/ventilating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "ventilate",
+      "heSheIt": "ventilates"
+    },
+    "pastSimple": "ventilated",
+    "pastParticiple": "ventilated",
+    "ingForm": "ventilating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to allow fresh air to enter and move around a room, building, etc.",
+      "sensetop": "be ventilated (by something)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The bathroom is ventilated by means of an extractor fan.",
+          "contextForm": "be ventilated (by something)"
+        },
+        {
+          "text": "The building is naturally ventilated."
+        },
+        {
+          "text": "a well-ventilated room"
+        }
+      ],
+      "topics": ["Buildings"],
+      "collocations": {
+        "adverb": ["adequately", "properly", "well"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to express your feelings or opinions publicly",
+      "sensetop": "ventilate something",
+      "labels": "(formal)",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Opinion and argument"]
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘winnow, scatter’): from Latin ventilat- ‘blown, winnowed’, from the verb ventilare, from ventus ‘wind’. Sense 1 dates from the mid 18th cent."
+}

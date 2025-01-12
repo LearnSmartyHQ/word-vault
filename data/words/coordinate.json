@@ -1,0 +1,124 @@
+{
+  "word": "coordinate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəʊˈɔːdɪneɪt/",
+        "audio": "uk_pron/c/coo/coord/coordinate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəʊˈɔːdɪneɪts/",
+        "audio": "uk_pron/c/coo/coord/coordinates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəʊˈɔːdɪneɪtɪd/",
+        "audio": "uk_pron/c/coo/coord/coordinated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəʊˈɔːdɪneɪtɪŋ/",
+        "audio": "uk_pron/c/coo/coord/coordinating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəʊˈɔːrdɪneɪt/",
+        "audio": "us_pron/c/coo/coord/coordinate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəʊˈɔːrdɪneɪts/",
+        "audio": "us_pron/c/coo/coord/coordinates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəʊˈɔːrdɪneɪtɪd/",
+        "audio": "us_pron/c/coo/coord/coordinated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəʊˈɔːrdɪneɪtɪŋ/",
+        "audio": "us_pron/c/coo/coord/coordinating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "coordinate",
+      "heSheIt": "coordinates"
+    },
+    "pastSimple": "coordinated",
+    "pastParticiple": "coordinated",
+    "ingForm": "coordinating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to organize the different parts of an activity and the people involved in it so that it works well",
+      "sensetop": "coordinate somethingcoordinate something with something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They appointed a new manager to coordinate the work of the team.",
+          "contextForm": "coordinate something"
+        },
+        {
+          "text": "We need to develop a coordinated approach to the problem."
+        },
+        {
+          "text": "a carefully coordinated policy"
+        },
+        {
+          "text": "We try to coordinate our activities with those of other groups.",
+          "contextForm": "coordinate something with something"
+        }
+      ],
+      "topics": ["Discussion and agreement"],
+      "collocations": {
+        "adverb": ["carefully", "closely", "highly"],
+        "preposition": ["with"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make the different parts of your body work well together",
+      "sensetop": "coordinate something",
+      "examples": [
+        {
+          "text": "the part of the brain that coordinates body movements"
+        }
+      ],
+      "collocations": {
+        "adverb": ["carefully", "closely", "highly"],
+        "preposition": ["with"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "if you coordinate clothes, furniture, etc. or if they coordinate, they look nice together",
+      "sensetop": "coordinate (something) (with something)",
+      "labels": "(rather formal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "This shade coordinates with a wide range of other colours."
+        },
+        {
+          "text": "The company has extended its coordinated clothing range."
+        }
+      ],
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adverb": ["carefully", "closely", "highly"],
+        "preposition": ["with"]
+      }
+    }
+  ],
+  "wordOrigin": "mid 17th cent. (in the senses ‘of the same rank’ and ‘place in the same rank’): from co- ‘together’ + Latin ordinare (from ordo ‘order’), on the pattern of subordinate."
+}

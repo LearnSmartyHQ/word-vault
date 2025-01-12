@@ -1,0 +1,173 @@
+{
+  "word": "contemplate",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkɒntəmpleɪt/",
+        "audio": "uk_pron/x/xco/xcont/xcontemplate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkɒntəmpleɪts/",
+        "audio": "uk_pron/x/xco/xcont/xcontemplates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkɒntəmpleɪtɪd/",
+        "audio": "uk_pron/x/xco/xcont/xcontemplated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkɒntəmpleɪtɪŋ/",
+        "audio": "uk_pron/x/xco/xcont/xcontemplating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkɑːntəmpleɪt/",
+        "audio": "us_pron/x/xco/xcont/xcontemplate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkɑːntəmpleɪts/",
+        "audio": "us_pron/x/xco/xcont/xcontemplates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkɑːntəmpleɪtɪd/",
+        "audio": "us_pron/x/xco/xcont/xcontemplated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkɑːntəmpleɪtɪŋ/",
+        "audio": "us_pron/x/xco/xcont/xcontemplating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "contemplate",
+      "heSheIt": "contemplates"
+    },
+    "pastSimple": "contemplated",
+    "pastParticiple": "contemplated",
+    "ingForm": "contemplating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to think about whether you should do something, or how you should do something",
+      "sensetop": "contemplate somethingcontemplate doing somethingcontemplate how/what, etc…",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "You're too young to be contemplating retirement.",
+          "contextForm": "contemplate something"
+        },
+        {
+          "text": "I have never contemplated living abroad.",
+          "contextForm": "contemplate doing something"
+        },
+        {
+          "text": "He continued while she contemplated how to answer.",
+          "contextForm": "contemplate how/what, etc…"
+        },
+        {
+          "text": "Are you willing to contemplate retraining?"
+        },
+        {
+          "text": "He was very depressed and even contemplated suicide."
+        },
+        {
+          "text": "She contemplated a change of direction in her life"
+        },
+        {
+          "text": "I was seriously contemplating moving to Mexico."
+        },
+        {
+          "text": "She was seriously contemplating working abroad."
+        },
+        {
+          "text": "We're contemplating the possibility of moving house."
+        },
+        {
+          "text": "He's only 55, but he's already contemplating retirement."
+        }
+      ],
+      "synonyms": "consider, think about/of",
+      "collocations": {
+        "adverb": ["seriously", "even"],
+        "verb + contemplate": ["be prepared to", "be willing to", "cannot"],
+        "phrases": ["too awful to contemplate", "too horrible to contemplate"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to think carefully about and accept the possibility of something happening",
+      "sensetop": "contemplate somethingcontemplate how/what, etc…contemplate that…",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The thought of war is too awful to contemplate.",
+          "contextForm": "contemplate something"
+        },
+        {
+          "text": "How could you even contemplate such an idea?"
+        },
+        {
+          "text": "I can't contemplate what it would be like to be alone.",
+          "contextForm": "contemplate how/what, etc…"
+        },
+        {
+          "text": "She contemplated that things might get even worse.",
+          "contextForm": "contemplate that…"
+        }
+      ],
+      "collocations": {
+        "adverb": ["seriously", "even"],
+        "verb + contemplate": ["be prepared to", "be willing to", "cannot"],
+        "phrases": ["too awful to contemplate", "too horrible to contemplate"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to think deeply about something for a long time",
+      "sensetop": "contemplate (something)",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "to contemplate your future"
+        },
+        {
+          "text": "She lay in bed, contemplating."
+        }
+      ],
+      "collocations": {
+        "adverb": ["seriously", "even"],
+        "verb + contemplate": ["be prepared to", "be willing to", "cannot"],
+        "phrases": ["too awful to contemplate", "too horrible to contemplate"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to look at somebody/something in a careful way for a long time",
+      "sensetop": "contemplate somebody/something",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She contemplated him in silence."
+        },
+        {
+          "text": "He sat there, contemplating his fingernails."
+        }
+      ],
+      "synonyms": "stare at"
+    }
+  ],
+  "wordOrigin": "late 16th cent.: from Latin contemplat- ‘surveyed, observed, contemplated’, from the verb contemplari, based on templum ‘place for observation’."
+}

@@ -1,0 +1,230 @@
+{
+  "word": "quote",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kwəʊt/",
+        "audio": "uk_pron/q/quo/quote/quote__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kwəʊts/",
+        "audio": "uk_pron/q/quo/quote/quotes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkwəʊtɪd/",
+        "audio": "uk_pron/q/quo/quote/quoted__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkwəʊtɪŋ/",
+        "audio": "uk_pron/q/quo/quoti/quoting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kwəʊt/",
+        "audio": "us_pron/q/quo/quote/quote__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kwəʊts/",
+        "audio": "us_pron/q/quo/quote/quotes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkwəʊtɪd/",
+        "audio": "us_pron/q/quo/quote/quoted__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkwəʊtɪŋ/",
+        "audio": "us_pron/q/quo/quoti/quoting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "quote",
+      "heSheIt": "quotes"
+    },
+    "pastSimple": "quoted",
+    "pastParticiple": "quoted",
+    "ingForm": "quoting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to repeat the exact words that another person has said or written",
+      "sensetop": "quote somethingquote something from somethingquote from somethingquote somebody/something in somethingquote somebodyquote somebody as doing somethingquote somebody on somethingquote + speech",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to quote Shakespeare",
+          "contextForm": "quote something"
+        },
+        {
+          "text": "He quoted a passage from the minister's speech.",
+          "contextForm": "quote something from something"
+        },
+        {
+          "text": "They quoted from the Bible.",
+          "contextForm": "quote from something"
+        },
+        {
+          "text": "Quote this reference number in all correspondence.",
+          "contextForm": "quote somebody/something in something"
+        },
+        {
+          "text": "He was widely quoted in the American media."
+        },
+        {
+          "text": "The figures quoted in this article refer only to Britain."
+        },
+        {
+          "text": "Jude is one of three people **quoted in the story**."
+        },
+        {
+          "text": "to **quote an expert/an official/a source**",
+          "contextForm": "quote somebody"
+        },
+        {
+          "text": "The minister claimed he had been selectively quoted."
+        },
+        {
+          "text": "The President was **quoted** in the press **as saying** that he disagreed with the decision.",
+          "contextForm": "quote somebody as doing something"
+        },
+        {
+          "text": "She said, and I quote, ‘Life is meaningless without love.’"
+        },
+        {
+          "text": "‘It will all be gone tomorrow.’ ‘**Can I quote you on that?**’",
+          "contextForm": "quote somebody on something"
+        },
+        {
+          "text": "**Don't quote me on this** *(= this is not an official statement)*, but I think he is going to resign."
+        },
+        {
+          "text": "‘The man who is tired of London is tired of life,’ he quoted.",
+          "contextForm": "quote + speech"
+        },
+        {
+          "text": "She quotes extensively from the author's diaries."
+        },
+        {
+          "text": "They said they were quoting from a recent report."
+        },
+        {
+          "text": "The passage is quoted in full."
+        },
+        {
+          "text": "He is wrongly quoted as saying ‘Play it again, Sam.’"
+        }
+      ],
+      "topics": ["Literature and writing", "Language"],
+      "collocations": {
+        "adverb": ["at length", "extensively", "in full"],
+        "preposition": ["as", "from"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to mention an example of something to support what you are saying",
+      "sensetop": "quote (somebody) somethingquote something as something",
+      "examples": [
+        {
+          "text": "Can you quote me an instance of when this happened?",
+          "contextForm": "quote (somebody) something"
+        },
+        {
+          "text": "an example that is often quoted as evidence of mismanagement",
+          "contextForm": "quote something as something"
+        },
+        {
+          "text": "He quoted one case in which a person had died in a fire."
+        },
+        {
+          "text": "the most widely quoted and influential study in this field"
+        }
+      ],
+      "collocations": {
+        "adverb": ["frequently", "often"],
+        "preposition": ["as", "on"],
+        "phrases": ["widely quoted"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to tell a customer how much money you will charge them for a job, service or product",
+      "sensetop": "quote somethingquote something for (doing) somethingquote somebody somethingquote somebody something for (doing) something",
+      "examples": [
+        {
+          "text": "The agent is quoting a guide price of €250 000.",
+          "contextForm": "quote something"
+        },
+        {
+          "text": "The price they quoted for the kitchen was too high.",
+          "contextForm": "quote something for (doing) something"
+        },
+        {
+          "text": "A garage quoted him £80.",
+          "contextForm": "quote somebody something"
+        },
+        {
+          "text": "They quoted us £300 for installing a shower unit.",
+          "contextForm": "quote somebody something for (doing) something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to give a market price for shares, gold or foreign money",
+      "sensetop": "quote something (at something)",
+      "labels": "(finance)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Yesterday the pound was quoted at $1.8285, unchanged from Monday."
+        }
+      ],
+      "topics": ["Money"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to give the prices for a business company’s shares on a stock exchange",
+      "sensetop": "quote something",
+      "labels": "(finance)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Several football clubs are now quoted on the Stock Exchange."
+        },
+        {
+          "text": "publicly quoted companies"
+        }
+      ],
+      "topics": ["Money"]
+    },
+    {
+      "definition": "used to show the beginning (and end) of a word, phrase, etc. that has been said or written by somebody else",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "It was quote, ‘the hardest decision of my life’, unquote, and one that he lived to regret."
+        },
+        {
+          "text": "now that the, quote, unquote, ‘real story’ has begun"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from medieval Latin quotare, from quot ‘how many’, or from medieval Latin quota. The original sense was ‘mark a book with numbers, or with marginal references’, later ‘give a reference by page or chapter’, hence ‘cite a text or person’ (late 16th cent.)."
+}

@@ -1,0 +1,81 @@
+{
+  "word": "complement",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkɒmplɪment/",
+        "audio": "uk_pron/c/com/compl/complement__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkɒmplɪments/",
+        "audio": "uk_pron/c/com/compl/complements__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkɒmplɪmentɪd/",
+        "audio": "uk_pron/c/com/compl/complemented__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkɒmplɪmentɪŋ/",
+        "audio": "uk_pron/c/com/compl/complementing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkɑːmplɪment/",
+        "audio": "us_pron/c/com/compl/complement__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkɑːmplɪments/",
+        "audio": "us_pron/c/com/compl/complements__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkɑːmplɪmentɪd/",
+        "audio": "us_pron/c/com/compl/complemented__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkɑːmplɪmentɪŋ/",
+        "audio": "us_pron/c/com/compl/complementing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "complement",
+      "heSheIt": "complements"
+    },
+    "pastSimple": "complemented",
+    "pastParticiple": "complemented",
+    "ingForm": "complementing"
+  },
+  "definitions": [
+    {
+      "definition": "to add to something in a way that improves it or makes it more attractive",
+      "sensetop": "complement something",
+      "examples": [
+        {
+          "text": "The excellent menu is complemented by a good wine list."
+        },
+        {
+          "text": "The team needs players who **complement each other**."
+        },
+        {
+          "text": "The flavours in the dish complement each other perfectly."
+        }
+      ],
+      "collocations": {
+        "adverb": ["nicely", "well", "perfectly"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘completion’): from Latin complementum, from complere ‘fill up’, from com- (expressing intensive force) + plere ‘fill’. Compare with compliment."
+}
