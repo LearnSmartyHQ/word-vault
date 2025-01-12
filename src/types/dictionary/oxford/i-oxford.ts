@@ -1,5 +1,5 @@
-import { IIdiom } from "./i-idiom";
-import { LevelA2CTypes } from "./level-a2c-types";
+import { IIdiom } from "../i-idiom";
+import { LevelA2CTypes } from "../level-a2c-types";
 
 export interface IOxford {
   pronunciations: {
