@@ -1,6 +1,6 @@
 {
   "name": "word-vault",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "A lightweight JavaScript package for English word definitions and collections.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -36,7 +36,7 @@
   },
   "files": [
     "dist",
-    "assets",
+    "data",
     "README.md"
   ],
   "devDependencies": {
