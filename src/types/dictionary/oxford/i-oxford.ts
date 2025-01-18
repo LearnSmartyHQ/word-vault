@@ -2,15 +2,25 @@ import { IIdiom } from "../i-idiom";
 import { LevelA2CTypes } from "../level-a2c-types";
 
 export interface IOxford {
-  pronunciations: {
-    uk: string[];
-    us: string[];
-  };
+  pronunciations: IOxfordPronunciations;
   verbForms?: IOxfordVerbForms;
   level: LevelA2CTypes;
   definitions: IOxfordDefinition[];
   wordOrigin: string;
   idioms: IIdiom[];
+}
+
+export interface IOxfordPronunciations {
+  uk: IOxfordPronunciation[];
+  us: IOxfordPronunciation[];
+}
+
+export type IOxfordPronunciationRegion = 'uk' | 'us';
+
+export interface IOxfordPronunciation {
+  pronunciation: string;
+  audio: string;
+  region: IOxfordPronunciationRegion;
 }
 
 export interface IOxfordDefinition {
