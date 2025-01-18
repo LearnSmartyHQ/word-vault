@@ -3,3 +3,5 @@ export * from './getAllCollections';
 export * from './getCollectionCategories';
 export * from './getCollectionCategoryBySlug';
 export * from './getCollectionsByStatus';
+export * from './getCollectionsTotalCards';
+export * from './searchWordInCollections';

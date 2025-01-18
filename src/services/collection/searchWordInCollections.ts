@@ -1,0 +1,28 @@
+import { ICollection } from "../../types";
+import { getAllCollections } from "./getAllCollections";
+
+/**
+ * Search for a word across all collections.
+ *
+ * @param word - The word to search for
+ * @returns Array of collection slugs where the word appears
+ */
+export function searchWordInCollections(word: string): string[] | null {
+  const allCollections: ICollection[] | null = getAllCollections();
+  if (!allCollections) {
+    return null;
+  }
+
+  const results: string[] = [];
+  allCollections.forEach((collection) => {
+    const found = collection.categories.some((category) =>
+      category.cards.some((lesson) => lesson.includes(word))
+    );
+
+    if (found) {
+      results.push(collection.slug);
+    }
+  });
+
+  return results;
+}
