@@ -29,8 +29,14 @@ export interface IOxfordDefinitionExample {
 }
 
 export interface IOxfordDefinition {
+  senseNumber: number;
   partOfSpeech: string;
+  cefr: LevelA2CTypes;
+  oxford3000: boolean;
+  oxford5000: boolean;
   definition: string;
+  sensetop: string;
+  labels: string;
   examples: IOxfordDefinitionExample[];
   synonyms: string[];
   antonyms: string[];
