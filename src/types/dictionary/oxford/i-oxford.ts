@@ -1,4 +1,5 @@
 import { IIdiom } from "../i-idiom";
+import { ITranslation } from "../i-translation";
 import { LevelA2CTypes } from "../level-a2c-types";
 
 export interface IOxford {
@@ -26,6 +27,7 @@ export interface IOxfordPronunciation {
 export interface IOxfordDefinitionExample {
   text: string;
   contextForm?: string;
+  translations: ITranslation;
 }
 
 export interface IOxfordDefinition {
@@ -35,6 +37,7 @@ export interface IOxfordDefinition {
   oxford3000: boolean;
   oxford5000: boolean;
   definition: string;
+  translations: ITranslation;
   sensetop: string;
   labels: string;
   examples: IOxfordDefinitionExample[];
