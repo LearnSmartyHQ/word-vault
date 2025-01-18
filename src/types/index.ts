@@ -1,7 +1,6 @@
-export { ICambridge, ICambridgeDefinition } from './dictionary/cambridge/i-cambridge';
-export { IIdiom } from './dictionary/i-idiom';
-export { IOxford, IOxfordCollocations, IOxfordDefinition, IOxfordPronunciation, IOxfordPronunciationRegion, IOxfordPronunciations, IOxfordVerbForms } from './dictionary/oxford/i-oxford';
-export { ICard } from './i-card';
-export { ICollection } from './i-collection';
-export { IWord } from './i-word';
+export * from './dictionary/cambridge/i-cambridge';
+export * from './dictionary/i-idiom';
+export * from './dictionary/oxford/i-oxford';
+export * from './i-card';
+export * from './i-collection';
 

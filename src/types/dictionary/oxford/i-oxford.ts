@@ -23,10 +23,15 @@ export interface IOxfordPronunciation {
   region: IOxfordPronunciationRegion;
 }
 
+export interface IOxfordDefinitionExample {
+  text: string;
+  contextForm?: string;
+}
+
 export interface IOxfordDefinition {
   partOfSpeech: string;
   definition: string;
-  examples: string[];
+  examples: IOxfordDefinitionExample[];
   synonyms: string[];
   antonyms: string[];
   collocations?: IOxfordCollocations;

@@ -1,4 +1,4 @@
-import { IOxfordPronunciationRegion } from "../../types";
+import { IOxfordPronunciation, IOxfordPronunciationRegion } from "../../types";
 import { getPronunciation } from "./getPronunciation";
 
 export interface IPronunciationAudioRequest {
@@ -13,7 +13,7 @@ export function getPronunciationAudio({
     pronunciation
 }: IPronunciationAudioRequest
 ): string | null {
-    const pronunciationList = getPronunciation({ id, region });
+    const pronunciationList: IOxfordPronunciation[] | null = getPronunciation({ id, region });
 
     if (!pronunciationList) {
         return null;

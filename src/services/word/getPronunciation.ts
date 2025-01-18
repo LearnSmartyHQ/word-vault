@@ -1,4 +1,4 @@
-import { IOxfordPronunciation, IOxfordPronunciationRegion, IWord } from "../../types";
+import { IOxford, IOxfordPronunciation, IOxfordPronunciationRegion } from "../../types";
 import { findWord } from "./findWord";
 
 export interface IPronunciationRequest {
@@ -11,7 +11,7 @@ export function getPronunciation({
     region
 }: IPronunciationRequest
 ): IOxfordPronunciation[] | null {
-    const wordData: IWord | null = findWord(id);
+    const wordData: IOxford | null = findWord(id);
 
     return wordData?.pronunciations?.[region] || null;
 }
