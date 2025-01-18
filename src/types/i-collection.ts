@@ -11,7 +11,16 @@ export interface ICollectionCategory {
     image?: string;
     totalCards: number;
     cards: ICollectionCard[];
-  }
+}
+
+export interface ICollectionCardDifficulties {
+  "A1": number;
+  "A2": number;
+  "B1": number;
+  "B2": number;
+  "C1": number;
+  "C2": number;
+}
 
 export interface ICollection {
     id: number;
@@ -23,6 +32,7 @@ export interface ICollection {
     image?: string;
     difficulty?: string;
     totalCards: number;
+    totalCardsByDifficulty?: ICollectionCardDifficulties;
     status: CollectionStatus;
     createdAt: string;
     updatedAt?: string;

@@ -5,5 +5,5 @@ export * from './getCollectionCategories';
 export * from './getCollectionCategoryBySlug';
 export * from './getCollectionsByStatus';
 export * from './getCollectionsTotalCards';
+export * from './getTotalCardsByDifficulty';
 export * from './searchWordInCollections';
-

@@ -7,6 +7,14 @@
     "description": "A collection of essential English words to improve your vocabulary.",
     "difficulty": "Intermediate",
     "totalCards": 504,
+    "cardDifficulties": {
+        "A1": 10,
+        "A2": 20,
+        "B1": 30,
+        "B2": 40,
+        "C1": 50,
+        "C2": 60
+    },
     "status": "published",
     "createdAt": "2024-09-07T12:00:00Z",
     "categories": [
