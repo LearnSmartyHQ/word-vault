@@ -1,14 +1,18 @@
-import { readFileSync } from 'fs';
+import { existsSync, readFileSync } from 'fs';
 import { join } from 'path';
 import { IOxford } from '../../types';
-
-const basePath = join(__dirname, '../../../data/words');
+import { baseWordPath } from '../const';
 
 export function findWord(id: string): IOxford | null {
-  try {
-    const filePath = join(basePath, `${id}.json`);
-    const data = readFileSync(filePath, 'utf-8');
+  const filePath = join(baseWordPath, `${id}.json`);
 
+  if (!existsSync(filePath)) {
+    console.error(`Word with slug "${id}" does not exist.`);
+    return null;
+  }
+
+  try {
+    const data = readFileSync(filePath, 'utf-8');
     return JSON.parse(data) as IOxford;
   } catch (error) {
     console.error(`Error reading file for ID: ${id}`, error);
