@@ -17,7 +17,7 @@ The words have been chosen based on their frequency in the Oxford English Corpus
 - [american-oxford-3000.json](./american-oxford-3000.json) (JSON)
 - [american-oxford-3000.pdf](./american-oxford-3000.pdf) (PDF)
 
-### Combine British & American English Words
+#### Combine British & American English Words
 - [oxford-3000-combine.txt](./oxford-3000-combine.txt) (Text)
 - [oxford-3000-combine.json](./oxford-3000-combine.json) (JSON)
 
