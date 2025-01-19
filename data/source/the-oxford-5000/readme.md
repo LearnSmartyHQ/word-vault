@@ -1,0 +1,68 @@
+# The Oxford 5000
+
+The [Oxford 5000](https://www.oxfordlearnersdictionaries.com/about/oxford5000) is an expanded core word list for advanced learners of English.
+
+As well as [the Oxford 3000 core word list](../the-oxford-3000), it includes an additional 2,000 words that are aligned to the [CEFR](https://www.oxfordlearnersdictionaries.com/about/wordlists/cefr), guiding advanced learners at B2-C1 level on the most useful high-level words to learn to expand their vocabulary.
+
+
+## Download The Oxford 5000 Wordlist
+
+#### British English
+- [the-oxford-5000.txt](./the-oxford-5000.txt) (Text)
+- [the-oxford-5000.json](./the-oxford-5000.json) (JSON)
+
+#### American English
+- [the-oxford-5000-american-english.txt](./the-oxford-5000-american-english.txt) (Text)
+- [the-oxford-5000-american-english.json](./the-oxford-5000-american-english.json) (JSON)
+
+### Combine British & American English Words
+- [the-oxford-5000-combine.txt](./the-oxford-5000-combine.txt) (Text)
+- [the-oxford-5000-combine.json](./the-oxford-5000-combine.json) (JSON)
+
+<!-- Add CSV, PDF, Doc, XSLX version -->
+
+### URL Template
+#### British English
+```
+https://www.oxfordlearnersdictionaries.com/definition/english/{word}
+```
+#### American English
+```
+https://www.oxfordlearnersdictionaries.com/definition/american_english/{word}
+```
+Some of the words are having a number suffix because they are having multiple meanings, for example:
+- https://www.oxfordlearnersdictionaries.com/definition/american_english/abroad
+- https://www.oxfordlearnersdictionaries.com/definition/american_english/live1
+- https://www.oxfordlearnersdictionaries.com/definition/american_english/live2
+
+## Data Source
+
+The **Oxford 5000** is a list of the 5000 most important words to learn in English. The keywords of the Oxford 5000 have been carefully selected by a group of language experts and experienced teachers as the words which should receive priority in vocabulary study because of their importance and usefulness.
+
+> This is just a list of words to use for learning English, they are selected based on their frequency in the Oxford English Corpus and relevance to learners of English. **The credit goes to Oxford Learner's Dictionaries!**
+
+### How can I recognize the keywords in the dictionary?
+The words of the Oxford 5000 are shown in the dictionary with a key symbol, and sometimes the most useful parts of the entries (particular meanings, phrasal verbs and idioms) are also marked with a smaller key symbol. The entries for keywords often have extra information in the form of more examples of use, special notes explaining synonyms or related words, or helpful illustrations.
+
+### How are the keywords selected?
+The selection is based on three criteria:
+
+- The words which occur most frequently in English are included, based on the information in the British National Corpus and the Oxford Corpus Collection. A corpus is an electronically-held collection of written or spoken texts, often consisting of hundreds of millions of words.
+- Being frequent in the corpus alone is not enough for a word to qualify as a keyword. It may be that the word is used very frequently, but only in a narrowly defined area, such as newspapers or scientific articles. In order to avoid including these restricted words, we include as keywords only those words which are frequent across a range of different types of text. In other words, keywords are both frequent and used in a variety of contexts.
+- In addition, the list includes some very important words which happen not to be used frequently, even though they are very familiar to most users of English. These include, for example, words for parts of the body, words used in travel, and words which are useful for explaining what you mean when you do not know the exact word for something. These words were identified by consulting a panel of over seventy experts in the fields of teaching and language study.
+
+### How are the keywords used in dictionary definitions?
+In order to make the definitions in this dictionary easy to understand, we have written them using the keywords of the Oxford 5000. All words used in normal definition text are keywords, or are on the list of language study terms. Numbers and proper names are also used in definitions. When it has been necessary to use a specialist term which is not in the Oxford 5000, the word is shown in a different colour. If you do not know the meaning of this word, look it up in the dictionary. It will help you to understand the definition that you are interested in and will probably be a useful word to learn because it will be related to the original word you looked up.
+
+### How can I use the Oxford 5000 to expand my vocabulary?
+The keywords make an excellent starting point for expanding your vocabulary. With most keywords, there is far more to learn about them than the first meaning in the entry. Often these words have many meanings, have a large family of words derived from them, or are used in a variety of patterns. You will also find a wide variety of usage notes at the keyword entries.
+
+### How can I browse the Oxford 5000 wordlist?
+The Oxford 5000 list covers British and American English. The keywords are listed alphabetically.
+
+### References
+- [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)
+- [Oxford Learner's Dictionaries - The Oxford 5000](https://www.oxfordlearnersdictionaries.com/about/oxford5000)
+- [Oxford Learner's Dictionaries - The Oxford 5000: American English Dictionary](https://www.oxfordlearnersdictionaries.com/wordlist/american_english/oxford5000/)
+- [Oxford Learner's Dictionaries - The Oxford 5000 and the Oxford 5000](https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford5000-5000)
+- [Oxford Learner's Dictionaries - Oxford 5000 and 5000](https://www.oxfordlearnersdictionaries.com/wordlists/oxford5000-5000)
