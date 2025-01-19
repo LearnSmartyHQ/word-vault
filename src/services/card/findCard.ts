@@ -1,10 +1,10 @@
 import { existsSync, readFileSync } from 'fs';
 import { join } from 'path';
 import { IOxford } from '../../types';
-import { baseWordPath } from '../const';
+import { baseCardPath } from '../const';
 
-export function findWord(id: string): IOxford | null {
-  const filePath = join(baseWordPath, `${id}.json`);
+export function findCard(id: string): IOxford | null {
+  const filePath = join(baseCardPath, `${id}.json`);
 
   if (!existsSync(filePath)) {
     console.error(`Word with slug "${id}" does not exist.`);

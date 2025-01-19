@@ -1,17 +1,17 @@
 import { IOxford, IOxfordPronunciation, IOxfordPronunciationRegion } from "../../types";
-import { findWord } from "./findWord";
+import { findCard } from "./findCard";
 
-export interface IPronunciationRequest {
+export interface ICardPronunciationRequest {
     id: string;
     region: IOxfordPronunciationRegion;
 }
 
-export function getPronunciation({
+export function getCardPronunciation({
     id,
     region
-}: IPronunciationRequest
+}: ICardPronunciationRequest
 ): IOxfordPronunciation[] | null {
-    const wordData: IOxford | null = findWord(id);
+    const wordData: IOxford | null = findCard(id);
 
     return wordData?.pronunciations?.[region] || null;
 }

@@ -1,8 +1,8 @@
 import { IOxford, IOxfordDefinition, IOxfordDefinitionExample } from "../../types";
-import { findWord } from "./findWord";
+import { findCard } from "./findCard";
 
-export function getExamples(id: string): IOxfordDefinitionExample[] | null {
-    const wordData: IOxford | null = findWord(id);
+export function getCardExamples(id: string): IOxfordDefinitionExample[] | null {
+    const wordData: IOxford | null = findCard(id);
     if (!wordData?.definitions) {
         return null;
     }
