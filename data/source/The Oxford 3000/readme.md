@@ -1,10 +1,16 @@
-# (The Oxford 3000)[https://www.oxfordlearnersdictionaries.com/about/oxford3000]
+# [The Oxford 3000](https://www.oxfordlearnersdictionaries.com/about/oxford3000)
 
 The Oxford 3000 is a list of the 3,000 core words that every learner of English needs to know.
 
 The words have been chosen based on their frequency in the Oxford English Corpus and relevance to learners of English. Every word is aligned to the [CEFR](https://www.oxfordlearnersdictionaries.com/about/wordlists/cefr), guiding learners on the words they should know at A1-B2 level.
 
 > The **Oxford 3000** is a list of the 3000 most important words to learn in English. The keywords of the Oxford 3000 have been carefully selected by a group of language experts and experienced teachers as the words which should receive priority in vocabulary study because of their importance and usefulness.
+
+This is just a list of words to use for learning English, they are selected based on their frequency in the Oxford English Corpus and relevance to learners of English. The credit goes to Oxford Learner's Dictionaries!
+
+## Download The Oxford 3000 Wordlist
+- Txt file: [oxford-3000-words.txt](./oxford-3000-words.txt)
+- JSON file: [oxford-3000-words.json](./oxford-3000-words.json)
 
 ## How can I recognize the keywords in the dictionary?
 The words of the Oxford 3000 are shown in the dictionary with a key symbol, and sometimes the most useful parts of the entries (particular meanings, phrasal verbs and idioms) are also marked with a smaller key symbol. The entries for keywords often have extra information in the form of more examples of use, special notes explaining synonyms or related words, or helpful illustrations.
@@ -24,11 +30,6 @@ The keywords make an excellent starting point for expanding your vocabulary. Wit
 
 ## How can I browse the Oxford 3000 wordlist?
 The Oxford 3000 list covers British and American English. The keywords are listed alphabetically.
-
-## What is the Oxford 3000 Text Checker?
-Use our Text Checker to check which words in any text are part of the Oxford 3000. You can use this information to judge the difficulty of that text.
-
-
 
 ## Source
 
