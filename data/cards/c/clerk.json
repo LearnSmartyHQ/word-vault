@@ -1,0 +1,103 @@
+{
+  "word": "clerk",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/klɑːk/",
+        "audio": "c/clerk/clerk__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/klɜːrk/",
+        "audio": "c/clerk/clerk__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a person whose job is to serve customers in a shop",
+      "labels": "both North American English(both British English)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The clerk at the counter gave me too little change."
+        },
+        {
+          "text": "The clerk answered all our questions."
+        }
+      ],
+      "topics": ["Jobs", "Shopping"],
+      "collocations": {
+        "adjective": ["bookstore", "grocery", "sales"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a person whose job is dealing with people arriving at or leaving a hotel",
+      "labels": "(both North American English)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The hotel clerk greeted us warmly."
+        }
+      ],
+      "topics": ["Jobs", "Holidays"],
+      "collocations": {
+        "adjective": ["bookstore", "grocery", "sales"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a person whose job is to keep the records or accounts and do other routine duties in an office, shop, etc.",
+      "labels": "(especially British English)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "an office clerk"
+        },
+        {
+          "text": "He started work as a railway booking clerk."
+        },
+        {
+          "text": "an articled clerk working for a large law firm"
+        },
+        {
+          "text": "a bank clerk (= who deals with customers in a bank)"
+        }
+      ],
+      "topics": ["Jobs", "Business"],
+      "collocations": {
+        "adjective": ["chief", "senior", "assistant"],
+        "preposition": ["clerk to"],
+        "phrases": ["the office of clerk", "the post of clerk"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "an official in charge of the records of a council, court, etc.",
+      "examples": [
+        {
+          "text": "the Clerk of the Court"
+        },
+        {
+          "text": "a former clerk to Chief Justice George P. Willison"
+        },
+        {
+          "text": "He held the post of Clerk to the Council."
+        }
+      ],
+      "collocations": {
+        "adjective": ["chief", "senior", "assistant"],
+        "preposition": ["clerk to"],
+        "phrases": ["the office of clerk", "the post of clerk"]
+      }
+    }
+  ],
+  "wordOrigin": "Old English cleric, clerc (in the sense ‘ordained minister, literate person’), from ecclesiastical Latin clericus ‘clergyman’, from Greek klērikos ‘belonging to the Christian clergy’, from klēros ‘lot, heritage’ (Acts 1:26); reinforced by Old French clerc, from the same source. Sense (1) dates from the early 16th cent."
+}

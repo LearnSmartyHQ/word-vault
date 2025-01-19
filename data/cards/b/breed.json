@@ -1,0 +1,155 @@
+{
+  "word": "breed",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/briːd/",
+        "audio": "b/breed/breed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/briːdz/",
+        "audio": "b/breed/breeds__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/bred/",
+        "audio": "b/breed/bred__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈbriːdɪŋ/",
+        "audio": "b/breed/breeding__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/briːd/",
+        "audio": "b/breed/breed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/briːdz/",
+        "audio": "b/breed/breeds__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/bred/",
+        "audio": "b/breed/bred__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈbriːdɪŋ/",
+        "audio": "b/breed/breeding__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "breed",
+      "heSheIt": "breeds"
+    },
+    "pastSimple": "bred",
+    "pastParticiple": "bred",
+    "ingForm": "breeding"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to have sex and produce young",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Many animals breed only at certain times of the year."
+        }
+      ],
+      "topics": ["Birds", "Animals"],
+      "collocations": {
+        "adverb": ["in captivity", "successfully", "commercially"],
+        "preposition": ["for"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to keep animals or plants in order to produce young ones for a particular purpose",
+      "sensetop": "breed something (for/as something)breed from something",
+      "labels": "(North American English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The rabbits are bred for their long coats.",
+          "contextForm": "breed something (for/as something)"
+        },
+        {
+          "text": "Greyhounds were originally bred as hunting dogs."
+        },
+        {
+          "text": "the first panda to be bred in captivity"
+        },
+        {
+          "text": "She's a lovely cat. Will you breed from her?",
+          "contextForm": "breed from something"
+        },
+        {
+          "text": "dogs that are bred for their fighting ability"
+        },
+        {
+          "text": "fish that have been selectively bred for their appearance"
+        },
+        {
+          "text": "The otters were bred in captivity and then released into the wild."
+        }
+      ],
+      "topics": ["Farming"],
+      "collocations": {
+        "adverb": ["in captivity", "successfully", "commercially"],
+        "preposition": ["for"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to be the cause of something",
+      "sensetop": "breed something",
+      "examples": [
+        {
+          "text": "Nothing breeds success like success."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to educate somebody in a particular way as they are growing up",
+      "sensetop": "breed something into somebody",
+      "examples": [
+        {
+          "text": "Fear of failure was bred into him at an early age."
+        }
+      ]
+    },
+    {
+      "definition": "born and having grown up in a particular place with a particular background and education",
+      "examples": [
+        {
+          "text": "He was born and bred in Boston."
+        },
+        {
+          "text": "I'm a Londoner, born and bred."
+        }
+      ]
+    },
+    {
+      "definition": "to have a lot of babies in a short space of time",
+      "labels": "(informal, often offensive)",
+      "examples": []
+    },
+    {
+      "definition": "knowing somebody/something very well may cause you to lose respect for them/it",
+      "labels": "(saying)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Old English brēdan ‘produce (offspring), bear (a child)’, of Germanic origin; related to German brüten, also to brood."
+}

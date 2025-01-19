@@ -1,0 +1,96 @@
+{
+  "word": "carrot",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkærət/",
+        "audio": "c/carrot/carrot__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkærət/",
+        "audio": "c/carrot/carrot__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a long pointed orange root vegetable",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "grated carrot"
+        },
+        {
+          "text": "a slice of carrot cake"
+        },
+        {
+          "text": "a pound of carrots"
+        },
+        {
+          "text": "a bag of baby carrots"
+        },
+        {
+          "text": "a glass of carrot juice"
+        },
+        {
+          "text": "carrot sticks *(= long thin pieces)*"
+        }
+      ],
+      "topics": ["Food"],
+      "collocations": {
+        "adjective": ["raw", "cooked", "steamed"],
+        "verb + carrot": ["eat", "have", "cook"],
+        "carrot + noun": ["top", "cake", "juice"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a reward promised to somebody in order to persuade them to do something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "They are holding out a carrot of $120 million in economic aid."
+        },
+        {
+          "text": "It's a big carrot he's dangling in front of Marler's nose."
+        },
+        {
+          "text": "Even with the carrot of a free lunch it is unlikely that many people will turn up."
+        },
+        {
+          "text": "In a market economy profits are the carrot that encourages firms to take risks."
+        }
+      ],
+      "synonyms": "incentive",
+      "topics": ["Discussion and agreement"],
+      "collocations": {
+        "verb + carrot": ["dangle", "hold out", "offer (somebody)"],
+        "phrases": ["a carrot and stick"]
+      }
+    },
+    {
+      "definition": "if you use the carrot and stick approach, you persuade somebody to try harder by offering them a reward if they do, or a punishment if they do not",
+      "examples": [
+        {
+          "text": "The emphasis is on the carrot of incentive rather than the stick of taxes."
+        },
+        {
+          "text": "to adopt the carrot-and-stick approach"
+        },
+        {
+          "text": "He decided to use the carrot and stick approach."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late 15th cent.: from French carotte, from Latin carota, from Greek karōton."
+}

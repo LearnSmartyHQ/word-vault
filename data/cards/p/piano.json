@@ -1,0 +1,86 @@
+{
+  "word": "piano",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/piˈænəʊ/",
+        "audio": "p/piano/piano__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/piˌænəʊˈfɔːteɪ/",
+        "audio": "p/piano/pianoforte__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/piˈænəʊ/",
+        "audio": "p/piano/piano__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/piˌænəʊˈfɔːrteɪ/",
+        "audio": "p/piano/pianoforte__us_4.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "definition": "a large musical instrument played by pressing the black and white keys on the keyboard. The sound is produced by small hammers hitting the metal strings inside the piano.",
+      "sensetop": "on piano",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **play the piano**"
+        },
+        {
+          "text": "a sonata for violin and piano"
+        },
+        {
+          "text": "She was accompanied by her husband on piano.",
+          "contextForm": "on piano"
+        },
+        {
+          "text": "classical/jazz piano music"
+        },
+        {
+          "text": "a **piano teacher/lesson**"
+        },
+        {
+          "text": "Ravel’s piano concerto in G"
+        },
+        {
+          "text": "a piano solo/duet/trio"
+        },
+        {
+          "text": "Alison Evans provided piano accompaniment."
+        },
+        {
+          "text": "He was sitting at the piano, ready to play."
+        },
+        {
+          "text": "The piece can also be played on the piano."
+        },
+        {
+          "text": "There is a piano bar for evening entertainment."
+        },
+        {
+          "text": "a piano made by Steinway"
+        }
+      ],
+      "topics": ["Music"],
+      "collocations": {
+        "adjective": ["baby grand", "concert grand", "grand"],
+        "verb + piano": ["tune", "make"],
+        "piano + noun": ["key", "lid", "strings"],
+        "preposition": ["at the piano", "on the piano"]
+      }
+    }
+  ],
+  "wordOrigin": "noun early 19th cent.: from Italian, abbreviation of pianoforte."
+}

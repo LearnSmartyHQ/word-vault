@@ -1,0 +1,164 @@
+{
+  "word": "cite",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/saɪt/",
+        "audio": "c/cite/cite__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/saɪts/",
+        "audio": "c/cite/cites__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsaɪtɪd/",
+        "audio": "c/cite/cited__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsaɪtɪŋ/",
+        "audio": "c/cite/citing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/saɪt/",
+        "audio": "c/cite/cite__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/saɪts/",
+        "audio": "c/cite/cites__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsaɪtɪd/",
+        "audio": "c/cite/cited__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsaɪtɪŋ/",
+        "audio": "c/cite/citing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "cite",
+      "heSheIt": "cites"
+    },
+    "pastSimple": "cited",
+    "pastParticiple": "cited",
+    "ingForm": "citing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to mention something as a reason or an example, or in order to support what you are saying",
+      "sensetop": "cite somethingcite something as something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She **cited examples** of companies the city has helped relocate or expand.",
+          "contextForm": "cite something"
+        },
+        {
+          "text": "**Citing** unnamed **sources**, the newspaper reports that the two companies are nearing a deal."
+        },
+        {
+          "text": "There is no reason to doubt the information in the articles **cited above**."
+        },
+        {
+          "text": "He cited personal reasons for his decision to resign."
+        },
+        {
+          "text": "The Bank of England has again cited concerns about inflation."
+        },
+        {
+          "text": "Their method is similar to those used by many **studies cited** in this report."
+        },
+        {
+          "text": "He cited his heavy workload as the reason for his breakdown.",
+          "contextForm": "cite something as something"
+        },
+        {
+          "text": "The most commonly cited reasons for stopping the treatment were side effects."
+        },
+        {
+          "text": "This is similar to the example cited above."
+        },
+        {
+          "text": "She cited the case of Leigh v. Gladstone."
+        },
+        {
+          "text": "One doctor cited the case of a three-year-old dying as a result of extreme obesity."
+        },
+        {
+          "text": "This album is often cited as an example of a truly great complete album."
+        }
+      ],
+      "collocations": {
+        "adverb": ["above", "already", "earlier"],
+        "preposition": ["as"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to speak or write the exact words from a book, an author, etc.",
+      "sensetop": "cite somebody/somethingcite somebody/something in something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He **cites** no primary **sources** for his claims.",
+          "contextForm": "cite somebody/something"
+        },
+        {
+          "text": "She cited a passage from the President’s speech."
+        },
+        {
+          "text": "She is the author most often cited in his work.",
+          "contextForm": "cite somebody/something in something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["above", "already", "earlier"],
+        "preposition": ["as"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to order somebody to appear in court; to name somebody officially in a legal case",
+      "sensetop": "cite somebody (for something)",
+      "labels": "(law)",
+      "examples": [
+        {
+          "text": "He was cited for contempt of court."
+        },
+        {
+          "text": "She was cited in the divorce proceedings."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to mention somebody officially or publicly because they deserve special praise",
+      "sensetop": "cite somebody (for something)",
+      "examples": [
+        {
+          "text": "He was cited for bravery."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English (in sense (3), originally with reference to a court of ecclesiastical law): from Old French citer, from Latin citare, from ciere, cire ‘to call’."
+}

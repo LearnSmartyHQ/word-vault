@@ -1,0 +1,104 @@
+{
+  "word": "specify",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈspesɪfaɪ/",
+        "audio": "s/specify/specify__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈspesɪfaɪz/",
+        "audio": "s/specify/specifies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈspesɪfaɪd/",
+        "audio": "s/specify/specified__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈspesɪfaɪɪŋ/",
+        "audio": "s/specify/specifying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈspesɪfaɪ/",
+        "audio": "s/specify/specify__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈspesɪfaɪz/",
+        "audio": "s/specify/specifies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈspesɪfaɪd/",
+        "audio": "s/specify/specified__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈspesɪfaɪɪŋ/",
+        "audio": "s/specify/specifying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "specify",
+      "heSheIt": "specifies"
+    },
+    "pastSimple": "specified",
+    "pastParticiple": "specified",
+    "ingForm": "specifying"
+  },
+  "definitions": [
+    {
+      "definition": "to state something, especially by giving an exact measurement, time, exact instructions, etc.",
+      "sensetop": "specify somethingspecify who, what, etc…specify that…",
+      "examples": [
+        {
+          "text": "Remember to specify your size when ordering clothes.",
+          "contextForm": "specify something"
+        },
+        {
+          "text": "Forms must be returned by the specified date."
+        },
+        {
+          "text": "The contract clearly specifies who can operate the machinery.",
+          "contextForm": "specify who, what, etc…"
+        },
+        {
+          "text": "The regulations specify that calculators may not be used in the examination.",
+          "contextForm": "specify that…"
+        },
+        {
+          "text": "Each computer is uniquely specified by its serial number."
+        },
+        {
+          "text": "It should be possible to specify the range of values of ξ which would satisfy this equation."
+        },
+        {
+          "text": "She did not specify precisely how many people were involved in the incident."
+        },
+        {
+          "text": "Unless otherwise specified, all fields have a maximum length of 20 characters."
+        }
+      ],
+      "collocations": {
+        "adverb": ["clearly", "fully", "carefully"],
+        "verb + specify": [
+          "allow somebody to",
+          "require somebody to",
+          "be difficult to"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French specifier or late Latin specificare, from Latin species ‘appearance, form, beauty’, from specere ‘to look’."
+}

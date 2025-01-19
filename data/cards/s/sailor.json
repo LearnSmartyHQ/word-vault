@@ -1,0 +1,73 @@
+{
+  "word": "sailor",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈseɪlə(r)/",
+        "audio": "s/sailor/sailor__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈseɪlər/",
+        "audio": "s/sailor/sailor__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a person who works on a ship as a member of the crew",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a crew of two officers and 13 sailors"
+        },
+        {
+          "text": "The vessels are manned by 1  300 sailors."
+        },
+        {
+          "text": "His father was a US Navy sailor."
+        },
+        {
+          "text": "Many soldiers, sailors and airmen lost their lives."
+        }
+      ],
+      "topics": ["War and conflict", "Transport by water", "Jobs"],
+      "collocations": {
+        "adjective": ["avid", "keen", "experienced"],
+        "sailor + noun": ["outfit", "suit", "hat"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a person who sails a boat",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "My parents were keen sailors."
+        },
+        {
+          "text": "The three missing men were experienced sailors."
+        }
+      ],
+      "topics": ["Transport by water", "Sports: water sports"],
+      "collocations": {
+        "adjective": ["avid", "keen", "experienced"],
+        "sailor + noun": ["outfit", "suit", "hat"]
+      }
+    },
+    {
+      "definition": "a person who rarely/often becomes sick at sea",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "mid 17th cent.: variant of obsolete sailer."
+}

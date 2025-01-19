@@ -1,0 +1,126 @@
+{
+  "word": "disc",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪsk/",
+        "audio": "d/disc/disc__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪsk/",
+        "audio": "d/disc/disc__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a thin flat round object",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He wears an identity disc around his neck."
+        },
+        {
+          "text": "In a total eclipse, the moon completely covers the disc of the sun."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a CD or DVD",
+      "sensetop": "on disc",
+      "examples": [
+        {
+          "text": "This disc contains lots of extra features, including an interview with the director."
+        },
+        {
+          "text": "This recording is available online or on disc.",
+          "contextForm": "on disc"
+        },
+        {
+          "text": "The series comes as a two-disc box set with three episodes on each disc."
+        },
+        {
+          "text": "There are lots of extras on this disc."
+        },
+        {
+          "text": "He is one of the greatest opera singers on disc."
+        },
+        {
+          "text": "I ejected the disc before the end."
+        },
+        {
+          "text": "The Prokofiev sonata comes first on the disc."
+        },
+        {
+          "text": "The disc was released in 1998."
+        },
+        {
+          "text": "a disc of Mozart quartets"
+        },
+        {
+          "text": "I highly recommend this disc."
+        }
+      ],
+      "collocations": {
+        "adjective": ["compact", "DVD", "vinyl"],
+        "verb + disc": ["play", "insert", "hear"],
+        "preposition": ["on (a/​the) disc", "disc of"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a disk for a computer",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "He inserted the disc into the machine."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a record (= a thin round piece of plastic on which music, etc. is recorded)",
+      "labels": "(old-fashioned)",
+      "examples": [
+        {
+          "text": "I have an old vinyl disc of her singing."
+        }
+      ],
+      "collocations": {
+        "adjective": ["compact", "DVD", "vinyl"],
+        "verb + disc": ["play", "insert", "hear"],
+        "preposition": ["on (a/​the) disc", "disc of"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a structure made of cartilage between the bones of the back",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "He's in bed with a slipped disc."
+        },
+        {
+          "text": "She's slipped a disc."
+        }
+      ],
+      "topics": ["Body"],
+      "collocations": {
+        "adjective": ["herniated", "prolapsed", "slipped"],
+        "verb + disc": ["slip"]
+      }
+    }
+  ],
+  "wordOrigin": "mid 17th cent. (originally referring to the seemingly flat circular form of the sun or moon): from French disque or Latin discus from Greek diskos."
+}

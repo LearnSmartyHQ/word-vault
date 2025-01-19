@@ -1,0 +1,87 @@
+{
+  "word": "license",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈlaɪsns/",
+        "audio": "l/license/license__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈlaɪsnsɪz/",
+        "audio": "l/license/licenses__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈlaɪsnst/",
+        "audio": "l/license/licensed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈlaɪsnsɪŋ/",
+        "audio": "l/license/licensing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈlaɪsns/",
+        "audio": "l/license/license__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈlaɪsnsɪz/",
+        "audio": "l/license/licenses__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈlaɪsnst/",
+        "audio": "l/license/licensed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈlaɪsnsɪŋ/",
+        "audio": "l/license/licensing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "license",
+      "heSheIt": "licenses"
+    },
+    "pastSimple": "licensed",
+    "pastParticiple": "licensed",
+    "ingForm": "licensing"
+  },
+  "definitions": [
+    {
+      "definition": "to give somebody official permission to do, own, or use something",
+      "sensetop": "license somethinglicense somebody/something to do something",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "The new drug has not yet been licensed in the US.",
+          "contextForm": "license something"
+        },
+        {
+          "text": "licensing hours *(= the times when alcohol can be sold at a pub, etc.)*"
+        },
+        {
+          "text": "They had licensed the firm to produce the drug.",
+          "contextForm": "license somebody/something to do something"
+        },
+        {
+          "text": "The company plans to license the technology to others."
+        },
+        {
+          "text": "The drug is not licensed for long-term use."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from licence. The spelling -se arose by analogy with pairs such as practice, practise."
+}

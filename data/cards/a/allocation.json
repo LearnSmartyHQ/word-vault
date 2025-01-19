@@ -1,0 +1,65 @@
+{
+  "word": "allocation",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌæləˈkeɪʃn/",
+        "audio": "a/allocation/allocation__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌæləˈkeɪʃn/",
+        "audio": "a/allocation/allocation__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "an amount of money, space, etc. that is given to somebody for a particular purpose",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "We have spent our entire allocation for the year."
+        },
+        {
+          "text": "The allocation must be made according to a strict set of criteria."
+        },
+        {
+          "text": "The charity is trying to get its allocation increased for next year."
+        },
+        {
+          "text": "The school gave them a generous allocation of money with which to purchase books."
+        },
+        {
+          "text": "The project was financed by an allocation of funds from the National Lottery."
+        }
+      ],
+      "collocations": {
+        "adjective": ["total", "fair"],
+        "verb + allocation": ["get", "receive", "increase"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the act of giving something to somebody for a particular purpose",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the allocation of food to those who need it most"
+        }
+      ],
+      "collocations": {
+        "adjective": ["efficient", "inefficient", "random"],
+        "verb + allocation": ["make", "announce"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from medieval Latin allocatio(n-), from the verb allocare, from ad- ‘to’ + locare, from locus ‘place’."
+}

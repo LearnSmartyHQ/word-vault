@@ -1,0 +1,114 @@
+{
+  "word": "patient",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈpeɪʃnt/",
+        "audio": "p/patient/patient__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈpeɪʃnt/",
+        "audio": "p/patient/patient__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a person who is receiving medical treatment, especially in a hospital",
+      "sensetop": "patient with something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "cancer/AIDS/heart patients"
+        },
+        {
+          "text": "critically ill/elderly patients"
+        },
+        {
+          "text": "Hospitals are **treating** more **patients** than ever before."
+        },
+        {
+          "text": "patients receiving/undergoing treatment"
+        },
+        {
+          "text": "patients with heart disease",
+          "contextForm": "patient with something"
+        },
+        {
+          "text": "**patient care/safety**"
+        },
+        {
+          "text": "Many patients present with conditions that cannot be easily diagnosed."
+        },
+        {
+          "text": "Patients undergoing chemotherapy may be at a higher risk of infection."
+        },
+        {
+          "text": "The patient has a severe heart condition."
+        },
+        {
+          "text": "The patient was admitted to hospital yesterday."
+        },
+        {
+          "text": "These patients are responding well to the new drug."
+        },
+        {
+          "text": "A high proportion of their lung cancer patients had been heavy smokers."
+        }
+      ],
+      "topics": ["Healthcare"],
+      "collocations": {
+        "adjective": ["AIDS", "cancer", "cardiac"],
+        "verb + patient": ["assess", "examine", "see"],
+        "patient + verb": [
+          "develop something",
+          "have something",
+          "suffer from something"
+        ],
+        "patient + noun": ["care"],
+        "preposition": ["patient with"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a person who receives treatment from a particular doctor, dentist, etc.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He's one of Dr Shaw's patients."
+        },
+        {
+          "text": "He only takes private patients."
+        }
+      ],
+      "collocations": {
+        "adjective": ["AIDS", "cancer", "cardiac"],
+        "verb + patient": ["assess", "examine", "see"],
+        "patient + verb": [
+          "develop something",
+          "have something",
+          "suffer from something"
+        ],
+        "patient + noun": ["care"],
+        "preposition": ["patient with"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the person or thing that is affected by the action of the verb. In the sentence ‘I started the car’, the patient is car.",
+      "labels": "(grammar)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French, from Latin patient- ‘suffering’, from the verb pati."
+}

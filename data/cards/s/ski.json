@@ -1,0 +1,57 @@
+{
+  "word": "ski",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/skiː/",
+        "audio": "s/ski/ski__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/skiː/",
+        "audio": "s/ski/ski__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "one of a pair of long narrow pieces of wood, metal or plastic that you attach to boots so that you can move smoothly over snow",
+      "sensetop": "on skis",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a pair of skis"
+        },
+        {
+          "text": "All skis should be waxed on a frequent basis."
+        },
+        {
+          "text": "The children go to school on skis.",
+          "contextForm": "on skis"
+        }
+      ],
+      "topics": ["Sports: other sports"],
+      "collocations": {
+        "adjective": ["alpine", "backcountry", "cross-country"],
+        "… of skis": ["pair"],
+        "verb + ski": ["put on", "remove", "take off"],
+        "ski + noun": ["pole", "stick", "boot"],
+        "preposition": ["on skis"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "either of the pair of long flat boards on which a person stands in order to waterski",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "mid 18th cent.: from Norwegian, from Old Norse skíth ‘billet, snowshoe’."
+}

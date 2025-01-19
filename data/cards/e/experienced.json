@@ -1,0 +1,82 @@
+{
+  "word": "experienced",
+  "partOfSpeech": "adjective",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪkˈspɪəriənst/",
+        "audio": "e/experienced/experienced__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪkˈspɪriənst/",
+        "audio": "e/experienced/experienced__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "having knowledge or skill in a particular job or activity",
+      "sensetop": "experienced in somethingexperienced in doing something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "an **experienced player/teacher**"
+        },
+        {
+          "text": "She's **highly experienced** in software development.",
+          "contextForm": "experienced in something"
+        },
+        {
+          "text": "He's very experienced in looking after animals.",
+          "contextForm": "experienced in doing something"
+        },
+        {
+          "text": "The staff are all highly experienced."
+        },
+        {
+          "text": "The task needs the skills of a suitably experienced engineer."
+        },
+        {
+          "text": "a widely experienced and articulate politician"
+        }
+      ],
+      "topics": ["Personal qualities"],
+      "collocations": {
+        "verbs": ["be", "seem", "sound"],
+        "adverb": ["extremely", "highly", "really"],
+        "preposition": ["in"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "having knowledge as a result of doing something for a long time, or having had a lot of different experiences",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She's very young and not very experienced."
+        },
+        {
+          "text": "an experienced traveller *(= somebody who has travelled a lot)*"
+        },
+        {
+          "text": "She was more mature, more experienced."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "seem", "sound"],
+        "adverb": ["extremely", "highly", "really"],
+        "preposition": ["in"]
+      }
+    }
+  ],
+  "wordOrigin": null
+}

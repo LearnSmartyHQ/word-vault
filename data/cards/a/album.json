@@ -1,0 +1,104 @@
+{
+  "word": "album",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈælbəm/",
+        "audio": "a/album/album__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈælbəm/",
+        "audio": "a/album/album__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a book in which you keep photographs, stamps, etc.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a photo album"
+        },
+        {
+          "text": "an online album *(= a website where you can store and view photographs)*"
+        },
+        {
+          "text": "My grandparents used to keep photographs in an album."
+        }
+      ],
+      "collocations": {
+        "adjective": ["family", "wedding", "photo"],
+        "preposition": ["in an/​the album"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a collection of pieces of music released as a single item, usually on the internet or on a CD",
+      "labels": "(British English)(especially North American English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They recently **released** their **debut album**."
+        },
+        {
+          "text": "It's the singer's first **solo album**."
+        },
+        {
+          "text": "The band have **recorded** four studio **albums**."
+        },
+        {
+          "text": "an online album *(= an album that you can listen to on the internet)*"
+        },
+        {
+          "text": "her favourite song/track on the album"
+        },
+        {
+          "text": "an album cover"
+        },
+        {
+          "text": "He performed tracks from his new album."
+        },
+        {
+          "text": "She has not put out a new album this year."
+        },
+        {
+          "text": "the band’s latest album"
+        },
+        {
+          "text": "The band is working on a concept album about Nostradamus."
+        },
+        {
+          "text": "The singer recorded her second album in Los Angeles."
+        },
+        {
+          "text": "Their best-selling album has won three awards."
+        },
+        {
+          "text": "Their new album has been getting good reviews."
+        },
+        {
+          "text": "You can stream the entire album for free."
+        }
+      ],
+      "topics": ["Music"],
+      "collocations": {
+        "adjective": ["best-selling", "good", "great"],
+        "verb + album": ["make", "produce", "record"],
+        "album + verb": ["come out"],
+        "album + noun": ["chart", "track", "cover"]
+      }
+    }
+  ],
+  "wordOrigin": "early 17th cent.: from Latin, neuter of albus ‘white’ used as a noun meaning ‘a blank tablet’. Taken into English from the German use of the Latin phrase album amicorum ‘album of friends’ (a blank book in which autographs, drawings, poems, etc. were collected), it was originally used consciously as a Latin word."
+}

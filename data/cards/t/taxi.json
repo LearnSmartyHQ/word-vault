@@ -1,0 +1,80 @@
+{
+  "word": "taxi",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtæksi/",
+        "audio": "t/taxi/taxi__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtæksi/",
+        "audio": "t/taxi/taxi__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a car with a driver that you pay to take you somewhere. Taxis usually have meters that show how much money you have to pay.",
+      "sensetop": "by taxi",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We **took a taxi** to the airport."
+        },
+        {
+          "text": "to call/hail/catch/get a taxi"
+        },
+        {
+          "text": "I came home by taxi.",
+          "contextForm": "by taxi"
+        },
+        {
+          "text": "a **taxi driver**"
+        },
+        {
+          "text": "a taxi ride/service"
+        },
+        {
+          "text": "We'd better take a taxi."
+        },
+        {
+          "text": "I'll get my secretary to call you a taxi."
+        },
+        {
+          "text": "We had some difficulty finding a taxi."
+        },
+        {
+          "text": "We hired a taxi for the day and went all over the island."
+        },
+        {
+          "text": "a five-minute trip by taxi"
+        },
+        {
+          "text": "a water taxi heading for Venice"
+        }
+      ],
+      "topics": ["Transport by car or lorry"],
+      "collocations": {
+        "adjective": ["air", "water"],
+        "verb + taxi": ["take", "book (somebody)", "call (somebody)"],
+        "taxi + noun": ["cab", "company", "firm"],
+        "phrases": ["by taxi"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a small bus with a driver that you pay to take you somewhere. Taxis usually have fixed routes and stop wherever passengers need to get on or off.",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "early 20th cent.: abbreviation of taxi-cab or taximeter cab, from French taximètre, from taxe ‘tariff’, from the verb taxer ‘to tax’ + -mètre ‘(instrument) measuring’."
+}

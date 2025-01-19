@@ -1,0 +1,84 @@
+{
+  "word": "lobby",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈlɒbi/",
+        "audio": "l/lobby/lobby__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈlɑːbi/",
+        "audio": "l/lobby/lobby__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a large area inside the entrance of a public building where people can meet and wait",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a hotel lobby"
+        },
+        {
+          "text": "He was waiting for me in the lobby of the hotel."
+        }
+      ],
+      "topics": ["Holidays", "Buildings"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "(in the British Parliament) a large hall that is open to the public and used for people to meet and talk to Members of Parliament",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Politics"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a group of people who try to influence politicians on a particular issue",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The **gun lobby** is/are against any change in the law."
+        },
+        {
+          "text": "organized opposition from the business lobby"
+        }
+      ],
+      "synonyms": "pressure group",
+      "topics": ["Politics"],
+      "collocations": {
+        "adjective": ["powerful", "strong", "anti-abortion"],
+        "verb + lobby": ["form", "organize"],
+        "lobby + noun": ["group", "organization"],
+        "preposition": ["lobby against", "lobby for"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "an organized attempt by a group of people to influence politicians on a particular issue",
+      "labels": "(British English)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "a recent lobby of Parliament by nurses"
+        },
+        {
+          "text": "Many groups have together mounted a lobby against cuts in hospitals."
+        },
+        {
+          "text": "Residents have organized a lobby for improved local facilities."
+        }
+      ],
+      "topics": ["Politics"]
+    }
+  ],
+  "wordOrigin": "mid 16th cent. (in the sense ‘monastic cloister’): from medieval Latin lobia, lobium ‘covered walk, portico’. The verb sense (originally US) derives from the practice of frequenting the lobby of a house of legislature to influence its members into supporting a cause."
+}

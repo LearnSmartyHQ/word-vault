@@ -1,0 +1,80 @@
+{
+  "word": "prince",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/prɪns/",
+        "audio": "p/prince/prince__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/prɪns/",
+        "audio": "p/prince/prince__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a male member of a royal family who is not king, especially the son or grandson of the king or queen",
+      "sensetop": "prince of…",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the royal princes"
+        },
+        {
+          "text": "Prince William"
+        },
+        {
+          "text": "the Prince of Wales",
+          "contextForm": "prince of…"
+        }
+      ],
+      "topics": ["People in society"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the male ruler of a small country or state that has a royal family; a male member of this family, especially the son or grandson of the ruler",
+      "sensetop": "prince of…",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the prince of Orange",
+          "contextForm": "prince of…"
+        },
+        {
+          "text": "Prince Albert of Monaco"
+        }
+      ],
+      "topics": ["People in society"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "(in some European countries) a nobleman",
+      "examples": []
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a man who is thought to be one of the best in a particular field",
+      "sensetop": "prince of/among something",
+      "labels": "(literary)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the prince of comedy"
+        }
+      ],
+      "topics": ["People in society"]
+    }
+  ],
+  "wordOrigin": "Middle English: via Old French from Latin princeps, princip- ‘first, chief, sovereign’, from primus ‘first’ + capere ‘take’."
+}

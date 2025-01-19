@@ -1,0 +1,135 @@
+{
+  "word": "central",
+  "partOfSpeech": "adjective",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsentrəl/",
+        "audio": "c/central/central__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsentrəl/",
+        "audio": "c/central/central__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "in the centre of an area or object",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "central London"
+        },
+        {
+          "text": "Central America/Europe/Asia"
+        },
+        {
+          "text": "There will be rain later in central and eastern parts of the country."
+        },
+        {
+          "text": "the central area of the brain"
+        }
+      ],
+      "collocations": {
+        "verbs": ["be"],
+        "adverb": ["fairly", "quite", "very"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "easily reached from many areas",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The flat is very central—just five minutes from Princes Street."
+        },
+        {
+          "text": "The offices are in a central location."
+        },
+        {
+          "text": "Our house is very central, so we can easily get to theatres and restaurants."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be"],
+        "adverb": ["fairly", "quite", "very"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "most important",
+      "sensetop": "central to something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The **central issue** is that of widespread racism."
+        },
+        {
+          "text": "She has been a **central figure** in the campaign."
+        },
+        {
+          "text": "Prevention also plays a **central role** in traditional medicine."
+        },
+        {
+          "text": "The gap between rich and poor is becoming a **central theme** of the election."
+        },
+        {
+          "text": "She plays the **central character** Alexandra."
+        },
+        {
+          "text": "Reducing inflation is central to *(= is an important part of)* the government's economic policy.",
+          "contextForm": "central to something"
+        },
+        {
+          "text": "These facts are central to the case."
+        },
+        {
+          "text": "This distinction is of absolutely central importance."
+        },
+        {
+          "text": "Alienation is a central motif in her novels."
+        },
+        {
+          "text": "What is the central truth of all his religious teaching?"
+        }
+      ],
+      "collocations": {
+        "verbs": ["be"],
+        "adverb": ["very", "absolutely", "increasingly"],
+        "preposition": ["to"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "having power or control over other parts",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the central committee *(= of a political party)*"
+        },
+        {
+          "text": "The organization has a central office in York."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "produced with the centre of the tongue in a higher position than the front or the back, for example /ɜː/ in bird",
+      "labels": "(phonetics)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "mid 17th cent.: from French, or from Latin centralis, from centrum, from Greek kentron ‘sharp point, stationary point of a pair of compasses’, related to kentein ‘to prick’."
+}

@@ -1,0 +1,112 @@
+{
+  "word": "bug",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bʌɡ/",
+        "audio": "b/bug/bug__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bʌɡ/",
+        "audio": "b/bug/bug__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "any small insect",
+      "labels": "(especially North American English)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "There's a bug crawling up your arm."
+        }
+      ],
+      "topics": ["Insects, worms, etc."]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "an illness that is usually fairly mild but spreads easily from person to person",
+      "labels": "(informal)(British English)(informal)(British English)(North American English)(British English)(British English)(British English)(British English)(North American English)(British English)(North American English)(British English)(British English)(British English)(North American English)(British English)(British English)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "a flu bug"
+        },
+        {
+          "text": "There's a stomach **bug going round** *(= people are catching it from each other)*."
+        },
+        {
+          "text": "I picked up a bug in the office."
+        },
+        {
+          "text": "He's off work with a flu bug."
+        }
+      ],
+      "topics": ["Health problems"],
+      "collocations": {
+        "adjective": ["nasty", "flu", "stomach"],
+        "verb + bug": ["have", "catch", "come down with"],
+        "bug + verb": ["go around", "go round", "strike somebody down"],
+        "preposition": ["with a/​the bug"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "an enthusiastic interest in something such as a sport or a hobby",
+      "labels": "(informal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He's been bitten by the travel bug."
+        },
+        {
+          "text": "She was never interested in fitness before but now **she's been bitten by the bug**."
+        }
+      ],
+      "collocations": {
+        "verb + bug": ["be bitten by", "catch", "get"],
+        "bug + verb": ["bite (somebody)"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a fault in a machine, especially in a computer system or program",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The software is full of bugs."
+        },
+        {
+          "text": "My computer's really slow at the moment—it must be some kind of bug."
+        }
+      ],
+      "topics": ["Computers"],
+      "collocations": {
+        "adjective": ["minor", "annoying", "computer"],
+        "verb + bug": ["discover", "find", "fix"],
+        "preposition": ["bug in"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a small hidden device for listening to other people’s conversations",
+      "labels": "(informal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They planted a bug in his hotel room."
+        }
+      ],
+      "topics": ["Crime and punishment"]
+    }
+  ],
+  "wordOrigin": "early 17th cent.: of unknown origin. Current verb senses date from the early 20th cent."
+}

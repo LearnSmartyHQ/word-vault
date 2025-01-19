@@ -1,0 +1,95 @@
+{
+  "word": "undermine",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌʌndəˈmaɪn/",
+        "audio": "u/undermine/undermine__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌʌndəˈmaɪnz/",
+        "audio": "u/undermine/undermines__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌʌndəˈmaɪnd/",
+        "audio": "u/undermine/undermined__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌʌndəˈmaɪnɪŋ/",
+        "audio": "u/undermine/undermining__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌʌndərˈmaɪn/",
+        "audio": "u/undermine/undermine__us_1_rr.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌʌndərˈmaɪnz/",
+        "audio": "u/undermine/undermines__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌʌndərˈmaɪnd/",
+        "audio": "u/undermine/undermined__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌʌndərˈmaɪnɪŋ/",
+        "audio": "u/undermine/undermining__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "undermine",
+      "heSheIt": "undermines"
+    },
+    "pastSimple": "undermined",
+    "pastParticiple": "undermined",
+    "ingForm": "undermining"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make something, especially somebody’s confidence or authority, gradually weaker or less effective",
+      "sensetop": "undermine something/somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Our confidence in the team has been seriously undermined by their recent defeats."
+        },
+        {
+          "text": "This crisis has undermined his position."
+        },
+        {
+          "text": "Recent changes have undermined teachers’ morale."
+        },
+        {
+          "text": "The director saw this move as an attempt to undermine his authority."
+        },
+        {
+          "text": "It's all a plot to undermine me."
+        }
+      ],
+      "collocations": {
+        "adverb": ["greatly", "radically", "seriously"],
+        "verb + undermine": ["threaten to", "attempt to", "seek to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make something weaker at the base, for example by digging under it",
+      "sensetop": "undermine something",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English: from under- + the verb mine, probably suggested by Middle Dutch ondermineren."
+}

@@ -1,0 +1,129 @@
+{
+  "word": "slash",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/slæʃ/",
+        "audio": "s/slash/slash__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈslæʃɪz/",
+        "audio": "s/slash/slashes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/slæʃt/",
+        "audio": "s/slash/slashed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈslæʃɪŋ/",
+        "audio": "s/slash/slashing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/slæʃ/",
+        "audio": "s/slash/slash__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈslæʃɪz/",
+        "audio": "s/slash/slashes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/slæʃt/",
+        "audio": "s/slash/slashed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈslæʃɪŋ/",
+        "audio": "s/slash/slashing__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "slash",
+      "heSheIt": "slashes"
+    },
+    "pastSimple": "slashed",
+    "pastParticiple": "slashed",
+    "ingForm": "slashing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make a long cut with a sharp object, especially in a violent way",
+      "sensetop": "slash somethingslash at somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Someone had slashed the tyres on my car.",
+          "contextForm": "slash something"
+        },
+        {
+          "text": "She tried to kill herself by slashing her wrists."
+        },
+        {
+          "text": "We had to **slash our way** through the undergrowth with sticks."
+        },
+        {
+          "text": "One of the men slashed him across the face with a knife."
+        },
+        {
+          "text": "He slashed wildly at me with a knife.",
+          "contextForm": "slash at somebody/something"
+        },
+        {
+          "text": "He slashed at his opponent with his sword."
+        }
+      ],
+      "synonyms": "slit",
+      "collocations": {
+        "adverb": ["wildly"],
+        "preposition": ["at", "through", "with"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to reduce something by a large amount",
+      "sensetop": "slash something",
+      "labels": "(informal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "to **slash spending/prices/costs**"
+        },
+        {
+          "text": "The workforce has been slashed by half."
+        },
+        {
+          "text": "A slump in the retail trade has forced the company to slash prices."
+        },
+        {
+          "text": "His salary was slashed by 20%."
+        },
+        {
+          "text": "Inflation was slashed in half."
+        },
+        {
+          "text": "The company dramatically slashed its forecasts for annual profits."
+        },
+        {
+          "text": "The discount could be slashed from 15% to 10%."
+        }
+      ],
+      "collocations": {
+        "adverb": ["dramatically", "drastically", "aggressively"],
+        "preposition": ["by", "from", "to"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: perhaps imitative, or from Old French esclachier ‘break in pieces’. The noun dates from the late 16th cent."
+}

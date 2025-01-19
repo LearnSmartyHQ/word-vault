@@ -1,0 +1,456 @@
+{
+  "word": "burn",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bɜːn/",
+        "audio": "b/burn/burn__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/bɜːnz/",
+        "audio": "b/burn/burns__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/bɜːnt/",
+        "audio": "b/burn/burnt__gb_5.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/bɜːnd/",
+        "audio": "b/burn/burned__gb_5.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈbɜːnɪŋ/",
+        "audio": "b/burn/burning__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bɜːrn/",
+        "audio": "b/burn/burn__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/bɜːrnz/",
+        "audio": "b/burn/burns__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/bɜːrnt/",
+        "audio": "b/burn/burnt__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/bɜːrnd/",
+        "audio": "b/burn/burned__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈbɜːrnɪŋ/",
+        "audio": "b/burn/burning__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "burn",
+      "heSheIt": "burns"
+    },
+    "pastSimple": "burnt",
+    "pastParticiple": "burnt",
+    "ingForm": "burning"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to produce flames and heat",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "A welcoming **fire was burning** in the fireplace."
+        },
+        {
+          "text": "Fires were burning all over the city."
+        },
+        {
+          "text": "A small candle burned brightly."
+        },
+        {
+          "text": "Fresh leaves will burn slowly with billows of smoke."
+        },
+        {
+          "text": "The fire was still burning fiercely."
+        },
+        {
+          "text": "The flame in the oil lamp burned steadily."
+        }
+      ],
+      "collocations": {
+        "adverb": ["fiercely", "steadily", "slowly"],
+        "phrases": ["burn out of control"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to be on fire",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "By nightfall the whole city was burning."
+        },
+        {
+          "text": "The girl ran from the burning building."
+        },
+        {
+          "text": "Two children were rescued from the burning car."
+        },
+        {
+          "text": "They called us to tell us that my aunt's house was burning."
+        },
+        {
+          "text": "The smell of burning rubber filled the air."
+        }
+      ],
+      "collocations": {
+        "adverb": ["fiercely", "steadily", "slowly"],
+        "phrases": ["burn out of control"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to destroy, damage, injure or kill somebody/something by fire; to be destroyed, etc. by fire",
+      "sensetop": "burn somebody/somethingburn somebody/something + adj.burn + adj.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Six million acres have burned this year in the United States."
+        },
+        {
+          "text": "The house **burned to the ground**."
+        },
+        {
+          "text": "Ten people **burned to death** in the hotel fire."
+        },
+        {
+          "text": "to burn waste paper/dead leaves",
+          "contextForm": "burn somebody/something"
+        },
+        {
+          "text": "All his belongings were burnt in the fire."
+        },
+        {
+          "text": "The house was **burnt to the ground** *(= completely destroyed)*."
+        },
+        {
+          "text": "The survivors burned the bodies of the victims of the plague."
+        },
+        {
+          "text": "Several protesters burned American flags."
+        },
+        {
+          "text": "The cigarette burned a hole in the carpet."
+        },
+        {
+          "text": "Joan of Arc was **burned at the stake**."
+        },
+        {
+          "text": "His greatest fear is of being **burnt alive**.",
+          "contextForm": "burn somebody/something + adj."
+        },
+        {
+          "text": "Many were left with no choice but to burn alive or leap to their deaths from the upper floors.",
+          "contextForm": "burn + adj."
+        },
+        {
+          "text": "Several people were burned to death."
+        },
+        {
+          "text": "The building was burned to the ground."
+        },
+        {
+          "text": "Bishop Tunstall preached a sermon against the book, after which copies were ceremonially burnt."
+        },
+        {
+          "text": "She burned all his letters."
+        }
+      ],
+      "collocations": {
+        "adverb": ["badly", "seriously", "severely"],
+        "phrases": [
+          "be burned alive",
+          "be burned at the stake",
+          "be burned to ashes"
+        ]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "if you burn a fuel, or a fuel burns, it produces heat, light or energy",
+      "sensetop": "burn something",
+      "labels": "(figurative)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Which fuel burns most efficiently?"
+        },
+        {
+          "text": "a furnace that burns gas/oil/coke",
+          "contextForm": "burn something"
+        },
+        {
+          "text": "Some people burn calories *(= use food to produce energy)* faster than others."
+        }
+      ],
+      "collocations": {
+        "adverb": ["brightly"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "if food burns, or if you burn it, it is damaged by too much heat",
+      "sensetop": "burn something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I can smell something burning in the kitchen."
+        },
+        {
+          "text": "Sorry—I burnt the toast.",
+          "contextForm": "burn something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to be damaged or injured by the sun, heat, acid, etc.; to damage or injure somebody/something in this way",
+      "sensetop": "burn somebodyburn somethingburn yourself",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "My skin burns easily *(= in the sun)*."
+        },
+        {
+          "text": "fair skin that burns easily"
+        },
+        {
+          "text": "I got badly burned by the sun yesterday.",
+          "contextForm": "burn somebody"
+        },
+        {
+          "text": "I burnt my tongue trying to eat a hot meat pie.",
+          "contextForm": "burn something"
+        },
+        {
+          "text": "The soup's hot. Don't burn your mouth."
+        },
+        {
+          "text": "His face had been horrifically burnt by acid."
+        },
+        {
+          "text": "I burned myself on the stove.",
+          "contextForm": "burn yourself"
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "if part of your body burns or is burning, it feels very hot and painful",
+      "examples": [
+        {
+          "text": "Your forehead's burning. Have you got a fever?"
+        },
+        {
+          "text": "Her cheeks burned with embarrassment."
+        },
+        {
+          "text": "Her skin seemed to burn at his touch."
+        },
+        {
+          "text": "Our eyes were burning from the chemicals in the air."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to produce light",
+      "examples": [
+        {
+          "text": "Lights were burning upstairs, but no one answered the door."
+        },
+        {
+          "text": "hot sunshine burning through the windows"
+        },
+        {
+          "text": "Their torches burned brightly in the dark."
+        }
+      ],
+      "collocations": {
+        "adverb": ["brightly"]
+      }
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to feel or show a very strong emotion or desire",
+      "sensetop": "burn with somethingburn to do something",
+      "labels": "(literary)",
+      "examples": [
+        {
+          "text": "Her eyes burned fiercely."
+        },
+        {
+          "text": "to be burning with rage/ambition/love",
+          "contextForm": "burn with something"
+        },
+        {
+          "text": "He was burning to go climbing again.",
+          "contextForm": "burn to do something"
+        },
+        {
+          "text": "He was burning with indignation."
+        },
+        {
+          "text": "I could sense the anger burning slowly inside her."
+        }
+      ],
+      "collocations": {
+        "adverb": ["fiercely", "slowly"],
+        "preposition": ["with"]
+      }
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to move very fast in a particular direction",
+      "sensetop": "+ adv./prep.",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The car was burning down the road."
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to make somebody very angry",
+      "sensetop": "burn somebody",
+      "labels": "(North American English, informal)",
+      "examples": [
+        {
+          "text": "So you did it just to burn me?"
+        }
+      ]
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to put information onto a CD or DVD",
+      "sensetop": "burn (something) (to something)",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Computers"]
+    },
+    {
+      "senseNumber": "13",
+      "definition": "to spend money",
+      "sensetop": "burn somethingburn through something",
+      "labels": "(business, informal)",
+      "examples": [
+        {
+          "text": "The project burns £2 million a year in contractor costs.",
+          "contextForm": "burn something"
+        },
+        {
+          "text": "The state has already burned through its cash reserves.",
+          "contextForm": "burn through something"
+        }
+      ]
+    },
+    {
+      "definition": "to do something that makes it impossible to return to the previous situation later",
+      "examples": [
+        {
+          "text": "Think carefully before you resign—you don't want to burn your bridges."
+        }
+      ]
+    },
+    {
+      "definition": "to become very tired by trying to do too many things and going to bed late and getting up early",
+      "examples": []
+    },
+    {
+      "definition": "to suffer as a result of doing something without realizing the possible bad results, especially in business",
+      "examples": [
+        {
+          "text": "He got his fingers badly burnt dabbling in the stock market."
+        }
+      ]
+    },
+    {
+      "definition": "if money burns a hole in your pocket, you want to spend it as soon as you have it",
+      "examples": []
+    },
+    {
+      "definition": "to study or work until late at night",
+      "examples": []
+    },
+    {
+      "definition": "to drive very fast",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Transport by car or lorry"]
+    },
+    {
+      "definition": "to become completely burnt, especially because it has been cooked for too long",
+      "examples": [
+        {
+          "text": "By the time I got home, the cake was burnt to a cinder."
+        },
+        {
+          "text": "The tower was struck by lightning and was burned to a cinder."
+        },
+        {
+          "text": "I like my steak burnt to a cinder on the outside and blood red and juicy inside."
+        }
+      ]
+    },
+    {
+      "definition": "to go wrong or to fail badly and suddenly",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "His career crashed and burned after he threatened a journalist."
+        },
+        {
+          "text": "The stock markets are getting ready to crash and burn."
+        },
+        {
+          "text": "She continued to crash and burn through personal controversies that included driving drunk."
+        }
+      ]
+    },
+    {
+      "definition": "a person thinks that other people are talking about them, especially in an unkind way",
+      "examples": [
+        {
+          "text": "‘I bumped into your ex-wife last night.’ ‘I thought I could feel my ears burning!’"
+        }
+      ]
+    },
+    {
+      "definition": "to have so much money that you do not have to be careful with it",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "verb Old English birnan ‘be on fire’ and bærnan ‘consume by fire’, both from the same Germanic base; related to German brennen."
+}

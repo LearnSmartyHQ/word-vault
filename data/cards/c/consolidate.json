@@ -1,0 +1,96 @@
+{
+  "word": "consolidate",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kənˈsɒlɪdeɪt/",
+        "audio": "x/consolidate/xconsolidate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kənˈsɒlɪdeɪts/",
+        "audio": "x/consolidate/xconsolidates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kənˈsɒlɪdeɪtɪd/",
+        "audio": "x/consolidate/xconsolidated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kənˈsɒlɪdeɪtɪŋ/",
+        "audio": "x/consolidate/xconsolidating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kənˈsɑːlɪdeɪt/",
+        "audio": "x/consolidate/xconsolidate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kənˈsɑːlɪdeɪts/",
+        "audio": "x/consolidate/xconsolidates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kənˈsɑːlɪdeɪtɪd/",
+        "audio": "x/consolidate/xconsolidated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kənˈsɑːlɪdeɪtɪŋ/",
+        "audio": "x/consolidate/xconsolidating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "consolidate",
+      "heSheIt": "consolidates"
+    },
+    "pastSimple": "consolidated",
+    "pastParticiple": "consolidated",
+    "ingForm": "consolidating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make a position of power or success stronger so that it is more likely to continue",
+      "sensetop": "consolidate (something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "With this new movie he has **consolidated** his **position** as the country's leading director."
+        },
+        {
+          "text": "Italy consolidated their lead with a second goal."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to join things together into one; to be joined into one",
+      "sensetop": "consolidate (something)",
+      "labels": "(specialist)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "All the debts have been consolidated."
+        },
+        {
+          "text": "consolidated accounts"
+        },
+        {
+          "text": "The two companies consolidated for greater efficiency."
+        }
+      ],
+      "topics": ["Money"]
+    }
+  ],
+  "wordOrigin": "early 16th cent. (in the sense ‘combine into a whole’): from Latin consolidare, from con- ‘together’ + solidare ‘make firm’ (from solidus ‘solid’)."
+}

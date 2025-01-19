@@ -1,0 +1,118 @@
+{
+  "word": "divert",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/daɪˈvɜːt/",
+        "audio": "d/divert/divert__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/daɪˈvɜːts/",
+        "audio": "d/divert/diverts__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/daɪˈvɜːtɪd/",
+        "audio": "d/divert/diverted__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/daɪˈvɜːtɪŋ/",
+        "audio": "d/divert/diverting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/daɪˈvɜːrt/",
+        "audio": "d/divert/divert__us_1_rr.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/daɪˈvɜːrts/",
+        "audio": "d/divert/diverts__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/daɪˈvɜːrtɪd/",
+        "audio": "d/divert/diverted__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/daɪˈvɜːrtɪŋ/",
+        "audio": "d/divert/diverting__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "divert",
+      "heSheIt": "diverts"
+    },
+    "pastSimple": "diverted",
+    "pastParticiple": "diverted",
+    "ingForm": "diverting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make somebody/something change direction",
+      "sensetop": "be divertedbe diverted (from something) (to/into/onto something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The course of the stream has now been diverted.",
+          "contextForm": "be diverted"
+        },
+        {
+          "text": "Northbound traffic will have to be diverted onto minor roads.",
+          "contextForm": "be diverted (from something) (to/into/onto something)"
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to use money, materials, etc. for a different purpose from their original purpose",
+      "sensetop": "be diverted (from something) (to/into something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "More of the budget was diverted into promotions.",
+          "contextForm": "be diverted (from something) (to/into something)"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to take somebody’s thoughts or attention away from something",
+      "sensetop": "divert somebody/something (away) from somethingdivert somebody/something (from something) to/onto something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The war diverted people's attention away from the economic situation.",
+          "contextForm": "divert somebody/something (away) from something"
+        },
+        {
+          "text": "She managed to divert the baby onto a different activity.",
+          "contextForm": "divert somebody/something (from something) to/onto something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to entertain people",
+      "sensetop": "be diverted",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Children are easily diverted.",
+          "contextForm": "be diverted"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: via French from Latin divertere, from di- ‘aside’ + vertere ‘to turn’."
+}

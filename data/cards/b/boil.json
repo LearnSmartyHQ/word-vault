@@ -1,0 +1,198 @@
+{
+  "word": "boil",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bɔɪl/",
+        "audio": "b/boil/boil__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/bɔɪlz/",
+        "audio": "b/boil/boils__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/bɔɪld/",
+        "audio": "b/boil/boiled__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈbɔɪlɪŋ/",
+        "audio": "b/boil/boiling__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bɔɪl/",
+        "audio": "b/boil/boil__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/bɔɪlz/",
+        "audio": "b/boil/boils__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/bɔɪld/",
+        "audio": "b/boil/boiled__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈbɔɪlɪŋ/",
+        "audio": "b/boil/boiling__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "boil",
+      "heSheIt": "boils"
+    },
+    "pastSimple": "boiled",
+    "pastParticiple": "boiled",
+    "ingForm": "boiling"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "when a liquid boils or when you boil it, it is heated to the point where it forms bubbles and turns to steam or vapour",
+      "sensetop": "boil something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The water was bubbling and boiling away."
+        },
+        {
+          "text": "Boil plenty of salted water, then add the spaghetti.",
+          "contextForm": "boil something"
+        },
+        {
+          "text": "Boil the water for five minutes to sterilize it."
+        },
+        {
+          "text": "Water boils at 100°C."
+        }
+      ],
+      "collocations": {
+        "adverb": ["furiously", "rapidly", "vigorously"],
+        "verb + boil": ["put something on to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "when a kettle, pan, etc. boils or when you boil a kettle, etc., it is heated until the water inside it boils",
+      "sensetop": "boil something+ adj.",
+      "labels": "(British English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The kettle's boiling."
+        },
+        {
+          "text": "I'll boil the kettle and make some tea.",
+          "contextForm": "boil something"
+        },
+        {
+          "text": "Cover the pot and let it boil gently for 25 minutes."
+        },
+        {
+          "text": "She left the gas on by mistake and the pan **boiled dry** *(= the water boiled until there was none left)*.",
+          "contextForm": "+ adj."
+        },
+        {
+          "text": "I'll put the kettle on to boil."
+        },
+        {
+          "text": "The kettle's boiled. Do you want some tea?"
+        },
+        {
+          "text": "Boil a large pan of salted water."
+        }
+      ],
+      "collocations": {
+        "adverb": ["furiously", "rapidly", "vigorously"],
+        "verb + boil": ["put something on to"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to cook or wash something in boiling water; to be cooked or washed in boiling water",
+      "sensetop": "boil somethingboil somebody something",
+      "labels": "(British English)(North American English)(British English)(North American English)(especially North American English)(British English)(British English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She put some potatoes on to boil."
+        },
+        {
+          "text": "boiled carrots/cabbage/potatoes",
+          "contextForm": "boil something"
+        },
+        {
+          "text": "to boil an egg for somebody"
+        },
+        {
+          "text": "to boil somebody an egg",
+          "contextForm": "boil somebody something"
+        },
+        {
+          "text": "She can scarcely boil an egg."
+        },
+        {
+          "text": "Boil the beans rapidly for ten minutes."
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adverb": ["furiously", "rapidly", "vigorously"],
+        "verb + boil": ["put something on to"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "if you boil with anger, etc. or anger, etc. boils inside you, you are very angry",
+      "sensetop": "boil (with something)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "He was boiling with rage."
+        },
+        {
+          "text": "She wanted to give vent to the fury boiling within her."
+        }
+      ],
+      "topics": ["Feelings"]
+    },
+    {
+      "definition": "to attempt to do something very difficult or impossible",
+      "examples": [
+        {
+          "text": "Don't try to boil the ocean by supporting every device imaginable."
+        }
+      ]
+    },
+    {
+      "definition": "to make somebody extremely angry",
+      "examples": [
+        {
+          "text": "The way he treats his employees really makes my blood boil."
+        }
+      ],
+      "topics": ["Feelings"]
+    },
+    {
+      "definition": "used to say that when you are impatient for something to happen, time seems to pass very slowly",
+      "labels": "(saying)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "verb Middle English: from Old French boillir, from Latin bullire ‘to bubble’, from bulla ‘bubble’."
+}

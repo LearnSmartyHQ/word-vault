@@ -1,0 +1,121 @@
+{
+  "word": "hail",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/heɪl/",
+        "audio": "h/hail/hail__gb_4.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/heɪlz/",
+        "audio": "h/hail/hails__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/heɪld/",
+        "audio": "h/hail/hailed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈheɪlɪŋ/",
+        "audio": "h/hail/hailing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/heɪl/",
+        "audio": "h/hail/hail__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/heɪlz/",
+        "audio": "h/hail/hails__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/heɪld/",
+        "audio": "h/hail/hailed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈheɪlɪŋ/",
+        "audio": "h/hail/hailing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "hail",
+      "heSheIt": "hails"
+    },
+    "pastSimple": "hailed",
+    "pastParticiple": "hailed",
+    "ingForm": "hailing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to describe somebody/something as being very good or special, especially in newspapers, etc.",
+      "sensetop": "be hailed (as) somethinghail somebody/something as something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The conference was hailed as a great success.",
+          "contextForm": "be hailed (as) something"
+        },
+        {
+          "text": "The expedition was widely hailed as a success."
+        },
+        {
+          "text": "Teenager Matt Brown is being hailed a hero for saving a young child from drowning."
+        },
+        {
+          "text": "Union leaders hailed the socialists’ victory as a huge step forward.",
+          "contextForm": "hail somebody/something as something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to signal to a taxi or a bus, in order to get the driver to stop",
+      "sensetop": "hail something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "to **hail a taxi/cab**"
+        }
+      ],
+      "topics": ["Transport by bus and train"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to call to somebody in order to say hello to them or attract their attention",
+      "sensetop": "hail somebody",
+      "labels": "(literary)",
+      "examples": [
+        {
+          "text": "A voice hailed us from the other side of the street."
+        },
+        {
+          "text": "We soon came **within hailing distance of** *(= fairly close to)* the others."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "when it hails, small balls of ice fall like rain from the sky",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "It's hailing!"
+        }
+      ],
+      "topics": ["Weather"]
+    }
+  ],
+  "wordOrigin": "verb sense 4 Old English hagol, hægl (noun), hagalian (verb), of Germanic origin; related to Dutch hagel and German Hagel. verb senses 1 to 3 Middle English: from the obsolete adjective hail ‘healthy’ (occurring in greetings and toasts, such as wæs hæil: see wassail), from Old Norse heill, related to hale and whole."
+}

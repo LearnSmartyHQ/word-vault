@@ -1,0 +1,106 @@
+{
+  "word": "broadcast",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈbrɔːdkɑːst/",
+        "audio": "b/broadcast/broadcast__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈbrɔːdkɑːsts/",
+        "audio": "b/broadcast/broadcasts__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈbrɔːdkɑːstɪŋ/",
+        "audio": "b/broadcast/broadcasting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈbrɔːdkæst/",
+        "audio": "b/broadcast/broadcast__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈbrɔːdkæsts/",
+        "audio": "b/broadcast/broadcasts__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈbrɔːdkæstɪŋ/",
+        "audio": "b/broadcast/broadcasting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "broadcast",
+      "heSheIt": "broadcasts"
+    },
+    "pastSimple": "broadcast",
+    "pastParticiple": "broadcast",
+    "ingForm": "broadcasting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to send out programmes on television or radio",
+      "sensetop": "broadcast (something)",
+      "labels": "(British English)(North American English)(especially British English)(especially North American English)(especially North American English)(especially British English)(especially North American English)(British English)(British English)(British English)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The concert will be **broadcast live** *(= at the same time as it takes place)* tomorrow evening."
+        },
+        {
+          "text": "Most of the programmes are broadcast in English."
+        },
+        {
+          "text": "They began broadcasting in 1922."
+        },
+        {
+          "text": "The station broadcasts programmes around the world in 43 languages."
+        },
+        {
+          "text": "The event will be broadcast over the internet"
+        },
+        {
+          "text": "He broadcasts his Saturday morning show on the station."
+        },
+        {
+          "text": "This interview was originally broadcast last Friday."
+        },
+        {
+          "text": "We will broadcast live from the ship."
+        },
+        {
+          "text": "a Christmas message broadcast to the nation"
+        }
+      ],
+      "topics": ["TV, radio and news"],
+      "collocations": {
+        "adverb": ["live", "nationally", "originally"],
+        "preposition": ["from", "to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to tell a lot of people about something",
+      "sensetop": "broadcast something",
+      "examples": [
+        {
+          "text": "I don't like to **broadcast the fact** that my father owns the company."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "mid 18th cent. (in the sense ‘sown by scattering’): from broad + the past participle of cast ‘throw’. Senses relating to radio and television date from the early 20th cent."
+}

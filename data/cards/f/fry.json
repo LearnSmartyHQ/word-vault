@@ -1,0 +1,106 @@
+{
+  "word": "fry",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/fraɪ/",
+        "audio": "f/fry/fry__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/fraɪz/",
+        "audio": "f/fry/fries__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/fraɪd/",
+        "audio": "f/fry/fried__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfraɪɪŋ/",
+        "audio": "f/fry/frying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/fraɪ/",
+        "audio": "f/fry/fry__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/fraɪz/",
+        "audio": "f/fry/fries__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/fraɪd/",
+        "audio": "f/fry/fried__us_3.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfraɪɪŋ/",
+        "audio": "f/fry/frying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "fry",
+      "heSheIt": "fries"
+    },
+    "pastSimple": "fried",
+    "pastParticiple": "fried",
+    "ingForm": "frying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to cook something in hot fat or oil; to be cooked in hot fat or oil",
+      "sensetop": "fry (something)fry something in something",
+      "labels": "(British English)(North American English)(British English)(North American English)(especially North American English)(British English)(British English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "fried fish",
+          "contextForm": "fry (something)"
+        },
+        {
+          "text": "We had fried chicken for dinner."
+        },
+        {
+          "text": "the smell of bacon frying"
+        },
+        {
+          "text": "Fry the onions gently in oil.",
+          "contextForm": "fry something in something"
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adverb": ["gently", "lightly"],
+        "preposition": ["in"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to be burnt by the sun",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "You'll fry on the beach if you're not careful."
+        }
+      ]
+    },
+    {
+      "definition": "to have more important or more interesting things to do",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "verb Middle English: from Old French frire, from Latin frigere."
+}

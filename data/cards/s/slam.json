@@ -1,0 +1,171 @@
+{
+  "word": "slam",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/slæm/",
+        "audio": "s/slam/slam__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/slæmz/",
+        "audio": "s/slam/slams__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/slæmd/",
+        "audio": "s/slam/slammed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈslæmɪŋ/",
+        "audio": "s/slam/slamming__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/slæm/",
+        "audio": "s/slam/slam__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/slæmz/",
+        "audio": "s/slam/slams__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/slæmd/",
+        "audio": "s/slam/slammed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈslæmɪŋ/",
+        "audio": "s/slam/slamming__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "slam",
+      "heSheIt": "slams"
+    },
+    "pastSimple": "slammed",
+    "pastParticiple": "slammed",
+    "ingForm": "slamming"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to shut, or to make something shut, with a lot of force, making a loud noise",
+      "sensetop": "+ adj.slam somethingslam something + adj.+ adv./prep.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I heard the door slam behind him."
+        },
+        {
+          "text": "A window slammed shut in the wind.",
+          "contextForm": "+ adj."
+        },
+        {
+          "text": "He stormed out of the house, slamming the door as he left.",
+          "contextForm": "slam something"
+        },
+        {
+          "text": "She slammed the lid shut.",
+          "contextForm": "slam something + adj."
+        },
+        {
+          "text": "She slammed out of the room *(= went out and slammed* the door behind her).",
+          "contextForm": "+ adv./prep."
+        }
+      ],
+      "synonyms": "bang",
+      "collocations": {
+        "adverb": ["hard", "loudly", "angrily"],
+        "verb + slam": ["hear something"],
+        "preposition": ["against", "behind", "into"],
+        "phrases": [
+          "slam something home",
+          "slam on the brakes",
+          "slam (something) shut"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to put, push or throw something into a particular place or position with a lot of force",
+      "sensetop": "slam something + adv./prep.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She slammed down the phone angrily."
+        },
+        {
+          "text": "He slammed on the brakes *(= stopped the car very suddenly)*."
+        },
+        {
+          "text": "He repeatedly slammed the man's head against the wall."
+        },
+        {
+          "text": "He slammed home the penalty for goal number two."
+        }
+      ],
+      "collocations": {
+        "adverb": ["hard", "loudly", "angrily"],
+        "verb + slam": ["hear something"],
+        "preposition": ["against", "behind", "into"],
+        "phrases": [
+          "slam something home",
+          "slam on the brakes",
+          "slam (something) shut"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to crash into something with a lot of force; to make somebody/something crash into something with a lot of force",
+      "sensetop": "+ adv./prep.slam somebody/something + adv./prep.",
+      "labels": "(figurative)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The car skidded and slammed into a tree.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "Kath's heart slammed against her ribs."
+        },
+        {
+          "text": "The force of the explosion slammed me against the wall.",
+          "contextForm": "slam somebody/something + adv./prep."
+        }
+      ],
+      "topics": ["Transport by car or lorry"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to criticize somebody/something very strongly",
+      "sensetop": "slam somebody/something",
+      "examples": [
+        {
+          "text": "The government has been slammed for failing to take firm action against drinking and driving."
+        }
+      ]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to shut a door hard when somebody is trying to come in",
+      "examples": []
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to refuse to talk to somebody or meet them, in a rude way",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "late 17th cent.: probably of Scandinavian origin; compare with Old Norse slam(b)ra."
+}

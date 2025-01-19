@@ -1,0 +1,174 @@
+{
+  "word": "execute",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈeksɪkjuːt/",
+        "audio": "e/execute/execute__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈeksɪkjuːts/",
+        "audio": "e/execute/executes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈeksɪkjuːtɪd/",
+        "audio": "e/execute/executed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈeksɪkjuːtɪŋ/",
+        "audio": "e/execute/executing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈeksɪkjuːt/",
+        "audio": "e/execute/execute__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈeksɪkjuːts/",
+        "audio": "e/execute/executes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈeksɪkjuːtɪd/",
+        "audio": "e/execute/executed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈeksɪkjuːtɪŋ/",
+        "audio": "e/execute/executing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "execute",
+      "heSheIt": "executes"
+    },
+    "pastSimple": "executed",
+    "pastParticiple": "executed",
+    "ingForm": "executing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to kill somebody, especially as a legal punishment",
+      "sensetop": "be executed (for something)be executed by something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He was executed for treason.",
+          "contextForm": "be executed (for something)"
+        },
+        {
+          "text": "The prisoners were executed by firing squad.",
+          "contextForm": "be executed by something"
+        },
+        {
+          "text": "innocent people who are wrongly executed"
+        },
+        {
+          "text": "He was ultimately executed by lethal injection on June 11, 2001."
+        }
+      ],
+      "topics": ["War and conflict", "Crime and punishment"],
+      "collocations": {
+        "adverb": ["summarily", "illegally", "publicly"],
+        "preposition": ["as", "for"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to do a piece of work, perform a duty, put a plan into action, etc.",
+      "sensetop": "execute something",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They drew up and executed a plan to reduce fuel consumption."
+        },
+        {
+          "text": "The crime was very cleverly executed."
+        },
+        {
+          "text": "Check that the computer has executed your commands."
+        },
+        {
+          "text": "I swear that I will faithfully execute the office of President of the United States."
+        },
+        {
+          "text": "a carefully executed and well-presented study"
+        }
+      ],
+      "collocations": {
+        "adverb": ["beautifully", "boldly", "brilliantly"],
+        "phrases": ["duly executed"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to successfully perform an action or movement that requires skill",
+      "sensetop": "execute something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The pilot executed a perfect landing."
+        },
+        {
+          "text": "The movement was beautifully executed."
+        },
+        {
+          "text": "The second goal was superbly executed."
+        },
+        {
+          "text": "The album contains beautifully executed songs such as ‘Can't Explain’."
+        },
+        {
+          "text": "The show was cleverly conceived and splendidly executed."
+        },
+        {
+          "text": "a series of perfectly executed pirouettes"
+        }
+      ],
+      "collocations": {
+        "adverb": ["beautifully", "boldly", "brilliantly"],
+        "phrases": ["duly executed"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to make or produce a work of art",
+      "sensetop": "execute something",
+      "labels": "(formal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Picasso also executed several landscapes at Horta de San Juan."
+        }
+      ],
+      "topics": ["Art"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to follow the instructions in a legal document; to make a document legally acceptable",
+      "sensetop": "execute something",
+      "labels": "(law)",
+      "examples": [
+        {
+          "text": "His will was executed by his lawyers in 2008."
+        },
+        {
+          "text": "The agreement had been duly executed."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French executer, from medieval Latin executare, from Latin exsequi ‘follow up, punish’, from ex- ‘out’ + sequi ‘follow’."
+}

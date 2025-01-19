@@ -1,0 +1,137 @@
+{
+  "word": "highlight",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈhaɪlaɪt/",
+        "audio": "h/highlight/highlight__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈhaɪlaɪts/",
+        "audio": "h/highlight/highlights__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈhaɪlaɪtɪd/",
+        "audio": "h/highlight/highlighted__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈhaɪlaɪtɪŋ/",
+        "audio": "h/highlight/highlighting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈhaɪlaɪt/",
+        "audio": "h/highlight/highlight__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈhaɪlaɪts/",
+        "audio": "h/highlight/highlights__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈhaɪlaɪtɪd/",
+        "audio": "h/highlight/highlighted__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈhaɪlaɪtɪŋ/",
+        "audio": "h/highlight/highlighting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "highlight",
+      "heSheIt": "highlights"
+    },
+    "pastSimple": "highlighted",
+    "pastParticiple": "highlighted",
+    "ingForm": "highlighting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to emphasize something, especially so that people give it more attention",
+      "sensetop": "highlight something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The report **highlighted the importance** of exercise to maintain a healthy body."
+        },
+        {
+          "text": "Students **highlighted the need** for better communication between staff."
+        },
+        {
+          "text": "to **highlight the** major **problems/issues**"
+        },
+        {
+          "text": "This study **highlights the fact** that couples are keen to assist others."
+        },
+        {
+          "text": "The incident has sadly only served to highlight the differences within the party."
+        },
+        {
+          "text": "He highlighted the case of Harry Farr, 25, who was executed for cowardice in 1916."
+        },
+        {
+          "text": "The earthquake highlighted the vulnerability of elevated highways."
+        },
+        {
+          "text": "The needs of these children were dramatically highlighted by the Child Poverty Action Group."
+        },
+        {
+          "text": "The peace talks merely highlighted the great gulf in understanding between the two sides."
+        },
+        {
+          "text": "These figures clearly highlight the difference in world living standards."
+        }
+      ],
+      "collocations": {
+        "adverb": ["clearly", "dramatically", "graphically"],
+        "verb + highlight": ["serve to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to mark part of a text with a special coloured pen, or to mark an area on a computer screen, to emphasize it or make it easier to see",
+      "sensetop": "highlight something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I've highlighted the important passages in yellow."
+        },
+        {
+          "text": "Highlight the section that you want to delete."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to make some parts of your hair a lighter colour than the rest by using a chemical substance on them",
+      "sensetop": "highlight something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I’m having my hair highlighted."
+        },
+        {
+          "text": "The shampoo is ideal for permed or highlighted hair."
+        }
+      ],
+      "topics": ["Appearance"]
+    }
+  ],
+  "wordOrigin": null
+}

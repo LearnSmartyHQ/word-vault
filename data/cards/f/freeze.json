@@ -1,0 +1,314 @@
+{
+  "word": "freeze",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/friːz/",
+        "audio": "f/freeze/freeze__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfriːzɪz/",
+        "audio": "f/freeze/freezes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/frəʊz/",
+        "audio": "f/freeze/froze__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfrəʊzn/",
+        "audio": "f/freeze/frozen__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfriːzɪŋ/",
+        "audio": "f/freeze/freezing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/friːz/",
+        "audio": "f/freeze/freeze__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfriːzɪz/",
+        "audio": "f/freeze/freezes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/frəʊz/",
+        "audio": "f/freeze/froze__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfrəʊzn/",
+        "audio": "f/freeze/frozen__us_3.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfriːzɪŋ/",
+        "audio": "f/freeze/freezing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "freeze",
+      "heSheIt": "freezes"
+    },
+    "pastSimple": "froze",
+    "pastParticiple": "frozen",
+    "ingForm": "freezing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to become hard, and often turn to ice, as a result of extreme cold; to make something do this",
+      "sensetop": "freeze somethingfreeze + adj.freeze something + adj.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Water freezes at 0°C."
+        },
+        {
+          "text": "It's so cold that even the river has frozen."
+        },
+        {
+          "text": "The cold weather had frozen the ground.",
+          "contextForm": "freeze something"
+        },
+        {
+          "text": "The clothes **froze solid** on the washing line.",
+          "contextForm": "freeze + adj."
+        },
+        {
+          "text": "The frost had frozen the ground hard.",
+          "contextForm": "freeze something + adj."
+        },
+        {
+          "text": "Last year's cold spell froze the lake solid."
+        }
+      ],
+      "topics": ["Weather"],
+      "collocations": {
+        "adverb": ["solid", "over", "up"],
+        "preposition": ["into"],
+        "phrases": ["freeze to death"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "if a pipe, lock or machine freezes, or something freezes it, it becomes blocked with frozen liquid and therefore cannot be used",
+      "sensetop": "freeze upfreeze something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The pipes have frozen, so we've got no water."
+        },
+        {
+          "text": "I kept the car running to stop the engine freezing up.",
+          "contextForm": "freeze up"
+        },
+        {
+          "text": "Ten degrees of frost had frozen the lock on the car.",
+          "contextForm": "freeze something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["solid", "over", "up"],
+        "preposition": ["into"],
+        "phrases": ["freeze to death"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "when it freezes, the weather is at or below 0° Celsius",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "It may freeze tonight, so bring those plants inside."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to be very cold; to be so cold that you die",
+      "sensetop": "freeze somebody",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Every time she opens the window we all freeze."
+        },
+        {
+          "text": "Two men **froze to death** on the mountain."
+        },
+        {
+          "text": "Two men were frozen to death on the mountain.",
+          "contextForm": "freeze somebody"
+        }
+      ],
+      "collocations": {
+        "adverb": ["solid", "over", "up"],
+        "preposition": ["into"],
+        "phrases": ["freeze to death"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to keep something, especially food, at a very low temperature in order to preserve it",
+      "sensetop": "freeze something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Can you freeze this cake?"
+        },
+        {
+          "text": "The organ samples were immediately frozen in liquid nitrogen."
+        }
+      ],
+      "collocations": {
+        "adverb": ["well"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to be able to be kept at a very low temperature",
+      "examples": [
+        {
+          "text": "Some fruits freeze better than others."
+        }
+      ],
+      "collocations": {
+        "adverb": ["well"]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to stop moving suddenly because of fear, etc.",
+      "labels": "(figurative)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "I froze with terror as the door slowly opened."
+        },
+        {
+          "text": "The smile froze on her lips."
+        },
+        {
+          "text": "The police officer shouted ‘Freeze!’ and the man dropped the gun."
+        },
+        {
+          "text": "Suddenly, Ronny seemed to freeze."
+        },
+        {
+          "text": "He was so surprised he froze to the spot."
+        },
+        {
+          "text": "Maggie's face had frozen into a cold mask."
+        },
+        {
+          "text": "She froze with horror when she saw the body."
+        }
+      ],
+      "collocations": {
+        "adverb": ["suddenly", "for a moment", "for a second"],
+        "verb + freeze": ["seem to"],
+        "preposition": ["in", "with", "into"],
+        "phrases": ["freeze to the spot", "freeze on the spot"]
+      }
+    },
+    {
+      "senseNumber": "8",
+      "definition": "when a computer screen freezes, you cannot move any of the images, etc. on it, because there is a problem with the system",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Computers"]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to stop a film or video in order to look at a particular picture",
+      "sensetop": "freeze something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Freeze the action there!"
+        }
+      ],
+      "topics": ["Film and theatre"]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to hold wages, prices, etc. at a fixed level for a period of time",
+      "sensetop": "freeze something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Salaries have been frozen for the current year."
+        },
+        {
+          "text": "Prices have been frozen at this level for over a year now."
+        }
+      ],
+      "synonyms": "peg",
+      "topics": ["Money"],
+      "collocations": {
+        "adverb": ["effectively"],
+        "preposition": ["at"]
+      }
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to prevent money, a bank account, etc. from being used by getting a court order which bans it",
+      "sensetop": "freeze something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The company's assets have been frozen."
+        }
+      ],
+      "topics": ["Money"]
+    },
+    {
+      "definition": "to make you extremely frightened or shocked",
+      "examples": [],
+      "topics": ["Feelings"]
+    },
+    {
+      "definition": "to suddenly stop because something has frightened or surprised you",
+      "examples": [
+        {
+          "text": "Jess froze in her tracks and took a deep breath."
+        }
+      ]
+    },
+    {
+      "definition": "to suddenly make somebody stop by frightening or surprising them; to suddenly stop because something has frightened or surprised you",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "The question stopped Alice in her tracks."
+        },
+        {
+          "text": "Suddenly he stopped dead in his tracks: what was he doing?"
+        },
+        {
+          "text": "The disease was stopped in its tracks by immunization programmes."
+        }
+      ],
+      "topics": ["Feelings"]
+    }
+  ],
+  "wordOrigin": "Old English frēosan (in the phrase hit frēoseth ‘it is freezing’), of Germanic origin; related to Dutch vriezen and German frieren, from an Indo-European root shared by Latin pruina ‘hoar frost’ and frost."
+}

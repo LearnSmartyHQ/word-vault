@@ -1,0 +1,64 @@
+{
+  "word": "euro",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈjʊərəʊ/",
+        "audio": "e/euro/euro__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈjʊrəʊ/",
+        "audio": "e/euro/euro__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the unit of money of some countries of the European Union",
+      "sensetop": "in euros",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I paid five euros for it."
+        },
+        {
+          "text": "10 million euro"
+        },
+        {
+          "text": "The price is given in euros.",
+          "contextForm": "in euros"
+        },
+        {
+          "text": "a 30-million-euro deal"
+        },
+        {
+          "text": "A half-kilo pack of pasta costs around 70 euro cents."
+        }
+      ],
+      "topics": ["Money"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "euros as a system of money; the value of the euro compared with the value of the money of other countries",
+      "labels": "(finance)",
+      "examples": [
+        {
+          "text": "What if the UK had **joined the Euro** in 1999?"
+        },
+        {
+          "text": "the value of the euro against the dollar"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": null
+}

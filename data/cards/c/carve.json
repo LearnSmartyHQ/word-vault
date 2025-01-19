@@ -1,0 +1,158 @@
+{
+  "word": "carve",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kɑːv/",
+        "audio": "c/carve/carve__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kɑːvz/",
+        "audio": "c/carve/carves__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kɑːvd/",
+        "audio": "c/carve/carved__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkɑːvɪŋ/",
+        "audio": "c/carve/carving__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kɑːrv/",
+        "audio": "c/carve/carve__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kɑːrvz/",
+        "audio": "c/carve/carves__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kɑːrvd/",
+        "audio": "c/carve/carved__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkɑːrvɪŋ/",
+        "audio": "c/carve/carving__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "carve",
+      "heSheIt": "carves"
+    },
+    "pastSimple": "carved",
+    "pastParticiple": "carved",
+    "ingForm": "carving"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make objects, patterns, etc. by cutting away material from a piece of wood or stone, or another hard material",
+      "sensetop": "carve somethingcarve something from/out of somethingcarve something into/in somethingcarve in something",
+      "labels": "(figurative)(US English)(US English)(US English)(especially British English)(North American English usually)(British English)(North American English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a carved doorway",
+          "contextForm": "carve something"
+        },
+        {
+          "text": "The statue was carved out of a single piece of stone.",
+          "contextForm": "carve something from/out of something"
+        },
+        {
+          "text": "The beads were carved from solid ivory."
+        },
+        {
+          "text": "The wood had been carved into the shape of a flower.",
+          "contextForm": "carve something into/in something"
+        },
+        {
+          "text": "Over the centuries, melting snow had carved valleys in the landscape."
+        },
+        {
+          "text": "She carves in both stone and wood.",
+          "contextForm": "carve in something"
+        }
+      ],
+      "topics": ["Art", "Buildings"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to write something on a surface by cutting into it",
+      "sensetop": "carve something (on something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They carved their initials on the desk."
+        },
+        {
+          "text": "A Latin inscription had been carved on the lid of the box."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to cut a large piece of cooked meat into smaller pieces for eating",
+      "sensetop": "carve (something)carve (somebody) something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Who's going to carve the turkey?",
+          "contextForm": "carve (something)carve (somebody) something"
+        },
+        {
+          "text": "Lunch is ready. Who's going to carve?"
+        },
+        {
+          "text": "She taught me how to carve a leg of lamb."
+        },
+        {
+          "text": "We watched as the waiter expertly carved the duck."
+        }
+      ],
+      "topics": ["Cooking and eating"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to work hard in order to have a successful career, reputation, etc.",
+      "sensetop": "carve something (out)carve something (out) for yourself",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "He succeeded in carving out a career in the media.",
+          "contextForm": "carve something (out)"
+        },
+        {
+          "text": "She has carved a place for herself in the fashion world.",
+          "contextForm": "carve something (out) for yourself"
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "unable to be changed",
+      "examples": [
+        {
+          "text": "People should remember that our proposals aren't set in stone."
+        },
+        {
+          "text": "These rules are not set in stone."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English ceorfan ‘cut, carve’, of West Germanic origin; related to Dutch kerven."
+}

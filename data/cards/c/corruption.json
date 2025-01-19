@@ -1,0 +1,118 @@
+{
+  "word": "corruption",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəˈrʌpʃn/",
+        "audio": "c/corruption/corruption__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəˈrʌpʃn/",
+        "audio": "c/corruption/corruption__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "dishonest or illegal behaviour, especially of people in authority",
+      "labels": "(British English)(North American English)(British English)(North American English)(especially British English)(especially British English)(especially North American English)(especially British English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "allegations of **bribery and corruption**"
+        },
+        {
+          "text": "The new district attorney has promised to fight police corruption."
+        },
+        {
+          "text": "He strongly attacked corruption and favouritism in the government."
+        },
+        {
+          "text": "She was brought down by a corruption scandal."
+        },
+        {
+          "text": "The corruption allegations proved false."
+        },
+        {
+          "text": "This police unit was established to fight corruption."
+        },
+        {
+          "text": "corruption among high-ranking government officials"
+        },
+        {
+          "text": "corruption in government"
+        },
+        {
+          "text": "There were allegations of bribery and corruption."
+        }
+      ],
+      "topics": ["Crime and punishment", "Personal qualities"],
+      "collocations": {
+        "adjective": ["endemic", "massive", "rampant"],
+        "… of corruption": ["case"],
+        "verb + corruption": ["attack", "combat", "fight"],
+        "corruption + noun": ["scandal", "allegation", "charge"],
+        "preposition": ["corruption among", "corruption in"],
+        "phrases": [
+          "accusations of corruption",
+          "allegations of corruption",
+          "charges of corruption"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the act or effect of making somebody change from moral to immoral standards of behaviour",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He claimed that sex and violence on TV led to the corruption of young people."
+        }
+      ],
+      "collocations": {
+        "adjective": ["endemic", "massive", "rampant"],
+        "… of corruption": ["case"],
+        "verb + corruption": ["attack", "combat", "fight"],
+        "corruption + noun": ["scandal", "allegation", "charge"],
+        "preposition": ["corruption among", "corruption in"],
+        "phrases": [
+          "accusations of corruption",
+          "allegations of corruption",
+          "charges of corruption"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the form of a word or phrase that has become changed from its original form in some way; the process by which a word or phrase changes form in this way",
+      "examples": [
+        {
+          "text": "The word ‘holiday’ is a corruption of ‘holy day’."
+        },
+        {
+          "text": "He thought it was possible to secure the language from corruption and decay."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "the effect when data is changed by accident in a computer system due to hardware or software failure",
+      "labels": "(computing)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "A failure of a hard disk can cause unrecoverable data corruption."
+        }
+      ],
+      "topics": ["Computers"]
+    }
+  ],
+  "wordOrigin": "Middle English: via Old French from Latin corruptio(n-), from corrumpere ‘mar, bribe, destroy’, from cor- ‘altogether’ + rumpere ‘to break’."
+}

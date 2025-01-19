@@ -1,0 +1,80 @@
+{
+  "word": "crowded",
+  "partOfSpeech": "adjective",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkraʊdɪd/",
+        "audio": "c/crowded/crowded__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkraʊdɪd/",
+        "audio": "c/crowded/crowded__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "having a lot of people or too many people",
+      "sensetop": "crowded with somebody",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We made our way through the crowded streets."
+        },
+        {
+          "text": "a crowded bar"
+        },
+        {
+          "text": "The main beach can **get** really **crowded** in summer."
+        },
+        {
+          "text": "London was very crowded."
+        },
+        {
+          "text": "In the spring the place is crowded with skiers.",
+          "contextForm": "crowded with somebody"
+        },
+        {
+          "text": "The shops were all very crowded."
+        },
+        {
+          "text": "The station was very crowded."
+        },
+        {
+          "text": "The store was crowded with shoppers."
+        },
+        {
+          "text": "They live in densely crowded conditions."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "become", "get"],
+        "adverb": ["extremely", "fairly", "very"],
+        "preposition": ["with"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "full of something",
+      "sensetop": "crowded (with something)",
+      "examples": [
+        {
+          "text": "a room crowded with books"
+        },
+        {
+          "text": "We have a very crowded schedule."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": null
+}

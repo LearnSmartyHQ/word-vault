@@ -1,0 +1,123 @@
+{
+  "word": "location",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ləʊˈkeɪʃn/",
+        "audio": "l/location/location__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ləʊˈkeɪʃn/",
+        "audio": "l/location/location__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a place where something happens or exists; the position of something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a honeymoon in a secret location"
+        },
+        {
+          "text": "Mobile phones can determine our exact location and relay it to the police in an emergency."
+        },
+        {
+          "text": "The harsh climate and remote location made mining even more difficult."
+        },
+        {
+          "text": "the country's strategic **geographical/geographic location**"
+        },
+        {
+          "text": "He couldn't pinpoint her exact location because of some kind of interference."
+        },
+        {
+          "text": "The equipment allows sailors to read their geographical coordinates for any given location."
+        },
+        {
+          "text": "We selected these two locations because they offer a range of services."
+        },
+        {
+          "text": "We still do not know the precise location of the crash."
+        },
+        {
+          "text": "The company is moving to a new location."
+        },
+        {
+          "text": "The hotel is in a central location near the market place."
+        },
+        {
+          "text": "The location of the nests is not being disclosed."
+        }
+      ],
+      "topics": ["Buildings"],
+      "collocations": {
+        "adjective": ["exact", "precise", "specific"],
+        "verb + location": ["show", "find", "identify"],
+        "preposition": ["at a/​the… location", "on location"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a place outside a film studio where scenes of a film are made",
+      "sensetop": "location for somethingon location",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The village was used as the location for a popular TV series.",
+          "contextForm": "location for something"
+        },
+        {
+          "text": "The movie was shot entirely on location in Italy.",
+          "contextForm": "on location"
+        },
+        {
+          "text": "the exotic locations they filmed in"
+        },
+        {
+          "text": "He went to the restaurant to scout a location for his next film."
+        }
+      ],
+      "topics": ["Film and theatre"],
+      "collocations": {
+        "adjective": ["exact", "precise", "specific"],
+        "verb + location": ["show", "find", "identify"],
+        "preposition": ["at a/​the… location", "on location"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the act of finding the position of somebody/something",
+      "examples": [
+        {
+          "text": "Location of a suitable site may take some time."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a position or an address in computer memory",
+      "labels": "(computing)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The vulnerability lets hackers access data from any location in the physical memory of a system."
+        }
+      ],
+      "topics": ["Computers"]
+    }
+  ],
+  "wordOrigin": "late 16th cent.: from Latin locatio(n-), from the verb locare, from locus ‘place’."
+}

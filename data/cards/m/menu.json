@@ -1,0 +1,121 @@
+{
+  "word": "menu",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmenjuː/",
+        "audio": "m/menu/menu__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmenjuː/",
+        "audio": "m/menu/menu__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a list of the food that is available at a restaurant or to be served at a meal",
+      "sensetop": "on the menu",
+      "labels": "(especially British English)(British English)(especially North American English)(especially British English)(North American English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "May we have the menu?"
+        },
+        {
+          "text": "to ask for/look at the menu"
+        },
+        {
+          "text": "the lunch/dinner menu"
+        },
+        {
+          "text": "What's on the menu *(= for dinner)* tonight?",
+          "contextForm": "on the menu"
+        },
+        {
+          "text": "The chef put together a special menu of drinks and dishes employing chocolate."
+        },
+        {
+          "text": "Many restaurants do a very reasonable set menu at lunchtime."
+        },
+        {
+          "text": "Passengers are offered a daily choice of menu."
+        },
+        {
+          "text": "She completely changes her seasonal menus every few months."
+        },
+        {
+          "text": "The chef was chalking the daily specials on the menu board."
+        },
+        {
+          "text": "The restaurant changes its menu every six months."
+        },
+        {
+          "text": "a ten-course tasting menu"
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adjective": ["extensive", "limited", "full"],
+        "verb + menu": ["consult", "have", "look at"],
+        "menu + verb": [
+          "feature something",
+          "include something",
+          "offer something"
+        ],
+        "menu + noun": ["board", "choice", "selection"],
+        "preposition": ["on the menu"],
+        "phrases": ["a choice of menu"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a list of possible choices that are shown on a computer screen",
+      "labels": "(computing)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a pull-down/pop-up menu"
+        },
+        {
+          "text": "When highlighted information is clicked, a pop-up menu appears."
+        },
+        {
+          "text": "I clicked on a **menu item** called ‘connect to server’."
+        },
+        {
+          "text": "a menu option/button"
+        },
+        {
+          "text": "Go to the topic menu in the upper right-hand corner."
+        },
+        {
+          "text": "buttons that make it easy to navigate the on-screen menu"
+        },
+        {
+          "text": "You can choose from a menu of options."
+        },
+        {
+          "text": "I clicked the icon in the start menu."
+        }
+      ],
+      "topics": ["Computers"],
+      "collocations": {
+        "adjective": ["drop-down", "pop-up", "pull-down"],
+        "verb + menu": ["select something from", "go to", "access"],
+        "menu + noun": ["bar", "item", "choice"]
+      }
+    }
+  ],
+  "wordOrigin": "mid 19th cent.: from French, ‘detailed list’ (noun use of menu ‘small, detailed’), from Latin minutus ‘very small’."
+}

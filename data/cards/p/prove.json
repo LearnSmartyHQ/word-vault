@@ -1,0 +1,258 @@
+{
+  "word": "prove",
+  "partOfSpeech": "verblinking verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pruːv/",
+        "audio": "p/prove/prove__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pruːvz/",
+        "audio": "p/prove/proves__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pruːvd/",
+        "audio": "p/prove/proved__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈpruːvn//ˈprəʊvn/",
+        "audio": "p/prove/proven__gb_4.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈpruːvɪŋ/",
+        "audio": "p/prove/proving__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pruːv/",
+        "audio": "p/prove/prove__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pruːvz/",
+        "audio": "p/prove/proves__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pruːvd/",
+        "audio": "p/prove/proved__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈpruːvn/",
+        "audio": "p/prove/proven__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈpruːvɪŋ/",
+        "audio": "p/prove/proving__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "prove",
+      "heSheIt": "proves"
+    },
+    "pastSimple": "proved",
+    "pastParticiple": "proved",
+    "ingForm": "proving"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to use facts, evidence, etc. to show that something is true",
+      "sensetop": "prove somethingprove something to somebodyprove (that)…prove somebody/something/yourself + adj./nounprove somebody/something/yourself to be/have somethingprove what, how, etc…it is proved that…",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They hope this new evidence will **prove her innocence**.",
+          "contextForm": "prove something"
+        },
+        {
+          "text": "‘I know you're lying.’ ‘Prove it!’"
+        },
+        {
+          "text": "He felt he needed to **prove his point** *(= show other people that he was right)*."
+        },
+        {
+          "text": "Are you just doing this to **prove a point**?"
+        },
+        {
+          "text": "**What are you trying to prove**?"
+        },
+        {
+          "text": "I certainly **don't have anything to prove**—my record speaks for itself."
+        },
+        {
+          "text": "The prosecution has failed to **prove its case**."
+        },
+        {
+          "text": "She continued to **prove her worth** to the team."
+        },
+        {
+          "text": "Just give me a chance and I'll prove it to you.",
+          "contextForm": "prove something to somebody"
+        },
+        {
+          "text": "This proves (that) I was right.",
+          "contextForm": "prove (that)…"
+        },
+        {
+          "text": "She was determined to **prove** everyone **wrong**.",
+          "contextForm": "prove somebody/something/yourself + adj./noun"
+        },
+        {
+          "text": "In this country, you are innocent until proven guilty."
+        },
+        {
+          "text": "You've just proved yourself to be a liar.",
+          "contextForm": "prove somebody/something/yourself to be/have something"
+        },
+        {
+          "text": "This just proves what I have been saying for some time.",
+          "contextForm": "prove what, how, etc…"
+        },
+        {
+          "text": "**Can it be proved that** he did commit these offences?",
+          "contextForm": "it is proved that…"
+        },
+        {
+          "text": "She tried to prove her theory to her friends."
+        },
+        {
+          "text": "The deaths are being treated as suspicious until we can prove otherwise."
+        },
+        {
+          "text": "This theory cannot be proved scientifically."
+        },
+        {
+          "text": "The prosecution must prove guilt beyond reasonable doubt."
+        },
+        {
+          "text": "I'm delighted he proved so many people wrong."
+        }
+      ],
+      "topics": ["Opinion and argument", "Scientific research"],
+      "collocations": {
+        "adverb": ["conclusively", "definitively", "scientifically"],
+        "verb + prove": ["be difficult to", "be impossible to", "be easy to"],
+        "preposition": ["to"],
+        "phrases": [
+          "a chance to prove something",
+          "prove somebody right",
+          "prove somebody wrong"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "if something proves dangerous, expensive, etc. or if it proves to be dangerous, etc., you discover that it is dangerous, etc. over a period of time",
+      "sensetop": "+ adj.+ nounprove to be something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The strategy has **proved successful**.",
+          "contextForm": "+ adj."
+        },
+        {
+          "text": "The new system has **proved popular** with our clients."
+        },
+        {
+          "text": "It was **proving** extremely **difficult** to establish the truth."
+        },
+        {
+          "text": "I have some information that may **prove useful**."
+        },
+        {
+          "text": "The opposition proved too strong for him."
+        },
+        {
+          "text": "The play **proved** a great **success**.",
+          "contextForm": "+ noun"
+        },
+        {
+          "text": "Shares in the industry proved a poor investment."
+        },
+        {
+          "text": "His lack of experience may prove a problem in a crisis."
+        },
+        {
+          "text": "The promotion proved to be a turning point in her career.",
+          "contextForm": "prove to be something"
+        },
+        {
+          "text": "Their fears proved to be groundless."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to show other people how good you are at doing something or that you are capable of doing something",
+      "sensetop": "prove yourself to somebodyprove yourself",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He constantly feels he has to prove himself to others.",
+          "contextForm": "prove yourself to somebody"
+        },
+        {
+          "text": "She wants a chance to prove herself.",
+          "contextForm": "prove yourself"
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to show other people that you are a particular type of person or that you have a particular quality",
+      "sensetop": "prove yourself + adj./nounprove yourself to be something",
+      "examples": [
+        {
+          "text": "He proved himself determined to succeed.",
+          "contextForm": "prove yourself + adj./noun"
+        },
+        {
+          "text": "She proved herself to be a skilful negotiator.",
+          "contextForm": "prove yourself to be something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to swell (= become larger or rounder) before being baked because of the action of yeast; to leave bread dough to prove",
+      "sensetop": "prove something",
+      "examples": [
+        {
+          "text": "While the dough is proving, crumble the feta and chop the olives."
+        },
+        {
+          "text": "Prove the dough until it has doubled in size.",
+          "contextForm": "prove something"
+        }
+      ]
+    },
+    {
+      "definition": "people say that something is the exception that proves the rule when they are stating something that seems to be different from the normal situation, but they mean that the normal situation remains true in general",
+      "labels": "(saying)",
+      "examples": [
+        {
+          "text": "Most electronics companies have not done well this year, but ours is the exception that proves the rule."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French prover, from Latin probare ‘test, approve, demonstrate’, from probus ‘good’."
+}

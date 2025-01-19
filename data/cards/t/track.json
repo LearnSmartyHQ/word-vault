@@ -1,0 +1,405 @@
+{
+  "word": "track",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/træk/",
+        "audio": "t/track/track__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/træk/",
+        "audio": "t/track/track__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "rails (= metal bars) that a train moves along",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**railway/railroad tracks**"
+        },
+        {
+          "text": "We crossed the rail/train track."
+        },
+        {
+          "text": "India has thousands of miles of track."
+        },
+        {
+          "text": "Many branch lines were closed, and the tracks lifted."
+        }
+      ],
+      "topics": ["Transport by bus and train"],
+      "collocations": {
+        "adjective": ["rail", "railroad", "railway"],
+        "verb + track": ["lay", "cross", "come off"],
+        "track + noun": ["layout"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a track with a number at a train station that a train arrives at or leaves from",
+      "labels": "(North American English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The train for Chicago is on track 9."
+        }
+      ],
+      "collocations": {
+        "adjective": ["rail", "railroad", "railway"],
+        "verb + track": ["lay", "cross", "come off"],
+        "track + noun": ["layout"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a piece of ground with a special surface for people, cars, etc. to have races or to drive on",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **race track**"
+        },
+        {
+          "text": "a Formula One Grand Prix track *(= for motor racing)*"
+        },
+        {
+          "text": "a running track"
+        },
+        {
+          "text": "The company already operates a greyhound track."
+        },
+        {
+          "text": "Yesterday I had track practice."
+        },
+        {
+          "text": "A few planes were parked on the perimeter track of the airfield."
+        },
+        {
+          "text": "A sign marks where the cycle track (= a special route for cyclists) ends."
+        },
+        {
+          "text": "a single track road (= wide enough for only one vehicle) with passing places"
+        }
+      ],
+      "collocations": {
+        "track + noun": ["championship", "event", "meet"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "the sport of running on a track",
+      "labels": "(North American English)",
+      "cefr": "b1",
+      "examples": [
+        {
+          "text": "He loves sports and participates in track and basketball."
+        }
+      ],
+      "topics": ["Sports: other sports"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a rough path or road, usually one that has not been built but that has been made by people walking there",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a muddy track through the forest"
+        },
+        {
+          "text": "a dirt track"
+        },
+        {
+          "text": "We were bumping along the rough track that led to the lake."
+        },
+        {
+          "text": "They had to drive up a dirt track."
+        },
+        {
+          "text": "The path joins a farm track near a barn."
+        },
+        {
+          "text": "The green hills were criss-crossed with sheep tracks."
+        },
+        {
+          "text": "An ancient track crosses the moors."
+        },
+        {
+          "text": "A forest track leads up to the waterfall."
+        },
+        {
+          "text": "A cart track led to the farm."
+        },
+        {
+          "text": "When the track forks, take the left fork."
+        }
+      ],
+      "topics": ["Transport by car or lorry", "Hobbies"],
+      "collocations": {
+        "adjective": ["narrow", "wide", "steep"],
+        "verb + track": ["follow"],
+        "track + verb": ["lead", "fork"],
+        "preposition": [
+          "along a/​the track",
+          "down a/​the track",
+          "up a/​the track"
+        ],
+        "phrases": [
+          "off the beaten track",
+          "on the right track",
+          "onto the right track"
+        ]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "marks left by a person, an animal or a moving vehicle",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We followed the bear's tracks in the snow."
+        },
+        {
+          "text": "Leading away into the bushes were fresh rabbit tracks."
+        },
+        {
+          "text": "tyre tracks"
+        },
+        {
+          "text": "The beach is criss-crossed with animal tracks."
+        }
+      ],
+      "collocations": {
+        "adjective": ["deep", "fresh", "animal"],
+        "verb + track": ["leave", "make", "cover"],
+        "track + noun": ["marks"],
+        "preposition": ["on the track of"],
+        "phrases": [
+          "freeze in your tracks",
+          "halt in your tracks",
+          "stop in your tracks"
+        ]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "the path or direction that somebody/something is moving in",
+      "sensetop": "on the track of somebody/something",
+      "examples": [
+        {
+          "text": "He switched tracks and went back to college."
+        },
+        {
+          "text": "Police are on the track of *(= searching for)* the thieves.",
+          "contextForm": "on the track of somebody/something"
+        },
+        {
+          "text": "Film comedy developed along a similar track to film drama."
+        },
+        {
+          "text": "She decided to change her career track."
+        },
+        {
+          "text": "The ship was on a southerly track."
+        },
+        {
+          "text": "a twin track approach to crime"
+        },
+        {
+          "text": "Students pursue one of three tracks: professional writing, film/​television/​video or new media."
+        },
+        {
+          "text": "She felt the excitement of a journalist on the track of a good story."
+        }
+      ],
+      "collocations": {
+        "adjective": ["fast", "inside", "parallel"],
+        "verb + track": ["switch"],
+        "preposition": ["along a/​the track", "on (a/​the) track", "track for"],
+        "phrases": ["keep track of something", "lose track of something"]
+      }
+    },
+    {
+      "senseNumber": "8",
+      "definition": "a recording of one song or piece of music",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a track from their latest album"
+        },
+        {
+          "text": "The album kicks off with the **title track** *(= a song with the same name as the album)*."
+        },
+        {
+          "text": "The opening track is sweet and sentimental."
+        },
+        {
+          "text": "There are thirteen tracks on the album."
+        },
+        {
+          "text": "This song is easily the disc's standout track."
+        },
+        {
+          "text": "She had already cut a couple of tracks as lead singer with her own group."
+        }
+      ],
+      "topics": ["Music"],
+      "collocations": {
+        "adjective": ["album", "live", "pre-recorded"],
+        "verb + track": ["create", "cut", "lay down"],
+        "track + verb": ["feature somebody/​something", "include something"],
+        "track + noun": ["title", "list", "listing"]
+      }
+    },
+    {
+      "senseNumber": "9",
+      "definition": "part of a computer disk or tape that music or information can be recorded on",
+      "examples": [
+        {
+          "text": "a sixteen track recording studio"
+        },
+        {
+          "text": "She sang on the backing track."
+        }
+      ],
+      "collocations": {
+        "adjective": ["album", "live", "pre-recorded"],
+        "verb + track": ["create", "cut", "lay down"],
+        "track + verb": ["feature somebody/​something", "include something"],
+        "track + noun": ["title", "list", "listing"]
+      }
+    },
+    {
+      "senseNumber": "10",
+      "definition": "the soundtrack of a film or video",
+      "examples": [
+        {
+          "text": "The film is available with French and Spanish audio tracks."
+        },
+        {
+          "text": "There is a commentary track by the director."
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "a long, thin, straight piece of metal, wood or plastic that a curtain hangs from and moves along",
+      "examples": []
+    },
+    {
+      "senseNumber": "12",
+      "definition": "a continuous belt of metal plates around the wheels of a large vehicle such as a bulldozer that allows it to move over the ground",
+      "examples": []
+    },
+    {
+      "definition": "going in the right direction again after a mistake, failure, etc.",
+      "examples": [
+        {
+          "text": "I tried to get my life back on track after my divorce."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to be doing the right thing in order to achieve a particular result",
+      "examples": [
+        {
+          "text": "Curtis is on track for the gold medal."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to try and hide what you have done, because you do not want other people to find out about it",
+      "examples": [
+        {
+          "text": "He had attempted to cover his tracks by wiping the hard disk on his computer."
+        }
+      ]
+    },
+    {
+      "definition": "from or living in a poor area or part of town",
+      "examples": []
+    },
+    {
+      "definition": "close to catching or finding the person or thing that you have been running after or searching for",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to have/not have information about what is happening or where somebody/something is",
+      "examples": [
+        {
+          "text": "Bank statements help you keep track of where your money is going."
+        },
+        {
+          "text": "I lost all track of time *(= forgot what time it was)*."
+        }
+      ]
+    },
+    {
+      "definition": "to leave a place, especially to go home",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "It’s getting late—I’d better make tracks."
+        }
+      ]
+    },
+    {
+      "definition": "far away from other people, houses, etc.",
+      "examples": [
+        {
+          "text": "They live miles off the beaten track."
+        }
+      ]
+    },
+    {
+      "definition": "thinking or behaving in the right/wrong way",
+      "examples": [
+        {
+          "text": "We haven’t found a cure yet—but we are on the right track."
+        },
+        {
+          "text": "The new manager successfully got the team back onto the right track."
+        },
+        {
+          "text": "The police were on the wrong track when they treated the case as a revenge killing."
+        }
+      ]
+    },
+    {
+      "definition": "to suddenly make somebody stop by frightening or surprising them; to suddenly stop because something has frightened or surprised you",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "The question stopped Alice in her tracks."
+        },
+        {
+          "text": "Suddenly he stopped dead in his tracks: what was he doing?"
+        },
+        {
+          "text": "The disease was stopped in its tracks by immunization programmes."
+        }
+      ],
+      "topics": ["Feelings"]
+    }
+  ],
+  "wordOrigin": "late 15th cent. (in the sense ‘trail, marks left behind’): the noun from Old French trac, perhaps from Low German or Dutch trek ‘draught, drawing’; the verb (current senses dating from the mid 16th cent.) from French traquer or directly from the noun."
+}

@@ -1,0 +1,102 @@
+{
+  "word": "dialogue",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdaɪəlɒɡ/",
+        "audio": "d/dialogue/dialogue__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdaɪəlɔːɡ/",
+        "audio": "d/dialogue/dialogue__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a conversation in a book, play or film or in language teaching materials",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Learners are asked to listen to three short dialogues."
+        },
+        {
+          "text": "Practise the dialogue with a partner."
+        },
+        {
+          "text": "The novel has long descriptions and not much dialogue."
+        }
+      ],
+      "topics": ["Literature and writing", "Film and theatre"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a formal discussion between two groups or countries, especially when they are trying to solve a problem, end a disagreement, etc.",
+      "sensetop": "dialogue with somebodydialogue between A and Bdialogue about somethingdialogue on something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The president told waiting reporters there had been a constructive dialogue."
+        },
+        {
+          "text": "The government refused to **engage in** direct **dialogue** with the terrorists.",
+          "contextForm": "dialogue with somebody"
+        },
+        {
+          "text": "There needs to be a closer dialogue between management and staff.",
+          "contextForm": "dialogue between A and B"
+        },
+        {
+          "text": "an honest and open dialogue about racial identity in the US",
+          "contextForm": "dialogue about something"
+        },
+        {
+          "text": "a meaningful dialogue on pay and working conditions",
+          "contextForm": "dialogue on something"
+        },
+        {
+          "text": "Managers are willing to hold a dialogue with union leaders."
+        },
+        {
+          "text": "The government must enter into a dialogue with industry on this issue."
+        },
+        {
+          "text": "The head encourages a climate of open dialogue among the teachers."
+        },
+        {
+          "text": "They have agreed to resume their dialogue with the teachers."
+        },
+        {
+          "text": "a serious political dialogue"
+        },
+        {
+          "text": "attempts to encourage dialogue between the two groups"
+        },
+        {
+          "text": "dialogue about concrete issues"
+        },
+        {
+          "text": "the need for dialogue between the two sides in the dispute"
+        }
+      ],
+      "topics": ["Discussion and agreement", "Politics"],
+      "collocations": {
+        "adjective": ["close", "direct", "healthy"],
+        "verb + dialogue": ["engage in", "have", "hold"],
+        "preposition": ["dialogue about", "dialogue among", "dialogue between"]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French dialoge, via Latin from Greek dialogos, from dialegesthai ‘converse with’, from dia ‘through’ + legein ‘speak’."
+}

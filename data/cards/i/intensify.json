@@ -1,0 +1,86 @@
+{
+  "word": "intensify",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪ/",
+        "audio": "i/intensify/intensify__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪz/",
+        "audio": "i/intensify/intensifies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪd/",
+        "audio": "i/intensify/intensified__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪɪŋ/",
+        "audio": "i/intensify/intensifying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪ/",
+        "audio": "i/intensify/intensify__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪz/",
+        "audio": "i/intensify/intensifies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪd/",
+        "audio": "i/intensify/intensified__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪɪŋ/",
+        "audio": "i/intensify/intensifying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "intensify",
+      "heSheIt": "intensifies"
+    },
+    "pastSimple": "intensified",
+    "pastParticiple": "intensified",
+    "ingForm": "intensifying"
+  },
+  "definitions": [
+    {
+      "definition": "to increase in degree or strength; to make something increase in degree or strength",
+      "sensetop": "intensify something",
+      "examples": [
+        {
+          "text": "Violence intensified during the night."
+        },
+        {
+          "text": "The fighting in the area has intensified sharply."
+        },
+        {
+          "text": "The opposition leader has intensified his attacks on the government.",
+          "contextForm": "intensify something"
+        },
+        {
+          "text": "The reforms served only to intensify the misery of the poorer peasants."
+        }
+      ],
+      "collocations": {
+        "adverb": ["greatly", "dramatically", "rapidly"],
+        "verb + intensify": ["seem to", "tend to", "be likely to"]
+      }
+    }
+  ],
+  "wordOrigin": "early 19th cent.: coined by Coleridge."
+}

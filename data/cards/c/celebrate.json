@@ -1,0 +1,146 @@
+{
+  "word": "celebrate",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈselɪbreɪt/",
+        "audio": "c/celebrate/celebrate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈselɪbreɪts/",
+        "audio": "c/celebrate/celebrates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈselɪbreɪtɪd/",
+        "audio": "c/celebrate/celebrated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈselɪbreɪtɪŋ/",
+        "audio": "c/celebrate/celebrating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈselɪbreɪt/",
+        "audio": "c/celebrate/celebrate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈselɪbreɪts/",
+        "audio": "c/celebrate/celebrates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈselɪbreɪtɪd/",
+        "audio": "c/celebrate/celebrated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈselɪbreɪtɪŋ/",
+        "audio": "c/celebrate/celebrating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "celebrate",
+      "heSheIt": "celebrates"
+    },
+    "pastSimple": "celebrated",
+    "pastParticiple": "celebrated",
+    "ingForm": "celebrating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to show that a day or an event is important by doing something special on it",
+      "sensetop": "celebrate somethingcelebrate something with somebody/somethingcelebrate with somebody/somethingcelebrate doing something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Jake's passed his exams. We're going out to celebrate."
+        },
+        {
+          "text": "We had good reason to celebrate."
+        },
+        {
+          "text": "to **celebrate a birthday**",
+          "contextForm": "celebrate something"
+        },
+        {
+          "text": "We **celebrated** our 25th wedding **anniversary** in Florence."
+        },
+        {
+          "text": "to **celebrate a victory/a success/an achievement**"
+        },
+        {
+          "text": "The Film Festival is currently **celebrating** its 27th **year**."
+        },
+        {
+          "text": "How do people celebrate New Year in your country?"
+        },
+        {
+          "text": "He made the trip home to **celebrate Christmas** with his family.",
+          "contextForm": "celebrate something with somebody/something"
+        },
+        {
+          "text": "She celebrated with a party for family and friends.",
+          "contextForm": "celebrate with somebody/something"
+        },
+        {
+          "text": "Maybe I'll celebrate with some friends."
+        },
+        {
+          "text": "In this photo he celebrates winning the men's 10 000 metres final.",
+          "contextForm": "celebrate doing something"
+        },
+        {
+          "text": "Let's go out and celebrate!"
+        },
+        {
+          "text": "The event was celebrated with a parade."
+        },
+        {
+          "text": "Australia Day is celebrated on January 26th."
+        }
+      ],
+      "topics": ["Religion and festivals"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to perform a religious ceremony, especially the Christian communion service",
+      "sensetop": "celebrate something",
+      "cefr": "c1",
+      "examples": [],
+      "topics": ["Religion and festivals"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to praise somebody/something",
+      "sensetop": "celebrate somebody/somethingcelebrate somebody as something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "songs that celebrate the joys of romantic love",
+          "contextForm": "celebrate somebody/something"
+        },
+        {
+          "text": "a movie celebrating the life and work of Nelson Mandela"
+        },
+        {
+          "text": "The competition has millions of fans and national winners are celebrated as heroes.",
+          "contextForm": "celebrate somebody as something"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English (in sense (2)): from Latin celebrat- ‘celebrated’, from the verb celebrare, from celeber, celebr- ‘frequented or honoured’."
+}

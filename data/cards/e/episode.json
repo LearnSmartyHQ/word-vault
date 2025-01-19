@@ -1,0 +1,122 @@
+{
+  "word": "episode",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈepɪsəʊd/",
+        "audio": "e/episode/episode__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈepɪsəʊd/",
+        "audio": "e/episode/episode__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "one part of a story that is broadcast on television or radio in several parts",
+      "sensetop": "episode in somethingin an episode",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The next episode has not yet been filmed."
+        },
+        {
+          "text": "I **watched** a few **episodes **of seasons one and two."
+        },
+        {
+          "text": "The soap opera is ending after 175 episodes."
+        },
+        {
+          "text": "I only saw the first episode in the series",
+          "contextForm": "episode in something"
+        },
+        {
+          "text": "It happened in the **final episode** of ‘Star Trek’.",
+          "contextForm": "in an episode"
+        }
+      ],
+      "topics": ["TV, radio and news"],
+      "collocations": {
+        "adjective": ["exciting", "thrilling", "classic"],
+        "verb + episode": ["catch", "see", "watch"],
+        "preposition": ["during an/​the episode", "in an/​the episode"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "an event, a situation, or a period of time in somebody’s life, a novel, etc. that is important or interesting in some way",
+      "cefr": "b1",
+      "examples": [
+        {
+          "text": "I'd like to try and forget the whole episode."
+        },
+        {
+          "text": "One of the funniest episodes in the book occurs in Chapter 6."
+        },
+        {
+          "text": "It was an episode in his life that he was not proud of."
+        },
+        {
+          "text": "He says he just wants to forget the whole unfortunate episode."
+        },
+        {
+          "text": "I still remember that episode from my childhood."
+        },
+        {
+          "text": "an extraordinary episode in American history"
+        },
+        {
+          "text": "during a brief episode of socialist rule"
+        },
+        {
+          "text": "It turned out to be one of the funniest episodes in the novel."
+        }
+      ],
+      "synonyms": "incident",
+      "topics": ["Literature and writing"],
+      "collocations": {
+        "adjective": ["dramatic", "exciting", "bizarre"],
+        "verb + episode": ["remember", "forget", "experience"],
+        "preposition": ["during an episode", "episode from", "episode in"],
+        "phrases": ["the entire episode", "the whole episode"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a period of time during which somebody is affected by a particular illness or a particular stage of a longer illness",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "an acute episode of pneumonia"
+        },
+        {
+          "text": "All the patients had episodes of unexplained fever."
+        },
+        {
+          "text": "His former wife suffered with depressive episodes."
+        },
+        {
+          "text": "They were admitted to hospital after experiencing episodes of breathlessness."
+        },
+        {
+          "text": "In his twenties he had a psychotic episode."
+        },
+        {
+          "text": "I've suffered badly with social anxiety but it's been over 100 days since my last episode."
+        }
+      ],
+      "topics": ["Health problems"]
+    }
+  ],
+  "wordOrigin": "late 17th cent. (denoting a section between songs in Greek tragedy): from Greek epeisodion, neuter of epeisodios ‘coming in besides’, from epi ‘in addition’ + eisodos ‘entry’ (from eis ‘into’ + hodos ‘way’)."
+}

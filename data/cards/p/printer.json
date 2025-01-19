@@ -1,0 +1,72 @@
+{
+  "word": "printer",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈprɪntə(r)/",
+        "audio": "p/printer/printer__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈprɪntər/",
+        "audio": "p/printer/printer__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a machine for printing text on paper, especially one connected to a computer",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a colour printer"
+        },
+        {
+          "text": "a printer cartridge"
+        },
+        {
+          "text": "Connect the printer to your PC with a printer cable."
+        },
+        {
+          "text": "The printer has run off 2 000 copies of the leaflet."
+        },
+        {
+          "text": "The printer won't print for some reason."
+        },
+        {
+          "text": "You can print to any networked printer in the building."
+        }
+      ],
+      "topics": ["Computers"],
+      "collocations": {
+        "adjective": ["black-and-white", "colour/​color", "monochrome"],
+        "verb + printer": ["configure", "install", "control"],
+        "printer + verb": ["print (something)", "work"],
+        "printer + noun": ["cartridge", "ink", "toner"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a person or a company whose job is printing books, etc.",
+      "examples": [],
+      "collocations": {
+        "adjective": ["book", "commercial", "master"],
+        "printer + verb": ["print something", "run something off"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a place where books, etc. are printed",
+      "examples": []
+    }
+  ],
+  "wordOrigin": null
+}

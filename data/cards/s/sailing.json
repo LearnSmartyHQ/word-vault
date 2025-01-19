@@ -1,0 +1,78 @@
+{
+  "word": "sailing",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈseɪlɪŋ/",
+        "audio": "s/sailing/sailing__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈseɪlɪŋ/",
+        "audio": "s/sailing/sailing__us_3.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the sport or activity of travelling in a boat with sails",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to go sailing"
+        },
+        {
+          "text": "a sailing club"
+        },
+        {
+          "text": "the college rowing and sailing teams"
+        },
+        {
+          "text": "They are going on a 10-day sailing trip."
+        }
+      ],
+      "topics": ["Transport by water", "Sports: water sports"],
+      "collocations": {
+        "adjective": ["dinghy"],
+        "verb + sailing": ["go"],
+        "sailing + noun": ["club", "school", "regatta"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "one of the regular times that a ship leaves a port",
+      "cefr": "a2",
+      "examples": [
+        {
+          "text": "There are six sailings a day."
+        },
+        {
+          "text": "What time is the next sailing?"
+        },
+        {
+          "text": "Sailings were suspended in the high winds."
+        },
+        {
+          "text": "The company operates regular sailings between Hull and Zeebrugge."
+        },
+        {
+          "text": "the 4 p.m. sailing from Dover to Calais"
+        }
+      ],
+      "topics": ["Transport by water"]
+    },
+    {
+      "definition": "to be simple and free from trouble",
+      "examples": []
+    }
+  ],
+  "wordOrigin": null
+}

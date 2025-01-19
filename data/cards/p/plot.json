@@ -1,0 +1,138 @@
+{
+  "word": "plot",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/plɒt/",
+        "audio": "p/plot/plot__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/plɑːt/",
+        "audio": "p/plot/plot__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the series of events that form the story of a novel, play, film, etc.",
+      "sensetop": "plot about something",
+      "labels": "(US English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "It's hard to follow the plot of the film."
+        },
+        {
+          "text": "a conventional plot about love and marriage",
+          "contextForm": "plot about something"
+        },
+        {
+          "text": "The book is well organized in terms of plot."
+        },
+        {
+          "text": "**Plot twists** *(= unexpected developments)* keep you guessing throughout the series."
+        },
+        {
+          "text": "She has constructed a complicated plot, with a large cast of characters."
+        },
+        {
+          "text": "The main plot revolves around a suspicious death."
+        },
+        {
+          "text": "There are several unexpected twists in the plot before the murderer is revealed."
+        },
+        {
+          "text": "This car chase does nothing to advance the plot."
+        }
+      ],
+      "topics": ["Film and theatre", "Literature and writing"],
+      "collocations": {
+        "adjective": ["simple", "complex", "complicated"],
+        "verb + plot": ["construct", "advance", "give away"],
+        "plot + verb": ["develop", "unfold", "involve"],
+        "plot + noun": ["development", "twist", "device"],
+        "phrases": ["a twist in the plot", "a twist of the plot"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a secret plan made by a group of people to do something wrong or illegal",
+      "sensetop": "plot to do somethingplot against somebody",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He had been the victim of an elaborate murder plot."
+        },
+        {
+          "text": "The rebels hatched a plot to overthrow the government.",
+          "contextForm": "plot to do something"
+        },
+        {
+          "text": "Police uncovered a plot against the president.",
+          "contextForm": "plot against somebody"
+        },
+        {
+          "text": "They had taken part in a Jacobite plot against William III."
+        }
+      ],
+      "synonyms": "conspiracy",
+      "collocations": {
+        "adjective": ["evil", "fiendish", "alleged"],
+        "verb + plot": ["hatch", "uncover", "foil"],
+        "preposition": ["plot against", "plot by"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a small piece of land that is used or intended for a special purpose",
+      "labels": "(North American English)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "She bought a small plot of land to build a house on."
+        },
+        {
+          "text": "a vegetable plot"
+        },
+        {
+          "text": "The plots each measure 10 metres by 20 metres."
+        },
+        {
+          "text": "They own a five-acre plot of land."
+        },
+        {
+          "text": "He was buried in the family plot at the cemetery."
+        }
+      ],
+      "topics": ["Buildings"],
+      "collocations": {
+        "adjective": ["garden", "vegetable", "farm"],
+        "verb + plot": ["work"],
+        "plot + verb": ["measure something"],
+        "phrases": ["a plot of land"]
+      }
+    },
+    {
+      "definition": "to lose your ability to understand or deal with what is happening",
+      "labels": "(British English, informal)",
+      "examples": []
+    },
+    {
+      "definition": "used to say that a situation is becoming more complicated and difficult to understand",
+      "labels": "(humorous)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "late Old English (in sense 3 of the noun), of unknown origin. The sense ‘secret plan’, dating from the late 16th cent., is associated with Old French complot ‘dense crowd, secret project’, the same word being used occasionally in English from the mid 16th cent."
+}

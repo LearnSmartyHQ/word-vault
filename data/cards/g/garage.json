@@ -1,0 +1,98 @@
+{
+  "word": "garage",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɡærɑːʒ//ˈɡærɑːdʒ//ˈɡærɪdʒ/",
+        "audio": "g/garage/garage__gb_6.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡəˈrɑːʒ//ɡəˈrɑːdʒ/",
+        "audio": "g/garage/garage__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a building for keeping one or more cars or other vehicles in",
+      "sensetop": "in a garage",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a double garage *(= one for two cars)*"
+        },
+        {
+          "text": "a house with a detached/an attached/an integral garage"
+        },
+        {
+          "text": "a bus garage"
+        },
+        {
+          "text": "an underground garage *(= for example under an office building)*"
+        },
+        {
+          "text": "Don't forget to put the car in the garage.",
+          "contextForm": "in a garage"
+        },
+        {
+          "text": "Did you shut the garage door?"
+        }
+      ],
+      "topics": ["Buildings", "Houses and homes"],
+      "collocations": {
+        "adjective": ["double", "single", "triple"],
+        "verb + garage": ["build", "construct", "erect"],
+        "garage + noun": ["door", "space", "sale"],
+        "preposition": ["in a/​the garage"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a place where vehicles are repaired and/or where you can buy a car or buy petrol and oil",
+      "sensetop": "at a garage",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I had to take the car to the garage."
+        },
+        {
+          "text": "The car's still at the garage.",
+          "contextForm": "at a garage"
+        },
+        {
+          "text": "a garage mechanic"
+        }
+      ],
+      "topics": ["Transport by car or lorry"],
+      "collocations": {
+        "adjective": ["local"],
+        "verb + garage": ["own", "run", "take something to"],
+        "garage + noun": ["mechanic", "owner", "business"],
+        "preposition": ["at a/​the garage"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a style of rock music played with great energy but not necessarily great technique, popular in the 1960s",
+      "examples": []
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a type of electronic dance music with elements of drum and bass, house music and soul",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Music"]
+    }
+  ],
+  "wordOrigin": "early 20th cent.: from French, from garer ‘to shelter’."
+}

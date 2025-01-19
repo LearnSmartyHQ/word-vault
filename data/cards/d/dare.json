@@ -1,0 +1,153 @@
+{
+  "word": "dare",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/deə(r)/",
+        "audio": "d/dare/dare__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/deəz/",
+        "audio": "d/dare/dares__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/deəd/",
+        "audio": "d/dare/dared__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdeərɪŋ/",
+        "audio": "d/dare/daring__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/der/",
+        "audio": "d/dare/dare__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/derz/",
+        "audio": "d/dare/dares__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/derd/",
+        "audio": "d/dare/dared__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈderɪŋ/",
+        "audio": "d/dare/daring__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "dare",
+      "heSheIt": "dares"
+    },
+    "pastSimple": "dared",
+    "pastParticiple": "dared",
+    "ingForm": "daring"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to be brave enough to do something",
+      "sensetop": "dare (to) do something",
+      "labels": "(literary)British English",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "She said it as loudly as she dared."
+        },
+        {
+          "text": "He didn’t dare (to) say what he thought.",
+          "contextForm": "dare (to) do something"
+        },
+        {
+          "text": "They daren't ask for any more money."
+        },
+        {
+          "text": "She dared not breathe a word of it to anybody."
+        },
+        {
+          "text": "Dare to be different!"
+        },
+        {
+          "text": "There was something, **dare I say it**, a little unusual about him."
+        },
+        {
+          "text": "I hardly dared breathe."
+        },
+        {
+          "text": "I wouldn't dare go by myself."
+        },
+        {
+          "text": "He didn't dare (to) say what he thought."
+        }
+      ],
+      "topics": ["Personal qualities"],
+      "collocations": {
+        "adverb": ["barely", "hardly", "scarcely"],
+        "verb + dare": ["wouldn’t"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to challenge somebody to do something dangerous, difficult or embarrassing so that they can show that they are not afraid",
+      "sensetop": "dare somebodydare somebody to do something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Go on! Take it! I dare you.",
+          "contextForm": "dare somebody"
+        },
+        {
+          "text": "Some of the older boys had dared him to do it.",
+          "contextForm": "dare somebody to do something"
+        }
+      ],
+      "topics": ["Danger"]
+    },
+    {
+      "definition": "used to tell somebody strongly not to do something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "‘I'll tell her about it.’ ‘Don't you dare!’"
+        },
+        {
+          "text": "Don't you dare say anything to anybody."
+        }
+      ]
+    },
+    {
+      "definition": "used to show that you are angry about something that somebody has done",
+      "examples": [
+        {
+          "text": "How dare you talk to me like that?"
+        },
+        {
+          "text": "How dare she imply that I was lying?"
+        }
+      ]
+    },
+    {
+      "definition": "used when you are saying that something is likely",
+      "examples": [
+        {
+          "text": "I dare say you know about it already."
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"]
+    }
+  ],
+  "wordOrigin": "Old English durran, of Germanic origin; related to Gothic gadaursan, from an Indo-European root shared by Greek tharsein and Sanskrit dhṛṣ- ‘be bold’."
+}

@@ -1,0 +1,163 @@
+{
+  "word": "whisper",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈwɪspə(r)/",
+        "audio": "w/whisper/whisper__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈwɪspəz/",
+        "audio": "w/whisper/whispers__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈwɪspəd/",
+        "audio": "w/whisper/whispered__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈwɪspərɪŋ/",
+        "audio": "w/whisper/whispering__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈwɪspər/",
+        "audio": "w/whisper/whisper__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈwɪspərz/",
+        "audio": "w/whisper/whispers__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈwɪspərd/",
+        "audio": "w/whisper/whispered__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈwɪspərɪŋ/",
+        "audio": "w/whisper/whispering__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "whisper",
+      "heSheIt": "whispers"
+    },
+    "pastSimple": "whispered",
+    "pastParticiple": "whispered",
+    "ingForm": "whispering"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to speak very quietly to somebody so that other people cannot hear what you are saying",
+      "sensetop": "whisper about somethingwhisper + speechwhisper to somebody + speechwhisper somethingwhisper something to somebodywhisper to somebody that…whisper that…",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Don't you know it's rude to whisper?"
+        },
+        {
+          "text": "What are you two whispering about?",
+          "contextForm": "whisper about something"
+        },
+        {
+          "text": "‘Can you meet me tonight?’ he whispered.",
+          "contextForm": "whisper + speech"
+        },
+        {
+          "text": "'I'm sorry,' he whispered softly."
+        },
+        {
+          "text": "‘Let's go,' she whispered to Anne.",
+          "contextForm": "whisper to somebody + speech"
+        },
+        {
+          "text": "She leaned over and **whispered** something **in his ear**.",
+          "contextForm": "whisper something"
+        },
+        {
+          "text": "I whispered words of comfort to him.",
+          "contextForm": "whisper something to somebody"
+        },
+        {
+          "text": "He whispered to me that he was afraid.",
+          "contextForm": "whisper to somebody that…"
+        },
+        {
+          "text": "She whispered that she would tell me all about it later.",
+          "contextForm": "whisper that…"
+        },
+        {
+          "text": "‘Come on,’ he whispered urgently."
+        },
+        {
+          "text": "‘Hush!’ he whispered against her hair."
+        },
+        {
+          "text": "‘No!’ he whispered through gritted teeth."
+        },
+        {
+          "text": "‘Yes, ’ I whispered back."
+        },
+        {
+          "text": "He could only whisper in reply."
+        },
+        {
+          "text": "He held her and whispered sweet nothings in her ear."
+        },
+        {
+          "text": "I felt that everyone was whispering about me."
+        },
+        {
+          "text": "She heard him whisper her name."
+        }
+      ],
+      "synonyms": "murmur",
+      "collocations": {
+        "adverb": ["gently", "quietly", "softly"],
+        "verb + whisper": ["can only", "hear somebody"],
+        "preposition": ["about", "against", "through"],
+        "phrases": [
+          "whisper something in somebody’s ear",
+          "whisper something into somebody’s ear"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to say or suggest something about somebody/something in a private or secret way",
+      "sensetop": "it is whispered that…",
+      "examples": [
+        {
+          "text": "It was whispered that he would soon die and he did.",
+          "contextForm": "it is whispered that…"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to make a soft, quiet sound",
+      "sensetop": "(+ adv./prep.)",
+      "labels": "(literary)",
+      "examples": [
+        {
+          "text": "A warm breeze whispered through the trees."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English hwisprian, of Germanic origin; related to German wispeln, from the imitative base of whistle."
+}

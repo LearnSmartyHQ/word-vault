@@ -1,0 +1,173 @@
+{
+  "word": "occur",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈkɜː(r)/",
+        "audio": "o/occur/occur__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈkɜːz/",
+        "audio": "o/occur/occurs__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈkɜːd/",
+        "audio": "o/occur/occurred__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈkɜːrɪŋ/",
+        "audio": "o/occur/occurring__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈkɜːr/",
+        "audio": "o/occur/occur__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈkɜːrz/",
+        "audio": "o/occur/occurs__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈkɜːrd/",
+        "audio": "o/occur/occurred__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈkɜːrɪŋ/",
+        "audio": "o/occur/occurring__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "occur",
+      "heSheIt": "occurs"
+    },
+    "pastSimple": "occurred",
+    "pastParticiple": "occurred",
+    "ingForm": "occurring"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to happen",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "When exactly did the **incident occur**?"
+        },
+        {
+          "text": "Something unexpected occurred."
+        },
+        {
+          "text": "Three major **events occurred** in my life that year."
+        },
+        {
+          "text": "These chemical changes occur naturally."
+        },
+        {
+          "text": "In most years more deaths occur in winter."
+        },
+        {
+          "text": "Opportunities for learning occur spontaneously every day."
+        },
+        {
+          "text": "A new outbreak of smallpox occurred in 1928."
+        },
+        {
+          "text": "Impact occurred seconds after the pilot signalled for help."
+        },
+        {
+          "text": "Major economic changes have occurred recently."
+        },
+        {
+          "text": "Peasant rebellions occurred throughout the 16th century."
+        },
+        {
+          "text": "The collision occurred near the hospital."
+        },
+        {
+          "text": "The explosion occurred just after midday."
+        },
+        {
+          "text": "The fits usually occur at night."
+        },
+        {
+          "text": "These climate shifts occurred over less than a decade."
+        },
+        {
+          "text": "Travellers complained about lack of information when travel delays occurred."
+        },
+        {
+          "text": "Such storms are likely to occur for the next six to ten weeks."
+        },
+        {
+          "text": "The disease can occur at any time of the year."
+        },
+        {
+          "text": "These symptoms occur in some patients but not in others."
+        },
+        {
+          "text": "This rally usually occurs between Christmas and New Year's day."
+        },
+        {
+          "text": "Five attacks occurred in a 12-day period."
+        },
+        {
+          "text": "Several conversations occurred simultaneously."
+        },
+        {
+          "text": "The fractures occurred as a direct result of osteoporosis."
+        }
+      ],
+      "collocations": {
+        "adverb": ["commonly", "frequently", "often"],
+        "verb + occur": ["be likely to", "tend to", "be unlikely to"],
+        "preposition": ["among", "in"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to exist or be found somewhere",
+      "sensetop": "+ adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Sugar occurs naturally in fruit."
+        },
+        {
+          "text": "**naturally occurring** chemicals in the brain"
+        },
+        {
+          "text": "Lemurs occur in the wild only in Madagascar."
+        },
+        {
+          "text": "Infected plants frequently occur in patches."
+        },
+        {
+          "text": "Calluses typically occur on the bottom of the feet and heel."
+        }
+      ],
+      "collocations": {
+        "adverb": ["commonly", "frequently", "often"],
+        "verb + occur": ["be likely to", "tend to", "be unlikely to"],
+        "preposition": ["among", "in"]
+      }
+    }
+  ],
+  "wordOrigin": "late 15th cent.: from Latin occurrere ‘go to meet, present itself’, from ob- ‘against’ + currere ‘to run’."
+}

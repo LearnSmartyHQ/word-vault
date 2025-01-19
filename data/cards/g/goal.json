@@ -1,0 +1,163 @@
+{
+  "word": "goal",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɡəʊl/",
+        "audio": "g/goal/goal__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡəʊl/",
+        "audio": "g/goal/goal__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a frame with a net into which players must kick or hit the ball in order to score a point",
+      "sensetop": "in goal",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He headed the ball into an **open goal** *(= one that had nobody defending it)*."
+        },
+        {
+          "text": "Nicky Roberts was outstanding in goal *(= as ).",
+          "contextForm": "in goal"
+        },
+        {
+          "text": "The goalkeeper was injured so a defender had to go in goal."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"],
+      "collocations": {
+        "adjective": ["open"],
+        "verb + goal": ["go in", "play in"],
+        "preposition": ["in goal"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the act of kicking or hitting the ball into the goal; a point that is scored for this",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She **scored** twenty **goals **in her first season."
+        },
+        {
+          "text": "United **conceded** two **goals** in the first half."
+        },
+        {
+          "text": "Liverpool won by three goals to one."
+        },
+        {
+          "text": "The **winning goal** came in the 71st minute."
+        },
+        {
+          "text": "a penalty goal"
+        },
+        {
+          "text": "his first goal for Spain"
+        },
+        {
+          "text": "Thuram scored one goal himself and made two for Martinez."
+        },
+        {
+          "text": "They scored three goals against the home team."
+        },
+        {
+          "text": "The second goal came from a penalty."
+        },
+        {
+          "text": "The referee disallowed the goal."
+        },
+        {
+          "text": "The fans were annoyed that the team gave away such a soft goal."
+        },
+        {
+          "text": "The equalizing goal came from Shaw."
+        },
+        {
+          "text": "Despite letting in a goal, our girls did not let up and we held on for a well-deserved tie."
+        }
+      ],
+      "collocations": {
+        "adjective": ["brilliant", "excellent", "good"],
+        "verb + goal": ["get", "score", "kick"],
+        "goal + verb": ["come from somebody/​something"],
+        "preposition": ["goal against", "goal for", "goal from"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "something that you hope to achieve",
+      "sensetop": "toward/towards a goal",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **achieve/accomplish/reach a goal**"
+        },
+        {
+          "text": "My job is to help businesses **meet** their **goals**."
+        },
+        {
+          "text": "You need to **set yourself** some long-term **goals**."
+        },
+        {
+          "text": "Their goal was to eradicate malaria."
+        },
+        {
+          "text": "Their **primary goal** is to make a profit."
+        },
+        {
+          "text": "Our **ultimate goal** must be the preservation of the environment."
+        },
+        {
+          "text": "We are all working towards a **common goal**.",
+          "contextForm": "toward/towards a goal"
+        },
+        {
+          "text": "It is important to have explicit goals."
+        },
+        {
+          "text": "Our immediate goal is to earn enough money to keep the business going."
+        },
+        {
+          "text": "The prison service pursues the twin goals of the punishment and rehabilitation of offenders."
+        },
+        {
+          "text": "They have set themselves some ambitious goals."
+        },
+        {
+          "text": "their goal of providing free university education for everyone"
+        },
+        {
+          "text": "He continued to pursue his goal of becoming a photographer."
+        },
+        {
+          "text": "The company has set itself some long-term organizational goals."
+        }
+      ],
+      "synonyms": "aim",
+      "topics": ["Success"],
+      "collocations": {
+        "adjective": ["immediate", "short-term", "long-term"],
+        "verb + goal": ["have", "share", "define"],
+        "preposition": ["goal of"]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English (in the sense ‘limit, boundary’): of unknown origin."
+}

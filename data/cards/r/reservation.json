@@ -1,0 +1,124 @@
+{
+  "word": "reservation",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌrezəˈveɪʃn/",
+        "audio": "r/reservation/reservation__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌrezərˈveɪʃn/",
+        "audio": "r/reservation/reservation__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "an arrangement for a seat on a plane or train, a room in a hotel, etc. to be kept for you",
+      "labels": "(especially British English)(British English)(especially North American English)(especially British English)(North American English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I'll call the restaurant and **make a reservation**."
+        },
+        {
+          "text": "We have a reservation in the name of Grant."
+        },
+        {
+          "text": "I had to cancel my hotel reservation."
+        },
+        {
+          "text": "Do you have a reservation?"
+        },
+        {
+          "text": "I'd like to make a reservation for four people for Friday night, please."
+        },
+        {
+          "text": "Reservations are recommended, especially during the busy holiday weekends."
+        },
+        {
+          "text": "We have reservations at a restaurant at six tonight."
+        }
+      ],
+      "topics": [
+        "Transport by bus and train",
+        "Holidays",
+        "Transport by air",
+        "Cooking and eating"
+      ],
+      "collocations": {
+        "adjective": ["airline", "flight", "travel"],
+        "verb + reservation": ["have", "book", "make"],
+        "reservation + noun": ["service", "system", "centre/​center"],
+        "preposition": ["reservation at", "reservation for"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a feeling of doubt about a plan or an idea",
+      "sensetop": "reservations about somebody/somethingwithout reservation",
+      "examples": [
+        {
+          "text": "I **have** serious **reservations** about his ability to do the job.",
+          "contextForm": "reservations about somebody/something"
+        },
+        {
+          "text": "They support the measures without reservation *(= completely)*.",
+          "contextForm": "without reservation"
+        },
+        {
+          "text": "Despite his initial reservations, he came to love London."
+        },
+        {
+          "text": "I can recommend her without reservation."
+        },
+        {
+          "text": "I have certain reservations regarding several of the clauses in the contract."
+        },
+        {
+          "text": "My one reservation concerns the performance of the vehicle in wet conditions."
+        },
+        {
+          "text": "NATO generals voiced reservations about making air strikes."
+        },
+        {
+          "text": "The employees are backing the reorganization plans, with reservations."
+        },
+        {
+          "text": "They have expressed reservations concerning the provisions of the treaty."
+        }
+      ],
+      "synonyms": "misgiving",
+      "collocations": {
+        "adjective": ["considerable", "deep", "grave"],
+        "verb + reservation": ["have", "express", "voice"],
+        "preposition": [
+          "despite reservations",
+          "with reservations",
+          "without reservation"
+        ],
+        "phrases": ["one reservation", "only reservation"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "an area of land in the US that is kept separate for native North Americans to live in",
+      "examples": []
+    },
+    {
+      "senseNumber": "4",
+      "definition": "(in India) the policy of keeping a fixed number of jobs or places in schools, colleges, etc. for people who are members of scheduled castes, scheduled tribes or other backward classes",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "late Middle English (denoting the Pope's right of nomination to a benefice): from Old French, or from late Latin reservatio(n-), from reservare ‘keep back’, ‘keep back’, from re- ‘back’ + servare ‘to keep’."
+}

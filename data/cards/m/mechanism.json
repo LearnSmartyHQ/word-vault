@@ -1,0 +1,120 @@
+{
+  "word": "mechanism",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmekənɪzəm/",
+        "audio": "m/mechanism/mechanism__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmekənɪzəm/",
+        "audio": "m/mechanism/mechanism__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a set of moving parts in a machine that performs a task",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "a delicate watch mechanism"
+        },
+        {
+          "text": "The mechanism for locking the door of the washing machine is childproof."
+        },
+        {
+          "text": "The gun froze, jamming the mechanism."
+        }
+      ],
+      "topics": ["Engineering"],
+      "collocations": {
+        "adjective": ["firing", "locking", "steering"],
+        "verb + mechanism": ["activate", "jam"],
+        "mechanism + verb": ["operate", "work"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a method or a system for achieving something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "mechanisms for dealing with complaints from the general public"
+        },
+        {
+          "text": "The college has established an effective student support mechanism."
+        },
+        {
+          "text": "The government is held accountable through the mechanism of regular general elections."
+        },
+        {
+          "text": "The system provides a mechanism whereby information is channelled into the market."
+        },
+        {
+          "text": "an effective mechanism for enforcing the rules"
+        },
+        {
+          "text": "Simple repetition was regarded as an effective learning mechanism."
+        },
+        {
+          "text": "The present mechanisms of government could be improved."
+        },
+        {
+          "text": "Various mechanisms are in place for dealing with emergencies."
+        },
+        {
+          "text": "We need some kind of mechanism for making appointments."
+        }
+      ],
+      "collocations": {
+        "adjective": ["effective", "exact", "precise"],
+        "verb + mechanism": ["provide", "propose", "suggest"],
+        "mechanism + verb": ["operate", "work", "allow something"],
+        "preposition": [
+          "by the mechanism of",
+          "through the mechanism of",
+          "mechanism for"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a system of parts in a living thing that together perform a particular function",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the balance mechanism in the ears"
+        },
+        {
+          "text": "Scientists have been unable to explain the exact mechanism behind this effect."
+        },
+        {
+          "text": "This activates the body's thirst mechanism."
+        },
+        {
+          "text": "physiological mechanisms regulating the release of hormones"
+        }
+      ],
+      "collocations": {
+        "adjective": ["effective", "exact", "precise"],
+        "verb + mechanism": ["provide", "propose", "suggest"],
+        "mechanism + verb": ["operate", "work", "allow something"],
+        "preposition": [
+          "by the mechanism of",
+          "through the mechanism of",
+          "mechanism for"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": "mid 17th cent.: from modern Latin mechanismus, from Greek mēkhanē, from mēkhos ‘contrivance’."
+}

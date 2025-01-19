@@ -1,0 +1,132 @@
+{
+  "word": "dictate",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪkˈteɪt/",
+        "audio": "d/dictate/dictate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪkˈteɪts/",
+        "audio": "d/dictate/dictates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪkˈteɪtɪd/",
+        "audio": "d/dictate/dictated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪkˈteɪtɪŋ/",
+        "audio": "d/dictate/dictating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdɪkteɪt/",
+        "audio": "d/dictate/dictate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdɪkteɪts/",
+        "audio": "d/dictate/dictates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdɪkteɪtɪd/",
+        "audio": "d/dictate/dictated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdɪkteɪtɪŋ/",
+        "audio": "d/dictate/dictating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "dictate",
+      "heSheIt": "dictates"
+    },
+    "pastSimple": "dictated",
+    "pastParticiple": "dictated",
+    "ingForm": "dictating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to tell somebody what to do, especially in an annoying way",
+      "sensetop": "dictate something (to somebody)dictate how, what, etc…/that…",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They are in no position to **dictate terms** *(= tell other people what to do)*.",
+          "contextForm": "dictate something (to somebody)"
+        },
+        {
+          "text": "What right do they have to dictate how we live our lives?",
+          "contextForm": "dictate how, what, etc…/that…"
+        },
+        {
+          "text": "It was only the king or queen who could dictate policy."
+        },
+        {
+          "text": "This political stance had been dictated by the Prime Minister."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to control or influence how something happens",
+      "sensetop": "dictate (something)dictate where, what, etc…dictate that…",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "When we take our vacations is very much dictated by Greg's work schedule.",
+          "contextForm": "dictate (something)"
+        },
+        {
+          "text": "It's generally your job that dictates where you live now.",
+          "contextForm": "dictate where, what, etc…"
+        },
+        {
+          "text": "The social conventions of the day dictated that she should remain at home with her parents.",
+          "contextForm": "dictate that…"
+        },
+        {
+          "text": "What followed dictated the course of his life."
+        },
+        {
+          "text": "This is clearly the best choice, unless financial considerations dictate otherwise."
+        },
+        {
+          "text": "She had to remain indoors for 30 days before the wedding, as custom dictates."
+        }
+      ],
+      "synonyms": "determine"
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to say words for somebody else to write down or to be recorded",
+      "sensetop": "dictate (something) (to somebody)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She dictated the letter to her assistant."
+        },
+        {
+          "text": "OK, you write, and I'll dictate."
+        },
+        {
+          "text": "Just dictate into the machine—we'll transcribe it later."
+        }
+      ],
+      "topics": ["Literature and writing"]
+    }
+  ],
+  "wordOrigin": "late 16th cent. (in sense (1)): from Latin dictat- ‘dictated’, from the verb dictare."
+}

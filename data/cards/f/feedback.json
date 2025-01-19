@@ -1,0 +1,85 @@
+{
+  "word": "feedback",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfiːdbæk/",
+        "audio": "f/feedback/feedback__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfiːdbæk/",
+        "audio": "f/feedback/feedback__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "advice, criticism or information about how good or useful something or somebody’s work is",
+      "sensetop": "feedback on somethingfeedback about somethingfeedback from somebody",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "customer/user feedback"
+        },
+        {
+          "text": "to **provide/give feedback**"
+        },
+        {
+          "text": "to **receive/get feedback**"
+        },
+        {
+          "text": "I'd appreciate some feedback on my work.",
+          "contextForm": "feedback on something"
+        },
+        {
+          "text": "The teacher will **give you feedback** on the test."
+        },
+        {
+          "text": "I've heard loads of good feedback about this site.",
+          "contextForm": "feedback about something"
+        },
+        {
+          "text": "We need both **positive** and **negative feedback** from our customers.",
+          "contextForm": "feedback from somebody"
+        },
+        {
+          "text": "I've had a lot of very constructive feedback from the students about this."
+        },
+        {
+          "text": "The internet can be a useful source of customer feedback."
+        },
+        {
+          "text": "The facilitator offers verbal feedback to each student."
+        },
+        {
+          "text": "The writer gets no immediate feedback and simply has to imagine the reader's reaction."
+        },
+        {
+          "text": "They will be given feedback on their performance."
+        }
+      ],
+      "topics": ["Suggestions and advice"],
+      "collocations": {
+        "adjective": ["constructive", "favourable/​favorable", "good"],
+        "verb + feedback": ["give somebody", "provide (somebody with)", "send"],
+        "preposition": ["feedback  about", "feedback  on", "feedback  from"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the unpleasant noise produced by electrical equipment such as an amplifier when some of the power returns to the system",
+      "examples": []
+    }
+  ],
+  "wordOrigin": null
+}

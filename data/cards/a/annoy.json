@@ -1,0 +1,113 @@
+{
+  "word": "annoy",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈnɔɪ/",
+        "audio": "a/annoy/annoy__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈnɔɪz/",
+        "audio": "a/annoy/annoys__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈnɔɪd/",
+        "audio": "a/annoy/annoyed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈnɔɪɪŋ/",
+        "audio": "a/annoy/annoying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈnɔɪ/",
+        "audio": "a/annoy/annoy__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈnɔɪz/",
+        "audio": "a/annoy/annoys__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈnɔɪd/",
+        "audio": "a/annoy/annoyed__us_3.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈnɔɪɪŋ/",
+        "audio": "a/annoy/annoying__us_3.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "annoy",
+      "heSheIt": "annoys"
+    },
+    "pastSimple": "annoyed",
+    "pastParticiple": "annoyed",
+    "ingForm": "annoying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make somebody slightly angry",
+      "sensetop": "annoy somebodyit annoys somebody when…it annoys somebody to do something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "His constant joking was beginning to annoy her.",
+          "contextForm": "annoy somebody"
+        },
+        {
+          "text": "I’m sure she does it just to annoy me."
+        },
+        {
+          "text": "I only stay out late to annoy my parents."
+        },
+        {
+          "text": "It really annoys me when people forget to say thank you.",
+          "contextForm": "it annoys somebody when…"
+        },
+        {
+          "text": "It annoys me to see him getting ahead of me.",
+          "contextForm": "it annoys somebody to do something"
+        }
+      ],
+      "synonyms": "irritate",
+      "topics": ["Feelings"],
+      "collocations": {
+        "adverb": ["intensely", "really"],
+        "verb + annoy": ["be beginning to", "be starting to"],
+        "phrases": [
+          "do something just to annoy somebody",
+          "do something only to annoy somebody"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make somebody uncomfortable or unable to relax",
+      "sensetop": "annoy somebody",
+      "examples": [
+        {
+          "text": "He swatted a fly that was annoying him."
+        },
+        {
+          "text": "The wasps were beginning to annoy me."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English (in the sense ‘be hateful to’): from Old French anoier (verb), anoi (noun), based on Latin in odio in the phrase mihi in odio est ‘it is hateful to me’."
+}

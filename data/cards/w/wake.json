@@ -1,0 +1,155 @@
+{
+  "word": "wake",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/weɪk/",
+        "audio": "w/wake/wake__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/weɪks/",
+        "audio": "w/wake/wakes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/wəʊk/",
+        "audio": "w/wake/woke__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈwəʊkən/",
+        "audio": "w/wake/woken__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈweɪkɪŋ/",
+        "audio": "w/wake/waking__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/weɪk/",
+        "audio": "w/wake/wake__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/weɪks/",
+        "audio": "w/wake/wakes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/wəʊk/",
+        "audio": "w/wake/woke__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈwəʊkən/",
+        "audio": "w/wake/woken__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈweɪkɪŋ/",
+        "audio": "w/wake/waking__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "wake",
+      "heSheIt": "wakes"
+    },
+    "pastSimple": "woke",
+    "pastParticiple": "woken",
+    "ingForm": "waking"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to stop sleeping; to make somebody stop sleeping",
+      "sensetop": "wake upwake to somethingwake from somethingwake up to do somethingwake to do somethingwake somebodywake somebody up",
+      "labels": "(formal)(formal)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I always wake early in the summer."
+        },
+        {
+          "text": "Tom woke with a start and lifted his head."
+        },
+        {
+          "text": "What time do you usually wake up in the morning?",
+          "contextForm": "wake up"
+        },
+        {
+          "text": "I woke up an hour earlier than I wanted to."
+        },
+        {
+          "text": "They woke to a clear blue sky.",
+          "contextForm": "wake to something"
+        },
+        {
+          "text": "I woke to the sound of heavy rain outside."
+        },
+        {
+          "text": "She had just woken from a deep sleep.",
+          "contextForm": "wake from something"
+        },
+        {
+          "text": "He woke up to find himself alone in the house.",
+          "contextForm": "wake up to do something"
+        },
+        {
+          "text": "The woman woke to see the defendant in her bedroom.",
+          "contextForm": "wake to do something"
+        },
+        {
+          "text": "I was woken by the sound of someone moving around.",
+          "contextForm": "wake somebody"
+        },
+        {
+          "text": "Try not to wake the baby up.",
+          "contextForm": "wake somebody up"
+        },
+        {
+          "text": "Any minute now she'd wake up to find herself at home safe in bed."
+        },
+        {
+          "text": "Be careful not to wake the children!"
+        },
+        {
+          "text": "She had just woken up from a deep sleep."
+        },
+        {
+          "text": "She had woken even earlier than usual."
+        }
+      ],
+      "collocations": {
+        "adverb": ["gently"],
+        "verb + wake": ["be careful not to", "not want to", "try not to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make somebody remember something or feel something again",
+      "sensetop": "wake something",
+      "labels": "(literary or formal)",
+      "examples": [
+        {
+          "text": "The incident woke memories of his past sufferings."
+        }
+      ]
+    },
+    {
+      "definition": "used to tell somebody to become aware of what is really happening in a situation, especially when this is something unpleasant",
+      "labels": "(informal)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "verb Old English (recorded only in the past tense wōc), also partly from the weak verb wacian ‘remain awake, hold a vigil’, of Germanic origin; related to Dutch waken and German wachen; compare with watch."
+}

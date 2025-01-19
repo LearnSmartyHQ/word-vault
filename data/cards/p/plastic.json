@@ -1,0 +1,71 @@
+{
+  "word": "plastic",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈplæstɪk/",
+        "audio": "p/plastic/plastic__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈplæstɪk/",
+        "audio": "p/plastic/plastic__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a light strong material that is produced by chemical processes and can be formed into shapes when heated. There are many different types of plastic, used to make different objects and fabrics.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The pipes should be **made of plastic**."
+        },
+        {
+          "text": "a sheet of clear plastic"
+        },
+        {
+          "text": "the plastic industry"
+        },
+        {
+          "text": "recycled plastic"
+        },
+        {
+          "text": "chairs made from plastic"
+        },
+        {
+          "text": "dashboards moulded in plastic"
+        }
+      ],
+      "topics": ["Physics and chemistry", "The environment"],
+      "collocations": {
+        "adjective": ["heavy-duty", "reinforced", "strong"],
+        "verb + plastic": ["make", "produce", "recycle"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the science of making plastics",
+      "examples": []
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a way of talking about credit cards",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Do they take plastic?"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "mid 17th cent. (in the sense ‘characteristic of moulding’): from French plastique or Latin plasticus, from Greek plastikos, from plassein ‘to mould’."
+}

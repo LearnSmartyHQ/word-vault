@@ -1,0 +1,244 @@
+{
+  "word": "perform",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pəˈfɔːm/",
+        "audio": "p/perform/perform__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pəˈfɔːmz/",
+        "audio": "p/perform/performs__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pəˈfɔːmd/",
+        "audio": "p/perform/performed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pəˈfɔːmɪŋ/",
+        "audio": "p/perform/performing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pərˈfɔːrm/",
+        "audio": "p/perform/perform__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pərˈfɔːrmz/",
+        "audio": "p/perform/performs__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pərˈfɔːrmd/",
+        "audio": "p/perform/performed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pərˈfɔːrmɪŋ/",
+        "audio": "p/perform/performing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "perform",
+      "heSheIt": "performs"
+    },
+    "pastSimple": "performed",
+    "pastParticiple": "performed",
+    "ingForm": "performing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to entertain an audience by playing a piece of music, acting in a play, etc.",
+      "sensetop": "perform (something)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **perform a song/dance/play**"
+        },
+        {
+          "text": "The play was first performed in 2007."
+        },
+        {
+          "text": "Visiting artists will perform their music and poetry."
+        },
+        {
+          "text": "I'm looking forward to seeing you perform."
+        },
+        {
+          "text": "I'd love to see them **perform live** *(= in a live show, not a recording)*."
+        },
+        {
+          "text": "What do you like about **performing on stage**?"
+        },
+        {
+          "text": "I've never seen this play performed before."
+        },
+        {
+          "text": "The group will be performing live on tonight's show."
+        },
+        {
+          "text": "The play was first publicly performed in 1872."
+        },
+        {
+          "text": "The two artists have never performed together before."
+        },
+        {
+          "text": "He performed a few magic tricks at the party."
+        },
+        {
+          "text": "to perform somersaults/​magic tricks"
+        },
+        {
+          "text": "I'd like to hear it performed live."
+        }
+      ],
+      "topics": ["Film and theatre", "Music"],
+      "collocations": {
+        "adverb": ["live", "in public", "publicly"],
+        "phrases": [
+          "first performed",
+          "rarely performed",
+          "see something performed"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to do something, such as a piece of work, task or duty",
+      "sensetop": "perform something",
+      "labels": "(medical)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She performs an important role in our organization."
+        },
+        {
+          "text": "A computer can **perform** many **tasks** at once."
+        },
+        {
+          "text": "to **perform a function/duty**"
+        },
+        {
+          "text": "to **perform an analysis/a test/an experiment**"
+        },
+        {
+          "text": "to perform a ceremony/ritual"
+        },
+        {
+          "text": "to **perform an operation/a procedure/surgery**"
+        },
+        {
+          "text": "The procedure was performed safely on ten patients."
+        },
+        {
+          "text": "The prince is no longer able to perform his duties."
+        },
+        {
+          "text": "Who ensures that tasks are properly performed?"
+        },
+        {
+          "text": "those who faithfully perform their duties"
+        },
+        {
+          "text": "This operation has never been performed in this country."
+        },
+        {
+          "text": "All subjects performed the experiment twice."
+        },
+        {
+          "text": "All analyses were performed on the entire sample."
+        }
+      ],
+      "synonyms": "carry out",
+      "collocations": {
+        "adverb": ["effectively", "efficiently", "properly"],
+        "verb + perform": ["be able to", "be unable to", "be expected to"],
+        "phrases": ["failure to perform something"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to work or function well or badly",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The engine seems to be **performing well**."
+        },
+        {
+          "text": "The company has been **performing poorly** over the past year."
+        },
+        {
+          "text": "England's players **perform better** for their clubs than for their country."
+        },
+        {
+          "text": "to perform admirably/brilliantly/strongly"
+        },
+        {
+          "text": "She performed less well in the second test."
+        },
+        {
+          "text": "They gather information on how businesses are performing."
+        },
+        {
+          "text": "If James performs *(= performs well)* then I believe Wales can win."
+        },
+        {
+          "text": "One or two of the players performed brilliantly."
+        },
+        {
+          "text": "The car performed poorly at high speeds."
+        },
+        {
+          "text": "The company has been performing strongly over the past year."
+        },
+        {
+          "text": "students who are expected to perform well"
+        },
+        {
+          "text": "Once your body demonstrates its ability to perform, you will feel more confident."
+        }
+      ],
+      "collocations": {
+        "adverb": ["admirably", "beautifully", "brilliantly"],
+        "verb + perform": ["be able to", "be unable to", "be expected to"]
+      }
+    },
+    {
+      "definition": "to achieve very good results",
+      "examples": [
+        {
+          "text": "Her exercise programme has worked miracles for her."
+        },
+        {
+          "text": "You can work miracles with very little money if you follow our home decoration tips."
+        },
+        {
+          "text": "He performed miracles to get everything ready in time."
+        },
+        {
+          "text": "Don't expect this medicine to work miracles."
+        },
+        {
+          "text": "You shouldn't expect the treatment to work miracles."
+        }
+      ],
+      "topics": ["Success"]
+    }
+  ],
+  "wordOrigin": "Middle English: from Anglo-Norman French parfourmer, alteration (by association with forme ‘form’) of Old French parfournir, from par ‘through, to completion’ + fournir ‘furnish, provide’."
+}

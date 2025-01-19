@@ -1,0 +1,103 @@
+{
+  "word": "await",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈweɪt/",
+        "audio": "a/await/await__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈweɪts/",
+        "audio": "a/await/awaits__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈweɪtɪd/",
+        "audio": "a/await/awaited__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈweɪtɪŋ/",
+        "audio": "a/await/awaiting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈweɪt/",
+        "audio": "a/await/await__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈweɪts/",
+        "audio": "a/await/awaits__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈweɪtɪd/",
+        "audio": "a/await/awaited__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈweɪtɪŋ/",
+        "audio": "a/await/awaiting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "await",
+      "heSheIt": "awaits"
+    },
+    "pastSimple": "awaited",
+    "pastParticiple": "awaited",
+    "ingForm": "awaiting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to wait for somebody/something",
+      "sensetop": "await somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He is in custody **awaiting trial**."
+        },
+        {
+          "text": "Her latest novel is eagerly awaited."
+        },
+        {
+          "text": "The outcome of the appeal is awaited with interest."
+        },
+        {
+          "text": "her long awaited return to professional tennis"
+        },
+        {
+          "text": "Scientists are still awaiting the results of tests."
+        }
+      ],
+      "collocations": {
+        "adverb": ["anxiously", "breathlessly", "nervously"],
+        "phrases": ["long awaited"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to be going to happen to somebody",
+      "sensetop": "await somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "A warm welcome awaits all our guests."
+        },
+        {
+          "text": "Who knows what dangers may await us?"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Anglo-Norman French awaitier, from a- (from Latin ad ‘to, at’) + waitier ‘to wait’."
+}

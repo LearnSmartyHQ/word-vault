@@ -1,0 +1,83 @@
+{
+  "word": "hey",
+  "partOfSpeech": "exclamation",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/heɪ/",
+        "audio": "h/hey/hey__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/heɪ/",
+        "audio": "h/hey/hey__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "used to attract somebody’s attention or to express interest, surprise or anger",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Hey, can I just ask you something?"
+        },
+        {
+          "text": "Hey, leave my things alone!"
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "used to say hello",
+      "labels": "(especially North American English, informal)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Hey, Jake! How are you doing?"
+        }
+      ],
+      "synonyms": "hi"
+    },
+    {
+      "senseNumber": "3",
+      "definition": "used to show that you do not really care about something or that you think it is not important",
+      "examples": [
+        {
+          "text": "That's the third time I've been late this week—but hey!—who's counting?"
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "used at the end of a statement, to show that you have finished speaking, or to form a question or invite somebody to reply",
+      "labels": "(South African English)",
+      "examples": [
+        {
+          "text": "Thanks for your help, hey."
+        },
+        {
+          "text": "My new bike's nice, hey?"
+        }
+      ]
+    },
+    {
+      "definition": "used to say that something does not matter or that you do not care about it",
+      "labels": "(North American English, informal)",
+      "examples": [
+        {
+          "text": "This is probably a bad idea, but what the hey!"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "natural exclamation: first recorded in Middle English."
+}

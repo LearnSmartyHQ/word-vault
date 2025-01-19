@@ -1,0 +1,178 @@
+{
+  "word": "substance",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsʌbstəns/",
+        "audio": "s/substance/substance__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsʌbstəns/",
+        "audio": "s/substance/substance__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a type of solid, liquid or gas that has particular qualities",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a sticky substance"
+        },
+        {
+          "text": "a chemical/radioactive/hazardous substance"
+        },
+        {
+          "text": "Some frogs produce **toxic substances** in their skin."
+        },
+        {
+          "text": "Exercise of this kind improves the balance of fatty substances in the bloodstream."
+        },
+        {
+          "text": "Psychoactive drugs are chemical substances that act on the brain."
+        },
+        {
+          "text": "a bag full of some unknown substance"
+        },
+        {
+          "text": "a natural substance found in the body of animals"
+        },
+        {
+          "text": "foreign substances that contaminated the experiments"
+        }
+      ],
+      "topics": ["Physics and chemistry"],
+      "collocations": {
+        "adjective": ["addictive", "cancer-causing", "carcinogenic"],
+        "verb + substance": ["use", "abuse", "contain"],
+        "substance + noun": ["use", "abuse"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a drug, especially an illegal one",
+      "examples": [
+        {
+          "text": "**illegal/controlled substances**"
+        },
+        {
+          "text": "He was disqualified from competing after testing positive to a **banned substance**."
+        },
+        {
+          "text": "Adolescent **substance use** remains high in the United States."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the quality of being based on facts or the truth",
+      "sensetop": "without substance",
+      "examples": [
+        {
+          "text": "The commission's report **gives substance to** these allegations."
+        },
+        {
+          "text": "There is some substance in what he says."
+        },
+        {
+          "text": "It was malicious gossip, completely without substance.",
+          "contextForm": "without substance"
+        },
+        {
+          "text": "His disappearance has given added substance to the argument that he stole the money."
+        },
+        {
+          "text": "The image of him that the media have presented has no substance."
+        },
+        {
+          "text": "The letters lent substance to the claims."
+        },
+        {
+          "text": "Their allegations were without substance."
+        },
+        {
+          "text": "There was little substance to his claims."
+        },
+        {
+          "text": "There's no substance in the story."
+        },
+        {
+          "text": "The party's manifesto is good on style but lacks real substance."
+        }
+      ],
+      "collocations": {
+        "adjective": ["real", "added"],
+        "verb + substance": ["have", "add", "give something"],
+        "preposition": ["in substance", "of substance", "with substance"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "the most important or main part of something",
+      "sensetop": "the substance of somethingin substance",
+      "examples": [
+        {
+          "text": "Love and guilt form the substance of his new book.",
+          "contextForm": "the substance of something"
+        },
+        {
+          "text": "The real substance of the report was in the third part."
+        },
+        {
+          "text": "I agreed with what she said in substance, though not with every detail.",
+          "contextForm": "in substance"
+        },
+        {
+          "text": "There seems to be no difference in substance between the two procedures."
+        }
+      ],
+      "collocations": {
+        "adjective": ["real", "added"],
+        "verb + substance": ["have", "add", "give something"],
+        "preposition": ["in substance", "of substance", "with substance"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "importance",
+      "sensetop": "of substance",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "matters of substance",
+          "contextForm": "of substance"
+        },
+        {
+          "text": "Nothing of any substance was achieved in the meeting."
+        },
+        {
+          "text": "He found it difficult to say much of substance."
+        },
+        {
+          "text": "No one raised any matters of substance."
+        }
+      ],
+      "collocations": {
+        "adjective": ["real", "added"],
+        "verb + substance": ["have", "add", "give something"],
+        "preposition": ["in substance", "of substance", "with substance"]
+      }
+    },
+    {
+      "definition": "a rich and powerful man or woman",
+      "labels": "(formal)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English (denoting the essential nature of something): from Old French, from Latin substantia ‘being, essence’, from substant- ‘standing firm’, from the verb substare."
+}

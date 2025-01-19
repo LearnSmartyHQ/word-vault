@@ -1,0 +1,142 @@
+{
+  "word": "artist",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɑːtɪst/",
+        "audio": "a/artist/artist__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɑːˈtiːst/",
+        "audio": "a/artist/artiste__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɑːrtɪst/",
+        "audio": "a/artist/artist__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɑːrˈtiːst/",
+        "audio": "a/artist/artiste__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a person who creates works of art, especially paintings or drawings",
+      "labels": "(figurative)(US English)(US English)(US English)(especially British English)(North American English usually)(British English)(North American English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "an exhibition of work by **contemporary** British **artists**"
+        },
+        {
+          "text": "a graphic artist"
+        },
+        {
+          "text": "a make-up artist"
+        },
+        {
+          "text": "He became a full-time artist in 1929."
+        },
+        {
+          "text": "In Paris she met a group of young artists: poets, film-makers and painters."
+        },
+        {
+          "text": "This is an **artist's impression** of the new stadium."
+        },
+        {
+          "text": "Whoever made this cake is a real artist."
+        },
+        {
+          "text": "Local watercolour artists are currently exhibiting their work in the town hall."
+        },
+        {
+          "text": "The agency began to represent Chinese artists."
+        },
+        {
+          "text": "The artists explored common themes."
+        },
+        {
+          "text": "The museum's featured artists include Degas, Cézanne and Renoir."
+        },
+        {
+          "text": "the new artist in residence at the Tate Gallery"
+        },
+        {
+          "text": "an artist who paints in oils"
+        },
+        {
+          "text": "artists who work in different media"
+        },
+        {
+          "text": "In 1942 the city commissioned war artist John Piper to paint its bombed cathedral."
+        },
+        {
+          "text": "an exhibition featuring wildlife artist Emma Gray"
+        }
+      ],
+      "topics": ["Art", "Jobs"],
+      "collocations": {
+        "adjective": ["accomplished", "gifted", "great"],
+        "verb + artist": ["commission", "feature", "showcase"],
+        "artist + verb": [
+          "create something",
+          "design something",
+          "draw (something)"
+        ],
+        "phrases": ["an artist in residence"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a person who is a professional singer, dancer, actor, etc.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **recording/solo artist**"
+        },
+        {
+          "text": "Among the artistes appearing on our show tonight we have…"
+        },
+        {
+          "text": "He was a true artiste: sensitive, dramatic and tragic."
+        },
+        {
+          "text": "The Blue Note Quartet will be the guest artists tomorrow night."
+        },
+        {
+          "text": "The festival featured up-and-coming young artists."
+        },
+        {
+          "text": "A mime artist's movements must be clear to the audience."
+        },
+        {
+          "text": "After the band broke up, Joe relaunched his career as a solo artist."
+        },
+        {
+          "text": "Caruso was probably the most popular recording artist of his time."
+        }
+      ],
+      "topics": ["Music"],
+      "collocations": {
+        "adjective": ["guest", "solo", "recording"],
+        "verb + artist": ["feature", "promote", "represent"],
+        "artist + verb": ["perform (something)", "work", "record (something)"]
+      }
+    }
+  ],
+  "wordOrigin": "early 16th cent. (denoting a master of the liberal arts): from French artiste, from Italian artista, from arte ‘art’, from Latin ars, art-."
+}

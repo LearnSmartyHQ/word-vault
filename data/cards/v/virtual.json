@@ -1,0 +1,78 @@
+{
+  "word": "virtual",
+  "partOfSpeech": "adjective",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈvɜːtʃuəl/",
+        "audio": "v/virtual/virtual__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈvɜːrtʃuəl/",
+        "audio": "v/virtual/virtual__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "made to appear to exist by the use of computer software, for example on the internet",
+      "labels": "(computing)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a system to help programmers create virtual environments"
+        },
+        {
+          "text": "a virtual classroom/desktop/library"
+        },
+        {
+          "text": "You can also take a virtual tour of the museum."
+        },
+        {
+          "text": "Students will have more access to resources and support, both virtual and physical."
+        }
+      ],
+      "topics": ["Computers"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "almost or very nearly the thing described, so that any slight difference is not important",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The company has a virtual monopoly in this area of trade."
+        },
+        {
+          "text": "The economy has come to a virtual standstill."
+        },
+        {
+          "text": "He married a virtual stranger."
+        },
+        {
+          "text": "The country was sliding into a state of virtual civil war."
+        },
+        {
+          "text": "Analysts said the deal was a virtual certainty."
+        },
+        {
+          "text": "The stunning battle sequences almost make up for the virtual absence of a plot."
+        },
+        {
+          "text": "She was a virtual unknown when he cast her in the film."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English (also in the sense ‘possessing certain virtues’): from medieval Latin virtualis, from Latin virtus ‘virtue’, suggested by late Latin virtuosus."
+}

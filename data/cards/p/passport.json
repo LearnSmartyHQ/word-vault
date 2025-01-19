@@ -1,0 +1,106 @@
+{
+  "word": "passport",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈpɑːspɔːt/",
+        "audio": "p/passport/passport__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈpæspɔːrt/",
+        "audio": "p/passport/passport__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "an official document that identifies you as a citizen of a particular country, and that you may have to show when you enter or leave a country",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **valid passport**"
+        },
+        {
+          "text": "a **fake passport**"
+        },
+        {
+          "text": "a South African passport"
+        },
+        {
+          "text": "to **issue/confiscate a passport**"
+        },
+        {
+          "text": "I was stopped as I went through **passport control** *(= where passports are checked)*."
+        },
+        {
+          "text": "EU **passport holders**"
+        },
+        {
+          "text": "a passport photo"
+        },
+        {
+          "text": "I usually travel on my Irish passport."
+        },
+        {
+          "text": "The Embassy made him surrender his passport."
+        },
+        {
+          "text": "The European Parliament voted to adopt biometric passports."
+        },
+        {
+          "text": "You have to show your passport at the border."
+        },
+        {
+          "text": "I need to renew my passport."
+        },
+        {
+          "text": "a full British passport"
+        },
+        {
+          "text": "the UK Passport Agency"
+        }
+      ],
+      "topics": ["Transport by air", "Law and justice", "Holidays"],
+      "collocations": {
+        "adjective": ["valid", "full", "fake"],
+        "verb + passport": ["apply for", "renew", "get"],
+        "passport + verb": ["be valid", "expire"],
+        "passport + noun": ["photo", "photograph", "picture"],
+        "preposition": ["passport into", "passport to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a thing that makes something possible or enables you to achieve something",
+      "sensetop": "passport to something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The only passport to success is hard work."
+        },
+        {
+          "text": "The gold medal is his passport into professional boxing."
+        }
+      ],
+      "synonyms": "key",
+      "topics": ["Success"],
+      "collocations": {
+        "adjective": ["valid", "full", "fake"],
+        "verb + passport": ["apply for", "renew", "get"],
+        "passport + verb": ["be valid", "expire"],
+        "passport + noun": ["photo", "photograph", "picture"],
+        "preposition": ["passport into", "passport to"]
+      }
+    }
+  ],
+  "wordOrigin": "late 15th cent. (denoting authorization to depart from a port): from French passeport, from passer ‘to pass’ + port ‘seaport’."
+}

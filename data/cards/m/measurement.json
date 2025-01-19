@@ -1,0 +1,97 @@
+{
+  "word": "measurement",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmeʒəmənt/",
+        "audio": "m/measurement/measurement__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmeʒərmənt/",
+        "audio": "m/measurement/measurement__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the act or the process of finding the size, quantity or degree of something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the metric system of measurement"
+        },
+        {
+          "text": "Accurate measurement is very important in science."
+        },
+        {
+          "text": "The research is based on the measurement of body fat in schoolchildren."
+        },
+        {
+          "text": "It is important to take precise measurements of the structure."
+        },
+        {
+          "text": "Objective measurement is difficult with such poor equipment."
+        },
+        {
+          "text": "By making careful measurements of the eclipses, astronomers have made great progress in understanding them."
+        },
+        {
+          "text": "Engineers took direct measurements of water flow in the harbour."
+        }
+      ],
+      "topics": ["Maths and measurement"],
+      "collocations": {
+        "adjective": ["accurate", "careful", "exact"],
+        "verb + measurement": ["calculate", "carry out", "get"],
+        "measurement + noun": ["instrument", "system", "technique"],
+        "phrases": ["a scale of measurement", "a unit of measurement"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the size, length or amount of something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to take somebody’s **chest/waist measurement**"
+        },
+        {
+          "text": "Do you know your measurements *(= the size of parts of your body)*?"
+        },
+        {
+          "text": "The exact measurements of the room are 3 metres 20 by 2 metres 84."
+        }
+      ],
+      "topics": ["Maths and measurement"],
+      "collocations": {
+        "adjective": ["accurate", "careful", "exact"],
+        "verb + measurement": ["calculate", "carry out", "get"],
+        "measurement + noun": ["instrument", "system", "technique"],
+        "phrases": ["a scale of measurement", "a unit of measurement"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a unit or system of measuring",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "A hand is a measurement used for measuring horses."
+        }
+      ],
+      "topics": ["Maths and measurement"]
+    }
+  ],
+  "wordOrigin": null
+}

@@ -1,0 +1,162 @@
+{
+  "word": "differ",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdɪfə(r)/",
+        "audio": "d/differ/differ__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdɪfəz/",
+        "audio": "d/differ/differs__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdɪfəd/",
+        "audio": "d/differ/differed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdɪfərɪŋ/",
+        "audio": "d/differ/differing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdɪfər/",
+        "audio": "d/differ/differ__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdɪfərz/",
+        "audio": "d/differ/differs__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdɪfərd/",
+        "audio": "d/differ/differed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdɪfərɪŋ/",
+        "audio": "d/differ/differing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "differ",
+      "heSheIt": "differs"
+    },
+    "pastSimple": "differed",
+    "pastParticiple": "differed",
+    "ingForm": "differing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to be different from somebody/something",
+      "sensetop": "A differs from BA and B differ (from each other)differ between A and B",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "They hold differing views."
+        },
+        {
+          "text": "French differs from English in this respect.",
+          "contextForm": "A differs from B"
+        },
+        {
+          "text": "French and English differ in this respect.",
+          "contextForm": "A and B differ (from each other)"
+        },
+        {
+          "text": "Ideas on childcare may differ considerably between the parents.",
+          "contextForm": "differ between A and B"
+        },
+        {
+          "text": "His ideas differ little from those of his father."
+        },
+        {
+          "text": "Opinions differ widely on this issue."
+        },
+        {
+          "text": "Social organization differs significantly between the different groups."
+        },
+        {
+          "text": "The models differ in size and shape."
+        },
+        {
+          "text": "The rates of violent crime differed greatly among the four cities."
+        },
+        {
+          "text": "The two approaches differ markedly"
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adverb": ["considerably", "dramatically", "enormously"],
+        "preposition": ["according to", "among", "between"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to disagree with somebody",
+      "sensetop": "differ (with somebody) (about/on/over something)differ (as to something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I have to differ with you on that.",
+          "contextForm": "differ (with somebody) (about/on/over something)"
+        },
+        {
+          "text": "Medical opinion differs as to how to treat the disease.",
+          "contextForm": "differ (as to something)"
+        },
+        {
+          "text": "It didn't seem right that I should differ with him."
+        },
+        {
+          "text": "The two parties differ on all the major issues."
+        },
+        {
+          "text": "The two sides still differ over details of the plan."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "verb + differ": ["agree to", "beg to"],
+        "preposition": ["about", "over", "on"]
+      }
+    },
+    {
+      "definition": "if two people agree to differ/disagree, they accept that they have different opinions about something, but they decide not to discuss it any longer",
+      "examples": [
+        {
+          "text": "We must just agree to differ on this."
+        },
+        {
+          "text": "In the end we agreed to disagree."
+        },
+        {
+          "text": "I think you're wrong. Let's just agree to differ."
+        }
+      ],
+      "topics": ["Discussion and agreement"]
+    },
+    {
+      "definition": "used to say politely that you do not agree with something that has just been said",
+      "examples": [
+        {
+          "text": "‘At least she is good at her job.’ ‘Oh, I beg to differ.’"
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    }
+  ],
+  "wordOrigin": "late Middle English (also in the sense ‘put off, defer’): from Old French differer ‘differ, defer’, from Latin differre, from dis- ‘from, away’ + ferre ‘bring, carry’. Compare with defer ‘put off’."
+}

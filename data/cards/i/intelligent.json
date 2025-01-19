@@ -1,0 +1,91 @@
+{
+  "word": "intelligent",
+  "partOfSpeech": "adjective",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈtelɪdʒənt/",
+        "audio": "i/intelligent/intelligent__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈtelɪdʒənt/",
+        "audio": "i/intelligent/intelligent__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "good at learning, understanding and thinking in a logical way about things; showing this ability",
+      "labels": "(especially North American English)especially British English",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **highly intelligent** child"
+        },
+        {
+          "text": "She is clearly extremely intelligent."
+        },
+        {
+          "text": "to have an intelligent conversation/discussion/debate"
+        },
+        {
+          "text": "to ask an intelligent question"
+        },
+        {
+          "text": "He should be able to solve the problem. He's reasonably intelligent."
+        },
+        {
+          "text": "Why do otherwise intelligent people take this event so seriously?"
+        },
+        {
+          "text": "a highly intelligent woman"
+        },
+        {
+          "text": "He's a highly intelligent man."
+        },
+        {
+          "text": "She asked a lot of intelligent questions."
+        }
+      ],
+      "topics": ["Personal qualities"],
+      "collocations": {
+        "verbs": ["be", "look", "seem"],
+        "adverb": ["extremely", "fairly", "very"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "able to understand and learn things",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Elephants are intelligent creatures and enjoy interacting with humans."
+        },
+        {
+          "text": "a search for intelligent life on other planets"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "able to store information and use it in new situations",
+      "labels": "(computing)",
+      "examples": [
+        {
+          "text": "intelligent robots/algorithms"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "early 16th cent.: from Latin intelligent- ‘understanding’, from the verb intelligere, variant of intellegere ‘understand’, from inter ‘between’ + legere ‘choose’."
+}

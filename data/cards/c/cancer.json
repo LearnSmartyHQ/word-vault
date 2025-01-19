@@ -1,0 +1,106 @@
+{
+  "word": "cancer",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkænsə(r)/",
+        "audio": "c/cancer/cancer__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkænsər/",
+        "audio": "c/cancer/cancer__us_3.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a serious disease in which growths of cells, also called cancers, form in the body and kill normal body cells. The disease often causes death.",
+      "sensetop": "cancer of something",
+      "labels": "(British English)(informal)(British English)(North American English)(British English)(British English)(British English)(British English)(North American English)(British English)(North American English)(British English)(British English)(British English)(North American English)(British English)(British English)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**breast/lung cancer**"
+        },
+        {
+          "text": "Most **skin cancers** are completely curable."
+        },
+        {
+          "text": "cancer of the colon/cervix",
+          "contextForm": "cancer of something"
+        },
+        {
+          "text": "The **cancer has spread** to his stomach."
+        },
+        {
+          "text": "Smokers face an increased risk of **developing** lung **cancer**."
+        },
+        {
+          "text": "to detect/diagnose/treat/cure cancer"
+        },
+        {
+          "text": "The drug can lower the **risk of** breast **cancer**."
+        },
+        {
+          "text": "**cancer patients/survivors**"
+        },
+        {
+          "text": "**cancer research**"
+        },
+        {
+          "text": "cancer screening/treatment/prevention/risk"
+        },
+        {
+          "text": "Childhood cancers have a very good survival rate."
+        },
+        {
+          "text": "He died after an 18-month battle against cancer."
+        },
+        {
+          "text": "Most of the women employees have now been screened for breast cancer."
+        },
+        {
+          "text": "Prostate cancer deaths fell after screening was introduced."
+        },
+        {
+          "text": "The cancer risk among smokers was found to be higher."
+        }
+      ],
+      "topics": ["Health problems"],
+      "collocations": {
+        "adjective": ["breast", "cervical", "colon"],
+        "verb + cancer": ["have", "suffer from", "contract"],
+        "cancer + verb": ["spread", "occur", "recur"],
+        "cancer + noun": ["cell", "patient", "sufferer"],
+        "phrases": [
+          "a battle against cancer",
+          "a struggle against cancer",
+          "cancer of the cervix"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "an evil or dangerous thing that spreads quickly",
+      "labels": "(literary)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Violence is a cancer in our society."
+        }
+      ],
+      "topics": ["Danger"]
+    }
+  ],
+  "wordOrigin": "Old English, from Latin, ‘crab or creeping ulcer’, translating Greek karkinos, said to have been applied to such tumours because the swollen veins around them resembled the limbs of a crab. canker was the usual form until the 17th cent. Compare with Cancer."
+}

@@ -1,0 +1,63 @@
+{
+  "word": "solar",
+  "partOfSpeech": "adjective",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsəʊlə(r)/",
+        "audio": "s/solar/solar__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsəʊlər/",
+        "audio": "s/solar/solar__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "of or connected with the sun",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**solar radiation**"
+        },
+        {
+          "text": "a **solar eclipse**"
+        },
+        {
+          "text": "**solar wind**"
+        },
+        {
+          "text": "the solar cycle"
+        }
+      ],
+      "topics": ["Space", "Physics and chemistry"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "using the sun’s energy",
+      "labels": "(especially British English)(especially North American English)(North American English)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "solar heating"
+        },
+        {
+          "text": "a satellite telephone with **solar-powered** batteries"
+        }
+      ],
+      "topics": ["The environment", "Physics and chemistry"]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin solaris, from sol ‘sun’."
+}

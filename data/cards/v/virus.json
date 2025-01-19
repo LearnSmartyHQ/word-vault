@@ -1,0 +1,146 @@
+{
+  "word": "virus",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈvaɪrəs/",
+        "audio": "v/virus/virus__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈvaɪrəs/",
+        "audio": "v/virus/virus__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a living thing, too small to be seen without a microscope, that causes disease in people, animals and plants",
+      "labels": "(British English)(informal)(British English)(North American English)(British English)(British English)(British English)(British English)(North American English)(British English)(North American English)(British English)(British English)(British English)(North American English)(British English)(British English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the **flu/influenza virus**"
+        },
+        {
+          "text": "patients known to have been **infected with the virus**"
+        },
+        {
+          "text": "the **human immunodeficiency virus** or HIV"
+        },
+        {
+          "text": "the hepatitis C virus"
+        },
+        {
+          "text": "a highly infectious disease **caused by a virus**"
+        },
+        {
+          "text": "a virus infection"
+        },
+        {
+          "text": "The vaccination offers good protection against the virus."
+        },
+        {
+          "text": "It is not clear how she contracted the virus."
+        },
+        {
+          "text": "An infected person can pass the virus to others."
+        },
+        {
+          "text": "The virus attacks a variety of cells in the body."
+        }
+      ],
+      "topics": ["Health problems", "Biology"],
+      "collocations": {
+        "adjective": ["deadly", "killer", "lethal"],
+        "verb + virus": ["be infected with", "catch", "contract"],
+        "virus + verb": [
+          "infect somebody/​something",
+          "attack somebody/​something",
+          "kill somebody/​something"
+        ],
+        "virus + noun": ["infection", "vaccine", "transmission"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a disease caused by a virus",
+      "labels": "(informal)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "There's a virus going around the office."
+        },
+        {
+          "text": "I must have caught a virus on holiday."
+        }
+      ],
+      "topics": ["Health problems"],
+      "collocations": {
+        "adjective": ["deadly", "killer", "lethal"],
+        "verb + virus": ["be infected with", "catch", "contract"],
+        "virus + verb": [
+          "infect somebody/​something",
+          "attack somebody/​something",
+          "kill somebody/​something"
+        ],
+        "virus + noun": ["infection", "vaccine", "transmission"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "instructions that are hidden within a computer program and are designed to cause faults or destroy data",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a computer virus"
+        },
+        {
+          "text": "I think I've got a virus on my laptop."
+        },
+        {
+          "text": "The virus in the software was programmed to corrupt the hard disk."
+        },
+        {
+          "text": "software errors that can be exploited by virus writers"
+        },
+        {
+          "text": "A teenage boy was arrested for being the creator of the BomBlast virus that caused severe disruption to the country's defence systems."
+        },
+        {
+          "text": "Most viruses can only spread if you open an email attachment."
+        },
+        {
+          "text": "My computer has caught some kind of virus, and it won't let me log on to the internet."
+        },
+        {
+          "text": "The latest virus will attach itself to all the addresses in your email address book."
+        },
+        {
+          "text": "Your virus definitions are not up to date."
+        },
+        {
+          "text": "anti-virus software"
+        }
+      ],
+      "topics": ["Computers"],
+      "collocations": {
+        "adjective": ["computer", "email"],
+        "verb + virus": ["be infected with", "create", "develop"],
+        "virus + verb": ["attack something", "destroy something", "spread"],
+        "virus + noun": ["threat", "warning", "protection"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English (denoting the venom of a snake): from Latin, literally ‘slimy liquid, poison’. The earlier medical sense, superseded by the current use as a result of improved scientific understanding, was ‘a substance produced in the body as the result of disease, especially one capable of infecting others’."
+}

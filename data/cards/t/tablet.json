@@ -1,0 +1,104 @@
+{
+  "word": "tablet",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtæblət/",
+        "audio": "t/tablet/tablet__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtæblət/",
+        "audio": "t/tablet/tablet__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a small computer that is easy to carry, with a large touch screen and usually without a physical keyboard",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The company has launched its latest 10-inch tablet."
+        },
+        {
+          "text": "Consumers show a growing preference for tablets and smartphones over PCs and laptops."
+        }
+      ],
+      "topics": ["Computers"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a small round solid piece of medicine that you swallow",
+      "labels": "(especially British English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Take two tablets with water before meals."
+        },
+        {
+          "text": "I took the tablets prescribed by my doctor."
+        },
+        {
+          "text": "The drug is now available in tablet and capsule form."
+        }
+      ],
+      "synonyms": "pill",
+      "topics": ["Healthcare"],
+      "collocations": {
+        "adjective": ["Ecstasy", "paracetamol", "sleeping"],
+        "verb + tablet": ["swallow", "take"],
+        "phrases": ["in tablet form"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "an amount of a substance in a small, round, solid piece",
+      "examples": [
+        {
+          "text": "water purification tablets"
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a flat piece of stone that has words written on it, especially one that has been fixed to a wall in memory of an important person or event",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "The school has a memorial tablet engraved with the name of the founder."
+        },
+        {
+          "text": "We can be very flexible—our entry requirements are not set in **tablets of stone** *(= they can be changed)*."
+        }
+      ],
+      "synonyms": "plaque",
+      "collocations": {
+        "adjective": ["clay", "stone", "wax"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a piece of soap",
+      "sensetop": "tablet of soap",
+      "labels": "(old-fashioned, formal)",
+      "examples": []
+    },
+    {
+      "senseNumber": "6",
+      "definition": "a number of pieces of paper for writing or drawing on, that are fastened together at one edge",
+      "labels": "(North American English)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French tablete, from a diminutive of Latin tabula ‘plank, tablet, list’."
+}

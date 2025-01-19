@@ -1,0 +1,96 @@
+{
+  "word": "poverty",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈpɒvəti/",
+        "audio": "p/poverty/poverty__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈpɑːvərti/",
+        "audio": "p/poverty/poverty__us_3.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the state of being poor",
+      "sensetop": "in poverty",
+      "labels": "(US English)(British English)(North American English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "conditions of **extreme/abject poverty**"
+        },
+        {
+          "text": "to **alleviate poverty**"
+        },
+        {
+          "text": "Many elderly people live in poverty.",
+          "contextForm": "in poverty"
+        },
+        {
+          "text": "For him music was the way out of poverty."
+        },
+        {
+          "text": "She was born into poverty and political chaos."
+        },
+        {
+          "text": "More than 1.5 million Americans fell into poverty last year."
+        },
+        {
+          "text": "The government is aiming to reduce **child poverty** *(= the number of children living below the poverty line)*."
+        },
+        {
+          "text": "to tackle/combat/fight poverty"
+        },
+        {
+          "text": "to escape/flee poverty"
+        },
+        {
+          "text": "Most of the population lives in grinding poverty."
+        },
+        {
+          "text": "a plan to eradicate urban poverty"
+        },
+        {
+          "text": "Land reform would help to alleviate rural poverty."
+        }
+      ],
+      "topics": ["Money", "Social issues"],
+      "collocations": {
+        "adjective": ["abject", "absolute", "extreme"],
+        "verb + poverty": ["alleviate", "combat", "fight"],
+        "poverty + noun": ["trap", "rate", "reduction"],
+        "preposition": ["in poverty", "poverty  among", "poverty  of"],
+        "phrases": [
+          "above/​below/​under the poverty level",
+          "above/​below/​under the poverty line",
+          "at the poverty level"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a lack of something; poor quality",
+      "examples": [
+        {
+          "text": "There is a poverty of colour in her work."
+        },
+        {
+          "text": "His work displays a poverty of imagination."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French poverte, from Latin paupertas, from pauper ‘poor’."
+}

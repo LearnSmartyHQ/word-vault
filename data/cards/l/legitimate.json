@@ -1,0 +1,83 @@
+{
+  "word": "legitimate",
+  "partOfSpeech": "adjective",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/lɪˈdʒɪtɪmət/",
+        "audio": "l/legitimate/legitimate__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/lɪˈdʒɪtɪmət/",
+        "audio": "l/legitimate/legitimate__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "for which there is a fair and acceptable reason",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a legitimate grievance"
+        },
+        {
+          "text": "It seemed a **perfectly legitimate** question."
+        },
+        {
+          "text": "Politicians are legitimate targets for satire."
+        },
+        {
+          "text": "Parents' concerns about the disease are quite legitimate."
+        },
+        {
+          "text": "People have a legitimate expectation that their politicians should be honest."
+        },
+        {
+          "text": "The court ruled that celebrities' children were not a legitimate target for press intrusion."
+        }
+      ],
+      "synonyms": "valid, justifiable",
+      "collocations": {
+        "verbs": ["be", "seem", "consider something"],
+        "adverb": ["completely", "entirely", "perfectly"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "allowed and acceptable according to the law",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the legitimate government of the country"
+        },
+        {
+          "text": "Is his business strictly legitimate?"
+        },
+        {
+          "text": "The legitimate government was reinstated after the uprising."
+        }
+      ],
+      "synonyms": "legal",
+      "topics": ["Permission and obligation", "Law and justice"],
+      "collocations": {
+        "verbs": ["be", "seem", "consider something"],
+        "adverb": ["completely", "entirely", "perfectly"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "born when its parents are legally married to each other",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Family and relationships"]
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘born of parents lawfully married to each other’): from medieval Latin legitimatus ‘made legal’, from the verb legitimare, from Latin legitimus ‘lawful’, from lex, leg- ‘law’."
+}

@@ -1,0 +1,160 @@
+{
+  "word": "speaker",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈspiːkə(r)/",
+        "audio": "s/speaker/speaker__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈspiːkər/",
+        "audio": "s/speaker/speaker__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a person who gives a talk or makes a speech",
+      "sensetop": "speaker on something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He was a **guest speaker** at the conference."
+        },
+        {
+          "text": "a **keynote speaker** at the Republican convention"
+        },
+        {
+          "text": "She was a brilliant **public speaker**."
+        },
+        {
+          "text": "The Society has an interesting talk by a visiting speaker every month."
+        },
+        {
+          "text": "Previous speakers include two former US Secretaries of State."
+        },
+        {
+          "text": "He was much in demand as a visiting speaker."
+        },
+        {
+          "text": "The conference featured a number of distinguished speakers from the world of business and industry."
+        },
+        {
+          "text": "She is a frequent speaker on human and civil rights.",
+          "contextForm": "speaker on something"
+        },
+        {
+          "text": "He makes his living as a motivational speaker."
+        },
+        {
+          "text": "She's a good public speaker."
+        },
+        {
+          "text": "the commencement speaker at my graduation"
+        },
+        {
+          "text": "Marina Warner was the keynote speaker at the conference."
+        }
+      ],
+      "collocations": {
+        "adjective": ["brilliant", "good", "great"],
+        "verb + speaker": ["feature", "invite"],
+        "preposition": ["speaker at"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a person who speaks a particular language",
+      "sensetop": "speaker of something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**English speakers**"
+        },
+        {
+          "text": "Spanish/Arabic/Chinese speakers"
+        },
+        {
+          "text": "a fluent speaker of German",
+          "contextForm": "speaker of something"
+        },
+        {
+          "text": "He's a fluent Arabic speaker."
+        },
+        {
+          "text": "speakers of English"
+        }
+      ],
+      "collocations": {
+        "adjective": ["fluent", "native", "non-native"],
+        "preposition": ["speaker of"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a person who is or was speaking",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I looked around to see who the speaker was."
+        },
+        {
+          "text": "A speaker conveys information through tone and body language."
+        },
+        {
+          "text": "Communication is an active process that involves both the speaker and the listener."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "the part of a radio, computer or piece of musical equipment that the sound comes out of",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The car had a powerful sound system with four speakers."
+        },
+        {
+          "text": "The computer has built-in stereo speakers."
+        },
+        {
+          "text": "a new set of speakers"
+        },
+        {
+          "text": "sound effects coming from the rear speakers"
+        }
+      ],
+      "topics": ["TV, radio and news", "Music"],
+      "collocations": {
+        "adjective": ["left", "right", "front"],
+        "… of speaker": ["set"],
+        "speaker + noun": ["system", "phone"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "the title of the person whose job is to control the discussions in a parliament",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "the Speaker of the House of Commons/Representatives"
+        }
+      ],
+      "topics": ["Politics"]
+    }
+  ],
+  "wordOrigin": null
+}

@@ -1,0 +1,95 @@
+{
+  "word": "jacket",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdʒækɪt/",
+        "audio": "j/jacket/jacket__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdʒækɪt/",
+        "audio": "j/jacket/jacket__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a piece of clothing worn on the top half of the body over a shirt, etc. that has arms and fastens down the front; a short, light coat",
+      "sensetop": "in a jacket",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **leather/denim/tweed jacket**"
+        },
+        {
+          "text": "I have to wear a **jacket and tie** to work."
+        },
+        {
+          "text": "a man in a black jacket and grey trousers",
+          "contextForm": "in a jacket"
+        },
+        {
+          "text": "A light cotton jacket was draped over her shoulders."
+        },
+        {
+          "text": "He pulled his passport from his inside jacket pocket."
+        },
+        {
+          "text": "She felt cold, so she put on her jacket."
+        },
+        {
+          "text": "a padded sleeveless jacket"
+        },
+        {
+          "text": "a ski jacket"
+        }
+      ],
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adjective": ["fitted", "tailored", "baggy"],
+        "verb + jacket": ["get", "grab", "pull on"],
+        "jacket + verb": ["hang"],
+        "jacket + noun": ["pocket", "sleeve"],
+        "phrases": ["a jacket and tie"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a loose paper cover for a book, usually with a design or picture on it",
+      "cefr": "c1",
+      "examples": [],
+      "topics": ["Literature and writing"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "an outer cover around a hot water pipe, etc., for example to reduce loss of heat",
+      "examples": []
+    },
+    {
+      "senseNumber": "4",
+      "definition": "the skin of a baked potato",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "potatoes baked in their jackets"
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a stiff paper or thick card cover for a record",
+      "labels": "(especially North American English)British and North American English",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French jaquet, diminutive of jaque; origin uncertain, perhaps based on Arabic."
+}

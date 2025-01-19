@@ -1,0 +1,165 @@
+{
+  "word": "schedule",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈʃedjuːl/",
+        "audio": "s/schedule/schedule__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈskedʒuːl/",
+        "audio": "s/schedule/schedule__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a plan that lists all the work that you have to do and when you must do each thing",
+      "sensetop": "on scheduleahead of schedulebehind scheduleaccording to schedule",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I have a **hectic schedule** for the next few days."
+        },
+        {
+          "text": "a busy/gruelling/punishing schedule"
+        },
+        {
+          "text": "We're working to a **tight schedule** *(= we have a lot of things to do in a short time)*."
+        },
+        {
+          "text": "He has taken some time out of his busy schedule to talk to us."
+        },
+        {
+          "text": "They have a very flexible **work schedule**."
+        },
+        {
+          "text": "I have no time available in my regular schedule."
+        },
+        {
+          "text": "Filming began on schedule *(= at the planned time)*.",
+          "contextForm": "on schedule"
+        },
+        {
+          "text": "The project will be completed on schedule this summer."
+        },
+        {
+          "text": "The new bridge has been finished two years ahead of schedule.",
+          "contextForm": "ahead of schedule"
+        },
+        {
+          "text": "The tunnel project has already fallen behind schedule.",
+          "contextForm": "behind schedule"
+        },
+        {
+          "text": "At this stage everything is going according to schedule *(= as planned)*.",
+          "contextForm": "according to schedule"
+        },
+        {
+          "text": "We are trying desperately to **keep to** our **schedule**."
+        },
+        {
+          "text": "The countries have yet to set the schedule for the next round of talks."
+        },
+        {
+          "text": "Allow time in the schedule for sickness."
+        },
+        {
+          "text": "I'm trying to fit everything into my busy schedule."
+        },
+        {
+          "text": "She has a very demanding schedule."
+        },
+        {
+          "text": "We had to work a lot of overtime to meet the strict production schedule."
+        },
+        {
+          "text": "We're five days off schedule."
+        }
+      ],
+      "topics": ["Working life"],
+      "collocations": {
+        "adjective": ["daily", "weekly", "etc."],
+        "verb + schedule": ["have", "maintain", "arrange"],
+        "schedule + verb": ["have a schedule to keep"],
+        "preposition": [
+          "according to schedule",
+          "behind schedule",
+          "in the schedule"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a chart showing the times at which trains, buses and planes leave and arrive",
+      "labels": "(North American English)especially in British English",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Connor checked the bus schedules for the day."
+        },
+        {
+          "text": "disruptions to flight schedules caused by the strike"
+        }
+      ],
+      "topics": ["Transport by bus and train"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a chart or plan of the classes that a student or teacher has in school each week",
+      "labels": "(North American English)British English",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Besides a full school schedule, Kayla's week is jam-packed with other activities."
+        },
+        {
+          "text": "What's your schedule like next semester?"
+        }
+      ],
+      "topics": ["Education"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a list of the television and radio programmes that are on a particular channel and the times that they start",
+      "cefr": "a2",
+      "examples": [
+        {
+          "text": "The channel's schedules are filled with old films and repeats."
+        },
+        {
+          "text": "Channel 4 has published its spring schedules."
+        },
+        {
+          "text": "The show trebled ratings for the channel's afternoon schedule."
+        }
+      ],
+      "topics": ["TV, radio and news"],
+      "collocations": {
+        "adjective": ["television", "TV", "programme"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a written list of things, for example prices, rates or conditions",
+      "examples": [
+        {
+          "text": "tax schedules"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘scroll, explanatory note, appendix’): from Old French cedule, from late Latin schedula ‘slip of paper’, diminutive of scheda, from Greek skhedē ‘papyrus leaf’. The verb dates from the mid 19th cent."
+}

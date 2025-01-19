@@ -1,0 +1,97 @@
+{
+  "word": "cooking",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkʊkɪŋ/",
+        "audio": "c/cooking/cooking__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkʊkɪŋ/",
+        "audio": "c/cooking/cooking__us_3.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the process of preparing food by heating it",
+      "labels": "(British English)(North American English)(British English)(North American English)(especially North American English)(British English)(British English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "My husband does all the cooking."
+        },
+        {
+          "text": "a book on Indian cooking"
+        },
+        {
+          "text": "We always use olive oil for cooking."
+        },
+        {
+          "text": "Cooking is her passion."
+        },
+        {
+          "text": "I use yogurt a lot in cooking."
+        },
+        {
+          "text": "Stir the mixture to prevent the beans sticking to the bottom during cooking."
+        },
+        {
+          "text": "Who does most of the cooking in your house?"
+        }
+      ],
+      "topics": ["Cooking and eating", "Hobbies"],
+      "collocations": {
+        "adjective": ["good", "gourmet", "great"],
+        "verb + cooking": ["do"],
+        "cooking + noun": ["oil", "show"],
+        "preposition": ["during cooking", "in cooking"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "food that has been prepared in a particular way",
+      "cefr": "a1",
+      "examples": [
+        {
+          "text": "The restaurant offers traditional **home cooking** *(= food similar to that cooked at home)*."
+        },
+        {
+          "text": "They serve good French cooking."
+        },
+        {
+          "text": "We enjoyed some of her gourmet cooking."
+        },
+        {
+          "text": "Her cooking is wonderful."
+        },
+        {
+          "text": "I miss my mother's good home cooking."
+        },
+        {
+          "text": "traditional English cooking"
+        },
+        {
+          "text": "traditional southern cooking"
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adjective": ["good", "gourmet", "great"],
+        "verb + cooking": ["do"],
+        "cooking + noun": ["oil", "show"],
+        "preposition": ["during cooking", "in cooking"]
+      }
+    }
+  ],
+  "wordOrigin": null
+}

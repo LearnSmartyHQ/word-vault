@@ -1,0 +1,82 @@
+{
+  "word": "vacuum",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈvækjuːm/",
+        "audio": "v/vacuum/vacuum__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈvækjuːm/",
+        "audio": "v/vacuum/vacuum__us_3.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a space that is completely empty of all substances, including all air or other gas",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a vacuum pump *(= one that creates a )*"
+        },
+        {
+          "text": "**vacuum-packed** foods *(= in a package from which most of the air has been removed)*"
+        },
+        {
+          "text": "Other gases rush in to fill the vacuum."
+        },
+        {
+          "text": "The machine then creates a vacuum."
+        }
+      ],
+      "topics": ["Physics and chemistry"],
+      "collocations": {
+        "adjective": ["perfect", "cultural", "moral"],
+        "verb + vacuum": ["create", "leave", "produce"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a situation in which somebody/something is missing",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "His resignation has created a vacuum which cannot easily be filled."
+        },
+        {
+          "text": "The writer criticized the moral vacuum in society."
+        }
+      ],
+      "collocations": {
+        "adjective": ["perfect", "cultural", "moral"],
+        "verb + vacuum": ["create", "leave", "produce"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the act of cleaning something with a vacuum cleaner",
+      "examples": [
+        {
+          "text": "to give a room a quick vacuum"
+        }
+      ]
+    },
+    {
+      "definition": "existing separately from other people, events, etc. when there should be a connection",
+      "examples": [
+        {
+          "text": "This kind of decision cannot ever be made in a vacuum."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "mid 16th cent.: modern Latin, neuter of Latin vacuus ‘empty’."
+}

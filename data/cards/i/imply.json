@@ -1,0 +1,161 @@
+{
+  "word": "imply",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪmˈplaɪ/",
+        "audio": "i/imply/imply__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪmˈplaɪz/",
+        "audio": "i/imply/implies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪmˈplaɪd/",
+        "audio": "i/imply/implied__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪmˈplaɪɪŋ/",
+        "audio": "i/imply/implying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪmˈplaɪ/",
+        "audio": "i/imply/imply__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪmˈplaɪz/",
+        "audio": "i/imply/implies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪmˈplaɪd/",
+        "audio": "i/imply/implied__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪmˈplaɪɪŋ/",
+        "audio": "i/imply/implying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "imply",
+      "heSheIt": "implies"
+    },
+    "pastSimple": "implied",
+    "pastParticiple": "implied",
+    "ingForm": "implying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to suggest that something is true or that you feel or think something, without saying so directly",
+      "sensetop": "imply (that)…imply somethingit is implied that…",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Are you implying (that) I am wrong?",
+          "contextForm": "imply (that)…"
+        },
+        {
+          "text": "His silence **seemed to imply** agreement.",
+          "contextForm": "imply something"
+        },
+        {
+          "text": "High-yield bonds, as the name implies, offer a high rate of interest."
+        },
+        {
+          "text": "It was implied that we were at fault.",
+          "contextForm": "it is implied that…"
+        },
+        {
+          "text": "I never meant to imply any criticism."
+        },
+        {
+          "text": "The article falsely implied that he was responsible for the accident."
+        },
+        {
+          "text": "The letter seems to imply that the minister knew about the business deals."
+        },
+        {
+          "text": "This statement should not be taken to imply that the government is exonerated of all blame."
+        }
+      ],
+      "collocations": {
+        "adverb": ["clearly", "heavily", "strongly"],
+        "verb + imply": ["seem to", "intend to", "mean to"],
+        "phrases": ["express or implied", "real or implied"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make it seem likely that something is true or exists",
+      "sensetop": "imply (that)…it is implied that…imply something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The survey implies (that) more people are moving house than was thought.",
+          "contextForm": "imply (that)…"
+        },
+        {
+          "text": "It was implied in the survey that…",
+          "contextForm": "it is implied that…"
+        },
+        {
+          "text": "Popularity **does not necessarily imply** merit.",
+          "contextForm": "imply something"
+        },
+        {
+          "text": "The fact that she was here implies a degree of interest."
+        },
+        {
+          "text": "The statement logically implies a certain conclusion."
+        },
+        {
+          "text": "They believe that submission in no way implies inferiority."
+        },
+        {
+          "text": "Campaigners said the data implies the existence of ‘a pressing social need’."
+        }
+      ],
+      "synonyms": "suggest",
+      "collocations": {
+        "adverb": ["clearly", "heavily", "strongly"],
+        "verb + imply": ["seem to", "intend to", "mean to"],
+        "phrases": ["express or implied", "real or implied"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to make something necessary in order to be successful",
+      "sensetop": "imply something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The project implies an enormous investment in training."
+        },
+        {
+          "text": "Sustainable development implies a long-term perspective."
+        }
+      ],
+      "synonyms": "mean",
+      "topics": ["Change, cause and effect"]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French emplier, from Latin implicare, from in- ‘in’ + plicare ‘to fold’. The original sense was ‘entwine’; in the 16th and 17th cents the word also meant ‘employ’. Compare with employ and implicate."
+}

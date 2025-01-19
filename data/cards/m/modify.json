@@ -1,0 +1,158 @@
+{
+  "word": "modify",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmɒdɪfaɪ/",
+        "audio": "m/modify/modify__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈmɒdɪfaɪz/",
+        "audio": "m/modify/modifies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈmɒdɪfaɪd/",
+        "audio": "m/modify/modified__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈmɒdɪfaɪɪŋ/",
+        "audio": "m/modify/modifying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmɑːdɪfaɪ/",
+        "audio": "m/modify/modify__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈmɑːdɪfaɪz/",
+        "audio": "m/modify/modifies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈmɑːdɪfaɪd/",
+        "audio": "m/modify/modified__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈmɑːdɪfaɪɪŋ/",
+        "audio": "m/modify/modifying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "modify",
+      "heSheIt": "modifies"
+    },
+    "pastSimple": "modified",
+    "pastParticiple": "modified",
+    "ingForm": "modifying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to change something slightly, especially in order to make it more suitable for a particular purpose",
+      "sensetop": "modify something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Patients are taught how to modify their diet."
+        },
+        {
+          "text": "We found it cheaper to modify existing equipment rather than buy new."
+        },
+        {
+          "text": "The software we use has been modified for us."
+        },
+        {
+          "text": "The law has been **significantly modified** since that ruling."
+        },
+        {
+          "text": "heavily/highly modified"
+        },
+        {
+          "text": "A modified version of my article was published in the newspaper."
+        },
+        {
+          "text": "Permissions are arranged so that you can't delete or modify files."
+        },
+        {
+          "text": "Check for the most recently modified version of a file."
+        },
+        {
+          "text": "Stories and characters had to be modified to fit a 21st-century audience."
+        },
+        {
+          "text": "The original text has been modified so radically that it is barely recognizable."
+        },
+        {
+          "text": "These ideas are still used today, though in a slightly modified form."
+        },
+        {
+          "text": "We can modify the service for local conditions."
+        },
+        {
+          "text": "You may need to modify your plans a little."
+        },
+        {
+          "text": "using a highly modified version of the program"
+        },
+        {
+          "text": "The office software has been modified over the years."
+        }
+      ],
+      "synonyms": "adapt",
+      "collocations": {
+        "adverb": ["considerably", "drastically", "extensively"],
+        "verb + modify": ["have to", "need to"],
+        "preposition": ["for"],
+        "phrases": [
+          "highly modified",
+          "in a modified form",
+          "modified to fit something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make something less extreme",
+      "sensetop": "modify something",
+      "examples": [
+        {
+          "text": "She refused to **modify her behaviour**."
+        },
+        {
+          "text": "He listened to the arguments and modified his view of the party."
+        },
+        {
+          "text": "The social worker at first aimed to get Mrs R to modify her behaviour, without success."
+        }
+      ],
+      "synonyms": "adjust"
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a word, such as an adjective or adverb, that modifies another word or group of words describes it or limits its meaning in some way",
+      "sensetop": "modify something",
+      "labels": "(grammar)",
+      "examples": [
+        {
+          "text": "In ‘walk slowly’, the adverb ‘slowly’ modifies the verb ‘walk’."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French modifier, from Latin modificare, from modus ‘measure’, from an Indo-European root shared by mete."
+}

@@ -1,0 +1,83 @@
+{
+  "word": "being",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈbiːɪŋ/",
+        "audio": "b/being/being__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈbiːɪŋ/",
+        "audio": "b/being/being__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "existence",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The Irish Free State **came into being** in 1922."
+        },
+        {
+          "text": "A new era was **brought into being** by the war."
+        }
+      ],
+      "collocations": {
+        "verb + being": ["be brought into", "come into"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a living creature",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**human beings**"
+        },
+        {
+          "text": "a strange being from another planet"
+        },
+        {
+          "text": "No **living being** deserves to be treated this way."
+        },
+        {
+          "text": "I work on the assumption that people are rational beings."
+        },
+        {
+          "text": "Dolphins are highly intelligent beings."
+        },
+        {
+          "text": "They claim to have proof that alien beings have landed on Earth."
+        }
+      ],
+      "topics": ["Biology"],
+      "collocations": {
+        "adjective": ["human", "living", "intelligent"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "your mind and all of your feelings",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "I hated him with my whole being."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": null
+}

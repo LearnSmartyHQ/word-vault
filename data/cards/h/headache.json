@@ -1,0 +1,88 @@
+{
+  "word": "headache",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈhedeɪk/",
+        "audio": "h/headache/headache__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈhedeɪk/",
+        "audio": "h/headache/headache__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a continuous pain in the head",
+      "labels": "(British English)(informal)(British English)(North American English)(British English)(British English)(British English)(British English)(North American English)(British English)(North American English)(British English)(British English)(British English)(North American English)(British English)(British English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He **had a** terrible **headache**."
+        },
+        {
+          "text": "Red wine gives me a headache."
+        },
+        {
+          "text": "to suffer from/get headaches"
+        },
+        {
+          "text": "to cause headaches"
+        },
+        {
+          "text": "I have **a splitting headache** *(= a very bad one)*."
+        },
+        {
+          "text": "a migraine/tension headache"
+        },
+        {
+          "text": "He developed a severe headache."
+        },
+        {
+          "text": "She had left the party early, pleading a headache."
+        },
+        {
+          "text": "The workers had complained of headaches and nausea."
+        }
+      ],
+      "topics": ["Health problems"],
+      "collocations": {
+        "adjective": ["bad", "chronic", "severe"],
+        "verb + headache": ["experience", "have", "suffer from"],
+        "headache + noun": ["medicine", "pill", "tablet"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a person or thing that causes worry or trouble",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The real headache will be getting the bank to lend you the money."
+        },
+        {
+          "text": "These regulations have created major headaches for many businesses."
+        },
+        {
+          "text": "Uneven cash flow proved to be a big headache for the company."
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "huge", "major"],
+        "verb + headache": ["create"],
+        "preposition": ["headache for"]
+      }
+    }
+  ],
+  "wordOrigin": null
+}

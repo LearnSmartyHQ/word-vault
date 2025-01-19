@@ -1,0 +1,70 @@
+{
+  "word": "protocol",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈprəʊtəkɒl/",
+        "audio": "p/protocol/protocol__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈprəʊtəkɑːl/",
+        "audio": "p/protocol/protocol__us_2_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a system of fixed rules and formal behaviour used at official meetings, usually between governments",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a breach of protocol"
+        },
+        {
+          "text": "the protocol of diplomatic visits"
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the first or original version of an agreement, especially a treaty between countries, etc.; an extra part added to an agreement or treaty",
+      "labels": "(specialist)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the first Geneva Protocol"
+        },
+        {
+          "text": "It is set out in a legally binding protocol which forms part of the treaty."
+        },
+        {
+          "text": "The dates were agreed under a protocol to the climate convention."
+        }
+      ],
+      "topics": ["Discussion and agreement"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a set of rules that control the way data is sent between computers",
+      "labels": "(computing)",
+      "examples": []
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a plan for performing a scientific experiment or medical treatment",
+      "labels": "(specialist)",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Scientific research"]
+    }
+  ],
+  "wordOrigin": "late Middle English (denoting the original minute of an agreement, forming the legal authority for future dealings relating to it): from Old French prothocole, via medieval Latin from Greek prōtokollon ‘first page, flyleaf’, from prōtos ‘first’ + kolla ‘glue’. Sense 1 derives from French protocole, the collection of set forms of etiquette to be observed by the French head of state, and the name of the government department responsible for this (in the 19th cent.)."
+}

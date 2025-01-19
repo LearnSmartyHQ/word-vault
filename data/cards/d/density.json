@@ -1,0 +1,74 @@
+{
+  "word": "density",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdensəti/",
+        "audio": "d/density/density__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdensəti/",
+        "audio": "d/density/density__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the quality of being dense; the degree to which something is dense",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The population density in this city is very high."
+        },
+        {
+          "text": "low-density forest"
+        },
+        {
+          "text": "an average density of 2.4 people per hectare"
+        }
+      ],
+      "collocations": {
+        "adjective": ["high", "low", "average"],
+        "verb + density": ["calculate", "determine", "estimate"],
+        "density + verb": ["change", "vary", "increase"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "how thick a solid, liquid or gas is, measured by its mass per unit of volume",
+      "labels": "(physics)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the density of a gas"
+        },
+        {
+          "text": "similar stars of the same mass and density"
+        },
+        {
+          "text": "Vitamin D deficiency causes a loss of bone density."
+        }
+      ],
+      "topics": ["Physics and chemistry"],
+      "collocations": {
+        "adjective": ["high", "low", "average"],
+        "verb + density": ["calculate", "determine", "estimate"],
+        "density + verb": ["change", "vary", "increase"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the amount of space available on a disk for recording data",
+      "labels": "(computing)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "early 17th cent.: from French densité or Latin densitas, from densus ‘dense’."
+}

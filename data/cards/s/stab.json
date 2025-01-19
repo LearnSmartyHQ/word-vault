@@ -1,0 +1,129 @@
+{
+  "word": "stab",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/stæb/",
+        "audio": "s/stab/stab__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/stæbz/",
+        "audio": "s/stab/stabs__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/stæbd/",
+        "audio": "s/stab/stabbed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈstæbɪŋ/",
+        "audio": "s/stab/stabbing__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/stæb/",
+        "audio": "s/stab/stab__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/stæbz/",
+        "audio": "s/stab/stabs__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/stæbd/",
+        "audio": "s/stab/stabbed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈstæbɪŋ/",
+        "audio": "s/stab/stabbing__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "stab",
+      "heSheIt": "stabs"
+    },
+    "pastSimple": "stabbed",
+    "pastParticiple": "stabbed",
+    "ingForm": "stabbing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to push a sharp, pointed object, especially a knife, into somebody, killing or injuring them",
+      "sensetop": "stab somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He was stabbed to death in a racist attack."
+        },
+        {
+          "text": "She stabbed him in the arm with a screwdriver."
+        },
+        {
+          "text": "He is accused of repeatedly stabbing a 16-year-old boy."
+        },
+        {
+          "text": "He was fatally stabbed."
+        },
+        {
+          "text": "He was found stabbed in his car."
+        },
+        {
+          "text": "He was stabbed in the chest."
+        },
+        {
+          "text": "Tina accidentally stabbed herself with her pencil."
+        }
+      ],
+      "topics": ["Crime and punishment"],
+      "collocations": {
+        "adverb": ["repeatedly", "fatally", "accidentally"],
+        "verb + stab": ["threaten to", "try to"],
+        "preposition": ["at", "in", "with"],
+        "phrases": ["be found stabbed", "stab somebody to death"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make a short, aggressive or violent movement with a finger or pointed object",
+      "sensetop": "stab something (at/into/through something)stab somebody/something (with something)stab at/into/through something",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "He stabbed his finger angrily at my chest.",
+          "contextForm": "stab something (at/into/through something)"
+        },
+        {
+          "text": "She stabbed her cigarette into the ashtray."
+        },
+        {
+          "text": "I stabbed at my meat with my fork."
+        },
+        {
+          "text": "She stabbed the air with her fork.",
+          "contextForm": "stab somebody/something (with something)"
+        },
+        {
+          "text": "The pain stabbed at his chest.",
+          "contextForm": "stab at/into/through something"
+        }
+      ],
+      "synonyms": "jab, prod"
+    },
+    {
+      "definition": "to do or say something that harms somebody who trusts you",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "late Middle English: of unknown origin."
+}

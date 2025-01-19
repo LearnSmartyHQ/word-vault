@@ -1,0 +1,159 @@
+{
+  "word": "solve",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/sɒlv/",
+        "audio": "s/solve/solve__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/sɒlvz/",
+        "audio": "s/solve/solves__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/sɒlvd/",
+        "audio": "s/solve/solved__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsɒlvɪŋ/",
+        "audio": "s/solve/solving__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/sɑːlv/",
+        "audio": "s/solve/solve__us_1_rr.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/sɑːlvz/",
+        "audio": "s/solve/solves__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/sɑːlvd/",
+        "audio": "s/solve/solved__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsɑːlvɪŋ/",
+        "audio": "s/solve/solving__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "solve",
+      "heSheIt": "solves"
+    },
+    "pastSimple": "solved",
+    "pastParticiple": "solved",
+    "ingForm": "solving"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to find a way of dealing with a problem or difficult situation",
+      "sensetop": "solve something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Attempts are being made to **solve the problem** of waste disposal."
+        },
+        {
+          "text": "to **solve an issue/a crisis**"
+        },
+        {
+          "text": "You can't solve anything by just running away."
+        },
+        {
+          "text": "I hope that he can find a good way to solve these problems."
+        },
+        {
+          "text": "Being with peers and friends does not necessarily solve this feeling of loneliness."
+        },
+        {
+          "text": "The problem cannot be solved with spending cuts alone."
+        },
+        {
+          "text": "We hope the difficulty can be solved by getting the two sides together to discuss the issues."
+        },
+        {
+          "text": "We need to focus on solving the country's problem."
+        },
+        {
+          "text": "a plan designed to solve the housing problem"
+        },
+        {
+          "text": "research aimed at solving the growing problem of child obesity"
+        },
+        {
+          "text": "The Board met several times last week to try to solve the firm's financial crisis."
+        },
+        {
+          "text": "Unemployment will not be solved by offering low-paid jobs in call centres."
+        }
+      ],
+      "collocations": {
+        "adverb": ["completely", "largely", "half"],
+        "verb + solve": ["attempt to", "try to", "help (to)"],
+        "preposition": ["by", "with"],
+        "phrases": [
+          "an attempt to solve something",
+          "be aimed at solving something",
+          "be good at solving something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to find the correct answer or explanation for something",
+      "sensetop": "solve something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **solve an equation/a puzzle**"
+        },
+        {
+          "text": "to **solve a crime/mystery**"
+        },
+        {
+          "text": "to solve a riddle/conundrum"
+        },
+        {
+          "text": "The police have appealed for help in solving the case."
+        },
+        {
+          "text": "We were given clues to help us solve the puzzle."
+        },
+        {
+          "text": "This question has never been satisfactorily solved."
+        },
+        {
+          "text": "The mystery has not yet been completely solved."
+        }
+      ],
+      "topics": ["Crime and punishment", "Maths and measurement"],
+      "collocations": {
+        "adverb": ["completely", "largely", "half"],
+        "verb + solve": ["attempt to", "try to", "help (to)"],
+        "preposition": ["by", "with"],
+        "phrases": [
+          "an attempt to solve something",
+          "be aimed at solving something",
+          "be good at solving something"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘loosen, dissolve, untie’): from Latin solvere ‘loosen, unfasten’."
+}

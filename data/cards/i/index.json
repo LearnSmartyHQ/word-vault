@@ -1,0 +1,190 @@
+{
+  "word": "index",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɪndeks/",
+        "audio": "i/index/index__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈɪndɪsiːz/",
+        "audio": "i/index/indices__gb_4.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɪndeks/",
+        "audio": "i/index/index__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈɪndɪsiːz/",
+        "audio": "i/index/indices__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a list of names or topics that are referred to in a book, etc., usually arranged at the end of a book in alphabetical order or listed in a separate file or book",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Look it up in the index."
+        },
+        {
+          "text": "Author and subject indexes are available on a library database."
+        },
+        {
+          "text": "Is there any reference to it in the index?"
+        },
+        {
+          "text": "It's a general index to the whole work."
+        },
+        {
+          "text": "The index only gives the main towns."
+        },
+        {
+          "text": "The topic I was interested in didn't appear in the index."
+        },
+        {
+          "text": "His novels were put on the index of banned books."
+        },
+        {
+          "text": "The detailed index lists all the historical characters referred to in the book."
+        }
+      ],
+      "topics": ["Literature and writing"],
+      "collocations": {
+        "adjective": ["complete", "comprehensive", "detailed"],
+        "verb + index": ["appear in", "be in", "consult"],
+        "index + verb": ["give something", "list something"],
+        "index + noun": ["card"],
+        "preposition": ["in a/​the index", "index to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a box of cards with information on them, arranged in alphabetical order",
+      "labels": "(British English)North American English",
+      "examples": []
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a system that shows the level of prices and wages, etc. so that they can be compared with those of a previous date",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the cost-of-living index"
+        },
+        {
+          "text": "The Dow Jones index fell 15 points this morning."
+        },
+        {
+          "text": "stock market indices"
+        },
+        {
+          "text": "house price indexes"
+        },
+        {
+          "text": "Most commodity funds track a specific commodity index."
+        },
+        {
+          "text": "The Morgan Stanley Cyclical index posted a small advance."
+        },
+        {
+          "text": "The NYSE Financial index gained 20%."
+        },
+        {
+          "text": "The commodities index fell 3.1%."
+        },
+        {
+          "text": "The company is listed on the Nasdaq technology stocks index."
+        },
+        {
+          "text": "The hundred shares index closed down 15 points."
+        }
+      ],
+      "topics": ["Money"],
+      "collocations": {
+        "adjective": ["good", "reliable", "sensitive"],
+        "verb + index": ["have", "use (something as)", "compile"],
+        "index + verb": ["add something", "gain something", "increase"],
+        "preposition": ["in an/​the index", "on an/​the index"],
+        "phrases": [
+          "a drop in an index",
+          "a fall in an index",
+          "changes in an index"
+        ]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a number giving a measurement of something compared with a particular standard",
+      "examples": [
+        {
+          "text": "White bread has a high glycaemic index."
+        },
+        {
+          "text": "pain management index scores"
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a sign or measure that something else can be judged by",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The number of new houses being built is a good index of a country's prosperity."
+        },
+        {
+          "text": "The test results were used as an index of language proficiency."
+        },
+        {
+          "text": "Those who lived in the inner cities had a high index of deprivation."
+        }
+      ],
+      "collocations": {
+        "adjective": ["good", "reliable", "sensitive"],
+        "verb + index": ["have", "use (something as)", "compile"],
+        "index + verb": ["add something", "gain something", "increase"],
+        "preposition": ["in an/​the index", "on an/​the index"],
+        "phrases": [
+          "a drop in an index",
+          "a fall in an index",
+          "changes in an index"
+        ]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "a list of the records in a computer file with information about where each is located",
+      "labels": "(computing)",
+      "examples": [
+        {
+          "text": "Search the index to find the address of the data file."
+        },
+        {
+          "text": "The index of a search engine is like a library."
+        }
+      ],
+      "topics": ["Computers"]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "the small number written above a larger number to show how many times that number must be multiplied by itself. In the equation 42 = 16, the number 2 is an index.",
+      "labels": "(mathematics)",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Maths and measurement"]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin index, indic- ‘forefinger, informer, sign’, from in- ‘towards’ + a second element related to dicere ‘say’ or dicare ‘make known’; compare with indicate. The original sense ‘index finger’ (the finger with which one points), came to mean ‘pointer’ (late 16th cent.), and figuratively something that serves to point to a fact or conclusion; hence a list of topics in a book (“pointing” to their location)."
+}

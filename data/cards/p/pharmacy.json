@@ -1,0 +1,66 @@
+{
+  "word": "pharmacy",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfɑːməsi/",
+        "audio": "p/pharmacy/pharmacy__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfɑːrməsi/",
+        "audio": "p/pharmacy/pharmacy__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a shop, or part of one, that sells medicines and drugs",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The cream is available at/from/in pharmacies without a prescription."
+        },
+        {
+          "text": "Research is bringing more effective new drugs to pharmacy shelves."
+        }
+      ],
+      "topics": ["Shopping", "Healthcare"],
+      "collocations": {
+        "adjective": ["community", "hospital", "local"],
+        "pharmacy + noun": ["business", "chain", "counter"],
+        "phrases": [
+          "available at pharmacies",
+          "available from pharmacies",
+          "available in pharmacies"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a place in a hospital where medicines are prepared",
+      "examples": [],
+      "collocations": {
+        "adjective": ["community", "hospital", "local"],
+        "pharmacy + noun": ["business", "chain", "counter"],
+        "phrases": [
+          "available at pharmacies",
+          "available from pharmacies",
+          "available in pharmacies"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the study of how to prepare medicines and drugs",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "late Middle English (denoting the administration of drugs): from Old French farmacie, via medieval Latin from Greek pharmakeia ‘practice of the druggist’, based on pharmakon ‘drug’."
+}

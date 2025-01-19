@@ -1,0 +1,136 @@
+{
+  "word": "arrest",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈrest/",
+        "audio": "a/arrest/arrest__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈrests/",
+        "audio": "a/arrest/arrests__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈrestɪd/",
+        "audio": "a/arrest/arrested__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈrestɪŋ/",
+        "audio": "a/arrest/arresting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈrest/",
+        "audio": "a/arrest/arrest__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈrests/",
+        "audio": "a/arrest/arrests__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈrestɪd/",
+        "audio": "a/arrest/arrested__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈrestɪŋ/",
+        "audio": "a/arrest/arresting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "arrest",
+      "heSheIt": "arrests"
+    },
+    "pastSimple": "arrested",
+    "pastParticiple": "arrested",
+    "ingForm": "arresting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "if the police arrest somebody, the person is taken to a police station and kept there because the police believe they may be guilty of a crime",
+      "sensetop": "arrest somebodyarrest somebody for somethingarrest somebody for doing something",
+      "labels": "(especially North American English)(especially US English)(especially North American English)(British English)(North American English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "A man has been **arrested in connection with** the robbery.",
+          "contextForm": "arrest somebody"
+        },
+        {
+          "text": "Two youths have since been **arrested on suspicion of** murder."
+        },
+        {
+          "text": "Police arrested three suspects."
+        },
+        {
+          "text": "He was arrested on corruption charges."
+        },
+        {
+          "text": "She was **arrested and charged** with arson."
+        },
+        {
+          "text": "She was arrested for drug-related offences.",
+          "contextForm": "arrest somebody for something"
+        },
+        {
+          "text": "You could **get arrested** for doing that.",
+          "contextForm": "arrest somebody for doing something"
+        }
+      ],
+      "topics": ["Crime and punishment"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to stop a process or a development",
+      "sensetop": "arrest something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "They failed to arrest the company's decline."
+        },
+        {
+          "text": "The spread of the disease can be arrested with drugs."
+        },
+        {
+          "text": "Steps need to be taken quickly to arrest the deterioration in the countries' relationship."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to make somebody notice something and pay attention to it",
+      "sensetop": "arrest something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "An unusual noise **arrested his attention**."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "if somebody arrests, their heart stops beating",
+      "labels": "(medical)",
+      "examples": [
+        {
+          "text": "He arrested on the way to the hospital."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French arester, based on Latin ad- ‘at, to’ + restare ‘remain, stop’."
+}

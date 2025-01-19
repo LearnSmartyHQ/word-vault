@@ -1,0 +1,201 @@
+{
+  "word": "grade",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɡreɪd/",
+        "audio": "g/grade/grade__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡreɪd/",
+        "audio": "g/grade/grade__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a mark given in an exam or for a piece of school work",
+      "labels": "(British English)(North American English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She got good grades in her exams."
+        },
+        {
+          "text": "She got good grades on her exams."
+        },
+        {
+          "text": "70 per cent of students achieved Grade C or above."
+        },
+        {
+          "text": "an A-grade essay"
+        },
+        {
+          "text": "I need to improve my grades."
+        },
+        {
+          "text": "She got a failing grade for that assignment."
+        },
+        {
+          "text": "The oral exam constitutes 10 per cent of the final grade."
+        },
+        {
+          "text": "The proportion of students getting A grades is up."
+        }
+      ],
+      "topics": ["Education"],
+      "collocations": {
+        "adjective": ["final", "A", "B"],
+        "verb + grade": ["achieve", "attain", "earn"],
+        "phrases": ["grade point average"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "(in the US school system) one of the levels in a school with children of similar age",
+      "cefr": "b1",
+      "examples": [
+        {
+          "text": "Sam is in (the) second grade."
+        },
+        {
+          "text": "He skipped a grade so he finished high school early."
+        },
+        {
+          "text": "My son will be starting third grade this fall."
+        },
+        {
+          "text": "He moved up three grades in just a year."
+        },
+        {
+          "text": "These topics are suitable for seventh grade."
+        }
+      ],
+      "topics": ["Education"],
+      "collocations": {
+        "adjective": ["sixth", "third", "etc."],
+        "verb + grade": ["enter", "start", "complete"],
+        "grade + noun": ["level", "school"],
+        "preposition": ["in… grade"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the quality of a particular product or material",
+      "examples": [
+        {
+          "text": "All the materials used were of the highest grade."
+        },
+        {
+          "text": "a piece of high grade building land"
+        },
+        {
+          "text": "low grade steel"
+        },
+        {
+          "text": "Grade A beef"
+        },
+        {
+          "text": "a piece of top grade beef"
+        }
+      ],
+      "collocations": {
+        "adjective": ["high", "top", "low"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a level of ability or rank that somebody has in an organization",
+      "examples": [
+        {
+          "text": "salary/pay grades *(= levels of pay)*"
+        },
+        {
+          "text": "She's still only on an entry grade."
+        },
+        {
+          "text": "He was offered a job at a lower grade."
+        },
+        {
+          "text": "The majority of staff are on the same grade."
+        },
+        {
+          "text": "large pay increases for senior grades"
+        },
+        {
+          "text": "the people on management grades"
+        },
+        {
+          "text": "The higher grades within the organization usually get bigger pay rises."
+        }
+      ],
+      "collocations": {
+        "adjective": ["high", "senior", "junior"],
+        "preposition": ["at a/​the… grade", "on a/​the… grade"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "how serious an illness is",
+      "labels": "(specialist)",
+      "examples": [
+        {
+          "text": "**low/high grade** fever"
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "a slope on a road or railway; the degree to which the ground slopes",
+      "labels": "(especially North American English)British and North American English",
+      "examples": [
+        {
+          "text": "The hill has a grade of 25 per cent."
+        },
+        {
+          "text": "We hiked up a short steep grade."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "a level of exam in musical skill",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "grade 6 piano"
+        }
+      ]
+    },
+    {
+      "definition": "to be a decision or an area of work that somebody does not have the authority or expert knowledge to deal with",
+      "examples": [
+        {
+          "text": "This decision is above my pay grade."
+        }
+      ],
+      "topics": ["Working life"]
+    },
+    {
+      "definition": "to reach the necessary standard; to succeed",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "About 10 per cent of trainees fail to make the grade."
+        }
+      ],
+      "topics": ["Success"]
+    }
+  ],
+  "wordOrigin": "early 16th cent.: from French, or from Latin gradus ‘step’. Originally used as a unit of measurement of angles (a degree of arc), the term later referred to degrees of merit or quality."
+}

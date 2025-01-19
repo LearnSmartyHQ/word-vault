@@ -1,0 +1,224 @@
+{
+  "word": "scream",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/skriːm/",
+        "audio": "s/scream/scream__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/skriːmz/",
+        "audio": "s/scream/screams__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/skriːmd/",
+        "audio": "s/scream/screamed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈskriːmɪŋ/",
+        "audio": "s/scream/screaming__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/skriːm/",
+        "audio": "s/scream/scream__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/skriːmz/",
+        "audio": "s/scream/screams__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/skriːmd/",
+        "audio": "s/scream/screamed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈskriːmɪŋ/",
+        "audio": "s/scream/screaming__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "scream",
+      "heSheIt": "screams"
+    },
+    "pastSimple": "screamed",
+    "pastParticiple": "screamed",
+    "ingForm": "screaming"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to give a loud, high shout, because you are hurt, frightened, excited, etc.",
+      "sensetop": "scream in/with somethingscream out in/with somethingscream outscream yourself + adj.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "There was a bang and I heard someone scream."
+        },
+        {
+          "text": "I wanted to run screaming from the room."
+        },
+        {
+          "text": "The kids were screaming with excitement.",
+          "contextForm": "scream in/with something"
+        },
+        {
+          "text": "I screamed in pain."
+        },
+        {
+          "text": "The man screamed in agony and collapsed."
+        },
+        {
+          "text": "He heard a few of the children screaming with laughter."
+        },
+        {
+          "text": "People ran for the exits, screaming out in terror.",
+          "contextForm": "scream out in/with something"
+        },
+        {
+          "text": "The boy screamed out, as he felt a man's hand grab his arm.",
+          "contextForm": "scream out"
+        },
+        {
+          "text": "The baby was screaming itself hoarse.",
+          "contextForm": "scream yourself + adj."
+        },
+        {
+          "text": "screaming fans"
+        },
+        {
+          "text": "Despair shook him and he screamed silently in the darkness."
+        },
+        {
+          "text": "I was so bored I wanted to scream."
+        },
+        {
+          "text": "People were staggering about, screaming with pain."
+        },
+        {
+          "text": "People were screaming and yelling, passing out, fainting."
+        }
+      ],
+      "topics": ["Feelings"],
+      "collocations": {
+        "adverb": ["aloud", "loudly", "silently"],
+        "verb + scream": ["want to", "try to", "begin to"],
+        "preposition": ["after", "at", "for"],
+        "phrases": [
+          "begin screaming",
+          "start screaming",
+          "scream your head off"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to shout something in a loud, high voice because of fear, anger, etc.",
+      "sensetop": "+ speechscream (out) for something/somebodyscream at somebody to do somethingscream at somebodyscream something (out) (at somebody)scream (out) that…",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "‘Help!’ she screamed.",
+          "contextForm": "+ speech"
+        },
+        {
+          "text": "'Go away!' I screamed at the top of my voice *(= as loudly as possible)*."
+        },
+        {
+          "text": "Someone was screaming for help.",
+          "contextForm": "scream (out) for something/somebody"
+        },
+        {
+          "text": "He screamed at me to stop.",
+          "contextForm": "scream at somebody to do something"
+        },
+        {
+          "text": "Everyone started screaming at each other.",
+          "contextForm": "scream at somebody"
+        },
+        {
+          "text": "She started screaming and shouting at me."
+        },
+        {
+          "text": "He screamed hysterically at me."
+        },
+        {
+          "text": "She screamed abuse at him.",
+          "contextForm": "scream something (out) (at somebody)"
+        },
+        {
+          "text": "She screamed out abuse at him."
+        },
+        {
+          "text": "I started pounding on the door screaming my lungs out *(= as loud and long as possible)*."
+        },
+        {
+          "text": "He **screamed his head off** *(= screamed very loudly and angrily)* at me."
+        },
+        {
+          "text": "His sister screamed out that he was crazy.",
+          "contextForm": "scream (out) that…"
+        },
+        {
+          "text": "Marion screamed after them, ‘Stop! Stop!’"
+        },
+        {
+          "text": "She screamed at me to get out of the way."
+        }
+      ],
+      "collocations": {
+        "adverb": ["aloud", "loudly", "silently"],
+        "verb + scream": ["want to", "try to", "begin to"],
+        "preposition": ["after", "at", "for"],
+        "phrases": [
+          "begin screaming",
+          "start screaming",
+          "scream your head off"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to make a loud, high noise; to move fast, making this noise",
+      "sensetop": "+ adv./prep.",
+      "examples": [
+        {
+          "text": "Lights flashed and sirens screamed."
+        },
+        {
+          "text": "The powerboat screamed out to sea.",
+          "contextForm": "+ adv./prep."
+        }
+      ]
+    },
+    {
+      "definition": "if you drag somebody kicking and screaming to do something, they only do it with great protests because they don't really want to do it at all",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The president had to be dragged kicking and screaming to the signing ceremony."
+        }
+      ]
+    },
+    {
+      "definition": "to scream loudly and for a long time, especially in order to protest about something",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English: origin uncertain; perhaps from Middle Dutch."
+}

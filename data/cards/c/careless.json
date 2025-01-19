@@ -1,0 +1,119 @@
+{
+  "word": "careless",
+  "partOfSpeech": "adjective",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkeələs/",
+        "audio": "c/careless/careless__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkerləs/",
+        "audio": "c/careless/careless__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "not giving enough attention and thought to what you are doing, so that you make mistakes",
+      "sensetop": "it is careless of somebody to do somethingit is careless to do somethingcareless of somebodycareless with somethingcareless about somethingcareless about doing something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "careless driving"
+        },
+        {
+          "text": "a careless worker/driver"
+        },
+        {
+          "text": "It was careless of me to leave the door open.",
+          "contextForm": "it is careless of somebody to do something"
+        },
+        {
+          "text": "It would be careless to ignore the risks.",
+          "contextForm": "it is careless to do something"
+        },
+        {
+          "text": "Losing my phone again was very careless of me.",
+          "contextForm": "careless of somebody"
+        },
+        {
+          "text": "He's very careless with money.",
+          "contextForm": "careless with something"
+        },
+        {
+          "text": "Don't be so careless about spelling.",
+          "contextForm": "careless about something"
+        },
+        {
+          "text": "People have become increasingly careless about revealing personal information online.",
+          "contextForm": "careless about doing something"
+        },
+        {
+          "text": "She had begun to grow careless."
+        },
+        {
+          "text": "Try not to be so careless in the future."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "become", "get"],
+        "adverb": ["extremely", "rather", "very"],
+        "preposition": ["about", "of", "with"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "resulting from a lack of attention and thought",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a careless mistake/error"
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "become", "get"],
+        "adverb": ["extremely", "rather", "very"],
+        "preposition": ["about", "of", "with"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "not at all worried about something",
+      "sensetop": "careless of something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "He seemed careless of his own safety."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "become", "get"],
+        "adverb": ["extremely", "rather", "very"],
+        "preposition": ["about", "of", "with"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "not showing interest or effort",
+      "examples": [
+        {
+          "text": "She gave a careless shrug."
+        },
+        {
+          "text": "a **careless laugh/smile**"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English carlēas ‘free from care’ (see care, -less)."
+}

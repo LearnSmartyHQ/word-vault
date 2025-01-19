@@ -1,0 +1,157 @@
+{
+  "word": "cycle",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsaɪkl/",
+        "audio": "c/cycle/cycle__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsaɪkl/",
+        "audio": "c/cycle/cycle__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a bicycle or motorcycle",
+      "sensetop": "on a cycleby cycle",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He was riding his cycle home when he was hit by a lorry."
+        },
+        {
+          "text": "We went for a cycle ride on Sunday."
+        },
+        {
+          "text": "Lots of people arrived in cars or on cycles.",
+          "contextForm": "on a cycle"
+        },
+        {
+          "text": "They completed their journey by cycle.",
+          "contextForm": "by cycle"
+        }
+      ],
+      "topics": ["Transport by car or lorry", "Sports: other sports"],
+      "collocations": {
+        "adjective": ["motor", "pedal"],
+        "verb + cycle": ["ride"],
+        "cycle + noun": ["ride", "helmet", "lane"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the fact of a series of events being repeated many times, always in the same order",
+      "sensetop": "cycle (of something)cycle of somethingin a cycle",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Every business goes through cycles."
+        },
+        {
+          "text": "the cycle of the seasons",
+          "contextForm": "cycle of something"
+        },
+        {
+          "text": "The argument is that reprisals simply perpetuate the **cycle of violence**."
+        },
+        {
+          "text": "They could not **break the cycle** of harvest failure, food shortage, price increase and misery."
+        },
+        {
+          "text": "Front runners generally establish themselves early in the **election cycle**.",
+          "contextForm": "in a cycle"
+        },
+        {
+          "text": "The percentage of companies being downgraded was typical for this point in the economic cycle."
+        },
+        {
+          "text": "different phases of the **cell cycle**"
+        },
+        {
+          "text": "Life is a natural cycle, just like the changing seasons."
+        },
+        {
+          "text": "Male and female adults mate, the female lays eggs, and the cycle begins all over again."
+        },
+        {
+          "text": "The European market is simply going through an economic cycle."
+        },
+        {
+          "text": "The number of young produced per breeding cycle varies from species to species."
+        },
+        {
+          "text": "This cycle of events continually repeats itself."
+        },
+        {
+          "text": "To complete the cycle, oxygen is necessary."
+        },
+        {
+          "text": "at this point in the cycle"
+        },
+        {
+          "text": "caught up in a vicious cycle of bingeing and dieting"
+        },
+        {
+          "text": "part of the cycle of birth and death"
+        },
+        {
+          "text": "the 76-year solar cycle"
+        },
+        {
+          "text": "the annual cycle of church festivals"
+        }
+      ],
+      "topics": ["Money", "Biology"],
+      "collocations": {
+        "adjective": ["annual", "daily", "monthly"],
+        "verb + cycle": ["follow", "go through", "complete"],
+        "cycle + verb": ["begin again", "continue", "repeat (itself)"],
+        "cycle + noun": ["length", "time"],
+        "preposition": ["in a/​the cycle", "per cycle"],
+        "phrases": [
+          "a cycle of abuse, poverty, violence, etc.",
+          "part of the cycle (of something)"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a complete set or series, for example of movements in a machine",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "eight cycles per second"
+        },
+        {
+          "text": "the rinse cycle *(= in a washing machine)*"
+        }
+      ],
+      "topics": ["Engineering"],
+      "collocations": {
+        "adjective": ["annual", "daily", "monthly"],
+        "verb + cycle": ["follow", "go through", "complete"],
+        "cycle + verb": ["begin again", "continue", "repeat (itself)"],
+        "cycle + noun": ["length", "time"],
+        "preposition": ["in a/​the cycle", "per cycle"],
+        "phrases": [
+          "a cycle of abuse, poverty, violence, etc.",
+          "part of the cycle (of something)"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French, from late Latin cyclus, from Greek kuklos ‘circle’."
+}

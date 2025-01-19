@@ -1,0 +1,249 @@
+{
+  "word": "observe",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əbˈzɜːv/",
+        "audio": "o/observe/observe__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əbˈzɜːvz/",
+        "audio": "o/observe/observes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əbˈzɜːvd/",
+        "audio": "o/observe/observed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əbˈzɜːvɪŋ/",
+        "audio": "o/observe/observing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əbˈzɜːrv/",
+        "audio": "o/observe/observe__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əbˈzɜːrvz/",
+        "audio": "o/observe/observes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əbˈzɜːrvd/",
+        "audio": "o/observe/observed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əbˈzɜːrvɪŋ/",
+        "audio": "o/observe/observing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "observe",
+      "heSheIt": "observes"
+    },
+    "pastSimple": "observed",
+    "pastParticiple": "observed",
+    "ingForm": "observing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to see or notice somebody/something",
+      "sensetop": "observe somebody/somethingobserve somebody/something do somethingobserve somebody/something doing somethingobserve that…be observed to do something",
+      "labels": "(formal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Have you observed any changes lately?",
+          "contextForm": "observe somebody/something"
+        },
+        {
+          "text": "All the characters in the novel are closely observed *(= seem like people in real life)*."
+        },
+        {
+          "text": "I want you to observe all the details."
+        },
+        {
+          "text": "The patterns observed in our study may represent a general rule."
+        },
+        {
+          "text": "The police observed a man enter the bank.",
+          "contextForm": "observe somebody/something do something"
+        },
+        {
+          "text": "They observed him entering the bank.",
+          "contextForm": "observe somebody/something doing something"
+        },
+        {
+          "text": "She observed that all the chairs were already occupied.",
+          "contextForm": "observe that…"
+        },
+        {
+          "text": "He was observed to follow her closely.",
+          "contextForm": "be observed to do something"
+        },
+        {
+          "text": "It is the parents who actually observe these behavioural problems in their children."
+        },
+        {
+          "text": "She correctly observed that there was very little difference between the two parties on domestic policies."
+        },
+        {
+          "text": "This behaviour is commonly observed among several species of finch."
+        }
+      ],
+      "collocations": {
+        "adverb": ["carefully", "closely", "precisely"],
+        "verb + observe": ["be able to", "be possible to", "be difficult to"],
+        "preposition": ["among", "for", "from"],
+        "phrases": [
+          "be commonly observed",
+          "be frequently observed",
+          "be widely observed"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to watch somebody/something carefully, especially to learn more about them",
+      "sensetop": "observe somebody/somethingobserve somebody/something for somethingobserve how, what, etc…",
+      "labels": "(formal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He observes keenly, but says little."
+        },
+        {
+          "text": "I felt he was observing everything I did.",
+          "contextForm": "observe somebody/something"
+        },
+        {
+          "text": "The patients were observed over a period of several months."
+        },
+        {
+          "text": "an observed decrease in rainfall in the area"
+        },
+        {
+          "text": "The program provided an opportunity to observe the effects of treatment."
+        },
+        {
+          "text": "The cells were observed under a microscope."
+        },
+        {
+          "text": "The patient should be observed for signs of an allergic reaction.",
+          "contextForm": "observe somebody/something for something"
+        },
+        {
+          "text": "They observed how the parts of the machine fitted together.",
+          "contextForm": "observe how, what, etc…"
+        },
+        {
+          "text": "You can learn a lot by simply observing."
+        },
+        {
+          "text": "She was unaware that she was being observed from the window."
+        },
+        {
+          "text": "It is interesting to observe the reaction of the children to these changes."
+        },
+        {
+          "text": "She stood there, quietly observing the domestic scene."
+        }
+      ],
+      "synonyms": "monitor",
+      "collocations": {
+        "adverb": ["carefully", "closely", "precisely"],
+        "verb + observe": ["be able to", "be possible to", "be difficult to"],
+        "preposition": ["among", "for", "from"],
+        "phrases": [
+          "be commonly observed",
+          "be frequently observed",
+          "be widely observed"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to make a remark",
+      "sensetop": "observe that…+ speech",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "She observed that it was getting late."
+        },
+        {
+          "text": "‘It's easy to say that,’ she observed to Michael, ‘but can you prove it?’"
+        },
+        {
+          "text": "‘You took your time, ’ he observed coolly."
+        },
+        {
+          "text": "The only certainties in this world, as Benjamin Franklin famously observed, are death and taxes."
+        },
+        {
+          "text": "The Area Manager observed that takings were down and decided to pay a visit."
+        }
+      ],
+      "synonyms": "comment",
+      "collocations": {
+        "adverb": ["astutely", "correctly", "keenly"],
+        "preposition": ["to"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to obey rules, laws, etc.",
+      "sensetop": "observe something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Will the rebels observe the ceasefire?"
+        },
+        {
+          "text": "The crowd **observed a minute's silence** *(= were silent for one minute)* in memory of those who had died."
+        },
+        {
+          "text": "Failure to observe club rules may result in expulsion."
+        },
+        {
+          "text": "This procedure must be correctly observed."
+        }
+      ],
+      "topics": ["Permission and obligation"],
+      "collocations": {
+        "adverb": ["correctly", "faithfully", "scrupulously"],
+        "verb + observe": ["fail to"],
+        "phrases": ["failure to observe something"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to celebrate festivals, birthdays, etc.",
+      "sensetop": "observe something",
+      "labels": "(formal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Religious festivals were always observed."
+        }
+      ],
+      "topics": ["Religion and festivals"]
+    }
+  ],
+  "wordOrigin": "late Middle English (in sense (5)): from Old French observer, from Latin observare ‘to watch’, from ob- ‘towards’ + servare ‘attend to, look at’."
+}

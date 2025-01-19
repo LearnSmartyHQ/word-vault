@@ -1,0 +1,60 @@
+{
+  "word": "basketball",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈbɑːskɪtbɔːl/",
+        "audio": "b/basketball/basketball__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈbæskɪtbɔːl/",
+        "audio": "b/basketball/basketball__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a game played by two teams of five players, using a large ball which players try to throw into a high net hanging from a ring",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **basketball game/coach/team/player**"
+        },
+        {
+          "text": "I played **college basketball** for a while."
+        },
+        {
+          "text": "The games will be played on the **basketball courts**."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"],
+      "collocations": {
+        "adjective": ["college", "high-school", "pro"],
+        "… of basketball": ["game"],
+        "verb + basketball": ["play", "watch"],
+        "basketball + noun": ["championship", "competition", "game"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the ball used in this game",
+      "cefr": "a2",
+      "examples": [
+        {
+          "text": "to dribble/dunk a basketball"
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"]
+    }
+  ],
+  "wordOrigin": null
+}

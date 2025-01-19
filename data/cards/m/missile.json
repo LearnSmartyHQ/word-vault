@@ -1,0 +1,79 @@
+{
+  "word": "missile",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmɪsaɪl/",
+        "audio": "m/missile/missile__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmɪsl/",
+        "audio": "m/missile/missile__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a weapon that is sent through the air and that explodes when it hits the thing that it is aimed at",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "nuclear missiles"
+        },
+        {
+          "text": "a **missile base/site**"
+        },
+        {
+          "text": "Missiles fell on the city."
+        },
+        {
+          "text": "missiles targeting the capital"
+        },
+        {
+          "text": "strategic missiles deployed in sparsely populated desert areas"
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adjective": ["long-range", "medium-range", "short-range"],
+        "verb + missile": ["be armed with", "carry", "aim"],
+        "missile + verb": ["fly", "destroy something", "hit something"],
+        "missile + noun": ["base", "site", "attack"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "an object that is thrown at somebody to hurt them",
+      "examples": [
+        {
+          "text": "Missiles including stones and bottles were thrown at the police."
+        },
+        {
+          "text": "Another missile flew through the air."
+        },
+        {
+          "text": "They pelted her with eggs and various other missiles."
+        },
+        {
+          "text": "a crowd of youths armed with missiles that included petrol bombs"
+        }
+      ],
+      "synonyms": "projectile",
+      "collocations": {
+        "verb + missile": ["hurl", "pelt somebody with", "throw"],
+        "missile + verb": [
+          "hit somebody/​something",
+          "strike somebody/​something"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": "early 17th cent. (as an adjective in the sense ‘suitable for throwing (at a target)’): from Latin missile, neuter (used as a noun) of missilis, from miss- ‘sent’, from the verb mittere."
+}

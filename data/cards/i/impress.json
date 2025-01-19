@@ -1,0 +1,138 @@
+{
+  "word": "impress",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪmˈpres/",
+        "audio": "i/impress/impress__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪmˈpresɪz/",
+        "audio": "i/impress/impresses__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪmˈprest/",
+        "audio": "i/impress/impressed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪmˈpresɪŋ/",
+        "audio": "i/impress/impressing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪmˈpres/",
+        "audio": "i/impress/impress__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪmˈpresɪz/",
+        "audio": "i/impress/impresses__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪmˈprest/",
+        "audio": "i/impress/impressed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪmˈpresɪŋ/",
+        "audio": "i/impress/impressing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "impress",
+      "heSheIt": "impresses"
+    },
+    "pastSimple": "impressed",
+    "pastParticiple": "impressed",
+    "ingForm": "impressing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "if a person or thing impresses you, you admire them or it",
+      "sensetop": "impress (somebody)impress somebody with somethingit impresses somebody that…",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We interviewed a number of candidates but none of them impressed us.",
+          "contextForm": "impress (somebody)"
+        },
+        {
+          "text": "The Grand Canyon never fails to impress people."
+        },
+        {
+          "text": "The Grand Canyon never fails to impress."
+        },
+        {
+          "text": "His sincerity impressed her."
+        },
+        {
+          "text": "He impressed her with his sincerity.",
+          "contextForm": "impress somebody with something"
+        },
+        {
+          "text": "It impressed me that she remembered my name.",
+          "contextForm": "it impresses somebody that…"
+        },
+        {
+          "text": "I was young and easily impressed."
+        },
+        {
+          "text": "This game is his big chance to impress."
+        },
+        {
+          "text": "She impressed us with both the depth and range of her knowledge."
+        }
+      ],
+      "collocations": {
+        "adverb": ["really"],
+        "verb + impress": ["be determined to", "be keen to", "hope to"],
+        "preposition": ["with"],
+        "phrases": [
+          "an attempt to impress somebody",
+          "an effort to impress somebody",
+          "be easily impressed"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make somebody understand how important, serious, etc. something is by emphasizing it",
+      "sensetop": "impress something on/upon somebody",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "He impressed on us the need for immediate action."
+        },
+        {
+          "text": "Their responsibilities are impressed on them during training."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to have a great effect on something, especially somebody’s mind, imagination, etc.",
+      "sensetop": "impress something/itself on/upon something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Her words impressed themselves on my memory."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘apply with pressure’): from Old French empresser, from em- ‘in’ + presser ‘to press’, influenced by Latin imprimere, from in- ‘into’ + premere ‘to press’. Sense (1) dates from the mid 18th cent."
+}

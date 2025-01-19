@@ -1,0 +1,150 @@
+{
+  "word": "dump",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dʌmp/",
+        "audio": "d/dump/dump__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dʌmps/",
+        "audio": "d/dump/dumps__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dʌmpt/",
+        "audio": "d/dump/dumped__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdʌmpɪŋ/",
+        "audio": "d/dump/dumping__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dʌmp/",
+        "audio": "d/dump/dump__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dʌmps/",
+        "audio": "d/dump/dumps__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dʌmpt/",
+        "audio": "d/dump/dumped__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdʌmpɪŋ/",
+        "audio": "d/dump/dumping__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "dump",
+      "heSheIt": "dumps"
+    },
+    "pastSimple": "dumped",
+    "pastParticiple": "dumped",
+    "ingForm": "dumping"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to get rid of something you do not want, especially in a place that is not suitable",
+      "sensetop": "dump something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Too much toxic waste is being dumped at sea."
+        },
+        {
+          "text": "The dead body was just dumped by the roadside."
+        },
+        {
+          "text": "Any vessel dumping at sea without a licence will be prosecuted."
+        }
+      ],
+      "topics": ["The environment"],
+      "collocations": {
+        "adverb": ["illegally", "legally", "unceremoniously"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to get rid of somebody/something or leave them for somebody else to deal with",
+      "sensetop": "dump somebody/something (on somebody)",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "He's got no right to keep dumping his problems on me."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to get rid of goods by selling them at a very low price, often in another country",
+      "sensetop": "dump something",
+      "labels": "(business)",
+      "examples": []
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to put something/somebody down in a careless or untidy way",
+      "sensetop": "dump something/somebody",
+      "labels": "(informal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Just dump your stuff over there—we'll sort it out later."
+        },
+        {
+          "text": "He dumped the boxes down in the kitchen."
+        },
+        {
+          "text": "They carried him down to the beach and dumped him unceremoniously in the freezing water."
+        }
+      ],
+      "collocations": {
+        "adverb": ["illegally", "legally", "unceremoniously"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to end a romantic relationship with somebody",
+      "sensetop": "dump somebody",
+      "labels": "(informal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Did you hear he's dumped his girlfriend?"
+        }
+      ],
+      "topics": ["Family and relationships"]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to copy information and move it somewhere to store it",
+      "sensetop": "dump something",
+      "examples": []
+    },
+    {
+      "definition": "to make something the responsibility of another person",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "They dropped the problem firmly back in my lap."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: perhaps from Old Norse; related to Danish dumpe and Norwegian dumpa ‘fall suddenly’ (the original sense in English); in later use partly imitative; compare with thump."
+}

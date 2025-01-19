@@ -1,0 +1,198 @@
+{
+  "word": "combine",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəmˈbaɪn/",
+        "audio": "c/combine/combine__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəmˈbaɪnz/",
+        "audio": "c/combine/combines__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəmˈbaɪnd/",
+        "audio": "c/combine/combined__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəmˈbaɪnɪŋ/",
+        "audio": "c/combine/combining__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəmˈbaɪn/",
+        "audio": "c/combine/combine__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəmˈbaɪnz/",
+        "audio": "c/combine/combines__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəmˈbaɪnd/",
+        "audio": "c/combine/combined__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəmˈbaɪnɪŋ/",
+        "audio": "c/combine/combining__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "combine",
+      "heSheIt": "combines"
+    },
+    "pastSimple": "combined",
+    "pastParticiple": "combined",
+    "ingForm": "combining"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to come together to form a single thing or group; to join two or more things or groups together to form a single one",
+      "sensetop": "combine to do somethingcombine with something (to do something)combine somethingcombine A with Bcombine A and B (together)combine something into something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Hydrogen and oxygen combine to form water.",
+          "contextForm": "combine to do something"
+        },
+        {
+          "text": "Several factors had combined to ruin our plans."
+        },
+        {
+          "text": "Hydrogen combines with oxygen to form water.",
+          "contextForm": "combine with something (to do something)"
+        },
+        {
+          "text": "Archaeological and historical evidence **combine to create** a picture of what life must have been like at that time."
+        },
+        {
+          "text": "a style that **combines elements** of tap, ballet and modern dance",
+          "contextForm": "combine something"
+        },
+        {
+          "text": "I like to travel and make films, and I'm now able to **combine the two**."
+        },
+        {
+          "text": "Combine the eggs with a little flour.",
+          "contextForm": "combine A with B"
+        },
+        {
+          "text": "Combine the eggs and the flour.",
+          "contextForm": "combine A and B (together)"
+        },
+        {
+          "text": "Small units, such as words, can be combined into larger units, such as clauses.",
+          "contextForm": "combine something into something"
+        },
+        {
+          "text": "Combine all the ingredients in a bowl."
+        },
+        {
+          "text": "The earthquake and a series of underwater landslides combined to make a gigantic tsunami."
+        }
+      ],
+      "collocations": {
+        "adverb": ["successfully", "well"],
+        "preposition": ["against", "with"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to have two or more different features or characteristics; to put two or more different things, features or qualities together",
+      "sensetop": "combine somethingcombine A and/with B",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We are still looking for someone who combines all the necessary qualities.",
+          "contextForm": "combine something"
+        },
+        {
+          "text": "The new councils combine the functions of district and regional councils."
+        },
+        {
+          "text": "The hotel combines comfort with convenience.",
+          "contextForm": "combine A and/with B"
+        },
+        {
+          "text": "These materials combine enormous strength with light weight."
+        },
+        {
+          "text": "This model combines a printer and scanner."
+        },
+        {
+          "text": "They have successfully combined the old with the new in this room."
+        },
+        {
+          "text": "The other room was a kitchen and dining room combined."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to do two or more things at the same time",
+      "sensetop": "combine A and/with B",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The trip will combine business with pleasure."
+        },
+        {
+          "text": "She has successfully combined a career and bringing up a family."
+        },
+        {
+          "text": "He successfully combines his career with family life."
+        },
+        {
+          "text": "The courses allow students to combine their studies with employment or other activities."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to come together in order to work or act together; to put two things or groups together so that they work or act together",
+      "sensetop": "combine against somebody/somethingcombine with somethingcombine something (with something)",
+      "examples": [
+        {
+          "text": "They combined against a common enemy.",
+          "contextForm": "combine against somebody/something"
+        },
+        {
+          "text": "The illustrations combine well with the text.",
+          "contextForm": "combine with something"
+        },
+        {
+          "text": "You should try to combine exercise with a healthy diet.",
+          "contextForm": "combine something (with something)"
+        }
+      ]
+    },
+    {
+      "definition": "to work together in order to achieve a shared aim",
+      "examples": [
+        {
+          "text": "The two firms joined forces to win the contract."
+        },
+        {
+          "text": "The two companies have joined forces to form a new consortium."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "verb late Middle English: from Old French combiner or late Latin combinare ‘join two by two’, from com- ‘together’ + Latin bini ‘two together’."
+}

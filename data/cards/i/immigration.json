@@ -1,0 +1,87 @@
+{
+  "word": "immigration",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌɪmɪˈɡreɪʃn/",
+        "audio": "i/immigration/immigration__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌɪmɪˈɡreɪʃn/",
+        "audio": "i/immigration/immigration__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the process of coming to live permanently in a different country from the one you were born in; the number of people who do this",
+      "sensetop": "immigration into…immigration from…",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "**legal/illegal immigration**"
+        },
+        {
+          "text": "We are strongly supportive of immigration and multiculturalism."
+        },
+        {
+          "text": "laws restricting immigration into the US",
+          "contextForm": "immigration into…"
+        },
+        {
+          "text": "There was an increase in immigration from Eastern Europe.",
+          "contextForm": "immigration from…"
+        },
+        {
+          "text": "immigration policy/reform"
+        },
+        {
+          "text": "The power to enforce immigration laws lies with the federal government."
+        },
+        {
+          "text": "They announced measures to discourage illegal immigration."
+        },
+        {
+          "text": "She managed to put one woman in touch with a local immigration lawyer."
+        }
+      ],
+      "topics": ["Social issues"],
+      "collocations": {
+        "adjective": ["illegal", "undocumented", "legal"],
+        "verb + immigration": ["control", "curb", "curtail"],
+        "immigration + noun": ["bill", "control", "crisis"],
+        "preposition": ["immigration from"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the place at a port, an airport, etc. where the passports and other documents of people coming into a country are checked",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "We landed at Heathrow and went through customs and immigration."
+        },
+        {
+          "text": "immigration officers"
+        },
+        {
+          "text": "The men were interviewed by immigration officials."
+        }
+      ],
+      "topics": ["Social issues", "Transport by air"],
+      "collocations": {
+        "verb + immigration": ["go through", "pass through"],
+        "immigration + noun": ["checks", "procedures"]
+      }
+    }
+  ],
+  "wordOrigin": null
+}

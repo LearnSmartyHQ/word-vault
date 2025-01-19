@@ -1,0 +1,105 @@
+{
+  "word": "bean",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/biːn/",
+        "audio": "b/bean/bean__gb_4.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/biːn/",
+        "audio": "b/bean/bean__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a seed, or pod containing seeds, of a climbing plant, eaten as a vegetable. There are several types of bean and the plants that they grow on are also called beans.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "green beans"
+        },
+        {
+          "text": "runner beans"
+        },
+        {
+          "text": "beans *(= )* on toast"
+        },
+        {
+          "text": "a can/tin of beans"
+        },
+        {
+          "text": "She grows her own broad beans."
+        }
+      ],
+      "topics": ["Food"],
+      "collocations": {
+        "adjective": ["broad", "butter", "chilli"],
+        "verb + bean": ["plant", "grow", "drain"],
+        "bean + noun": ["curd", "sprout"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a seed from a coffee plant, or some other plants",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "cocoa/coffee beans"
+        }
+      ],
+      "topics": ["Farming"],
+      "collocations": {
+        "adjective": ["castor", "cocoa", "coffee"],
+        "verb + bean": ["roast", "grind"]
+      }
+    },
+    {
+      "definition": "having a lot of energy",
+      "examples": []
+    },
+    {
+      "definition": "something that is not worth much",
+      "labels": "(North American English, old-fashioned, informal)",
+      "examples": []
+    },
+    {
+      "definition": "to have no money",
+      "labels": "(British English, informal)",
+      "examples": []
+    },
+    {
+      "definition": "to know nothing about a subject",
+      "labels": "(North American English, informal)",
+      "examples": [
+        {
+          "text": "I don’t know beans about making movies."
+        }
+      ]
+    },
+    {
+      "definition": "to tell somebody something that should be kept secret or private",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "We don't want to spill the beans yet."
+        },
+        {
+          "text": "She made the mistake of spilling the tea on her sister's love life."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English bēan, of Germanic origin; related to Dutch boon and German Bohne."
+}

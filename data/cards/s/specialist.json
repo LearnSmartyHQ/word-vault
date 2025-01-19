@@ -1,0 +1,127 @@
+{
+  "word": "specialist",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈspeʃəlɪst/",
+        "audio": "s/specialist/specialist__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈspeʃəlɪst/",
+        "audio": "s/specialist/specialist__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a person who is an expert in a particular area of work or study",
+      "sensetop": "specialist in somethingspecialist on something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a specialist in Japanese history",
+          "contextForm": "specialist in something"
+        },
+        {
+          "text": "a communications/public relations/management specialist"
+        },
+        {
+          "text": "This is the view of virtually all independent specialists on the region.",
+          "contextForm": "specialist on something"
+        },
+        {
+          "text": "She is a specialist in children's literature."
+        },
+        {
+          "text": "She is a specialist in eighteenth-century English painting."
+        },
+        {
+          "text": "The book is written by a noted specialist in the field."
+        },
+        {
+          "text": "They brought in an outside specialist to install the computer system."
+        },
+        {
+          "text": "a new generation of computer security specialists"
+        },
+        {
+          "text": "a rural-development specialist"
+        },
+        {
+          "text": "a specialist on the history of this city"
+        },
+        {
+          "text": "A team of legal specialists were employed to work on the case."
+        },
+        {
+          "text": "He's a noted specialist in his field."
+        }
+      ],
+      "topics": ["Jobs"],
+      "collocations": {
+        "adjective": ["leading", "top", "experienced"],
+        "verb + specialist": ["bring in", "hire", "consult"],
+        "preposition": ["specialist in", "specialist on"],
+        "phrases": [
+          "a group of specialists",
+          "a team of specialists",
+          "a specialist in the field"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a doctor who has specialized in a particular area of medicine",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You need to **see a specialist**."
+        },
+        {
+          "text": "a cancer/fertility specialist"
+        },
+        {
+          "text": "an eye/ear, nose, and throat specialist"
+        },
+        {
+          "text": "I trained as a psychiatric specialist at the hospital."
+        },
+        {
+          "text": "a leading cancer specialist"
+        },
+        {
+          "text": "I was sent to see a specialist at the local hospital."
+        },
+        {
+          "text": "Specialists believe that this condition is genetic."
+        },
+        {
+          "text": "an ear/​eye/​heart specialist"
+        }
+      ],
+      "topics": ["Healthcare"],
+      "collocations": {
+        "adjective": ["leading", "top", "experienced"],
+        "verb + specialist": ["bring in", "hire", "consult"],
+        "preposition": ["specialist in", "specialist on"],
+        "phrases": [
+          "a group of specialists",
+          "a team of specialists",
+          "a specialist in the field"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": null
+}

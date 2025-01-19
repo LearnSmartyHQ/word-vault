@@ -1,0 +1,139 @@
+{
+  "word": "melt",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/melt/",
+        "audio": "m/melt/melt__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/melts/",
+        "audio": "m/melt/melts__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈmeltɪd/",
+        "audio": "m/melt/melted__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈmeltɪŋ/",
+        "audio": "m/melt/melting__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/melt/",
+        "audio": "m/melt/melt__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/melts/",
+        "audio": "m/melt/melts__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈmeltɪd/",
+        "audio": "m/melt/melted__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈmeltɪŋ/",
+        "audio": "m/melt/melting__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "melt",
+      "heSheIt": "melts"
+    },
+    "pastSimple": "melted",
+    "pastParticiple": "melted",
+    "ingForm": "melting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to become or make something become liquid as a result of heating",
+      "sensetop": "melt something",
+      "labels": "(British English)(North American English)(British English)(North American English)(especially North American English)(British English)(British English)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The snow showed no sign of melting."
+        },
+        {
+          "text": "melting ice"
+        },
+        {
+          "text": "The sun had melted the snow.",
+          "contextForm": "melt something"
+        },
+        {
+          "text": "boiled potatoes with melted butter"
+        },
+        {
+          "text": "melted cheese/chocolate/ice cream"
+        },
+        {
+          "text": "First, melt two ounces of butter."
+        },
+        {
+          "text": "The melting ice caps could provoke widespread flooding."
+        },
+        {
+          "text": "Add melted butter and season with salt and pepper."
+        },
+        {
+          "text": "These crystals have very high melting temperatures."
+        }
+      ],
+      "topics": ["Weather", "Physics and chemistry"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to become or to make a feeling, an emotion, etc. become gentler and less strong",
+      "sensetop": "melt something",
+      "examples": [
+        {
+          "text": "The tension in the room began to melt."
+        },
+        {
+          "text": "Her trusting smile melted his heart.",
+          "contextForm": "melt something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to become extremely hot",
+      "examples": [
+        {
+          "text": "Today the temperature got up to 36 degrees and it felt like I was melting."
+        }
+      ]
+    },
+    {
+      "definition": "used to say that somebody seems to be innocent, kind, etc. when they are not really",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to be soft and very good to eat",
+      "examples": [
+        {
+          "text": "They serve steaks that just melt in your mouth."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English meltan, mieltan, of Germanic origin; related to Old Norse melta ‘to malt, digest’, from an Indo-European root shared by Greek meldein ‘to melt’, Latin mollis ‘soft’, also by malt."
+}

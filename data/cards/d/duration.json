@@ -1,0 +1,63 @@
+{
+  "word": "duration",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/djuˈreɪʃn/",
+        "audio": "d/duration/duration__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/duˈreɪʃn/",
+        "audio": "d/duration/duration__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "definition": "the length of time that something lasts or continues",
+      "examples": [
+        {
+          "text": "The school was used as a hospital for the duration of the war."
+        },
+        {
+          "text": "a contract of three years’ duration"
+        },
+        {
+          "text": "Taking antibiotics will shorten the duration of the illness."
+        },
+        {
+          "text": "The next contract will be of shorter duration."
+        },
+        {
+          "text": "The overall duration of the flight was 11 hours."
+        }
+      ],
+      "collocations": {
+        "adjective": ["brief", "short", "limited"],
+        "verb + duration": ["decrease", "reduce", "shorten"],
+        "preposition": [
+          "for the duration (of)",
+          "of… duration",
+          "throughout the duration of"
+        ]
+      }
+    },
+    {
+      "definition": "until the end of a particular situation, especially a war",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "His wife and children had gone for the duration to the Lake District to escape the bombs."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: via Old French from medieval Latin duratio(n-), from durare ‘to last’, from durus ‘hard’."
+}

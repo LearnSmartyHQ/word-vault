@@ -1,0 +1,176 @@
+{
+  "word": "article",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɑːtɪkl/",
+        "audio": "a/article/article__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɑːrtɪkl/",
+        "audio": "a/article/article__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a piece of writing about a particular subject in a newspaper or magazine, on a website, etc.",
+      "sensetop": "article (by somebody) on somethingarticle (by somebody) about somethingaccording to an article",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **read/write/publish an article**"
+        },
+        {
+          "text": "Her comment follows an article posted online by the ‘Huffington Post’."
+        },
+        {
+          "text": "I read an interesting article by a well-known scientist on the subject of genetics.",
+          "contextForm": "article (by somebody) on something"
+        },
+        {
+          "text": "Have you seen that article about young fashion designers?",
+          "contextForm": "article (by somebody) about something"
+        },
+        {
+          "text": "According to a recent **newspaper article**, the company is worth over $20 billion.",
+          "contextForm": "according to an article"
+        },
+        {
+          "text": "A leading article in ‘The Times’ accused the minister of lying."
+        },
+        {
+          "text": "He wrote about his political career in a series of articles published in a national newspaper."
+        },
+        {
+          "text": "I'm doing an article about ways of preventing pollution."
+        },
+        {
+          "text": "It was her job to commission occasional articles."
+        },
+        {
+          "text": "The article appears in this week's edition of ‘The Spectator’."
+        },
+        {
+          "text": "The article looks at two questions."
+        },
+        {
+          "text": "The magazine includes a how-to article on building a greenhouse."
+        },
+        {
+          "text": "The magazine refused to publish his article."
+        },
+        {
+          "text": "an article on the dangers of sunbathing"
+        }
+      ],
+      "topics": ["TV, radio and news"],
+      "collocations": {
+        "adjective": ["brilliant", "excellent", "fascinating"],
+        "… of articles": ["series"],
+        "verb + article": ["author", "co-author", "do"],
+        "article + verb": ["appear", "contain something", "feature something"],
+        "preposition": ["in an/​the article", "article about", "article on"],
+        "phrases": [
+          "an article called something",
+          "an article entitled something",
+          "an article headed something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a separate item in an agreement or a contract",
+      "labels": "(law)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Article 10 of the European Convention guarantees free speech."
+        },
+        {
+          "text": "The key articles of the constitution can only be changed by referendum."
+        },
+        {
+          "text": "Article 7 provides that all businesses must be registered correctly."
+        },
+        {
+          "text": "Several articles of the 1955 treaty were rewritten."
+        },
+        {
+          "text": "The actions of the organization are in breach of Article 12 of the treaty."
+        },
+        {
+          "text": "The judge ordered the child's return home under Article 6 of the Convention."
+        }
+      ],
+      "topics": ["Law and justice"],
+      "collocations": {
+        "adjective": ["key"],
+        "verb + article": ["be in breach of", "breach", "contravene"],
+        "article + verb": [
+          "provide something",
+          "specify something",
+          "state something"
+        ],
+        "preposition": ["under an/​the article"],
+        "phrases": ["the terms of an article"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a particular item or separate thing, especially one of a set",
+      "labels": "(formal)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "articles of clothing"
+        },
+        {
+          "text": "toilet articles such as soap and shampoo"
+        },
+        {
+          "text": "The articles left at the scene helped the police to identify the criminals."
+        },
+        {
+          "text": "The finished article takes two months to manufacture."
+        },
+        {
+          "text": "Fake designer watches are sold at a fraction of the price of the genuine article."
+        }
+      ],
+      "synonyms": "item",
+      "topics": ["Shopping"],
+      "collocations": {
+        "adjective": ["finished", "the genuine", "offending"],
+        "verb + article": ["make", "manufacture", "produce"],
+        "phrases": ["an article of clothing"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "the words a and an (the indefinite article) or the (the definite article)",
+      "labels": "(grammar)",
+      "cefr": "b1",
+      "examples": [
+        {
+          "text": "Names of countries in English do not usually take an article."
+        }
+      ],
+      "topics": ["Language"],
+      "collocations": {
+        "adjective": ["definite", "indefinite"],
+        "verb + article": ["take"]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English (denoting a separate clause of the Apostles' Creed, a formal statement of Christian beliefs): from Old French, from Latin articulus ‘small connecting part’, diminutive of artus ‘joint’."
+}

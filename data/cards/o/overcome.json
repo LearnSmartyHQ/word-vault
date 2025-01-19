@@ -1,0 +1,156 @@
+{
+  "word": "overcome",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌəʊvəˈkʌm/",
+        "audio": "o/overcome/overcome__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌəʊvəˈkʌmz/",
+        "audio": "o/overcome/overcomes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌəʊvəˈkeɪm/",
+        "audio": "o/overcome/overcame__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌəʊvəˈkʌmɪŋ/",
+        "audio": "o/overcome/overcoming__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌəʊvərˈkʌm/",
+        "audio": "o/overcome/overcome__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌəʊvərˈkʌmz/",
+        "audio": "o/overcome/overcomes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌəʊvərˈkeɪm/",
+        "audio": "o/overcome/overcame__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌəʊvərˈkʌmɪŋ/",
+        "audio": "o/overcome/overcoming__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "overcome",
+      "heSheIt": "overcomes"
+    },
+    "pastSimple": "overcame",
+    "pastParticiple": "overcome",
+    "ingForm": "overcoming"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to succeed in dealing with or controlling a problem that has been preventing you from achieving something",
+      "sensetop": "overcome something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "She overcame injury to win the Olympic gold medal."
+        },
+        {
+          "text": "The two parties managed to overcome their differences on the issue."
+        },
+        {
+          "text": "He finally managed to overcome his fear of flying"
+        },
+        {
+          "text": "He overcame a strong temptation to run away."
+        },
+        {
+          "text": "Therapy helped her overcome her fear."
+        },
+        {
+          "text": "These problems were never entirely overcome."
+        },
+        {
+          "text": "There are at least two major obstacles that must be overcome."
+        },
+        {
+          "text": "This problem is largely overcome by printing out a new set of data."
+        }
+      ],
+      "topics": ["Difficulty and failure"],
+      "collocations": {
+        "adverb": ["completely", "successfully", "not entirely"],
+        "verb + overcome": ["be able to", "help (to)", "help somebody (to)"],
+        "phrases": ["an attempt to overcome something"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to defeat somebody",
+      "sensetop": "overcome somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "In the final game Sweden easily overcame France."
+        },
+        {
+          "text": "She overcame strong opposition to take the title."
+        },
+        {
+          "text": "This could be the year that he finally overcomes his great rival and clinches the championship."
+        }
+      ],
+      "collocations": {
+        "adverb": ["completely", "successfully", "not entirely"],
+        "verb + overcome": ["be able to", "help (to)", "help somebody (to)"],
+        "phrases": ["an attempt to overcome something"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to affect somebody very strongly",
+      "sensetop": "overcome somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Her parents were overcome with grief at the funeral."
+        },
+        {
+          "text": "Overcome by curiosity, the boy looked through the window."
+        },
+        {
+          "text": "The dead woman had been overcome by smoke."
+        },
+        {
+          "text": "He was suddenly overcome with remorse for the harm he had done."
+        },
+        {
+          "text": "She felt almost overcome by a tide of relief."
+        },
+        {
+          "text": "She felt quite overcome by their kindness."
+        },
+        {
+          "text": "The officers on duty were visibly overcome, many of them in tears."
+        }
+      ],
+      "synonyms": "overwhelm",
+      "collocations": {
+        "adverb": ["completely", "quite", "almost"],
+        "preposition": ["by", "with"]
+      }
+    }
+  ],
+  "wordOrigin": "Old English ofercuman (see over-, come)."
+}

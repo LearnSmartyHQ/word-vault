@@ -1,0 +1,165 @@
+{
+  "word": "satisfy",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsætɪsfaɪ/",
+        "audio": "s/satisfy/satisfy__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsætɪsfaɪz/",
+        "audio": "s/satisfy/satisfies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsætɪsfaɪd/",
+        "audio": "s/satisfy/satisfied__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsætɪsfaɪɪŋ/",
+        "audio": "s/satisfy/satisfying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsætɪsfaɪ/",
+        "audio": "s/satisfy/satisfy__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsætɪsfaɪz/",
+        "audio": "s/satisfy/satisfies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsætɪsfaɪd/",
+        "audio": "s/satisfy/satisfied__us_3.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsætɪsfaɪɪŋ/",
+        "audio": "s/satisfy/satisfying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "satisfy",
+      "heSheIt": "satisfies"
+    },
+    "pastSimple": "satisfied",
+    "pastParticiple": "satisfied",
+    "ingForm": "satisfying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make somebody pleased by doing or giving them what they want",
+      "sensetop": "satisfy somebody",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Nothing satisfies him—he's always complaining."
+        },
+        {
+          "text": "The proposed plan will not satisfy everyone."
+        }
+      ],
+      "topics": ["Feelings"],
+      "collocations": {
+        "verb + satisfy": ["have to", "must", "should"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to provide what is wanted, needed or asked for",
+      "sensetop": "satisfy something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The food wasn't enough to **satisfy his hunger**."
+        },
+        {
+          "text": "to **satisfy somebody’s curiosity**"
+        },
+        {
+          "text": "The education system must **satisfy the needs** of all children."
+        },
+        {
+          "text": "We cannot **satisfy demand** for the product."
+        },
+        {
+          "text": "to **satisfy a requirement/condition/criterion**"
+        },
+        {
+          "text": "She failed to satisfy all the requirements for entry to the college."
+        },
+        {
+          "text": "Nothing could satisfy his desire for power."
+        },
+        {
+          "text": "More and more games are produced to satisfy the public's appetite for online entertainment."
+        },
+        {
+          "text": "It seemed that no amount of information would satisfy their curiosity."
+        },
+        {
+          "text": "The owners were unable to satisfy all the demands of the workers."
+        },
+        {
+          "text": "We could never satisfy all their requests"
+        },
+        {
+          "text": "Our hunger satisfied, we continued our journey."
+        }
+      ],
+      "collocations": {
+        "verb + satisfy": ["have to", "must", "should"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to make somebody certain something is true or has been done",
+      "sensetop": "satisfy somebodysatisfy somebody of somethingsatisfy somebody/yourself (that)…",
+      "labels": "(formal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Her explanation did not satisfy the teacher.",
+          "contextForm": "satisfy somebody"
+        },
+        {
+          "text": "People need to be satisfied of the need for a new system.",
+          "contextForm": "satisfy somebody of something"
+        },
+        {
+          "text": "Once I had satisfied myself (that) it was the right decision, we went ahead.",
+          "contextForm": "satisfy somebody/yourself (that)…"
+        },
+        {
+          "text": "All you have to do is satisfy the court he is not at risk."
+        },
+        {
+          "text": "She went to satisfy herself that the guests had everything they needed."
+        },
+        {
+          "text": "He nodded, pretending to be satisfied by the answer."
+        }
+      ],
+      "collocations": {
+        "verb + satisfy": ["have to", "must", "should"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French satisfier, formed irregularly from Latin satisfacere ‘to content’, from satis ‘enough’ + facere ‘make’."
+}

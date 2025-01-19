@@ -1,0 +1,71 @@
+{
+  "word": "torture",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtɔːtʃə(r)/",
+        "audio": "t/torture/torture__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtɔːrtʃər/",
+        "audio": "t/torture/torture__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the act of causing somebody severe pain in order to punish them or make them say or do something",
+      "sensetop": "under torture",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Many of the refugees have suffered torture."
+        },
+        {
+          "text": "the use of torture"
+        },
+        {
+          "text": "terrible instruments of torture"
+        },
+        {
+          "text": "His confessions were made under torture.",
+          "contextForm": "under torture"
+        },
+        {
+          "text": "I heard stories of gruesome tortures in prisons."
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adjective": ["brutal", "systematic", "mental"],
+        "verb + torture": ["inflict", "endure", "suffer"],
+        "torture + noun": ["camp", "chamber", "room"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "mental or physical pain; something that causes this",
+      "labels": "(informal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The interview was sheer torture from start to finish."
+        }
+      ],
+      "topics": ["Feelings"],
+      "collocations": {
+        "adjective": ["brutal", "systematic", "mental"],
+        "verb + torture": ["inflict", "endure", "suffer"],
+        "torture + noun": ["camp", "chamber", "room"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘distortion, twisting’, or a physical disorder characterized by this): via French from late Latin tortura ‘twisting, torment’, from Latin torquere ‘to twist’."
+}

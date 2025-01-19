@@ -1,0 +1,79 @@
+{
+  "word": "spice",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/spaɪs/",
+        "audio": "s/spice/spice__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/spaɪs/",
+        "audio": "s/spice/spice__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "one of the various types of powder or seed that come from plants and are used in cooking. Spices have a strong taste and smell.",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "common spices such as ginger and cinnamon"
+        },
+        {
+          "text": "a spice jar"
+        }
+      ],
+      "topics": ["Food"],
+      "collocations": {
+        "adjective": ["ground", "mixed", "exotic"],
+        "spice + noun": ["mix", "mixture", "rub"],
+        "phrases": ["herbs and spices"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "extra interest or excitement",
+      "examples": [
+        {
+          "text": "We need an exciting trip to add some spice to our lives."
+        },
+        {
+          "text": "The danger added spice to their romance."
+        }
+      ],
+      "collocations": {
+        "adjective": ["extra"],
+        "verb + spice": ["add", "give"],
+        "phrases": ["the spice of life"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a powerful illegal synthetic (= artificial) drug that some people smoke for the physical and mental effects that it has on them",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Six men overdosed on the synthetic drug known as spice."
+        },
+        {
+          "text": "spice, known as the ‘zombie’ drug"
+        }
+      ],
+      "topics": ["Social issues"]
+    },
+    {
+      "definition": "having a range of different experiences makes life more interesting",
+      "labels": "(saying)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English: shortening of Old French espice, from Latin species ‘sort, kind’, in late Latin ‘wares’."
+}

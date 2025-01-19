@@ -1,0 +1,202 @@
+{
+  "word": "reverse",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈvɜːs/",
+        "audio": "r/reverse/reverse__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈvɜːsɪz/",
+        "audio": "r/reverse/reverses__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈvɜːst/",
+        "audio": "r/reverse/reversed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈvɜːsɪŋ/",
+        "audio": "r/reverse/reversing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈvɜːrs/",
+        "audio": "r/reverse/reverse__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈvɜːrsɪz/",
+        "audio": "r/reverse/reverses__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈvɜːrst/",
+        "audio": "r/reverse/reversed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈvɜːrsɪŋ/",
+        "audio": "r/reverse/reversing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "reverse",
+      "heSheIt": "reverses"
+    },
+    "pastSimple": "reversed",
+    "pastParticiple": "reversed",
+    "ingForm": "reversing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to change something completely so that it is the opposite of what it was before",
+      "sensetop": "reverse something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Falling birth rates may **reverse the trend** towards early retirement."
+        },
+        {
+          "text": "to reverse a procedure/process"
+        },
+        {
+          "text": "The government has failed to reverse the economic decline."
+        },
+        {
+          "text": "It is sometimes possible to arrest or reverse the disease."
+        }
+      ],
+      "collocations": {
+        "adverb": ["dramatically", "completely", "exactly"],
+        "verb + reverse": ["seek to", "try to", "fail to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to change a previous decision, law, etc. to the opposite one",
+      "sensetop": "reverse something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The Court of Appeal **reversed the decision**."
+        },
+        {
+          "text": "The policy is likely to be reversed if there is a change of government."
+        },
+        {
+          "text": "to reverse a judgement"
+        }
+      ],
+      "synonyms": "revoke",
+      "topics": ["Preferences and decisions"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to turn something the opposite way around or change the order of something around",
+      "sensetop": "reverse something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Writing is reversed in a mirror."
+        },
+        {
+          "text": "You should reverse the order of these pages."
+        },
+        {
+          "text": "To solve the puzzle, simply reverse the order of the numbers."
+        }
+      ],
+      "collocations": {
+        "adverb": ["dramatically", "completely", "exactly"],
+        "verb + reverse": ["seek to", "try to", "fail to"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to exchange the positions or functions of two things",
+      "sensetop": "reverse something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "It felt as if we had reversed our roles of parent and child."
+        },
+        {
+          "text": "She used to work for me, but our situations are now reversed."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to admit you were wrong or to stop having a particular position in an argument",
+      "sensetop": "reverse yourself (on something)",
+      "labels": "(North American English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He has reversed himself on a dozen issues."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "when a vehicle or its driver reverses or the driver reverses a vehicle, the vehicle goes backwards",
+      "sensetop": "reverse something",
+      "labels": "(especially British English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He reversed around the corner."
+        },
+        {
+          "text": "She reversed into a parking space."
+        },
+        {
+          "text": "Caution! This truck is reversing."
+        },
+        {
+          "text": "Now reverse the car.",
+          "contextForm": "reverse something"
+        },
+        {
+          "text": "He reversed slowly out of the garage."
+        },
+        {
+          "text": "She carefully reversed the lorry up the narrow driveway."
+        },
+        {
+          "text": "The car reversed into a hedge."
+        }
+      ],
+      "topics": ["Transport by car or lorry"],
+      "collocations": {
+        "adverb": ["slowly", "in", "out"],
+        "preposition": ["into", "out of"]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to make a phone call that will be paid for by the person you are calling, not by you",
+      "sensetop": "reverse (the) charges",
+      "labels": "(British English)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "I want to reverse the charges, please."
+        }
+      ],
+      "topics": ["Phones, email and the internet"]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French revers, reverse (nouns), reverser (verb), from Latin reversus ‘turned back’, past participle of revertere, from re- ‘back’ + vertere ‘to turn’."
+}

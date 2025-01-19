@@ -1,0 +1,123 @@
+{
+  "word": "pollution",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pəˈluːʃn/",
+        "audio": "p/pollution/pollution__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pəˈluːʃn/",
+        "audio": "p/pollution/pollution__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the process of making air, water, soil, etc. dirty; the state of being dirty",
+      "labels": "(especially British English)(especially North American English)(North American English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**air/water pollution**"
+        },
+        {
+          "text": "to reduce **pollution levels**"
+        },
+        {
+          "text": "new **pollution control** technologies"
+        },
+        {
+          "text": "Environmentalists say there is a high risk of pollution from the landfill site."
+        },
+        {
+          "text": "Many athletes feel the effects of air pollution during outdoor exercise."
+        },
+        {
+          "text": "The computer model assesses the likely impact of new pollution sources."
+        },
+        {
+          "text": "The summit ended with a joint pledge to limit pollution."
+        },
+        {
+          "text": "a convention on combating atmospheric pollution"
+        },
+        {
+          "text": "a new market in pollution credits"
+        },
+        {
+          "text": "a tightening of water pollution standards"
+        }
+      ],
+      "topics": ["The environment"],
+      "collocations": {
+        "adjective": ["air", "atmospheric", "environmental"],
+        "verb + pollution": ["cause", "create", "emit"],
+        "pollution + noun": ["level", "abatement", "control"],
+        "phrases": [
+          "the cost of pollution",
+          "the effects of pollution",
+          "a risk of pollution"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "substances that make air, water, soil, etc. dirty",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "beaches covered with pollution"
+        },
+        {
+          "text": "The new buses emit no more pollution than the average car."
+        }
+      ],
+      "topics": ["The environment"],
+      "collocations": {
+        "adjective": ["air", "atmospheric", "environmental"],
+        "verb + pollution": ["cause", "create", "emit"],
+        "pollution + noun": ["level", "abatement", "control"],
+        "phrases": [
+          "the cost of pollution",
+          "the effects of pollution",
+          "a risk of pollution"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "harmful or annoying levels of noise, or of artificial light at night",
+      "sensetop": "noise/light pollution",
+      "examples": [
+        {
+          "text": "Heavy traffic flow is a major source of noise pollution in urban areas."
+        },
+        {
+          "text": "The government has announced plans to tackle light pollution."
+        }
+      ],
+      "collocations": {
+        "adjective": ["air", "atmospheric", "environmental"],
+        "verb + pollution": ["cause", "create", "emit"],
+        "pollution + noun": ["level", "abatement", "control"],
+        "phrases": [
+          "the cost of pollution",
+          "the effects of pollution",
+          "a risk of pollution"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin pollutio(n-), from the verb polluere, based on the root of lutum ‘mud’."
+}

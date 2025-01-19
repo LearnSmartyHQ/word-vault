@@ -1,0 +1,105 @@
+{
+  "word": "powder",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈpaʊdə(r)/",
+        "audio": "p/powder/powder__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈpaʊdər/",
+        "audio": "p/powder/powder__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a dry mass of very small fine pieces or grains",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "chilli/cocoa powder"
+        },
+        {
+          "text": "lumps of chalk crushed to a fine white powder"
+        },
+        {
+          "text": "The snow was like powder."
+        },
+        {
+          "text": "a wide range of cleaning fluids and powders"
+        },
+        {
+          "text": "The mustard is sold in powder form."
+        },
+        {
+          "text": "powder skiing *(= on fine dry snow)*"
+        },
+        {
+          "text": "Before the photo dries, the image is dusted with a special powder."
+        },
+        {
+          "text": "The seeds are ground into a fine powder before use."
+        }
+      ],
+      "topics": ["Weather"],
+      "collocations": {
+        "adjective": ["fine", "chilli/​chili", "cocoa"],
+        "verb + powder": [
+          "grind something into",
+          "dust something with",
+          "sprinkle on"
+        ],
+        "powder + noun": ["snow"],
+        "phrases": ["in powder form"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a very fine, soft, dry substance that you can put on your face to make it look smooth and dry",
+      "examples": [
+        {
+          "text": "I only use lipstick and a little powder."
+        },
+        {
+          "text": "She quickly dabbed some powder on her cheeks."
+        }
+      ],
+      "collocations": {
+        "adjective": ["fine", "chilli/​chili", "cocoa"],
+        "verb + powder": [
+          "grind something into",
+          "dust something with",
+          "sprinkle on"
+        ],
+        "powder + noun": ["snow"],
+        "phrases": ["in powder form"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "explosive powder used especially in bombs or fireworks",
+      "examples": []
+    },
+    {
+      "definition": "to remain ready for a possible emergency",
+      "labels": "(old-fashioned)",
+      "examples": []
+    },
+    {
+      "definition": "to leave suddenly; to run away",
+      "labels": "(North American English, informal)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French poudre, from Latin pulvis, pulver- ‘dust’."
+}

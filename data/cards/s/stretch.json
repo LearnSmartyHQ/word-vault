@@ -1,0 +1,354 @@
+{
+  "word": "stretch",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/stretʃ/",
+        "audio": "s/stretch/stretch__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈstretʃɪz/",
+        "audio": "s/stretch/stretches__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/stretʃt/",
+        "audio": "s/stretch/stretched__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈstretʃɪŋ/",
+        "audio": "s/stretch/stretching__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/stretʃ/",
+        "audio": "s/stretch/stretch__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈstretʃɪz/",
+        "audio": "s/stretch/stretches__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/stretʃt/",
+        "audio": "s/stretch/stretched__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈstretʃɪŋ/",
+        "audio": "s/stretch/stretching__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "stretch",
+      "heSheIt": "stretches"
+    },
+    "pastSimple": "stretched",
+    "pastParticiple": "stretched",
+    "ingForm": "stretching"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make something longer, wider or looser, for example by pulling it; to become longer, etc. in this way",
+      "sensetop": "stretch (something)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Is there any way of stretching shoes?"
+        },
+        {
+          "text": "Stop stretching your sleeves like that!"
+        },
+        {
+          "text": "This sweater has stretched."
+        }
+      ],
+      "topics": ["Physics and chemistry"],
+      "collocations": {
+        "adverb": ["taut", "tautly", "tight"],
+        "preposition": ["across", "between", "over"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to become bigger or longer when you pull it and return to its original shape when you stop",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The jeans stretch to provide a perfect fit."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to pull something so that it is smooth and tight",
+      "sensetop": "stretch something (+ adv./prep.)stretch something + adj.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Stretch the fabric tightly over the frame.",
+          "contextForm": "stretch something (+ adv./prep.)"
+        },
+        {
+          "text": "Striped awnings had been stretched across the courtyard."
+        },
+        {
+          "text": "Make sure that the rope is stretched tight.",
+          "contextForm": "stretch something + adj."
+        }
+      ],
+      "collocations": {
+        "adverb": ["taut", "tautly", "tight"],
+        "preposition": ["across", "between", "over"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to put your arms or legs out straight and contract your muscles",
+      "sensetop": "stretch something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He stretched and yawned lazily."
+        },
+        {
+          "text": "Andrea turned out the light and stretched full-length on the bed."
+        },
+        {
+          "text": "The exercises are designed to stretch and tone your leg muscles.",
+          "contextForm": "stretch something"
+        },
+        {
+          "text": "It was impossible to bend or stretch my legs."
+        }
+      ],
+      "topics": ["Health and Fitness"],
+      "collocations": {
+        "adverb": ["gently", "lazily", "luxuriously"],
+        "preposition": ["on"],
+        "phrases": ["stretch and yawn", "yawn and stretch"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to put out an arm or a leg in order to reach something",
+      "sensetop": "+ adv./prep.stretch something + adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She stretched across the table for the butter.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "She stretched up to reach the top shelf."
+        },
+        {
+          "text": "I stretched out a hand and picked up the book.",
+          "contextForm": "stretch something + adv./prep."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to spread over an area of land",
+      "sensetop": "+ adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Fields and hills stretched out as far as we could see."
+        },
+        {
+          "text": "The traffic jam seemed to **stretch for miles**."
+        },
+        {
+          "text": "A line of cars stretched into the distance."
+        },
+        {
+          "text": "The flat landscape stretched to the horizon."
+        },
+        {
+          "text": "Beyond the mountains stretches a vast desert."
+        },
+        {
+          "text": "The beach seemed to stretch endlessly."
+        },
+        {
+          "text": "The road stretched ahead."
+        },
+        {
+          "text": "The wood does not stretch very far."
+        },
+        {
+          "text": "an area which stretches from London to the north"
+        }
+      ],
+      "synonyms": "extend",
+      "collocations": {
+        "adverb": ["far", "endlessly", "forever"],
+        "verb + stretch": ["seem to"],
+        "preposition": ["along", "beyond", "from"]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to continue over a period of time",
+      "sensetop": "+ adv./prep.",
+      "examples": [
+        {
+          "text": "The town's history stretches back to before 1500."
+        },
+        {
+          "text": "to stretch back years/decades/generations/centuries"
+        },
+        {
+          "text": "The training stretches over a period of 16 months."
+        },
+        {
+          "text": "Endless summer days stretched out before us."
+        },
+        {
+          "text": "The talks look set to stretch into a second week."
+        },
+        {
+          "text": "The future stretched out endlessly in front of me."
+        }
+      ],
+      "collocations": {
+        "adverb": ["endlessly", "back", "out"],
+        "preposition": ["before", "into"]
+      }
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to be enough to buy or pay for something",
+      "sensetop": "stretch (to something)",
+      "examples": [
+        {
+          "text": "I need a new car, but my savings won't stretch to it."
+        },
+        {
+          "text": "There are lots of things I’d like to buy, but our budget just won’t stretch that far."
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to make use of a lot of your money, supplies, time, etc.",
+      "sensetop": "stretch somebody/something",
+      "examples": [
+        {
+          "text": "The pandemic has **stretched** healthcare resources **to the limit**."
+        },
+        {
+          "text": "We can't take on any more work—we're fully stretched as it is."
+        },
+        {
+          "text": "The budget is already **stretched to breaking point**."
+        },
+        {
+          "text": "The influx of tourists in the summer stretches the capacity of local transport to its limit."
+        },
+        {
+          "text": "Our forces are too thinly stretched to control the chaos."
+        },
+        {
+          "text": "The increase in demand has severely stretched our resources."
+        },
+        {
+          "text": "Don't stretch yourself too thin financially."
+        },
+        {
+          "text": "This department is stretched to its limit."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to increase your lead over somebody in a game or competition",
+      "sensetop": "stretch the lead (to something)",
+      "examples": [
+        {
+          "text": "A minute later, Kelly stretched their lead to eight points."
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to make use of all somebody’s skill, intelligence, etc.",
+      "sensetop": "stretch somebody/something",
+      "examples": [
+        {
+          "text": "I need a job that will stretch me."
+        },
+        {
+          "text": "She was never really stretched at school."
+        },
+        {
+          "text": "The book really stretches your imagination."
+        }
+      ],
+      "collocations": {
+        "adverb": ["really", "severely", "fully"],
+        "preposition": ["to"]
+      }
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to use something in a way that would not normally be considered fair, acceptable, etc.",
+      "sensetop": "stretch something",
+      "examples": [
+        {
+          "text": "He admitted that he had maybe **stretched the truth** a little *(= not been completely honest)*."
+        },
+        {
+          "text": "The play's plot **stretches** credulity **to the limit**."
+        }
+      ]
+    },
+    {
+      "definition": "to change the rules to suit a particular person or situation",
+      "examples": [
+        {
+          "text": "Couldn't they just bend the rules and let us in without a ticket?"
+        }
+      ],
+      "topics": ["Permission and obligation"]
+    },
+    {
+      "definition": "to go for a short walk after sitting for some time",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "It was good to get out of the car and stretch our legs."
+        }
+      ]
+    },
+    {
+      "definition": "to allow or do something that is not usually acceptable, especially because of a particular situation",
+      "examples": [
+        {
+          "text": "I was hoping they would stretch a point and let me stay on for a while."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English streccan, of West Germanic origin; related to Dutch strekken and German strecken. The noun dates from the late 16th cent."
+}

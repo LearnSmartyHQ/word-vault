@@ -1,0 +1,75 @@
+{
+  "word": "architecture",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɑːkɪtektʃə(r)/",
+        "audio": "a/architecture/architecture__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɑːrkɪtektʃər/",
+        "audio": "a/architecture/architecture__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the art and study of designing buildings",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to study architecture"
+        },
+        {
+          "text": "She's a professor of architecture at the University of Oregon."
+        },
+        {
+          "text": "an architecture student/critic"
+        }
+      ],
+      "topics": ["Buildings"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the design or style of a building or buildings",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the architecture of the eighteenth century"
+        },
+        {
+          "text": "modern architecture"
+        },
+        {
+          "text": "There are examples of most styles of architecture in the town."
+        }
+      ],
+      "collocations": {
+        "adjective": ["classical", "contemporary", "medieval"],
+        "phrases": ["a school of architecture", "a style of architecture"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the design and structure of a computer system",
+      "labels": "(computing)",
+      "cefr": "c1",
+      "examples": [],
+      "topics": ["Computers"],
+      "collocations": {
+        "adjective": ["client-server", "hardware", "information"]
+      }
+    }
+  ],
+  "wordOrigin": "mid 16th cent.: from Latin architectura, from architectus from Greek arkhitektōn, from arkhi- ‘chief’ + tektōn ‘builder’."
+}

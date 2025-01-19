@@ -1,0 +1,81 @@
+{
+  "word": "transaction",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/trænˈzækʃn/",
+        "audio": "t/transaction/transaction__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/trænˈzækʃn/",
+        "audio": "t/transaction/transaction__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a piece of business that is done between people, especially an act of buying or selling",
+      "sensetop": "transaction (between A and B)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "financial transactions between companies"
+        },
+        {
+          "text": "commercial transactions"
+        },
+        {
+          "text": "Electronic banking may make over-the-counter transactions obsolete."
+        },
+        {
+          "text": "The president had entered into fraudulent property transactions."
+        },
+        {
+          "text": "The system records all transactions between the company and its suppliers."
+        },
+        {
+          "text": "Transactions in land are frequently handled by an estate agent."
+        },
+        {
+          "text": "Using the internet can significantly reduce transaction costs."
+        },
+        {
+          "text": "foreign currency transactions"
+        },
+        {
+          "text": "transactions over the internet"
+        }
+      ],
+      "synonyms": "deal",
+      "topics": ["Business", "Shopping"],
+      "collocations": {
+        "adjective": ["cross-border", "international", "private"],
+        "verb + transaction": ["carry out", "conduct", "do"],
+        "transaction + verb": ["proceed", "take place"],
+        "transaction + noun": ["charges", "cost"],
+        "preposition": ["transaction between", "transaction over"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the process of doing something",
+      "sensetop": "transaction of something",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the transaction of government business"
+        }
+      ],
+      "topics": ["Business"]
+    }
+  ],
+  "wordOrigin": "late Middle English (as a term in Roman Law): from late Latin transactio(n-), from transigere ‘drive through’, from trans- ‘through’ + agere ‘do, lead’."
+}

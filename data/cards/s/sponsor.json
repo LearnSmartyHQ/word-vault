@@ -1,0 +1,165 @@
+{
+  "word": "sponsor",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈspɒnsə(r)/",
+        "audio": "s/sponsor/sponsor__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈspɒnsəz/",
+        "audio": "s/sponsor/sponsors__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈspɒnsəd/",
+        "audio": "s/sponsor/sponsored__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈspɒnsərɪŋ/",
+        "audio": "s/sponsor/sponsoring__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈspɑːnsər/",
+        "audio": "s/sponsor/sponsor__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈspɑːnsərz/",
+        "audio": "s/sponsor/sponsors__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈspɑːnsərd/",
+        "audio": "s/sponsor/sponsored__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈspɑːnsərɪŋ/",
+        "audio": "s/sponsor/sponsoring__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "sponsor",
+      "heSheIt": "sponsors"
+    },
+    "pastSimple": "sponsored",
+    "pastParticiple": "sponsored",
+    "ingForm": "sponsoring"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to pay the costs of a particular event, programme, etc. as a way of advertising",
+      "sensetop": "sponsor something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Sports **events** are no longer **sponsored** by the tobacco industry."
+        },
+        {
+          "text": "The magazine sponsors an essay competition open to anyone anywhere."
+        },
+        {
+          "text": "The World Bank has sponsored several conferences on open government and freedom of information."
+        },
+        {
+          "text": "We would like to thank the local businesses who kindly sponsored prizes for the raffle."
+        }
+      ],
+      "topics": ["Business"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to agree to give somebody money for a charity if they complete a particular task",
+      "sensetop": "sponsor somebodysponsor somebody for somethingsponsor somebody to do somethingsponsored + noun",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They got their granny and aunts and other people to sponsor them.",
+          "contextForm": "sponsor somebody"
+        },
+        {
+          "text": "Will you sponsor me for a charity walk I'm doing?",
+          "contextForm": "sponsor somebody for something"
+        },
+        {
+          "text": "He appealed for people to sponsor him to cycle from Land's End to John O'Groats.",
+          "contextForm": "sponsor somebody to do something"
+        },
+        {
+          "text": "a sponsored walk/swim",
+          "contextForm": "sponsored + noun"
+        }
+      ],
+      "topics": ["Social issues"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to support somebody by paying for their training or education",
+      "sensetop": "sponsor somebodysponsor somebody through something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The corporation is sponsoring several athletes and teams here in the US.",
+          "contextForm": "sponsor somebody"
+        },
+        {
+          "text": "She found a company to sponsor her through college.",
+          "contextForm": "sponsor somebody through something"
+        },
+        {
+          "text": "The trust only has a limited amount of funds to sponsor students."
+        }
+      ],
+      "topics": ["Education"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to provide money for a particular activity",
+      "sensetop": "sponsor something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The group has been accused of sponsoring terrorism."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to arrange for something official to take place",
+      "sensetop": "sponsor something",
+      "examples": [
+        {
+          "text": "The US is sponsoring negotiations between the two sides."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to introduce a proposal for a new law, etc.",
+      "sensetop": "sponsor something",
+      "examples": [
+        {
+          "text": "The bill was sponsored by a Labour MP."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": null
+}

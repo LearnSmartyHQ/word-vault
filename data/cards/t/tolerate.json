@@ -1,0 +1,154 @@
+{
+  "word": "tolerate",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtɒləreɪt/",
+        "audio": "t/tolerate/tolerate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈtɒləreɪts/",
+        "audio": "t/tolerate/tolerates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈtɒləreɪtɪd/",
+        "audio": "t/tolerate/tolerated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈtɒləreɪtɪŋ/",
+        "audio": "t/tolerate/tolerating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtɑːləreɪt/",
+        "audio": "t/tolerate/tolerate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈtɑːləreɪts/",
+        "audio": "t/tolerate/tolerates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈtɑːləreɪtɪd/",
+        "audio": "t/tolerate/tolerated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈtɑːləreɪtɪŋ/",
+        "audio": "t/tolerate/tolerating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "tolerate",
+      "heSheIt": "tolerates"
+    },
+    "pastSimple": "tolerated",
+    "pastParticiple": "tolerated",
+    "ingForm": "tolerating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to allow somebody to do something that you do not agree with or like",
+      "sensetop": "tolerate somethingtolerate (somebody/something) doing/being/having something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Their relationship was tolerated but not encouraged.",
+          "contextForm": "tolerate something"
+        },
+        {
+          "text": "This sort of behaviour will not be tolerated."
+        },
+        {
+          "text": "She refused to tolerate being called a liar.",
+          "contextForm": "tolerate (somebody/something) doing/being/having something"
+        },
+        {
+          "text": "I will not tolerate this conduct!"
+        },
+        {
+          "text": "It is technically illegal but widely tolerated."
+        },
+        {
+          "text": "She actually seemed pleased to see him: most of her visitors she merely tolerated."
+        },
+        {
+          "text": "The condition makes it difficult to tolerate bright light."
+        },
+        {
+          "text": "The government is not prepared to tolerate this situation any longer."
+        },
+        {
+          "text": "This plant prefers alkaline soil, though it will readily tolerate some acidity."
+        },
+        {
+          "text": "This plant will readily tolerate some acidity."
+        },
+        {
+          "text": "Union activity was officially tolerated but strongly discouraged."
+        },
+        {
+          "text": "I don't know how you tolerate that noise!"
+        },
+        {
+          "text": "Most perennials will tolerate being transplanted."
+        },
+        {
+          "text": "Young and elderly people cannot tolerate alcohol as well as other adults."
+        }
+      ],
+      "collocations": {
+        "adverb": ["barely", "just", "merely"],
+        "verb + tolerate": ["be unable to", "cannot", "not be prepared to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to accept somebody/something that is annoying, unpleasant, etc. without complaining",
+      "sensetop": "tolerate somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "There is a limit to what one person can tolerate."
+        },
+        {
+          "text": "I don't know how you tolerate that noise!"
+        }
+      ],
+      "collocations": {
+        "adverb": ["barely", "just", "merely"],
+        "verb + tolerate": ["be unable to", "cannot", "not be prepared to"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to be able to be affected by a drug, difficult conditions, etc. without being harmed",
+      "sensetop": "tolerate something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She tolerated the chemotherapy well."
+        },
+        {
+          "text": "Few plants will tolerate sudden changes in temperature."
+        }
+      ],
+      "collocations": {
+        "adverb": ["readily", "well", "poorly"],
+        "verb + tolerate": ["be unable to", "cannot", "will not"]
+      }
+    }
+  ],
+  "wordOrigin": "early 16th cent. (in the sense ‘endure pain’): from Latin tolerat- ‘endured’, from the verb tolerare."
+}

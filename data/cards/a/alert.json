@@ -1,0 +1,95 @@
+{
+  "word": "alert",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈlɜːt/",
+        "audio": "a/alert/alert__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈlɜːts/",
+        "audio": "a/alert/alerts__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈlɜːtɪd/",
+        "audio": "a/alert/alerted__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈlɜːtɪŋ/",
+        "audio": "a/alert/alerting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈlɜːrt/",
+        "audio": "a/alert/alert__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈlɜːrts/",
+        "audio": "a/alert/alerts__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈlɜːrtɪd/",
+        "audio": "a/alert/alerted__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈlɜːrtɪŋ/",
+        "audio": "a/alert/alerting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "alert",
+      "heSheIt": "alerts"
+    },
+    "pastSimple": "alerted",
+    "pastParticiple": "alerted",
+    "ingForm": "alerting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to warn somebody about a dangerous situation or one that requires immediate action",
+      "sensetop": "alert somebody(be) alerted by somethingbe alerted that…",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Neighbours quickly alerted the emergency services.",
+          "contextForm": "alert somebody"
+        },
+        {
+          "text": "Alerted by a noise downstairs, he sat up and turned on the light.",
+          "contextForm": "(be) alerted by something"
+        },
+        {
+          "text": "The coastguard were alerted that a yacht had run into difficulties.",
+          "contextForm": "be alerted that…"
+        }
+      ],
+      "topics": ["Danger", "War and conflict"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make somebody aware of something",
+      "sensetop": "be alerted to something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They had been alerted to the possibility of further price rises.",
+          "contextForm": "be alerted to something"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": null
+}

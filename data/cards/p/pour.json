@@ -1,0 +1,238 @@
+{
+  "word": "pour",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pɔː(r)/",
+        "audio": "p/pour/pour__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pɔːz/",
+        "audio": "p/pour/pours__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pɔːd/",
+        "audio": "p/pour/poured__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈpɔːrɪŋ/",
+        "audio": "p/pour/pouring__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pɔːr/",
+        "audio": "p/pour/pour__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pɔːrz/",
+        "audio": "p/pour/pours__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pɔːrd/",
+        "audio": "p/pour/poured__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈpɔːrɪŋ/",
+        "audio": "p/pour/pouring__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "pour",
+      "heSheIt": "pours"
+    },
+    "pastSimple": "poured",
+    "pastParticiple": "poured",
+    "ingForm": "pouring"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make a liquid or other substance flow from a container in a continuous stream, especially by holding the container at an angle",
+      "sensetop": "pour something + adv./prep.pour something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Pour the sauce over the pasta.",
+          "contextForm": "pour something + adv./prep."
+        },
+        {
+          "text": "She poured boiling water down the sink."
+        },
+        {
+          "text": "Pour away as much fat as possible from the roasting pan."
+        },
+        {
+          "text": "Although I poured it carefully, I still managed to spill some.",
+          "contextForm": "pour something"
+        },
+        {
+          "text": "The crew mixed and poured the concrete."
+        }
+      ],
+      "collocations": {
+        "adverb": ["carefully", "quickly", "gradually"],
+        "preposition": ["from", "into", "on"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to serve a drink by letting it flow from a container into a cup or glass",
+      "sensetop": "pour somethingpour somebody somethingpour something for somebodypour something out",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Will you pour the coffee?",
+          "contextForm": "pour something"
+        },
+        {
+          "text": "a freshly poured soda"
+        },
+        {
+          "text": "I've poured you a cup of tea.",
+          "contextForm": "pour somebody something"
+        },
+        {
+          "text": "I've poured a cup of tea for you.",
+          "contextForm": "pour something for somebody"
+        },
+        {
+          "text": "I was in the kitchen, pouring out drinks.",
+          "contextForm": "pour something out"
+        },
+        {
+          "text": "Shall I pour?"
+        }
+      ],
+      "topics": ["Drinks"],
+      "collocations": {
+        "adverb": ["carefully", "quickly", "gradually"],
+        "preposition": ["from", "into", "on"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "when rain pours down or when it’s pouring (with) rain, rain is falling heavily",
+      "sensetop": "pour downpour with rainpour (down) rain",
+      "labels": "(British English)(North American English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "It's pouring outside."
+        },
+        {
+          "text": "The rain continued to pour down.",
+          "contextForm": "pour down"
+        },
+        {
+          "text": "It's pouring with rain.",
+          "contextForm": "pour with rain"
+        },
+        {
+          "text": "It's pouring rain outside.",
+          "contextForm": "pour (down) rain"
+        }
+      ],
+      "topics": ["Weather"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to flow quickly in a continuous stream",
+      "sensetop": "+ adv./prep.",
+      "labels": "(figurative)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Tears poured down his cheeks."
+        },
+        {
+          "text": "Thick black smoke was pouring out of the roof."
+        },
+        {
+          "text": "Blood was pouring from the wound."
+        },
+        {
+          "text": "The sweat was pouring off her."
+        },
+        {
+          "text": "Light poured in."
+        },
+        {
+          "text": "A torrent of words poured from her mouth."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to come or go somewhere continuously in large numbers",
+      "sensetop": "+ adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The crowd poured into the streets."
+        },
+        {
+          "text": "Commuters came pouring out of the station."
+        },
+        {
+          "text": "Congratulatory messages poured in on social media for the new parents."
+        }
+      ],
+      "synonyms": "flood"
+    },
+    {
+      "definition": "used to say that when one bad thing happens to you, other bad things happen soon after",
+      "labels": "(saying)",
+      "examples": []
+    },
+    {
+      "definition": "to give reasons for not being in favour of something; to criticize something",
+      "examples": [
+        {
+          "text": "She immediately poured cold water on his plans to expand the business."
+        }
+      ]
+    },
+    {
+      "definition": "to try to settle an argument",
+      "examples": [],
+      "topics": ["Discussion and agreement"]
+    },
+    {
+      "definition": "to tell somebody all your problems, feelings, etc.",
+      "examples": [
+        {
+          "text": "Finally, he broke down in tears and poured out his heart to her."
+        }
+      ]
+    },
+    {
+      "definition": "to speak about somebody/something in a way that shows that you do not respect them or have a good opinion of them",
+      "examples": [
+        {
+          "text": "Opposition politicians poured scorn on the proposals."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    }
+  ],
+  "wordOrigin": "Middle English: of unknown origin."
+}

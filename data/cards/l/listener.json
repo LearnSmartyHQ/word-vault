@@ -1,0 +1,70 @@
+{
+  "word": "listener",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈlɪsənə(r)/",
+        "audio": "l/listener/listener__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈlɪsənər/",
+        "audio": "l/listener/listener__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a person who listens",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **good listener** *(= somebody who you can rely on to listen with attention or sympathy)*"
+        },
+        {
+          "text": "a sympathetic/willing listener"
+        },
+        {
+          "text": "an attentive listener"
+        }
+      ],
+      "collocations": {
+        "adjective": ["attentive", "good", "great"],
+        "preposition": ["listener of", "listener to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a person listening to a radio programme or podcast",
+      "sensetop": "listener to something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "radio listeners"
+        },
+        {
+          "text": "Regular listeners will know this is the Year of Czech Music."
+        },
+        {
+          "text": "Listeners to Radio 4 have plenty to look forward to this week.",
+          "contextForm": "listener to something"
+        }
+      ],
+      "topics": ["TV, radio and news"],
+      "collocations": {
+        "adjective": ["attentive", "good", "great"],
+        "preposition": ["listener of", "listener to"]
+      }
+    }
+  ],
+  "wordOrigin": null
+}

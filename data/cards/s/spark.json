@@ -1,0 +1,97 @@
+{
+  "word": "spark",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/spɑːk/",
+        "audio": "s/spark/spark__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/spɑːks/",
+        "audio": "s/spark/sparks__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/spɑːkt/",
+        "audio": "s/spark/sparked__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈspɑːkɪŋ/",
+        "audio": "s/spark/sparking__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/spɑːrk/",
+        "audio": "s/spark/spark__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/spɑːrks/",
+        "audio": "s/spark/sparks__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/spɑːrkt/",
+        "audio": "s/spark/sparked__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈspɑːrkɪŋ/",
+        "audio": "s/spark/sparking__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "spark",
+      "heSheIt": "sparks"
+    },
+    "pastSimple": "sparked",
+    "pastParticiple": "sparked",
+    "ingForm": "sparking"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to cause something to start or develop, especially suddenly",
+      "sensetop": "spark somethingspark something off",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The proposal would spark a storm of protest around the country.",
+          "contextForm": "spark something"
+        },
+        {
+          "text": "Winds brought down power lines, sparking a fire."
+        },
+        {
+          "text": "The organizers are hoping to spark some interest in young people."
+        },
+        {
+          "text": "The riots were sparked off by the arrest of a local leader.",
+          "contextForm": "spark something off"
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to produce small flashes of fire or electricity",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "a sparking, crackling fire"
+        },
+        {
+          "text": "The game suddenly sparked to life."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": null
+}

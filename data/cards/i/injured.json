@@ -1,0 +1,87 @@
+{
+  "word": "injured",
+  "partOfSpeech": "adjectivenoun",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɪndʒəd/",
+        "audio": "i/injured/injured__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɪndʒərd/",
+        "audio": "i/injured/injured__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "physically hurt; having an injury",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "His injured leg prevented him from walking."
+        },
+        {
+          "text": "Luckily, she isn't injured."
+        },
+        {
+          "text": "Carter is playing in place of the injured O'Reilly."
+        },
+        {
+          "text": "The boy and another **seriously injured** person were evacuated by air ambulance"
+        },
+        {
+          "text": "He tried to pull his **critically injured** friend from the burning vehicle."
+        },
+        {
+          "text": "He was conscious, but **severely injured**."
+        },
+        {
+          "text": "her **badly injured** ankle"
+        },
+        {
+          "text": "a slightly injured arm"
+        },
+        {
+          "text": "The injured man was struggling to stand."
+        }
+      ],
+      "topics": ["Health problems"],
+      "collocations": {
+        "verbs": ["be", "lie", "get"],
+        "adverb": ["badly", "critically", "gravely"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the people injured in an accident, a battle, etc.",
+      "examples": [
+        {
+          "text": "Ambulances took the injured to a nearby hospital."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "upset or offended because something unfair has been done",
+      "examples": [
+        {
+          "text": "an injured look/tone"
+        },
+        {
+          "text": "injured pride"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": null
+}

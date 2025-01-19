@@ -1,0 +1,134 @@
+{
+  "word": "illustration",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌɪləˈstreɪʃn/",
+        "audio": "i/illustration/illustration__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌɪləˈstreɪʃn/",
+        "audio": "i/illustration/illustration__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a drawing or picture in a book, magazine, for decoration or to explain something",
+      "sensetop": "illustration by somebodyillustration for something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "50 full-colour illustrations"
+        },
+        {
+          "text": "detailed illustrations of animals, birds and plants"
+        },
+        {
+          "text": "a volume of Chaucer with illustrations by Edward Burne-Jones",
+          "contextForm": "illustration by somebody"
+        },
+        {
+          "text": "He produced illustrations for children's books.",
+          "contextForm": "illustration for something"
+        },
+        {
+          "text": "Her illustrations have appeared in the pages of numerous publications."
+        },
+        {
+          "text": "The kite is assembled as shown in the illustration."
+        },
+        {
+          "text": "a wonderful book with full-page illustrations"
+        },
+        {
+          "text": "the illustrations accompanying the text"
+        },
+        {
+          "text": "the new Inca map, with a detailed illustration of ancient Machu Picchu"
+        },
+        {
+          "text": "The illustration on page 10 shows the layout of the area."
+        }
+      ],
+      "topics": ["Art"],
+      "collocations": {
+        "adjective": ["black-and-white", "colour/​color", "coloured/​colored"],
+        "illustration + verb": [
+          "depict something",
+          "show something",
+          "accompany something"
+        ],
+        "preposition": [
+          "in an/​the illustration",
+          "with an/​the illustration",
+          "illustration by"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the process of illustrating something",
+      "examples": [
+        {
+          "text": "the art of book illustration"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a story, an event or an example that clearly shows the truth about something",
+      "sensetop": "as an illustration",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The statistics are a clear illustration of the point I am trying to make."
+        },
+        {
+          "text": "I use this case as an illustration.",
+          "contextForm": "as an illustration"
+        },
+        {
+          "text": "Let me, **by way of illustration**, quote from one of her poems."
+        },
+        {
+          "text": "Chicago serves as an illustration of the problems faced by such cities."
+        },
+        {
+          "text": "These figures are for illustration purposes only."
+        },
+        {
+          "text": "These events are a graphic illustration of the fact that their promises cannot be trusted."
+        },
+        {
+          "text": "It was a textbook illustration of the way the UN works."
+        },
+        {
+          "text": "Explain the policy of détente and provide some illustrations of how it worked in practice."
+        },
+        {
+          "text": "As an illustration of this point, I'm going to tell you a true story."
+        }
+      ],
+      "collocations": {
+        "adjective": ["excellent", "good", "perfect"],
+        "verb + illustration": ["serve as", "give (somebody)", "offer"],
+        "illustration + noun": ["purposes"],
+        "preposition": ["as an illustration", "by way of illustration"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘illumination; spiritual or intellectual enlightenment’): via Old French from Latin illustratio(n-), from the verb illustrare, from in- ‘upon’ + lustrare ‘illuminate’."
+}

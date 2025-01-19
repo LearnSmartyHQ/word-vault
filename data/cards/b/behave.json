@@ -1,0 +1,180 @@
+{
+  "word": "behave",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bɪˈheɪv/",
+        "audio": "b/behave/behave__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/bɪˈheɪvz/",
+        "audio": "b/behave/behaves__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/bɪˈheɪvd/",
+        "audio": "b/behave/behaved__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/bɪˈheɪvɪŋ/",
+        "audio": "b/behave/behaving__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bɪˈheɪv/",
+        "audio": "b/behave/behave__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/bɪˈheɪvz/",
+        "audio": "b/behave/behaves__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/bɪˈheɪvd/",
+        "audio": "b/behave/behaved__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/bɪˈheɪvɪŋ/",
+        "audio": "b/behave/behaving__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "behave",
+      "heSheIt": "behaves"
+    },
+    "pastSimple": "behaved",
+    "pastParticiple": "behaved",
+    "ingForm": "behaving"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to do things in a particular way",
+      "sensetop": "+ adv./prep.",
+      "labels": "North American EnglishBritish English",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The doctor behaved very unprofessionally."
+        },
+        {
+          "text": "They **behaved** very **badly** towards their guests."
+        },
+        {
+          "text": "He behaved like a true gentleman."
+        },
+        {
+          "text": "They behave differently when you're not around."
+        },
+        {
+          "text": "He had always **behaved in a** friendly **manner** towards us."
+        },
+        {
+          "text": "I expect you to **behave in a** certain **way**."
+        },
+        {
+          "text": "She behaved with great dignity."
+        },
+        {
+          "text": "He **behaved as if/though** nothing had happened."
+        },
+        {
+          "text": "I know I should have behaved differently."
+        },
+        {
+          "text": "Children, if they are used to being treated with respect, will behave accordingly."
+        },
+        {
+          "text": "Stop behaving like a three-year-old!"
+        },
+        {
+          "text": "People behave according to their own understanding of situations."
+        },
+        {
+          "text": "Humans and machines sometimes behave similarly."
+        },
+        {
+          "text": "The enquiry investigated whether officers had behaved correctly."
+        },
+        {
+          "text": "the freedom to behave naturally"
+        }
+      ],
+      "synonyms": "act",
+      "collocations": {
+        "adverb": ["impeccably", "perfectly", "well"],
+        "preposition": ["according to", "as if", "as though"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to do things in a way that people think is correct or polite",
+      "sensetop": "behave yourself",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Will you kids just behave!"
+        },
+        {
+          "text": "She doesn't know how to behave in public."
+        },
+        {
+          "text": "The children always behave for their father."
+        },
+        {
+          "text": "I want you to behave yourselves while I'm away.",
+          "contextForm": "behave yourself"
+        }
+      ],
+      "collocations": {
+        "adverb": ["impeccably", "perfectly", "well"],
+        "preposition": ["according to", "as if", "as though"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "behaving in the way mentioned",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**well-/badly behaved** children"
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to naturally react, move, etc. in a particular way",
+      "sensetop": "+ adv./prep.",
+      "labels": "(specialist)",
+      "examples": [
+        {
+          "text": "a study of how metals behave under pressure"
+        }
+      ]
+    },
+    {
+      "definition": "to behave in a very confident way that annoys other people, for example by telling them what to do",
+      "labels": "(disapproving)",
+      "examples": [
+        {
+          "text": "She was acting as if she owned the place."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from be- ‘thoroughly’ + have in the sense ‘have or bear (oneself) in a particular way’ (corresponding to modern German sich behaben)."
+}

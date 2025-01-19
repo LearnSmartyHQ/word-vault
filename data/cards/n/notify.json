@@ -1,0 +1,101 @@
+{
+  "word": "notify",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈnəʊtɪfaɪ/",
+        "audio": "n/notify/notify__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈnəʊtɪfaɪz/",
+        "audio": "n/notify/notifies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈnəʊtɪfaɪd/",
+        "audio": "n/notify/notified__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈnəʊtɪfaɪɪŋ/",
+        "audio": "n/notify/notifying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈnəʊtɪfaɪ/",
+        "audio": "n/notify/notify__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈnəʊtɪfaɪz/",
+        "audio": "n/notify/notifies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈnəʊtɪfaɪd/",
+        "audio": "n/notify/notified__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈnəʊtɪfaɪɪŋ/",
+        "audio": "n/notify/notifying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "notify",
+      "heSheIt": "notifies"
+    },
+    "pastSimple": "notified",
+    "pastParticiple": "notified",
+    "ingForm": "notifying"
+  },
+  "definitions": [
+    {
+      "definition": "to formally or officially tell somebody about something",
+      "sensetop": "notify somebodynotify somebody of somethingnotify something to somebodynotify somebody that…",
+      "examples": [
+        {
+          "text": "Competition winners will be notified by post.",
+          "contextForm": "notify somebody"
+        },
+        {
+          "text": "You must notify us in writing if you wish to cancel your subscription."
+        },
+        {
+          "text": "The police must be notified of the date of the demonstration.",
+          "contextForm": "notify somebody of something"
+        },
+        {
+          "text": "The date of the demonstration must be notified to the police.",
+          "contextForm": "notify something to somebody"
+        },
+        {
+          "text": "Members have been notified that there will be a small increase in the fee.",
+          "contextForm": "notify somebody that…"
+        },
+        {
+          "text": "Changes must be notified to the chairman."
+        },
+        {
+          "text": "If you see anything suspicious you should notify the police immediately."
+        },
+        {
+          "text": "The family had been notified of the department's decision."
+        }
+      ],
+      "collocations": {
+        "adverb": ["forthwith", "immediately", "promptly"],
+        "verb + notify": ["be obliged to", "be required to", "must"],
+        "preposition": ["of", "to"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French notifier, from Latin notificare ‘make known’, from notus ‘known’ (past participle of noscere) + facere ‘make’."
+}

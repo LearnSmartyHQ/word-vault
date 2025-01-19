@@ -1,0 +1,90 @@
+{
+  "word": "suite",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/swiːt/",
+        "audio": "s/suite/suite__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/swiːt/",
+        "audio": "s/suite/suite__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a set of rooms, especially in a hotel",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a **hotel/private/honeymoon suite**"
+        },
+        {
+          "text": "a **suite of rooms/offices**"
+        },
+        {
+          "text": "a family suite of two interconnecting rooms"
+        },
+        {
+          "text": "a video editing suite"
+        }
+      ],
+      "topics": ["Holidays"],
+      "collocations": {
+        "adjective": ["private", "luxury", "bridal"],
+        "phrases": ["a suite of offices", "a suite of rooms"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a set of matching pieces of furniture",
+      "labels": "(British English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a **bathroom/bedroom suite**"
+        },
+        {
+          "text": "a **three-piece suite** with two armchairs and a sofa"
+        }
+      ],
+      "topics": ["Houses and homes"],
+      "collocations": {
+        "adjective": ["bathroom", "bedroom", "three-piece"],
+        "phrases": ["a suite of furniture"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a piece of music made up of three or more related parts, for example pieces from an opera",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Stravinsky’s Firebird Suite"
+        }
+      ],
+      "topics": ["Music"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a set of related computer programs",
+      "labels": "(computing)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "a suite of software development tools"
+        }
+      ],
+      "topics": ["Computers"]
+    }
+  ],
+  "wordOrigin": "late 17th cent.: from French, from Anglo-Norman French siwte, from a feminine past participle of a Romance verb based on Latin sequi ‘follow’."
+}

@@ -1,0 +1,166 @@
+{
+  "word": "investigate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈvestɪɡeɪt/",
+        "audio": "i/investigate/investigate__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈvestɪɡeɪts/",
+        "audio": "i/investigate/investigates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈvestɪɡeɪtɪd/",
+        "audio": "i/investigate/investigated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈvestɪɡeɪtɪŋ/",
+        "audio": "i/investigate/investigating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈvestɪɡeɪt/",
+        "audio": "i/investigate/investigate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈvestɪɡeɪts/",
+        "audio": "i/investigate/investigates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈvestɪɡeɪtɪd/",
+        "audio": "i/investigate/investigated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈvestɪɡeɪtɪŋ/",
+        "audio": "i/investigate/investigating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "investigate",
+      "heSheIt": "investigates"
+    },
+    "pastSimple": "investigated",
+    "pastParticiple": "investigated",
+    "ingForm": "investigating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to carefully examine the facts of a situation, an event, a crime, etc. to find out the truth about it or how it happened",
+      "sensetop": "investigate somethinginvestigate what, how, etc…",
+      "labels": "(informal)(British English)(North American English)(British English)(North American English)(especially British English)(especially British English)(especially North American English)(especially British English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The FBI has been called in to investigate."
+        },
+        {
+          "text": "the senior **investigating officer**"
+        },
+        {
+          "text": "‘What was that noise?’ ‘I'll go and investigate.’"
+        },
+        {
+          "text": "Detectives are currently investigating possible links between the murders.",
+          "contextForm": "investigate something"
+        },
+        {
+          "text": "to **investigate a crime/a complaint/an incident**"
+        },
+        {
+          "text": "The allegations have not yet been **thoroughly investigated**."
+        },
+        {
+          "text": "The report calls for a commission to **investigate the matter** further."
+        },
+        {
+          "text": "The case will be investigated in detail to determine whether the claims are true."
+        },
+        {
+          "text": "Police are investigating what happened.",
+          "contextForm": "investigate what, how, etc…"
+        },
+        {
+          "text": "The company has pledged to investigate claims that its products are unsafe."
+        },
+        {
+          "text": "The company said it will investigate any customer complaints."
+        }
+      ],
+      "topics": ["Crime and punishment"],
+      "collocations": {
+        "adverb": ["carefully", "closely", "in detail"],
+        "verb + investigate": [
+          "ask somebody to",
+          "be called in to",
+          "decide to"
+        ],
+        "preposition": ["for"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to try to find out information about somebody’s character, activities, etc.",
+      "sensetop": "investigate somebody for somethinginvestigate somebody over somethinginvestigate somebody",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "This is not the first time he has been investigated by the police for fraud.",
+          "contextForm": "investigate somebody for something"
+        },
+        {
+          "text": "She is being investigated over allegations of illegal business dealings.",
+          "contextForm": "investigate somebody over something"
+        },
+        {
+          "text": "They were **investigated on suspicion of** drug smuggling.",
+          "contextForm": "investigate somebody"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to find out information and facts about a subject or problem by study or research",
+      "sensetop": "investigate somethinginvestigate how, what, etc…",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The study **investigates the effects** of feeding a high-energy diet to cows.",
+          "contextForm": "investigate something"
+        },
+        {
+          "text": "Researchers are investigating how foreign speakers gain fluency.",
+          "contextForm": "investigate how, what, etc…"
+        }
+      ],
+      "collocations": {
+        "adverb": ["carefully", "closely", "in detail"],
+        "verb + investigate": [
+          "ask somebody to",
+          "be called in to",
+          "decide to"
+        ],
+        "preposition": ["for"]
+      }
+    }
+  ],
+  "wordOrigin": "early 16th cent.: from Latin investigat- ‘traced out’, from the verb investigare, from in- ‘into’ + vestigare ‘track, trace out’."
+}

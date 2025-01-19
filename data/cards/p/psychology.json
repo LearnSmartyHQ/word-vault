@@ -1,0 +1,86 @@
+{
+  "word": "psychology",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/saɪˈkɒlədʒi/",
+        "audio": "p/psychology/psychology__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/saɪˈkɑːlədʒi/",
+        "audio": "p/psychology/psychology__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the scientific study of the mind and how it influences behaviour",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "clinical/educational/child/sport psychology"
+        },
+        {
+          "text": "Kevin has a master's degree in psychology."
+        },
+        {
+          "text": "She's a professor of psychology at Harvard University."
+        }
+      ],
+      "topics": ["Education"],
+      "collocations": {
+        "adjective": ["clinical", "professional", "academic"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the kind of mind that somebody has that makes them think or behave in a particular way",
+      "sensetop": "psychology of somebody",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the psychology of small boys",
+          "contextForm": "psychology of somebody"
+        },
+        {
+          "text": "I help the actors understand the psychology of their characters."
+        },
+        {
+          "text": "The answers we give will reflect our own psychology."
+        },
+        {
+          "text": "Watching the shoppers at the sales gave her a first-hand insight into crowd psychology."
+        }
+      ],
+      "collocations": {
+        "adjective": ["individual", "own", "crowd"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "how the mind influences behaviour in a particular area of life",
+      "sensetop": "psychology of something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the psychology of interpersonal relationships",
+          "contextForm": "psychology of something"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late 17th cent.: from modern Latin psychologia (see psycho-, -logy)."
+}

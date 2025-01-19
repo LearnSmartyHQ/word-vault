@@ -1,0 +1,102 @@
+{
+  "word": "expire",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪkˈspaɪə(r)/",
+        "audio": "e/expire/expire__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪkˈspaɪəz/",
+        "audio": "e/expire/expires__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪkˈspaɪəd/",
+        "audio": "e/expire/expired__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪkˈspaɪərɪŋ/",
+        "audio": "e/expire/expiring__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪkˈspaɪər/",
+        "audio": "e/expire/expire__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪkˈspaɪərz/",
+        "audio": "e/expire/expires__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪkˈspaɪərd/",
+        "audio": "e/expire/expired__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪkˈspaɪərɪŋ/",
+        "audio": "e/expire/expiring__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "expire",
+      "heSheIt": "expires"
+    },
+    "pastSimple": "expired",
+    "pastParticiple": "expired",
+    "ingForm": "expiring"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to be no longer legally acceptable because the period of time for which it could be used has ended",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "When does your driving licence expire?"
+        },
+        {
+          "text": "Our lease on the house expires next month."
+        }
+      ],
+      "topics": ["Discussion and agreement"],
+      "collocations": {
+        "verb + expire": ["be due to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to end",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "His term of office expires at the end of June."
+        }
+      ],
+      "collocations": {
+        "verb + expire": ["be due to"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to die",
+      "labels": "(literary)",
+      "examples": [
+        {
+          "text": "She had expired while bearing her son."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French expirer, from Latin exspirare ‘breathe out’, from ex- ‘out’ + spirare ‘breathe’."
+}

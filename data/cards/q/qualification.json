@@ -1,0 +1,140 @@
+{
+  "word": "qualification",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌkwɒlɪfɪˈkeɪʃn/",
+        "audio": "q/qualification/qualification__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌkwɑːlɪfɪˈkeɪʃn/",
+        "audio": "q/qualification/qualification__us_4.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "an exam that you have passed or a course of study that you have successfully completed",
+      "sensetop": "qualification in something",
+      "labels": "(British English)(British English)(especially British English)(North American English)(North American English)(British English)(British English)(North American English)(North American English)(British English)(both British English, informal)(both especially North American English)(British English)(North American English)(British English)(North American English)(North American English)(British English)(North American English)(North American English, informal)(both British English)(especially British English)(especially North American English)(British English)(North American English)(especially North American English, informal)(especially North American English, informal)(British English)(British English)(British English)(both North American English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "academic/educational/professional/vocational qualifications"
+        },
+        {
+          "text": "a coaching/teaching/nursing qualification"
+        },
+        {
+          "text": "He left school with no formal qualifications."
+        },
+        {
+          "text": "to **have qualifications**"
+        },
+        {
+          "text": "to gain/get/obtain/possess/achieve qualifications"
+        },
+        {
+          "text": "In this job, experience counts for more than paper qualifications."
+        },
+        {
+          "text": "Too many school-leavers lack basic qualifications in English and Maths.",
+          "contextForm": "qualification in something"
+        },
+        {
+          "text": "Many of those selected lack the academic qualifications to teach."
+        },
+        {
+          "text": "Only two of the applicants had the necessary qualifications."
+        },
+        {
+          "text": "The aim of the reform is to give more status to vocational qualifications."
+        }
+      ],
+      "topics": ["Working life", "Education"],
+      "collocations": {
+        "adjective": ["formal", "paper", "basic"],
+        "verb + qualification": ["acquire", "gain", "obtain"],
+        "qualification + noun": ["period"],
+        "preposition": ["qualification for", "qualification in"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a skill or type of experience that you need for a particular job or activity",
+      "sensetop": "qualification for something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "What qualifications do radio presenters require?"
+        },
+        {
+          "text": "Previous teaching experience is a necessary qualification for this job.",
+          "contextForm": "qualification for something"
+        }
+      ],
+      "topics": ["Working life"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "information that you add to a statement to limit the effect that it has or the way it is applied",
+      "examples": [
+        {
+          "text": "I accept his theories, but not without certain qualifications."
+        },
+        {
+          "text": "The plan was approved without qualification."
+        },
+        {
+          "text": "I agree with his view, with a few qualifications."
+        },
+        {
+          "text": "The committee supported her proposal, without qualification."
+        },
+        {
+          "text": "The term ‘population’ as used here requires qualification."
+        }
+      ],
+      "synonyms": "proviso",
+      "collocations": {
+        "adjective": ["important"],
+        "verb + qualification": ["add", "need", "require"],
+        "preposition": ["with qualifications", "without qualification"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "the fact of passing an exam, completing a course of training or reaching the standard necessary to do a job or take part in a competition",
+      "cefr": "b1",
+      "examples": [
+        {
+          "text": "Nurses in training should be given a guarantee of employment following qualification."
+        },
+        {
+          "text": "A victory in this game will earn them qualification for the World Cup."
+        },
+        {
+          "text": "The job usually has a three-year qualification period."
+        },
+        {
+          "text": "a qualification programme in business management"
+        },
+        {
+          "text": "the minimum entry qualification for admission"
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"]
+    }
+  ],
+  "wordOrigin": "mid 16th cent.: from medieval Latin qualificatio(n-), from the verb qualificare, from Latin qualis ‘of what kind, of such a kind’. (see qualify)."
+}

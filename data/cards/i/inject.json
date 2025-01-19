@@ -1,0 +1,133 @@
+{
+  "word": "inject",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈdʒekt/",
+        "audio": "i/inject/inject__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈdʒekts/",
+        "audio": "i/inject/injects__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈdʒektɪd/",
+        "audio": "i/inject/injected__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈdʒektɪŋ/",
+        "audio": "i/inject/injecting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈdʒekt/",
+        "audio": "i/inject/inject__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈdʒekts/",
+        "audio": "i/inject/injects__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈdʒektɪd/",
+        "audio": "i/inject/injected__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈdʒektɪŋ/",
+        "audio": "i/inject/injecting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "inject",
+      "heSheIt": "injects"
+    },
+    "pastSimple": "injected",
+    "pastParticiple": "injected",
+    "ingForm": "injecting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to put a drug or other substance into a person’s or an animal’s body using a syringe",
+      "sensetop": "inject something (into yourself/somebody/something)inject (yourself/somebody/something) (with something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Adrenaline was injected into the muscle.",
+          "contextForm": "inject something (into yourself/somebody/something)"
+        },
+        {
+          "text": "The anaesthetic is injected locally."
+        },
+        {
+          "text": "She has been injecting herself with insulin since the age of 16.",
+          "contextForm": "inject (yourself/somebody/something) (with something)"
+        },
+        {
+          "text": "The animals were injected with small amounts of the chemical."
+        },
+        {
+          "text": "She ran courses to train other beauticians how to inject."
+        }
+      ],
+      "topics": ["Healthcare"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to put a liquid or other substance into something using a syringe or similar instrument",
+      "sensetop": "inject A (with B)inject B (into A)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The fruit is injected with chemicals to reduce decay.",
+          "contextForm": "inject A (with B)"
+        },
+        {
+          "text": "Chemicals are injected into the fruit to reduce decay.",
+          "contextForm": "inject B (into A)"
+        },
+        {
+          "text": "Foam is injected into the walls where it expands and provides insulation."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to add a particular quality to something",
+      "sensetop": "inject something (into something)",
+      "examples": [
+        {
+          "text": "His comments injected a note of humour into the proceedings."
+        },
+        {
+          "text": "They are hoping a change of leader will inject new energy into the movement."
+        },
+        {
+          "text": "trying to inject some new life into their marriage"
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to give money to an organization, a project, etc. so that it can function",
+      "sensetop": "inject something (into something)",
+      "examples": [
+        {
+          "text": "They are refusing to inject any more capital into the industry."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late 16th cent. (in the sense ‘throw or cast on something’): from Latin inject- ‘thrown in’, from the verb inicere, from in- ‘into’ + jacere ‘throw’."
+}

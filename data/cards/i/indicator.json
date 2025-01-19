@@ -1,0 +1,84 @@
+{
+  "word": "indicator",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɪndɪkeɪtə(r)/",
+        "audio": "i/indicator/indicator__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɪndɪkeɪtər/",
+        "audio": "i/indicator/indicator__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a sign that shows you what something is like or how a situation is changing",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The economic indicators are better than expected."
+        },
+        {
+          "text": "These atmospheric waves are a reliable indicator of weather changes."
+        },
+        {
+          "text": "Gold prices are often seen as an indicator of inflation."
+        },
+        {
+          "text": "Level of education is actually a poor indicator of ability to run a business well."
+        },
+        {
+          "text": "The stock market is seen as a leading indicator of economic growth."
+        },
+        {
+          "text": "These warts can serve as an indicator of other infections."
+        }
+      ],
+      "collocations": {
+        "adjective": ["accurate", "good", "reliable"],
+        "verb + indicator": ["be", "serve as", "provide (somebody with)"],
+        "indicator + verb": [
+          "point to something",
+          "show something",
+          "suggest something"
+        ],
+        "preposition": ["indicator for"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a device on a machine that shows speed, pressure, etc.",
+      "examples": [
+        {
+          "text": "a depth indicator"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a light on a vehicle that flashes to show that the vehicle is going to turn left or right",
+      "labels": "(British English)North American EnglishinformalNorth American English, British English",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Her right-hand indicator was flashing."
+        },
+        {
+          "text": "He flicked on his indicator light and passed the lorry."
+        }
+      ],
+      "topics": ["Transport by car or lorry"]
+    }
+  ],
+  "wordOrigin": null
+}

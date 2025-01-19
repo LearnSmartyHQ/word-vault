@@ -1,0 +1,299 @@
+{
+  "word": "transfer",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/trænsˈfɜː(r)/",
+        "audio": "t/transfer/transfer__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/trænsˈfɜːz/",
+        "audio": "t/transfer/transfers__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/trænsˈfɜːd/",
+        "audio": "t/transfer/transferred__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/trænsˈfɜːrɪŋ/",
+        "audio": "t/transfer/transferring__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/trænsˈfɜːr/",
+        "audio": "t/transfer/transfer__us_1_rr.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/trænsˈfɜːrz/",
+        "audio": "t/transfer/transfers__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/trænsˈfɜːrd/",
+        "audio": "t/transfer/transferred__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/trænsˈfɜːrɪŋ/",
+        "audio": "t/transfer/transferring__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "transfer",
+      "heSheIt": "transfers"
+    },
+    "pastSimple": "transferred",
+    "pastParticiple": "transferred",
+    "ingForm": "transferring"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to move from one place to another; to move something/somebody from one place to another",
+      "sensetop": "transfer (to something)transfer from something to somethingtransfer something/somebody from something to somethingtransfer something/somebody to somethingtransfer something/somebody from somethingtransfer somethingtransfer something into/onto somethingtransfer something between A and B",
+      "labels": "(especially North American English)(especially North American English)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The film studio is transferring to Hollywood.",
+          "contextForm": "transfer (to something)"
+        },
+        {
+          "text": "If I spend a semester in Madrid, will my credits transfer?"
+        },
+        {
+          "text": "The system only allows air to go one way, preventing air from transferring from one tire to another.",
+          "contextForm": "transfer from something to something"
+        },
+        {
+          "text": "How can I transfer money from my bank account to his?",
+          "contextForm": "transfer something/somebody from something to something"
+        },
+        {
+          "text": "The patient was transferred to another hospital.",
+          "contextForm": "transfer something/somebody to something"
+        },
+        {
+          "text": "I couldn't transfer all my credits from junior college.",
+          "contextForm": "transfer something/somebody from something"
+        },
+        {
+          "text": "Assets can be transferred overseas.",
+          "contextForm": "transfer something"
+        },
+        {
+          "text": "She transferred the sauce into a china jug.",
+          "contextForm": "transfer something into/onto something"
+        },
+        {
+          "text": "The honeybee transfers pollen between flowers.",
+          "contextForm": "transfer something between A and B"
+        },
+        {
+          "text": "Customers still can't easily transfer money between accounts."
+        }
+      ],
+      "topics": ["Money"],
+      "collocations": {
+        "adverb": ["carefully", "directly", "easily"],
+        "preposition": ["across", "between", "from"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to move from one job, school, situation, etc. to another; to arrange for somebody to move",
+      "sensetop": "transfer to somethingtransfer from somethingtransfer from something to somethingtransfer somebody from somethingtransfer somebody to somethingtransfer somebody from something to somethingtransfer somebody",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Children usually transfer to secondary school at 11 or 12.",
+          "contextForm": "transfer to something"
+        },
+        {
+          "text": "This is her first season in the Ohio State team after transferring from Tennessee.",
+          "contextForm": "transfer from something"
+        },
+        {
+          "text": "Students can transfer from a community college to a university.",
+          "contextForm": "transfer from something to something"
+        },
+        {
+          "text": "He transferred to UCLA after his freshman year."
+        },
+        {
+          "text": "Ten employees are being transferred from the sales department.",
+          "contextForm": "transfer somebody from something"
+        },
+        {
+          "text": "His superiors transferred him to easier assignments.",
+          "contextForm": "transfer somebody to something"
+        },
+        {
+          "text": "She was promoted and transferred from the department of law to the Institute of Legal Studies.",
+          "contextForm": "transfer somebody from something to something"
+        },
+        {
+          "text": "98 percent of our patients are admitted, transferred, or discharged within four hours.",
+          "contextForm": "transfer somebody"
+        }
+      ],
+      "collocations": {
+        "adverb": ["carefully", "directly", "easily"],
+        "preposition": ["across", "between", "from"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to change to a different vehicle during a journey; to arrange for somebody to change to a different vehicle during a journey",
+      "sensetop": "transfer from something to somethingtransfer somebody from something to something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "It was a relief, after transferring from ship to ship, to just sit and relax.",
+          "contextForm": "transfer from something to something"
+        },
+        {
+          "text": "I transferred at Bahrain for a flight to Singapore."
+        },
+        {
+          "text": "Passengers are transferred from the airport to the hotel by taxi.",
+          "contextForm": "transfer somebody from something to something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["carefully", "directly", "easily"],
+        "preposition": ["across", "between", "from"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to copy information, music, an idea, etc. from one method of recording or presenting it to another; to be recorded or presented in a different way",
+      "sensetop": "transfer something to somethingtransfer somethingtransfer something from something (to something)transfer to something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You can transfer data to a memory stick in a few seconds.",
+          "contextForm": "transfer something to something"
+        },
+        {
+          "text": "Data is easily transferred electronically.",
+          "contextForm": "transfer something"
+        },
+        {
+          "text": "You can transfer songs from your computer to a phone.",
+          "contextForm": "transfer something from something (to something)"
+        },
+        {
+          "text": "The novel does not transfer well to the movies.",
+          "contextForm": "transfer to something"
+        },
+        {
+          "text": "An audio file should transfer in a matter of minutes."
+        }
+      ],
+      "collocations": {
+        "adverb": ["carefully", "directly", "easily"],
+        "preposition": ["across", "between", "from"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "if you transfer a feeling, a disease, or power, etc. from one person to another, the second person has it, often instead of the first",
+      "sensetop": "transfer something (from…) (to…)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Joe had already transferred his affections from Lisa to Cleo."
+        },
+        {
+          "text": "I decided to transfer my loyalty to my local team."
+        },
+        {
+          "text": "This disease is sometimes transferred from mother to baby *(= so that the baby has it as well as the mother)*."
+        },
+        {
+          "text": "Can the disease be transferred across species?"
+        },
+        {
+          "text": "Skills cannot be transferred directly from a trainer to a trainee."
+        }
+      ],
+      "topics": ["Health problems"],
+      "collocations": {
+        "adverb": ["carefully", "directly", "easily"],
+        "preposition": ["across", "between", "from"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to officially arrange for something to belong to somebody else or for somebody else to control something",
+      "sensetop": "transfer something (to somebody)",
+      "examples": [
+        {
+          "text": "He transferred the property to his son."
+        },
+        {
+          "text": "Sovereignty was formally transferred on December 27."
+        }
+      ],
+      "synonyms": "sign over",
+      "collocations": {
+        "adverb": ["carefully", "directly", "easily"],
+        "preposition": ["across", "between", "from"]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to move, or to move somebody, to a different sports team, especially a professional football (soccer) team",
+      "sensetop": "transfer (from…) (to…)transfer somebody (from…) (to…)",
+      "labels": "(especially British English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He transferred to Everton for £60 million.",
+          "contextForm": "transfer (from…) (to…)"
+        },
+        {
+          "text": "He was transferred from Spurs to Arsenal for a huge fee.",
+          "contextForm": "transfer somebody (from…) (to…)"
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"],
+      "collocations": {
+        "adverb": ["carefully", "directly", "easily"],
+        "preposition": ["across", "between", "from"]
+      }
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to send a phone call that you have received to another phone number",
+      "sensetop": "transfer something/somebody (to something)",
+      "examples": [
+        {
+          "text": "I'll just transfer you to customer service."
+        },
+        {
+          "text": "Customers are able to transfer calls from their landline to their mobile."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English (as a verb): from French transférer or Latin transferre, from trans- ‘across’ + ferre ‘to bear’. The earliest use of the noun (late 17th cent.) was as a legal term in the sense ‘conveyance of property’."
+}

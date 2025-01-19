@@ -1,0 +1,99 @@
+{
+  "word": "wool",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/wʊl/",
+        "audio": "w/wool/wool__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/wʊl/",
+        "audio": "w/wool/wool__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the soft hair that covers the body of sheep and some other animals",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Sheep were kept for their wool and meat."
+        }
+      ],
+      "topics": ["Animals"],
+      "collocations": {
+        "adjective": ["thick", "fine", "soft"],
+        "… of wool": ["ball", "skein"],
+        "verb + wool": ["produce", "spin", "card"],
+        "wool + noun": ["merchant", "trade", "shop"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "long, thick thread made from animal’s wool, used for knitting (= making clothing with wool using two long needles or a machine)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a ball of wool"
+        },
+        {
+          "text": "I bought knitting wool for a cardigan."
+        },
+        {
+          "text": "She’s knitting a jumper in pure wool."
+        },
+        {
+          "text": "She spun wool by hand to weave into clothing."
+        }
+      ],
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adjective": ["thick", "fine", "soft"],
+        "… of wool": ["ball", "skein"],
+        "verb + wool": ["produce", "spin", "card"],
+        "wool + noun": ["merchant", "trade", "shop"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "cloth made from animal’s wool, used for making clothes, etc.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "This scarf is 100% wool."
+        },
+        {
+          "text": "pure new wool"
+        },
+        {
+          "text": "a wool blanket/sweater"
+        }
+      ],
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adjective": ["thick", "fine", "soft"],
+        "… of wool": ["ball", "skein"],
+        "verb + wool": ["produce", "spin", "card"],
+        "wool + noun": ["merchant", "trade", "shop"]
+      }
+    },
+    {
+      "definition": "to hide your real actions or intentions from somebody by making them believe something that is not true",
+      "labels": "(informal)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Old English wull, of Germanic origin; related to Dutch wol and German Wolle, from an Indo-European root shared by Latin lana ‘wool’, vellus ‘fleece’."
+}

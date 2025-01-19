@@ -1,0 +1,100 @@
+{
+  "word": "polite",
+  "partOfSpeech": "adjective",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pəˈlaɪt/",
+        "audio": "p/polite/polite__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pəˈlaɪt/",
+        "audio": "p/polite/polite__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "having or showing good manners and respect for the feelings of others",
+      "sensetop": "polite to somebody",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Please be polite to our guests.",
+          "contextForm": "polite to somebody"
+        },
+        {
+          "text": "Our waiter was very polite and helpful."
+        },
+        {
+          "text": "We were all too polite to object."
+        },
+        {
+          "text": "She was scrupulously polite to him."
+        },
+        {
+          "text": "If you just go and ask in a polite way, you might get what you want."
+        },
+        {
+          "text": "In Western culture, it is polite to maintain eye contact during conversation."
+        },
+        {
+          "text": "Reviewing someone's first novel, it is customary to be polite about it, to find things to praise in it."
+        },
+        {
+          "text": "He was unfailingly polite. I never saw him in his life be rude to a fan."
+        }
+      ],
+      "topics": ["Personal qualities"],
+      "collocations": {
+        "verbs": ["be", "seem", "sound"],
+        "adverb": ["extremely", "fairly", "very"],
+        "preposition": ["to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "socially correct but not always sincere",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I don't know how to make polite conversation."
+        },
+        {
+          "text": "The performance was greeted with polite applause."
+        },
+        {
+          "text": "She greeted me with a quick hello and a polite smile."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "seem", "sound"],
+        "adverb": ["extremely", "fairly", "very"],
+        "preposition": ["to"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "from a class of society that believes it is better than others",
+      "examples": [
+        {
+          "text": "‘Bum’ is not a word we use in polite company."
+        },
+        {
+          "text": "The scandal outraged polite society."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English (in the Latin sense): from Latin politus ‘polished, made smooth’, past participle of polire."
+}

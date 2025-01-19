@@ -1,0 +1,97 @@
+{
+  "word": "statistic",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/stəˈtɪstɪk/",
+        "audio": "s/statistic/statistic__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/stəˈtɪstɪk/",
+        "audio": "s/statistic/statistic__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a collection of information shown in numbers",
+      "sensetop": "according to statisticsstatistics on something",
+      "labels": "informal",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Analysis of **crime statistics** showed high levels of violent crime within the area."
+        },
+        {
+          "text": "**Statistics show** that far more people are able to ride a bicycle than can drive a car."
+        },
+        {
+          "text": "These statistics are misleading."
+        },
+        {
+          "text": "According to **official statistics**, the disease killed over 500 people.",
+          "contextForm": "according to statistics"
+        },
+        {
+          "text": "He should read some of the statistics on economic growth.",
+          "contextForm": "statistics on something"
+        },
+        {
+          "text": "They do not keep statistics on the number of applications filed."
+        },
+        {
+          "text": "According to the latest statistics from the Health and Safety Executive, 33 construction workers died last year."
+        },
+        {
+          "text": "The latest set of economic statistics confirm an economy continuing to deliver strong growth."
+        },
+        {
+          "text": "She thinks that the official unemployment statistics are not accurate."
+        }
+      ],
+      "topics": ["Maths and measurement", "Scientific research"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the science of collecting and analysing statistics",
+      "labels": "informal",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "There is a compulsory course in statistics."
+        }
+      ],
+      "topics": ["Maths and measurement"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a piece of information shown in numbers",
+      "labels": "informal",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "An important statistic is that 94 per cent of crime relates to property."
+        },
+        {
+          "text": "As with every statistic, there are trends behind the numbers."
+        },
+        {
+          "text": "I felt I was no longer being treated as a person but as a statistic."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late 18th cent.: from German statistisch (adjective), Statistik (noun)."
+}

@@ -1,0 +1,75 @@
+{
+  "word": "deputy",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdepjuti/",
+        "audio": "d/deputy/deputy__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdepjuti/",
+        "audio": "d/deputy/deputy__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a person who is the next most important person below a business manager, a head of a school, a political leader, etc. and who does that person’s job when they are away",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I'm acting as deputy till the manager returns."
+        },
+        {
+          "text": "She was appointed deputy head of the school."
+        },
+        {
+          "text": "A new deputy has not yet been appointed."
+        },
+        {
+          "text": "She is acting as deputy to the chairman of the board."
+        },
+        {
+          "text": "a former deputy chairman of the Democratic Party"
+        }
+      ],
+      "topics": ["Education", "Business"],
+      "collocations": {
+        "adjective": ["acting", "former", "chief"],
+        "verb + deputy": ["appoint (somebody as)", "act as"],
+        "deputy + noun": ["chair", "chairman", "chief"],
+        "preposition": ["deputy to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the name for a member of parliament in some countries",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "23 women were among the 77 deputies elected."
+        }
+      ],
+      "topics": ["Politics"],
+      "collocations": {
+        "adjective": ["parliamentary", "opposition", "right-wing"],
+        "verb + deputy": ["elect"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "(in the US) a police officer who helps the sheriff of an area",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Law and justice"]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French depute, from late Latin deputatus, past participle of deputare ‘consider to be, assign’, from de- ‘away’ + putare ‘consider’."
+}

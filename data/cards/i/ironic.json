@@ -1,0 +1,71 @@
+{
+  "word": "ironic",
+  "partOfSpeech": "adjective",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/aɪˈrɒnɪk/",
+        "audio": "i/ironic/ironic__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/aɪˈrɒnɪkl/",
+        "audio": "i/ironic/ironical__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/aɪˈrɑːnɪk/",
+        "audio": "i/ironic/ironic__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/aɪˈrɑːnɪkl/",
+        "audio": "i/ironic/ironical__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "showing that you really mean the opposite of what you are saying; expressing irony",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "an ironic comment"
+        },
+        {
+          "text": "He was greeted with ironic cheers from opposition MPs."
+        },
+        {
+          "text": "She sent him a faintly ironic sideways glance."
+        }
+      ],
+      "topics": ["Language"],
+      "collocations": {
+        "verbs": ["be", "seem", "find something"],
+        "adverb": ["extremely", "fairly", "very"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "strange or funny because it is very different from what you expect",
+      "sensetop": "it is ironic that…",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "It's ironic that she became a teacher—she used to hate school.",
+          "contextForm": "it is ironic that…"
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "seem", "find something"],
+        "adverb": ["extremely", "fairly", "very"]
+      }
+    }
+  ],
+  "wordOrigin": "mid 17th cent.: from French ironique or late Latin ironicus, from Greek eirōnikos ‘dissembling, feigning ignorance’, from eirōneia ‘simulated ignorance’, from eirōn ‘dissembler’."
+}

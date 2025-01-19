@@ -1,0 +1,139 @@
+{
+  "word": "correspond",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌkɒrəˈspɒnd/",
+        "audio": "c/correspond/correspond__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌkɒrəˈspɒndz/",
+        "audio": "c/correspond/corresponds__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌkɒrəˈspɒndɪd/",
+        "audio": "c/correspond/corresponded__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌkɒrəˈspɒndɪŋ/",
+        "audio": "c/correspond/corresponding__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌkɔːrəˈspɑːnd/",
+        "audio": "c/correspond/correspond__us_1_rr.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌkɔːrəˈspɑːndz/",
+        "audio": "c/correspond/corresponds__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌkɔːrəˈspɑːndɪd/",
+        "audio": "c/correspond/corresponded__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌkɔːrəˈspɑːndɪŋ/",
+        "audio": "c/correspond/corresponding__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "correspond",
+      "heSheIt": "corresponds"
+    },
+    "pastSimple": "corresponded",
+    "pastParticiple": "corresponded",
+    "ingForm": "corresponding"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to be the same as or match something",
+      "sensetop": "correspond with somethingcorrespond to something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Your account and hers do not correspond."
+        },
+        {
+          "text": "Your account of events does not correspond with hers.",
+          "contextForm": "correspond with something"
+        },
+        {
+          "text": "The written record of the conversation doesn't correspond to *(= is different from)* what was actually said.",
+          "contextForm": "correspond to something"
+        },
+        {
+          "text": "The movement of the dot on the screen corresponds exactly with the movement of the control lever."
+        },
+        {
+          "text": "Check that this number corresponds with the one on the document."
+        },
+        {
+          "text": "The presence of neutrons explains why the atomic weights of elements do not correspond with their atomic numbers."
+        },
+        {
+          "text": "Wages did not rise to correspond with the price increases brought about by the wars."
+        }
+      ],
+      "synonyms": "agree, tally",
+      "collocations": {
+        "adverb": ["closely", "well", "directly"],
+        "preposition": ["to", "with"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to be similar to or the same as something else",
+      "sensetop": "correspond (to something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The British job of Lecturer corresponds roughly to the US Associate Professor."
+        },
+        {
+          "text": "Their nursery schools correspond roughly to our infant schools."
+        },
+        {
+          "text": "The word corresponds roughly in meaning to our ‘homesickness’."
+        }
+      ],
+      "collocations": {
+        "adverb": ["closely", "well", "directly"],
+        "preposition": ["to", "with"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to write letters or emails, etc. to somebody and receive letters or emails, etc. from them",
+      "sensetop": "correspond (with somebody)",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She corresponded regularly with her former teacher."
+        },
+        {
+          "text": "I have corresponded with him in the past."
+        }
+      ],
+      "collocations": {
+        "adverb": ["regularly"],
+        "preposition": ["with"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French correspondre, from medieval Latin correspondere, from cor- ‘together’ + Latin respondere, from re- ‘again’ + spondere ‘to pledge’."
+}

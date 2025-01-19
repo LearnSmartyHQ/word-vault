@@ -1,0 +1,174 @@
+{
+  "word": "owe",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əʊ/",
+        "audio": "o/owe/owe__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əʊz/",
+        "audio": "o/owe/owes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əʊd/",
+        "audio": "o/owe/owed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈəʊɪŋ/",
+        "audio": "o/owe/owing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əʊ/",
+        "audio": "o/owe/owe__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əʊz/",
+        "audio": "o/owe/owes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əʊd/",
+        "audio": "o/owe/owed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈəʊɪŋ/",
+        "audio": "o/owe/owing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "owe",
+      "heSheIt": "owes"
+    },
+    "pastSimple": "owed",
+    "pastParticiple": "owed",
+    "ingForm": "owing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to have to pay somebody for something that you have already received or return money that you have borrowed",
+      "sensetop": "owe somebody somethingowe somethingowe something to somebodyowe something to somebody for somethingowe somebody something for something",
+      "labels": "(figurative)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She still owes her father £3 000.",
+          "contextForm": "owe somebody something"
+        },
+        {
+          "text": "I'm still owed three days' leave."
+        },
+        {
+          "text": "He **owes** more **money** than he can afford to pay.",
+          "contextForm": "owe something"
+        },
+        {
+          "text": "Exactly how much do we owe?"
+        },
+        {
+          "text": "She still owes £3 000 to her father.",
+          "contextForm": "owe something to somebody"
+        },
+        {
+          "text": "The country owes billions of dollars to foreign creditors."
+        },
+        {
+          "text": "Most hospitals owe money to pharmaceutical companies for medicines and equipment.",
+          "contextForm": "owe something to somebody for something"
+        },
+        {
+          "text": "How much do I owe you for the groceries?",
+          "contextForm": "owe somebody something for something"
+        }
+      ],
+      "topics": ["Money"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to feel that you ought to do something for somebody or give them something, especially because they have done something for you",
+      "sensetop": "owe something to somebodyowe somebody something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I **owe a debt of gratitude** to all my family.",
+          "contextForm": "owe something to somebody"
+        },
+        {
+          "text": "You **owe it to** your staff to be honest with them."
+        },
+        {
+          "text": "I **owe a duty** to my family."
+        },
+        {
+          "text": "You owe me a favour!",
+          "contextForm": "owe somebody something"
+        },
+        {
+          "text": "Thanks for sticking up for me—I **owe you one** *(= I owe you a favour)*."
+        },
+        {
+          "text": "I think you **owe** us **an explanation**."
+        },
+        {
+          "text": "I think we're **owed an apology**."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to exist or be successful because of the help or influence of somebody/something",
+      "sensetop": "owe something to somebody/somethingowe somebody something",
+      "examples": [
+        {
+          "text": "He owes his success to hard work.",
+          "contextForm": "owe something to somebody/something"
+        },
+        {
+          "text": "The play owes much to French tragedy."
+        },
+        {
+          "text": "I owe everything to him."
+        },
+        {
+          "text": "The town **owes its existence** to the minerals that lie below the mountains."
+        },
+        {
+          "text": "I owe him everything.",
+          "contextForm": "owe somebody something"
+        },
+        {
+          "text": "I knew that I owed the surgeon my life."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to have to obey and support somebody who is in a position of authority or power",
+      "sensetop": "owe allegiance/loyalty/obedience (to somebody)",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "All serfs owed allegiance to a lord."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English āgan ‘own, have it as an obligation’, of Germanic origin; from an Indo-European root shared by Sanskrit īs ‘possess, own’."
+}

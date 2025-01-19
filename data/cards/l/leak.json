@@ -1,0 +1,145 @@
+{
+  "word": "leak",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/liːk/",
+        "audio": "l/leak/leak__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/liːks/",
+        "audio": "l/leak/leaks__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/liːkt/",
+        "audio": "l/leak/leaked__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈliːkɪŋ/",
+        "audio": "l/leak/leaking__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/liːk/",
+        "audio": "l/leak/leak__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/liːks/",
+        "audio": "l/leak/leaks__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/liːkt/",
+        "audio": "l/leak/leaked__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈliːkɪŋ/",
+        "audio": "l/leak/leaking__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "leak",
+      "heSheIt": "leaks"
+    },
+    "pastSimple": "leaked",
+    "pastParticiple": "leaked",
+    "ingForm": "leaking"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to allow liquid or gas to get in or out through a small hole",
+      "sensetop": "leak something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a leaking pipe"
+        },
+        {
+          "text": "The roof was leaking."
+        },
+        {
+          "text": "The tank had leaked a small amount of water.",
+          "contextForm": "leak something"
+        },
+        {
+          "text": "The house was old and the roof leaked badly."
+        },
+        {
+          "text": "A pipe was leaking in her hotel room."
+        },
+        {
+          "text": "He came to help me repair the leaking roof."
+        }
+      ],
+      "collocations": {
+        "adverb": ["badly", "slightly"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to get in or out through a small hole in something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Water had started to leak into the cellar."
+        },
+        {
+          "text": "A small stream of water leaked from the rock."
+        },
+        {
+          "text": "to prevent radiation from leaking out"
+        },
+        {
+          "text": "Water was leaking into the cellar."
+        },
+        {
+          "text": "Gas was leaking from one of the pipes."
+        }
+      ],
+      "collocations": {
+        "adverb": ["badly", "slightly"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to give secret information to the public, for example by telling a reporter",
+      "sensetop": "leak something (to somebody)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The contents of the report were leaked to the press."
+        },
+        {
+          "text": "He obtained a leaked document containing the views of some officials."
+        },
+        {
+          "text": "Confidential information that has been leaked from the BBC."
+        },
+        {
+          "text": "The document had been widely leaked."
+        },
+        {
+          "text": "The report was leaked to the press."
+        }
+      ],
+      "synonyms": "disclose",
+      "collocations": {
+        "adverb": ["carefully", "deliberately", "widely"],
+        "preposition": ["from", "to"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: probably of Low German or Dutch origin and related to lack."
+}

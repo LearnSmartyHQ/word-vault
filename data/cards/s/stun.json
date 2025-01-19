@@ -1,0 +1,112 @@
+{
+  "word": "stun",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/stʌn/",
+        "audio": "s/stun/stun__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/stʌnz/",
+        "audio": "s/stun/stuns__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/stʌnd/",
+        "audio": "s/stun/stunned__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈstʌnɪŋ/",
+        "audio": "s/stun/stunning__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/stʌn/",
+        "audio": "s/stun/stun__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/stʌnz/",
+        "audio": "s/stun/stuns__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/stʌnd/",
+        "audio": "s/stun/stunned__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈstʌnɪŋ/",
+        "audio": "s/stun/stunning__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "stun",
+      "heSheIt": "stuns"
+    },
+    "pastSimple": "stunned",
+    "pastParticiple": "stunned",
+    "ingForm": "stunning"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make a person or an animal unconscious for a short time, especially by hitting them on the head",
+      "sensetop": "stun somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The fall stunned me for a moment."
+        },
+        {
+          "text": "The animals are stunned before slaughter."
+        }
+      ],
+      "synonyms": "knock out"
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to surprise or shock somebody so much that they cannot think clearly or speak",
+      "sensetop": "stun somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Her words stunned me—I had no idea she felt that way."
+        },
+        {
+          "text": "The guests were stunned into silence."
+        },
+        {
+          "text": "The company stunned investors with its third profits warning in five months."
+        }
+      ],
+      "synonyms": "astound",
+      "topics": ["Feelings"],
+      "collocations": {
+        "adverb": ["briefly", "momentarily"],
+        "preposition": ["into"],
+        "phrases": ["stun somebody into silence"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to impress somebody very much",
+      "sensetop": "stun somebody",
+      "examples": [
+        {
+          "text": "They were stunned by the view from the summit."
+        }
+      ],
+      "synonyms": "amaze"
+    }
+  ],
+  "wordOrigin": "Middle English: shortening of Old French estoner ‘astonish’."
+}

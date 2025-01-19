@@ -1,0 +1,88 @@
+{
+  "word": "immune",
+  "partOfSpeech": "adjective",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪˈmjuːn/",
+        "audio": "i/immune/immune__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪˈmjuːn/",
+        "audio": "i/immune/immune__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "that cannot catch or be affected by a particular disease or illness",
+      "sensetop": "immune (to something)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Adults are often immune to German measles."
+        },
+        {
+          "text": "Many people are immune to this disease."
+        },
+        {
+          "text": "The vaccination doesn't necessarily make you completely immune."
+        }
+      ],
+      "topics": ["Health and Fitness"],
+      "collocations": {
+        "verbs": ["be", "seem", "become"],
+        "adverb": ["completely", "totally"],
+        "preposition": ["to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "not affected by something, especially something that you might expect to be harmful",
+      "sensetop": "immune (to something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "You'll eventually become immune to criticism."
+        },
+        {
+          "text": "Few people are immune to her charms."
+        },
+        {
+          "text": "Our business is far from immune to economic conditions."
+        }
+      ],
+      "collocations": {
+        "verbs": ["appear", "be", "prove"],
+        "adverb": ["completely", "entirely", "totally"],
+        "preposition": ["from", "to"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "protected from something and therefore able to avoid it",
+      "sensetop": "immune (from something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "No one should be immune from prosecution."
+        },
+        {
+          "text": "Not even the monarch was immune from criticism by the press."
+        }
+      ],
+      "collocations": {
+        "verbs": ["appear", "be", "prove"],
+        "adverb": ["completely", "entirely", "totally"],
+        "preposition": ["from", "to"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘free from (a liability)’): from Latin immunis ‘exempt from public service or charge’, from in- ‘not’ + munis ‘ready for service’. Sense 1 dates from the late 19th cent."
+}

@@ -1,0 +1,75 @@
+{
+  "word": "instrumental",
+  "partOfSpeech": "adjective",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌɪnstrəˈmentl/",
+        "audio": "i/instrumental/instrumental__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌɪnstrəˈmentl/",
+        "audio": "i/instrumental/instrumental__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "important in making something happen",
+      "sensetop": "instrumental in (doing) something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The Conservation Trust performs an instrumental role in the protection of rural environments."
+        },
+        {
+          "text": "He was instrumental in bringing about an end to the conflict.",
+          "contextForm": "instrumental in (doing) something"
+        },
+        {
+          "text": "They were highly instrumental in bringing the business to Newtown."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "prove", "become"],
+        "adverb": ["highly", "very", "essentially"],
+        "preposition": ["in"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "made by or for musical instruments",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "instrumental music"
+        },
+        {
+          "text": "The songs are largely instrumental."
+        }
+      ],
+      "topics": ["Music"],
+      "collocations": {
+        "verbs": ["be"],
+        "adverb": ["largely", "mostly", "entirely"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "in the form that a noun, pronoun or adjective has when it refers to a thing that is used to do something",
+      "labels": "(grammar)",
+      "examples": [
+        {
+          "text": "the instrumental case"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: via French from medieval Latin instrumentalis, from Latin instrumentum, from the verb instruere, from in- ‘upon, towards’ + struere ‘pile up’."
+}

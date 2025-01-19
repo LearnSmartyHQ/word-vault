@@ -1,0 +1,164 @@
+{
+  "word": "bond",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bɒnd/",
+        "audio": "b/bond/bond__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bɑːnd/",
+        "audio": "b/bond/bond__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "something that forms a connection between people or groups, such as a feeling of friendship or shared ideas and experiences",
+      "sensetop": "bond between A and Bbond with somebody",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the bond that links us"
+        },
+        {
+          "text": "A bond of friendship had been forged between them.",
+          "contextForm": "bond between A and B"
+        },
+        {
+          "text": "The agreement strengthened the bonds between the two countries."
+        },
+        {
+          "text": "the special bond between mother and child"
+        },
+        {
+          "text": "Informal language creates a bond between the members of the community."
+        },
+        {
+          "text": "The students formed strong bonds with each other.",
+          "contextForm": "bond with somebody"
+        },
+        {
+          "text": "She felt a bond of affection for the other girls."
+        },
+        {
+          "text": "We try to forge bonds between the different communities."
+        }
+      ],
+      "topics": ["Family and relationships"],
+      "collocations": {
+        "adjective": ["close", "strong", "common"],
+        "verb + bond": ["be linked by", "feel", "have"],
+        "bond + verb": ["exist", "link somebody"],
+        "preposition": ["bond between", "bond of"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "an agreement by a government or a company to pay you interest on the money you have lent; a document containing this agreement",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "government bonds"
+        },
+        {
+          "text": "The bonds were redeemed in 2022."
+        },
+        {
+          "text": "I decided to invest in some government bonds."
+        }
+      ],
+      "topics": ["Money"],
+      "collocations": {
+        "adjective": ["high-yield", "long-term", "corporate"],
+        "verb + bond": ["buy", "invest in", "purchase"],
+        "bond + noun": ["market"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a sum of money that is paid as bail",
+      "labels": "(especially North American English, law)",
+      "examples": [
+        {
+          "text": "He was released on $5 000 bond."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a legal agreement by which a bank lends you money to buy a house, etc. which you pay back over many years; the sum of money that is lent",
+      "labels": "(South African English)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "to pay off a bond"
+        },
+        {
+          "text": "We had to take out a second bond on the property."
+        },
+        {
+          "text": "bond rates *(= of interest)*"
+        }
+      ],
+      "topics": ["Money", "Houses and homes"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "the ropes or chains keeping somebody prisoner; anything that stops you from being free to do what you want",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "to release somebody from their bonds"
+        },
+        {
+          "text": "the **bonds of oppression/injustice**"
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "a legal written agreement or promise",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "We entered into a solemn bond."
+        }
+      ],
+      "topics": ["Law and justice"]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "the way in which two things are joined together",
+      "examples": [
+        {
+          "text": "a firm bond between the two surfaces"
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "the way in which atoms are held together in a chemical compound",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Physics and chemistry"]
+    },
+    {
+      "definition": "somebody’s promise can be relied on completely",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English: variant of band."
+}

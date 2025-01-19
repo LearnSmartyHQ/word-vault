@@ -1,0 +1,181 @@
+{
+  "word": "suspect",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/səˈspekt/",
+        "audio": "s/suspect/suspect__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/səˈspekts/",
+        "audio": "s/suspect/suspects__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/səˈspektɪd/",
+        "audio": "s/suspect/suspected__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/səˈspektɪŋ/",
+        "audio": "s/suspect/suspecting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/səˈspekt/",
+        "audio": "s/suspect/suspect__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/səˈspekts/",
+        "audio": "s/suspect/suspects__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/səˈspektɪd/",
+        "audio": "s/suspect/suspected__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/səˈspektɪŋ/",
+        "audio": "s/suspect/suspecting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "suspect",
+      "heSheIt": "suspects"
+    },
+    "pastSimple": "suspected",
+    "pastParticiple": "suspected",
+    "ingForm": "suspecting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to have an idea that something is probably true or likely to happen, especially something bad, but without having definite proof",
+      "sensetop": "suspect somethingsuspect (that)…it is suspected that…suspect somebody/something to be/have something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "As I had suspected all along, he was not a real policeman."
+        },
+        {
+          "text": "If you suspect a gas leak, do not strike a match or even turn on an electric light.",
+          "contextForm": "suspect something"
+        },
+        {
+          "text": "Suspecting nothing, he walked right into the trap."
+        },
+        {
+          "text": "I didn’t want the neighbours suspecting anything."
+        },
+        {
+          "text": "I **began to suspect** (that) they were trying to get rid of me.",
+          "contextForm": "suspect (that)…"
+        },
+        {
+          "text": "I **strongly suspect** (that) this whole story is fictional."
+        },
+        {
+          "text": "She had no **reason to suspect **(that) Sylvia had not been telling the truth."
+        },
+        {
+          "text": "I suspect (that) she might be lying."
+        },
+        {
+          "text": "It was suspected that the drugs had been brought into the country by boat.",
+          "contextForm": "it is suspected that…"
+        },
+        {
+          "text": "She suspected him to be an impostor.",
+          "contextForm": "suspect somebody/something to be/have something"
+        },
+        {
+          "text": "He immediately suspected the worst."
+        },
+        {
+          "text": "It was widely suspected that the cadets had been acting on orders."
+        },
+        {
+          "text": "I would suspect that they're running short of money by now."
+        },
+        {
+          "text": "It was just as she had suspected: the letters had been stolen."
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"],
+      "collocations": {
+        "adverb": ["strongly", "rather", "rightly"],
+        "verb + suspect": ["begin to", "have reason to", "have reasons to"],
+        "phrases": ["be widely suspected"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to have an idea that somebody is guilty of something, without having definite proof",
+      "sensetop": "suspect somebody/something of somethingsuspect somebody/something of doing somethingsuspect somebody/something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He resigned after being suspected of theft.",
+          "contextForm": "suspect somebody/something of something"
+        },
+        {
+          "text": "He is not **suspected of** any **involvement** in the recent attacks."
+        },
+        {
+          "text": "He was wrongly **suspected of the crime**."
+        },
+        {
+          "text": "They arrested four men suspected of links to an extremist group."
+        },
+        {
+          "text": "I suspected her of damaging the equipment.",
+          "contextForm": "suspect somebody/something of doing something"
+        },
+        {
+          "text": "The drug is suspected of causing over 200 deaths."
+        },
+        {
+          "text": "Whom do the police suspect?",
+          "contextForm": "suspect somebody/something"
+        }
+      ],
+      "topics": ["Crime and punishment"],
+      "collocations": {
+        "adverb": ["rightly", "wrongly"],
+        "preposition": ["of"],
+        "phrases": [
+          "have grounds for suspecting somebody/​something",
+          "have grounds to suspect somebody/​something",
+          "have reason to suspect somebody/​something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to feel that something is not completely right, legal or honest, without having any proof; to not trust something",
+      "sensetop": "suspect something",
+      "examples": [
+        {
+          "text": "I suspected her motives in offering to help."
+        },
+        {
+          "text": "He dealt through a broker whose honesty he had no reason to suspect."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English (originally as an adjective): from Latin suspectus ‘mistrusted’, past participle of suspicere, from sub- ‘from below’ + specere ‘to look’."
+}

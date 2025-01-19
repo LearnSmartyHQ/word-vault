@@ -1,0 +1,171 @@
+{
+  "word": "dissolve",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈzɒlv/",
+        "audio": "d/dissolve/dissolve__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈzɒlvz/",
+        "audio": "d/dissolve/dissolves__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈzɒlvd/",
+        "audio": "d/dissolve/dissolved__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈzɒlvɪŋ/",
+        "audio": "d/dissolve/dissolving__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈzɑːlv/",
+        "audio": "d/dissolve/dissolve__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈzɑːlvz/",
+        "audio": "d/dissolve/dissolves__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈzɑːlvd/",
+        "audio": "d/dissolve/dissolved__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈzɑːlvɪŋ/",
+        "audio": "d/dissolve/dissolving__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "dissolve",
+      "heSheIt": "dissolves"
+    },
+    "pastSimple": "dissolved",
+    "pastParticiple": "dissolved",
+    "ingForm": "dissolving"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to mix with a liquid and become part of it",
+      "sensetop": "dissolve (in something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Salt dissolves in water."
+        },
+        {
+          "text": "Heat gently until the sugar dissolves."
+        },
+        {
+          "text": "The aspirin hasn't dissolved completely yet."
+        }
+      ],
+      "topics": ["Physics and chemistry"],
+      "collocations": {
+        "adverb": ["completely", "gradually", "slowly"],
+        "preposition": ["in"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make a solid become part of a liquid",
+      "sensetop": "dissolve something (in something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Dissolve the tablet in water."
+        }
+      ],
+      "collocations": {
+        "adverb": ["completely", "gradually", "slowly"],
+        "preposition": ["in"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to officially end a marriage, business agreement or parliament",
+      "sensetop": "dissolve something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Their marriage was dissolved in 2019."
+        },
+        {
+          "text": "The election was announced and parliament was dissolved."
+        },
+        {
+          "text": "The civilian government was effectively dissolved."
+        },
+        {
+          "text": "Their marriage was formally dissolved last year."
+        }
+      ],
+      "topics": ["Discussion and agreement", "Family and relationships"],
+      "collocations": {
+        "adverb": ["formally", "officially", "effectively"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to disappear; to make something disappear",
+      "sensetop": "dissolve something",
+      "examples": [
+        {
+          "text": "When the ambulance had gone, the crowd dissolved."
+        },
+        {
+          "text": "The lights in the windows faded and the house dissolved into darkness again."
+        },
+        {
+          "text": "His calm response dissolved her anger.",
+          "contextForm": "dissolve something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to suddenly start laughing, crying, etc.",
+      "sensetop": "dissolve into laughter, tears, etc.",
+      "examples": [
+        {
+          "text": "When the teacher looked up, the children dissolved into giggles."
+        },
+        {
+          "text": "Every time she heard his name, she dissolved into tears."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to remove or destroy something, especially by a chemical process; to be destroyed in this way",
+      "sensetop": "dissolve something (away)dissolve (away)",
+      "examples": [
+        {
+          "text": "a new detergent that dissolves stains",
+          "contextForm": "dissolve something (away)"
+        },
+        {
+          "text": "All the original calcium had dissolved away.",
+          "contextForm": "dissolve (away)"
+        },
+        {
+          "text": "The limestone has simply dissolved away."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English (also in the sense ‘break down into component parts’): from Latin dissolvere, from dis- ‘apart’ + solvere ‘loosen or solve’."
+}

@@ -1,0 +1,119 @@
+{
+  "word": "cell",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/sel/",
+        "audio": "c/cell/cell__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/sel/",
+        "audio": "c/cell/cell__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the smallest unit of living matter that can exist on its own. All plants and animals are made up of cells.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "red and white **blood cells**"
+        },
+        {
+          "text": "brain/nerve/cancer cells"
+        },
+        {
+          "text": "the nucleus of a cell"
+        },
+        {
+          "text": "Cells divide and form new cells."
+        }
+      ],
+      "topics": ["Biology", "Body"],
+      "collocations": {
+        "adjective": ["dead", "living", "healthy"],
+        "verb + cell": ["create", "form", "grow"],
+        "cell + verb": ["divide", "develop", "form"],
+        "cell + noun": ["division", "growth", "proliferation"],
+        "phrases": ["the nucleus of a cell"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a room for one or more prisoners in a prison or police station",
+      "sensetop": "in a cell",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He spent a night in a **prison cell**.",
+          "contextForm": "in a cell"
+        }
+      ],
+      "topics": ["Crime and punishment"],
+      "collocations": {
+        "adjective": ["monk’s", "nun’s", "jail"],
+        "preposition": ["in a/​the cell"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a small room without much furniture in which a monk or nun lives",
+      "examples": [],
+      "collocations": {
+        "adjective": ["monk’s", "nun’s", "jail"],
+        "preposition": ["in a/​the cell"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "each of the small sections that together form a larger structure, for example a honeycomb",
+      "examples": []
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a device for producing an electric current, for example by the action of chemicals or light",
+      "examples": [
+        {
+          "text": "a photoelectric cell"
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "a small group of people who work as part of a larger political organization, especially secretly",
+      "examples": [
+        {
+          "text": "a terrorist cell"
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "one of the small squares in a spreadsheet computer program in which you enter a single piece of data",
+      "examples": []
+    },
+    {
+      "senseNumber": "8",
+      "definition": "a phone that does not have wires and works by radio, and that you can carry with you and use anywhere",
+      "labels": "(especially North American English, informal)(both especially North American English)British English",
+      "examples": [
+        {
+          "text": "Call me on my cell."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English, from Old French celle or Latin cella ‘storeroom or chamber’."
+}

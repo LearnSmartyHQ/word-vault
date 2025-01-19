@@ -1,0 +1,170 @@
+{
+  "word": "defeat",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈfiːt/",
+        "audio": "d/defeat/defeat__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈfiːts/",
+        "audio": "d/defeat/defeats__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈfiːtɪd/",
+        "audio": "d/defeat/defeated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈfiːtɪŋ/",
+        "audio": "d/defeat/defeating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈfiːt/",
+        "audio": "d/defeat/defeat__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈfiːts/",
+        "audio": "d/defeat/defeats__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈfiːtɪd/",
+        "audio": "d/defeat/defeated__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈfiːtɪŋ/",
+        "audio": "d/defeat/defeating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "defeat",
+      "heSheIt": "defeats"
+    },
+    "pastSimple": "defeated",
+    "pastParticiple": "defeated",
+    "ingForm": "defeating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to win against somebody in a war, competition, sports game, etc.",
+      "sensetop": "defeat somebody/somethingdefeat somebody by somethingdefeat somebody in something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He defeated the champion in three sets.",
+          "contextForm": "defeat somebody/something"
+        },
+        {
+          "text": "to defeat a rival/an opponent"
+        },
+        {
+          "text": "The goal is to **defeat the enemy** by whatever means possible."
+        },
+        {
+          "text": "a **defeated army**"
+        },
+        {
+          "text": "Garibaldi defeated the Neapolitan army."
+        },
+        {
+          "text": "The government was defeated by 200 votes to 83.",
+          "contextForm": "defeat somebody by something"
+        },
+        {
+          "text": "Davis defeated Morris by eight points in the semi-final."
+        },
+        {
+          "text": "Our team was **narrowly defeated** in the final.",
+          "contextForm": "defeat somebody in something"
+        },
+        {
+          "text": "It was said that he could not be **defeated in battle**."
+        },
+        {
+          "text": "He said it was impossible to defeat the terrorists militarily."
+        },
+        {
+          "text": "The English were decisively defeated by the rebels in the battle that followed."
+        },
+        {
+          "text": "The senator was decisively defeated by his rivals."
+        },
+        {
+          "text": "She narrowly defeated the rival candidate in the leadership contest."
+        }
+      ],
+      "synonyms": "beat",
+      "topics": ["War and conflict", "Sports: other sports"],
+      "collocations": {
+        "adverb": ["comprehensively", "convincingly", "decisively"],
+        "preposition": ["by"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to stop something from being successful",
+      "sensetop": "defeat somethingbe defeated by something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They are united in their determination to **defeat** global **terrorism**.",
+          "contextForm": "defeat something"
+        },
+        {
+          "text": "The proposed bill was decisively defeated in Parliament."
+        },
+        {
+          "text": "The motion was defeated by 19 votes.",
+          "contextForm": "be defeated by something"
+        },
+        {
+          "text": "Writing down your password so you remember it **defeats the purpose** of having a password."
+        },
+        {
+          "text": "Staying late at the office to discuss shorter working hours rather **defeats the object of the exercise**!"
+        }
+      ],
+      "topics": ["Difficulty and failure"],
+      "collocations": {
+        "adverb": ["comprehensively", "convincingly", "decisively"],
+        "preposition": ["by"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "if something defeats you, you cannot understand it",
+      "sensetop": "defeat somebody",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The instruction manual completely defeated me."
+        },
+        {
+          "text": "Question 6 defeated us."
+        }
+      ],
+      "collocations": {
+        "adverb": ["comprehensively", "convincingly", "decisively"],
+        "preposition": ["by"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘undo, destroy, annul’): from Old French desfait ‘undone’, past participle of desfaire, from medieval Latin disfacere ‘undo’."
+}

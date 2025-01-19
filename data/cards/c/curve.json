@@ -1,0 +1,158 @@
+{
+  "word": "curve",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kɜːv/",
+        "audio": "c/curve/curve__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kɜːrv/",
+        "audio": "c/curve/curve__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a line or surface that bends gradually; a smooth bend",
+      "sensetop": "curve of something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The pattern was made up of straight lines and curves."
+        },
+        {
+          "text": "He admired the delicate curve of her ear.",
+          "contextForm": "curve of something"
+        },
+        {
+          "text": "The seats were arranged to form a curve."
+        },
+        {
+          "text": "the curve of his neck"
+        },
+        {
+          "text": "the natural curve of your spine"
+        }
+      ],
+      "topics": ["Colours and Shapes"],
+      "collocations": {
+        "adjective": ["steep", "bell", "normal"],
+        "verb + curve": ["plot"],
+        "curve + verb": ["flatten out", "indicate something", "show something"],
+        "phrases": ["grade on a curve"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a place where a road bends or turns",
+      "sensetop": "curve in somethingon a curve",
+      "labels": "(North American English)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a curve in the road",
+          "contextForm": "curve in something"
+        },
+        {
+          "text": "The driver lost control on a curve and the vehicle hit a tree.",
+          "contextForm": "on a curve"
+        },
+        {
+          "text": "He slowed down to negotiate the curve."
+        },
+        {
+          "text": "Slow down at the curves."
+        },
+        {
+          "text": "The car vanished around a curve."
+        },
+        {
+          "text": "The road follows the coast in a wide curve."
+        },
+        {
+          "text": "The road went around in a tight curve."
+        }
+      ],
+      "synonyms": "bend",
+      "topics": ["Transport by car or lorry"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a line on a graph that shows how one quantity varies compared with another",
+      "labels": "(specialist)",
+      "examples": [
+        {
+          "text": "The program automatically plots the curve on a graph."
+        },
+        {
+          "text": "This figure shows the population curve for the last hundred years."
+        },
+        {
+          "text": "a demand/yield/growth/supply curve"
+        },
+        {
+          "text": "the unemployment-income curve *(= showing the relationship between the number of unemployed people and national income)*"
+        }
+      ],
+      "topics": ["Maths and measurement"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a ball that moves in a curve when it is thrown to the batter",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Sports: ball and racket sports"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "something that is unexpected and difficult to deal with",
+      "labels": "(North American English, informal)",
+      "examples": []
+    },
+    {
+      "senseNumber": "6",
+      "definition": "curving shapes that form part of a woman's body",
+      "examples": [
+        {
+          "text": "The supermodel showed off her famous curves in a figure-hugging red dress."
+        },
+        {
+          "text": "The evening dress hugged her curves beautifully."
+        }
+      ]
+    },
+    {
+      "definition": "in advance of or behind a particular trend",
+      "labels": "(business)",
+      "examples": [
+        {
+          "text": "Our expert advice will help you stay ahead of the curve."
+        },
+        {
+          "text": "We've fallen behind the curve when it comes to developing new digital products."
+        }
+      ]
+    },
+    {
+      "definition": "to manage the rate or quantity of something so that it does not increase too much within a short period of time",
+      "examples": [
+        {
+          "text": "These measures are intended to flatten the curve of new infections in order to reduce the load on hospitals."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin curvare ‘to bend’, from curvus ‘bent’. The noun dates from the late 17th cent."
+}

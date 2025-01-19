@@ -1,0 +1,97 @@
+{
+  "word": "athlete",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈæθliːt/",
+        "audio": "a/athlete/athlete__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈæθliːt/",
+        "audio": "a/athlete/athlete__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a person who competes in sports",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Olympic athletes"
+        },
+        {
+          "text": "Depression is thought to be common among **elite athletes**."
+        },
+        {
+          "text": "a training facility for amateur and professional athletes"
+        },
+        {
+          "text": "Her company is designing part of the Olympic **athletes' village**."
+        },
+        {
+          "text": "The athletes are training hard for the Olympics."
+        },
+        {
+          "text": "athletes playing pro football"
+        },
+        {
+          "text": "one of the greatest athletes of all time"
+        },
+        {
+          "text": "She's a superbly gifted all-round athlete."
+        }
+      ],
+      "topics": ["Sports: other sports"],
+      "collocations": {
+        "adjective": ["elite", "fine", "good"],
+        "athlete + verb": ["train", "compete", "perform"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a person who competes in sports such as running, jumping and throwing",
+      "labels": "(British English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He played baseball and basketball and excelled as a track athlete."
+        },
+        {
+          "text": "She was hailed as the greatest female athlete in the world."
+        }
+      ],
+      "topics": ["Sports: other sports"],
+      "collocations": {
+        "adjective": ["elite", "fine", "good"],
+        "athlete + verb": ["train", "compete", "perform"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a person who is good at sports and physical exercise",
+      "cefr": "b1",
+      "examples": [
+        {
+          "text": "She is a natural athlete."
+        }
+      ],
+      "topics": ["Health and Fitness"],
+      "collocations": {
+        "adjective": ["elite", "fine", "good"],
+        "athlete + verb": ["train", "compete", "perform"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin athleta, from Greek athlētēs, from athlein ‘compete for a prize’, from athlon ‘prize’."
+}

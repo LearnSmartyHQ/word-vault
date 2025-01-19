@@ -1,0 +1,178 @@
+{
+  "word": "distribute",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈstrɪbjuːt//ˈdɪstrɪbjuːt/",
+        "audio": "d/distribute/distribute__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈstrɪbjuːts//ˈdɪstrɪbjuːts/",
+        "audio": "d/distribute/distributes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈstrɪbjuːtɪd//ˈdɪstrɪbjuːtɪd/",
+        "audio": "d/distribute/distributed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈstrɪbjuːtɪŋ//ˈdɪstrɪbjuːtɪŋ/",
+        "audio": "d/distribute/distributing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈstrɪbjuːt/",
+        "audio": "d/distribute/distribute__us_1_rr.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈstrɪbjuːts/",
+        "audio": "d/distribute/distributes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈstrɪbjuːtɪd/",
+        "audio": "d/distribute/distributed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈstrɪbjuːtɪŋ/",
+        "audio": "d/distribute/distributing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "distribute",
+      "heSheIt": "distributes"
+    },
+    "pastSimple": "distributed",
+    "pastParticiple": "distributed",
+    "ingForm": "distributing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to give things to a large number of people; to share something between a number of people or groups",
+      "sensetop": "distribute somethingdistribute something to somebody/somethingdistribute something among somebody/somethingdistribute something between somebody/something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The leaflets have been **widely distributed**.",
+          "contextForm": "distribute something"
+        },
+        {
+          "text": "The newspaper is distributed free."
+        },
+        {
+          "text": "to distribute fliers/pamphlets/questionnaires"
+        },
+        {
+          "text": "Viruses are often distributed via email."
+        },
+        {
+          "text": "The organization distributed food to the earthquake victims.",
+          "contextForm": "distribute something to somebody/something"
+        },
+        {
+          "text": "The money was distributed among schools in the area.",
+          "contextForm": "distribute something among somebody/something"
+        },
+        {
+          "text": "The proceeds will be distributed between local charities.",
+          "contextForm": "distribute something between somebody/something"
+        },
+        {
+          "text": "Copies of the book were distributed free to each school in the district."
+        },
+        {
+          "text": "We distributed the money equally among the team members."
+        },
+        {
+          "text": "distributing aid to people in need"
+        },
+        {
+          "text": "The participants were randomly distributed into three groups."
+        }
+      ],
+      "collocations": {
+        "adverb": ["equally", "fairly", "unequally"],
+        "preposition": ["among", "between", "to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to send goods to shops and businesses so that they can be sold",
+      "sensetop": "distribute something (+ adv./prep.)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Who distributes our products in the UK?"
+        },
+        {
+          "text": "Their trademark jeans enjoyed immediate success and were soon distributed worldwide."
+        },
+        {
+          "text": "nationally distributed brands of fruit juice"
+        },
+        {
+          "text": "‘Plastika’ distributes our products in the UK."
+        },
+        {
+          "text": "The cheese is imported and distributed exclusively by Norland Inc."
+        },
+        {
+          "text": "Hood distributes dairy products throughout the United States."
+        }
+      ],
+      "collocations": {
+        "adverb": ["internationally", "nationally", "exclusively"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to spread something, or different parts of something, over an area",
+      "sensetop": "be distributed + adv./prep.",
+      "examples": [
+        {
+          "text": "Make sure your weight is **evenly distributed**.",
+          "contextForm": "be distributed + adv./prep."
+        },
+        {
+          "text": "Cases of the disease are **widely distributed** through Europe."
+        },
+        {
+          "text": "Generous workspaces must be well distributed throughout the library."
+        },
+        {
+          "text": "The plant is globally distributed."
+        },
+        {
+          "text": "The trend is broadly distributed and not just a big-city phenomenon."
+        },
+        {
+          "text": "There are over 35 000 species of orchid distributed throughout the world."
+        },
+        {
+          "text": "Wealth is not evenly distributed between age groups."
+        }
+      ],
+      "collocations": {
+        "adverb": ["evenly", "uniformly", "unevenly"],
+        "preposition": ["across", "among", "between"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin distribut- ‘divided up’, from the verb distribuere, from dis- ‘apart’ + tribuere ‘assign’."
+}

@@ -1,0 +1,206 @@
+{
+  "word": "explode",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪkˈspləʊd/",
+        "audio": "e/explode/explode__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪkˈspləʊdz/",
+        "audio": "e/explode/explodes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪkˈspləʊdɪd/",
+        "audio": "e/explode/exploded__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪkˈspləʊdɪŋ/",
+        "audio": "e/explode/exploding__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪkˈspləʊd/",
+        "audio": "e/explode/explode__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪkˈspləʊdz/",
+        "audio": "e/explode/explodes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪkˈspləʊdɪd/",
+        "audio": "e/explode/exploded__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪkˈspləʊdɪŋ/",
+        "audio": "e/explode/exploding__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "explode",
+      "heSheIt": "explodes"
+    },
+    "pastSimple": "exploded",
+    "pastParticiple": "exploded",
+    "ingForm": "exploding"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to burst (= break apart) or make something burst loudly and violently, causing damage",
+      "sensetop": "explode something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "A second **bomb exploded** in a crowded market."
+        },
+        {
+          "text": "The firework exploded in his hand."
+        },
+        {
+          "text": "Bomb disposal experts exploded the device under controlled conditions.",
+          "contextForm": "explode something"
+        },
+        {
+          "text": "There was a huge bang as if someone had exploded a rocket outside."
+        },
+        {
+          "text": "The chemical is liable to explode on contact with water."
+        },
+        {
+          "text": "A blast bomb was thrown but the device failed to explode."
+        },
+        {
+          "text": "The jet smashed into a hillside and exploded."
+        },
+        {
+          "text": "My heart was nearly exploding in fright."
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adverb": ["simultaneously", "accidentally", "prematurely"],
+        "verb + explode": ["fail to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to suddenly become very angry or dangerous",
+      "sensetop": "explode with somethingexplode into something+ speech",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Tension between the two sides could explode at any time."
+        },
+        {
+          "text": "Suddenly Charles exploded with rage.",
+          "contextForm": "explode with something"
+        },
+        {
+          "text": "The protest exploded into a riot.",
+          "contextForm": "explode into something"
+        },
+        {
+          "text": "‘Of course there's something wrong!’ Jem exploded.",
+          "contextForm": "+ speech"
+        },
+        {
+          "text": "She almost exploded with anger."
+        },
+        {
+          "text": "A disagreement over public spending is set to explode."
+        }
+      ],
+      "topics": ["Danger", "Feelings"],
+      "collocations": {
+        "adverb": ["literally", "nearly", "practically"],
+        "verb + explode": ["be about to", "be ready to", "be set to"],
+        "preposition": ["into", "with"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to suddenly express an emotion",
+      "sensetop": "explode (into/with something)",
+      "examples": [
+        {
+          "text": "We all exploded into wild laughter."
+        }
+      ],
+      "collocations": {
+        "adverb": ["literally", "nearly", "practically"],
+        "verb + explode": ["be about to", "be ready to", "be set to"],
+        "preposition": ["into", "with"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to suddenly and quickly do something; to move suddenly with a lot of force",
+      "sensetop": "explode (into something)",
+      "examples": [
+        {
+          "text": "After ten minutes the game exploded into life."
+        },
+        {
+          "text": "He suddenly exploded into action."
+        }
+      ],
+      "collocations": {
+        "adverb": ["literally", "nearly", "practically"],
+        "verb + explode": ["be about to", "be ready to", "be set to"],
+        "preposition": ["into", "with"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to make a sudden very loud noise",
+      "examples": [
+        {
+          "text": "Thunder exploded overhead."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to increase suddenly and very quickly in number",
+      "examples": [
+        {
+          "text": "the exploding world population"
+        }
+      ],
+      "collocations": {
+        "adverb": ["literally", "nearly", "practically"],
+        "verb + explode": ["be about to", "be ready to", "be set to"],
+        "preposition": ["into", "with"]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to show that something is not true, especially something that people believe",
+      "sensetop": "explode something",
+      "examples": [
+        {
+          "text": "This study explodes the myth that history graduates mainly become history teachers."
+        },
+        {
+          "text": "The report explodes the theory that there was a conspiracy."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "mid 16th cent. (in the sense ‘reject scornfully’): from Latin explodere ‘drive out by clapping, hiss off the stage’, from ex- ‘out’ + plaudere ‘to clap’. Sense (7) is derived from the original sense of the word. Sense (1) (late 18th cent.) evolved via an old sense ‘expel with violence and sudden noise’, perhaps influenced by obsolete displode ‘burst with a noise’."
+}

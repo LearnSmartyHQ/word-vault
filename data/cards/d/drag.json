@@ -1,0 +1,238 @@
+{
+  "word": "drag",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dræɡ/",
+        "audio": "d/drag/drag__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dræɡz/",
+        "audio": "d/drag/drags__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dræɡd/",
+        "audio": "d/drag/dragged__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdræɡɪŋ/",
+        "audio": "d/drag/dragging__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dræɡ/",
+        "audio": "d/drag/drag__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dræɡz/",
+        "audio": "d/drag/drags__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dræɡd/",
+        "audio": "d/drag/dragged__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdræɡɪŋ/",
+        "audio": "d/drag/dragging__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "drag",
+      "heSheIt": "drags"
+    },
+    "pastSimple": "dragged",
+    "pastParticiple": "dragged",
+    "ingForm": "dragging"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to pull somebody/something along with effort and difficulty",
+      "sensetop": "drag somebody/somethingdrag somebody/something + adv./prep.drag somebody/something + adj.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The sack is too heavy to lift—you’ll have to drag it.",
+          "contextForm": "drag somebody/something"
+        },
+        {
+          "text": "I dragged the chair over to the window.",
+          "contextForm": "drag somebody/something + adv./prep."
+        },
+        {
+          "text": "They dragged her from her bed."
+        },
+        {
+          "text": "He quickly dragged a comb through his hair."
+        },
+        {
+          "text": "She managed to drag him clear of the wreckage.",
+          "contextForm": "drag somebody/something + adj."
+        },
+        {
+          "text": "Police dragged protesters away from the embassy entrance."
+        },
+        {
+          "text": "Dogs drag the sledges for hundreds of miles across the snow."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to take hold of something and pull it",
+      "sensetop": "+ adv./prep.",
+      "examples": [
+        {
+          "text": "Desperately, Jinny dragged at his arm."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to move yourself slowly and with effort",
+      "sensetop": "drag yourself + adv./prep.+ adv./prep.",
+      "examples": [
+        {
+          "text": "I managed to drag myself out of bed.",
+          "contextForm": "drag yourself + adv./prep."
+        },
+        {
+          "text": "She always drags behind when we walk anywhere.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "He dragged himself back home."
+        },
+        {
+          "text": "She dragged herself up the stairs by the banister."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to persuade somebody to come or go somewhere they do not really want to come or go to",
+      "sensetop": "drag somebody/yourself + adv./prep.",
+      "examples": [
+        {
+          "text": "I'm sorry to drag you all this way in the heat."
+        },
+        {
+          "text": "The party was so good I couldn't drag myself away."
+        },
+        {
+          "text": "He came in, dragging his three children behind him."
+        },
+        {
+          "text": "My parents used to drag me to piano lessons when I was a kid."
+        },
+        {
+          "text": "It's time you dragged yourself away from that computer!"
+        },
+        {
+          "text": "I know you like hanging out in the mall, but I don't know why you have to drag me with you."
+        },
+        {
+          "text": "She dragged her eyes away from his."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to pass very slowly",
+      "examples": [
+        {
+          "text": "Time dragged terribly."
+        },
+        {
+          "text": "The meeting really dragged."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to move, or make something move, partly touching the ground",
+      "sensetop": "drag something",
+      "examples": [
+        {
+          "text": "This dress is too long—it drags on the ground when I walk."
+        },
+        {
+          "text": "He was dragging his coat in the mud.",
+          "contextForm": "drag something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to search the bottom of a river, lake, etc. with nets or hooks",
+      "sensetop": "drag something (for somebody/something)",
+      "examples": [
+        {
+          "text": "They dragged the canal for the murder weapon."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to move some text, an icon, etc. across the screen of a computer using the mouse",
+      "sensetop": "drag something + adv./prep.",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Click on the file and drag it across."
+        }
+      ],
+      "topics": ["Computers"]
+    },
+    {
+      "definition": "to be deliberately slow in doing something or in making a decision",
+      "examples": [],
+      "topics": ["Preferences and decisions"]
+    },
+    {
+      "definition": "to criticize or say bad things about somebody in public, in a way that is unfair",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The paper has dragged his name through the mud."
+        },
+        {
+          "text": "They feel their agency has been dragged through the mud by the press."
+        },
+        {
+          "text": "Football's good name is being dragged through the dirt."
+        }
+      ]
+    },
+    {
+      "definition": "if you drag somebody kicking and screaming to do something, they only do it with great protests because they don't really want to do it at all",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The president had to be dragged kicking and screaming to the signing ceremony."
+        }
+      ]
+    },
+    {
+      "definition": "to improve your situation yourself, without help from other people",
+      "labels": "(informal)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English: from Old English dragan or Old Norse draga ‘to draw’; the noun partly from Middle Low German dragge ‘grapnel, a grappling hook’."
+}

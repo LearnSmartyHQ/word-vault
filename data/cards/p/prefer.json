@@ -1,0 +1,172 @@
+{
+  "word": "prefer",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/prɪˈfɜː(r)/",
+        "audio": "p/prefer/prefer__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/prɪˈfɜːz/",
+        "audio": "p/prefer/prefers__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/prɪˈfɜːd/",
+        "audio": "p/prefer/preferred__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/prɪˈfɜːrɪŋ/",
+        "audio": "p/prefer/preferring__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/prɪˈfɜːr/",
+        "audio": "p/prefer/prefer__us_3.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/prɪˈfɜːrz/",
+        "audio": "p/prefer/prefers__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/prɪˈfɜːrd/",
+        "audio": "p/prefer/preferred__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/prɪˈfɜːrɪŋ/",
+        "audio": "p/prefer/preferring__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "prefer",
+      "heSheIt": "prefers"
+    },
+    "pastSimple": "preferred",
+    "pastParticiple": "preferred",
+    "ingForm": "preferring"
+  },
+  "definitions": [
+    {
+      "definition": "to like one thing or person better than another; to choose one thing rather than something else because you like it better",
+      "sensetop": "prefer somethingprefer something to somethingprefer something over somethingprefer something + adj.prefer to do somethingprefer somebody/something to do somethingprefer doing somethingprefer that…",
+      "labels": "(formal)(especially North American English)(British English)(North American English)",
+      "examples": [
+        {
+          "text": "‘Coffee or tea?’ ‘I'd prefer tea, thanks.’",
+          "contextForm": "prefer something"
+        },
+        {
+          "text": "I **would prefer it if** you didn't tell anyone."
+        },
+        {
+          "text": "A local firm is **to be preferred**."
+        },
+        {
+          "text": "A short-term fixed rate is the **preferred option**."
+        },
+        {
+          "text": "I much prefer jazz to rock music.",
+          "contextForm": "prefer something to something"
+        },
+        {
+          "text": "I prefer quality to quantity."
+        },
+        {
+          "text": "Many people prefer streaming over other forms of consuming media.",
+          "contextForm": "prefer something over something"
+        },
+        {
+          "text": "Relevant experience is preferred over formal education."
+        },
+        {
+          "text": "I prefer my coffee black.",
+          "contextForm": "prefer something + adj."
+        },
+        {
+          "text": "I **much prefer** to travel by train.",
+          "contextForm": "prefer to do something"
+        },
+        {
+          "text": "The donor prefers to remain anonymous."
+        },
+        {
+          "text": "I prefer not to think about it."
+        },
+        {
+          "text": "She won't discuss her plans in detail, **preferring instead** to wait until after the election."
+        },
+        {
+          "text": "Would you prefer me to stay?",
+          "contextForm": "prefer somebody/something to do something"
+        },
+        {
+          "text": "I prefer playing in defence.",
+          "contextForm": "prefer doing something"
+        },
+        {
+          "text": "I would prefer that you did not mention my name.",
+          "contextForm": "prefer that…"
+        },
+        {
+          "text": "Employers naturally prefer candidates with some previous experience of the job."
+        },
+        {
+          "text": "I greatly prefer this version."
+        },
+        {
+          "text": "I happen to prefer action movies myself."
+        },
+        {
+          "text": "I prefer his earlier paintings to his later ones."
+        },
+        {
+          "text": "Industries still tend to prefer virgin raw materials to recycled ones."
+        },
+        {
+          "text": "I would really prefer to keep this just between ourselves."
+        },
+        {
+          "text": "We can eat out if you like, but I would prefer to stay in."
+        },
+        {
+          "text": "You may simply prefer just to sit on the terrace with a cocktail."
+        }
+      ],
+      "topics": ["Preferences and decisions"],
+      "collocations": {
+        "adverb": ["greatly", "much", "overwhelmingly"],
+        "verb + prefer": ["would", "tend to", "appear to"],
+        "preposition": ["over", "to"]
+      }
+    },
+    {
+      "definition": "to accuse somebody formally of a crime so that there can be a trial in court",
+      "labels": "(law)",
+      "examples": [
+        {
+          "text": "Police have brought a charge of dangerous driving against the man."
+        },
+        {
+          "text": "Many victims of crime are reluctant to press charges against their attackers."
+        },
+        {
+          "text": "She laid charges against the firm for not complying with the regulations."
+        }
+      ],
+      "topics": ["Law and justice"]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French preferer, from Latin praeferre, from prae ‘before’ + ferre ‘to bear, carry’."
+}

@@ -1,0 +1,125 @@
+{
+  "word": "estate",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪˈsteɪt/",
+        "audio": "e/estate/estate__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪˈsteɪt/",
+        "audio": "e/estate/estate__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "an area of land with a lot of houses or factories of the same type on it",
+      "sensetop": "on an estate",
+      "labels": "(British English)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She lives in a tower block on an estate in London.",
+          "contextForm": "on an estate"
+        }
+      ],
+      "topics": ["Houses and homes"],
+      "collocations": {
+        "adjective": ["large", "massive", "small"],
+        "verb + estate": ["build"],
+        "preposition": ["on an/​the estate"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a large area of land, usually in the country, that is owned by one person or family",
+      "sensetop": "on an estate",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a 3 000-acre estate"
+        },
+        {
+          "text": "The poet's childhood was spent on a **country estate**.",
+          "contextForm": "on an estate"
+        },
+        {
+          "text": "She receives rent from all the people whose cottages are on estate land."
+        },
+        {
+          "text": "Gilbert was heir to an extensive landed estate."
+        },
+        {
+          "text": "Queen Victoria bought the estate in 1848."
+        },
+        {
+          "text": "The family owns a large estate in the north of the country."
+        },
+        {
+          "text": "the family estate at Kostroma"
+        },
+        {
+          "text": "the family mansion and sprawling country estate"
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "great", "huge"],
+        "verb + estate": ["have", "own", "buy"],
+        "estate + noun": ["manager", "owner", "worker"],
+        "preposition": ["on an/​the estate", "estate of"],
+        "phrases": ["an heir to an estate"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "all the money and property that a person owns, especially everything that is left when they die",
+      "labels": "(law)",
+      "examples": [
+        {
+          "text": "Her estate was left to her daughter."
+        },
+        {
+          "text": "He left estate valued at a million dollars."
+        },
+        {
+          "text": "He owns personal estate worth $30 million."
+        },
+        {
+          "text": "It took seven years to settle the estate."
+        },
+        {
+          "text": "The bulk of his estate was bequeathed to his son Jacob."
+        },
+        {
+          "text": "assets from your taxable estate"
+        }
+      ],
+      "collocations": {
+        "adjective": ["personal", "taxable"],
+        "verb + estate": ["bequeath", "leave", "inherit"],
+        "estate + verb": ["be valued at something", "be worth something"],
+        "estate + noun": ["tax", "sale"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a car with a lot of space behind the back seats and a door at the back for loading large items",
+      "labels": "(both British English)North American English",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English (in the sense ‘state or condition’): from Old French estat, from Latin status ‘state, condition’, from stare ‘to stand’."
+}

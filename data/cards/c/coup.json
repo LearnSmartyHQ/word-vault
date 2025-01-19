@@ -1,0 +1,98 @@
+{
+  "word": "coup",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kuː/",
+        "audio": "c/coup/coup__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kuːz/",
+        "audio": "c/coup/coups__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kuː/",
+        "audio": "c/coup/coup__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kuːz/",
+        "audio": "c/coup/coups__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a sudden change of government that is illegal and often violent",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He seized power in a military coup in 2008."
+        },
+        {
+          "text": "to **stage/mount a coup**"
+        },
+        {
+          "text": "He was sentenced to death for his part in the attempted coup."
+        },
+        {
+          "text": "**a failed/an abortive coup**"
+        },
+        {
+          "text": "She lost her position in a boardroom coup *(= a sudden change of power among senior managers in a company)*."
+        },
+        {
+          "text": "The coup was immediately put down and the plotters were shot."
+        },
+        {
+          "text": "an army coup against the president"
+        },
+        {
+          "text": "Months of unrest in the company led to a boardroom coup that saw four directors voted out."
+        },
+        {
+          "text": "The regime was overthrown in a bloodless coup led by young army officers."
+        }
+      ],
+      "topics": ["War and conflict", "Politics"],
+      "collocations": {
+        "adjective": ["abortive", "attempted", "failed"],
+        "verb + coup": ["launch", "mount", "stage"],
+        "coup + noun": ["attempt", "plot", "leader"],
+        "preposition": ["coup against"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the fact of achieving something that was difficult to do",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Getting this contract has been quite a coup for us."
+        },
+        {
+          "text": "He pulled off a major diplomatic coup by winning agreement from all the warring factions on a permanent ceasefire."
+        },
+        {
+          "text": "He managed to pull off a major diplomatic coup."
+        },
+        {
+          "text": "Winning that contract was her greatest coup."
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "great", "major"],
+        "verb + coup": ["pull off", "score"]
+      }
+    }
+  ],
+  "wordOrigin": "late 18th cent.: from French, from medieval Latin colpus ‘blow’ from Greek kolaphos ‘blow with the fist’."
+}

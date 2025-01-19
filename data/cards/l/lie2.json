@@ -1,0 +1,110 @@
+{
+  "word": "lie2",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/laɪ/",
+        "audio": "l/lie2/lie__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/laɪz/",
+        "audio": "l/lie2/lies__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/laɪd/",
+        "audio": "l/lie2/lied__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈlaɪɪŋ/",
+        "audio": "l/lie2/lying__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/laɪ/",
+        "audio": "l/lie2/lie__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/laɪz/",
+        "audio": "l/lie2/lies__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/laɪd/",
+        "audio": "l/lie2/lied__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈlaɪɪŋ/",
+        "audio": "l/lie2/lying__us_3.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "lie",
+      "heSheIt": "lies"
+    },
+    "pastSimple": "lied",
+    "pastParticiple": "lied",
+    "ingForm": "lying"
+  },
+  "definitions": [
+    {
+      "definition": "to say or write something that you know is not true",
+      "sensetop": "lie to somebodylie about somethinglie about doing something",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You could see from his face that he was lying."
+        },
+        {
+          "text": "Don't lie to me!",
+          "contextForm": "lie to somebody"
+        },
+        {
+          "text": "She lies about her age.",
+          "contextForm": "lie about something"
+        },
+        {
+          "text": "He lied about having a university degree.",
+          "contextForm": "lie about doing something"
+        },
+        {
+          "text": "The camera cannot lie *(= give a false impression)*."
+        },
+        {
+          "text": "She was unable to lie convincingly."
+        }
+      ],
+      "topics": ["Personal qualities"],
+      "collocations": {
+        "adverb": ["convincingly", "easily", "constantly"],
+        "preposition": ["about", "to"],
+        "phrases": ["lie through your teeth", "lie under oath"]
+      }
+    },
+    {
+      "definition": "to say something that is not true at all",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The witness was clearly lying through his teeth."
+        }
+      ]
+    },
+    {
+      "definition": "to get yourself into or out of a situation by lying",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Old English lyge (noun), lēogan (verb), of Germanic origin; related to Dutch liegen and German lügen."
+}

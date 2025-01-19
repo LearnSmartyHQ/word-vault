@@ -1,0 +1,314 @@
+{
+  "word": "ride",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/raɪd/",
+        "audio": "r/ride/ride__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/raɪdz/",
+        "audio": "r/ride/rides__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rəʊd/",
+        "audio": "r/ride/rode__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈrɪdn/",
+        "audio": "r/ride/ridden__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈraɪdɪŋ/",
+        "audio": "r/ride/riding__gb_4.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/raɪd/",
+        "audio": "r/ride/ride__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/raɪdz/",
+        "audio": "r/ride/rides__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rəʊd/",
+        "audio": "r/ride/rode__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈrɪdn/",
+        "audio": "r/ride/ridden__us_3.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈraɪdɪŋ/",
+        "audio": "r/ride/riding__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "ride",
+      "heSheIt": "rides"
+    },
+    "pastSimple": "rode",
+    "pastParticiple": "ridden",
+    "ingForm": "riding"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to sit on an animal, especially a horse, and control it as it moves",
+      "sensetop": "+ adv./prep.ride something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I learnt to ride as a child."
+        },
+        {
+          "text": "They rode along narrow country lanes.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "He was riding on a large black horse."
+        },
+        {
+          "text": "He **rode** fifty miles **on horseback**."
+        },
+        {
+          "text": "to **ride a horse**",
+          "contextForm": "ride something"
+        },
+        {
+          "text": "to ride a pony/ donkey/camel"
+        },
+        {
+          "text": "She had never ridden a horse before."
+        },
+        {
+          "text": "He's ridden six winners so far this year *(= in horse racing)*."
+        },
+        {
+          "text": "At the end of the film they ride off into the sunset."
+        },
+        {
+          "text": "They rode hard all night."
+        },
+        {
+          "text": "We were riding along a dusty trail."
+        },
+        {
+          "text": "riding bareback on a circus horse"
+        }
+      ],
+      "topics": ["Sports: other sports"],
+      "collocations": {
+        "adverb": ["fast", "hard", "slowly"],
+        "verb + ride": [
+          "learn to",
+          "teach somebody to",
+          "teach somebody how to"
+        ],
+        "preposition": ["along", "down", "from"],
+        "phrases": ["go horseback riding", "go riding"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to spend time riding a horse for pleasure",
+      "labels": "(British English)North American English",
+      "examples": [
+        {
+          "text": "How often do you go riding?"
+        }
+      ],
+      "collocations": {
+        "adverb": ["fast", "hard", "slowly"],
+        "verb + ride": [
+          "learn to",
+          "teach somebody to",
+          "teach somebody how to"
+        ],
+        "preposition": ["along", "down", "from"],
+        "phrases": ["go horseback riding", "go riding"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to sit on and control a bicycle, motorcycle, etc.",
+      "sensetop": "ride something + adv./prep.ride something+ adv./prep.",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The boys were **riding their bikes** around the streets.",
+          "contextForm": "ride something + adv./prep."
+        },
+        {
+          "text": "He rode a Harley Davidson.",
+          "contextForm": "ride something"
+        },
+        {
+          "text": "It 's like **riding a bicycle**: one day you can't and the next day you can."
+        },
+        {
+          "text": "The ground there is too rough to ride over.",
+          "contextForm": "+ adv./prep."
+        }
+      ],
+      "topics": ["Sports: other sports"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to travel in a vehicle, especially as a passenger",
+      "sensetop": "+ adv./prep.ride somethingride something + adv./prep.",
+      "labels": "(North American English)(North American English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I walked back while the others rode in the car.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "to ride a train/the subway/an elevator",
+          "contextForm": "ride something"
+        },
+        {
+          "text": "She **rode the bus** to school every day.",
+          "contextForm": "ride something + adv./prep."
+        },
+        {
+          "text": "The widow and children rode in the first car after the coffin."
+        },
+        {
+          "text": "The men loaded my stuff onto the pick-up and I rode with them in the cab."
+        },
+        {
+          "text": "He rides the subway every day."
+        },
+        {
+          "text": "You could ride right along the coast by tram."
+        }
+      ],
+      "topics": ["Transport by car or lorry"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to float or be supported on water or air",
+      "sensetop": "(+ adv./prep.)ride something",
+      "examples": [
+        {
+          "text": "We watched the balloon riding high above the fields.",
+          "contextForm": "(+ adv./prep.)"
+        },
+        {
+          "text": "The ship was **riding at anchor** in the harbour."
+        },
+        {
+          "text": "surfers riding the waves",
+          "contextForm": "ride something"
+        },
+        {
+          "text": "A large bird was riding the air currents beneath it."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to go through or over an area on a horse, bicycle, etc.",
+      "sensetop": "ride something",
+      "examples": [
+        {
+          "text": "We rode the mountain trails."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to criticize or tease somebody in an annoying way",
+      "sensetop": "ride somebody",
+      "labels": "(North American English)",
+      "examples": [
+        {
+          "text": "Why is everybody riding me today?"
+        }
+      ]
+    },
+    {
+      "definition": "to be doing something that involves risks and that may end in disaster",
+      "examples": []
+    },
+    {
+      "definition": "to be successful or very confident",
+      "examples": [
+        {
+          "text": "The company is riding high this year."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "wishing for something does not make it happen",
+      "labels": "(saying)",
+      "examples": []
+    },
+    {
+      "definition": "to decide to do nothing about a problem that you know you may have to deal with later",
+      "examples": [
+        {
+          "text": "He was rude to me but I let it ride this time."
+        }
+      ]
+    },
+    {
+      "definition": "to enjoy great success or support because of a particular situation or event",
+      "examples": [
+        {
+          "text": "The band is riding the crest of its last tour."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to keep watch or control over somebody/something",
+      "labels": "(North American English, informal)",
+      "examples": [
+        {
+          "text": "police riding herd on crowds of youths on the streets"
+        }
+      ]
+    },
+    {
+      "definition": "to treat somebody badly and not worry about their feelings",
+      "examples": []
+    },
+    {
+      "definition": "to ride in the front passenger seat of a car or truck",
+      "labels": "(especially North American English, informal)",
+      "examples": []
+    },
+    {
+      "definition": "to enjoy or be supported by the particular situation or quality mentioned",
+      "examples": [
+        {
+          "text": "Schools are riding a wave of renewed public interest."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English rīdan, of Germanic origin; related to Dutch rijden and German reiten."
+}

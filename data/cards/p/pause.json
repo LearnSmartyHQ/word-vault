@@ -1,0 +1,112 @@
+{
+  "word": "pause",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pɔːz/",
+        "audio": "p/pause/pause__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈpɔːzɪz/",
+        "audio": "p/pause/pauses__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pɔːzd/",
+        "audio": "p/pause/paused__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈpɔːzɪŋ/",
+        "audio": "p/pause/pausing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pɔːz/",
+        "audio": "p/pause/pause__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈpɔːzɪz/",
+        "audio": "p/pause/pauses__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pɔːzd/",
+        "audio": "p/pause/paused__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈpɔːzɪŋ/",
+        "audio": "p/pause/pausing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "pause",
+      "heSheIt": "pauses"
+    },
+    "pastSimple": "paused",
+    "pastParticiple": "paused",
+    "ingForm": "pausing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to stop talking or doing something for a short time before continuing",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Anita paused for a moment, then said: ‘All right’."
+        },
+        {
+          "text": "The woman spoke almost without **pausing for breath** *(= very quickly)*."
+        },
+        {
+          "text": "I paused at the door and looked back."
+        },
+        {
+          "text": "**Pausing only to** pull on a sweater, he ran out of the house."
+        },
+        {
+          "text": "Just pause to think before giving me your answer."
+        },
+        {
+          "text": "She paused a moment and then walked away."
+        },
+        {
+          "text": "She paused occasionally to smell the flowers."
+        },
+        {
+          "text": "Without pausing to knock, she opened the door."
+        }
+      ],
+      "collocations": {
+        "adverb": ["briefly", "(for) a moment", "momentarily"],
+        "phrases": [
+          "pause for breath",
+          "pause for thought",
+          "pause only long enough to do something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to stop a video, etc. for a short time using the pause button",
+      "sensetop": "pause something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "She paused the movie to go and answer the door."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French, from Latin pausa, from Greek pausis, from pausein ‘to stop’."
+}

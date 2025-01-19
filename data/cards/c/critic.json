@@ -1,0 +1,119 @@
+{
+  "word": "critic",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkrɪtɪk/",
+        "audio": "c/critic/critic__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkrɪtɪk/",
+        "audio": "c/critic/critic__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a person who expresses opinions about the good and bad qualities of books, music, etc.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**a film/an art/a music critic**"
+        },
+        {
+          "text": "Bradley Cooper's gripping performance has been praised by critics."
+        },
+        {
+          "text": "The critics loved the movie."
+        },
+        {
+          "text": "Critics described the paintings as worthless rubbish."
+        },
+        {
+          "text": "Some critics are calling him ‘the new De Niro’."
+        },
+        {
+          "text": "The film was hailed by critics as a triumphant piece of realism."
+        },
+        {
+          "text": "The play was panned by critics."
+        },
+        {
+          "text": "She's a restaurant critic for ‘The Times’."
+        },
+        {
+          "text": "Several literary critics wrote unflattering reviews of her first novel."
+        }
+      ],
+      "topics": [
+        "Opinion and argument",
+        "Literature and writing",
+        "Jobs",
+        "Film and theatre"
+      ],
+      "collocations": {
+        "adjective": ["good", "great", "incisive"],
+        "critic + verb": ["hail something", "praise something", "rave"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a person who expresses dislike of somebody/something and talks about their bad qualities, especially publicly",
+      "sensetop": "critic of something/somebody",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She has become one of the ruling party's most **outspoken critics**."
+        },
+        {
+          "text": "a harsh/fierce/vocal critic"
+        },
+        {
+          "text": "a critic of private healthcare",
+          "contextForm": "critic of something/somebody"
+        },
+        {
+          "text": "Critics point out that poverty still exists."
+        },
+        {
+          "text": "He is now a major critic of the nuclear industry."
+        },
+        {
+          "text": "I am my own worst critic."
+        },
+        {
+          "text": "She is looking for a chance to prove her critics wrong."
+        },
+        {
+          "text": "She is one of her husband's severest critics."
+        },
+        {
+          "text": "an outspoken critic of government policy"
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adjective": ["bitter", "fierce", "harsh"],
+        "verb + critic": ["answer", "respond to", "defend yourself against"],
+        "critic + verb": [
+          "accuse somebody",
+          "argue something",
+          "believe something"
+        ],
+        "preposition": ["critic of"]
+      }
+    }
+  ],
+  "wordOrigin": "late 16th cent.: from Latin criticus, from Greek kritikos, from kritēs ‘a judge’, from krinein ‘judge, decide’."
+}

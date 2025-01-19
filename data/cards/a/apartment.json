@@ -1,0 +1,112 @@
+{
+  "word": "apartment",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈpɑːtmənt/",
+        "audio": "a/apartment/apartment__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈpɑːrtmənt/",
+        "audio": "a/apartment/apartment__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a set of rooms for living in, usually on one floor of a building",
+      "labels": "(especially North American English)British English usually(especially North American English)(British English)(especially North American English)(British English)(especially North American English)(British English)(British English)(North American English)(British English)(North American English)especially British Englishespecially North American English(North American English)(British English)(especially North American English)(British English)(British English)(British English)(especially North American English)(British English)(North American English)(North American English)(British English)(British English)(especially North American English)(British English also)(British English)(especially North American English)(especially British English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "an **apartment building**"
+        },
+        {
+          "text": "I was **renting** a **two-bedroom apartment** in an old building."
+        },
+        {
+          "text": "A group of developers wants to build a high-rise **apartment complex**."
+        },
+        {
+          "text": "I lived on the ground floor of an **apartment block**."
+        },
+        {
+          "text": "They left their fourth-floor apartment on Mott Street and walked to the bus."
+        },
+        {
+          "text": "a one-room apartment"
+        },
+        {
+          "text": "I moved into a lovely little studio apartment."
+        },
+        {
+          "text": "He was evicted from his Manhattan apartment."
+        },
+        {
+          "text": "Apartment dwellers can participate in community gardens."
+        },
+        {
+          "text": "I share an apartment with two friends."
+        },
+        {
+          "text": "I'm looking for an apartment on the east side of the city."
+        },
+        {
+          "text": "We will be renting the apartment for a year."
+        },
+        {
+          "text": "the people who live in the upstairs apartment"
+        }
+      ],
+      "topics": ["Houses and homes"],
+      "collocations": {
+        "adjective": ["large", "spacious", "cramped"],
+        "verb + apartment": ["buy", "lease", "rent"],
+        "apartment + noun": ["block", "building", "complex"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a set of rooms used for a holiday",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "self-catering holiday apartments"
+        },
+        {
+          "text": "They are staying in a luxury apartment overlooking the beach."
+        }
+      ],
+      "topics": ["Holidays"],
+      "collocations": {
+        "adjective": ["large", "spacious", "cramped"],
+        "verb + apartment": ["buy", "lease", "rent"],
+        "apartment + noun": ["block", "building", "complex"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a room in a house, especially a large or famous house",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "You can visit the whole palace except for the private apartments."
+        }
+      ],
+      "collocations": {
+        "adjective": ["private", "royal", "state"]
+      }
+    }
+  ],
+  "wordOrigin": "mid 17th cent. (denoting a private suite of rooms): from French appartement, from Italian appartamento, from appartare ‘to separate’, from a parte ‘apart’."
+}

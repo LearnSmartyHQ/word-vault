@@ -1,0 +1,123 @@
+{
+  "word": "hungry",
+  "partOfSpeech": "adjectivenoun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈhʌŋɡri/",
+        "audio": "h/hungry/hungry__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈhʌŋɡri/",
+        "audio": "h/hungry/hungry__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "feeling that you want to eat something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I'm really hungry."
+        },
+        {
+          "text": "She wasn't feeling very hungry."
+        },
+        {
+          "text": "Is anyone getting hungry?"
+        },
+        {
+          "text": "All this talk of food is making me hungry."
+        },
+        {
+          "text": "There were eight **hungry mouths** *(= hungry people)* to feed at home."
+        },
+        {
+          "text": "We were all ravenously hungry after the walk."
+        },
+        {
+          "text": "I have a hungry family to feed."
+        }
+      ],
+      "topics": ["Feelings"],
+      "collocations": {
+        "verbs": ["be", "feel", "go"],
+        "adverb": ["extremely", "fairly", "very"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "not having enough food to eat",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Thousands are **going hungry** because of the failure of this year's harvest."
+        },
+        {
+          "text": "Over 850 million people worldwide are hungry."
+        },
+        {
+          "text": "There are tens of thousands of hungry children in this country."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "feel", "go"],
+        "adverb": ["extremely", "fairly", "very"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "people who do not have enough food to eat",
+      "examples": []
+    },
+    {
+      "senseNumber": "4",
+      "definition": "causing you to feel that you want to eat something",
+      "examples": [
+        {
+          "text": "All this gardening is hungry work."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "having or showing a strong desire for something",
+      "sensetop": "hungry for somethinghungry to do something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "power-hungry corporations"
+        },
+        {
+          "text": "Both parties are hungry for power.",
+          "contextForm": "hungry for something"
+        },
+        {
+          "text": "The child is simply hungry for affection."
+        },
+        {
+          "text": "We like to use small agencies that are hungry for our business."
+        },
+        {
+          "text": "Every day they come to school hungry to learn.",
+          "contextForm": "hungry to do something"
+        },
+        {
+          "text": "His eyes had a wild hungry look in them."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English hungrig, of West Germanic origin; related to Dutch hongerig, German hungrig, also to hunger."
+}

@@ -1,0 +1,207 @@
+{
+  "word": "appreciate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈpriːʃieɪt/",
+        "audio": "a/appreciate/appreciate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈpriːʃieɪts/",
+        "audio": "a/appreciate/appreciates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈpriːʃieɪtɪd/",
+        "audio": "a/appreciate/appreciated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈpriːʃieɪtɪŋ/",
+        "audio": "a/appreciate/appreciating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈpriːʃieɪt/",
+        "audio": "a/appreciate/appreciate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈpriːʃieɪts/",
+        "audio": "a/appreciate/appreciates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈpriːʃieɪtɪd/",
+        "audio": "a/appreciate/appreciated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈpriːʃieɪtɪŋ/",
+        "audio": "a/appreciate/appreciating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "appreciate",
+      "heSheIt": "appreciates"
+    },
+    "pastSimple": "appreciated",
+    "pastParticiple": "appreciated",
+    "ingForm": "appreciating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to recognize the good qualities of somebody/something",
+      "sensetop": "appreciate somebody/something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Over the years he **came to appreciate** the beauty and tranquillity of the river."
+        },
+        {
+          "text": "His talents are not **fully appreciated** in that company."
+        },
+        {
+          "text": "Her family doesn't appreciate her."
+        },
+        {
+          "text": "You can't really appreciate foreign literature in translation."
+        },
+        {
+          "text": "The sound quality was poor so we couldn't fully appreciate the music."
+        }
+      ],
+      "collocations": {
+        "adverb": ["really", "truly", "fully"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to be grateful for something that somebody has done; to welcome something",
+      "sensetop": "appreciate somethingappreciate doing somethingappreciate somebody doing something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I'd appreciate some help.",
+          "contextForm": "appreciate something"
+        },
+        {
+          "text": "Your **support is greatly appreciated**."
+        },
+        {
+          "text": "Thanks for coming. I **appreciate it**."
+        },
+        {
+          "text": "I would appreciate any comments you might have."
+        },
+        {
+          "text": "Your kindness and generosity is **much appreciated**."
+        },
+        {
+          "text": "We really appreciate the extra effort you're making."
+        },
+        {
+          "text": "**I would appreciate it if** you paid in cash."
+        },
+        {
+          "text": "I appreciate having the opportunity to discuss these important issues with you.",
+          "contextForm": "appreciate doing something"
+        },
+        {
+          "text": "I don't appreciate being made to wait half an hour."
+        },
+        {
+          "text": "We would appreciate you letting us know of any problems.",
+          "contextForm": "appreciate somebody doing something"
+        },
+        {
+          "text": "Younger kids might especially appreciate a trip to the zoo."
+        },
+        {
+          "text": "Teachers will especially appreciate the lists at the back of the book."
+        }
+      ],
+      "collocations": {
+        "adverb": ["deeply", "genuinely", "greatly"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to understand that something is true",
+      "sensetop": "appreciate somethingappreciate how, what, etc…appreciate that…",
+      "examples": [
+        {
+          "text": "What I **failed to appreciate** was the distance between the two cities.",
+          "contextForm": "appreciate something"
+        },
+        {
+          "text": "The experience helped me **understand and appreciate** some of the difficulties people face."
+        },
+        {
+          "text": "I don't think you appreciate how expensive it will be.",
+          "contextForm": "appreciate how, what, etc…"
+        },
+        {
+          "text": "We didn't **fully appreciate** that he was seriously ill.",
+          "contextForm": "appreciate that…"
+        },
+        {
+          "text": "The government failed to appreciate the fact that voters were angry."
+        },
+        {
+          "text": "The problems should be easily appreciated."
+        },
+        {
+          "text": "You have to appreciate the difficulties we are facing."
+        },
+        {
+          "text": "As you'll appreciate, the task has not always been easy."
+        },
+        {
+          "text": "We didn't fully appreciate how sick he really was."
+        },
+        {
+          "text": "It is generally appreciated that the rail network needs a complete overhaul."
+        }
+      ],
+      "synonyms": "realize",
+      "collocations": {
+        "adverb": ["fully", "totally", "easily"],
+        "verb + appreciate": ["fail to"],
+        "phrases": ["be generally appreciated", "be widely appreciated"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to increase in value over a period of time",
+      "sensetop": "appreciate against something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Their investments have appreciated over the years."
+        },
+        {
+          "text": "We wanted a property that would **appreciate in value**."
+        },
+        {
+          "text": "The euro continues to appreciate against the dollar.",
+          "contextForm": "appreciate against something"
+        }
+      ],
+      "topics": ["Change, cause and effect", "Money"]
+    }
+  ],
+  "wordOrigin": "mid 16th cent.: from late Latin appretiat- ‘set at a price, appraised’, from the verb appretiare, from ad- ‘to’ + pretium ‘price’."
+}

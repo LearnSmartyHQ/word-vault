@@ -1,0 +1,115 @@
+{
+  "word": "purchase",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈpɜːtʃəs/",
+        "audio": "p/purchase/purchase__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈpɜːtʃəsɪz/",
+        "audio": "p/purchase/purchases__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈpɜːtʃəst/",
+        "audio": "p/purchase/purchased__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈpɜːtʃəsɪŋ/",
+        "audio": "p/purchase/purchasing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈpɜːrtʃəs/",
+        "audio": "p/purchase/purchase__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈpɜːrtʃəsɪz/",
+        "audio": "p/purchase/purchases__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈpɜːrtʃəst/",
+        "audio": "p/purchase/purchased__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈpɜːrtʃəsɪŋ/",
+        "audio": "p/purchase/purchasing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "purchase",
+      "heSheIt": "purchases"
+    },
+    "pastSimple": "purchased",
+    "pastParticiple": "purchased",
+    "ingForm": "purchasing"
+  },
+  "definitions": [
+    {
+      "definition": "to buy something",
+      "sensetop": "purchase somethingpurchase something from somebodypurchase something for something",
+      "labels": "(figurative)",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Please ensure that you **purchase your ticket** in advance.",
+          "contextForm": "purchase something"
+        },
+        {
+          "text": "to **purchase an item/a product**"
+        },
+        {
+          "text": "to **purchase a property/home**"
+        },
+        {
+          "text": "We recently purchased a home just outside Las Vegas."
+        },
+        {
+          "text": "The **equipment** can be **purchased** from your local supplier.",
+          "contextForm": "purchase something from somebody"
+        },
+        {
+          "text": "The tickets can only be purchased in advance from our website."
+        },
+        {
+          "text": "They **purchased the land** for $1 million.",
+          "contextForm": "purchase something for something"
+        },
+        {
+          "text": "Victory was purchased *(= achieved)* at too great a price."
+        },
+        {
+          "text": "They purchased the house from an elderly couple."
+        },
+        {
+          "text": "Tickets can be purchased online."
+        },
+        {
+          "text": "The land was compulsorily purchased from the owner to make way for the new road."
+        }
+      ],
+      "topics": ["Shopping"],
+      "collocations": {
+        "adverb": ["newly", "recently", "compulsorily"],
+        "verb + purchase": ["agree to", "be willing to", "wish to"],
+        "preposition": ["for", "from"]
+      }
+    }
+  ],
+  "wordOrigin": null
+}

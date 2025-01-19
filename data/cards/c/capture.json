@@ -1,0 +1,182 @@
+{
+  "word": "capture",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkæptʃə(r)/",
+        "audio": "c/capture/capture__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkæptʃəz/",
+        "audio": "c/capture/captures__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkæptʃəd/",
+        "audio": "c/capture/captured__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkæptʃərɪŋ/",
+        "audio": "c/capture/capturing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkæptʃər/",
+        "audio": "c/capture/capture__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkæptʃərz/",
+        "audio": "c/capture/captures__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkæptʃərd/",
+        "audio": "c/capture/captured__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkæptʃərɪŋ/",
+        "audio": "c/capture/capturing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "capture",
+      "heSheIt": "captures"
+    },
+    "pastSimple": "captured",
+    "pastParticiple": "captured",
+    "ingForm": "capturing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to catch a person or an animal and keep them as a prisoner or shut them in a space that they cannot escape from",
+      "sensetop": "capture somebody/something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Allied troops captured over 300 enemy soldiers."
+        },
+        {
+          "text": "The animals are captured in nets and sold to local zoos."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to take control of a place, building, etc. using force",
+      "sensetop": "capture something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The city was captured in 1941."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to succeed in getting control or possession of something that other people are also trying to get",
+      "sensetop": "capture something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The company has captured 90 per cent of the market."
+        },
+        {
+          "text": "He captured the world championship title in 2018."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to make somebody interested in something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The project has **captured the imagination **of the local public."
+        },
+        {
+          "text": "Her story captured the attention of Hollywood."
+        }
+      ],
+      "topics": ["Feelings"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to succeed in accurately expressing a feeling, an atmosphere, etc. in a picture, piece of writing, film, etc.",
+      "sensetop": "capture something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Her photos **capture the essence** of her subjects."
+        },
+        {
+          "text": "The song **captures the spirit** of those times."
+        },
+        {
+          "text": "They have **captured a moment** in people's lives."
+        },
+        {
+          "text": "That description captures perfectly the feeling of being invisible."
+        },
+        {
+          "text": "The article captured the mood of the nation."
+        },
+        {
+          "text": "The exhibition on India fails to capture the great diversity of this fascinating country."
+        }
+      ],
+      "synonyms": "catch",
+      "collocations": {
+        "adverb": ["accurately", "perfectly", "beautifully"],
+        "verb + capture": ["try to", "be able to", "manage to"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to photograph, film, record, paint, etc. somebody/something",
+      "sensetop": "capture somethingcapture somebody/something on something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The photographer's camera **captures images** of extreme beauty.",
+          "contextForm": "capture something"
+        },
+        {
+          "text": "The attack was captured on film by security cameras.",
+          "contextForm": "capture somebody/something on something"
+        }
+      ],
+      "topics": ["Art"]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to make somebody love you",
+      "sensetop": "capture somebody’s heart",
+      "examples": []
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to put something into a computer in a form it can use",
+      "sensetop": "capture something",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "mid 16th cent. (as a noun): from French, from Latin captura, from capt- ‘seized, taken’, from the verb capere."
+}

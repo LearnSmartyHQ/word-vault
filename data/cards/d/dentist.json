@@ -1,0 +1,78 @@
+{
+  "word": "dentist",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdentɪst/",
+        "audio": "d/dentist/dentist__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdentɪst/",
+        "audio": "d/dentist/dentist__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a person whose job is to take care of people’s teeth",
+      "labels": "formal",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to see/visit/consult your dentist"
+        },
+        {
+          "text": "the dentist's chair/drill"
+        }
+      ],
+      "topics": ["Healthcare", "Jobs"],
+      "collocations": {
+        "adjective": ["good", "qualified", "registered"],
+        "verb + dentist": ["recommend", "register with"],
+        "dentist + noun": ["appointment", "office", "chair"],
+        "phrases": [
+          "a dentist’s appointment",
+          "a/​the dentist’s office",
+          "a/​the dentist’s chair"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a place where a dentist sees patients",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I hate **going to the dentist**."
+        },
+        {
+          "text": "an appointment at the dentist’s"
+        },
+        {
+          "text": "She couldn’t get treatment because she wasn’t registered with the dentist."
+        }
+      ],
+      "collocations": {
+        "adjective": ["good", "qualified", "registered"],
+        "verb + dentist": ["recommend", "register with"],
+        "dentist + noun": ["appointment", "office", "chair"],
+        "phrases": [
+          "a dentist’s appointment",
+          "a/​the dentist’s office",
+          "a/​the dentist’s chair"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": "mid 18th cent.: from French dentiste, from dent ‘tooth’, from Latin dens, dent-."
+}

@@ -1,0 +1,77 @@
+{
+  "word": "twin",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/twɪn/",
+        "audio": "t/twin/twin__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/twɪn/",
+        "audio": "t/twin/twin__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "one of two children born at the same time to the same mother",
+      "labels": "(especially US English)(especially North American English)(especially British English)(British English)(North American English)(especially British English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She's expecting twins."
+        },
+        {
+          "text": "If you're carrying *(= expecting)* twins or triplets, that can put you at risk."
+        },
+        {
+          "text": "I'm 5 months pregnant with twins."
+        },
+        {
+          "text": "His long-lost twin was searching for him."
+        },
+        {
+          "text": "I was the older twin."
+        },
+        {
+          "text": "My sister had twins."
+        },
+        {
+          "text": "The twins were separated at birth."
+        },
+        {
+          "text": "adult twins who were raised apart"
+        },
+        {
+          "text": "the plot device of giving a character an evil twin"
+        }
+      ],
+      "topics": ["Holidays", "Family and relationships"],
+      "collocations": {
+        "adjective": ["identical", "monozygotic", "dizygotic"],
+        "… of twins": ["pair", "set"],
+        "verb + twin": ["be carrying", "be pregnant with", "expect"],
+        "twin + noun": ["boys", "girls", "daughters"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "one of two similar things that make a pair",
+      "examples": [
+        {
+          "text": "The plate was one of a pair but I broke its twin."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Old English twinn ‘double’, from twi- ‘two’; related to Old Norse tvinnr. Current verb senses date from late Middle English."
+}

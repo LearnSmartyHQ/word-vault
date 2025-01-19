@@ -1,0 +1,87 @@
+{
+  "word": "occurrence",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈkʌrəns/",
+        "audio": "o/occurrence/occurrence__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈkɜːrəns/",
+        "audio": "o/occurrence/occurrence__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "something that happens or exists",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a **common/everyday/frequent/regular occurrence**"
+        },
+        {
+          "text": "Vandalism used to be a **rare occurrence** here."
+        },
+        {
+          "text": "The program counts the number of occurrences of any word within the text."
+        },
+        {
+          "text": "These mild fits are quite a common occurrence in babies."
+        },
+        {
+          "text": "Increased life expectancy means that it is now a rare occurrence for children to be orphaned."
+        },
+        {
+          "text": "Landslips and earthquakes are not everyday occurrences in this country."
+        }
+      ],
+      "collocations": {
+        "adjective": ["common", "everyday", "widespread"],
+        "verb + occurrence": ["prevent", "reduce", "increase"],
+        "preposition": ["occurrence in", "occurrence of"],
+        "phrases": [
+          "a common occurrence",
+          "a regular occurrence",
+          "a daily occurrence"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the fact of something happening or existing",
+      "sensetop": "occurrence (of something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the recent occurrence of skin cancer in younger patients"
+        },
+        {
+          "text": "The document addresses the occurrence of arsenic in drinking water."
+        },
+        {
+          "text": "the low occurrence of heart disease in this particular group"
+        }
+      ],
+      "collocations": {
+        "adjective": ["common", "everyday", "widespread"],
+        "verb + occurrence": ["prevent", "reduce", "increase"],
+        "preposition": ["occurrence in", "occurrence of"],
+        "phrases": [
+          "a common occurrence",
+          "a regular occurrence",
+          "a daily occurrence"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": "mid 16th cent.: probably from the plural of archaic occurrent, in the same sense, via French from Latin occurrent- ‘befalling’, from the verb occurrere ‘go to meet, present itself’, from ob- ‘against’ + currere ‘to run’."
+}

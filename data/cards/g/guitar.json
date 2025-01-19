@@ -1,0 +1,65 @@
+{
+  "word": "guitar",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɡɪˈtɑː(r)/",
+        "audio": "g/guitar/guitar__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡɪˈtɑːr/",
+        "audio": "g/guitar/guitar__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "definition": "a musical instrument that usually has six strings and that you play with your fingers or with a plectrum",
+      "sensetop": "on guitar",
+      "examples": [
+        {
+          "text": "an **acoustic/electric guitar**"
+        },
+        {
+          "text": "a classical guitar"
+        },
+        {
+          "text": "a **guitar player**"
+        },
+        {
+          "text": "a **guitar solo/riff**"
+        },
+        {
+          "text": "Do you **play the guitar**?"
+        },
+        {
+          "text": "She **plays guitar** in a band."
+        },
+        {
+          "text": "As he sang, he strummed his guitar."
+        },
+        {
+          "text": "He gently plucked his guitar."
+        },
+        {
+          "text": "The track features Anton on guitar and vocals.",
+          "contextForm": "on guitar"
+        }
+      ],
+      "topics": ["Music"],
+      "collocations": {
+        "adjective": ["acoustic", "bass", "electric"],
+        "verb + guitar": ["strum", "strum on", "pluck"],
+        "guitar + noun": ["string", "pick", "plectrum"]
+      }
+    }
+  ],
+  "wordOrigin": "early 17th cent.: from Spanish guitarra (partly via French), from Greek kithara, denoting an instrument similar to the lyre."
+}

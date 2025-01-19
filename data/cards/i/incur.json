@@ -1,0 +1,84 @@
+{
+  "word": "incur",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈkɜː(r)/",
+        "audio": "i/incur/incur__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈkɜːz/",
+        "audio": "i/incur/incurs__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈkɜːd/",
+        "audio": "i/incur/incurred__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈkɜːrɪŋ/",
+        "audio": "i/incur/incurring__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈkɜːr/",
+        "audio": "i/incur/incur__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈkɜːrz/",
+        "audio": "i/incur/incurs__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈkɜːrd/",
+        "audio": "i/incur/incurred__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈkɜːrɪŋ/",
+        "audio": "i/incur/incurring__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "incur",
+      "heSheIt": "incurs"
+    },
+    "pastSimple": "incurred",
+    "pastParticiple": "incurred",
+    "ingForm": "incurring"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "if you incur something unpleasant, you are in a situation in which you have to deal with it",
+      "sensetop": "incur something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She had incurred the wrath of her father by marrying without his consent."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "if you incur costs, you have to pay them",
+      "sensetop": "incur something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "You risk incurring bank charges if you exceed your overdraft limit."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin incurrere, from in- ‘towards’ + currere ‘run’."
+}

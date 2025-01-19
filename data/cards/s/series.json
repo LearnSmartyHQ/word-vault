@@ -1,0 +1,161 @@
+{
+  "word": "series",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsɪəriːz/",
+        "audio": "s/series/series__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsɪriːz/",
+        "audio": "s/series/series__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a set of television or radio programmes or podcasts that deal with the same subject or that have the same characters",
+      "labels": "(British English)(North American English)(especially British English)(especially North American English)(especially North American English)(especially British English)(especially North American English)(British English)(British English)(British English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The first episode of the new series is on Saturday."
+        },
+        {
+          "text": "Her stories have been made into a **TV series**."
+        },
+        {
+          "text": "She has a small part in a drama series for radio."
+        },
+        {
+          "text": "the hit comedy series ‘The Big Bang Theory’"
+        },
+        {
+          "text": "a special two-part series on the economy"
+        },
+        {
+          "text": "The BBC has already commissioned a second series."
+        },
+        {
+          "text": "We watched the final part of a series on Australian wildlife."
+        }
+      ],
+      "topics": ["TV, radio and news"],
+      "collocations": {
+        "adjective": ["radio", "television", "TV"],
+        "verb + series": ["film", "commission", "broadcast"],
+        "preposition": ["in a/​the series", "series  about", "series  on"],
+        "phrases": ["an episode of a series", "a part of a series"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "several events or things of a similar kind that happen one after the other",
+      "sensetop": "series of somethingin a series of something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The incident sparked off a **series of events** that nobody had foreseen.",
+          "contextForm": "series of something"
+        },
+        {
+          "text": "This case raises a **whole series** of important questions."
+        },
+        {
+          "text": "The two sides held a series of meetings in the summer."
+        },
+        {
+          "text": "The movie consisted of a series of flashbacks."
+        },
+        {
+          "text": "This is the latest in a series of articles on the nature of modern society.",
+          "contextForm": "in a series of something"
+        },
+        {
+          "text": "He is in hospital for a whole series of tests."
+        },
+        {
+          "text": "The quartet will be performing in a series of lunchtime concerts."
+        },
+        {
+          "text": "He had committed a series of minor criminal offences."
+        },
+        {
+          "text": "The shooting was the latest in a series of violent attacks in the city."
+        },
+        {
+          "text": "You will need to have a series of vaccinations before you visit the area."
+        },
+        {
+          "text": "the final book in the series"
+        },
+        {
+          "text": "She wrote a whole series of novels between 1985 and 2005."
+        }
+      ],
+      "collocations": {
+        "adjective": ["entire", "whole", "ongoing"],
+        "preposition": ["in a/​the series", "series  of"],
+        "phrases": [
+          "the first of a/​the series",
+          "the last of a/​the series",
+          "the first in a series"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a set of sports games played between the same two teams",
+      "labels": "(sport)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "the **World Series** *(= in baseball)*"
+        },
+        {
+          "text": "England have lost the **Test series** *(= of  matches)* against India."
+        },
+        {
+          "text": "India must win to level the series."
+        },
+        {
+          "text": "They took the first two games in the series."
+        },
+        {
+          "text": "The Bronx Bombers won two of three in a weekend series with the Red Sox."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"],
+      "collocations": {
+        "adjective": ["racing", "World Series", "championship"],
+        "verb + series": ["lose", "win", "level"],
+        "preposition": ["in the series", "series  with"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "an electrical circuit in which the current passes through all the parts in the correct order",
+      "labels": "(specialist)",
+      "examples": [
+        {
+          "text": "batteries connected in series"
+        },
+        {
+          "text": "a series circuit"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "early 17th cent.: from Latin, literally ‘row, chain’, from serere ‘join, connect’."
+}

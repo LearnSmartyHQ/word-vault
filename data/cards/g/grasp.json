@@ -1,0 +1,169 @@
+{
+  "word": "grasp",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɡrɑːsp/",
+        "audio": "g/grasp/grasp__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɡrɑːsps/",
+        "audio": "g/grasp/grasps__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɡrɑːspt/",
+        "audio": "g/grasp/grasped__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈɡrɑːspɪŋ/",
+        "audio": "g/grasp/grasping__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡræsp/",
+        "audio": "g/grasp/grasp__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɡræsps/",
+        "audio": "g/grasp/grasps__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɡræspt/",
+        "audio": "g/grasp/grasped__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈɡræspɪŋ/",
+        "audio": "g/grasp/grasping__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "grasp",
+      "heSheIt": "grasps"
+    },
+    "pastSimple": "grasped",
+    "pastParticiple": "grasped",
+    "ingForm": "grasping"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to take a strong hold of somebody/something",
+      "sensetop": "grasp somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He grasped my hand and shook it warmly."
+        },
+        {
+          "text": "Kay grasped him by the wrist."
+        },
+        {
+          "text": "Her hands were grasping at his coat."
+        },
+        {
+          "text": "She grasped him tightly by the wrist."
+        },
+        {
+          "text": "She grasped hold of the banister to support herself."
+        },
+        {
+          "text": "He grasped the pan by its handle."
+        }
+      ],
+      "synonyms": "grip",
+      "collocations": {
+        "adverb": ["firmly", "tightly"],
+        "preposition": ["at", "by"],
+        "phrases": ["grasp hold of somebody/​something"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to understand something completely",
+      "sensetop": "grasp somethinggrasp how, why, etc…grasp that…",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They failed to grasp the importance of his words.",
+          "contextForm": "grasp something"
+        },
+        {
+          "text": "She was unable to grasp how to do it.",
+          "contextForm": "grasp how, why, etc…"
+        },
+        {
+          "text": "It took him some time to grasp that he was now a public figure.",
+          "contextForm": "grasp that…"
+        },
+        {
+          "text": "It's a difficult concept for children to understand/​grasp."
+        },
+        {
+          "text": "By this time, engineers had grasped the basic principles of aerodynamics."
+        },
+        {
+          "text": "a means by which students can more easily grasp the basics of science"
+        },
+        {
+          "text": "Some of these concepts are very difficult to grasp."
+        },
+        {
+          "text": "She failed to grasp the significance of these facts."
+        },
+        {
+          "text": "I hadn't really grasped what they were talking about."
+        },
+        {
+          "text": "He was quick to grasp the basic principles."
+        },
+        {
+          "text": "He had not fully grasped the fact that he was the one who would pay for all this."
+        }
+      ],
+      "collocations": {
+        "adverb": ["fully", "not quite", "not really"],
+        "verb + grasp": ["try to", "be unable to", "fail to"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to take an opportunity without hesitating and use it",
+      "sensetop": "grasp a chance/an opportunity",
+      "examples": [
+        {
+          "text": "I grasped the opportunity to work abroad."
+        }
+      ]
+    },
+    {
+      "definition": "to try all possible means to find a solution or some hope in a difficult or unpleasant situation, even though this seems very unlikely",
+      "examples": [
+        {
+          "text": "I know I’m just clutching at straws here, but is it possible that the doctors are wrong?"
+        }
+      ]
+    },
+    {
+      "definition": "to deal with a difficult situation without hesitating",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "The government now has the opportunity to grasp the nettle of prison reform."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: perhaps related to grope."
+}

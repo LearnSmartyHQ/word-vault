@@ -1,0 +1,64 @@
+{
+  "word": "mayor",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/meə(r)/",
+        "audio": "m/mayor/mayor__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmeɪər/",
+        "audio": "m/mayor/mayor__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the head of the government of a town or city, etc., elected by the public",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "the Mayor of New York"
+        },
+        {
+          "text": "Mayor Lori Lightfoot"
+        },
+        {
+          "text": "This is the second time she has run for mayor of St. Louis."
+        },
+        {
+          "text": "He became the first directly elected mayor of London in 2000."
+        },
+        {
+          "text": "The allegations were made in an article by former New York mayor, Ed Koch."
+        }
+      ],
+      "topics": ["Politics"],
+      "collocations": {
+        "adjective": ["local", "deputy", "lord"],
+        "verb + mayor": ["run for", "elect (somebody)", "elect somebody as"],
+        "preposition": ["mayor of"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "(in England, Wales and Northern Ireland) the head of a town, borough or county council, chosen by other members of the council to represent them at official ceremonies, etc.",
+      "cefr": "b2",
+      "examples": [],
+      "topics": ["Politics"],
+      "collocations": {
+        "adjective": ["local", "deputy", "lord"],
+        "verb + mayor": ["run for", "elect (somebody)", "elect somebody as"],
+        "preposition": ["mayor of"]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French maire, from the Latin adjective major ‘greater’, used as a noun in late Latin."
+}

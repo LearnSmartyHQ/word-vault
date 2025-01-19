@@ -1,0 +1,83 @@
+{
+  "word": "synthesis",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsɪnθəsɪs/",
+        "audio": "s/synthesis/synthesis__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsɪnθəsiːz/",
+        "audio": "s/synthesis/syntheses__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsɪnθəsɪs/",
+        "audio": "s/synthesis/synthesis__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsɪnθəsiːz/",
+        "audio": "s/synthesis/syntheses__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the act of combining separate ideas, beliefs, styles, etc.; a mixture or combination of ideas, beliefs, styles, etc.",
+      "sensetop": "synthesis of A with Bsynthesis of A and B",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the synthesis of art with everyday life",
+          "contextForm": "synthesis of A with B"
+        },
+        {
+          "text": "a synthesis of traditional and modern values",
+          "contextForm": "synthesis of A and B"
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the natural chemical production of a substance in animals and plants",
+      "labels": "(specialist)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "protein synthesis"
+        },
+        {
+          "text": "the synthesis of nucleic acids"
+        }
+      ],
+      "topics": ["Biology"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the artificial production of a substance that is present naturally in animals and plants",
+      "labels": "(specialist)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the synthesis of penicillin"
+        }
+      ],
+      "topics": ["Physics and chemistry"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "the production of sounds, music or speech by electronic means",
+      "labels": "(specialist)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "early 17th cent.: via Latin from Greek sunthesis, from suntithenai ‘place together’."
+}

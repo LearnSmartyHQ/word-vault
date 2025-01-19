@@ -1,0 +1,178 @@
+{
+  "word": "receipt",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈsiːt/",
+        "audio": "r/receipt/receipt__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈsiːt/",
+        "audio": "r/receipt/receipt__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a piece of paper or an electronic document that shows that goods or services have been paid for",
+      "sensetop": "receipt for something",
+      "labels": "(especially British English)(especially North American English)(especially North American English)(British English)(especially North American English)(North American English, informal)(British English)(North American English)(British English)(British English)(North American English)(British English)(North American English)(British English)(North American English)(North American English)(British English)(especially North American English)(especially British English)(British English)(North American English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Can I have a receipt, please?"
+        },
+        {
+          "text": "Do you need a receipt for that?",
+          "contextForm": "receipt for something"
+        },
+        {
+          "text": "We will email the receipt to you."
+        },
+        {
+          "text": "I kept the receipt, so I can return it if you don't like it."
+        },
+        {
+          "text": "to make out *(= write)* a receipt"
+        },
+        {
+          "text": "They have to submit receipts to support all expenditure."
+        },
+        {
+          "text": "Could I have a receipt for that please?"
+        },
+        {
+          "text": "His credit-card receipts show he was in New York at the time."
+        },
+        {
+          "text": "She issued a receipt for the goods."
+        },
+        {
+          "text": "The machine issues a paper receipt on request."
+        },
+        {
+          "text": "The original receipt must be produced in order to reclaim your goods."
+        },
+        {
+          "text": "There was a little receipt printer on the counter."
+        },
+        {
+          "text": "You can claim a refund provided you keep the receipt."
+        },
+        {
+          "text": "a receipt made out for £5"
+        }
+      ],
+      "topics": ["Business", "Money", "Shopping"],
+      "collocations": {
+        "adjective": ["ATM", "credit-card", "original"],
+        "verb + receipt": ["ask (somebody) for", "need", "get"],
+        "receipt + verb": ["show"],
+        "receipt + noun": ["book", "printer"],
+        "preposition": ["receipt for"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the act of receiving something",
+      "sensetop": "receipt of somethingon receipt of somethingin receipt of something",
+      "labels": "(formal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You will get an automatic reply to your email confirming receipt."
+        },
+        {
+          "text": "to acknowledge receipt of a letter",
+          "contextForm": "receipt of something"
+        },
+        {
+          "text": "The goods will be dispatched on receipt of an order form.",
+          "contextForm": "on receipt of something"
+        },
+        {
+          "text": "Are you in receipt of any state benefits?",
+          "contextForm": "in receipt of something"
+        },
+        {
+          "text": "The closing date for receipt of your application is July 14."
+        },
+        {
+          "text": "Upon receipt of payment by the bank, the goods will be dispatched."
+        },
+        {
+          "text": "organizations in receipt of UN funding"
+        },
+        {
+          "text": "I would be grateful if you would acknowledge receipt of this letter."
+        },
+        {
+          "text": "Items should be paid for within 14 days of receipt."
+        }
+      ],
+      "collocations": {
+        "verb + receipt": ["acknowledge"],
+        "preposition": ["in receipt of", "on receipt of", "upon receipt of"],
+        "phrases": [
+          "the date for receipt",
+          "receipt of payment",
+          "within 7, etc. days of receipt"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "money that a business, bank or government receives",
+      "labels": "(business)",
+      "examples": [
+        {
+          "text": "**net/gross receipts**"
+        },
+        {
+          "text": "Cash receipts reached £70 million."
+        },
+        {
+          "text": "Customs and excise receipts rose 2.5 per cent."
+        },
+        {
+          "text": "Gate receipts have fallen compared to last season."
+        },
+        {
+          "text": "Match receipts slumped by £89 000 compared to last season."
+        },
+        {
+          "text": "Tax receipts rose 2.5%."
+        },
+        {
+          "text": "an estimation of the receipts and expenditure for this financial year"
+        },
+        {
+          "text": "receipts from land sales"
+        }
+      ],
+      "collocations": {
+        "adjective": ["gross", "total", "net"],
+        "verb + receipts": ["receive"],
+        "receipts + verb": ["rise", "reach something", "decline"],
+        "preposition": ["receipt from"],
+        "phrases": [
+          "receipts and expenditure",
+          "receipts and expenditures",
+          "receipts and payments"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Anglo-Norman French receite, from medieval Latin recepta ‘received’, feminine past participle of Latin recipere. The -p- was inserted in imitation of the Latin spelling."
+}

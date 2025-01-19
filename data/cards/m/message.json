@@ -1,0 +1,246 @@
+{
+  "word": "message",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmesɪdʒ/",
+        "audio": "m/message/message__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmesɪdʒ/",
+        "audio": "m/message/message__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a written or spoken piece of information, etc. that you send to somebody or leave for somebody when you cannot speak to them yourself",
+      "sensetop": "message (from somebody) (to somebody)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "There were no messages for me at the hotel."
+        },
+        {
+          "text": "I never got your message."
+        },
+        {
+          "text": "We've had an urgent message saying that your father's ill."
+        },
+        {
+          "text": "Jenny's not here at the moment. **Can I take a message?**"
+        },
+        {
+          "text": "I **left a message** on her voicemail."
+        },
+        {
+          "text": "I've been trying to get you all day—don't you ever listen to your messages?"
+        },
+        {
+          "text": "Messages of support have been arriving from all over the country.",
+          "contextForm": "message (from somebody) (to somebody)"
+        },
+        {
+          "text": "a televised message from the president to the American people"
+        },
+        {
+          "text": "A radio message was sent out to all ships in the area."
+        },
+        {
+          "text": "I called him and received a message on my voice mail the next day."
+        },
+        {
+          "text": "Are there any messages for me?"
+        },
+        {
+          "text": "He's not here—I'll pass on the message."
+        },
+        {
+          "text": "The family sent a heartfelt message of thanks to everyone who helped."
+        },
+        {
+          "text": "They sent messages of hope to the prisoners of war."
+        }
+      ],
+      "topics": ["Phones, email and the internet"],
+      "collocations": {
+        "adjective": ["important", "urgent", "vital"],
+        "verb + message": ["convey", "give somebody", "pass somebody"],
+        "message + verb": ["come", "say something", "state something"],
+        "preposition": ["message about", "message for", "message from"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a piece of information sent in electronic form, for example by email or mobile phone",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "an email/a text/an SMS message"
+        },
+        {
+          "text": "There were four messages in my inbox."
+        },
+        {
+          "text": "He sent me a message."
+        },
+        {
+          "text": "I turned on my cell phone to check my messages."
+        },
+        {
+          "text": "Fans post messages on her website."
+        },
+        {
+          "text": "I keep getting an **error message** when I try to connect to the internet."
+        },
+        {
+          "text": "I got an anonymous text message."
+        },
+        {
+          "text": "The email message contains an attachment."
+        },
+        {
+          "text": "Who wants spam messages appearing on their website?"
+        },
+        {
+          "text": "A message pops up on the screen."
+        }
+      ],
+      "topics": ["Phones, email and the internet"],
+      "collocations": {
+        "adjective": ["important", "urgent", "vital"],
+        "verb + message": ["convey", "give somebody", "pass somebody"],
+        "message + verb": ["come", "say something", "state something"],
+        "preposition": ["message about", "message for", "message from"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "an important moral, social or political idea that a book, speech, etc. is trying to communicate",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a film with a strong religious message"
+        },
+        {
+          "text": "The campaign is trying to **get the message across** to young people that drugs are dangerous."
+        },
+        {
+          "text": "The clear message coming from the government is that they are getting tough on crime."
+        },
+        {
+          "text": "I think this movie sends the **wrong message** to her young fans."
+        },
+        {
+          "text": "He uses his art to convey a political message."
+        },
+        {
+          "text": "Does this send the right message to our target audience?"
+        },
+        {
+          "text": "He presents a truly chilling message in this article."
+        },
+        {
+          "text": "He tries to spread the message of safe sex."
+        },
+        {
+          "text": "The president toured the country spreading the message of national unity."
+        },
+        {
+          "text": "The take-home message is: be willing to negotiate."
+        },
+        {
+          "text": "They found a way to transform their ideas into a marketing message that everyone relates to."
+        },
+        {
+          "text": "This allowed us to bring our message to a different, younger audience."
+        },
+        {
+          "text": "This is sending a strong message about the importance of climate change."
+        },
+        {
+          "text": "This song has a universal message that everybody can relate to."
+        },
+        {
+          "text": "a novel with a serious message"
+        },
+        {
+          "text": "a song with a simple message"
+        },
+        {
+          "text": "spreading the message of the Bible"
+        },
+        {
+          "text": "stories with hidden moral messages"
+        },
+        {
+          "text": "the negative messages we send out"
+        },
+        {
+          "text": "the subversive messages their films carry"
+        }
+      ],
+      "topics": ["Literature and writing"],
+      "collocations": {
+        "adjective": ["central", "core", "important"],
+        "verb + message": ["broadcast", "disseminate", "spread"],
+        "message + verb": [
+          "emerge",
+          "reach somebody",
+          "resonate with somebody"
+        ],
+        "preposition": ["message about", "message of", "message to"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a piece of information that is sent from the brain to a part of the body, or from a part of the body to the brain",
+      "examples": [
+        {
+          "text": "The message arrives in your brain in a fraction of a second."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "shopping",
+      "labels": "(Scottish English, Irish English)",
+      "examples": [
+        {
+          "text": "to do the messages"
+        },
+        {
+          "text": "to go for the messages"
+        },
+        {
+          "text": "You can leave your messages *(= the things that you have bought)* here."
+        }
+      ]
+    },
+    {
+      "definition": "to understand what somebody is trying to tell you indirectly",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "When he started looking at his watch, I got the message and left."
+        }
+      ]
+    },
+    {
+      "definition": "stating/not stating the official view of the political party or organization you represent",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French, based on Latin missus, past participle of mittere ‘send’."
+}

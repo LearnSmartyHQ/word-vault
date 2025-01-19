@@ -1,0 +1,119 @@
+{
+  "word": "obey",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈbeɪ/",
+        "audio": "o/obey/obey__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈbeɪz/",
+        "audio": "o/obey/obeys__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈbeɪd/",
+        "audio": "o/obey/obeyed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈbeɪɪŋ/",
+        "audio": "o/obey/obeying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈbeɪ/",
+        "audio": "o/obey/obey__us_2_rr.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈbeɪz/",
+        "audio": "o/obey/obeys__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈbeɪd/",
+        "audio": "o/obey/obeyed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈbeɪɪŋ/",
+        "audio": "o/obey/obeying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "obey",
+      "heSheIt": "obeys"
+    },
+    "pastSimple": "obeyed",
+    "pastParticiple": "obeyed",
+    "ingForm": "obeying"
+  },
+  "definitions": [
+    {
+      "definition": "to do what you are told or expected to do",
+      "sensetop": "obey somethingobey somebody",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "to **obey a command/an order/rules/the law**",
+          "contextForm": "obey something"
+        },
+        {
+          "text": "He was arrested when he failed to obey a police instruction to stop."
+        },
+        {
+          "text": "He has turned into an efficient soldier, **blindly obeying** orders *(= without questioning them)*."
+        },
+        {
+          "text": "He had always obeyed his parents without question.",
+          "contextForm": "obey somebody"
+        },
+        {
+          "text": "I tried to run but my legs just wouldn't obey me."
+        },
+        {
+          "text": "‘Sit down!’ Meekly, she obeyed."
+        },
+        {
+          "text": "He refuses to obey the rules."
+        },
+        {
+          "text": "The driver refused to obey police instructions."
+        },
+        {
+          "text": "The soldiers were punished for failing to obey orders."
+        },
+        {
+          "text": "People have a moral duty to obey the law."
+        },
+        {
+          "text": "She was used to having her orders instantly obeyed."
+        },
+        {
+          "text": "She's being punished for failure to obey a court order."
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adverb": ["immediately", "instantly", "quickly"],
+        "verb + obey": ["have to", "must", "refuse to"],
+        "phrases": [
+          "be only obeying orders",
+          "a duty to obey",
+          "an obligation to obey"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French obeir, from Latin oboedire, from ob- ‘in the direction of’ + audire ‘hear’."
+}

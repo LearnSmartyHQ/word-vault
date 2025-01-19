@@ -1,0 +1,369 @@
+{
+  "word": "shake",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ʃeɪk/",
+        "audio": "s/shake/shake__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ʃeɪks/",
+        "audio": "s/shake/shakes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ʃʊk/",
+        "audio": "s/shake/shook__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈʃeɪkən/",
+        "audio": "s/shake/shaken__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈʃeɪkɪŋ/",
+        "audio": "s/shake/shaking__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ʃeɪk/",
+        "audio": "s/shake/shake__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ʃeɪks/",
+        "audio": "s/shake/shakes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ʃʊk/",
+        "audio": "s/shake/shook__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈʃeɪkən/",
+        "audio": "s/shake/shaken__us_3.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈʃeɪkɪŋ/",
+        "audio": "s/shake/shaking__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "shake",
+      "heSheIt": "shakes"
+    },
+    "pastSimple": "shook",
+    "pastParticiple": "shaken",
+    "ingForm": "shaking"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to move or make somebody/something move with short quick movements from side to side or up and down",
+      "sensetop": "shake somebody/somethingshake somebody/something by somethingshake somebody/something + adj.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The whole house shakes when a train goes past."
+        },
+        {
+          "text": "Shake the bottle well before use.",
+          "contextForm": "shake somebody/something"
+        },
+        {
+          "text": "The explosion shook windows miles from the site."
+        },
+        {
+          "text": "She shook him by the shoulders.",
+          "contextForm": "shake somebody/something by something"
+        },
+        {
+          "text": "He knelt and gently shook her awake.",
+          "contextForm": "shake somebody/something + adj."
+        },
+        {
+          "text": "She shook her hair loose."
+        },
+        {
+          "text": "The ground began to shake."
+        },
+        {
+          "text": "He shook the blankets vigorously to get rid of the dust."
+        },
+        {
+          "text": "Shake the pan gently to settle the contents."
+        }
+      ],
+      "collocations": {
+        "adverb": ["hard", "roughly", "vigorously"],
+        "preposition": ["by"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to move something in a particular direction by shaking",
+      "sensetop": "shake something + adv./prep.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She bent down to shake a pebble out of her shoe."
+        },
+        {
+          "text": "His father used to come home and shake the dust off his work clothes."
+        },
+        {
+          "text": "He stood up, shaking sand everywhere."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to take somebody’s hand and move it up and down as a way of saying hello or to show that you agree about something",
+      "sensetop": "shake handsshake hands with somebodyshake somebody’s handshake somebody by the handshake hands on somethingshake on something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Do people in Italy shake hands when they meet?",
+          "contextForm": "shake hands"
+        },
+        {
+          "text": "She refused to shake hands with him.",
+          "contextForm": "shake hands with somebody"
+        },
+        {
+          "text": "He stepped forward and shook my hand.",
+          "contextForm": "shake somebody’s hand"
+        },
+        {
+          "text": "Our host shook each of us warmly by the hand.",
+          "contextForm": "shake somebody by the hand"
+        },
+        {
+          "text": "They shook hands on the deal *(= to show that they had reached an agreement)*.",
+          "contextForm": "shake hands on something"
+        },
+        {
+          "text": "They shook on the deal *(= shook hands to show the deal was agreed)*.",
+          "contextForm": "shake on something"
+        },
+        {
+          "text": "Let's **shake on it**."
+        },
+        {
+          "text": "The captains shook hands before the game commenced."
+        },
+        {
+          "text": "If I met him I'd shake him by the hand and congratulate him."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adverb": ["firmly", "vigorously", "warmly"],
+        "phrases": ["shake somebody by the hand"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to turn your head from side to side as a way of saying ‘no’ or to show that you are sad, feel doubt, etc.",
+      "sensetop": "shake your head",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "‘Drink?’ he offered. She shook her head."
+        },
+        {
+          "text": "The old man watched them walk off into the night, shaking his head sadly."
+        },
+        {
+          "text": "She shook her head in disbelief."
+        },
+        {
+          "text": "He shook his head at the thought."
+        }
+      ],
+      "collocations": {
+        "adverb": ["decisively", "emphatically", "firmly"],
+        "preposition": ["at", "in"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to show that you are angry with somebody; to threaten somebody by shaking your fist (= closed hand)",
+      "sensetop": "shake your fist (at somebody)",
+      "examples": [
+        {
+          "text": "The man shook his fist at the court after he was sentenced."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to make short quick movements that you cannot control, for example because you are cold or afraid",
+      "sensetop": "shake with something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Her hands had started to shake."
+        },
+        {
+          "text": "He was shaking with fear.",
+          "contextForm": "shake with something"
+        },
+        {
+          "text": "He saw his mother turn away, her shoulders shaking with laughter."
+        },
+        {
+          "text": "His whole body shook with rage."
+        },
+        {
+          "text": "I was **shaking like a leaf**."
+        },
+        {
+          "text": "He was almost shaking with the intensity of what he was saying."
+        },
+        {
+          "text": "He was crying and shaking all over."
+        },
+        {
+          "text": "I found myself shaking uncontrollably with cold."
+        },
+        {
+          "text": "I just couldn't stop shaking."
+        },
+        {
+          "text": "I was numb with dread. I was literally shaking."
+        },
+        {
+          "text": "Roxy was practically shaking with anger."
+        },
+        {
+          "text": "Natalie fairly shook with laughter."
+        },
+        {
+          "text": "She got up, her legs shaking as well as her hands."
+        }
+      ],
+      "collocations": {
+        "adverb": ["badly", "furiously", "terribly"],
+        "preposition": ["from", "with"],
+        "phrases": [
+          "be shaking all over",
+          "be shaking from head to toe",
+          "be shaking in your boots"
+        ]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to sound unsteady, usually because you are nervous, upset or angry",
+      "sensetop": "shake (with something)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "‘Who are you?’ he asked, his voice shaking."
+        },
+        {
+          "text": "Her voice shook with emotion."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to shock or upset somebody very much",
+      "sensetop": "shake somebodyshake somebody up",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "He was badly shaken by the news of her death.",
+          "contextForm": "shake somebody"
+        },
+        {
+          "text": "The accident really shook her up.",
+          "contextForm": "shake somebody up"
+        },
+        {
+          "text": "Shaken up by the early goal against them, the team began to fight back."
+        }
+      ],
+      "topics": ["Feelings"]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to make a belief or an idea less certain",
+      "sensetop": "shake something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The incident had **shaken her faith** in him."
+        },
+        {
+          "text": "This announcement is bound to **shake the confidence** of the industry."
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to get rid of something",
+      "sensetop": "shake something offshake something",
+      "examples": [
+        {
+          "text": "I can't seem to shake off this cold.",
+          "contextForm": "shake something off"
+        },
+        {
+          "text": "She has finally managed to shake off her old wrist injury."
+        },
+        {
+          "text": "He couldn't shake the feeling that there was something wrong.",
+          "contextForm": "shake something"
+        },
+        {
+          "text": "She never seemed to completely shake off the dumb blonde image."
+        }
+      ]
+    },
+    {
+      "definition": "to cause people to question their basic beliefs about something",
+      "examples": [
+        {
+          "text": "This issue has shaken the foundations of French politics."
+        },
+        {
+          "text": "an event which rocked the foundations of British politics"
+        },
+        {
+          "text": "The scandal rocked the legal establishment to its foundations."
+        }
+      ]
+    },
+    {
+      "definition": "to be very frightened or nervous",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Feelings"]
+    },
+    {
+      "definition": "used to tell somebody to start to do something or to hurry",
+      "labels": "(old-fashioned, informal)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Old English sc(e)acan (verb), of Germanic origin."
+}

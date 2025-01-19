@@ -1,0 +1,202 @@
+{
+  "word": "dig",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪɡ/",
+        "audio": "d/dig/dig__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪɡz/",
+        "audio": "d/dig/digs__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dʌɡ/",
+        "audio": "d/dig/dug__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdɪɡɪŋ/",
+        "audio": "d/dig/digging__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪɡ/",
+        "audio": "d/dig/dig__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪɡz/",
+        "audio": "d/dig/digs__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dʌɡ/",
+        "audio": "d/dig/dug__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdɪɡɪŋ/",
+        "audio": "d/dig/digging__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "dig",
+      "heSheIt": "digs"
+    },
+    "pastSimple": "dug",
+    "pastParticiple": "dug",
+    "ingForm": "digging"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make a hole in the ground or to move soil from one place to another using your hands, a tool or a machine",
+      "sensetop": "dig + adv./prep.dig for somethingdig somethingdig something + adv./prep.",
+      "labels": "(British English)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I think I'll **do some digging** in the garden."
+        },
+        {
+          "text": "They dug deeper and deeper but still found nothing.",
+          "contextForm": "dig + adv./prep."
+        },
+        {
+          "text": "We could only dig down a few feet."
+        },
+        {
+          "text": "to dig for gold/treasure",
+          "contextForm": "dig for something"
+        },
+        {
+          "text": "to **dig a hole/trench/grave**",
+          "contextForm": "dig something"
+        },
+        {
+          "text": "I've been digging the garden."
+        },
+        {
+          "text": "They had obviously dug special tunnels beneath the city.",
+          "contextForm": "dig something + adv./prep."
+        },
+        {
+          "text": "The present entrance was dug through the soft limestone."
+        },
+        {
+          "text": "They were digging for buried treasure."
+        },
+        {
+          "text": "We found ourselves digging through solid clay."
+        },
+        {
+          "text": "We'll have to dig deep to get at the roots."
+        },
+        {
+          "text": "a freshly dug grave"
+        },
+        {
+          "text": "digging the foundations of a new hotel"
+        }
+      ],
+      "topics": ["Gardens"],
+      "collocations": {
+        "adverb": ["deep", "deeply", "down"],
+        "preposition": ["for", "into", "through"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to remove something from the ground with a tool",
+      "sensetop": "dig something",
+      "examples": [
+        {
+          "text": "I'll dig some potatoes for lunch."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to search in something in order to find an object in something",
+      "sensetop": "(+ adv./prep.)",
+      "examples": [
+        {
+          "text": "I dug around in my bag for a pen."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to approve of or like something very much",
+      "sensetop": "dig something",
+      "labels": "(old-fashioned, slang)",
+      "examples": []
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to search for information in a careful and detailed way",
+      "examples": [
+        {
+          "text": "You'll need to dig deep into the records to find the figures you want."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to try hard to provide the money, equipment, etc. that is needed",
+      "examples": [
+        {
+          "text": "We're asking you to dig deep for the earthquake victims."
+        }
+      ]
+    },
+    {
+      "definition": "to discover and reveal information about somebody that could damage them",
+      "examples": [
+        {
+          "text": "They hired private investigators to dig up dirt on their political opponents."
+        },
+        {
+          "text": "She has come to dig the dirt on her old rival."
+        }
+      ]
+    },
+    {
+      "definition": "to refuse to do something or to change your mind about something",
+      "examples": [
+        {
+          "text": "They dug in their heels and would not lower the price."
+        }
+      ]
+    },
+    {
+      "definition": "to spend a lot of your own money on something",
+      "examples": []
+    },
+    {
+      "definition": "to push your finger or your elbow into somebody’s side, especially to attract their attention",
+      "examples": []
+    },
+    {
+      "definition": "to do something that will have very harmful results for you",
+      "examples": []
+    },
+    {
+      "definition": "to get yourself into a bad situation that will be very difficult to get out of",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English: perhaps from Old English dīc ‘ditch’."
+}

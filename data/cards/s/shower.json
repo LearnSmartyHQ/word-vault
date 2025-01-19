@@ -1,0 +1,189 @@
+{
+  "word": "shower",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈʃaʊə(r)/",
+        "audio": "s/shower/shower__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈʃaʊər/",
+        "audio": "s/shower/shower__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a piece of equipment producing a flow of water that you stand under to wash yourself; the small room or part of a room that contains a shower",
+      "sensetop": "in the shower",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He's in the shower.",
+          "contextForm": "in the shower"
+        },
+        {
+          "text": "I've just got out of the shower."
+        },
+        {
+          "text": "an en-suite **shower room**"
+        },
+        {
+          "text": "a shower cubicle/curtain"
+        },
+        {
+          "text": "an electric shower"
+        },
+        {
+          "text": "a hotel room with bath and shower"
+        },
+        {
+          "text": "She was getting into the shower when the doorbell rang."
+        },
+        {
+          "text": "After the game, the boys hit the showers."
+        },
+        {
+          "text": "He could hear the shower running in the bathroom."
+        },
+        {
+          "text": "The plans include changing facilities and shower blocks."
+        }
+      ],
+      "topics": ["Houses and homes"],
+      "collocations": {
+        "adjective": ["cold", "cool", "hot"],
+        "verb + shower": ["grab", "have", "take"],
+        "shower + verb": ["run"],
+        "shower + noun": ["cubicle", "curtain", "room"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the act of washing yourself with a shower",
+      "labels": "(especially British English)(especially North American English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a hot/cold shower"
+        },
+        {
+          "text": "to **have a shower**"
+        },
+        {
+          "text": "to **take a shower**"
+        },
+        {
+          "text": "shower gel"
+        }
+      ],
+      "collocations": {
+        "adjective": ["cold", "cool", "hot"],
+        "verb + shower": ["grab", "have", "take"],
+        "shower + verb": ["run"],
+        "shower + noun": ["cubicle", "curtain", "room"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a short period of rain or snow",
+      "sensetop": "shower of something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "scattered/heavy showers"
+        },
+        {
+          "text": "April showers"
+        },
+        {
+          "text": "We were caught in a heavy shower."
+        },
+        {
+          "text": "There's a chance of showers this afternoon."
+        },
+        {
+          "text": "rain/snow showers"
+        },
+        {
+          "text": "wintry showers *(= of snow)*"
+        },
+        {
+          "text": "a shower of rain/hail/hailstones",
+          "contextForm": "shower of something"
+        }
+      ],
+      "topics": ["Weather"],
+      "collocations": {
+        "adjective": ["rain", "sleet", "snow"],
+        "verb + shower": ["brave"],
+        "shower + verb": ["die out"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a large number of things that arrive or fall together",
+      "examples": [
+        {
+          "text": "a **meteor shower**"
+        },
+        {
+          "text": "a shower of leaves"
+        },
+        {
+          "text": "a shower of sparks from the fire"
+        },
+        {
+          "text": "a shower of kisses"
+        },
+        {
+          "text": "He pushed the couch so that it banged against the wall and released a shower of dust."
+        },
+        {
+          "text": "The white seeds drifted down in a slow shower against the blue sky."
+        }
+      ],
+      "collocations": {
+        "adjective": ["dust", "meteor"],
+        "verb + shower": ["send"],
+        "preposition": ["shower of"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a party at which you give presents to a woman who is getting married or having a baby",
+      "labels": "(North American English)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "a **bridal/baby shower**"
+        },
+        {
+          "text": "I got a shower invitation from Katie."
+        },
+        {
+          "text": "A bridal shower is usually organized by the bridesmaids."
+        }
+      ],
+      "topics": ["Life stages"],
+      "collocations": {
+        "adjective": ["baby", "bridal", "wedding"],
+        "verb + shower": ["have", "throw", "give somebody"],
+        "shower + noun": ["invitation", "gift"],
+        "preposition": ["shower for"]
+      }
+    }
+  ],
+  "wordOrigin": "Old English scūr ‘light fall of rain, hail, etc.’, of Germanic origin; related to Dutch schoer and German Schauer."
+}

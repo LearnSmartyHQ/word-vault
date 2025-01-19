@@ -1,0 +1,194 @@
+{
+  "word": "screw",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/skruː/",
+        "audio": "s/screw/screw__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/skruːz/",
+        "audio": "s/screw/screws__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/skruːd/",
+        "audio": "s/screw/screwed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈskruːɪŋ/",
+        "audio": "s/screw/screwing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/skruː/",
+        "audio": "s/screw/screw__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/skruːz/",
+        "audio": "s/screw/screws__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/skruːd/",
+        "audio": "s/screw/screwed__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈskruːɪŋ/",
+        "audio": "s/screw/screwing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "screw",
+      "heSheIt": "screws"
+    },
+    "pastSimple": "screwed",
+    "pastParticiple": "screwed",
+    "ingForm": "screwing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to fasten one thing to another or make something tight with a screw or screws",
+      "sensetop": "screw something + adv./prep.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The bookcase is screwed to the wall."
+        },
+        {
+          "text": "You need to screw all the parts together."
+        },
+        {
+          "text": "Now screw down the lid."
+        },
+        {
+          "text": "She screwed the lock into the door."
+        },
+        {
+          "text": "The bed was screwed to the floor."
+        }
+      ],
+      "topics": ["Engineering"],
+      "collocations": {
+        "adverb": ["firmly", "tightly", "down"],
+        "preposition": ["into", "on", "onto"],
+        "phrases": ["screw something in place", "screw something into position"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to turn something round and round in order to fasten it in place",
+      "sensetop": "screw something + adv./prep.screw something + adj.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She screwed the cap back on the jar.",
+          "contextForm": "screw something + adv./prep."
+        },
+        {
+          "text": "Screw the bolt tight.",
+          "contextForm": "screw something + adj."
+        }
+      ],
+      "topics": ["Engineering"],
+      "collocations": {
+        "adverb": ["firmly", "tightly", "down"],
+        "preposition": ["into", "on", "onto"],
+        "phrases": ["screw something in place", "screw something into position"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to be attached by screwing",
+      "sensetop": "+ adv./prep.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The bulb should just screw into the socket."
+        },
+        {
+          "text": "The lid simply screws on."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to use your hand to make something, especially a piece of paper, form a tight ball",
+      "sensetop": "screw something up (into something)screw something (up) into something",
+      "examples": [
+        {
+          "text": "I screwed up the letter and threw it into the fire.",
+          "contextForm": "screw something up (into something)"
+        },
+        {
+          "text": "Screw the foil into a little ball.",
+          "contextForm": "screw something (up) into something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to cheat somebody, especially by making them pay too much money for something",
+      "sensetop": "screw somebodyscrew somebody for something",
+      "labels": "(slang)",
+      "examples": [
+        {
+          "text": "We've been screwed.",
+          "contextForm": "screw somebody"
+        },
+        {
+          "text": "How much did they screw you for *(= how much did you have to pay)*?",
+          "contextForm": "screw somebody for something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to force somebody to give you something",
+      "sensetop": "screw something from/out of somebody",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "They screwed the money out of her by threats."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to have sex with somebody",
+      "sensetop": "screw (somebody)",
+      "labels": "(taboo, slang)",
+      "examples": []
+    },
+    {
+      "definition": "to be a sensible person",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "an offensive way of showing that you are annoyed or do not care about somebody/something",
+      "labels": "(taboo, offensive, slang)",
+      "examples": []
+    },
+    {
+      "definition": "to force yourself to be brave enough to do something",
+      "examples": [
+        {
+          "text": "I finally screwed up my courage and went to the dentist."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": null
+}

@@ -1,0 +1,107 @@
+{
+  "word": "bench",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bentʃ/",
+        "audio": "b/bench/bench__gb_5.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bentʃ/",
+        "audio": "b/bench/bench__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a long seat for two or more people, usually made of wood",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a park bench"
+        }
+      ],
+      "topics": ["Gardens"],
+      "collocations": {
+        "adjective": ["empty", "long", "narrow"],
+        "verb + bench": ["sit (down) on"],
+        "bench + noun": ["seat"],
+        "preposition": ["on a/​the bench"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a judge in court or the seat where he/she sits; the position of being a judge or magistrate",
+      "labels": "(law)",
+      "examples": [
+        {
+          "text": "His lawyer turned to address the bench."
+        },
+        {
+          "text": "She has recently been appointed to the bench."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "(in the British parliament) a seat where a particular group of politicians sit",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "There was cheering from the Opposition benches."
+        }
+      ],
+      "topics": ["Politics"],
+      "collocations": {
+        "adjective": ["government", "Opposition", "Conservative"],
+        "verb + bench": ["be on", "sit on"],
+        "preposition": ["from the… benchs", "on the… benchs"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "the seats where players sit when they are not playing in the game",
+      "labels": "(sport)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the substitutes’ bench"
+        },
+        {
+          "text": "He started the game on the bench but finished as the team’s top scorer."
+        },
+        {
+          "text": "He's sick of spending every game on the bench."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"],
+      "collocations": {
+        "adjective": ["empty", "long", "narrow"],
+        "verb + bench": ["sit (down) on"],
+        "bench + noun": ["seat"],
+        "preposition": ["on a/​the bench"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a long heavy table used for doing practical jobs, working with tools, etc.",
+      "examples": [
+        {
+          "text": "a carpenter’s bench"
+        }
+      ],
+      "collocations": {
+        "adjective": ["work", "carpenter’s", "lab"],
+        "preposition": ["at a/​the bench"]
+      }
+    }
+  ],
+  "wordOrigin": "Old English benc, of Germanic origin; related to Dutch bank and German Bank."
+}

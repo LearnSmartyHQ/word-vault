@@ -1,0 +1,155 @@
+{
+  "word": "transform",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/trænsˈfɔːm/",
+        "audio": "t/transform/transform__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/trænsˈfɔːmz/",
+        "audio": "t/transform/transforms__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/trænsˈfɔːmd/",
+        "audio": "t/transform/transformed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/trænsˈfɔːmɪŋ/",
+        "audio": "t/transform/transforming__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/trænsˈfɔːrm/",
+        "audio": "t/transform/transform__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/trænsˈfɔːrmz/",
+        "audio": "t/transform/transforms__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/trænsˈfɔːrmd/",
+        "audio": "t/transform/transformed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/trænsˈfɔːrmɪŋ/",
+        "audio": "t/transform/transforming__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "transform",
+      "heSheIt": "transforms"
+    },
+    "pastSimple": "transformed",
+    "pastParticiple": "transformed",
+    "ingForm": "transforming"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to change the form of something; to change in form",
+      "sensetop": "transform something/somebody (into something)transform something/somebody from something (into something)transform (into something)transform from something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The photochemical reactions transform the light into electrical impulses.",
+          "contextForm": "transform something/somebody (into something)"
+        },
+        {
+          "text": "Materials are transformed from their original state into other forms.",
+          "contextForm": "transform something/somebody from something (into something)"
+        },
+        {
+          "text": "I am convinced that the electric power industry is transforming.",
+          "contextForm": "transform (into something)"
+        },
+        {
+          "text": "The way we work, play and communicate every day has completely transformed from a decade ago.",
+          "contextForm": "transform from something"
+        }
+      ],
+      "synonyms": "convert",
+      "collocations": {
+        "adverb": ["considerably", "dramatically", "fundamentally"],
+        "verb + transform": ["help (to)", "be used to"],
+        "preposition": ["from", "into"],
+        "phrases": [
+          "the ability to transform somebody/​something",
+          "the power to transform somebody/​something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to completely change the appearance or character of something/somebody, especially so that it is better; to completely change in appearance or character",
+      "sensetop": "transform something/somebody/yourselftransform something/somebody/yourself into somethingtransform something/somebody/yourself from something into somethingtransform (from something) (into/to something)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "A new colour scheme will transform your bedroom.",
+          "contextForm": "transform something/somebody/yourself"
+        },
+        {
+          "text": "It was an event that would transform my life."
+        },
+        {
+          "text": "During the performance the artist transforms herself with the aid of make-up and a wig."
+        },
+        {
+          "text": "London's Docklands have been radically transformed over the last 20 years."
+        },
+        {
+          "text": "He seems to have been miraculously transformed into a first-class player.",
+          "contextForm": "transform something/somebody/yourself into something"
+        },
+        {
+          "text": "The place was transformed from a quiet farming village into a busy port.",
+          "contextForm": "transform something/somebody/yourself from something into something"
+        },
+        {
+          "text": "The surface of the lake has completely transformed from bright green to blood red.",
+          "contextForm": "transform (from something) (into/to something)"
+        },
+        {
+          "text": "The riots radically transformed the situation."
+        },
+        {
+          "text": "Things cannot be transformed overnight."
+        },
+        {
+          "text": "the power of religion to transform our hearts and minds"
+        },
+        {
+          "text": "The company has been transformed from a family business to a multi-million-pound operation."
+        }
+      ],
+      "collocations": {
+        "adverb": ["considerably", "dramatically", "fundamentally"],
+        "verb + transform": ["help (to)", "be used to"],
+        "preposition": ["from", "into"],
+        "phrases": [
+          "the ability to transform somebody/​something",
+          "the power to transform somebody/​something"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English (as a verb): from Old French transformer or Latin transformare (see trans-, form)."
+}

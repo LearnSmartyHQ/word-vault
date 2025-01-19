@@ -1,0 +1,84 @@
+{
+  "word": "allege",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈledʒ/",
+        "audio": "a/allege/allege__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈledʒɪz/",
+        "audio": "a/allege/alleges__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈledʒd/",
+        "audio": "a/allege/alleged__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈledʒɪŋ/",
+        "audio": "a/allege/alleging__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈledʒ/",
+        "audio": "a/allege/allege__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈledʒɪz/",
+        "audio": "a/allege/alleges__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈledʒd/",
+        "audio": "a/allege/alleged__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈledʒɪŋ/",
+        "audio": "a/allege/alleging__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "allege",
+      "heSheIt": "alleges"
+    },
+    "pastSimple": "alleged",
+    "pastParticiple": "alleged",
+    "ingForm": "alleging"
+  },
+  "definitions": [
+    {
+      "definition": "to state something as a fact but without giving proof",
+      "sensetop": "allege (that)…it is alleged (that)…be alleged to be, have, etc. somethingallege something",
+      "examples": [
+        {
+          "text": "The prosecution alleges (that) she was driving carelessly.",
+          "contextForm": "allege (that)…"
+        },
+        {
+          "text": "It is alleged that he mistreated the prisoners.",
+          "contextForm": "it is alleged (that)…"
+        },
+        {
+          "text": "He is alleged to have mistreated the prisoners.",
+          "contextForm": "be alleged to be, have, etc. something"
+        },
+        {
+          "text": "This procedure should be followed in cases where dishonesty has been alleged.",
+          "contextForm": "allege something"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English (in the sense ‘declare on oath’): from Old French esligier, based on Latin lis, lit- ‘lawsuit’; confused in sense with Latin allegare ‘allege’."
+}

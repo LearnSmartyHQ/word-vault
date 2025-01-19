@@ -1,0 +1,175 @@
+{
+  "word": "fancy",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfænsi/",
+        "audio": "f/fancy/fancy__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfænsiz/",
+        "audio": "f/fancy/fancies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfænsid/",
+        "audio": "f/fancy/fancied__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfænsiɪŋ/",
+        "audio": "f/fancy/fancying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfænsi/",
+        "audio": "f/fancy/fancy__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfænsiz/",
+        "audio": "f/fancy/fancies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfænsid/",
+        "audio": "f/fancy/fancied__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfænsiɪŋ/",
+        "audio": "f/fancy/fancying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "fancy",
+      "heSheIt": "fancies"
+    },
+    "pastSimple": "fancied",
+    "pastParticiple": "fancied",
+    "ingForm": "fancying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to want something or want to do something",
+      "sensetop": "fancy somethingfancy doing something",
+      "labels": "(British English, informal)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Fancy a drink?",
+          "contextForm": "fancy something"
+        },
+        {
+          "text": "I fancied a change of scene."
+        },
+        {
+          "text": "She didn't fancy *(= did not like)* the idea of going home in the dark."
+        },
+        {
+          "text": "Do you fancy going out this evening?",
+          "contextForm": "fancy doing something"
+        }
+      ],
+      "synonyms": "feel like"
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to be sexually attracted to somebody",
+      "sensetop": "fancy somebody",
+      "labels": "(British English, informal)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I think she fancies me."
+        }
+      ],
+      "topics": ["Family and relationships", "Feelings"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to think that you are very popular, attractive or intelligent",
+      "sensetop": "fancy yourself",
+      "labels": "(British English, informal, disapproving)",
+      "examples": [
+        {
+          "text": "He started to chat to me and I could tell that he really fancied himself."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to like the idea of being something or to believe, often wrongly, that you are something",
+      "sensetop": "fancy yourself (as) somethingfancy yourself + adv./prep.",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "She fancies herself (as) a serious actress.",
+          "contextForm": "fancy yourself (as) something"
+        },
+        {
+          "text": "He fancied himself in love with me, the silly boy.",
+          "contextForm": "fancy yourself + adv./prep."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "used to show that you are surprised or shocked by something",
+      "sensetop": "fancy doing somethingfancy something",
+      "labels": "(informal, becoming old-fashioned)",
+      "examples": [
+        {
+          "text": "Fancy! She's never been in a plane before."
+        },
+        {
+          "text": "Fancy meeting you here!",
+          "contextForm": "fancy doing something"
+        },
+        {
+          "text": "‘She remembered my name after all those years.’ ‘**Fancy that!**’",
+          "contextForm": "fancy something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to think that somebody/something will win or be successful at something, especially in a race",
+      "sensetop": "fancy somebody/something",
+      "labels": "(British English)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Which horse do you fancy in the next race?"
+        },
+        {
+          "text": "He's hoping to get the job but I don't **fancy his chances**."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to believe or imagine something",
+      "sensetop": "fancy (that)…",
+      "labels": "(literary)",
+      "examples": [
+        {
+          "text": "She fancied (that) she could hear footsteps."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: contraction of fantasy."
+}

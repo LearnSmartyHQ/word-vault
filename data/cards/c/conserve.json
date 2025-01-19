@@ -1,0 +1,88 @@
+{
+  "word": "conserve",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kənˈsɜːv/",
+        "audio": "x/conserve/xconserve__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kənˈsɜːvz/",
+        "audio": "x/conserve/xconserves__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kənˈsɜːvd/",
+        "audio": "x/conserve/xconserved__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kənˈsɜːvɪŋ/",
+        "audio": "x/conserve/xconserving__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kənˈsɜːrv/",
+        "audio": "x/conserve/xconserve__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kənˈsɜːrvz/",
+        "audio": "x/conserve/xconserves__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kənˈsɜːrvd/",
+        "audio": "x/conserve/xconserved__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kənˈsɜːrvɪŋ/",
+        "audio": "x/conserve/xconserving__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "conserve",
+      "heSheIt": "conserves"
+    },
+    "pastSimple": "conserved",
+    "pastParticiple": "conserved",
+    "ingForm": "conserving"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to protect something and prevent it from being changed or destroyed",
+      "sensetop": "conserve something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "new laws to conserve wildlife in the area"
+        }
+      ],
+      "topics": ["The environment"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to use as little of something as possible so that it lasts a long time",
+      "sensetop": "conserve something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Help to conserve energy by insulating your home."
+        },
+        {
+          "text": "Renewable energy resources can help conserve fossil fuels and reduce carbon emissions."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French conserver (verb), conserve (noun), from Latin conservare ‘to preserve’, from con- ‘together’ + servare ‘to keep’."
+}

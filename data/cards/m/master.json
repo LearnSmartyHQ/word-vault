@@ -1,0 +1,269 @@
+{
+  "word": "master",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmɑːstə(r)/",
+        "audio": "m/master/master__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmæstər/",
+        "audio": "m/master/master__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a man who has people working for him, often as servants in his home",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They lived in fear of their master."
+        },
+        {
+          "text": "Their relationship was one of master and servant."
+        },
+        {
+          "text": "The visitor asked to see the master of the house."
+        },
+        {
+          "text": "Their survival depended on obeying their master."
+        },
+        {
+          "text": "corrupt people who would serve any master"
+        }
+      ],
+      "collocations": {
+        "adjective": ["political", "colonial", "slave"],
+        "verb + master": ["obey", "please", "serve"],
+        "preposition": ["master of"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a person who is in charge of an organization or group",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The police had to obey their political masters."
+        },
+        {
+          "text": "The city's new masters patrol deserted streets."
+        },
+        {
+          "text": "those titans of industry, the masters of the universe"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a person who is able to control something",
+      "sensetop": "master of something",
+      "examples": [
+        {
+          "text": "She was no longer master of her own future."
+        },
+        {
+          "text": "Fate can be a cruel master."
+        },
+        {
+          "text": "We remain masters of our fate."
+        }
+      ],
+      "collocations": {
+        "adjective": ["political", "colonial", "slave"],
+        "verb + master": ["obey", "please", "serve"],
+        "preposition": ["master of"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a person who shows a lot of skill at something",
+      "sensetop": "master of somethingmaster at doing something",
+      "examples": [
+        {
+          "text": "a master of disguise",
+          "contextForm": "master of something"
+        },
+        {
+          "text": "a master of her craft"
+        },
+        {
+          "text": "a master of the serve-and-volley game"
+        },
+        {
+          "text": "a master at managing money",
+          "contextForm": "master at doing something"
+        },
+        {
+          "text": "Chaplin, the grand master of physical comedy"
+        },
+        {
+          "text": "Like most masters of her craft, Bowery wasn't appreciated in her time."
+        },
+        {
+          "text": "The fugue was out of fashion when Bach became its master."
+        }
+      ],
+      "collocations": {
+        "adjective": ["acknowledged", "great", "undisputed"],
+        "master + noun": ["builder", "craftsman", "painter"],
+        "preposition": ["master of"],
+        "phrases": [
+          "be a past master at something",
+          "be a past master of something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a famous painter who lived in the past",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "an exhibition of work by the French master, Monet"
+        },
+        {
+          "text": "the great masters of Impressionism"
+        },
+        {
+          "text": "This portrait is the work of an acknowledged master."
+        }
+      ],
+      "topics": ["Art"]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "a second university degree, or, in Scotland, a first university degree, such as an MA",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "He has a Master's in Business Administration."
+        },
+        {
+          "text": "She holds a master's degree in journalism."
+        },
+        {
+          "text": "He did a Master's at Hull University."
+        },
+        {
+          "text": "She got her Master's last year."
+        }
+      ],
+      "topics": ["Education"],
+      "collocations": {
+        "verb + Master’s": ["do", "study for", "take"],
+        "Master’s + noun": ["degree", "thesis"],
+        "preposition": ["master in"]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "a person who has a master’s degree",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "a **Master of Arts/Science**"
+        }
+      ],
+      "topics": ["Education"],
+      "collocations": {
+        "verb + Master’s": ["do", "study for", "take"],
+        "Master’s + noun": ["degree", "thesis"],
+        "preposition": ["master in"]
+      }
+    },
+    {
+      "senseNumber": "8",
+      "definition": "the owner of an animal, especially a dog or horse",
+      "examples": [
+        {
+          "text": "The dog saved its master's life."
+        },
+        {
+          "text": "Even the animals knew their masters were excited."
+        },
+        {
+          "text": "The horses watched their masters placidly."
+        }
+      ],
+      "collocations": {
+        "adjective": ["political", "colonial", "slave"],
+        "verb + master": ["obey", "please", "serve"],
+        "preposition": ["master of"]
+      }
+    },
+    {
+      "senseNumber": "9",
+      "definition": "a male teacher at a school, especially a private school",
+      "labels": "(British English, old-fashioned)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "the physics master"
+        },
+        {
+          "text": "He was ballet master at several dance schools."
+        }
+      ],
+      "topics": ["Education"]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "the captain of a ship that transports goods",
+      "examples": []
+    },
+    {
+      "senseNumber": "11",
+      "definition": "a version of a recording from which copies are made",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "the **master copy**"
+        }
+      ],
+      "topics": ["Film and theatre"]
+    },
+    {
+      "senseNumber": "12",
+      "definition": "a title used when speaking to or about a boy who is too young to be called Mr (also used in front of the name on an envelope, etc.)",
+      "labels": "(old-fashioned)",
+      "examples": []
+    },
+    {
+      "senseNumber": "13",
+      "definition": "(in the UK) the title of the head of some schools and university colleges",
+      "examples": [
+        {
+          "text": "the Master of Wolfson College"
+        }
+      ]
+    },
+    {
+      "senseNumber": "14",
+      "definition": "a title used for speaking to or about some religious teachers or leaders",
+      "examples": []
+    },
+    {
+      "definition": "to be free to make your own decisions rather than being told what to do by somebody else",
+      "examples": [],
+      "topics": ["Preferences and decisions"]
+    },
+    {
+      "definition": "to support two different parties, principles, etc. at the same time",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Old English mæg(i)ster (later reinforced by Old French maistre), from Latin magister; probably related to magis ‘more’."
+}

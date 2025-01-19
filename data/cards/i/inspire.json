@@ -1,0 +1,144 @@
+{
+  "word": "inspire",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈspaɪə(r)/",
+        "audio": "i/inspire/inspire__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈspaɪəz/",
+        "audio": "i/inspire/inspires__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈspaɪəd/",
+        "audio": "i/inspire/inspired__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈspaɪərɪŋ/",
+        "audio": "i/inspire/inspiring__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈspaɪər/",
+        "audio": "i/inspire/inspire__us_4.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈspaɪərz/",
+        "audio": "i/inspire/inspires__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈspaɪərd/",
+        "audio": "i/inspire/inspired__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈspaɪərɪŋ/",
+        "audio": "i/inspire/inspiring__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "inspire",
+      "heSheIt": "inspires"
+    },
+    "pastSimple": "inspired",
+    "pastParticiple": "inspired",
+    "ingForm": "inspiring"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to give somebody the desire, confidence or enthusiasm to do something well",
+      "sensetop": "inspire somebodyinspire somebody with somethinginspire somebody to somethinginspire somebody to do something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The actors' enthusiasm inspired the kids.",
+          "contextForm": "inspire somebody"
+        },
+        {
+          "text": "The actors inspired the kids with their enthusiasm.",
+          "contextForm": "inspire somebody with something"
+        },
+        {
+          "text": "His superb play inspired the team to a thrilling 5–0 win.",
+          "contextForm": "inspire somebody to something"
+        },
+        {
+          "text": "We hope to inspire others to pursue their dreams.",
+          "contextForm": "inspire somebody to do something"
+        },
+        {
+          "text": "The director inspired everybody on the project."
+        },
+        {
+          "text": "As a teacher, she has inspired generations of students."
+        },
+        {
+          "text": "He was inspired to write the song following the birth of his daughter."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to give somebody the idea for something, especially something artistic or that shows imagination",
+      "sensetop": "inspire something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The choice of decor was inspired by a trip to India."
+        },
+        {
+          "text": "His tragic story later inspired a Hollywood film."
+        },
+        {
+          "text": "Her paintings were clearly inspired by Monet’s work."
+        },
+        {
+          "text": "It was this trip that helped to inspire his interest in Eastern thought."
+        }
+      ],
+      "topics": ["Literature and writing", "Art"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to make somebody have a particular feeling or emotion",
+      "sensetop": "inspire somebody with somethinginspire something in somebody",
+      "examples": [
+        {
+          "text": "Henry did not **inspire confidence** as a figure of authority."
+        },
+        {
+          "text": "Her work didn't exactly **inspire me with confidence**.",
+          "contextForm": "inspire somebody with something"
+        },
+        {
+          "text": "As a general, he inspired great loyalty in his troops.",
+          "contextForm": "inspire something in somebody"
+        },
+        {
+          "text": "The council's record in this area inspires little respect."
+        },
+        {
+          "text": "She is a young woman who inspires trust in everyone she meets."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English enspire, from Old French inspirer, from Latin inspirare ‘breathe or blow into’ from in- ‘into’ + spirare ‘breathe’. The word was originally used of a divine or supernatural being, in the sense ‘impart a truth or idea to someone’."
+}

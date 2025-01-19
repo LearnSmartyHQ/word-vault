@@ -1,0 +1,63 @@
+{
+  "word": "interior",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈtɪəriə(r)/",
+        "audio": "i/interior/interior__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈtɪriər/",
+        "audio": "i/interior/interior__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the inside part of something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the interior of a building/a car"
+        },
+        {
+          "text": "The original interior of the hotel has been replaced."
+        }
+      ],
+      "topics": ["Houses and homes"],
+      "collocations": {
+        "adjective": ["original", "dark", "dim"],
+        "verb + interior": ["decorate", "design", "redecorate"],
+        "interior + noun": ["decorator", "designer"],
+        "preposition": ["in the interior"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the central part of a country or continent that is a long way from the coast",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "an expedition into the interior of Australia"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a country’s own affairs rather than those that involve other countries",
+      "examples": [
+        {
+          "text": "the **Department/Minister of the Interior**"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late 15th cent.: from Latin, ‘inner’, comparative adjective from inter ‘within’."
+}

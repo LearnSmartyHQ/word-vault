@@ -1,0 +1,92 @@
+{
+  "word": "enquire",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈkwaɪə(r)/",
+        "audio": "e/enquire/enquire__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈkwaɪəz/",
+        "audio": "e/enquire/enquires__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈkwaɪəd/",
+        "audio": "e/enquire/enquired__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈkwaɪərɪŋ/",
+        "audio": "e/enquire/enquiring__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈkwaɪər/",
+        "audio": "e/enquire/enquire__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈkwaɪərz/",
+        "audio": "e/enquire/enquires__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈkwaɪərd/",
+        "audio": "e/enquire/enquired__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈkwaɪərɪŋ/",
+        "audio": "e/enquire/enquiring__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "enquire",
+      "heSheIt": "enquires"
+    },
+    "pastSimple": "enquired",
+    "pastParticiple": "enquired",
+    "ingForm": "enquiring"
+  },
+  "definitions": [
+    {
+      "definition": "to ask somebody for some information",
+      "sensetop": "enquire about somebody/somethingenquire as to somebody/somethingenquire why, where, etc…enquire something+ speech",
+      "examples": [
+        {
+          "text": "I called the garage to enquire about progress on the repairs.",
+          "contextForm": "enquire about somebody/something"
+        },
+        {
+          "text": "She enquired as to your whereabouts.",
+          "contextForm": "enquire as to somebody/something"
+        },
+        {
+          "text": "Might I enquire why you have not mentioned this until now?",
+          "contextForm": "enquire why, where, etc…"
+        },
+        {
+          "text": "He enquired her name.",
+          "contextForm": "enquire something"
+        },
+        {
+          "text": "‘What is your name?’ he enquired.",
+          "contextForm": "+ speech"
+        }
+      ],
+      "collocations": {
+        "adverb": ["further", "pleasantly", "politely"],
+        "preposition": ["about", "after", "as to"]
+      }
+    }
+  ],
+  "wordOrigin": null
+}

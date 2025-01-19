@@ -1,0 +1,157 @@
+{
+  "word": "temperature",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtemprətʃə(r)/",
+        "audio": "t/temperature/temperature__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtemprətʃər//ˈtemprətʃʊr/",
+        "audio": "t/temperature/temperature__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the measurement in degrees of how hot or cold a thing or place is",
+      "sensetop": "at a temperature",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**high/low temperatures**"
+        },
+        {
+          "text": "cold/warm temperatures"
+        },
+        {
+          "text": "a **drop/rise in temperature**"
+        },
+        {
+          "text": "The temperature has risen (by) five degrees."
+        },
+        {
+          "text": "Some places have had temperatures in the 40s *(= over 40° )."
+        },
+        {
+          "text": "Chemical reactions take place more slowly at low temperatures.",
+          "contextForm": "at a temperature"
+        },
+        {
+          "text": "the water/air/surface temperature"
+        },
+        {
+          "text": "Heat the oven to a temperature of 200°C *(= degrees )."
+        },
+        {
+          "text": "The climate is generally mild, and freezing temperatures are almost unknown."
+        },
+        {
+          "text": "Overnight the temperature fell as low as -30°C."
+        },
+        {
+          "text": "Temperatures below freezing are common here."
+        },
+        {
+          "text": "The fish prefer a temperature of 24–27°C."
+        },
+        {
+          "text": "The desert is a place of temperature extremes."
+        },
+        {
+          "text": "The increase in the mean global temperature will be about 0.3°C per decade."
+        },
+        {
+          "text": "These instruments can withstand temperatures of 180°C."
+        },
+        {
+          "text": "This plant grows well in temperatures above 55°F."
+        },
+        {
+          "text": "Water temperatures ranged from 12 to 15°C."
+        },
+        {
+          "text": "Yesterday the town reached its highest ever February temperature."
+        },
+        {
+          "text": "the boiling temperature of the solvent"
+        },
+        {
+          "text": "the surface temperature of our planet"
+        }
+      ],
+      "topics": ["Weather"],
+      "collocations": {
+        "adjective": ["high", "hot", "warm"],
+        "verb + temperature": ["have", "heat something to", "increase"],
+        "temperature + verb": ["go up", "increase", "rise"],
+        "temperature + noun": ["conditions", "change", "difference"],
+        "preposition": [
+          "at… temperature",
+          "in a temperature",
+          "temperature above"
+        ],
+        "phrases": [
+          "a change in temperature",
+          "a variation in temperature",
+          "a range of temperature"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the measurement of how hot somebody’s body is",
+      "labels": "(British English)North American English",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **take somebody’s temperature** *(= measure the temperature of somebody’s body using a special instrument)*"
+        },
+        {
+          "text": "Does he **have a temperature** *(= is it higher than normal, because of illness)*?"
+        },
+        {
+          "text": "He's in bed with a temperature of 40°."
+        },
+        {
+          "text": "When your **body temperature** rises, your body tries to compensate."
+        },
+        {
+          "text": "She's **running a temperature** *(= it is higher than normal)*."
+        },
+        {
+          "text": "They used ice packs to bring down her temperature."
+        }
+      ],
+      "topics": ["Health problems"],
+      "collocations": {
+        "adjective": ["high", "slight"],
+        "verb + temperature": ["have", "run", "take"],
+        "temperature + verb": ["go up", "rise", "come down"],
+        "preposition": ["temperature of"]
+      }
+    },
+    {
+      "definition": "to increase/decrease the amount of excitement, emotion, etc. in a situation",
+      "examples": [
+        {
+          "text": "His angry refusal to agree raised the temperature of the meeting."
+        },
+        {
+          "text": "The government tried to lower the political temperature by agreeing to some of the demands."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from French température or Latin temperatura, from temperare ‘restrain’. The word originally denoted the state of being tempered or mixed, later becoming synonymous with temperament. The modern sense dates from the late 17th cent."
+}

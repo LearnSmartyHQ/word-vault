@@ -1,0 +1,375 @@
+{
+  "word": "sink",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/sɪŋk/",
+        "audio": "s/sink/sink__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/sɪŋks/",
+        "audio": "s/sink/sinks__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/sæŋk/",
+        "audio": "s/sink/sank__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/sʌŋk/",
+        "audio": "s/sink/sunk__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsɪŋkɪŋ/",
+        "audio": "s/sink/sinking__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/sɪŋk/",
+        "audio": "s/sink/sink__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/sɪŋks/",
+        "audio": "s/sink/sinks__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/sæŋk/",
+        "audio": "s/sink/sank__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/sʌŋk/",
+        "audio": "s/sink/sunk__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsɪŋkɪŋ/",
+        "audio": "s/sink/sinking__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "sink",
+      "heSheIt": "sinks"
+    },
+    "pastSimple": "sank",
+    "pastParticiple": "sunk",
+    "ingForm": "sinking"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to go down below the surface or towards the bottom of a liquid or soft substance",
+      "sensetop": "sink into something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The ship sank to the bottom of the sea."
+        },
+        {
+          "text": "The submarine sank after an explosion."
+        },
+        {
+          "text": "We're sinking!"
+        },
+        {
+          "text": "The wheels started to sink into the mud.",
+          "contextForm": "sink into something"
+        },
+        {
+          "text": "The little boat sank beneath the waves."
+        },
+        {
+          "text": "It seemed as though the ship had sunk without trace."
+        },
+        {
+          "text": "Duane was in waist-deep and sinking fast."
+        },
+        {
+          "text": "He sank up to his knees in the mud."
+        },
+        {
+          "text": "Our feet sank deep into the soft sand as we walked."
+        }
+      ],
+      "collocations": {
+        "adverb": ["slowly", "fast", "down"],
+        "verb + sink": ["begin to", "start to"],
+        "preposition": ["below", "beneath", "into"],
+        "phrases": [
+          "sink like a stone",
+          "sink or swim",
+          "sink to the bottom (of something)"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to damage a boat or ship so that it goes below the surface of the sea, etc.",
+      "sensetop": "sink something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The battleship was sunk by a torpedo."
+        },
+        {
+          "text": "Bombs sank all four carriers."
+        },
+        {
+          "text": "Five brothers all died when their ship was sunk."
+        }
+      ],
+      "topics": ["War and conflict"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to move downwards, especially by falling or sitting down",
+      "sensetop": "+ adv./prep.",
+      "examples": [
+        {
+          "text": "I sank into an armchair."
+        },
+        {
+          "text": "She **sank back** into her seat, exhausted."
+        },
+        {
+          "text": "The old man had **sunk to his knees**."
+        },
+        {
+          "text": "He sank lower into his chair."
+        },
+        {
+          "text": "I sank gratefully into the warm, dry bed."
+        },
+        {
+          "text": "She sank gracefully down onto a cushion at his feet."
+        },
+        {
+          "text": "She sank to the ground, exhausted."
+        }
+      ],
+      "synonyms": "collapse",
+      "collocations": {
+        "adverb": ["wearily", "gratefully", "gracefully"],
+        "preposition": ["into", "onto"],
+        "phrases": [
+          "sink below the horizon",
+          "sink to the floor",
+          "sink to the ground"
+        ]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to move slowly downwards",
+      "examples": [
+        {
+          "text": "The sun was sinking in the west."
+        },
+        {
+          "text": "The sun had sunk below the horizon."
+        },
+        {
+          "text": "The foundations of the building are starting to sink."
+        }
+      ],
+      "collocations": {
+        "adverb": ["wearily", "gratefully", "gracefully"],
+        "preposition": ["into", "onto"],
+        "phrases": [
+          "sink below the horizon",
+          "sink to the floor",
+          "sink to the ground"
+        ]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to decrease in amount, volume, strength, etc.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The pound has sunk to its lowest recorded level against the dollar."
+        },
+        {
+          "text": "He is clearly sinking fast *(= getting weaker quickly and will soon die)*."
+        },
+        {
+          "text": "The project gradually sank into oblivion."
+        },
+        {
+          "text": "The airline industry is sinking under the weight of its losses."
+        }
+      ],
+      "topics": ["Change, cause and effect"],
+      "collocations": {
+        "adverb": ["quickly", "rapidly", "gradually"],
+        "preposition": ["into"],
+        "phrases": ["sink to a new low", "sink to new lows"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to become quieter",
+      "examples": [
+        {
+          "text": "Her voice sank to a whisper."
+        }
+      ],
+      "synonyms": "fade"
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to make a deep hole in the ground",
+      "sensetop": "sink something",
+      "examples": [
+        {
+          "text": "to **sink a well/shaft/mine**"
+        }
+      ],
+      "synonyms": "drill"
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to place something in the ground by digging",
+      "sensetop": "sink something (+ adv./prep.)",
+      "examples": [
+        {
+          "text": "to sink a post into the ground"
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to prevent somebody or somebody’s plans from succeeding",
+      "sensetop": "sink something/somebody",
+      "labels": "(informal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "I think I've just sunk my chances of getting the job."
+        },
+        {
+          "text": "If the car breaks down, we'll **be sunk** *(= have serious problems)*."
+        }
+      ],
+      "topics": ["Difficulty and failure"]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to hit a ball into a hole in golf or snooker",
+      "sensetop": "sink something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "He sank a 12-foot putt to win the match."
+        }
+      ],
+      "topics": ["Sports: other sports"]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to drink something quickly, especially a large amount of alcohol",
+      "sensetop": "sink something",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "They sank three pints each in 10 minutes."
+        }
+      ]
+    },
+    {
+      "definition": "to be in a state of unhappiness or deep thought",
+      "examples": [
+        {
+          "text": "She just sat there, sunk in thought."
+        }
+      ]
+    },
+    {
+      "definition": "used to talk about people who leave an organization, a company, etc. that is having difficulties, without caring about the people who are left",
+      "labels": "(humorous, disapproving)",
+      "examples": []
+    },
+    {
+      "definition": "used to say that somebody suddenly feels sad or depressed about something",
+      "examples": [
+        {
+          "text": "My heart sank when I saw how much work there was left."
+        },
+        {
+          "text": "She watched him go **with a sinking heart**."
+        }
+      ]
+    },
+    {
+      "definition": "to agree to forget about your disagreements",
+      "examples": [
+        {
+          "text": "We need to sink our differences and present a united opposition to the plan."
+        }
+      ],
+      "topics": ["Discussion and agreement"]
+    },
+    {
+      "definition": "an unpleasant feeling that you get when you realize that something bad has happened or is going to happen",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "I had a horrible sinking feeling when I saw the ambulance outside the house."
+        }
+      ]
+    },
+    {
+      "definition": "to be in a situation where you will either succeed by your own efforts or fail completely",
+      "examples": [
+        {
+          "text": "The new students were just left to sink or swim."
+        },
+        {
+          "text": "In a situation like this, you either sink or swim."
+        }
+      ],
+      "topics": ["Success", "Difficulty and failure"]
+    },
+    {
+      "definition": "to have such low moral standards that you do something very bad",
+      "examples": [
+        {
+          "text": "Stealing from your friends? How could you sink so low?"
+        },
+        {
+          "text": "I can't believe that anyone would sink to such depths."
+        },
+        {
+          "text": "With this article the newspaper has sunk to a new low."
+        }
+      ]
+    },
+    {
+      "definition": "to behave in a worse way than ever before",
+      "examples": [
+        {
+          "text": "The government has stooped to an all-time low with this policy."
+        },
+        {
+          "text": "Reality TV has sunk to new lows."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "verb Old English sincan, of Germanic origin; related to Dutch zinken and German sinken."
+}

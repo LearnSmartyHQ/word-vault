@@ -1,0 +1,63 @@
+{
+  "word": "plus1",
+  "partOfSpeech": "preposition",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/plʌs/",
+        "audio": "p/plus1/plus__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/plʌs/",
+        "audio": "p/plus1/plus__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "used when the two numbers or amounts mentioned are being added together",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Two plus five is seven."
+        },
+        {
+          "text": "The cost is £22, plus £1 for postage."
+        },
+        {
+          "text": "Membership is 350 dollars per year plus tax."
+        }
+      ],
+      "topics": ["Maths and measurement"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "as well as something/somebody; and also",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We have to fit five of us plus all our gear in the car."
+        }
+      ]
+    },
+    {
+      "definition": "used when the number mentioned may actually be more or less by a particular amount",
+      "examples": [
+        {
+          "text": "The margin of error was plus or minus three percentage points."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "mid 16th cent.: from Latin, literally ‘more’."
+}

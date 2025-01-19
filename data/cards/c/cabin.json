@@ -1,0 +1,57 @@
+{
+  "word": "cabin",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkæbɪn/",
+        "audio": "c/cabin/cabin__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkæbɪn/",
+        "audio": "c/cabin/cabin__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a small room on a ship in which you live or sleep",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "I lay in my cabin feeling miserably seasick."
+        }
+      ],
+      "topics": ["Transport by water"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "one of the areas for passengers to sit in a plane",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "the first-class cabin"
+        }
+      ],
+      "topics": ["Transport by air"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a small house or shelter, usually made of wood",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "a log cabin"
+        }
+      ],
+      "topics": ["Buildings"]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French cabane, from Provençal cabana, from late Latin capanna, cavanna."
+}

@@ -1,0 +1,138 @@
+{
+  "word": "soak",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/səʊk/",
+        "audio": "s/soak/soak__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/səʊks/",
+        "audio": "s/soak/soaks__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/səʊkt/",
+        "audio": "s/soak/soaked__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsəʊkɪŋ/",
+        "audio": "s/soak/soaking__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/səʊk/",
+        "audio": "s/soak/soak__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/səʊks/",
+        "audio": "s/soak/soaks__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/səʊkt/",
+        "audio": "s/soak/soaked__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsəʊkɪŋ/",
+        "audio": "s/soak/soaking__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "soak",
+      "heSheIt": "soaks"
+    },
+    "pastSimple": "soaked",
+    "pastParticiple": "soaked",
+    "ingForm": "soaking"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to put something in liquid for a time so that it becomes completely wet; to become completely wet in this way",
+      "sensetop": "soak something (in something)soak something with somethingsoak (in something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I usually soak the beans overnight.",
+          "contextForm": "soak something (in something)"
+        },
+        {
+          "text": "If you soak the tablecloth before you wash it, the stains should come out."
+        },
+        {
+          "text": "He soaked the cloth with petrol.",
+          "contextForm": "soak something with something"
+        },
+        {
+          "text": "Leave the apricots to soak for 20 minutes.",
+          "contextForm": "soak (in something)"
+        },
+        {
+          "text": "I'm going to go and soak in the bath."
+        },
+        {
+          "text": "Soak the clothes in cold water."
+        }
+      ],
+      "collocations": {
+        "adverb": ["completely", "thoroughly", "overnight"],
+        "verb + soak": ["leave something to", "let something"],
+        "preposition": ["in", "into", "through"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make somebody/something completely wet",
+      "sensetop": "soak somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "A sudden shower of rain soaked the spectators."
+        }
+      ],
+      "synonyms": "drench",
+      "topics": ["Weather"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to enter or pass through something",
+      "sensetop": "soak through somethingsoak into something",
+      "examples": [
+        {
+          "text": "Blood had soaked through the bandage.",
+          "contextForm": "soak through something"
+        },
+        {
+          "text": "The rain had soaked through every layer of his clothing."
+        },
+        {
+          "text": "Water dripped off the table and soaked into the carpet.",
+          "contextForm": "soak into something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to obtain a lot of money from somebody by making them pay very high taxes or prices",
+      "sensetop": "soak somebody",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "He was accused of soaking his clients."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English socian ‘become saturated with a liquid by immersion’; related to sūcan ‘to suck’."
+}

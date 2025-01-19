@@ -1,0 +1,81 @@
+{
+  "word": "summary",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsʌməri/",
+        "audio": "s/summary/summary__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsʌməri/",
+        "audio": "s/summary/summary__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "definition": "a short statement that gives only the main points of something, not the details",
+      "sensetop": "summary of somethingin summary",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a news summary"
+        },
+        {
+          "text": "The following is a summary of our conclusions.",
+          "contextForm": "summary of something"
+        },
+        {
+          "text": "What follows is a **brief summary **of the findings."
+        },
+        {
+          "text": "He has **provided a** useful **summary** of the main categories."
+        },
+        {
+          "text": "a two-page summary of a government report"
+        },
+        {
+          "text": "The book provides useful summaries of the arguments."
+        },
+        {
+          "text": "In summary, this was a disappointing performance.",
+          "contextForm": "in summary"
+        },
+        {
+          "text": "Details of new titles, with plot summaries, are included in the catalogue."
+        },
+        {
+          "text": "He only reads the executive summary of reports."
+        },
+        {
+          "text": "Is that a fair summary of the situation?"
+        },
+        {
+          "text": "She decided not to include this incident in her summary of the day's events."
+        },
+        {
+          "text": "The book also includes summaries at the end of each chapter."
+        },
+        {
+          "text": "The report will be available online in summary form."
+        }
+      ],
+      "collocations": {
+        "adjective": ["accurate", "apt", "clear"],
+        "verb + summary": ["make", "prepare", "publish"],
+        "summary + noun": ["sheet", "table", "report"],
+        "preposition": ["in summary", "in a/​the summary", "summary of"],
+        "phrases": ["in summary form"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English (as an adjective): from Latin summarius, from summa ‘sum total’, feminine of summus ‘highest’."
+}

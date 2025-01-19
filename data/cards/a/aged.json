@@ -1,0 +1,80 @@
+{
+  "word": "aged",
+  "partOfSpeech": "adjectivenoun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/eɪdʒd/",
+        "audio": "a/aged/aged__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈeɪdʒɪd/",
+        "audio": "a/aged/aged__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/eɪdʒd/",
+        "audio": "a/aged/aged__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈeɪdʒɪd/",
+        "audio": "a/aged/aged__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "of the age of",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They have two children aged six and nine."
+        },
+        {
+          "text": "volunteers aged between 25 and 40"
+        },
+        {
+          "text": "Children have the opportunity to meet similarly aged children."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "very old",
+      "labels": "(old-fashioned)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "my aged aunt"
+        },
+        {
+          "text": "People caring for an aged relative need support."
+        },
+        {
+          "text": "I’m not sure if my aged car can make it up that hill."
+        }
+      ],
+      "topics": ["Life stages"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "very old people",
+      "labels": "(old-fashioned)",
+      "examples": [
+        {
+          "text": "services for the sick and the aged"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": null
+}

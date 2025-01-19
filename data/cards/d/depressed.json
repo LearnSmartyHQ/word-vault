@@ -1,0 +1,123 @@
+{
+  "word": "depressed",
+  "partOfSpeech": "adjective",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈprest/",
+        "audio": "d/depressed/depressed__gb_4.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈprest/",
+        "audio": "d/depressed/depressed__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "very sad and without hope",
+      "sensetop": "depressed about somethingdepressed at somethingdepressed over somethingdepressed by something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You mustn't let yourself get depressed."
+        },
+        {
+          "text": "She felt very depressed about the future.",
+          "contextForm": "depressed about something"
+        },
+        {
+          "text": "He was really depressed at the thought of going into the office.",
+          "contextForm": "depressed at something"
+        },
+        {
+          "text": "She was depressed over the recent death of her mother.",
+          "contextForm": "depressed over something"
+        },
+        {
+          "text": "I was depressed by our lack of progress.",
+          "contextForm": "depressed by something"
+        },
+        {
+          "text": "It makes me depressed just looking at him."
+        },
+        {
+          "text": "She became severely depressed after her mother's death."
+        },
+        {
+          "text": "She's terribly depressed about losing her job."
+        },
+        {
+          "text": "We lapsed into depressed silence."
+        }
+      ],
+      "topics": ["Feelings"],
+      "collocations": {
+        "verbs": ["be", "feel", "look"],
+        "adverb": ["extremely", "fairly", "very"],
+        "preposition": ["about", "by"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "affected by the medical condition of depression",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She became **severely depressed**."
+        },
+        {
+          "text": "There is medical evidence to show that he is clinically depressed."
+        },
+        {
+          "text": "She suffers from sleep disturbance and **depressed mood**."
+        }
+      ],
+      "topics": ["Mental health"],
+      "collocations": {
+        "verbs": ["be", "feel", "look"],
+        "adverb": ["extremely", "fairly", "very"],
+        "preposition": ["about", "by"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "without enough economic activity or jobs for people",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They have made little attempt to bring jobs to economically depressed areas."
+        },
+        {
+          "text": "The shipping trade was badly depressed."
+        }
+      ],
+      "topics": ["Money"],
+      "collocations": {
+        "verbs": ["be", "become", "remain"],
+        "adverb": ["severely", "very", "relatively"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "having a lower amount or level than usual",
+      "examples": [
+        {
+          "text": "depressed prices"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": null
+}

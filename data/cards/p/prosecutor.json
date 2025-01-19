@@ -1,0 +1,61 @@
+{
+  "word": "prosecutor",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈprɒsɪkjuːtə(r)/",
+        "audio": "p/prosecutor/prosecutor__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈprɑːsɪkjuːtər/",
+        "audio": "p/prosecutor/prosecutor__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a public official who charges somebody officially with a crime and prosecutes them in court",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the **public/state prosecutor**"
+        }
+      ],
+      "topics": ["Law and justice"],
+      "collocations": {
+        "adjective": ["public", "county", "federal"],
+        "prosecutor + verb": [
+          "charge somebody with something",
+          "indict somebody",
+          "allege something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a lawyer who leads the case against a defendant in court",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The prosecutor rose to give the opening address."
+        }
+      ],
+      "collocations": {
+        "adjective": ["public", "county", "federal"],
+        "prosecutor + verb": [
+          "charge somebody with something",
+          "indict somebody",
+          "allege something"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": null
+}

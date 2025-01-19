@@ -1,0 +1,81 @@
+{
+  "word": "fraction",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfrækʃn/",
+        "audio": "f/fraction/fraction__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfrækʃn/",
+        "audio": "f/fraction/fraction__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a small part or amount of something",
+      "labels": "British EnglishNorth American English",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Only a small fraction of a bank's total deposits will be withdrawn at any one time."
+        },
+        {
+          "text": "She hesitated for the merest fraction of a second."
+        },
+        {
+          "text": "He raised his voice a fraction."
+        },
+        {
+          "text": "A mere fraction of available wind energy is currently utilized."
+        },
+        {
+          "text": "The average income is high, though many people earn just a fraction of that average."
+        },
+        {
+          "text": "Why not grow your own fruit at a fraction of the price?"
+        }
+      ],
+      "collocations": {
+        "adjective": ["large", "significant", "sizeable"],
+        "preposition": ["fraction of"],
+        "phrases": ["just a fraction", "only a fraction"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a division of a number, for example ⅝",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "How do you express 25% as a fraction?"
+        }
+      ],
+      "synonyms": "rational number",
+      "topics": ["Maths and measurement"],
+      "collocations": {
+        "adjective": ["vulgar", "decimal", "improper"],
+        "verb + fraction": ["express something as"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a quantity of liquid that has been collected as a result of a process that separates the parts of a liquid mixture",
+      "labels": "(chemistry)",
+      "examples": [
+        {
+          "text": "The third fraction contains alcohols with boiling points of 120–130℃."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: via Old French from ecclesiastical Latin fractio(n-) ‘breaking (bread)’, from Latin frangere ‘to break’."
+}

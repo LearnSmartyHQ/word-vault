@@ -1,0 +1,170 @@
+{
+  "word": "interrupt",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌɪntəˈrʌpt/",
+        "audio": "i/interrupt/interrupt__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌɪntəˈrʌpts/",
+        "audio": "i/interrupt/interrupts__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌɪntəˈrʌptɪd/",
+        "audio": "i/interrupt/interrupted__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌɪntəˈrʌptɪŋ/",
+        "audio": "i/interrupt/interrupting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌɪntəˈrʌpt/",
+        "audio": "i/interrupt/interrupt__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌɪntəˈrʌpts/",
+        "audio": "i/interrupt/interrupts__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌɪntəˈrʌptɪd/",
+        "audio": "i/interrupt/interrupted__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌɪntəˈrʌptɪŋ/",
+        "audio": "i/interrupt/interrupting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "interrupt",
+      "heSheIt": "interrupts"
+    },
+    "pastSimple": "interrupted",
+    "pastParticiple": "interrupted",
+    "ingForm": "interrupting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to say or do something that makes somebody stop what they are saying or doing",
+      "sensetop": "interrupt with somethinginterrupt somebody/somethinginterrupt somebody/something with somethinginterrupt + speechinterrupt somebody + speech",
+      "labels": "(formal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Sorry to interrupt, but there's someone to see you."
+        },
+        {
+          "text": "Would you mind not interrupting with questions all the time?",
+          "contextForm": "interrupt with something"
+        },
+        {
+          "text": "I hope I'm not interrupting you.",
+          "contextForm": "interrupt somebody/something"
+        },
+        {
+          "text": "They were interrupted by a knock at the door."
+        },
+        {
+          "text": "The President's speech was constantly interrrupted with boos and jeers.",
+          "contextForm": "interrupt somebody/something with something"
+        },
+        {
+          "text": "‘I have a question,’ she interrupted.",
+          "contextForm": "interrupt + speech"
+        },
+        {
+          "text": "‘Just listen for a moment,’ he interrupted her angrily.",
+          "contextForm": "interrupt somebody + speech"
+        },
+        {
+          "text": "‘He's kidding,’ I interrupted hastily."
+        },
+        {
+          "text": "I didn't manage to finish the report. I kept getting interrupted."
+        },
+        {
+          "text": "I thought it better not to interrupt her with any comment."
+        },
+        {
+          "text": "I'm sorry to interrupt, but there's someone here to see you."
+        },
+        {
+          "text": "It was all irrelevant, but I didn't dare interrupt him in mid-flow."
+        },
+        {
+          "text": "What was I saying, before we were so rudely interrupted?"
+        },
+        {
+          "text": "‘What's his name?’ John interrupted."
+        },
+        {
+          "text": "Please stop interrupting all the time!"
+        },
+        {
+          "text": "Sh! You're always interrupting me!"
+        },
+        {
+          "text": "Sorry to interrupt your dinner."
+        }
+      ],
+      "collocations": {
+        "adverb": ["impatiently", "rudely", "angrily"],
+        "verb + interrupt": ["be sorry to", "(not) dare (to)"],
+        "preposition": ["with"],
+        "phrases": ["get interrupted"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to stop something for a short time",
+      "sensetop": "interrupt something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The game was interrupted several times by rain."
+        },
+        {
+          "text": "We interrupt this programme to bring you an important news bulletin."
+        },
+        {
+          "text": "Transport services were constantly interrupted by air raids."
+        },
+        {
+          "text": "Their luncheon was brutally interrupted by gunfire."
+        },
+        {
+          "text": "The morning's work was constantly interrupted by phone calls."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to stop a line, surface, view, etc. from being even or continuous",
+      "sensetop": "interrupt something",
+      "examples": [
+        {
+          "text": "There were no other buildings to interrupt the view of the valley."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin interrupt- ‘broken, interrupted’, from the verb interrumpere, from inter- ‘between’ + rumpere ‘to break’."
+}

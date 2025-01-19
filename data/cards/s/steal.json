@@ -1,0 +1,183 @@
+{
+  "word": "steal",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/stiːl/",
+        "audio": "s/steal/steal__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/stiːlz/",
+        "audio": "s/steal/steals__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/stəʊl/",
+        "audio": "s/steal/stole__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈstəʊlən/",
+        "audio": "s/steal/stolen__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈstiːlɪŋ/",
+        "audio": "s/steal/stealing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/stiːl/",
+        "audio": "s/steal/steal__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/stiːlz/",
+        "audio": "s/steal/steals__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/stəʊl/",
+        "audio": "s/steal/stole__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈstəʊlən/",
+        "audio": "s/steal/stolen__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈstiːlɪŋ/",
+        "audio": "s/steal/stealing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "steal",
+      "heSheIt": "steals"
+    },
+    "pastSimple": "stole",
+    "pastParticiple": "stolen",
+    "ingForm": "stealing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to take something from a person, shop, etc. without permission and without intending to return it or pay for it",
+      "sensetop": "steal from somebody/somethingsteal somethingsteal something from somebody/something",
+      "labels": "(figurative)(figurative)(British English)(North American English)(British English)(North American English)(especially British English)(especially British English)(especially North American English)(especially British English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I'll report you to the police if I catch you stealing again."
+        },
+        {
+          "text": "We found out he'd been stealing from us for years.",
+          "contextForm": "steal from somebody/something"
+        },
+        {
+          "text": "My wallet was stolen.",
+          "contextForm": "steal something"
+        },
+        {
+          "text": "I **had** my wallet **stolen**."
+        },
+        {
+          "text": "Thieves stole jewellery worth over £10 000."
+        },
+        {
+          "text": "He stole a car from the parking lot of a mall.",
+          "contextForm": "steal something from somebody/something"
+        },
+        {
+          "text": "It's a crime to handle **stolen goods**."
+        },
+        {
+          "text": "He was charged with possession of **stolen property**."
+        },
+        {
+          "text": "to steal somebody’s ideas"
+        },
+        {
+          "text": "They accused the president of **stealing the election** *(= winning it by cheating)*."
+        }
+      ],
+      "topics": ["Crime and punishment"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to move secretly and quietly so that other people do not notice you",
+      "sensetop": "+ adv./prep.",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "She stole out of the room so as not to wake the baby."
+        },
+        {
+          "text": "A chill stole over her body."
+        }
+      ],
+      "synonyms": "creep"
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to run to the next base before another player from your team hits the ball, so that you are closer to scoring",
+      "sensetop": "steal something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "He tried to steal second base but was out."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"]
+    },
+    {
+      "definition": "to look at somebody/something quickly so that nobody sees you doing it",
+      "examples": []
+    },
+    {
+      "definition": "to make somebody fall in love with you",
+      "labels": "(literary)",
+      "examples": [],
+      "topics": ["Feelings"]
+    },
+    {
+      "definition": "to kiss somebody suddenly or secretly",
+      "labels": "(literary)",
+      "examples": []
+    },
+    {
+      "definition": "to gain an advantage over somebody by doing something before them",
+      "examples": [
+        {
+          "text": "The company is looking at ways to steal a march on its European competitors."
+        }
+      ]
+    },
+    {
+      "definition": "to attract more attention and praise than other people in a particular situation",
+      "examples": [
+        {
+          "text": "As always, the children stole the show."
+        },
+        {
+          "text": "British bands stole the show at this year’s awards."
+        }
+      ]
+    },
+    {
+      "definition": "to get the attention, success, etc. that somebody else was expecting, usually by saying or doing what they had intended to say or do",
+      "examples": [],
+      "topics": ["Success"]
+    }
+  ],
+  "wordOrigin": "Old English stelan (verb), of Germanic origin; related to Dutch stelen and German stehlen."
+}

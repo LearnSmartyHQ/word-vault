@@ -1,0 +1,169 @@
+{
+  "word": "approve",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈpruːv/",
+        "audio": "a/approve/approve__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈpruːvz/",
+        "audio": "a/approve/approves__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈpruːvd/",
+        "audio": "a/approve/approved__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈpruːvɪŋ/",
+        "audio": "a/approve/approving__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈpruːv/",
+        "audio": "a/approve/approve__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈpruːvz/",
+        "audio": "a/approve/approves__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈpruːvd/",
+        "audio": "a/approve/approved__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈpruːvɪŋ/",
+        "audio": "a/approve/approving__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "approve",
+      "heSheIt": "approves"
+    },
+    "pastSimple": "approved",
+    "pastParticiple": "approved",
+    "ingForm": "approving"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to think that somebody/something is good, acceptable or suitable",
+      "sensetop": "approve of somebody/somethingapprove of somebody doing somethingapprove of somebody’s doing something",
+      "labels": "(formal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I told my mother I wanted to leave school but she didn't approve."
+        },
+        {
+          "text": "Do you approve of my idea?",
+          "contextForm": "approve of somebody/something"
+        },
+        {
+          "text": "She didn't quite approve of the way he was running things."
+        },
+        {
+          "text": "She doesn't approve of me leaving school this year.",
+          "contextForm": "approve of somebody doing something"
+        },
+        {
+          "text": "She doesn't approve of my leaving school this year.",
+          "contextForm": "approve of somebody’s doing something"
+        },
+        {
+          "text": "I don't personally approve but I'm willing to live with it."
+        },
+        {
+          "text": "He didn't say anything, but I could tell from the look on his face that he didn't approve."
+        },
+        {
+          "text": "I very much approve of these new tests."
+        },
+        {
+          "text": "I wholeheartedly approve of his actions."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adverb": ["fully", "heartily", "strongly"],
+        "preposition": ["of"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to officially agree to a plan, request, etc.",
+      "sensetop": "approve something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The committee unanimously **approved the plan**."
+        },
+        {
+          "text": "We hope that the proposals will soon be approved by the committee."
+        },
+        {
+          "text": "to approve a bill/application"
+        },
+        {
+          "text": "They approved the creation of a human resources development centre."
+        },
+        {
+          "text": "His appointment has not been formally approved yet."
+        },
+        {
+          "text": "The Legislature narrowly approved an amendment to the Massachusetts Constitution."
+        },
+        {
+          "text": "The committee has approved the compensation package."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adverb": ["formally", "officially", "federally"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to say that something is good enough to be used or is correct",
+      "sensetop": "be approved by somebody/somethingbe approved for somethingbe approved as somethingapprove something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The course is approved by the Department for Education.",
+          "contextForm": "be approved by somebody/something"
+        },
+        {
+          "text": "This medicine is not **approved for use** in children.",
+          "contextForm": "be approved for something"
+        },
+        {
+          "text": "The chemical has never been federally approved as a pesticide.",
+          "contextForm": "be approved as something"
+        },
+        {
+          "text": "The auditors approved the company's accounts.",
+          "contextForm": "approve something"
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French aprover, from Latin approbare (from ad- ‘to’ + probare ‘try, test’). The original sense was ‘prove, demonstrate’, later ‘corroborate, confirm’, hence ‘pronounce to be satisfactory’ (late Middle English)."
+}

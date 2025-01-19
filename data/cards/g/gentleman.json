@@ -1,0 +1,110 @@
+{
+  "word": "gentleman",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdʒentlmən/",
+        "audio": "g/gentleman/gentlemen__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdʒentlmən/",
+        "audio": "g/gentleman/gentleman__us_3.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a man who is polite and well educated, who has excellent manners and always behaves well",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You acted like a true gentleman."
+        },
+        {
+          "text": "Thank you—you're a real gentleman."
+        },
+        {
+          "text": "He was always the perfect gentleman."
+        },
+        {
+          "text": "He's no gentleman!"
+        },
+        {
+          "text": "He was too much of a gentleman to ask them for any money."
+        }
+      ],
+      "collocations": {
+        "adjective": ["perfect", "real", "true"],
+        "phrases": ["be no gentleman", "too much of a gentleman"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "used to address or refer to a man, especially somebody you do not know",
+      "labels": "(formal)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**Ladies and gentlemen!** Can I have your attention, please?"
+        },
+        {
+          "text": "She was talking to an elderly gentleman."
+        },
+        {
+          "text": "Ladies and gentlemen of the jury!"
+        },
+        {
+          "text": "Can I help you, gentlemen?"
+        },
+        {
+          "text": "There's a gentleman to see you."
+        }
+      ],
+      "collocations": {
+        "adjective": ["elderly", "distinguished", "handsome"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "used to address or refer to a male member of a legislature, for example the House of Representatives",
+      "labels": "(North American English)",
+      "examples": [],
+      "collocations": {
+        "adjective": ["elderly", "distinguished", "handsome"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a man from a high social class, especially one who does not need to work",
+      "labels": "(old-fashioned)",
+      "examples": [
+        {
+          "text": "He retired to his estate and lived the life of a country gentleman."
+        },
+        {
+          "text": "a gentleman farmer *(= one who owns a farm for pleasure, not as his main job)*"
+        }
+      ],
+      "collocations": {
+        "adjective": ["country"],
+        "gentleman + noun": ["farmer"]
+      }
+    },
+    {
+      "definition": "a man/woman who does not have to work",
+      "labels": "(humorous)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English (in the sense ‘man of noble birth’): from gentle + man, translating Old French gentilz hom. In later use the term denoted ‘a man of a good family (especially one entitled to a coat of arms) but not of the nobility’."
+}

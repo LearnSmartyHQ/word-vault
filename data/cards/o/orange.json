@@ -1,0 +1,103 @@
+{
+  "word": "orange",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɒrɪndʒ/",
+        "audio": "o/orange/orange__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɔːrɪndʒ/",
+        "audio": "o/orange/orange__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a round citrus fruit with thick skin of a colour between red and yellow and a lot of sweet juice",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "orange peel/zest/rind"
+        },
+        {
+          "text": "an orange tree"
+        },
+        {
+          "text": "freshly squeezed orange juice"
+        },
+        {
+          "text": "orange groves *(= groups of orange trees)*"
+        },
+        {
+          "text": "orange blossom"
+        }
+      ],
+      "collocations": {
+        "adjective": ["juicy", "sour", "sweet"],
+        "… of orange": ["segment"],
+        "verb + orange": ["eat", "have", "squeeze"],
+        "orange + noun": ["segment", "slice", "wedge"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "orange juice, or a drink made from or tasting of oranges",
+      "labels": "(British English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Would you like some orange?"
+        },
+        {
+          "text": "A vodka and orange, please."
+        }
+      ],
+      "topics": ["Drinks"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a bright colour between red and yellow",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I like bright colours—orange and yellow are my favourites."
+        },
+        {
+          "text": "purples and reds and deep shining oranges"
+        },
+        {
+          "text": "To my left stood a young girl dressed in bright orange."
+        }
+      ],
+      "topics": ["Colours and Shapes"]
+    },
+    {
+      "definition": "used to describe a situation in which two people or things are completely different from each other",
+      "labels": "(especially North American English)",
+      "examples": [
+        {
+          "text": "They really are apples and oranges."
+        },
+        {
+          "text": "They are both great but **you can't compare apples and oranges**."
+        },
+        {
+          "text": "It’s a totally different situation, it’s apples and oranges."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French orenge (in the phrase pomme d'orenge), based on Arabic nāranj, from Persian nārang."
+}

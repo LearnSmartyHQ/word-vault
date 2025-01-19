@@ -1,0 +1,118 @@
+{
+  "word": "tank",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/tæŋk/",
+        "audio": "t/tank/tank__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈtæŋkfʊl/",
+        "audio": "t/tank/tankful__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/tæŋk/",
+        "audio": "t/tank/tank__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈtæŋkfʊl/",
+        "audio": "t/tank/tankful__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a large container for holding liquid or gas",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **fuel/water/storage tank**"
+        },
+        {
+          "text": "a fish tank *(= for keeping fish in)*"
+        },
+        {
+          "text": "He uses an oxygen tank to breathe."
+        },
+        {
+          "text": "Put a little fish food into the tank."
+        },
+        {
+          "text": "The truck crashed into a wall and ruptured a fuel tank."
+        },
+        {
+          "text": "Firefighters sometimes need to use air tanks and special breathing masks."
+        }
+      ],
+      "topics": [
+        "The environment",
+        "Transport by car or lorry",
+        "Sports: water sports"
+      ],
+      "collocations": {
+        "adjective": ["empty", "full", "glass"],
+        "verb + tank": ["fill", "refill", "drain"],
+        "tank + verb": ["contain something"],
+        "preposition": ["in a/​the tank", "into a/​the tank", "tank of"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the contents of a tank or the amount it will hold",
+      "sensetop": "tank (of something)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We drove there and back on one tank of fuel."
+        }
+      ],
+      "collocations": {
+        "adjective": ["empty", "full", "glass"],
+        "verb + tank": ["fill", "refill", "drain"],
+        "tank + verb": ["contain something"],
+        "preposition": ["in a/​the tank", "into a/​the tank", "tank of"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a military vehicle covered with strong metal and armed with guns. It can travel over very rough ground using wheels that move inside metal belts.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Tanks rolled in to end the siege."
+        },
+        {
+          "text": "He's six feet tall and built like a tank *(= has a solid, strong body)*."
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adjective": ["armoured/​armored", "army", "battle"],
+        "verb + tank": ["climb into", "get into", "drive"],
+        "tank + verb": ["roll", "advance", "attack"],
+        "tank + noun": ["battalion", "company", "corps"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "an artificial pool, lake or reservoir",
+      "labels": "(Indian English)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "early 17th cent.: perhaps from Gujarati tānkũ or Marathi (a language spoken in the western Indian state of Maharashtra) tānke͂ ‘underground cistern’, from Sanskrit tadāga ‘pond’, probably influenced by Portuguese tangue ‘pond’, from Latin stagnum. The military vehicle took its name from the use of tank as a secret code word during manufacture in 1915."
+}

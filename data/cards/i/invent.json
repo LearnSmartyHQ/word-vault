@@ -1,0 +1,113 @@
+{
+  "word": "invent",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈvent/",
+        "audio": "i/invent/invent__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈvents/",
+        "audio": "i/invent/invents__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈventɪd/",
+        "audio": "i/invent/invented__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈventɪŋ/",
+        "audio": "i/invent/inventing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈvent/",
+        "audio": "i/invent/invent__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈvents/",
+        "audio": "i/invent/invents__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈventɪd/",
+        "audio": "i/invent/invented__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈventɪŋ/",
+        "audio": "i/invent/inventing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "invent",
+      "heSheIt": "invents"
+    },
+    "pastSimple": "invented",
+    "pastParticiple": "invented",
+    "ingForm": "inventing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to produce or design something that has not existed before",
+      "sensetop": "invent something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Who invented the steam engine?"
+        },
+        {
+          "text": "I wish mobile phones had never been invented!"
+        },
+        {
+          "text": "The term ‘sociology’ was invented by Auguste Comte."
+        },
+        {
+          "text": "He practically invented the modern stand-up comedy act."
+        },
+        {
+          "text": "Louis Braille invented an alphabet to help blind people."
+        }
+      ],
+      "collocations": {
+        "adverb": ["practically", "virtually", "single-handedly"],
+        "phrases": ["newly invented"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to say or describe something that is not true, especially in order to trick people",
+      "sensetop": "invent something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "What excuse did he invent this time?"
+        },
+        {
+          "text": "Many children invent an imaginary friend."
+        },
+        {
+          "text": "He considered inventing some pretext for calling her."
+        },
+        {
+          "text": "I did not have to invent any tales about my past."
+        }
+      ],
+      "topics": ["Personal qualities"]
+    }
+  ],
+  "wordOrigin": "late 15th cent. (in the sense ‘find out, discover’): from Latin invent- ‘contrived, discovered’, from the verb invenire, from in- ‘into’ + venire ‘come’."
+}

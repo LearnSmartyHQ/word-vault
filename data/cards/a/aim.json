@@ -1,0 +1,193 @@
+{
+  "word": "aim",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/eɪm/",
+        "audio": "a/aim/aim__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/eɪmz/",
+        "audio": "a/aim/aims__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/eɪmd/",
+        "audio": "a/aim/aimed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈeɪmɪŋ/",
+        "audio": "a/aim/aiming__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/eɪm/",
+        "audio": "a/aim/aim__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/eɪmz/",
+        "audio": "a/aim/aims__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/eɪmd/",
+        "audio": "a/aim/aimed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈeɪmɪŋ/",
+        "audio": "a/aim/aiming__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "aim",
+      "heSheIt": "aims"
+    },
+    "pastSimple": "aimed",
+    "pastParticiple": "aimed",
+    "ingForm": "aiming"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to try or plan to achieve something",
+      "sensetop": "aim for somethingaim at somethingaim to do somethingaim at doing something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He has always **aimed high** *(= tried to achieve a lot)*."
+        },
+        {
+          "text": "We should aim for a bigger share of the market.",
+          "contextForm": "aim for something"
+        },
+        {
+          "text": "The team is aiming for the top this season."
+        },
+        {
+          "text": "Don't try to aim for perfection."
+        },
+        {
+          "text": "The government is aiming at a 50% reduction in unemployment.",
+          "contextForm": "aim at something"
+        },
+        {
+          "text": "They are aiming to reduce unemployment by 50%.",
+          "contextForm": "aim to do something"
+        },
+        {
+          "text": "The project aims to provide employment for people with learning difficulties."
+        },
+        {
+          "text": "We aim to be there around six."
+        },
+        {
+          "text": "The training programme aims at raising employees' awareness about human rights.",
+          "contextForm": "aim at doing something"
+        },
+        {
+          "text": "He is aiming for a win in this race."
+        },
+        {
+          "text": "She's aiming at a scholarship this year."
+        },
+        {
+          "text": "They're aiming at training everybody by the end of the year."
+        }
+      ],
+      "topics": ["Success"],
+      "collocations": {
+        "preposition": ["at", "for"],
+        "phrases": ["aim high"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to have something as an aim",
+      "sensetop": "be aimed at doing something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The initiative is **specifically aimed** at helping young people."
+        },
+        {
+          "text": "These measures are aimed at preventing violent crime."
+        }
+      ],
+      "collocations": {
+        "adverb": ["clearly", "directly", "squarely"],
+        "phrases": ["be aimed at"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to say or do something that is intended to influence or affect a particular person or group",
+      "sensetop": "be aimed at somebody",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The courses are **aimed primarily** at older people.",
+          "contextForm": "be aimed at somebody"
+        },
+        {
+          "text": "My criticism wasn't aimed at you."
+        },
+        {
+          "text": "The book is aimed at very young children."
+        }
+      ],
+      "collocations": {
+        "adverb": ["clearly", "directly", "squarely"],
+        "phrases": ["be aimed at"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to point or direct a weapon, camera, shot, kick, etc. at somebody/something",
+      "sensetop": "aim at somebody/somethingaim for somebody/somethingaim something at somebody/somethingaim somethingaim something + adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I was aiming at the tree but hit the car by mistake.",
+          "contextForm": "aim at somebody/something"
+        },
+        {
+          "text": "Aim for the middle of the target.",
+          "contextForm": "aim for somebody/something"
+        },
+        {
+          "text": "She raised one leg and aimed an almighty kick at the door.",
+          "contextForm": "aim something at somebody/something"
+        },
+        {
+          "text": "I aimed my camera and got one shot.",
+          "contextForm": "aim something"
+        },
+        {
+          "text": "He aimed the rifle in the direction of the target and fired.",
+          "contextForm": "aim something + adv./prep."
+        }
+      ],
+      "collocations": {
+        "adverb": ["directly", "straight", "carefully"],
+        "preposition": ["at", "for"]
+      }
+    }
+  ],
+  "wordOrigin": null
+}

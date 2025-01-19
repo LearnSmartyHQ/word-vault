@@ -1,0 +1,142 @@
+{
+  "word": "scare",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/skeə(r)/",
+        "audio": "s/scare/scare__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/skeəz/",
+        "audio": "s/scare/scares__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/skeəd/",
+        "audio": "s/scare/scared__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈskeərɪŋ/",
+        "audio": "s/scare/scaring__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/sker/",
+        "audio": "s/scare/scare__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/skerz/",
+        "audio": "s/scare/scares__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/skerd/",
+        "audio": "s/scare/scared__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈskerɪŋ/",
+        "audio": "s/scare/scaring__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "scare",
+      "heSheIt": "scares"
+    },
+    "pastSimple": "scared",
+    "pastParticiple": "scared",
+    "ingForm": "scaring"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to frighten somebody",
+      "sensetop": "scare somebodyit scares somebody to do something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "You scared me.",
+          "contextForm": "scare somebody"
+        },
+        {
+          "text": "It scared me to think I was alone in the building.",
+          "contextForm": "it scares somebody to do something"
+        },
+        {
+          "text": "The very thought of flying scares me stiff."
+        },
+        {
+          "text": "You don't scare me with your threats!"
+        }
+      ],
+      "collocations": {
+        "adverb": ["really", "easily", "away"],
+        "verb + scare": ["try to", "want to", "start to"],
+        "preposition": ["into", "with"],
+        "phrases": [
+          "scare somebody silly",
+          "scare somebody stiff",
+          "scare somebody to death"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to become frightened",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "He doesn't scare easily."
+        }
+      ],
+      "collocations": {
+        "adverb": ["really", "easily", "away"],
+        "verb + scare": ["try to", "want to", "start to"],
+        "preposition": ["into", "with"],
+        "phrases": [
+          "scare somebody silly",
+          "scare somebody stiff",
+          "scare somebody to death"
+        ]
+      }
+    },
+    {
+      "definition": "to frighten somebody very much",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to frighten somebody very much",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "You scared the life out of me coming in so suddenly like that."
+        }
+      ]
+    },
+    {
+      "definition": "to frighten somebody very much",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Spiders frighten him to death."
+        }
+      ]
+    },
+    {
+      "definition": "to frighten somebody very much",
+      "labels": "(taboo, slang)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English: from Old Norse skirra ‘frighten’, from skjarr ‘timid’."
+}
