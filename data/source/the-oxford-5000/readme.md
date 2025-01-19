@@ -12,12 +12,12 @@ As well as [the Oxford 3000 core word list](../the-oxford-3000), it includes an 
 - [the-oxford-5000.json](./the-oxford-5000.json) (JSON)
 
 #### American English
-- [the-oxford-5000-american-english.txt](./the-oxford-5000-american-english.txt) (Text)
-- [the-oxford-5000-american-english.json](./the-oxford-5000-american-english.json) (JSON)
+- [american-oxford-5000.txt](./american-oxford-5000.txt) (Text)
+- [american-oxford-5000.json](./american-oxford-5000.json) (JSON)
 
 ### Combine British & American English Words
-- [the-oxford-5000-combine.txt](./the-oxford-5000-combine.txt) (Text)
-- [the-oxford-5000-combine.json](./the-oxford-5000-combine.json) (JSON)
+- [oxford-5000-combine.txt](./oxford-5000-combine.txt) (Text)
+- [oxford-5000-combine.json](./oxford-5000-combine.json) (JSON)
 
 <!-- Add CSV, Doc, XSLX version -->
 
