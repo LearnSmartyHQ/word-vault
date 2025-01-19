@@ -19,10 +19,760 @@
     "createdAt": "2024-09-07T12:00:00Z",
     "categories": [
         {
+            "id": 1,
             "title": "Lesson 1",
             "description": "The first lesson of the 504 Essential Words collection.",
             "cards": [
-                "abandon"
+                "abandon",
+                "keen",
+                "jealous",
+                "tact",
+                "oath",
+                "vacant",
+                "hardship",
+                "gallant",
+                "data",
+                "unaccustomed",
+                "bachelor",
+                "qualify"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Lesson 2",
+            "cards": [
+                "corpse",
+                "conceal",
+                "dismal",
+                "frigid",
+                "inhabit",
+                "numb",
+                "peril",
+                "recline",
+                "shriek",
+                "sinister",
+                "tempt",
+                "wager"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Lesson 3",
+            "cards": [
+                "typical",
+                "minimum",
+                "scarce",
+                "annual",
+                "persuade",
+                "essential",
+                "blend",
+                "visible",
+                "expensive",
+                "talent",
+                "devise",
+                "wholesale"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Lesson 4",
+            "cards": [
+                "vapor",
+                "eliminate",
+                "villain",
+                "dense",
+                "utilize",
+                "humid",
+                "theory",
+                "descend",
+                "circulate",
+                "enormous",
+                "predict",
+                "vanish"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Lesson 5",
+            "cards": [
+                "tradition",
+                "rural",
+                "burden",
+                "campus",
+                "majority",
+                "assemble",
+                "explore",
+                "topic",
+                "debate",
+                "evade",
+                "probe",
+                "reform"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Lesson 6",
+            "cards": [
+                "approach",
+                "detect",
+                "defect",
+                "employee",
+                "neglect",
+                "deceive",
+                "undoubtedly",
+                "popular",
+                "thorough",
+                "client",
+                "comprehensive",
+                "defraud"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Lesson 7",
+            "cards": [
+                "postpone",
+                "consent",
+                "massive",
+                "capsule",
+                "preserve",
+                "denounce",
+                "unique",
+                "torrent",
+                "resent",
+                "molest",
+                "gloomy",
+                "unforeseen"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Lesson 8",
+            "cards": [
+                "exaggerate",
+                "amateur",
+                "mediocre",
+                "variety",
+                "valid",
+                "survive",
+                "weird",
+                "prominent",
+                "security",
+                "bulky",
+                "reluctant",
+                "obvious"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Lesson 9",
+            "cards": [
+                "vicinity",
+                "century",
+                "rage",
+                "document",
+                "conclude",
+                "undeniable",
+                "resist",
+                "lack",
+                "ignore",
+                "challenge",
+                "miniature",
+                "source"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Lesson 10",
+            "cards": [
+                "excel",
+                "feminine",
+                "mount",
+                "compete",
+                "dread",
+                "masculine",
+                "menace",
+                "tendency",
+                "underestimate",
+                "victorious",
+                "numerous",
+                "flexible"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Lesson 11",
+            "cards": [
+                "evidence",
+                "solitary",
+                "vision",
+                "frequent",
+                "glimpse",
+                "recent",
+                "decade",
+                "hesitate",
+                "absurd",
+                "conflict",
+                "minority",
+                "fiction"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Lesson 12",
+            "cards": [
+                "ignite",
+                "abolish",
+                "urban",
+                "population",
+                "frank",
+                "pollute",
+                "reveal",
+                "prohibit",
+                "urgent",
+                "adequate",
+                "decrease",
+                "audible"
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Lesson 13",
+            "cards": [
+                "journalist",
+                "famine",
+                "revive",
+                "commence",
+                "observant",
+                "identify",
+                "migrate",
+                "vessel",
+                "persist",
+                "hazy",
+                "gleam",
+                "editor"
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Lesson 14",
+            "cards": [
+                "unruly",
+                "rival",
+                "violent",
+                "brutal",
+                "opponent",
+                "brawl",
+                "duplicate",
+                "vicious",
+                "whirling",
+                "underdog",
+                "thrust",
+                "bewildered"
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Lesson 15",
+            "cards": [
+                "expand",
+                "alter",
+                "mature",
+                "sacred",
+                "revise",
+                "pledge",
+                "casual",
+                "pursue",
+                "unanimous",
+                "fortunate",
+                "pioneer",
+                "innovative"
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Lesson 16",
+            "cards": [
+                "slender",
+                "surpass",
+                "vast",
+                "doubt",
+                "capacity",
+                "penetrate",
+                "pierce",
+                "accurate",
+                "microscope",
+                "grateful",
+                "cautious",
+                "confident"
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Lesson 17",
+            "cards": [
+                "appeal",
+                "addict",
+                "wary",
+                "aware",
+                "misfortune",
+                "avoid",
+                "wretched",
+                "keg",
+                "nourish",
+                "harsh",
+                "quantity",
+                "opt"
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Lesson 18",
+            "cards": [
+                "tragedy",
+                "pedestrian",
+                "glance",
+                "budget",
+                "nimble",
+                "manipulate",
+                "reckless",
+                "horrid",
+                "rave",
+                "economical",
+                "lubricate",
+                "ingenious"
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Lesson 19",
+            "cards": [
+                "harvest",
+                "abundant",
+                "uneasy",
+                "calculate",
+                "absorb",
+                "estimate",
+                "morsel",
+                "quota",
+                "threat",
+                "ban",
+                "panic",
+                "appropriate"
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Lesson 20",
+            "cards": [
+                "emerge",
+                "jagged",
+                "linger",
+                "ambush",
+                "crafty",
+                "defiant",
+                "vigor",
+                "perish",
+                "fragile",
+                "captive",
+                "prosper",
+                "devour"
+            ]
+        },
+        {
+            "id": 21,
+            "title": "Lesson 21",
+            "cards": [
+                "plea",
+                "weary",
+                "collide",
+                "confirm",
+                "verify",
+                "anticipate",
+                "dilemma",
+                "detour",
+                "merit",
+                "transmit",
+                "relieve",
+                "baffle"
+            ]
+        },
+        {
+            "id": 22,
+            "title": "Lesson 22",
+            "cards": [
+                "warden",
+                "acknowledge",
+                "justice",
+                "delinquent",
+                "reject",
+                "deprive",
+                "spouse",
+                "vocation",
+                "unstable",
+                "homicide",
+                "penalize",
+                "beneficiary"
+            ]
+        },
+        {
+            "id": 23,
+            "title": "Lesson 23",
+            "cards": [
+                "reptile",
+                "rerely",
+                "forbid",
+                "logical",
+                "exhibit",
+                "proceed",
+                "precaution",
+                "extract",
+                "prior",
+                "embrace",
+                "valiant",
+                "partial"
+            ]
+        },
+        {
+            "id": 24,
+            "title": "Lesson 24",
+            "cards": [
+                "fierce",
+                "detest",
+                "sneer",
+                "scowl",
+                "encourage",
+                "consider",
+                "vermin",
+                "wail",
+                "symbol",
+                "authority",
+                "neutral",
+                "trifle"
+            ]
+        },
+        {
+            "id": 25,
+            "title": "Lesson 25",
+            "cards": [
+                "architect",
+                "matrimony",
+                "baggage",
+                "squander",
+                "abroad",
+                "fugitive",
+                "calamity",
+                "pauper",
+                "envy",
+                "collapse",
+                "prosecute",
+                "bigamy"
+            ]
+        },
+        {
+            "id": 26,
+            "title": "Lesson 26",
+            "cards": [
+                "possible",
+                "compel",
+                "awkward",
+                "venture",
+                "awesome",
+                "guide",
+                "quench",
+                "betray",
+                "utter",
+                "pacify",
+                "respond",
+                "beckon"
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Lesson 27",
+            "cards": [
+                "despite",
+                "disrupt",
+                "rash",
+                "rapid",
+                "exhaust",
+                "severity",
+                "feeble",
+                "unite",
+                "cease",
+                "thrifty",
+                "miserly",
+                "monarch"
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Lesson 28",
+            "cards": [
+                "outlaw",
+                "promote",
+                "undernourished",
+                "illustrate",
+                "disclose",
+                "excessive",
+                "disaster",
+                "censor",
+                "culprit",
+                "juvenile",
+                "bait",
+                "insist"
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Lesson 29",
+            "cards": [
+                "toil",
+                "blunder",
+                "daze",
+                "mourn",
+                "subside",
+                "maim",
+                "comprehend",
+                "commend",
+                "final",
+                "exempt",
+                "vain",
+                "repetition"
+            ]
+        },
+        {
+            "id": 30,
+            "title": "Lesson 30",
+            "cards": [
+                "depict",
+                "motal",
+                "novel",
+                "occupant",
+                "appoint",
+                "quarter",
+                "site",
+                "quote",
+                "verse",
+                "morality",
+                "roam",
+                "attract"
+            ]
+        },
+        {
+            "id": 31,
+            "title": "Lesson 31",
+            "cards": [
+                "commuter",
+                "confine",
+                "idle",
+                "idol",
+                "jest",
+                "patriotic",
+                "dispute",
+                "valor",
+                "lunatic",
+                "vein",
+                "uneventful",
+                "fertile"
+            ]
+        },
+        {
+            "id": 32,
+            "title": "Lesson 32",
+            "cards": [
+                "refer",
+                "distress",
+                "diminish",
+                "maximum",
+                "flee",
+                "vulnerable",
+                "signify",
+                "mythology",
+                "colleague",
+                "torment",
+                "provide",
+                "loyalty"
+            ]
+        },
+        {
+            "id": 33,
+            "title": "Lesson 33",
+            "cards": [
+                "volunteer",
+                "prejudice",
+                "shrill",
+                "jolly",
+                "witty",
+                "hinder",
+                "lecture",
+                "abuse",
+                "mumble",
+                "mute",
+                "wad",
+                "retain"
+            ]
+        },
+        {
+            "id": 34,
+            "title": "Lesson 34",
+            "cards": [
+                "candidate",
+                "precede",
+                "adolescent",
+                "coeducational",
+                "radical",
+                "spontaneous",
+                "skim",
+                "vaccinate",
+                "untidy",
+                "utensil",
+                "sensitive",
+                "temperate"
+            ]
+        },
+        {
+            "id": 35,
+            "title": "Lesson 35",
+            "cards": [
+                "vague",
+                "elevate",
+                "lottery",
+                "finance",
+                "obtain",
+                "cinema",
+                "event",
+                "discard",
+                "soar",
+                "subsequent",
+                "relate",
+                "stationary"
+            ]
+        },
+        {
+            "id": 36,
+            "title": "Lesson 36",
+            "cards": [
+                "prompt",
+                "hasty",
+                "scorch",
+                "tempest",
+                "soothe",
+                "sympathetic",
+                "redeem",
+                "resume",
+                "harmony",
+                "refrain",
+                "illegal",
+                "narcotic"
+            ]
+        },
+        {
+            "id": 37,
+            "title": "Lesson 37",
+            "cards": [
+                "heir",
+                "majestic",
+                "dwindle",
+                "surplus",
+                "traitor",
+                "deliberate",
+                "vandal",
+                "drought",
+                "abide",
+                "unify",
+                "summit",
+                "heed"
+            ]
+        },
+        {
+            "id": 38,
+            "title": "Lesson 38",
+            "cards": [
+                "biography",
+                "drench",
+                "swarm",
+                "wobble",
+                "tumult",
+                "kneel",
+                "dejected",
+                "obedient",
+                "recede",
+                "tyrant",
+                "charity",
+                "verdict"
+            ]
+        },
+        {
+            "id": 39,
+            "title": "Lesson 39",
+            "cards": [
+                "unearth",
+                "depart",
+                "coincide",
+                "cancel",
+                "debtor",
+                "legible",
+                "placard",
+                "contagious",
+                "clergy",
+                "customary",
+                "transparent",
+                "scald"
+            ]
+        },
+        {
+            "id": 40,
+            "title": "Lesson 40",
+            "cards": [
+                "epidemic",
+                "obesity",
+                "magnify",
+                "chiropractor",
+                "obstacle",
+                "ventilate",
+                "jeopardize",
+                "negative",
+                "pension",
+                "vital",
+                "municipal",
+                "oral"
+            ]
+        },
+        {
+            "id": 41,
+            "title": "Lesson 41",
+            "cards": [
+                "complacent",
+                "wasp",
+                "rehabilitate",
+                "parole",
+                "vertical",
+                "multitude",
+                "nominate",
+                "potential",
+                "morgue",
+                "preoccupied",
+                "upholstery",
+                "indifference"
+            ]
+        },
+        {
+            "id": 42,
+            "title": "Lesson 42",
+            "cards": [
+                "maintain",
+                "snub",
+                "endure",
+                "wrath",
+                "expose",
+                "legend",
+                "ponder",
+                "resign",
+                "drastic",
+                "wharf",
+                "amend",
+                "ballot"
             ]
         }
     ]
