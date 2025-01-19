@@ -1,0 +1,192 @@
+{
+  "word": "bang",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bæŋ/",
+        "audio": "b/bang/bang__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/bæŋz/",
+        "audio": "b/bang/bangs__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/bæŋd/",
+        "audio": "b/bang/banged__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈbæŋɪŋ/",
+        "audio": "b/bang/banging__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bæŋ/",
+        "audio": "b/bang/bang__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/bæŋz/",
+        "audio": "b/bang/bangs__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/bæŋd/",
+        "audio": "b/bang/banged__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈbæŋɪŋ/",
+        "audio": "b/bang/banging__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "bang",
+      "heSheIt": "bangs"
+    },
+    "pastSimple": "banged",
+    "pastParticiple": "banged",
+    "ingForm": "banging"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to hit something in a way that makes a loud noise",
+      "sensetop": "bang on somethingbang something (with something)",
+      "examples": [
+        {
+          "text": "She banged on the door angrily.",
+          "contextForm": "bang on something"
+        },
+        {
+          "text": "The baby was banging the table with his spoon.",
+          "contextForm": "bang something (with something)"
+        },
+        {
+          "text": "She banged loudly on the table."
+        },
+        {
+          "text": "A branch banged against the window."
+        }
+      ],
+      "collocations": {
+        "adverb": ["hard", "loudly", "repeatedly"],
+        "preposition": ["against", "on"],
+        "phrases": [
+          "bang (something) down",
+          "bang (something) open",
+          "bang (something) shut"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to close something or to be closed with a loud noise",
+      "sensetop": "+ adj.bang somethingbang something + adj.",
+      "examples": [
+        {
+          "text": "A window was banging somewhere *(= opening and closing noisily)*."
+        },
+        {
+          "text": "The door banged shut behind her.",
+          "contextForm": "+ adj."
+        },
+        {
+          "text": "Don't bang the door when you go out!",
+          "contextForm": "bang something"
+        },
+        {
+          "text": "She banged the door shut.",
+          "contextForm": "bang something + adj."
+        }
+      ],
+      "synonyms": "slam",
+      "collocations": {
+        "adverb": ["hard", "loudly", "repeatedly"],
+        "preposition": ["against", "on"],
+        "phrases": [
+          "bang (something) down",
+          "bang (something) open",
+          "bang (something) shut"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to put something somewhere suddenly and violently",
+      "sensetop": "bang something + adv./prep.",
+      "examples": [
+        {
+          "text": "He banged the money down on the counter."
+        },
+        {
+          "text": "She banged saucepans around irritably."
+        },
+        {
+          "text": "He kept banging his chair against the wall."
+        }
+      ],
+      "synonyms": "slam"
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to hit something, especially a part of the body, against something by accident",
+      "sensetop": "bang something (+ adv./prep.)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "She tripped and banged her knee on the desk."
+        },
+        {
+          "text": "I banged my head badly."
+        },
+        {
+          "text": "He banged his head as he tried to stand up."
+        },
+        {
+          "text": "I banged my leg on the table."
+        },
+        {
+          "text": "She couldn't avoid banging her elbows against the cubicle walls as she showered."
+        }
+      ],
+      "synonyms": "bump",
+      "topics": ["Health problems"],
+      "collocations": {
+        "adverb": ["badly", "hard"],
+        "preposition": ["into", "on"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to have sex with somebody",
+      "sensetop": "bang somebody",
+      "labels": "(taboo, slang)",
+      "examples": []
+    },
+    {
+      "definition": "to force people to stop arguing and behave in a sensible way",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "definition": "to speak with enthusiasm in support of somebody/something",
+      "labels": "(especially British English)",
+      "examples": [
+        {
+          "text": "She’s really banging the drum for the new system."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "mid 16th cent.: imitative, perhaps of Scandinavian origin; compare with Old Norse bang ‘hammering’."
+}

@@ -1,0 +1,127 @@
+{
+  "word": "sew",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/səʊ/",
+        "audio": "s/sew/sew__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/səʊz/",
+        "audio": "s/sew/sews__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/səʊd/",
+        "audio": "s/sew/sewed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/səʊn/",
+        "audio": "s/sew/sewn__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsəʊɪŋ/",
+        "audio": "s/sew/sewing__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/səʊ/",
+        "audio": "s/sew/sew__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/səʊz/",
+        "audio": "s/sew/sews__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/səʊd/",
+        "audio": "s/sew/sewed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/səʊn/",
+        "audio": "s/sew/sewn__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsəʊɪŋ/",
+        "audio": "s/sew/sewing__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "sew",
+      "heSheIt": "sews"
+    },
+    "pastSimple": "sewed",
+    "pastParticiple": "sewed",
+    "ingForm": "sewing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to use a needle and thread to make stitches in cloth",
+      "sensetop": "sew something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "My mother taught me how to sew."
+        },
+        {
+          "text": "to sew by hand/machine"
+        },
+        {
+          "text": "to sew a seam",
+          "contextForm": "sew something"
+        }
+      ],
+      "topics": ["Hobbies"],
+      "collocations": {
+        "adverb": ["neatly", "together", "up"],
+        "preposition": ["into", "onto"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make, repair or attach something using a needle and thread",
+      "sensetop": "sew somethingsew something onsew something + adv./prep.",
+      "examples": [
+        {
+          "text": "She sews all her own clothes.",
+          "contextForm": "sew something"
+        },
+        {
+          "text": "Can you sew a button on for me?",
+          "contextForm": "sew something on"
+        },
+        {
+          "text": "Surgeons were able to sew the finger back on."
+        },
+        {
+          "text": "The jewel was sewn into the lining of his coat.",
+          "contextForm": "sew something + adv./prep."
+        },
+        {
+          "text": "The squares of fabric were all sewn neatly together."
+        },
+        {
+          "text": "He sewed the patch onto the back of his jeans."
+        }
+      ],
+      "collocations": {
+        "adverb": ["neatly", "together", "up"],
+        "preposition": ["into", "onto"]
+      }
+    }
+  ],
+  "wordOrigin": "Old English siwan, of Germanic origin, from an Indo-European root shared by Latin suere and Greek suein."
+}

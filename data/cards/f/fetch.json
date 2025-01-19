@@ -1,0 +1,115 @@
+{
+  "word": "fetch",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/fetʃ/",
+        "audio": "f/fetch/fetch__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfetʃɪz/",
+        "audio": "f/fetch/fetches__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/fetʃt/",
+        "audio": "f/fetch/fetched__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfetʃɪŋ/",
+        "audio": "f/fetch/fetching__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/fetʃ/",
+        "audio": "f/fetch/fetch__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfetʃɪz/",
+        "audio": "f/fetch/fetches__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/fetʃt/",
+        "audio": "f/fetch/fetched__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfetʃɪŋ/",
+        "audio": "f/fetch/fetching__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "fetch",
+      "heSheIt": "fetches"
+    },
+    "pastSimple": "fetched",
+    "pastParticiple": "fetched",
+    "ingForm": "fetching"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to go to where somebody/something is and bring them/it back",
+      "sensetop": "fetch somebody/somethingfetch somebody something",
+      "labels": "(especially British English)",
+      "examples": [
+        {
+          "text": "to fetch help/a doctor",
+          "contextForm": "fetch somebody/something"
+        },
+        {
+          "text": "The inhabitants have to walk a mile to fetch water."
+        },
+        {
+          "text": "She's gone to fetch the kids from school."
+        },
+        {
+          "text": "Could you fetch me my bag?",
+          "contextForm": "fetch somebody something"
+        },
+        {
+          "text": "Could you fetch my bag for me?"
+        },
+        {
+          "text": "He fetched a couple of towels from the bathroom."
+        },
+        {
+          "text": "He ran to fetch help."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to be sold for a particular price",
+      "sensetop": "fetch something",
+      "examples": [
+        {
+          "text": "The painting is expected to fetch $10 000 at auction."
+        }
+      ],
+      "synonyms": "sell for"
+    },
+    {
+      "definition": "to do a lot of little jobs for somebody as if you were their servant",
+      "examples": [
+        {
+          "text": "Most of her day was spent fetching and carrying for her family."
+        },
+        {
+          "text": "She expected him to do all the fetching and carrying."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English fecc(e)an, variant of fetian, probably related to fatian ‘grasp’, of Germanic origin and related to German fassen."
+}

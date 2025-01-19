@@ -1,0 +1,151 @@
+{
+  "word": "bump",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bʌmp/",
+        "audio": "b/bump/bump__gb_5.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/bʌmps/",
+        "audio": "b/bump/bumps__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/bʌmpt/",
+        "audio": "b/bump/bumped__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈbʌmpɪŋ/",
+        "audio": "b/bump/bumping__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bʌmp/",
+        "audio": "b/bump/bump__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/bʌmps/",
+        "audio": "b/bump/bumps__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/bʌmpt/",
+        "audio": "b/bump/bumped__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈbʌmpɪŋ/",
+        "audio": "b/bump/bumping__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "bump",
+      "heSheIt": "bumps"
+    },
+    "pastSimple": "bumped",
+    "pastParticiple": "bumped",
+    "ingForm": "bumping"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to hit somebody/something by accident",
+      "sensetop": "bump into somebody/somethingbump against somebody/something",
+      "examples": [
+        {
+          "text": "In the dark I bumped into a chair.",
+          "contextForm": "bump into somebody/something"
+        },
+        {
+          "text": "The car bumped against the kerb.",
+          "contextForm": "bump against somebody/something"
+        },
+        {
+          "text": "I bumped into the corner of a table as I left."
+        },
+        {
+          "text": "I ran after her, bumping against people in my rush."
+        }
+      ],
+      "collocations": {
+        "adverb": ["accidentally", "gently", "almost"],
+        "preposition": ["against", "into", "on"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to hit something, especially a part of your body, against or on something",
+      "sensetop": "bump something (against/on something)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Be careful not to bump your head on the beam when you stand up."
+        },
+        {
+          "text": "I bumped my head on the door frame."
+        },
+        {
+          "text": "She bumped her knee as she was climbing into the pool."
+        },
+        {
+          "text": "Their boat came up alongside, bumping the side of ours."
+        },
+        {
+          "text": "Toddlers are always falling over and bumping their heads."
+        }
+      ],
+      "topics": ["Health problems"],
+      "collocations": {
+        "adverb": ["accidentally", "gently", "almost"],
+        "preposition": ["against", "into", "on"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to move across a rough surface",
+      "sensetop": "+ adv./prep.bump something + adv./prep.",
+      "examples": [
+        {
+          "text": "The jeep bumped along the dirt track.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "The car **bumped its way** slowly down the drive.",
+          "contextForm": "bump something + adv./prep."
+        },
+        {
+          "text": "She entered the subway, bumping her bags down the steps."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to move somebody from one group or position to another; to remove somebody from a group",
+      "sensetop": "bump somebody + adv./prep.",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The airline apologized and bumped us up to first class."
+        },
+        {
+          "text": "If you are bumped off an airline because of overbooking, you are entitled to compensation."
+        },
+        {
+          "text": "The coach told him he had been bumped from the crew."
+        }
+      ],
+      "topics": ["Transport by air"]
+    }
+  ],
+  "wordOrigin": "mid 16th cent. (as a verb): imitative, perhaps of Scandinavian origin."
+}

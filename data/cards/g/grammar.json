@@ -1,0 +1,81 @@
+{
+  "word": "grammar",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɡræmə(r)/",
+        "audio": "g/grammar/grammar__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɡræmər/",
+        "audio": "g/grammar/grammar__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the rules in a language for changing the form of words and joining them into sentences",
+      "cefr": "a1",
+      "examples": [
+        {
+          "text": "the basic rules of grammar"
+        },
+        {
+          "text": "the complexities of English grammar"
+        }
+      ],
+      "topics": ["Language"],
+      "collocations": {
+        "adjective": ["correct", "good", "bad"],
+        "verb + grammar": ["correct", "teach", "learn"],
+        "grammar + noun": ["rules"],
+        "phrases": ["the rules of grammar"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a person’s knowledge and use of a language",
+      "cefr": "a2",
+      "examples": [
+        {
+          "text": "His grammar is appalling."
+        },
+        {
+          "text": "bad grammar"
+        },
+        {
+          "text": "People were too polite to correct my grammar when I spoke German."
+        },
+        {
+          "text": "Spelling and good grammar are both very important."
+        }
+      ],
+      "topics": ["Language"],
+      "collocations": {
+        "adjective": ["correct", "good", "bad"],
+        "verb + grammar": ["correct", "teach", "learn"],
+        "grammar + noun": ["rules"],
+        "phrases": ["the rules of grammar"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a book containing a description of the rules of a language",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "a French grammar"
+        }
+      ],
+      "topics": ["Language"]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French gramaire, via Latin from Greek grammatikē (tekhnē) ‘(art) of letters’, from gramma, grammat- ‘letter of the alphabet, thing written’."
+}
