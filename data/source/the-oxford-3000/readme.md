@@ -11,9 +11,9 @@ The words have been chosen based on their frequency in the Oxford English Corpus
 
 ## Data Source
 
-> The **Oxford 3000** is a list of the 3000 most important words to learn in English. The keywords of the Oxford 3000 have been carefully selected by a group of language experts and experienced teachers as the words which should receive priority in vocabulary study because of their importance and usefulness.
+The **Oxford 3000** is a list of the 3000 most important words to learn in English. The keywords of the Oxford 3000 have been carefully selected by a group of language experts and experienced teachers as the words which should receive priority in vocabulary study because of their importance and usefulness.
 
-This is just a list of words to use for learning English, they are selected based on their frequency in the Oxford English Corpus and relevance to learners of English. The credit goes to Oxford Learner's Dictionaries!
+> This is just a list of words to use for learning English, they are selected based on their frequency in the Oxford English Corpus and relevance to learners of English. **The credit goes to Oxford Learner's Dictionaries!**
 
 ### How can I recognize the keywords in the dictionary?
 The words of the Oxford 3000 are shown in the dictionary with a key symbol, and sometimes the most useful parts of the entries (particular meanings, phrasal verbs and idioms) are also marked with a smaller key symbol. The entries for keywords often have extra information in the form of more examples of use, special notes explaining synonyms or related words, or helpful illustrations.
