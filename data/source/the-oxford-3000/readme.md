@@ -15,6 +15,10 @@ The words have been chosen based on their frequency in the Oxford English Corpus
 - [the-oxford-3000-american-english.txt](./the-oxford-3000-american-english.txt) (Text)
 - [the-oxford-3000-american-english.json](./the-oxford-3000-american-english.json) (JSON)
 
+### Combine British & American English Words
+- [the-oxford-3000-combine.txt](./the-oxford-3000-combine.txt) (Text)
+- [the-oxford-3000-combine.json](./the-oxford-3000-combine.json) (JSON)
+
 ### URL Template
 #### British English
 ```
