@@ -6,8 +6,22 @@ The words have been chosen based on their frequency in the Oxford English Corpus
 
 
 ## Download The Oxford 3000 Wordlist
-- [oxford-3000-words.txt](./oxford-3000-words.txt) (Plain Text)
-- [oxford-3000-words.json](./oxford-3000-words.json) (JSON)
+- [oxford-3000-words.txt](./oxford3000.txt) (Plain Text)
+- [oxford-3000-words.json](./oxford3000.json) (JSON)
+
+### URL Template
+#### British English
+```
+https://www.oxfordlearnersdictionaries.com/definition/english/{word}
+```
+#### American English
+```
+https://www.oxfordlearnersdictionaries.com/definition/american_english/{word}
+```
+Some of the words are having a number suffix because they are having multiple meanings, for example:
+- https://www.oxfordlearnersdictionaries.com/definition/american_english/abroad
+- https://www.oxfordlearnersdictionaries.com/definition/american_english/live1
+- https://www.oxfordlearnersdictionaries.com/definition/american_english/live2
 
 ## Data Source
 
@@ -36,7 +50,7 @@ The Oxford 3000 list covers British and American English. The keywords are liste
 
 ### References
 - [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/)
-- [The Oxford 3000](https://www.oxfordlearnersdictionaries.com/about/oxford3000)
-- [The Oxford 3000: American English Dictionary](https://www.oxfordlearnersdictionaries.com/wordlist/american_english/oxford3000/)
-- [The Oxford 3000 and the Oxford 5000](https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford3000-5000)
-- [Oxford 3000 and 5000](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000)
+- [Oxford Learner's Dictionaries - The Oxford 3000](https://www.oxfordlearnersdictionaries.com/about/oxford3000)
+- [Oxford Learner's Dictionaries - The Oxford 3000: American English Dictionary](https://www.oxfordlearnersdictionaries.com/wordlist/american_english/oxford3000/)
+- [Oxford Learner's Dictionaries - The Oxford 3000 and the Oxford 5000](https://www.oxfordlearnersdictionaries.com/about/wordlists/oxford3000-5000)
+- [Oxford Learner's Dictionaries - Oxford 3000 and 5000](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000)
