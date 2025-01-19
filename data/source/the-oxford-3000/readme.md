@@ -10,14 +10,18 @@ The words have been chosen based on their frequency in the Oxford English Corpus
 #### British English
 - [the-oxford-3000.txt](./the-oxford-3000.txt) (Text)
 - [the-oxford-3000.json](./the-oxford-3000.json) (JSON)
+- [the-oxford-3000.pdf](./the-oxford-3000.pdf) (PDF)
 
 #### American English
-- [the-oxford-3000-american-english.txt](./the-oxford-3000-american-english.txt) (Text)
-- [the-oxford-3000-american-english.json](./the-oxford-3000-american-english.json) (JSON)
+- [american-oxford-3000.txt](./american-oxford-3000.txt) (Text)
+- [american-oxford-3000.json](./american-oxford-3000.json) (JSON)
+- [american-oxford-3000.pdf](./american-oxford-3000.pdf) (PDF)
 
 ### Combine British & American English Words
-- [the-oxford-3000-combine.txt](./the-oxford-3000-combine.txt) (Text)
-- [the-oxford-3000-combine.json](./the-oxford-3000-combine.json) (JSON)
+- [oxford-3000-combine.txt](./oxford-3000-combine.txt) (Text)
+- [oxford-3000-combine.json](./oxford-3000-combine.json) (JSON)
+
+<!-- Add CSV, Doc, Excel version -->
 
 ### URL Template
 #### British English
