@@ -1,0 +1,403 @@
+{
+  "word": "return",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈtɜːn/",
+        "audio": "data/audio/r/return/return__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈtɜːnz/",
+        "audio": "data/audio/r/return/returns__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈtɜːnd/",
+        "audio": "data/audio/r/return/returned__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈtɜːnɪŋ/",
+        "audio": "data/audio/r/return/returning__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈtɜːrn/",
+        "audio": "data/audio/r/return/return__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈtɜːrnz/",
+        "audio": "data/audio/r/return/returns__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈtɜːrnd/",
+        "audio": "data/audio/r/return/returned__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈtɜːrnɪŋ/",
+        "audio": "data/audio/r/return/returning__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "return",
+      "heSheIt": "returns"
+    },
+    "pastSimple": "returned",
+    "pastParticiple": "returned",
+    "ingForm": "returning"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to come or go back from one place to another",
+      "sensetop": "return to…return from…",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I waited a long time for him to return."
+        },
+        {
+          "text": "returning emigrants/exiles/refugees *(= who are coming home after being away)*"
+        },
+        {
+          "text": "She's returning to Australia tomorrow after six months in Europe.",
+          "contextForm": "return to…"
+        },
+        {
+          "text": "He had **recently returned **to this country after living in Spain."
+        },
+        {
+          "text": "I had to return to the store to look for my purse."
+        },
+        {
+          "text": "I returned from work to find the house empty.",
+          "contextForm": "return from…"
+        },
+        {
+          "text": "People were **returning home** for the weekend."
+        },
+        {
+          "text": "They were forced to return to the port because of bad weather."
+        },
+        {
+          "text": "The prime minister recently returned from a summit at Camp David."
+        },
+        {
+          "text": "We locked the door in case Mary returned unexpectedly."
+        },
+        {
+          "text": "He finally returned with the drinks."
+        },
+        {
+          "text": "The patient subsequently returned for surgery."
+        },
+        {
+          "text": "She was preparing to return to El Salvador."
+        },
+        {
+          "text": "She quickly returned to the car and sped off."
+        },
+        {
+          "text": "Our aircraft all returned safely to their bases."
+        },
+        {
+          "text": "She had recently returned from Paris."
+        },
+        {
+          "text": "Charlie reluctantly returned to his seat."
+        },
+        {
+          "text": "I couldn't wait to return from my travels."
+        },
+        {
+          "text": "I will have to ask that you return directly to your houses."
+        },
+        {
+          "text": "When did she return home from the trip?"
+        },
+        {
+          "text": "They returned to find the house had been burgled."
+        }
+      ],
+      "collocations": {
+        "adverb": ["recently", "shortly", "promptly"],
+        "verb + return": ["be due to", "be expected to", "be likely to"],
+        "preposition": ["from", "to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to bring, give, put or send something back to somebody/something",
+      "sensetop": "return somebody/something to somebody/somethingreturn somethingreturn somebody/something + adj.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We had to return the hairdryer to the store because it was faulty.",
+          "contextForm": "return somebody/something to somebody/something"
+        },
+        {
+          "text": "I must return some books to the library."
+        },
+        {
+          "text": "The court ordered him to return the children to their mother."
+        },
+        {
+          "text": "Completed questionnaires should be returned to this address."
+        },
+        {
+          "text": "He refused to return our money.",
+          "contextForm": "return something"
+        },
+        {
+          "text": "I returned the letter unopened.",
+          "contextForm": "return somebody/something + adj."
+        },
+        {
+          "text": "I offered to return his Christmas gift to me."
+        },
+        {
+          "text": "She never returned the book to me."
+        },
+        {
+          "text": "See that the documents are returned promptly, please."
+        },
+        {
+          "text": "He was immediately returned to his jail cell."
+        },
+        {
+          "text": "Don't forget to return my pen!"
+        }
+      ],
+      "topics": ["Shopping"],
+      "collocations": {
+        "adverb": ["recently", "shortly", "promptly"],
+        "verb + return": ["be due to", "be expected to", "be likely to"],
+        "preposition": ["from", "to"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to come back again",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The following day the pain returned."
+        },
+        {
+          "text": "There's a chance the cancer will return."
+        },
+        {
+          "text": "Confidence returned and prices started to rise."
+        },
+        {
+          "text": "The bad weather has **returned with a vengeance**."
+        },
+        {
+          "text": "His headache returned instantly."
+        },
+        {
+          "text": "Her symptoms returned periodically."
+        },
+        {
+          "text": "My strength was slowly returning to me."
+        },
+        {
+          "text": "There are positive signs that peace is returning."
+        },
+        {
+          "text": "the tears that threatened to return"
+        },
+        {
+          "text": "Her suspicions returned when things started going missing again."
+        }
+      ],
+      "synonyms": "reappear, resurface",
+      "collocations": {
+        "adverb": ["recently", "shortly", "promptly"],
+        "verb + return": ["be due to", "be expected to", "be likely to"],
+        "preposition": ["from", "to"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to start discussing a subject you were discussing earlier, or doing an activity you were doing earlier",
+      "sensetop": "return to something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He returns to this topic later in the report."
+        },
+        {
+          "text": "She looked up briefly then returned to her sewing."
+        },
+        {
+          "text": "The doctor may allow her to **return to work** next week."
+        },
+        {
+          "text": "Suspicions were aroused when he failed to return to work on Monday morning."
+        },
+        {
+          "text": "Ali returned triumphantly to boxing in 1970."
+        },
+        {
+          "text": "Lack of cash forced her to return to work."
+        },
+        {
+          "text": "His conversation returns repeatedly to the same subjects."
+        },
+        {
+          "text": "Let me return briefly to this question."
+        },
+        {
+          "text": "She is due to return to school in a fortnight."
+        }
+      ],
+      "collocations": {
+        "adverb": ["recently", "shortly", "promptly"],
+        "verb + return": ["be due to", "be expected to", "be likely to"],
+        "preposition": ["from", "to"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to go back to a previous state",
+      "sensetop": "return to something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Train services have **returned to normal** after the strike."
+        },
+        {
+          "text": "The land has returned to its natural state."
+        },
+        {
+          "text": "Many find returning to civilian life difficult."
+        }
+      ],
+      "collocations": {
+        "adverb": ["recently", "shortly", "promptly"],
+        "verb + return": ["be due to", "be expected to", "be likely to"],
+        "preposition": ["from", "to"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to do or give something to somebody because they have done or given the same to you first; to have the same feeling about somebody that they have about you",
+      "sensetop": "return something",
+      "examples": [
+        {
+          "text": "to return a smile/gaze/greeting"
+        },
+        {
+          "text": "If you assist people when they ask for help, it is more likely they will **return the favour**."
+        },
+        {
+          "text": "She phoned him several times but he was too busy to **return her call**."
+        },
+        {
+          "text": "It's time we returned their invitation *(= invite them to something as they invited us first)*."
+        },
+        {
+          "text": "‘You were both wonderful!’ ‘So were you!’ we said, returning the compliment."
+        },
+        {
+          "text": "to return a kiss *(= to kiss somebody with the same enthusiasm with which they kiss you)*"
+        },
+        {
+          "text": "He did not return her love."
+        },
+        {
+          "text": "to **return fire** *(= to shoot at somebody who is shooting at you)*"
+        },
+        {
+          "text": "Kevin gladly returned her hug."
+        },
+        {
+          "text": "He hadn't bothered to return her messages."
+        },
+        {
+          "text": "He soon falls in love with Amanda, but she does not return his affection."
+        }
+      ],
+      "collocations": {
+        "adverb": ["recently", "shortly", "promptly"],
+        "verb + return": ["be due to", "be expected to", "be likely to"],
+        "preposition": ["from", "to"]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to hit the ball back to your opponent during a game",
+      "sensetop": "return something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "to return a service/shot"
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to give a decision about something in court",
+      "sensetop": "return a verdict",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The jury returned a verdict of not guilty."
+        },
+        {
+          "text": "The inquest returned a verdict of accidental death."
+        }
+      ],
+      "topics": ["Preferences and decisions"]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to elect somebody to a political position",
+      "sensetop": "be returned (as something)be returned (to something)",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "She was returned as MP for Edgbaston in the last election.",
+          "contextForm": "be returned (as something)"
+        },
+        {
+          "text": "He was returned to Parliament with an increased majority.",
+          "contextForm": "be returned (to something)"
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to give or produce a particular amount of money as a profit or loss",
+      "sensetop": "return something",
+      "labels": "(business)",
+      "examples": [
+        {
+          "text": "to return a high rate of interest"
+        },
+        {
+          "text": "Last year the company returned a loss of £157 million."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: the verb from Old French returner, from Latin re- ‘back’ + tornare ‘to turn’; the noun via Anglo-Norman French."
+}

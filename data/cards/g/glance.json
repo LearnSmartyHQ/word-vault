@@ -1,0 +1,143 @@
+{
+  "word": "glance",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɡlɑːns/",
+        "audio": "data/audio/g/glance/glance__gb_5.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈɡlɑːnsɪz/",
+        "audio": "data/audio/g/glance/glances__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɡlɑːnst/",
+        "audio": "data/audio/g/glance/glanced__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈɡlɑːnsɪŋ/",
+        "audio": "data/audio/g/glance/glancing__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡlæns/",
+        "audio": "data/audio/g/glance/glance__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈɡlænsɪz/",
+        "audio": "data/audio/g/glance/glances__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɡlænst/",
+        "audio": "data/audio/g/glance/glanced__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈɡlænsɪŋ/",
+        "audio": "data/audio/g/glance/glancing__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "glance",
+      "heSheIt": "glances"
+    },
+    "pastSimple": "glanced",
+    "pastParticiple": "glanced",
+    "ingForm": "glancing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to look quickly at something/somebody",
+      "sensetop": "+ adv./prep.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She glanced at her watch."
+        },
+        {
+          "text": "He glanced around the room."
+        },
+        {
+          "text": "I glanced up quickly to see who had come in."
+        },
+        {
+          "text": "At that moment she happened to glance up."
+        },
+        {
+          "text": "He glanced covertly at his watch."
+        },
+        {
+          "text": "He glanced curiously around him."
+        },
+        {
+          "text": "He glanced towards the kitchen."
+        },
+        {
+          "text": "He turned to glance in our direction."
+        },
+        {
+          "text": "Norton glanced sharply at him."
+        },
+        {
+          "text": "She barely glanced at him."
+        },
+        {
+          "text": "She glanced across to where the others were standing chatting."
+        },
+        {
+          "text": "She glanced nervously over her shoulder."
+        },
+        {
+          "text": "glancing curiously about him"
+        }
+      ],
+      "collocations": {
+        "adverb": ["briefly", "quickly", "sharply"],
+        "verb + glance": ["pause to", "turn to", "happen to"],
+        "preposition": ["about", "around", "round"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to read something quickly and not carefully or completely",
+      "sensetop": "glance at/down/over/through something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I only had time to glance at my emails."
+        },
+        {
+          "text": "He glanced briefly down the list of names."
+        },
+        {
+          "text": "She glanced through the report."
+        },
+        {
+          "text": "She glanced through the report on the way to the meeting."
+        },
+        {
+          "text": "She glanced briefly at his lapel badge."
+        }
+      ],
+      "synonyms": "scan",
+      "collocations": {
+        "adverb": ["briefly", "quickly", "sharply"],
+        "verb + glance": ["pause to", "turn to", "happen to"],
+        "preposition": ["about", "around", "round"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘rebound obliquely’): probably a nasalized form of obsolete glace in the same sense, from Old French glacier ‘to slip’, from glace ‘ice’, based on Latin glacies."
+}

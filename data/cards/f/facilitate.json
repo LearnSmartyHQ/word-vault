@@ -1,0 +1,88 @@
+{
+  "word": "facilitate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/fəˈsɪlɪteɪt/",
+        "audio": "data/audio/f/facilitate/facilitate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/fəˈsɪlɪteɪts/",
+        "audio": "data/audio/f/facilitate/facilitates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/fəˈsɪlɪteɪtɪd/",
+        "audio": "data/audio/f/facilitate/facilitated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/fəˈsɪlɪteɪtɪŋ/",
+        "audio": "data/audio/f/facilitate/facilitating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/fəˈsɪlɪteɪt/",
+        "audio": "data/audio/f/facilitate/facilitate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/fəˈsɪlɪteɪts/",
+        "audio": "data/audio/f/facilitate/facilitates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/fəˈsɪlɪteɪtɪd/",
+        "audio": "data/audio/f/facilitate/facilitated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/fəˈsɪlɪteɪtɪŋ/",
+        "audio": "data/audio/f/facilitate/facilitating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "facilitate",
+      "heSheIt": "facilitates"
+    },
+    "pastSimple": "facilitated",
+    "pastParticiple": "facilitated",
+    "ingForm": "facilitating"
+  },
+  "definitions": [
+    {
+      "definition": "to make an action or a process possible or easier",
+      "sensetop": "facilitate something",
+      "examples": [
+        {
+          "text": "The new trade agreement should facilitate more rapid economic growth."
+        },
+        {
+          "text": "Structured teaching facilitates learning."
+        },
+        {
+          "text": "The use of computers has greatly facilitated the firm's ability to keep accurate records."
+        },
+        {
+          "text": "Banking secrecy laws need to be lifted in order to facilitate investigation."
+        },
+        {
+          "text": "The smaller meetings will facilitate participation by all staff."
+        }
+      ],
+      "collocations": {
+        "adverb": ["greatly", "further"],
+        "verb + facilitate": ["be designed to", "help (to)"]
+      }
+    }
+  ],
+  "wordOrigin": "early 17th cent.: from French faciliter, from Italian facilitare, from facile ‘easy’, from Latin facilis ‘easy’, from facere ‘do, make’."
+}

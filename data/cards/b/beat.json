@@ -1,0 +1,511 @@
+{
+  "word": "beat",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/biːt/",
+        "audio": "data/audio/b/beat/beat__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/biːts/",
+        "audio": "data/audio/b/beat/beats__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈbiːtn/",
+        "audio": "data/audio/b/beat/beaten__gb_4.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈbiːtɪŋ/",
+        "audio": "data/audio/b/beat/beating__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/biːt/",
+        "audio": "data/audio/b/beat/beat__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/biːts/",
+        "audio": "data/audio/b/beat/beats__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈbiːtn/",
+        "audio": "data/audio/b/beat/beaten__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈbiːtɪŋ/",
+        "audio": "data/audio/b/beat/beating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "beat",
+      "heSheIt": "beats"
+    },
+    "pastSimple": "beat",
+    "pastParticiple": "beaten",
+    "ingForm": "beating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to defeat somebody in a game or competition",
+      "sensetop": "beat somebody at somethingbeat somebody",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He beat me at chess.",
+          "contextForm": "beat somebody at something"
+        },
+        {
+          "text": "She was **narrowly beaten** by the German in the final.",
+          "contextForm": "beat somebody"
+        },
+        {
+          "text": "I beat her by just three points."
+        },
+        {
+          "text": "Their recent wins have proved they're still **the ones to beat** *(= the most difficult team to beat)*."
+        },
+        {
+          "text": "He was beaten into second place by the American."
+        },
+        {
+          "text": "He was narrowly beaten by his opponent."
+        },
+        {
+          "text": "Watson was a higher-rated player who consistently beat her."
+        },
+        {
+          "text": "Her entry really did beat the others hands down."
+        },
+        {
+          "text": "She won the 100 metres, beating a number of top Europeans."
+        },
+        {
+          "text": "They were soundly beaten in the finals by a much stronger Dutch side."
+        }
+      ],
+      "collocations": {
+        "adverb": ["comfortably", "comprehensively", "convincingly"],
+        "preposition": ["at", "by"],
+        "phrases": ["beat somebody into second, third, etc. place"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to do or be better than something",
+      "sensetop": "beat something",
+      "labels": "(rather informal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**Nothing beats** home cooking."
+        },
+        {
+          "text": "**You can't beat** Italian shoes."
+        },
+        {
+          "text": "For a break in the sun, Thailand is **hard to beat**."
+        },
+        {
+          "text": "They want to **beat the** speed **record** *(= go faster than anyone before)*."
+        },
+        {
+          "text": "This is his latest attempt to beat the world record."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to get control of something",
+      "sensetop": "beat something",
+      "labels": "(informal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The government's main aim is to beat inflation."
+        },
+        {
+          "text": "Book a break in the sun to try to beat those winter blues."
+        },
+        {
+          "text": "He is struggling to beat his addiction."
+        },
+        {
+          "text": "The new law is a way of trying to beat terrorism."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to be too difficult for somebody",
+      "sensetop": "beat somebodybeat somebody why, how, etc…",
+      "labels": "(informal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "It is a problem that beats even the experts.",
+          "contextForm": "beat somebody"
+        },
+        {
+          "text": "**It beats me** *(= I don't know)* why he did it.",
+          "contextForm": "beat somebody why, how, etc…"
+        },
+        {
+          "text": "**What beats me** *(= what I don't understand)* is how it was done so quickly."
+        },
+        {
+          "text": "‘Where's she gone?’ ‘Beats me.’"
+        }
+      ],
+      "synonyms": "defeat"
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to avoid something",
+      "sensetop": "beat something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "If we go early we should beat the traffic."
+        },
+        {
+          "text": "We were up and off early to **beat the heat**."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to hit a person hard and many times in order to hurt them",
+      "sensetop": "beat somebodybeat somebody + adv./prep.beat somebody + adj.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "At that time children were regularly beaten for quite minor offences *(= as a punishment)*.",
+          "contextForm": "beat somebody"
+        },
+        {
+          "text": "A man was found **beaten to death**.",
+          "contextForm": "beat somebody + adv./prep."
+        },
+        {
+          "text": "The prisoners were beaten into submission *(= they were beaten until they did what was wanted)*."
+        },
+        {
+          "text": "They beat him unconscious *(= hit him until he became unconscious)*.",
+          "contextForm": "beat somebody + adj."
+        },
+        {
+          "text": "The men took him out into the street and **beat him senseless**."
+        },
+        {
+          "text": "His stepfather repeatedly beat his mother."
+        },
+        {
+          "text": "He had been beaten around the head with a rock."
+        },
+        {
+          "text": "They used to get beaten with a wooden spoon."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to hit something hard several times",
+      "sensetop": "+ adv./prep.beat somethingbeat something + adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Somebody was beating at the door.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "Hailstones beat against the window."
+        },
+        {
+          "text": "Someone was **beating a drum**.",
+          "contextForm": "beat something"
+        },
+        {
+          "text": "I was beating dust out of the rugs *(= removing dust from the rugs by beating them)*.",
+          "contextForm": "beat something + adv./prep."
+        },
+        {
+          "text": "They could hear the rain beating on the roof."
+        },
+        {
+          "text": "He was beating the carpet with a large brush."
+        }
+      ],
+      "collocations": {
+        "adverb": ["badly", "brutally", "mercilessly"],
+        "preposition": ["with"],
+        "phrases": [
+          "beat somebody about the head",
+          "beat somebody over the head",
+          "beat somebody to death"
+        ]
+      }
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to make, or cause something to make, a regular sound or movement",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She's alive—her **heart is** still **beating**."
+        },
+        {
+          "text": "His heart started beating faster."
+        },
+        {
+          "text": "We heard the **drums beating**."
+        },
+        {
+          "text": "The bird was **beating its wings** *(= moving them up and down)* frantically."
+        },
+        {
+          "text": "Her heart began to beat a little faster."
+        },
+        {
+          "text": "I could feel my heart beating wildly."
+        },
+        {
+          "text": "I could detect a pulse beating very faintly."
+        },
+        {
+          "text": "Its wings beat feebly against the window."
+        }
+      ],
+      "collocations": {
+        "adverb": ["fast", "frantically", "furiously"]
+      }
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to mix something with short quick movements with a fork, etc.",
+      "sensetop": "beat something upbeat somethingbeat A and B together",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Beat the eggs up to a frothy consistency.",
+          "contextForm": "beat something up"
+        },
+        {
+          "text": "Beat the mixture well, until it is light and creamy.",
+          "contextForm": "beat something"
+        },
+        {
+          "text": "Add three eggs, lightly beaten."
+        },
+        {
+          "text": "Beat the flour and milk together.",
+          "contextForm": "beat A and B together"
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adverb": ["thoroughly", "well", "lightly"]
+      }
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to change the shape of something, especially metal, by hitting it with a hammer, etc.",
+      "sensetop": "beat something (out) (into something)beat something + adj.",
+      "examples": [
+        {
+          "text": "The gold is beaten out into thin strips.",
+          "contextForm": "beat something (out) (into something)"
+        },
+        {
+          "text": "beaten silver"
+        },
+        {
+          "text": "The metal had been beaten flat.",
+          "contextForm": "beat something + adj."
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to make a path, etc. by walking somewhere or by pressing branches down and walking over them",
+      "sensetop": "beat something (through, across, along, etc. something)",
+      "examples": [
+        {
+          "text": "a well-beaten track *(= one that has been worn hard by much use)*"
+        },
+        {
+          "text": "The hunters beat a path through the undergrowth."
+        }
+      ]
+    },
+    {
+      "definition": "to talk about something for a long time without coming to the main point",
+      "examples": [
+        {
+          "text": "Stop beating about the bush and tell me what you want."
+        }
+      ]
+    },
+    {
+      "definition": "to defeat or do better than somebody in an activity which they have chosen or in which they think they are strong",
+      "examples": []
+    },
+    {
+      "definition": "to think very hard about something for a long time",
+      "labels": "(especially North American English, informal)",
+      "examples": [
+        {
+          "text": "I’ve been beating my brains out all weekend to get this script written."
+        }
+      ]
+    },
+    {
+      "definition": "to show that you feel sorry about something that you have done, especially in public and in an exaggerated way",
+      "examples": []
+    },
+    {
+      "definition": "to finish a task, race, etc. before a particular time",
+      "examples": [
+        {
+          "text": "The player beat the clock and set a new record."
+        }
+      ]
+    },
+    {
+      "definition": "to hit somebody very hard several times and hurt them very much",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Get out or I’ll beat the living daylights out of you!"
+        }
+      ]
+    },
+    {
+      "definition": "to waste your effort by trying to do something that is no longer possible",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to speak with enthusiasm in support of somebody/something",
+      "labels": "(especially British English)",
+      "examples": [
+        {
+          "text": "She’s really banging the drum for the new system."
+        }
+      ]
+    },
+    {
+      "definition": "to hit somebody/something very hard",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "He was a dirty player and loved to kick hell out of the opposition."
+        }
+      ]
+    },
+    {
+      "definition": "to go away immediately",
+      "labels": "(slang)",
+      "examples": [
+        {
+          "text": "This is private land, so beat it!"
+        }
+      ]
+    },
+    {
+      "definition": "if a lot of people beat a path to somebody’s door, they are all interested in something that person has to sell, or can do or tell them",
+      "examples": [
+        {
+          "text": "Top theatrical agents are beating a path to the teenager's door."
+        }
+      ]
+    },
+    {
+      "definition": "to escape without being punished",
+      "labels": "(North American English, slang)",
+      "examples": []
+    },
+    {
+      "definition": "to go away or back quickly, especially to avoid something unpleasant",
+      "examples": [
+        {
+          "text": "I decided to beat a hasty retreat."
+        }
+      ]
+    },
+    {
+      "definition": "to mark or follow the rhythm of music, by waving a stick, tapping your foot (= hitting it against the floor), etc.",
+      "examples": [
+        {
+          "text": "She beat time with her fingers."
+        }
+      ]
+    },
+    {
+      "definition": "to get or do something before somebody else can",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "(to hit somebody until they are) covered with bruises (= blue, brown or purple marks on the body)",
+      "examples": []
+    },
+    {
+      "definition": "used to express surprise or anger",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "if you cannot defeat somebody or be as successful as they are, then it is more sensible to join them in what they are doing and perhaps get some advantage for yourself by doing so",
+      "labels": "(saying)",
+      "examples": []
+    },
+    {
+      "definition": "far away from other people, houses, etc.",
+      "examples": [
+        {
+          "text": "They live miles off the beaten track."
+        }
+      ]
+    },
+    {
+      "definition": "a fact, an argument, etc. that is used in order to blame or punish somebody",
+      "examples": [],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "definition": "to be difficult to beat",
+      "examples": [
+        {
+          "text": "That score is going to take some beating."
+        },
+        {
+          "text": "For sheer luxury, this hotel takes some beating."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English bēatan, of Germanic origin."
+}

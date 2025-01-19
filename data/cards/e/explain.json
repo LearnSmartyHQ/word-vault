@@ -1,0 +1,253 @@
+{
+  "word": "explain",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪkˈspleɪn/",
+        "audio": "data/audio/e/explain/explain__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪkˈspleɪnz/",
+        "audio": "data/audio/e/explain/explains__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪkˈspleɪnd/",
+        "audio": "data/audio/e/explain/explained__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪkˈspleɪnɪŋ/",
+        "audio": "data/audio/e/explain/explaining__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪkˈspleɪn/",
+        "audio": "data/audio/e/explain/explain__us_3.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪkˈspleɪnz/",
+        "audio": "data/audio/e/explain/explains__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪkˈspleɪnd/",
+        "audio": "data/audio/e/explain/explained__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪkˈspleɪnɪŋ/",
+        "audio": "data/audio/e/explain/explaining__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "explain",
+      "heSheIt": "explains"
+    },
+    "pastSimple": "explained",
+    "pastParticiple": "explained",
+    "ingForm": "explaining"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to tell somebody about something in a way that makes it easy to understand",
+      "sensetop": "explain (something)explain (something) to somebodyexplain that…explain who, how, etc…explain to somebody who, how, etc…+ speechit is explained that…",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He was trying to **explain the difference** between sarcasm and irony.",
+          "contextForm": "explain (something)"
+        },
+        {
+          "text": "First, I'll explain the rules of the game."
+        },
+        {
+          "text": "The theory is not **explained in detail**."
+        },
+        {
+          "text": "‘Let me explain!’ he added helpfully."
+        },
+        {
+          "text": "It was difficult to explain the concept to beginners.",
+          "contextForm": "explain (something) to somebody"
+        },
+        {
+          "text": "I explained that an ambulance would be coming soon.",
+          "contextForm": "explain that…"
+        },
+        {
+          "text": "He explained who each person in the photo was.",
+          "contextForm": "explain who, how, etc…"
+        },
+        {
+          "text": "Can you explain how this machine works?"
+        },
+        {
+          "text": "She explained to the children exactly what to do in an emergency.",
+          "contextForm": "explain to somebody who, how, etc…"
+        },
+        {
+          "text": "‘It works like this,’ she explained.",
+          "contextForm": "+ speech"
+        },
+        {
+          "text": "It was explained that attendance was compulsory.",
+          "contextForm": "it is explained that…"
+        },
+        {
+          "text": "She saw his quick frown and hastened to explain."
+        },
+        {
+          "text": "I'll explain the system in greater detail next time."
+        },
+        {
+          "text": "The general principles behind the method used are explained clearly and concisely."
+        },
+        {
+          "text": "It is a book which seeks to explain the birth of Greek tragedy."
+        },
+        {
+          "text": "Many theories purport to explain growth in terms of a single cause."
+        },
+        {
+          "text": "I tried to explain the problem to the technician."
+        },
+        {
+          "text": "She explained the plan to me very carefully."
+        },
+        {
+          "text": "It's difficult to explain exactly how the system works."
+        },
+        {
+          "text": "Let me explain what I mean."
+        }
+      ],
+      "collocations": {
+        "adverb": ["in detail", "fully", "adequately"],
+        "verb + explain": ["be able to", "be unable to", "can"],
+        "preposition": ["about", "to"],
+        "phrases": [
+          "explain everything",
+          "go a long way, some way, etc. towards/​toward explaining something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to give a reason, or be a reason, for something",
+      "sensetop": "explain that…explain why, how, etc…explain somethingexplain something to somebody+ speech",
+      "labels": "(informal)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I tried to explain but they wouldn't listen."
+        },
+        {
+          "text": "Alex explained that his car had broken down.",
+          "contextForm": "explain that…"
+        },
+        {
+          "text": "Well, that doesn't explain why you didn't phone.",
+          "contextForm": "explain why, how, etc…"
+        },
+        {
+          "text": "Please **explain your reasons**.",
+          "contextForm": "explain something"
+        },
+        {
+          "text": "Oh well then, that **explains it** *(= I understand now why something happened)*."
+        },
+        {
+          "text": "The phenomenon is partly **explained by the fact** that global temperatures are rising."
+        },
+        {
+          "text": "Slow growth in the economy is to be **explained in terms of** a lack of demand."
+        },
+        {
+          "text": "The government now has to explain its decision to the public.",
+          "contextForm": "explain something to somebody"
+        },
+        {
+          "text": "‘It was like this,’ she explained.",
+          "contextForm": "+ speech"
+        },
+        {
+          "text": "You're going to **have some explaining to do** when your parents get home!"
+        },
+        {
+          "text": "There's no need to explain. We understand."
+        },
+        {
+          "text": "She was unable to explain her behaviour."
+        },
+        {
+          "text": "The official explained patiently that our documents were not valid."
+        },
+        {
+          "text": "scientific findings that help explain the origins of the universe"
+        },
+        {
+          "text": "I can explain everything! I was just trying to help her with her homework!"
+        },
+        {
+          "text": "He explained awkwardly that he had not slept at his own home that night."
+        },
+        {
+          "text": "This partly explains why he was so late."
+        },
+        {
+          "text": "This goes some way towards explaining the hostility between the two groups."
+        },
+        {
+          "text": "The reasons for the accident have not been fully explained."
+        },
+        {
+          "text": "I know I'm late, but I can explain why."
+        },
+        {
+          "text": "I have a letter here which explains everything."
+        }
+      ],
+      "collocations": {
+        "adverb": ["in detail", "fully", "adequately"],
+        "verb + explain": ["be able to", "be unable to", "can"],
+        "preposition": ["about", "to"],
+        "phrases": [
+          "explain everything",
+          "go a long way, some way, etc. towards/​toward explaining something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to give somebody reasons for your behaviour, especially when they are angry or upset because of it",
+      "examples": [
+        {
+          "text": "I really don't see why I should have to explain myself to you."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to say what you mean in a clear way",
+      "examples": [
+        {
+          "text": "Could you explain yourself a little more—I didn't understand."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin explanare, based on planus ‘plain’."
+}

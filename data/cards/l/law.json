@@ -1,0 +1,486 @@
+{
+  "word": "law",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/lɔː/",
+        "audio": "data/audio/l/law/law__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/lɔː/",
+        "audio": "data/audio/l/law/law__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a rule that deals with a particular crime, agreement, etc.",
+      "sensetop": "law against (doing) somethinglaw on something",
+      "labels": "(informal)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **pass a law** *(= officially make it part of the system of laws)*"
+        },
+        {
+          "text": "Police don't have the resources **to enforce the law** against dumping waste.",
+          "contextForm": "law against (doing) something"
+        },
+        {
+          "text": "There ought to be a law against it!"
+        },
+        {
+          "text": "The company's actions **violated the law** on equal employment.",
+          "contextForm": "law on something"
+        },
+        {
+          "text": "The suspects were in clear **violation of **immigration **laws**."
+        },
+        {
+          "text": "The government has introduced some tough new laws on food hygiene."
+        },
+        {
+          "text": "The country has very strict gun laws."
+        },
+        {
+          "text": "Corporate polluters could be charged under new ‘ecocide’ laws."
+        },
+        {
+          "text": "He campaigned for laws against child labour."
+        },
+        {
+          "text": "the passage of a restrictive immigration law in 1924"
+        },
+        {
+          "text": "the legislators who drafted the law"
+        },
+        {
+          "text": "the laws regulating firearms"
+        },
+        {
+          "text": "the laws regarding child actors"
+        },
+        {
+          "text": "the law concerning industrial action ballots"
+        },
+        {
+          "text": "a local law against keeping horses"
+        },
+        {
+          "text": "a law recognizing civil unions for same-sex couples"
+        },
+        {
+          "text": "a law limiting the hours of work to ten hours per day"
+        },
+        {
+          "text": "Laws criminalizing same-sex relationships were ruled unconstitutional."
+        },
+        {
+          "text": "Judges interpret this law in different ways."
+        },
+        {
+          "text": "Congress amended the law in 1998."
+        },
+        {
+          "text": "Environmental laws are strict about polluting precious water."
+        },
+        {
+          "text": "The law applies equally to businesses large and small."
+        },
+        {
+          "text": "The law forbids gambling of any kind."
+        },
+        {
+          "text": "We believe this law is unconstitutional."
+        }
+      ],
+      "topics": ["Permission and obligation", "Law and justice", "Politics"],
+      "collocations": {
+        "adjective": ["administrative", "case", "civil"],
+        "verb + law": ["become", "apply", "enforce"],
+        "law + verb": [
+          "allow something",
+          "authorize something",
+          "permit something"
+        ],
+        "law + noun": ["court", "case", "suit"],
+        "preposition": ["above the law", "against the law", "beyond the law"],
+        "phrases": ["as the law stands", "law and order", "the law of the land"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the whole system of rules that everyone in a country or society must obey",
+      "sensetop": "against the lawwithin the lawoutside the lawby lawunder the (…) lawunder… lawabove the law",
+      "labels": "(humorous)(especially North American English)(especially US English)(especially North American English)(British English)(North American English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "If they entered the building they would be **breaking the law**."
+        },
+        {
+          "text": "The reforms have recently **become law**."
+        },
+        {
+          "text": "The Civil Rights Act of 1964 became **the law of the land** on July 2, 1964."
+        },
+        {
+          "text": "**state/federal law**"
+        },
+        {
+          "text": "State law prohibits gambling in public places."
+        },
+        {
+          "text": "In Sweden it is against the law to hit a child.",
+          "contextForm": "against the law"
+        },
+        {
+          "text": "Defence attorneys can use any means within the law to get their client off.",
+          "contextForm": "within the law"
+        },
+        {
+          "text": "to operate outside the law",
+          "contextForm": "outside the law"
+        },
+        {
+          "text": "British schools are required by law to publish their exam results.",
+          "contextForm": "by law"
+        },
+        {
+          "text": "Under existing law, journalists cannot refuse to provide information to a jury.",
+          "contextForm": "under the (…) lawunder… law"
+        },
+        {
+          "text": "Do not think you are above the law *(= that you cannot be punished by the law)*.",
+          "contextForm": "above the law"
+        },
+        {
+          "text": "They acted **in accordance with the law** of the country."
+        },
+        {
+          "text": "The constitution guarantees **equality before the law** for all."
+        },
+        {
+          "text": "**law enforcement** agencies/officials"
+        },
+        {
+          "text": "Kate's **word was law** in the Brown household."
+        },
+        {
+          "text": "A presidential veto prevented the bill from becoming law."
+        },
+        {
+          "text": "As the law stands, you can get married at sixteen."
+        },
+        {
+          "text": "By law, you are obliged to install smoke alarms in the factory."
+        },
+        {
+          "text": "It's the job of the police to enforce the law."
+        },
+        {
+          "text": "No one is above the law."
+        },
+        {
+          "text": "Parliament voted for the bill to become law."
+        },
+        {
+          "text": "The building was raided by law enforcement agents."
+        },
+        {
+          "text": "The company is operating entirely within the law."
+        },
+        {
+          "text": "The law is clear: bribery is wrong."
+        },
+        {
+          "text": "The wearing of a crash helmet is required by law."
+        },
+        {
+          "text": "What you did was clearly against the law."
+        },
+        {
+          "text": "individuals who are acting beyond the law"
+        },
+        {
+          "text": "rebels who live outside the law"
+        },
+        {
+          "text": "the law governing school attendance"
+        },
+        {
+          "text": "the law relating to the sale of goods"
+        }
+      ],
+      "topics": ["Permission and obligation", "Law and justice", "Politics"],
+      "collocations": {
+        "adjective": ["administrative", "case", "civil"],
+        "verb + law": ["become", "apply", "enforce"],
+        "law + verb": [
+          "allow something",
+          "authorize something",
+          "permit something"
+        ],
+        "law + noun": ["court", "case", "suit"],
+        "preposition": ["above the law", "against the law", "beyond the law"],
+        "phrases": ["as the law stands", "law and order", "the law of the land"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a particular branch of the law",
+      "sensetop": "according to… law",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "tax/employment law"
+        },
+        {
+          "text": "According to **copyright law**, the author is the owner of the material.",
+          "contextForm": "according to… law"
+        }
+      ],
+      "collocations": {
+        "adjective": ["administrative", "case", "civil"],
+        "verb + law": ["become", "apply", "enforce"],
+        "law + verb": [
+          "allow something",
+          "authorize something",
+          "permit something"
+        ],
+        "law + noun": ["court", "case", "suit"],
+        "preposition": ["above the law", "against the law", "beyond the law"],
+        "phrases": ["as the law stands", "law and order", "the law of the land"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "the study of the law as a subject at university, etc.; the profession of being a lawyer",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a law student/professor"
+        },
+        {
+          "text": "Jane is studying law."
+        },
+        {
+          "text": "What made you go into law?"
+        },
+        {
+          "text": "a **law firm**"
+        },
+        {
+          "text": "a room filled with law books"
+        },
+        {
+          "text": "She lost her job at a Boston law office."
+        }
+      ],
+      "topics": ["Education", "Law and justice"],
+      "collocations": {
+        "verb + law": ["practise/​practice"],
+        "law + noun": ["firm", "school"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "used to refer to the police and the legal system",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Jim is always getting into trouble with the law."
+        },
+        {
+          "text": "She was well known for her brushes with the law."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "the fact that something always happens in the same way in an activity or in nature",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The usual laws of supply and demand do not seem to apply in this case."
+        },
+        {
+          "text": "the laws of nature/physics"
+        }
+      ],
+      "synonyms": "principle",
+      "topics": ["Scientific research"]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "a scientific rule that somebody has stated to explain a natural process",
+      "examples": [
+        {
+          "text": "the first law of thermodynamics"
+        },
+        {
+          "text": "Do you remember anything about Ohm's Law?"
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "one of the rules that controls an organization or activity",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "the laws of the Church"
+        },
+        {
+          "text": "The first law of kung fu is to defend yourself."
+        },
+        {
+          "text": "the laws of cricket"
+        }
+      ],
+      "topics": ["Permission and obligation"]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "a rule for good behaviour or how you should behave in a particular place or situation",
+      "examples": [
+        {
+          "text": "He frequently behaved as though moral laws did not exist."
+        },
+        {
+          "text": "Their world is shaped by their parents' attitudes and the unspoken laws of the street."
+        }
+      ]
+    },
+    {
+      "definition": "to behave in an independent way and ignore rules or what other people want you to do",
+      "examples": [
+        {
+          "text": "Boys of that age are a law unto themselves."
+        }
+      ]
+    },
+    {
+      "definition": "to ask a court to settle a problem or disagreement",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "They went to law to get back their property."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "definition": "a situation in which people obey the law and behave in a peaceful way",
+      "examples": [
+        {
+          "text": "The government struggled to maintain law and order."
+        },
+        {
+          "text": "After the riots, the military was brought in to restore law and order."
+        },
+        {
+          "text": "They claim to be the party of law and order."
+        },
+        {
+          "text": "Martial law was imposed to prevent the breakdown of law and order."
+        }
+      ],
+      "topics": ["Law and justice"]
+    },
+    {
+      "definition": "the principle that one thing will happen as often as another if you try enough times",
+      "examples": [
+        {
+          "text": "Keep applying and by the law of averages you'll get a job sooner or later."
+        }
+      ]
+    },
+    {
+      "definition": "a situation in which people are prepared to harm other people in order to succeed",
+      "examples": [
+        {
+          "text": "These criminal gangs only recognize the law of the jungle."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to tell somebody with force what they should or should not do",
+      "examples": [
+        {
+          "text": "My dad started laying down the law about what time I should come home."
+        }
+      ]
+    },
+    {
+      "definition": "the exact words of a law or rule rather than its general meaning",
+      "labels": "(often disapproving)",
+      "examples": [
+        {
+          "text": "They insist on sticking to the letter of the law."
+        },
+        {
+          "text": "We might be guilty of slightly bending the letter of the law."
+        },
+        {
+          "text": "In spite of the difficulties it would cause her family, the judge stuck to the letter of the law and jailed her."
+        }
+      ],
+      "topics": ["Permission and obligation"]
+    },
+    {
+      "definition": "in trouble with the police",
+      "examples": []
+    },
+    {
+      "definition": "if you already have or control something, it is difficult for somebody else to take it away from you, even if they have the legal right to it",
+      "labels": "(saying)",
+      "examples": []
+    },
+    {
+      "definition": "the condition in which all members of society, including its political leaders, accept the authority of the law",
+      "examples": [
+        {
+          "text": "Democracy and the rule of law are yet to be firmly established in the country."
+        }
+      ]
+    },
+    {
+      "definition": "to do something illegal in order to punish somebody for doing something wrong, instead of letting the police deal with them",
+      "examples": [
+        {
+          "text": "After a series of burglaries in the area, the police are worried that residents might take the law into their own hands."
+        },
+        {
+          "text": "When police failed to arrest the suspect, local people took the law into their own hands and beat him up."
+        }
+      ]
+    },
+    {
+      "definition": "used to tell somebody who is criticizing you that you are not doing anything wrong",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "I'll sing if I want to—there's no law against it."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English lagu, from Old Norse lag ‘something laid down or fixed’, of Germanic origin and related to lay (verb)."
+}

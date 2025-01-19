@@ -1,0 +1,97 @@
+{
+  "word": "depend",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈpend/",
+        "audio": "data/audio/d/depend/depend__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈpendz/",
+        "audio": "data/audio/d/depend/depends__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈpendɪd/",
+        "audio": "data/audio/d/depend/depended__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈpendɪŋ/",
+        "audio": "data/audio/d/depend/depending__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈpend/",
+        "audio": "data/audio/d/depend/depend__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈpendz/",
+        "audio": "data/audio/d/depend/depends__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈpendɪd/",
+        "audio": "data/audio/d/depend/depended__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈpendɪŋ/",
+        "audio": "data/audio/d/depend/depending__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "depend",
+      "heSheIt": "depends"
+    },
+    "pastSimple": "depended",
+    "pastParticiple": "depended",
+    "ingForm": "depending"
+  },
+  "definitions": [
+    {
+      "definition": "according to",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Starting salary varies from £26 000 to £30 500, depending on experience."
+        },
+        {
+          "text": "He either resigned or was sacked, depending on who you talk to."
+        }
+      ]
+    },
+    {
+      "definition": "used to say that you are not certain about something because other things have to be considered",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "‘Is he coming?’ ‘That depends. He may not have the time.’"
+        },
+        {
+          "text": "I don't know if we can help—it all depends."
+        },
+        {
+          "text": "I might not go. It depends how tired I am."
+        },
+        {
+          "text": "‘Your job sounds fun.’ ‘It depends what you mean by “fun”.’"
+        },
+        {
+          "text": "I shouldn't be too late. But it depends if the traffic's bad."
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"]
+    }
+  ],
+  "wordOrigin": "late Middle English originally meaning ‘to hang down’; (also in the sense ‘wait or be in suspense’): from Old French dependre, from Latin dependere, from de- ‘down’ + pendere ‘hang’."
+}

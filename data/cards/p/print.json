@@ -1,0 +1,234 @@
+{
+  "word": "print",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/prɪnt/",
+        "audio": "data/audio/p/print/print__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/prɪnts/",
+        "audio": "data/audio/p/print/prints__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈprɪntɪd/",
+        "audio": "data/audio/p/print/printed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈprɪntɪŋ/",
+        "audio": "data/audio/p/print/printing__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/prɪnt/",
+        "audio": "data/audio/p/print/print__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/prɪnts/",
+        "audio": "data/audio/p/print/prints__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈprɪntɪd/",
+        "audio": "data/audio/p/print/printed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈprɪntɪŋ/",
+        "audio": "data/audio/p/print/printing__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "print",
+      "heSheIt": "prints"
+    },
+    "pastSimple": "printed",
+    "pastParticiple": "printed",
+    "ingForm": "printing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to produce letters, pictures, etc. on paper using a machine that puts ink (= coloured liquid) on the surface",
+      "sensetop": "print (something)be printed with something",
+      "labels": "(computing)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I'm printing a copy of the document for you.",
+          "contextForm": "print (something)"
+        },
+        {
+          "text": "Do you want your address printed at the top of the letter?"
+        },
+        {
+          "text": "Click on the icon when you want to print."
+        },
+        {
+          "text": "Each card is printed with a different message.",
+          "contextForm": "be printed with something"
+        },
+        {
+          "text": "I couldn't get the graphics to print correctly."
+        },
+        {
+          "text": "The images are scanned onto computers and digitally printed."
+        },
+        {
+          "text": "The message was printed in blue ink."
+        },
+        {
+          "text": "printing from a file"
+        }
+      ],
+      "topics": ["Computers"],
+      "collocations": {
+        "adverb": ["beautifully", "badly", "cheaply"],
+        "preposition": ["from", "in", "on"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to produce books, newspapers, etc. by printing them in large quantities",
+      "sensetop": "print something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They printed 30 000 copies of the book."
+        },
+        {
+          "text": "The firm specializes in printing calendars."
+        },
+        {
+          "text": "She had the memoir privately printed in a limited edition."
+        },
+        {
+          "text": "The book is beautifully printed on good quality paper."
+        },
+        {
+          "text": "We had the first issue of the newsletter professionally printed."
+        },
+        {
+          "text": "a leaflet printed on recycled paper"
+        },
+        {
+          "text": "He was handing out cheaply printed business cards."
+        }
+      ],
+      "topics": ["Literature and writing"],
+      "collocations": {
+        "adverb": ["beautifully", "badly", "cheaply"],
+        "preposition": ["from", "in", "on"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to publish something in printed form",
+      "sensetop": "print something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The photo was printed in all the national newspapers."
+        },
+        {
+          "text": "The magazine was sued for printing a libellous article about her family."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to produce a photograph on paper from a digital file or from film",
+      "sensetop": "print something (from something)",
+      "examples": [
+        {
+          "text": "Photographs can be printed from a digital file or from a negative."
+        }
+      ],
+      "collocations": {
+        "adverb": ["beautifully", "badly", "cheaply"],
+        "preposition": ["from", "in", "on"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to write without joining the letters together",
+      "sensetop": "print (something)",
+      "examples": [
+        {
+          "text": "Print your name and address clearly in the space provided."
+        },
+        {
+          "text": "He had printed his name in capitals at the bottom of the picture."
+        },
+        {
+          "text": "In some countries children learn to print when they first go to school."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to make a mark on a soft surface by pressing",
+      "sensetop": "print something (in/on something)",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "The tracks of the large animal were clearly printed in the sand."
+        },
+        {
+          "text": "The memory of that day was indelibly printed on his brain."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to make a design on a surface or cloth by pressing a surface against it which has been coloured with ink or dye",
+      "sensetop": "print A on Bprint B with A",
+      "examples": [
+        {
+          "text": "They had printed their own design on the T-shirt.",
+          "contextForm": "print A on B"
+        },
+        {
+          "text": "a T-shirt printed with their own design",
+          "contextForm": "print B with A"
+        }
+      ],
+      "collocations": {
+        "adverb": ["beautifully", "badly", "cheaply"],
+        "preposition": ["from", "in", "on"]
+      }
+    },
+    {
+      "definition": "used to describe a business that makes a lot of money with little effort",
+      "labels": "(disapproving)",
+      "examples": []
+    },
+    {
+      "definition": "having no value, especially legally, or because one of the people involved has no intention of doing what they said they would",
+      "examples": []
+    },
+    {
+      "definition": "what is published in books, newspapers, etc.",
+      "examples": [
+        {
+          "text": "the power of the printed word"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English (denoting the impression made by a stamp or seal): from Old French preinte ‘pressed’, feminine past participle of preindre, from Latin premere ‘to press’."
+}

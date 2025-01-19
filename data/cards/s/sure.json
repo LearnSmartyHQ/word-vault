@@ -1,0 +1,272 @@
+{
+  "word": "sure",
+  "partOfSpeech": "adjective",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ʃʊə(r)//ʃɔː(r)/",
+        "audio": "data/audio/s/sure/sure__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ʃʊr/",
+        "audio": "data/audio/s/sure/sure__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "confident that you know something or that you are right",
+      "sensetop": "sure (that)…sure of somethingsure about somethingnot sure how, whether, etc…",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "‘Is that John over there?’ ‘**I'm not sure**.’"
+        },
+        {
+          "text": "You don't sound very sure."
+        },
+        {
+          "text": "I'm **pretty sure** (that) he'll agree.",
+          "contextForm": "sure (that)…"
+        },
+        {
+          "text": "Are you sure you don't mind?"
+        },
+        {
+          "text": "I’m sure he’s still alive."
+        },
+        {
+          "text": "I hope you are sure of your facts.",
+          "contextForm": "sure of something"
+        },
+        {
+          "text": "Are you sure about that?",
+          "contextForm": "sure about something"
+        },
+        {
+          "text": "Ask me if you're not sure how to do it.",
+          "contextForm": "not sure how, whether, etc…"
+        },
+        {
+          "text": "I'm not sure whether I should tell you this."
+        },
+        {
+          "text": "not **exactly/entirely/absolutely/really sure**"
+        },
+        {
+          "text": "I still **wasn't even sure **who I was talking to."
+        },
+        {
+          "text": "I like this bit, but I'm **not so sure **about that one."
+        },
+        {
+          "text": "What makes you so sure she'll come back to you?"
+        },
+        {
+          "text": "I'm quite sure (that) I left my bag here."
+        },
+        {
+          "text": "Potts was confident of taking the American title, but less sure about the world championship."
+        }
+      ],
+      "synonyms": "certain",
+      "topics": ["Personal qualities"],
+      "collocations": {
+        "verbs": ["be", "feel", "seem"],
+        "adverb": ["absolutely", "completely", "quite"],
+        "preposition": ["about", "of"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "certain that you will receive something or that something will happen",
+      "sensetop": "sure of somethingsure of doing something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You're always sure of a warm welcome there.",
+          "contextForm": "sure of something"
+        },
+        {
+          "text": "We could not be sure of financial support."
+        },
+        {
+          "text": "England must win this game to be sure of qualifying for the World Cup.",
+          "contextForm": "sure of doing something"
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"],
+      "collocations": {
+        "verbs": ["be", "feel", "seem"],
+        "adverb": ["absolutely", "completely", "quite"],
+        "preposition": ["about", "of"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "certain to do something or to happen",
+      "sensetop": "sure to do something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The exhibition is sure to be popular."
+        },
+        {
+          "text": "It's sure to rain."
+        },
+        {
+          "text": "You’re sure to get lost if you don’t keep to the path."
+        },
+        {
+          "text": "She's sure to be picked for the team."
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "that can be trusted or relied on",
+      "examples": [
+        {
+          "text": "It's a **sure sign** of economic recovery."
+        },
+        {
+          "text": "There's only one **sure way** to do it."
+        },
+        {
+          "text": "He is a **sure bet** for the presidential nomination *(= certain to succeed)*."
+        },
+        {
+          "text": "I told my friends that our winning was a sure thing."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "steady and confident",
+      "examples": [
+        {
+          "text": "We admired her sure touch at the keyboard."
+        }
+      ]
+    },
+    {
+      "definition": "used to tell somebody to do something",
+      "examples": [
+        {
+          "text": "Be sure to give your family my regards."
+        },
+        {
+          "text": "Be sure to check out our website."
+        }
+      ]
+    },
+    {
+      "definition": "without doubt",
+      "labels": "(informal)(North American English)",
+      "examples": [
+        {
+          "text": "No one knows for sure what happened."
+        },
+        {
+          "text": "I think he'll be back on Monday, but I can't say for sure."
+        },
+        {
+          "text": "**One thing is for sure**—it's not going to be easy."
+        },
+        {
+          "text": "‘Will you be there?’ ‘For sure.’"
+        }
+      ]
+    },
+    {
+      "definition": "something that is likely to happen, to succeed or to be suitable",
+      "examples": [
+        {
+          "text": "He's a good bet to earn a spot on the US team."
+        },
+        {
+          "text": "Clothes are a safe bet as a present for a teenager."
+        },
+        {
+          "text": "The movie looks like a sure bet for Best Film."
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to do something in order to be certain that something else happens",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Make sure (that) no one finds out about this."
+        },
+        {
+          "text": "They scored another goal and made sure of victory."
+        },
+        {
+          "text": "Our staff will do their best to make sure you enjoy your visit."
+        },
+        {
+          "text": "To make doubly sure they would not be disturbed she turned the key in the lock."
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to check that something is true or has been done",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She looked around to make sure that she was alone."
+        },
+        {
+          "text": "I think the door's locked, but I'll just go and make sure."
+        }
+      ]
+    },
+    {
+      "definition": "very confident",
+      "labels": "(sometimes disapproving)",
+      "examples": [
+        {
+          "text": "She seems very sure of herself."
+        }
+      ]
+    },
+    {
+      "definition": "used to say ‘yes’ to a suggestion or request",
+      "labels": "(informal, especially North American English)",
+      "examples": [
+        {
+          "text": "‘Are you coming?’ ‘Sure thing.’"
+        }
+      ],
+      "topics": ["Suggestions and advice"]
+    },
+    {
+      "definition": "used to admit that something is true",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "He is intelligent, to be sure, but he's also very lazy."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French sur, from Latin securus ‘free from care’."
+}

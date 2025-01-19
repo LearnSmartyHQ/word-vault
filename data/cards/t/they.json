@@ -1,0 +1,76 @@
+{
+  "word": "they",
+  "partOfSpeech": "pronoun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ðeɪ/",
+        "audio": "data/audio/t/they/they__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ðeɪ/",
+        "audio": "data/audio/t/they/they__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "people, animals or things that have already been mentioned or are easily identified",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "‘Where are John and Liz?’ ‘They went for a walk.’"
+        },
+        {
+          "text": "They *(= the things you are carrying)* go on the bottom shelf."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "used instead of he or she to refer to a person whose sex is not mentioned or not known",
+      "labels": "British EnglishNorth American English",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "If anyone arrives late they'll have to wait outside."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "people in general",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The rest, as **they say**, is history."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "people in authority or experts",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They cut my water off."
+        },
+        {
+          "text": "They now say that red wine is good for you."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old Norse their, nominative plural masculine of sá; related to them and their, also to that and the."
+}

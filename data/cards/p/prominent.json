@@ -1,0 +1,74 @@
+{
+  "word": "prominent",
+  "partOfSpeech": "adjective",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈprɒmɪnənt/",
+        "audio": "data/audio/p/prominent/prominent__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈprɑːmɪnənt/",
+        "audio": "data/audio/p/prominent/prominent__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "important or well known",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a prominent politician"
+        },
+        {
+          "text": "He **played a prominent part** in the campaign."
+        },
+        {
+          "text": "She was prominent in the fashion industry."
+        },
+        {
+          "text": "Last month a group of prominent citizens of the town formed themselves into a committee to deal with the issue."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "become", "remain"],
+        "adverb": ["extremely", "fairly", "very"],
+        "preposition": ["as", "in"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "easily seen",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The church tower was a prominent feature in the landscape."
+        },
+        {
+          "text": "The story was given a prominent position on the front page."
+        }
+      ],
+      "synonyms": "noticeable"
+    },
+    {
+      "senseNumber": "3",
+      "definition": "sticking out from something",
+      "examples": [
+        {
+          "text": "a prominent nose"
+        },
+        {
+          "text": "prominent cheekbones"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘projecting’): from Latin prominent- ‘jutting out’, from the verb prominere. Compare with eminent."
+}

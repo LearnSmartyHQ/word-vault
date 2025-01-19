@@ -1,0 +1,119 @@
+{
+  "word": "prohibit",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/prəˈhɪbɪt/",
+        "audio": "data/audio/p/prohibit/prohibit__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/prəˈhɪbɪts/",
+        "audio": "data/audio/p/prohibit/prohibits__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/prəˈhɪbɪtɪd/",
+        "audio": "data/audio/p/prohibit/prohibited__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/prəˈhɪbɪtɪŋ/",
+        "audio": "data/audio/p/prohibit/prohibiting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/prəˈhɪbɪt//prəʊˈhɪbɪt/",
+        "audio": "data/audio/p/prohibit/prohibit__us_1_rr.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/prəˈhɪbɪts//prəʊˈhɪbɪts/",
+        "audio": "data/audio/p/prohibit/prohibits__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/prəˈhɪbɪtɪd//prəʊˈhɪbɪtɪd/",
+        "audio": "data/audio/p/prohibit/prohibited__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/prəˈhɪbɪtɪŋ//prəʊˈhɪbɪtɪŋ/",
+        "audio": "data/audio/p/prohibit/prohibiting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "prohibit",
+      "heSheIt": "prohibits"
+    },
+    "pastSimple": "prohibited",
+    "pastParticiple": "prohibited",
+    "ingForm": "prohibiting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to stop something from being done or used especially by law",
+      "sensetop": "prohibit somethingprohibit somebody from doing somethingprohibit (somebody) doing something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Federal law prohibits discrimination based on age.",
+          "contextForm": "prohibit something"
+        },
+        {
+          "text": "Soviet citizens were prohibited from travelling abroad.",
+          "contextForm": "prohibit somebody from doing something"
+        },
+        {
+          "text": "Company policy prohibits posting clearly abusive content.",
+          "contextForm": "prohibit (somebody) doing something"
+        },
+        {
+          "text": "The import of these products is prohibited by law."
+        },
+        {
+          "text": "The regulations effectively prohibit the entry of seeds into the country."
+        },
+        {
+          "text": "The convention strictly prohibits the dumping of waste at sea."
+        },
+        {
+          "text": "The Act specifically prohibits any council from spending money for political purposes."
+        },
+        {
+          "text": "The president is constitutionally prohibited from serving more than two terms in office."
+        }
+      ],
+      "synonyms": "forbid",
+      "topics": ["Permission and obligation", "Law and justice"],
+      "collocations": {
+        "adverb": ["strictly", "clearly", "explicitly"],
+        "preposition": ["from"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make something impossible to do",
+      "sensetop": "prohibit something/somebody from doing something",
+      "examples": [
+        {
+          "text": "The high cost of equipment prohibits many people from taking up this sport."
+        }
+      ],
+      "synonyms": "prevent",
+      "collocations": {
+        "adverb": ["strictly", "clearly", "explicitly"],
+        "preposition": ["from"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin prohibit- ‘kept in check’, from the verb prohibere, from pro- ‘in front’ + habere ‘to hold’."
+}

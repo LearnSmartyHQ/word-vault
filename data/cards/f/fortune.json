@@ -1,0 +1,193 @@
+{
+  "word": "fortune",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfɔːtʃuːn/",
+        "audio": "data/audio/f/fortune/fortune__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfɔːrtʃən/",
+        "audio": "data/audio/f/fortune/fortune__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a large amount of money",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He **made a fortune** in real estate."
+        },
+        {
+          "text": "Her father **made his fortune** selling electronics."
+        },
+        {
+          "text": "She inherited a share of the family fortune."
+        },
+        {
+          "text": "A car like that costs **a small fortune** *(= a lot of money)*."
+        },
+        {
+          "text": "You don't have to **spend a fortune** to give your family tasty, healthy meals."
+        },
+        {
+          "text": "She is hoping her US debut will be the first step on the road to **fame and fortune**."
+        },
+        {
+          "text": "He **amassed a fortune** of nearly $2 billion."
+        },
+        {
+          "text": "She devoted a large part of her **personal fortune** to ensuring the company's survival."
+        },
+        {
+          "text": "That ring must be worth a fortune."
+        },
+        {
+          "text": "He built his fortune from breeding horses."
+        },
+        {
+          "text": "He has amassed a considerable fortune out of trading shares."
+        },
+        {
+          "text": "He lost his fortune in the crash of 1929."
+        },
+        {
+          "text": "Her aunt died and left her a fortune."
+        },
+        {
+          "text": "They sold their house at the right time and made a fortune on it."
+        }
+      ],
+      "topics": ["Money"],
+      "collocations": {
+        "adjective": ["considerable", "enormous", "great"],
+        "verb + fortune": ["accumulate", "acquire", "amass"],
+        "fortune + noun": ["hunter"],
+        "preposition": ["fortune from", "fortune in", "fortune on"],
+        "phrases": [
+          "fame and fortune",
+          "heir to a fortune",
+          "heiress to a fortune"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "chance or luck, especially in the way it affects people’s lives",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I have **had the good fortune to** work with some brilliant directors."
+        },
+        {
+          "text": "**By a stroke of fortune** he found work almost immediately."
+        },
+        {
+          "text": "**Fortune smiled on me** *(= I had good luck)*."
+        },
+        {
+          "text": "A horseshoe nailed to your door is supposed to bring good fortune."
+        },
+        {
+          "text": "As good fortune would have it, a bus came along just when I needed it."
+        },
+        {
+          "text": "For once, fortune was on our side: the weather improved in time for the game."
+        }
+      ],
+      "collocations": {
+        "adjective": ["good", "bad", "ill"],
+        "… of fortune": ["piece", "stroke"],
+        "verb + fortune": ["have", "bring (somebody)"],
+        "fortune + verb": [
+          "be on somebody’s side",
+          "favour/​favor somebody",
+          "smile on somebody"
+        ],
+        "phrases": [
+          "as good fortune would have it",
+          "a change in fortune",
+          "a change of fortune"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the good and bad things that happen to a person, family, country, etc.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The share price tends to follow the changing fortunes of the film industry."
+        },
+        {
+          "text": "the fortunes of war"
+        },
+        {
+          "text": "The company suffered a great **reversal of fortune** when public taste changed."
+        },
+        {
+          "text": "The party still hopes to revive its flagging electoral fortunes."
+        },
+        {
+          "text": "The team had a dramatic reversal of fortunes in the second half."
+        },
+        {
+          "text": "a year of mixed fortunes for the company"
+        },
+        {
+          "text": "fans who follow the fortunes of their chosen team"
+        }
+      ],
+      "collocations": {
+        "adjective": ["declining", "flagging", "changing"],
+        "verb + fortunes": ["boost", "improve", "revive"],
+        "fortunes + verb": ["change", "fluctuate", "improve"],
+        "phrases": ["a reversal of fortune", "a reversal of fortunes"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a person’s fate or future",
+      "examples": [
+        {
+          "text": "She can **tell your fortune** by looking at the lines on your hand."
+        },
+        {
+          "text": "They went to have their fortunes read."
+        }
+      ],
+      "collocations": {
+        "verb + fortune": ["read", "tell"],
+        "fortune + noun": ["teller", "telling"]
+      }
+    },
+    {
+      "definition": "something that you have, or have promised to do, that could cause trouble or worry in the future",
+      "examples": []
+    },
+    {
+      "definition": "to try to find a way to become rich, especially by going to another place",
+      "labels": "(literary)",
+      "examples": [
+        {
+          "text": "Many emigrated to Australia to seek their fortune."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: via Old French from Latin Fortuna, the name of a goddess personifying luck or chance."
+}

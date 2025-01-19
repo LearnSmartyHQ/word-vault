@@ -1,0 +1,265 @@
+{
+  "word": "express",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪkˈspres/",
+        "audio": "data/audio/e/express/express__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪkˈspresɪz/",
+        "audio": "data/audio/e/express/expresses__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪkˈsprest/",
+        "audio": "data/audio/e/express/expressed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪkˈspresɪŋ/",
+        "audio": "data/audio/e/express/expressing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪkˈspres/",
+        "audio": "data/audio/e/express/express__us_6.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪkˈspresɪz/",
+        "audio": "data/audio/e/express/expresses__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪkˈsprest/",
+        "audio": "data/audio/e/express/expressed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪkˈspresɪŋ/",
+        "audio": "data/audio/e/express/expressing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "express",
+      "heSheIt": "expresses"
+    },
+    "pastSimple": "expressed",
+    "pastParticiple": "expressed",
+    "ingForm": "expressing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to show or make known a feeling, an opinion, etc. by words, looks or actions",
+      "sensetop": "express somethingexpress something to somebodyexpress how, what, etc…",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Teachers have **expressed concern** about the changes.",
+          "contextForm": "express something"
+        },
+        {
+          "text": "to **express a view/an opinion**"
+        },
+        {
+          "text": "to **express a hope/desire**"
+        },
+        {
+          "text": "to **express fears/doubts**"
+        },
+        {
+          "text": "Customers **expressed interest** in trying the product."
+        },
+        {
+          "text": "I'd like to **express my gratitude** to everyone who helped us.",
+          "contextForm": "express something to somebody"
+        },
+        {
+          "text": "**Words cannot express** how pleased I am.",
+          "contextForm": "express how, what, etc…"
+        },
+        {
+          "text": "His views have been expressed in numerous speeches."
+        },
+        {
+          "text": "Differences of opinion were freely expressed in public debate."
+        },
+        {
+          "text": "He expressed his anger openly."
+        },
+        {
+          "text": "Many patients feel unable to express their fears."
+        },
+        {
+          "text": "I want to express my sincere thanks to the many readers who sent messages of support."
+        },
+        {
+          "text": "Business leaders expressed disappointment with the decision."
+        },
+        {
+          "text": "Later, he expressed his regret that he hadn't taken the chance."
+        },
+        {
+          "text": "She expressed sympathy, but said she could not help."
+        },
+        {
+          "text": "Residents expressed frustration with the slowness of the process."
+        },
+        {
+          "text": "Many people have expressed reservations about this approach."
+        },
+        {
+          "text": "It's important to be able to express your feelings."
+        },
+        {
+          "text": "The architect expressed doubts that the museum would be ready in time."
+        },
+        {
+          "text": "Students must learn to express a point of view cogently and with clarity."
+        },
+        {
+          "text": "The poet eloquently expresses the sense of lost innocence."
+        },
+        {
+          "text": "In the show, the concept of freedom is expressed through dance."
+        },
+        {
+          "text": "International solidarity is expressed through a logo featuring combined flags."
+        },
+        {
+          "text": "There was no agreement either expressed or implied."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adverb": ["well", "fully", "forcefully"],
+        "verb + express": ["be able to", "feel able to", "be unable to"],
+        "phrases": [
+          "a chance to express something",
+          "an opportunity to express something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to speak, write or communicate in some other way what you think or feel",
+      "sensetop": "express yourselfexpress yourself + adv./prep.express yourself + adj.",
+      "labels": "(formal)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Some teenagers have difficulty expressing themselves."
+        },
+        {
+          "text": "Perhaps I have not expressed myself very well.",
+          "contextForm": "express yourself + adv./prep."
+        },
+        {
+          "text": "She expresses herself most fully in her paintings."
+        },
+        {
+          "text": "He expressed himself freely on the subject of immigration."
+        },
+        {
+          "text": "They expressed themselves delighted.",
+          "contextForm": "express yourself + adj."
+        },
+        {
+          "text": "She doesn't express herself well in writing."
+        },
+        {
+          "text": "We want to give young people an opportunity to express themselves through art."
+        },
+        {
+          "text": "He expresses himself in simple, straightforward terms."
+        },
+        {
+          "text": "I need to express myself artistically."
+        },
+        {
+          "text": "the ability of students to express themselves clearly and articulately"
+        },
+        {
+          "text": "It is easier to express yourself when you have a clear message."
+        },
+        {
+          "text": "The architect must not only express himself but design a functioning building."
+        },
+        {
+          "text": "She expressed herself disappointed."
+        }
+      ],
+      "collocations": {
+        "adverb": ["well", "fully", "forcefully"],
+        "verb + express": ["be able to", "feel able to", "be unable to"],
+        "phrases": [
+          "a chance to express something",
+          "an opportunity to express something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to become obvious in a particular way",
+      "sensetop": "express itself (+ adv./prep.)",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Their pleasure expressed itself in a burst of applause."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to represent something in a particular way, for example by symbols",
+      "sensetop": "express something as somethingexpress something in something",
+      "labels": "(mathematics)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The figures are expressed as percentages.",
+          "contextForm": "express something as something"
+        },
+        {
+          "text": "Educational expenditure is often expressed in terms of the amount spent per student.",
+          "contextForm": "express something in something"
+        }
+      ],
+      "topics": ["Maths and measurement"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to remove air or liquid from something by pressing",
+      "sensetop": "express something (from something)",
+      "examples": [
+        {
+          "text": "Coconut milk is expressed from grated coconuts."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to send something by express post",
+      "sensetop": "express something (to somebody/something)",
+      "labels": "(North American English)",
+      "examples": [
+        {
+          "text": "As soon as I receive payment I will express the book to you."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "verb late Middle English (also in the sense ‘press out, obtain by squeezing’, used figuratively to mean ‘extort’): from Old French expresser, based on Latin ex- ‘out’ + pressare ‘to press’."
+}

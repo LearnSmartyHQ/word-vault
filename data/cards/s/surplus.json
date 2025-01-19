@@ -1,0 +1,88 @@
+{
+  "word": "surplus",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsɜːpləs/",
+        "audio": "data/audio/s/surplus/surplus__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsɜːrplʌs/",
+        "audio": "data/audio/s/surplus/surplus__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "an amount that is extra or more than you need",
+      "sensetop": "in surplus",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "food surpluses"
+        },
+        {
+          "text": "Wheat was in surplus that year.",
+          "contextForm": "in surplus"
+        },
+        {
+          "text": "a large grain surplus"
+        },
+        {
+          "text": "After meeting domestic needs any surplus will be exported."
+        },
+        {
+          "text": "Agricultural surpluses lead to the disposal of thousands of tonnes of food every year."
+        },
+        {
+          "text": "This surplus of food led to an unusual increase in the bird population."
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "huge", "large"],
+        "verb + surplus": ["have", "run", "generate"],
+        "surplus + noun": ["cash", "stock"],
+        "preposition": ["in surplus"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the amount by which the amount of money received is greater than the amount of money spent",
+      "sensetop": "in surplus",
+      "labels": "(US English)(British English)(North American English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a surplus of £400 million"
+        },
+        {
+          "text": "The balance of payments was in surplus last year (= the value of exports was greater than the value of imports).",
+          "contextForm": "in surplus"
+        },
+        {
+          "text": "Japan runs a large current-account surplus."
+        },
+        {
+          "text": "The pension fund is in surplus."
+        },
+        {
+          "text": "a projected surplus of $5.6 trillion over ten years"
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "huge", "large"],
+        "verb + surplus": ["have", "run", "generate"],
+        "surplus + noun": ["cash", "stock"],
+        "preposition": ["in surplus"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French sourplus, from medieval Latin superplus, from super- ‘in addition’ + plus ‘more’."
+}

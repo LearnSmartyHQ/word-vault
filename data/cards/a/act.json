@@ -1,0 +1,328 @@
+{
+  "word": "act",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ækt/",
+        "audio": "data/audio/a/act/act__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ækts/",
+        "audio": "data/audio/a/act/acts__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈæktɪd/",
+        "audio": "data/audio/a/act/acted__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈæktɪŋ/",
+        "audio": "data/audio/a/act/acting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ækt/",
+        "audio": "data/audio/a/act/act__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ækts/",
+        "audio": "data/audio/a/act/acts__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈæktɪd/",
+        "audio": "data/audio/a/act/acted__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈæktɪŋ/",
+        "audio": "data/audio/a/act/acting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "act",
+      "heSheIt": "acts"
+    },
+    "pastSimple": "acted",
+    "pastParticiple": "acted",
+    "ingForm": "acting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to do something for a particular purpose or in order to deal with a situation",
+      "sensetop": "act to do something+ adv./prep.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "It is vital that we act to stop the destruction of the rainforests.",
+          "contextForm": "act to do something"
+        },
+        {
+          "text": "By **acting quickly **doctors saved his life.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "The government was criticized for failing to act decisively."
+        },
+        {
+          "text": "Initial reports indicated she **acted alone**."
+        },
+        {
+          "text": "He claims he **acted in self-defence**."
+        },
+        {
+          "text": "We **acted in good faith** *(= believing that we were doing the right thing)*."
+        },
+        {
+          "text": "They are acting out of self-interest."
+        },
+        {
+          "text": "She was not acting for personal gain."
+        },
+        {
+          "text": "George knew about the letter and acted accordingly."
+        },
+        {
+          "text": "Her defence was that she had acted in good faith."
+        },
+        {
+          "text": "I suspected that he was acting out of malice."
+        },
+        {
+          "text": "The country's highest court ruled that police had acted unlawfully."
+        },
+        {
+          "text": "The government must act promptly to change this law."
+        },
+        {
+          "text": "The government needs to act against the sale of these dangerous toys."
+        },
+        {
+          "text": "The jury accepted that he had acted in self defence."
+        },
+        {
+          "text": "We are all acting in the best interests of the children."
+        },
+        {
+          "text": "The girl's life was saved because the doctors acted so promptly."
+        }
+      ],
+      "collocations": {
+        "adverb": ["at once", "immediately", "promptly"],
+        "preposition": ["against", "for somebody", "on behalf of somebody"],
+        "phrases": [
+          "act as if",
+          "act in somebody’s best interests",
+          "act in good faith"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to behave in a particular way",
+      "sensetop": "+ adv.act like somebody/somethingact as if/though…",
+      "labels": "North American EnglishBritish English",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The man was seen **acting suspiciously**.",
+          "contextForm": "+ adv."
+        },
+        {
+          "text": "I think that most employers **act responsibly** in these situations."
+        },
+        {
+          "text": "Decide what your priorities are and **act accordingly** *(= in an appropriate way)*."
+        },
+        {
+          "text": "Stop acting like spoilt children!",
+          "contextForm": "act like somebody/something"
+        },
+        {
+          "text": "She was acting as if she'd seen a ghost.",
+          "contextForm": "act as if/though…"
+        },
+        {
+          "text": "All citizens have a duty to act responsibly and show respect to others."
+        },
+        {
+          "text": "You acted very wisely in coming to me."
+        },
+        {
+          "text": "John's been acting very strangely lately."
+        }
+      ],
+      "collocations": {
+        "adverb": ["at once", "immediately", "promptly"],
+        "preposition": ["against", "for somebody", "on behalf of somebody"],
+        "phrases": [
+          "act as if",
+          "act in somebody’s best interests",
+          "act in good faith"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to perform a part in a play or film",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Have you ever acted?"
+        },
+        {
+          "text": "He just can't act."
+        },
+        {
+          "text": "Most of the cast act well."
+        },
+        {
+          "text": "The play was well acted."
+        },
+        {
+          "text": "Who's acting the part of Hamlet?"
+        },
+        {
+          "text": "She is acting the role of Juliet."
+        }
+      ],
+      "topics": ["Film and theatre"],
+      "collocations": {
+        "adverb": ["brilliantly", "well", "badly"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to pretend by your behaviour to be a particular type of person",
+      "sensetop": "+ noun+ adj.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He's been acting the devoted husband all day.",
+          "contextForm": "+ noun"
+        },
+        {
+          "text": "I decided to act dumb.",
+          "contextForm": "+ adj."
+        },
+        {
+          "text": "to act weird/strange/normal/stupid"
+        },
+        {
+          "text": "He acts all macho, but he’s a real softie underneath."
+        },
+        {
+          "text": "You've been acting strange lately."
+        },
+        {
+          "text": "I found myself acting the part of the happy newly-married wife."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to perform a particular role or function",
+      "sensetop": "act as somethingact like something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She **acted as an adviser** to the committee.",
+          "contextForm": "act as something"
+        },
+        {
+          "text": "Can you act as interpreter?"
+        },
+        {
+          "text": "We hope this sentence will **act as a deterrent **to others."
+        },
+        {
+          "text": "Culture can **act as a** powerful **catalyst** for urban regeneration."
+        },
+        {
+          "text": "The council is only really acting as an agent."
+        },
+        {
+          "text": "hormones in the brain that act like natural painkillers",
+          "contextForm": "act like something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["brilliantly", "well", "badly"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to have an effect on something",
+      "sensetop": "act (on something)",
+      "examples": [
+        {
+          "text": "Alcohol acts quickly on the brain."
+        },
+        {
+          "text": "It took a few minutes for the drug to act."
+        },
+        {
+          "text": "The bacteria act on sugars to form acids."
+        },
+        {
+          "text": "We need to understand the forces that act on the spine."
+        },
+        {
+          "text": "Most of these drugs acted directly on the blood vessels."
+        },
+        {
+          "text": "Nuclear and non-nuclear matter act on each other."
+        }
+      ]
+    },
+    {
+      "definition": "to behave in a stupid way in order to make people laugh, especially in a way that may also annoy them",
+      "examples": [
+        {
+          "text": "Quit playing the fool and get some work done!"
+        },
+        {
+          "text": "Stop acting the fool and be serious!"
+        },
+        {
+          "text": "He thought that being an actor only involved tap dancing and playing the fool."
+        }
+      ]
+    },
+    {
+      "definition": "to behave in a way that is suitable for somebody of your age and not as though you were much younger",
+      "examples": [
+        {
+          "text": "Isn’t it time you started acting your age?"
+        }
+      ]
+    },
+    {
+      "definition": "to behave in a very confident way that annoys other people, for example by telling them what to do",
+      "labels": "(disapproving)",
+      "examples": [
+        {
+          "text": "She was acting as if she owned the place."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": null
+}

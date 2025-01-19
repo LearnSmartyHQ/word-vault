@@ -1,0 +1,115 @@
+{
+  "word": "signify",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsɪɡnɪfaɪ/",
+        "audio": "data/audio/s/signify/signify__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsɪɡnɪfaɪz/",
+        "audio": "data/audio/s/signify/signifies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsɪɡnɪfaɪd/",
+        "audio": "data/audio/s/signify/signified__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsɪɡnɪfaɪɪŋ/",
+        "audio": "data/audio/s/signify/signifying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsɪɡnɪfaɪ/",
+        "audio": "data/audio/s/signify/signify__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsɪɡnɪfaɪz/",
+        "audio": "data/audio/s/signify/signifies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsɪɡnɪfaɪd/",
+        "audio": "data/audio/s/signify/signified__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsɪɡnɪfaɪɪŋ/",
+        "audio": "data/audio/s/signify/signifying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "signify",
+      "heSheIt": "signifies"
+    },
+    "pastSimple": "signified",
+    "pastParticiple": "signified",
+    "ingForm": "signifying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to be a sign of something",
+      "sensetop": "signify somethingsignify that…",
+      "examples": [
+        {
+          "text": "This decision signified a radical change in their policies.",
+          "contextForm": "signify something"
+        },
+        {
+          "text": "What does the term ‘patrician’ signify?"
+        },
+        {
+          "text": "This mark signifies that the products conform to an approved standard.",
+          "contextForm": "signify that…"
+        },
+        {
+          "text": "The white belt signifies that he's an absolute beginner."
+        }
+      ],
+      "synonyms": "mean"
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to do something to make your feelings, intentions, etc. known",
+      "sensetop": "signify somethingsignify that…",
+      "examples": [
+        {
+          "text": "She signified her approval with a smile.",
+          "contextForm": "signify something"
+        },
+        {
+          "text": "The jury signify their verdict by a show of hands."
+        },
+        {
+          "text": "In 2007 Spain signified its desire to join the Council."
+        },
+        {
+          "text": "He nodded to signify that he agreed.",
+          "contextForm": "signify that…"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to be important or to matter",
+      "examples": [
+        {
+          "text": "His presence no longer signified."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French signifier, from Latin significare ‘indicate, portend’, from signum ‘token’."
+}

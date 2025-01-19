@@ -1,0 +1,341 @@
+{
+  "word": "represent",
+  "partOfSpeech": "verblinking verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌreprɪˈzent/",
+        "audio": "data/audio/r/represent/represent__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌreprɪˈzents/",
+        "audio": "data/audio/r/represent/represents__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌreprɪˈzentɪd/",
+        "audio": "data/audio/r/represent/represented__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌreprɪˈzentɪŋ/",
+        "audio": "data/audio/r/represent/representing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌreprɪˈzent/",
+        "audio": "data/audio/r/represent/represent__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌreprɪˈzents/",
+        "audio": "data/audio/r/represent/represents__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌreprɪˈzentɪd/",
+        "audio": "data/audio/r/represent/represented__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌreprɪˈzentɪŋ/",
+        "audio": "data/audio/r/represent/representing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "represent",
+      "heSheIt": "represents"
+    },
+    "pastSimple": "represented",
+    "pastParticiple": "represented",
+    "ingForm": "representing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to be a member of a group of people and act or speak for them at an event, a meeting, etc.",
+      "sensetop": "represent somebody/something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The competition attracted over 500 contestants representing eight different countries."
+        },
+        {
+          "text": "Local businesses are **well represented** on the committee *(= there are a lot of people from them on the committee)*."
+        },
+        {
+          "text": "The opening speech was by Bob Alan representing Amnesty International."
+        },
+        {
+          "text": "The President was represented at the ceremony by the Vice-President."
+        }
+      ],
+      "collocations": {
+        "adverb": ["strongly", "well", "equally"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to act or speak officially for somebody and defend their interests",
+      "sensetop": "represent somebody/something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The union represents over 200 000 teachers."
+        },
+        {
+          "text": "The association was formed to **represent the interests of** women artists."
+        },
+        {
+          "text": "Ms Dale is representing the defendant *(= is his/her lawyer)* in the case."
+        },
+        {
+          "text": "As an MP, it is my duty to represent my constituents."
+        },
+        {
+          "text": "How can we all be adequately represented by one political party?"
+        },
+        {
+          "text": "organizations claiming to represent farmers"
+        },
+        {
+          "text": "leaders who truly represent the interests of working families"
+        },
+        {
+          "text": "We have been ably represented in our efforts by our attorney."
+        },
+        {
+          "text": "The suspect must appear and may be legally represented."
+        }
+      ],
+      "topics": ["Law and justice", "People in society"],
+      "collocations": {
+        "adverb": ["legally", "ably", "adequately"],
+        "verb + represent": [
+          "choose somebody to",
+          "elect somebody to",
+          "select somebody to"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to take part in a sports event for a particular country, city, etc.",
+      "sensetop": "represent something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He's been chosen to represent Scotland in next year's World Cup Finals."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to be a symbol of something",
+      "sensetop": "represent something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Each colour on the chart represents a different department."
+        },
+        {
+          "text": "Wind direction is represented by arrows."
+        },
+        {
+          "text": "The artist uses doves to represent peace."
+        },
+        {
+          "text": "It is not clear what these symbols were intended to represent."
+        }
+      ],
+      "collocations": {
+        "adverb": ["accurately", "faithfully", "fairly"],
+        "verb + represent": ["be intended to", "purport to", "seek to"],
+        "preposition": ["as"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to be something",
+      "sensetop": "+ noun",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "This contract represents 20% of the company's annual revenue."
+        },
+        {
+          "text": "The final figure represents a 12% increase on the number of new jobs created the previous year."
+        },
+        {
+          "text": "They're investing in low-carbon technologies that represent value for money."
+        },
+        {
+          "text": "He got rid of anyone who represented a threat to his authority."
+        },
+        {
+          "text": "This role represents a unique opportunity to further your career in healthcare."
+        },
+        {
+          "text": "The peace plan represents *(= is the result of)* weeks of negotiation."
+        },
+        {
+          "text": "These results represent a major breakthrough in AIDS research."
+        },
+        {
+          "text": "This decision represents a significant departure from previous policy."
+        },
+        {
+          "text": "This represents a swing of 14% towards Labour."
+        },
+        {
+          "text": "This figure represents a fall of 21% on the same period last year."
+        },
+        {
+          "text": "These figures represent a return of 8.5% per annum."
+        },
+        {
+          "text": "These proposals represent a dramatic shift in policy."
+        },
+        {
+          "text": "This represents an apparent reversal in US policy."
+        },
+        {
+          "text": "The talks represented the first significant move towards peace."
+        },
+        {
+          "text": "The demonstration represents a direct challenge to the new law."
+        },
+        {
+          "text": "Our average margins dropped to 35%, which represents a reduction in gross margins of £109 million."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to be present in something to a particular degree",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Women and men were represented equally on the teams."
+        },
+        {
+          "text": "Women are disproportionately represented among welfare recipients."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to be an example or expression of something",
+      "sensetop": "represent something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The project represents all that is good in the community."
+        },
+        {
+          "text": "Those comments do not represent the views of us all."
+        },
+        {
+          "text": "The book purported to represent the lives of ordinary people."
+        }
+      ],
+      "synonyms": "be typical of"
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to show somebody/something, especially in a picture",
+      "sensetop": "represent somebody/somethingrepresent somebody/something as somebody/something",
+      "labels": "(formal)",
+      "cefr": "b1",
+      "examples": [
+        {
+          "text": "The carvings represent a hunting scene.",
+          "contextForm": "represent somebody/something"
+        },
+        {
+          "text": "The map represents Italy in the 12th century."
+        },
+        {
+          "text": "The results are represented in fig. 3 below."
+        },
+        {
+          "text": "The Egyptian goddess is represented as a woman with cow's horns.",
+          "contextForm": "represent somebody/something as somebody/something"
+        },
+        {
+          "text": "Representing an image accurately requires a great many bytes of digital information."
+        },
+        {
+          "text": "The data can be represented graphically in a line diagram."
+        }
+      ],
+      "topics": ["Art"],
+      "collocations": {
+        "adverb": ["accurately", "faithfully", "fairly"],
+        "verb + represent": ["be intended to", "purport to", "seek to"],
+        "preposition": ["as"]
+      }
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to present or describe somebody/something in a particular way, especially when this may not be fair",
+      "sensetop": "represent somebody/something as somethingrepresent somebody/something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The king is represented as a villain in the play.",
+          "contextForm": "represent somebody/something as something"
+        },
+        {
+          "text": "The risks were represented as negligible."
+        },
+        {
+          "text": "The film represents us as helpless victims."
+        },
+        {
+          "text": "The film accurately represents the atmosphere of the post-war period.",
+          "contextForm": "represent somebody/something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["accurately", "faithfully", "fairly"],
+        "verb + represent": ["be intended to", "purport to", "seek to"],
+        "preposition": ["as"]
+      }
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to make a formal statement to somebody in authority to make your opinions known or to protest",
+      "sensetop": "represent something to somebodyrepresent (to somebody) that…",
+      "labels": "(formal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "They represented their concerns to the authorities.",
+          "contextForm": "represent something to somebody"
+        },
+        {
+          "text": "He admitted falsely representing to police officers that the car had been stolen.",
+          "contextForm": "represent (to somebody) that…"
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French representer or Latin repraesentare, from re- (expressing intensive force) + praesentare ‘to present’."
+}

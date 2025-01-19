@@ -1,0 +1,99 @@
+{
+  "word": "comprehend",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌkɒmprɪˈhend/",
+        "audio": "data/audio/c/comprehend/comprehend__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌkɒmprɪˈhendz/",
+        "audio": "data/audio/c/comprehend/comprehends__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌkɒmprɪˈhendɪd/",
+        "audio": "data/audio/c/comprehend/comprehended__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌkɒmprɪˈhendɪŋ/",
+        "audio": "data/audio/c/comprehend/comprehending__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌkɑːmprɪˈhend/",
+        "audio": "data/audio/c/comprehend/comprehend__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌkɑːmprɪˈhendz/",
+        "audio": "data/audio/c/comprehend/comprehends__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌkɑːmprɪˈhendɪd/",
+        "audio": "data/audio/c/comprehend/comprehended__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌkɑːmprɪˈhendɪŋ/",
+        "audio": "data/audio/c/comprehend/comprehending__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "comprehend",
+      "heSheIt": "comprehends"
+    },
+    "pastSimple": "comprehended",
+    "pastParticiple": "comprehended",
+    "ingForm": "comprehending"
+  },
+  "definitions": [
+    {
+      "definition": "to understand something fully",
+      "sensetop": "comprehend somethingcomprehend how/why, etc…comprehend that…",
+      "examples": [
+        {
+          "text": "He stood staring at the dead body, unable to comprehend."
+        },
+        {
+          "text": "The infinite distances of space are too great for the human mind to comprehend.",
+          "contextForm": "comprehend something"
+        },
+        {
+          "text": "She could not comprehend how someone would risk people's lives in that way.",
+          "contextForm": "comprehend how/why, etc…"
+        },
+        {
+          "text": "He simply could not comprehend that she could be guilty.",
+          "contextForm": "comprehend that…"
+        },
+        {
+          "text": "She could barely comprehend what was happening to her."
+        },
+        {
+          "text": "He failed to comprehend the seriousness of the situation."
+        },
+        {
+          "text": "She could not comprehend how anyone could endanger human life in that way."
+        },
+        {
+          "text": "The concept of infinity is almost impossible for the human mind to comprehend."
+        }
+      ],
+      "collocations": {
+        "adverb": ["fully", "barely", "easily"],
+        "verb + comprehend": ["be able to", "be unable to", "cannot"]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French comprehender, or Latin comprehendere, from com- ‘together’ + prehendere ‘grasp’."
+}

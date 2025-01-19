@@ -1,0 +1,111 @@
+{
+  "word": "resign",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈzaɪn/",
+        "audio": "data/audio/r/resign/resign__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈzaɪnz/",
+        "audio": "data/audio/r/resign/resigns__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈzaɪnd/",
+        "audio": "data/audio/r/resign/resigned__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈzaɪnɪŋ/",
+        "audio": "data/audio/r/resign/resigning__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈzaɪn/",
+        "audio": "data/audio/r/resign/resign__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈzaɪnz/",
+        "audio": "data/audio/r/resign/resigns__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈzaɪnd/",
+        "audio": "data/audio/r/resign/resigned__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈzaɪnɪŋ/",
+        "audio": "data/audio/r/resign/resigning__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "resign",
+      "heSheIt": "resigns"
+    },
+    "pastSimple": "resigned",
+    "pastParticiple": "resigned",
+    "ingForm": "resigning"
+  },
+  "definitions": [
+    {
+      "definition": "to officially tell somebody that you are leaving your job, an organization, etc.",
+      "sensetop": "resign as somethingresign from somethingresign over somethingresign something",
+      "examples": [
+        {
+          "text": "She was forced to resign due to ill health."
+        },
+        {
+          "text": "He resigned as manager after eight years.",
+          "contextForm": "resign as something"
+        },
+        {
+          "text": "Two members resigned from the board in protest.",
+          "contextForm": "resign from something"
+        },
+        {
+          "text": "Some judges have threatened to resign over this issue.",
+          "contextForm": "resign over something"
+        },
+        {
+          "text": "My father resigned his directorship last year.",
+          "contextForm": "resign something"
+        },
+        {
+          "text": "He resigned as chairman."
+        },
+        {
+          "text": "She formally resigned from the government."
+        },
+        {
+          "text": "The minister offered to resign after his affair became public."
+        },
+        {
+          "text": "They called on her to resign as chief executive."
+        },
+        {
+          "text": "Three members of the committee resigned over the issue."
+        },
+        {
+          "text": "Two MPs threatened to resign if the government did not agree to examine this case."
+        }
+      ],
+      "topics": ["Working life"],
+      "collocations": {
+        "adverb": ["formally", "abruptly", "immediately"],
+        "verb + resign": ["be forced to", "be obliged to", "have to"],
+        "preposition": ["as", "from", "over"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French resigner, from Latin resignare ‘unseal, cancel’, from re- ‘back’ + signare ‘sign, seal’."
+}

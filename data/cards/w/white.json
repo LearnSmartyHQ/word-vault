@@ -1,0 +1,129 @@
+{
+  "word": "white",
+  "partOfSpeech": "adjective",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/waɪt/",
+        "audio": "data/audio/w/white/white_1_gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/waɪt/",
+        "audio": "data/audio/w/white/white__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "having the colour of fresh snow or of milk",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a crisp **white shirt**"
+        },
+        {
+          "text": "a white dress"
+        },
+        {
+          "text": "a plant with beautiful white flowers"
+        },
+        {
+          "text": "The suspect was seen driving a white van."
+        },
+        {
+          "text": "a spacious room with white walls and large windows"
+        },
+        {
+          "text": "a set of perfect white teeth"
+        },
+        {
+          "text": "His **hair** was as **white** as snow."
+        },
+        {
+          "text": "The horse was almost **pure white** in colour."
+        }
+      ],
+      "topics": ["Colours and Shapes"],
+      "collocations": {
+        "adjective": ["dead", "pure", "bright"],
+        "phrases": ["as white as a ghost", "as white as snow"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "belonging to or connected with a group of people who have pale skin, especially people who come from or whose ancestors came from Europe",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "white middle-class families"
+        },
+        {
+          "text": "She writes about her experiences as a black girl in a **predominantly white** city."
+        },
+        {
+          "text": "He grew up in a **mostly white** neighbourhood."
+        },
+        {
+          "text": "middle-aged **white men** in suits"
+        },
+        {
+          "text": "policies intended to appeal to **white** working-class **voters**"
+        }
+      ],
+      "topics": ["People in society"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "pale because of emotion or illness",
+      "sensetop": "white with something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "white with shock",
+          "contextForm": "white with something"
+        },
+        {
+          "text": "Zack's face turned white and his jaw dropped."
+        },
+        {
+          "text": "She went white as a sheet when she heard the news."
+        },
+        {
+          "text": "He looked red-eyed and white-faced, slightly fearful and anxious."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "look", "go"],
+        "adverb": ["extremely", "very", "rather"],
+        "preposition": ["with"],
+        "phrases": ["as white as a sheet"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "with milk added",
+      "labels": "(British English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Two white coffees, please."
+        },
+        {
+          "text": "Do you take your coffee black or white?"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Old English hwīt, of Germanic origin; related to Dutch wit and German weiss, also to wheat."
+}

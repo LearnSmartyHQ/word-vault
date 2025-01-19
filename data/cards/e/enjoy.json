@@ -1,0 +1,157 @@
+{
+  "word": "enjoy",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈdʒɔɪ/",
+        "audio": "data/audio/e/enjoy/enjoy__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈdʒɔɪz/",
+        "audio": "data/audio/e/enjoy/enjoys__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈdʒɔɪd/",
+        "audio": "data/audio/e/enjoy/enjoyed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈdʒɔɪɪŋ/",
+        "audio": "data/audio/e/enjoy/enjoying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈdʒɔɪ/",
+        "audio": "data/audio/e/enjoy/enjoy__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈdʒɔɪz/",
+        "audio": "data/audio/e/enjoy/enjoys__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈdʒɔɪd/",
+        "audio": "data/audio/e/enjoy/enjoyed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈdʒɔɪɪŋ/",
+        "audio": "data/audio/e/enjoy/enjoying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "enjoy",
+      "heSheIt": "enjoys"
+    },
+    "pastSimple": "enjoyed",
+    "pastParticiple": "enjoyed",
+    "ingForm": "enjoying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to get pleasure from something",
+      "sensetop": "enjoy somethingenjoy doing something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We **thoroughly enjoyed** our time in New York.",
+          "contextForm": "enjoy something"
+        },
+        {
+          "text": "Thanks for a great evening. I really enjoyed it."
+        },
+        {
+          "text": "She seems to be **enjoying life** in Paris."
+        },
+        {
+          "text": "I enjoy playing tennis and squash.",
+          "contextForm": "enjoy doing something"
+        },
+        {
+          "text": "I **really enjoyed** watching the film again."
+        },
+        {
+          "text": "I simply enjoy the feeling of power."
+        },
+        {
+          "text": "He was just beginning to enjoy it when the rain came down."
+        },
+        {
+          "text": "She greatly enjoys her work."
+        },
+        {
+          "text": "We enjoyed the game immensely."
+        },
+        {
+          "text": "I hope you enjoy your trip."
+        }
+      ],
+      "collocations": {
+        "adverb": ["enormously", "greatly", "hugely"],
+        "verb + enjoy": ["be able to", "seem to", "begin to"],
+        "phrases": ["enjoy yourself", "just enjoy it/​something"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to be happy and get pleasure from what you are doing",
+      "sensetop": "enjoy yourself",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They all enjoyed themselves at the party."
+        },
+        {
+          "text": "The kids all seemed to enjoy themselves."
+        }
+      ],
+      "topics": ["Feelings"],
+      "collocations": {
+        "adverb": ["enormously", "greatly", "hugely"],
+        "verb + enjoy": ["be able to", "seem to", "begin to"],
+        "phrases": ["enjoy yourself", "just enjoy it/​something"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to have something good that is an advantage to you",
+      "sensetop": "enjoy something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "People in this country enjoy a high standard of living."
+        },
+        {
+          "text": "He's always enjoyed good health."
+        },
+        {
+          "text": "Departmental managers enjoy considerable autonomy in the workplace."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "used to say that you hope somebody gets pleasure from something that you are giving them or recommending to them",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Here's that book I promised you. Enjoy!"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French enjoier ‘give joy to’ or enjoïr ‘enjoy’, both based on Latin gaudere ‘rejoice’."
+}

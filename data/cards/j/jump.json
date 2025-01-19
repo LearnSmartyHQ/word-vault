@@ -1,0 +1,444 @@
+{
+  "word": "jump",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dʒʌmp/",
+        "audio": "data/audio/j/jump/jump__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dʒʌmps/",
+        "audio": "data/audio/j/jump/jumps__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dʒʌmpt/",
+        "audio": "data/audio/j/jump/jumped__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdʒʌmpɪŋ/",
+        "audio": "data/audio/j/jump/jumping__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dʒʌmp/",
+        "audio": "data/audio/j/jump/jump__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dʒʌmps/",
+        "audio": "data/audio/j/jump/jumps__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dʒʌmpt/",
+        "audio": "data/audio/j/jump/jumped__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdʒʌmpɪŋ/",
+        "audio": "data/audio/j/jump/jumping__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "jump",
+      "heSheIt": "jumps"
+    },
+    "pastSimple": "jumped",
+    "pastParticiple": "jumped",
+    "ingForm": "jumping"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to move quickly off the ground or away from a surface by pushing yourself with your legs and feet",
+      "sensetop": "jump + adv./prep.jump + noun",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "‘Quick, jump!’ he shouted."
+        },
+        {
+          "text": "She jumped into the water to save them.",
+          "contextForm": "jump + adv./prep."
+        },
+        {
+          "text": "He jumped into the air and started cheering."
+        },
+        {
+          "text": "She jumped down from the chair."
+        },
+        {
+          "text": "The children were **jumping up and down** with excitement."
+        },
+        {
+          "text": "The pilot jumped from the burning plane *(= with a )*."
+        },
+        {
+          "text": "He killed himself by jumping off a bridge."
+        },
+        {
+          "text": "She has jumped 2.2 metres.",
+          "contextForm": "jump + noun"
+        },
+        {
+          "text": "He tried to jump back on board."
+        },
+        {
+          "text": "She jumped up onto the table."
+        },
+        {
+          "text": "Stop jumping on the furniture!"
+        },
+        {
+          "text": "They all jumped for joy and hugged each other."
+        },
+        {
+          "text": "The dog kept jumping up at me."
+        }
+      ],
+      "collocations": {
+        "adverb": ["suddenly", "almost", "nearly"],
+        "verb + jump": ["try to"],
+        "preposition": ["from", "into", "off"],
+        "phrases": ["jump for joy"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to pass over something by jumping",
+      "sensetop": "jump over somethingjump somethingjump something over something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He jumped over the wall to get away.",
+          "contextForm": "jump over something"
+        },
+        {
+          "text": "Can you jump that gate?",
+          "contextForm": "jump something"
+        },
+        {
+          "text": "He jumped the stream and carried on up the hill."
+        },
+        {
+          "text": "His horse fell as it jumped the last hurdle."
+        },
+        {
+          "text": "I jumped my horse over all the fences.",
+          "contextForm": "jump something over something"
+        }
+      ],
+      "synonyms": "leap",
+      "topics": ["Sports: other sports"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to move quickly and suddenly",
+      "sensetop": "jump + adv./prep.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He **jumped to his feet** when they called his name."
+        },
+        {
+          "text": "She jumped up and ran out of the room."
+        },
+        {
+          "text": "Do you want a ride? Jump in."
+        },
+        {
+          "text": "He jumped out of the car and disappeared into the building."
+        },
+        {
+          "text": "When she heard the news, she immediately jumped on a plane to France."
+        }
+      ],
+      "collocations": {
+        "adverb": ["slightly", "immediately", "instantly"],
+        "verb + jump": ["make somebody"],
+        "preposition": ["in"],
+        "phrases": ["jump out of your skin"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to make a sudden movement because of surprise, fear or excitement",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "A loud bang **made me jump**."
+        },
+        {
+          "text": "Her heart jumped when she heard the news."
+        },
+        {
+          "text": "He crept up behind me and made me jump."
+        },
+        {
+          "text": "She jumped slightly at the sound of the bell."
+        }
+      ],
+      "topics": ["Feelings"],
+      "collocations": {
+        "adverb": ["slightly", "immediately", "instantly"],
+        "verb + jump": ["make somebody"],
+        "preposition": ["in"],
+        "phrases": ["jump out of your skin"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to rise suddenly by a large amount",
+      "sensetop": "jump by…jump (from…) (to…)jump + noun",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Prices jumped by 60% last year.",
+          "contextForm": "jump by…"
+        },
+        {
+          "text": "Sales jumped from $2.7 billion to $3.5 billion.",
+          "contextForm": "jump (from…) (to…)"
+        },
+        {
+          "text": "Your interest rate might suddenly jump at the end of the fixed period."
+        },
+        {
+          "text": "The FTSE 100 benchmark index jumped 199.9 points.",
+          "contextForm": "jump + noun"
+        },
+        {
+          "text": "Profits jumped by 15 per cent during the year."
+        },
+        {
+          "text": "Shares jumped from 2p to 222p."
+        }
+      ],
+      "synonyms": "leap",
+      "topics": ["Change, cause and effect"]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to change suddenly from one subject to another",
+      "sensetop": "jump (about/around) (from something to something)",
+      "examples": [
+        {
+          "text": "I couldn't follow the talk because he kept jumping about from one topic to another."
+        },
+        {
+          "text": "The story then jumps from her childhood in New York to her first visit to London."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to leave out something and pass to a further point or stage",
+      "sensetop": "jump something",
+      "examples": [
+        {
+          "text": "You seem to have jumped several steps in the argument."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to move suddenly and unexpectedly, especially out of the correct position",
+      "sensetop": "(+ adv./prep.)",
+      "examples": [
+        {
+          "text": "The needle jumped across the dial."
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to attack somebody suddenly",
+      "sensetop": "jump (on) somebody",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The thieves jumped him in a dark alleyway."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to get on a vehicle very quickly, especially in a way that is dangerous or illegal",
+      "sensetop": "jump something",
+      "labels": "(North American English)",
+      "examples": [
+        {
+          "text": "to jump a train"
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to start the engine of a car by connecting the battery to the battery of another car with jump leads",
+      "sensetop": "jump something",
+      "labels": "(North American English)British and North American English",
+      "examples": []
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to put a lot of energy into starting a process or an activity or into making it start more quickly",
+      "sensetop": "jump something",
+      "labels": "(North American English)British and North American English",
+      "examples": []
+    },
+    {
+      "senseNumber": "13",
+      "definition": "to be very lively",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The club's jumping tonight."
+        }
+      ]
+    },
+    {
+      "definition": "to be very angry or excited about something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The local residents are jumping up and down complaining about the noise."
+        }
+      ]
+    },
+    {
+      "definition": "to join others in doing something that is becoming fashionable because you hope to become popular or successful yourself",
+      "labels": "(informal, disapproving)",
+      "examples": [
+        {
+          "text": "politicians eager to jump on the environmental bandwagon"
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to fail to appear at your trial after you have paid money to be allowed to go free until the trial",
+      "examples": [
+        {
+          "text": "He skipped bail and went on the run for two weeks."
+        }
+      ]
+    },
+    {
+      "definition": "to start or be made to start a new and difficult activity that you are not prepared for",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Junior hospital doctors are thrown in at the deep end in their first jobs."
+        },
+        {
+          "text": "The company believes in throwing new employees in at the deep end with no training."
+        }
+      ]
+    },
+    {
+      "definition": "to react very angrily to somebody",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to do something too soon, before the right time",
+      "examples": []
+    },
+    {
+      "definition": "to fail to stop at a red traffic light",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Crime and punishment", "Transport by car or lorry"]
+    },
+    {
+      "definition": "to move violently because of a sudden shock",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "She nearly jumped out of her skin when she saw me."
+        }
+      ]
+    },
+    {
+      "definition": "to go to the front of a line of people without waiting for your turn",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "She jumped the queue at the ticket counter."
+        },
+        {
+          "text": "Because he had money, he was able to jump the queue and get treatment that was not available to other people."
+        }
+      ]
+    },
+    {
+      "definition": "to leave the track suddenly",
+      "examples": []
+    },
+    {
+      "definition": "(used especially about a television series, etc.) to include something that is very hard to believe as an attempt to keep people watching, usually a sign that the show is not as good as it used to be",
+      "examples": [
+        {
+          "text": "Has the show finally jumped the shark?"
+        }
+      ]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to leave the ship on which you are serving, without permission",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Transport by water"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to leave an organization that you belong to, suddenly and unexpectedly",
+      "examples": []
+    },
+    {
+      "definition": "to do something difficult or complicated in order to achieve something",
+      "examples": [
+        {
+          "text": "You have to jump through so many hoops to get a job like this."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to make a decision about somebody/something too quickly, before you know or have thought about all the facts",
+      "examples": [
+        {
+          "text": "There I go again—jumping to conclusions."
+        },
+        {
+          "text": "Don't jump to conclusions."
+        },
+        {
+          "text": "We don't want to jump to the wrong conclusion."
+        }
+      ]
+    },
+    {
+      "definition": "used to tell somebody to hurry and do something quickly",
+      "labels": "(informal)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "early 16th cent. (in the sense ‘be moved or thrown with a sudden jerk’): probably imitative of the sound of feet coming into contact with the ground."
+}

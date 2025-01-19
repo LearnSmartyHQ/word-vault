@@ -1,0 +1,630 @@
+{
+  "word": "strike",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/straɪk/",
+        "audio": "data/audio/s/strike/strike__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/straɪks/",
+        "audio": "data/audio/s/strike/strikes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/strʌk/",
+        "audio": "data/audio/s/strike/struck__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈstraɪkɪŋ/",
+        "audio": "data/audio/s/strike/striking__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/straɪk/",
+        "audio": "data/audio/s/strike/strike__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/straɪks/",
+        "audio": "data/audio/s/strike/strikes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/strʌk/",
+        "audio": "data/audio/s/strike/struck__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈstraɪkɪŋ/",
+        "audio": "data/audio/s/strike/striking__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "strike",
+      "heSheIt": "strikes"
+    },
+    "pastSimple": "struck",
+    "pastParticiple": "struck",
+    "ingForm": "striking"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to hit somebody/something hard or with force",
+      "sensetop": "strike somebody/somethingstrike somebody/something + adv./prep.strike against something",
+      "labels": "(formal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The ship struck a rock.",
+          "contextForm": "strike somebody/something"
+        },
+        {
+          "text": "The child ran into the road and was **struck by a car**."
+        },
+        {
+          "text": "The tree was **struck by lightning**."
+        },
+        {
+          "text": "Warplanes struck several targets in the city."
+        },
+        {
+          "text": "He fell, striking his head on the edge of the table.",
+          "contextForm": "strike somebody/something + adv./prep."
+        },
+        {
+          "text": "He was struck in the head by a bullet."
+        },
+        {
+          "text": "The stone struck her on the forehead."
+        },
+        {
+          "text": "The oar struck against something hard.",
+          "contextForm": "strike against something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["firmly", "hard", "deep"],
+        "verb + strike": ["be about to", "be going to", "be ready to"],
+        "preposition": ["against", "at", "on"],
+        "phrases": [
+          "be struck by lightning",
+          "get struck by lightning",
+          "be struck down by something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to hit somebody/something with your hand or a weapon",
+      "sensetop": "strike somebody/somethingstrike somebody/something sth",
+      "labels": "(formal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She struck him in the face.",
+          "contextForm": "strike somebody/something"
+        },
+        {
+          "text": "He struck the table with his fist."
+        },
+        {
+          "text": "Who struck the first blow *(= started the fight)*?"
+        },
+        {
+          "text": "Did she ever strike you?"
+        },
+        {
+          "text": "He struck her two blows on the leg.",
+          "contextForm": "strike somebody/something sth"
+        }
+      ],
+      "collocations": {
+        "adverb": ["firmly", "hard", "deep"],
+        "verb + strike": ["be about to", "be going to", "be ready to"],
+        "preposition": ["against", "at", "on"],
+        "phrases": [
+          "be struck by lightning",
+          "get struck by lightning",
+          "be struck down by something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to hit or kick a ball, etc.",
+      "sensetop": "strike something (+ adv./prep.)",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "He walked up to the penalty spot and struck the ball firmly into the back of the net."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to attack somebody/something, especially suddenly",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The lion crouched ready to strike."
+        },
+        {
+          "text": "Police fear that the killer may strike again."
+        },
+        {
+          "text": "The guerrillas struck with deadly force."
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adverb": ["firmly", "hard", "deep"],
+        "verb + strike": ["be about to", "be going to", "be ready to"],
+        "preposition": ["against", "at", "on"],
+        "phrases": [
+          "be struck by lightning",
+          "get struck by lightning",
+          "be struck down by something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to happen suddenly and have a harmful or damaging effect on somebody/something",
+      "sensetop": "strike somebody/something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Two days later **tragedy struck**."
+        },
+        {
+          "text": "**Disaster struck** again when their best player was injured."
+        },
+        {
+          "text": "The area was struck by an outbreak of cholera.",
+          "contextForm": "strike somebody/something"
+        },
+        {
+          "text": "A hurricane is about to strike Jamaica."
+        },
+        {
+          "text": "Earthquakes can strike without warning."
+        },
+        {
+          "text": "The disease first struck her 10 years ago."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to come into somebody’s mind suddenly",
+      "sensetop": "strike somebodyit strikes somebody how, what, etc…",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "An awful thought has just struck me.",
+          "contextForm": "strike somebody"
+        },
+        {
+          "text": "I was struck by her resemblance to my aunt."
+        },
+        {
+          "text": "One thing that really struck me was how calm he appeared."
+        },
+        {
+          "text": "It suddenly struck me how we could improve the situation.",
+          "contextForm": "it strikes somebody how, what, etc…"
+        }
+      ],
+      "collocations": {
+        "adverb": ["immediately", "suddenly", "just"],
+        "preposition": ["as"]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to give somebody a particular impression",
+      "sensetop": "strike somebodystrike somebody as somethingit strikes somebody that…",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Another part of his comment struck me.",
+          "contextForm": "strike somebody"
+        },
+        {
+          "text": "His reaction struck me as odd.",
+          "contextForm": "strike somebody as something"
+        },
+        {
+          "text": "She strikes me as a very efficient person."
+        },
+        {
+          "text": "How does the idea strike you?"
+        },
+        {
+          "text": "It strikes me that nobody is really in favour of the changes.",
+          "contextForm": "it strikes somebody that…"
+        },
+        {
+          "text": "He always struck me as being rather stupid."
+        },
+        {
+          "text": "It struck me as strange that there was no one there."
+        }
+      ],
+      "collocations": {
+        "adverb": ["immediately", "suddenly", "just"],
+        "preposition": ["as"]
+      }
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to refuse to work because of an argument over pay or conditions",
+      "sensetop": "strike over somethingstrike for something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Over 100 000 civil servants are set to strike on Tuesday."
+        },
+        {
+          "text": "Drivers are threatening to strike over pay.",
+          "contextForm": "strike over something"
+        },
+        {
+          "text": "The union has voted to strike for a pay increase of 6%.",
+          "contextForm": "strike for something"
+        },
+        {
+          "text": "Striking workers picketed the factory."
+        }
+      ],
+      "topics": ["Social issues", "Working life"],
+      "collocations": {
+        "verb + strike": ["threaten to", "vote to", "be set to"],
+        "preposition": ["against", "for", "in protest at"],
+        "phrases": ["the right to strike"]
+      }
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to fall on a surface",
+      "sensetop": "strike something",
+      "examples": [
+        {
+          "text": "The windows sparkled as the sun struck the glass."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to put somebody suddenly into a particular state",
+      "sensetop": "strike somebody + adj.",
+      "examples": [
+        {
+          "text": "to be struck dumb/deaf/blind"
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to rub something such as a match against a surface so that it produces a flame; to produce a flame when rubbed against a rough surface",
+      "sensetop": "strike (something)",
+      "examples": [
+        {
+          "text": "to strike a match on a wall"
+        },
+        {
+          "text": "The sword struck sparks off the stone floor."
+        },
+        {
+          "text": "The matches were damp and he couldn't make them strike."
+        }
+      ]
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to show the time by making a ringing noise, etc.",
+      "sensetop": "strike something",
+      "examples": [
+        {
+          "text": "Did you hear the clock strike?"
+        },
+        {
+          "text": "Four o’clock had just struck."
+        },
+        {
+          "text": "The clock has just struck three.",
+          "contextForm": "strike something"
+        }
+      ],
+      "synonyms": "chime"
+    },
+    {
+      "senseNumber": "13",
+      "definition": "to produce a musical note, sound, etc. by pressing a key or hitting something",
+      "sensetop": "strike something",
+      "examples": [
+        {
+          "text": "She struck a chord on the piano and the children began to sing."
+        }
+      ],
+      "collocations": {
+        "adverb": ["firmly", "hard", "deep"],
+        "verb + strike": ["be about to", "be going to", "be ready to"],
+        "preposition": ["against", "at", "on"],
+        "phrases": [
+          "be struck by lightning",
+          "get struck by lightning",
+          "be struck down by something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "14",
+      "definition": "to discover gold, oil, etc. by digging or drilling",
+      "sensetop": "strike something",
+      "examples": [
+        {
+          "text": "They had struck oil!"
+        }
+      ]
+    },
+    {
+      "senseNumber": "15",
+      "definition": "to go somewhere with great energy or purpose",
+      "sensetop": "strike + adv./prep.",
+      "examples": [
+        {
+          "text": "We left the road and **struck off** across the fields."
+        },
+        {
+          "text": "He **struck out** *(= started swimming)* towards the shore."
+        },
+        {
+          "text": "The German army struck deep into northern France."
+        }
+      ]
+    },
+    {
+      "definition": "to be impressed or interested by somebody/something; to like somebody/something very much",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "I was struck by her youth and enthusiasm."
+        },
+        {
+          "text": "We're not very struck on that new restaurant."
+        },
+        {
+          "text": "I was particularly struck by the sound of the birds."
+        },
+        {
+          "text": "Joan was struck quite forcibly by the silence."
+        }
+      ]
+    },
+    {
+      "definition": "to argue in an aggressive way and force somebody to agree on the best possible price or arrangement",
+      "examples": [],
+      "topics": ["Discussion and agreement"]
+    },
+    {
+      "definition": "if a remark, etc. hits/strikes home, it has a strong effect on somebody, in a way that makes them realize what the true facts of a situation are",
+      "examples": [
+        {
+          "text": "Her face went pale as his words hit home."
+        }
+      ]
+    },
+    {
+      "definition": "to suddenly be in a successful situation, especially one that makes you rich",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The band really hit pay dirt with their last album."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to do, say or write something that is suitable/not suitable for a particular occasion",
+      "labels": "(especially British English)",
+      "examples": [
+        {
+          "text": "It is a bizarre tale and the author hits just the right note of horror and disbelief."
+        },
+        {
+          "text": "Unfortunately, the president struck the wrong note in his speech, ignoring the public mood."
+        }
+      ]
+    },
+    {
+      "definition": "to hit the wooden frame of the goal in the game of football (soccer), instead of scoring a goal",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "She hit the woodwork twice before scoring."
+        }
+      ]
+    },
+    {
+      "definition": "an unusual or unpleasant event is not likely to happen in the same place or to the same people twice",
+      "labels": "(saying)",
+      "examples": []
+    },
+    {
+      "definition": "to express feelings or opinions of a particular kind",
+      "examples": [
+        {
+          "text": "She sounded a note of warning in her speech."
+        },
+        {
+          "text": "The touch of cynicism struck a slightly sour note."
+        },
+        {
+          "text": "He sounded a cautionary note."
+        },
+        {
+          "text": "His opening remarks struck the right note."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "definition": "to manage to find a way of being fair to two things that are opposed to each other; to find an acceptable position that is between two things",
+      "examples": [
+        {
+          "text": "We need to strike a balance between these conflicting interests."
+        }
+      ]
+    },
+    {
+      "definition": "to make an agreement with somebody in which both sides have an advantage",
+      "examples": [
+        {
+          "text": "Perhaps we could strike a bargain."
+        },
+        {
+          "text": "The United States has struck a historic deal with India."
+        }
+      ],
+      "topics": ["Discussion and agreement"]
+    },
+    {
+      "definition": "to do something in support of/against a belief, principle, etc.",
+      "examples": [
+        {
+          "text": "He felt that they had struck a blow for democracy."
+        }
+      ]
+    },
+    {
+      "definition": "to say or do something that makes people feel sympathy or enthusiasm",
+      "examples": [
+        {
+          "text": "The speaker had obviously struck a chord with his audience."
+        }
+      ]
+    },
+    {
+      "definition": "to make somebody be afraid, etc.",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The sound of gunfire struck fear into the hearts of the villagers."
+        }
+      ]
+    },
+    {
+      "definition": "to find or do something that brings you a lot of success or money",
+      "examples": [
+        {
+          "text": "He has struck gold with his latest novel."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "if a remark, etc. strikes/hits home, it has a strong effect on somebody, in a way that makes them realize what the true facts of a situation are",
+      "examples": [
+        {
+          "text": "His face went pale as her words struck home."
+        }
+      ]
+    },
+    {
+      "definition": "to get a lot of money, especially suddenly or unexpectedly",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to have good luck",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "We certainly struck it lucky with the weather."
+        }
+      ]
+    },
+    {
+      "definition": "to have a strong effect",
+      "examples": [
+        {
+          "text": "His work strikes a nerve with people who are attracted to nostalgia."
+        },
+        {
+          "text": "It seems I struck a nerve with my last post about cell phones."
+        },
+        {
+          "text": "Nissan may well strike a popular nerve here."
+        }
+      ]
+    },
+    {
+      "definition": "to suddenly be in a successful situation, especially one that makes you rich",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The band really struck pay dirt with their last album."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to hold your body in a particular way to create a particular impression",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "to strike a dramatic pose"
+        },
+        {
+          "text": "He strikes an attitude of bravery and lonely defiance."
+        }
+      ]
+    },
+    {
+      "definition": "to do, say or write something that is suitable/not suitable for a particular occasion",
+      "labels": "(especially British English)",
+      "examples": [
+        {
+          "text": "It is a bizarre tale and the author strikes just the right note of horror and disbelief."
+        }
+      ]
+    },
+    {
+      "definition": "to make use of an opportunity immediately",
+      "labels": "(saying)",
+      "examples": []
+    },
+    {
+      "definition": "near enough to be reached or attacked easily; near enough to reach or attack something easily",
+      "examples": [
+        {
+          "text": "The beach is within striking distance."
+        },
+        {
+          "text": "The cat was now within striking distance of the duck."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English strīcan ‘go, flow’ and ‘rub lightly’, of West Germanic origin; related to German streichen ‘to stroke’, also to stroke. The sense ‘deliver a blow’ dates from Middle English."
+}

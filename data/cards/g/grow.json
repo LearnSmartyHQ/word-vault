@@ -1,0 +1,364 @@
+{
+  "word": "grow",
+  "partOfSpeech": "verblinking verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɡrəʊ/",
+        "audio": "data/audio/g/grow/grow__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɡrəʊz/",
+        "audio": "data/audio/g/grow/grows__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɡruː/",
+        "audio": "data/audio/g/grow/grew__gb_4.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɡrəʊn/",
+        "audio": "data/audio/g/grow/grown__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈɡrəʊɪŋ/",
+        "audio": "data/audio/g/grow/growing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡrəʊ/",
+        "audio": "data/audio/g/grow/grow__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɡrəʊz/",
+        "audio": "data/audio/g/grow/grows__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɡruː/",
+        "audio": "data/audio/g/grow/grew__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɡrəʊn/",
+        "audio": "data/audio/g/grow/grown__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈɡrəʊɪŋ/",
+        "audio": "data/audio/g/grow/growing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "grow",
+      "heSheIt": "grows"
+    },
+    "pastSimple": "grew",
+    "pastParticiple": "grown",
+    "ingForm": "growing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to increase in size, number, strength or quality",
+      "sensetop": "grow by somethinggrow in somethinggrow from somethinggrow to somethinggrow from something to something+ adj.",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The sector is growing at a phenomenal rate."
+        },
+        {
+          "text": "The performance improved as their confidence grew."
+        },
+        {
+          "text": "Opposition to the latest proposals is **growing steadily**."
+        },
+        {
+          "text": "The market is **growing rapidly**."
+        },
+        {
+          "text": "Sales are **growing fast**."
+        },
+        {
+          "text": "The business has **grown exponentially** over the past ten years."
+        },
+        {
+          "text": "Fears are growing for the safety of a teenager who disappeared a week ago."
+        },
+        {
+          "text": "The **economy is growing** by roughly 2 per cent a year.",
+          "contextForm": "grow by something"
+        },
+        {
+          "text": "The company profits grew by 5 per cent last year."
+        },
+        {
+          "text": "The family has **grown in size** recently.",
+          "contextForm": "grow in something"
+        },
+        {
+          "text": "This approach is **growing in popularity**."
+        },
+        {
+          "text": "She is growing in confidence all the time."
+        },
+        {
+          "text": "Her media empire grew from quite small beginnings.",
+          "contextForm": "grow from something"
+        },
+        {
+          "text": "That **number **will **grow** to two billion users in 2025.",
+          "contextForm": "grow to something"
+        },
+        {
+          "text": "The city's **population has grown** from about 50 000 to over a million in 20 years.",
+          "contextForm": "grow from something to something"
+        },
+        {
+          "text": "to **grow larger/stronger**",
+          "contextForm": "+ adj."
+        },
+        {
+          "text": "The company is **growing bigger** all the time."
+        },
+        {
+          "text": "Profits are expected to grow by 10 per cent next year."
+        },
+        {
+          "text": "He continued to grow in confidence"
+        },
+        {
+          "text": "The Chinese economy has grown at a record pace."
+        },
+        {
+          "text": "Well before a billionth of a second had elapsed the universe started to grow exponentially."
+        }
+      ],
+      "topics": ["Change, cause and effect", "Money"],
+      "collocations": {
+        "adverb": ["fast", "quickly", "rapidly"],
+        "verb + grow": ["seem to", "begin to", "start to"],
+        "preposition": ["at", "by", "from"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to become bigger or taller and develop into an adult",
+      "sensetop": "+ noun+ adj.",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You've grown since the last time I saw you!"
+        },
+        {
+          "text": "The puppies grow quickly during the first six months."
+        },
+        {
+          "text": "Nick's grown almost an inch in the last month.",
+          "contextForm": "+ noun"
+        },
+        {
+          "text": "to **grow bigger/taller/older**",
+          "contextForm": "+ adj."
+        }
+      ],
+      "collocations": {
+        "adverb": ["fast", "quickly", "rapidly"],
+        "preposition": ["into", "to"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to exist and develop in a particular place; to make plants grow",
+      "sensetop": "grow to somethinggrow from somethinggrow somethinggrow something from something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The region is too dry for plants to grow."
+        },
+        {
+          "text": "Tomatoes grow best in direct sunlight."
+        },
+        {
+          "text": "These roses grow to a height of 6 feet.",
+          "contextForm": "grow to something"
+        },
+        {
+          "text": "This is a tree that grows well from cuttings.",
+          "contextForm": "grow from something"
+        },
+        {
+          "text": "The land is used to **grow crops**.",
+          "contextForm": "grow something"
+        },
+        {
+          "text": "We need to **grow our food** more efficiently."
+        },
+        {
+          "text": "I didn't know they grew rice in France."
+        },
+        {
+          "text": "The **plants were grown** in controlled conditions."
+        },
+        {
+          "text": "I grew all these flowers from one packet of seeds.",
+          "contextForm": "grow something from something"
+        },
+        {
+          "text": "the nettles that grew thickly around the house"
+        },
+        {
+          "text": "organically grown produce"
+        },
+        {
+          "text": "an attractive plant which is very hardy and easy to grow"
+        },
+        {
+          "text": "The tree grew from a small acorn."
+        },
+        {
+          "text": "Small acorns grow into great oak trees."
+        },
+        {
+          "text": "A rose had been allowed to grow unchecked up one of the walls."
+        },
+        {
+          "text": "As the island subsided the reef grew upwards and outwards."
+        }
+      ],
+      "topics": ["Farming", "Gardens"],
+      "collocations": {
+        "adverb": ["organically", "commercially", "locally"],
+        "verb + grow": ["be easy to"],
+        "phrases": ["grow something from seed"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to become longer; to allow something to become longer by not cutting it",
+      "sensetop": "grow something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I've decided to let my hair grow."
+        },
+        {
+          "text": "I've decided to grow my hair.",
+          "contextForm": "grow something"
+        },
+        {
+          "text": "I didn't recognize him—he's grown a beard."
+        }
+      ],
+      "collocations": {
+        "adverb": ["well", "poorly", "fast"],
+        "verb + grow": ["allow something to", "let something"],
+        "preposition": ["from", "into", "to"],
+        "phrases": ["grow unchecked"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to begin to have a particular quality or feeling over a period of time",
+      "sensetop": "+ adj.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Their dog had **grown old** and fat."
+        },
+        {
+          "text": "They were **growing tired of** her unreasonable behaviour."
+        },
+        {
+          "text": "My eyes soon **grew accustomed to** the darkness."
+        },
+        {
+          "text": "Mark and Jenny were growing closer every day."
+        },
+        {
+          "text": "As time went on he grew more and more impatient."
+        },
+        {
+          "text": "The skies grew dark and it began to rain."
+        },
+        {
+          "text": "Don't worry, you'll grow braver with time."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to gradually begin to do something",
+      "sensetop": "grow to do something",
+      "examples": [
+        {
+          "text": "I'm sure you'll grow to like her in time."
+        },
+        {
+          "text": "He grew to understand her reasons for leaving."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to develop and improve particular qualities or skills",
+      "sensetop": "grow (as something)",
+      "examples": [
+        {
+          "text": "She continues to grow as an artist."
+        },
+        {
+          "text": "A secure background will help a child to grow emotionally."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to increase the size, quality or number of something",
+      "sensetop": "grow something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "We are trying to grow the business."
+        }
+      ],
+      "topics": ["Change, cause and effect"]
+    },
+    {
+      "definition": "used to say that when you are away from somebody that you love, you love them even more",
+      "labels": "(saying)",
+      "examples": []
+    },
+    {
+      "definition": "something large and successful often begins in a very small way",
+      "labels": "(saying)",
+      "examples": [],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "used to tell somebody not to use something or spend money carelessly because you do not have a lot of it",
+      "labels": "(saying)",
+      "examples": []
+    },
+    {
+      "definition": "to not delay in getting things done",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Old English grōwan (originally referring chiefly to plants), of Germanic origin; related to Dutch groeien, also to grass and green."
+}

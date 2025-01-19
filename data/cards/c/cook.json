@@ -1,0 +1,175 @@
+{
+  "word": "cook",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kʊk/",
+        "audio": "data/audio/c/cook/cook__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kʊks/",
+        "audio": "data/audio/c/cook/cooks__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kʊkt/",
+        "audio": "data/audio/c/cook/cooked__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈkʊkɪŋ/",
+        "audio": "data/audio/c/cook/cooking__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kʊk/",
+        "audio": "data/audio/c/cook/cook__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kʊks/",
+        "audio": "data/audio/c/cook/cooks__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kʊkt/",
+        "audio": "data/audio/c/cook/cooked__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈkʊkɪŋ/",
+        "audio": "data/audio/c/cook/cooking__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "cook",
+      "heSheIt": "cooks"
+    },
+    "pastSimple": "cooked",
+    "pastParticiple": "cooked",
+    "ingForm": "cooking"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to prepare food by heating it, for example by boiling, baking or frying it",
+      "sensetop": "cook somethingcook something for somebodycook somebody something",
+      "labels": "(especially British English)(British English)(North American English)(British English)(North American English)(especially North American English)(British English)(British English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Where did you learn to cook?"
+        },
+        {
+          "text": "Add the onion and cook for three minutes."
+        },
+        {
+          "text": "to **cook a meal**",
+          "contextForm": "cook something"
+        },
+        {
+          "text": "to **cook food/dinner**"
+        },
+        {
+          "text": "What's the best way to cook trout?"
+        },
+        {
+          "text": "I always have a **cooked breakfast** *(= consisting of cooked food)*"
+        },
+        {
+          "text": "He cooked lunch for me.",
+          "contextForm": "cook something for somebody"
+        },
+        {
+          "text": "He cooked me lunch.",
+          "contextForm": "cook somebody something"
+        },
+        {
+          "text": "I'll cook you a special meal for your birthday."
+        },
+        {
+          "text": "Make sure you cook the meat well."
+        },
+        {
+          "text": "Ensure that the meat is cooked through."
+        },
+        {
+          "text": "The vegetables were cooked perfectly."
+        },
+        {
+          "text": "the smell of freshly cooked bacon"
+        },
+        {
+          "text": "Who's going to cook supper?"
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adverb": ["fully", "thoroughly", "well"],
+        "phrases": ["be cooked through", "freshly cooked"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to be prepared by boiling, baking, frying, etc.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "While the pasta is cooking, prepare the sauce."
+        },
+        {
+          "text": "Turn the fish over so that it cooks evenly."
+        }
+      ],
+      "collocations": {
+        "adverb": ["fully", "thoroughly", "well"],
+        "phrases": ["be cooked through", "freshly cooked"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to be happening or planned",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Everyone is being very secretive—there's something cooking."
+        }
+      ]
+    },
+    {
+      "definition": "to be doing something very well and successfully",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to change facts or figures dishonestly or illegally",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "His accountant had been cooking the books for years."
+        },
+        {
+          "text": "Someone was cooking the books."
+        }
+      ]
+    },
+    {
+      "definition": "to destroy somebody’s chances of success",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Difficulty and failure"]
+    }
+  ],
+  "wordOrigin": "Old English cōc (noun), from popular Latin cocus, from Latin coquus."
+}

@@ -1,0 +1,122 @@
+{
+  "word": "convey",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kənˈveɪ/",
+        "audio": "data/audio/x/convey/xconvey__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kənˈveɪz/",
+        "audio": "data/audio/x/convey/xconveys__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kənˈveɪd/",
+        "audio": "data/audio/x/convey/xconveyed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kənˈveɪɪŋ/",
+        "audio": "data/audio/x/convey/xconveying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kənˈveɪ/",
+        "audio": "data/audio/x/convey/xconvey__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kənˈveɪz/",
+        "audio": "data/audio/x/convey/xconveys__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kənˈveɪd/",
+        "audio": "data/audio/x/convey/xconveyed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kənˈveɪɪŋ/",
+        "audio": "data/audio/x/convey/xconveying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "convey",
+      "heSheIt": "conveys"
+    },
+    "pastSimple": "conveyed",
+    "pastParticiple": "conveyed",
+    "ingForm": "conveying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make ideas, feelings, etc. known to somebody",
+      "sensetop": "convey somethingconvey something to somebodyconvey how, what, etc…convey that…",
+      "labels": "(formal)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Colours like red convey a sense of energy and strength.",
+          "contextForm": "convey something"
+        },
+        {
+          "text": "Please convey my apologies to your wife.",
+          "contextForm": "convey something to somebody"
+        },
+        {
+          "text": "He tried desperately to convey how urgent the situation was.",
+          "contextForm": "convey how, what, etc…"
+        },
+        {
+          "text": "She did not wish to convey that they were all at fault.",
+          "contextForm": "convey that…"
+        },
+        {
+          "text": "He managed to convey his enthusiasm to her."
+        },
+        {
+          "text": "The novel vividly conveys the experience of growing up during the war."
+        }
+      ],
+      "synonyms": "communicate",
+      "collocations": {
+        "adverb": ["clearly", "perfectly", "powerfully"],
+        "verb + convey": ["can", "could", "try to"],
+        "preposition": ["to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to take, carry or transport somebody/something from one place to another",
+      "sensetop": "convey somebody/something (from…) (to…)",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Pipes convey hot water from the boiler to the radiators."
+        },
+        {
+          "text": "A carriage was waiting to convey her home."
+        },
+        {
+          "text": "Flowers from the Isles of Scilly were conveyed by steamer to Penzance."
+        },
+        {
+          "text": "Pipes convey hot water to the radiators."
+        },
+        {
+          "text": "The stone was conveyed by river to the site."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English (in the sense ‘escort’; compare with convoy): from Old French conveier, from medieval Latin conviare, from con- ‘together’ + Latin via ‘way’."
+}

@@ -1,0 +1,44 @@
+{
+  "word": "monarch",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmɒnək/",
+        "audio": "data/audio/m/monarch/monarch__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmɑːnərk//ˈmɑːnɑːrk/",
+        "audio": "data/audio/m/monarch/monarch__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "definition": "a person who rules a country, for example a king or a queen",
+      "examples": [
+        {
+          "text": "a new law which limited the power of the monarch"
+        },
+        {
+          "text": "Queen Elizabeth II was England's longest reigning monarch."
+        },
+        {
+          "text": "The constitutional monarch , as head of state, has limited powers."
+        }
+      ],
+      "topics": ["People in society", "Politics"],
+      "collocations": {
+        "adjective": ["reigning", "absolute", "constitutional"],
+        "monarch + verb": ["reign", "rule"],
+        "phrases": ["the power of the monarch"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from late Latin monarcha, from Greek monarkhēs, from monos ‘alone’ + arkhein ‘to rule’."
+}

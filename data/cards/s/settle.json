@@ -1,0 +1,379 @@
+{
+  "word": "settle",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsetl/",
+        "audio": "data/audio/s/settle/settle__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsetlz/",
+        "audio": "data/audio/s/settle/settles__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsetld/",
+        "audio": "data/audio/s/settle/settled__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsetlɪŋ/",
+        "audio": "data/audio/s/settle/settling__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsetl/",
+        "audio": "data/audio/s/settle/settle__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsetlz/",
+        "audio": "data/audio/s/settle/settles__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsetld/",
+        "audio": "data/audio/s/settle/settled__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsetlɪŋ/",
+        "audio": "data/audio/s/settle/settling__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "settle",
+      "heSheIt": "settles"
+    },
+    "pastSimple": "settled",
+    "pastParticiple": "settled",
+    "ingForm": "settling"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to put an end to an argument or a disagreement",
+      "sensetop": "settle somethingsettle with somebody (for something)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **settle a dispute/a matter/an issue**",
+          "contextForm": "settle something"
+        },
+        {
+          "text": "to **settle a case/lawsuit/claim**"
+        },
+        {
+          "text": "to settle an argument/a disagreement"
+        },
+        {
+          "text": "It's time you **settled your differences** with your father."
+        },
+        {
+          "text": "I want this thing settled."
+        },
+        {
+          "text": "There is pressure on the unions to settle."
+        },
+        {
+          "text": "The company has agreed to **settle out of court** *(= come to an agreement without going to court)*."
+        },
+        {
+          "text": "Many cases are settled through negotiation."
+        },
+        {
+          "text": "The corporation later settled with the singer for $1.5 million.",
+          "contextForm": "settle with somebody (for something)"
+        },
+        {
+          "text": "Hopes of settling the conflict peacefully are fading."
+        },
+        {
+          "text": "Talks will be held in an attempt to settle the dispute."
+        },
+        {
+          "text": "This argument must be settled once and for all."
+        },
+        {
+          "text": "The matter has not yet been finally settled."
+        },
+        {
+          "text": "I'm delighted that all this has been settled amicably."
+        },
+        {
+          "text": "This is a matter that can only be settled by a family court."
+        },
+        {
+          "text": "After six months the company finally settled with the unions."
+        }
+      ],
+      "topics": ["Discussion and agreement"],
+      "collocations": {
+        "adverb": ["amicably", "peacefully", "eventually"],
+        "verb + settle": ["attempt to", "try to", "agree to"],
+        "preposition": ["for", "on", "with"],
+        "phrases": ["an attempt to settle something"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to decide or arrange something finally",
+      "sensetop": "settle somethingit is settled that…",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**It's** all **settled**—we're leaving on the nine o'clock plane.",
+          "contextForm": "settle something"
+        },
+        {
+          "text": "Good, that's settled, then."
+        },
+        {
+          "text": "Bob will be there? **That settles it**. I'm not coming."
+        },
+        {
+          "text": "He had to settle his affairs *(= arrange all his personal business)* in Paris before he could return home."
+        },
+        {
+          "text": "It's been settled that we leave on the nine o'clock plane.",
+          "contextForm": "it is settled that…"
+        },
+        {
+          "text": "All the loose ends should be settled within 48 hours."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to make a place your permanent home",
+      "sensetop": "+ adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She settled in Vienna after her father's death."
+        },
+        {
+          "text": "She is an American who settled here a couple of years ago."
+        },
+        {
+          "text": "The couple afterwards settled near Bournemouth."
+        },
+        {
+          "text": "He has now settled permanently in London."
+        },
+        {
+          "text": "He married and settled in a seaside cottage."
+        },
+        {
+          "text": "His parents eventually settled in Paris."
+        }
+      ],
+      "collocations": {
+        "adverb": ["permanently", "eventually", "finally"],
+        "verb + settle": ["decide to", "intend to"],
+        "phrases": [
+          "be densely settled",
+          "be sparsely settled",
+          "be ready to settle down"
+        ]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to make your permanent home in a country or an area as colonists",
+      "sensetop": "settle somethingsettle + adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "This region was settled by the Dutch in the nineteenth century.",
+          "contextForm": "settle something"
+        },
+        {
+          "text": "a fertile area that was densely settled in early times"
+        },
+        {
+          "text": "They settled on undeveloped land along the Mississippi.",
+          "contextForm": "settle + adv./prep."
+        },
+        {
+          "text": "It was the worst drought since the British settled in Australia in 1788."
+        },
+        {
+          "text": "Very few Maori were living in the area when the first Europeans settled there."
+        }
+      ],
+      "topics": ["Social issues"],
+      "collocations": {
+        "adverb": ["permanently", "eventually", "finally"],
+        "verb + settle": ["decide to", "intend to"],
+        "phrases": [
+          "be densely settled",
+          "be sparsely settled",
+          "be ready to settle down"
+        ]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to make yourself or somebody else comfortable in a new position",
+      "sensetop": "settle (back) (+ adv./prep.)settle somebody/yourself (+ adv./prep.)",
+      "examples": [
+        {
+          "text": "Ellie settled back in her seat.",
+          "contextForm": "settle (back) (+ adv./prep.)"
+        },
+        {
+          "text": "They prepared to settle in for the night *(= make themselves comfortable for an evening at home)*."
+        },
+        {
+          "text": "He settled himself comfortably in his usual chair.",
+          "contextForm": "settle somebody/yourself (+ adv./prep.)"
+        },
+        {
+          "text": "I settled her on the sofa and put a blanket over her."
+        }
+      ],
+      "collocations": {
+        "adverb": ["comfortably", "happily", "peacefully"],
+        "verb + settle": ["be unable to", "cannot", "allow somebody to"],
+        "phrases": ["settle down to do something"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to put something carefully in a position so that it does not move",
+      "sensetop": "settle something + adv./prep.",
+      "examples": [
+        {
+          "text": "She settled the blanket around her knees."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to become or make somebody/something become calm or relaxed",
+      "sensetop": "settle somebody/something",
+      "examples": [
+        {
+          "text": "The baby wouldn't settle."
+        },
+        {
+          "text": "I took a pill to help settle my nerves.",
+          "contextForm": "settle somebody/something"
+        },
+        {
+          "text": "This should settle your stomach."
+        },
+        {
+          "text": "He was anxious and couldn't settle."
+        },
+        {
+          "text": "Unable to settle, she trailed around the house all day."
+        },
+        {
+          "text": "She kept fussing around, refusing to let him settle."
+        }
+      ],
+      "collocations": {
+        "adverb": ["comfortably", "happily", "peacefully"],
+        "verb + settle": ["be unable to", "cannot", "allow somebody to"],
+        "phrases": ["settle down to do something"]
+      }
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to fall from above and come to rest on something; to stay for some time on something",
+      "sensetop": "settle (on/over something)",
+      "examples": [
+        {
+          "text": "Dust had settled on everything."
+        },
+        {
+          "text": "Two birds settled on the fence."
+        },
+        {
+          "text": "I don't think the snow will settle *(= remain on the ground without melting)*."
+        },
+        {
+          "text": "His gaze settled on her face."
+        },
+        {
+          "text": "Slowly dusk began to settle."
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to sink slowly down; to make something do this",
+      "sensetop": "settle (something)",
+      "examples": [
+        {
+          "text": "The contents of the package may have settled in transit."
+        },
+        {
+          "text": "Don't drink it yet. Let the grounds settle."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to pay the money that you owe",
+      "sensetop": "settle somethingsettle (up) (with somebody)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Please settle your bill before leaving the hotel.",
+          "contextForm": "settle something"
+        },
+        {
+          "text": "The insurance company is refusing to settle her claim."
+        },
+        {
+          "text": "They used the last of the money to settle their debts."
+        },
+        {
+          "text": "Let me settle with you for the meal.",
+          "contextForm": "settle (up) (with somebody)"
+        },
+        {
+          "text": "I'll pay now—we can settle up later."
+        }
+      ],
+      "topics": ["Money"]
+    },
+    {
+      "definition": "to wait for a situation to become clear or certain",
+      "examples": [
+        {
+          "text": "He waited for the dust to settle after the election before making any new decisions."
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"]
+    },
+    {
+      "definition": "to hurt or punish somebody who has harmed or cheated you in the past",
+      "examples": [
+        {
+          "text": "‘Who would do such a thing?’ ‘Maybe someone with an old score to settle.’"
+        },
+        {
+          "text": "An embittered Charlotte is determined to settle accounts with Elizabeth."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "verb Old English setlan ‘to seat, place’, from the noun settle."
+}

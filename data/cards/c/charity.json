@@ -1,0 +1,134 @@
+{
+  "word": "charity",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtʃærəti/",
+        "audio": "data/audio/c/charity/charity__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtʃærəti/",
+        "audio": "data/audio/c/charity/charity__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "an organization for helping people in need",
+      "sensetop": "charity for somebody/something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **registered charity**"
+        },
+        {
+          "text": "the UK's largest **children's charity**"
+        },
+        {
+          "text": "Many charities sent money to help the victims of the famine."
+        },
+        {
+          "text": "The concert will raise money for local charities."
+        },
+        {
+          "text": "My parents always supported charities."
+        },
+        {
+          "text": "a charity for homeless people",
+          "contextForm": "charity for somebody/something"
+        }
+      ],
+      "topics": ["Social issues"],
+      "collocations": {
+        "adjective": ["international", "local", "national"],
+        "verb + charity": ["donate (money) to", "give (money) to", "support"],
+        "charity + noun": ["appeal", "drive", "auction"],
+        "preposition": ["for charity", "charity for"],
+        "phrases": ["an act of charity"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "organizations for helping people in need, considered as a group; the money, food, help, etc. that they give",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Most of the runners in the London Marathon are **raising money for charity**."
+        },
+        {
+          "text": "A portion of the proceeds was **donated to charity**."
+        },
+        {
+          "text": "Do you give much to charity?"
+        },
+        {
+          "text": "a **charity event** *(= organized to get money for charity)*"
+        },
+        {
+          "text": "All the profits go to charity."
+        },
+        {
+          "text": "a charity auction/concert/football match"
+        },
+        {
+          "text": "She does a lot of charity work."
+        },
+        {
+          "text": "to live on/off charity (= to live on money which other people give you because you are poor)"
+        },
+        {
+          "text": "The school raised a lot of money for charity."
+        },
+        {
+          "text": "The school raised over a hundred pounds for charity."
+        },
+        {
+          "text": "They are proud people who don't accept charity."
+        },
+        {
+          "text": "They have no money and are forced to live on charity."
+        },
+        {
+          "text": "He refused to live off charity."
+        }
+      ],
+      "topics": ["Social issues"],
+      "collocations": {
+        "adjective": ["international", "local", "national"],
+        "verb + charity": ["donate (money) to", "give (money) to", "support"],
+        "charity + noun": ["appeal", "drive", "auction"],
+        "preposition": ["for charity", "charity for"],
+        "phrases": ["an act of charity"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "kind behaviour and sympathy towards other people, especially when you are judging them",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Her article showed no charity towards her former friends."
+        },
+        {
+          "text": "He replied patiently, with more charity than I deserved."
+        }
+      ]
+    },
+    {
+      "definition": "you should help and care for your own family, etc. before you start helping other people",
+      "labels": "(saying)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "late Old English (in the sense ‘Christian love of one's fellows’): from Old French charite, from Latin caritas, from carus ‘dear’."
+}

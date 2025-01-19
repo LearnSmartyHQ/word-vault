@@ -1,0 +1,560 @@
+{
+  "word": "piece",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/piːs/",
+        "audio": "data/audio/p/piece/piece__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/piːs/",
+        "audio": "data/audio/p/piece/piece__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "an amount of something that has been cut or separated from the rest of it; a standard amount of something",
+      "sensetop": "piece of somethinginto pieces",
+      "labels": "British English(figurative)(figurative)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She wrote something on a small **piece of paper**.",
+          "contextForm": "piece of something"
+        },
+        {
+          "text": "a piece of wood/metal"
+        },
+        {
+          "text": "a large **piece of land**"
+        },
+        {
+          "text": "a **piece of cake**"
+        },
+        {
+          "text": "a piece of cheese/meat/bread"
+        },
+        {
+          "text": "I've got a piece of grit in my eye."
+        },
+        {
+          "text": "a small/little/tiny piece of something"
+        },
+        {
+          "text": "He cut the pizza into bite-sized pieces.",
+          "contextForm": "into pieces"
+        },
+        {
+          "text": "She makes her sculptures out of odd pieces of scrap metal."
+        },
+        {
+          "text": "She tore the letter into tiny pieces."
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "huge", "large"],
+        "verb + piece": [
+          "assemble",
+          "glue (back) together",
+          "put (back) together"
+        ],
+        "preposition": ["in pieces", "piece of"],
+        "phrases": ["bits and pieces", "break into pieces", "smash into pieces"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "one of the bits or parts that something breaks into",
+      "sensetop": "piece of somethingto pieces in pieces",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "There were tiny pieces of glass all over the road.",
+          "contextForm": "piece of something"
+        },
+        {
+          "text": "The boat had been smashed to pieces on the rocks.",
+          "contextForm": "to pieces"
+        },
+        {
+          "text": "The building was **blown to pieces**."
+        },
+        {
+          "text": "tear/rip something to pieces"
+        },
+        {
+          "text": "The vase lay in pieces on the floor.",
+          "contextForm": "in pieces"
+        },
+        {
+          "text": "The cake just broke into pieces when I cut it."
+        },
+        {
+          "text": "The plate smashed into little pieces on the stone floor."
+        },
+        {
+          "text": "The vase was now in pieces on the kitchen floor."
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "huge", "large"],
+        "verb + piece": [
+          "assemble",
+          "glue (back) together",
+          "put (back) together"
+        ],
+        "preposition": ["in pieces", "piece of"],
+        "phrases": ["bits and pieces", "break into pieces", "smash into pieces"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "one of the parts that something is made of",
+      "sensetop": "to piecespiece of something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He **took** the clock **to pieces**.",
+          "contextForm": "to pieces"
+        },
+        {
+          "text": "a missing piece of the puzzle",
+          "contextForm": "piece of something"
+        },
+        {
+          "text": "The bridge was taken down **piece by piece**."
+        },
+        {
+          "text": "She's been doing a 500-piece jigsaw."
+        },
+        {
+          "text": "Can I take this jigsaw to pieces?"
+        },
+        {
+          "text": "I had to take the car to pieces in order to repair it."
+        },
+        {
+          "text": "A few pieces of the puzzle were missing."
+        },
+        {
+          "text": "This chair comes to pieces."
+        },
+        {
+          "text": "We'll need to take the engine apart, piece by piece."
+        },
+        {
+          "text": "He broke the clock down into pieces."
+        },
+        {
+          "text": "There had to be some missing piece of the story."
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "huge", "large"],
+        "verb + piece": [
+          "assemble",
+          "glue (back) together",
+          "put (back) together"
+        ],
+        "preposition": ["in pieces", "piece of"],
+        "phrases": ["bits and pieces", "break into pieces", "smash into pieces"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a single item of a particular type, especially one that forms part of a set",
+      "sensetop": "piece (of something)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **piece of equipment/furniture**"
+        },
+        {
+          "text": "a piece of clothing/luggage"
+        },
+        {
+          "text": "a piece of machinery"
+        },
+        {
+          "text": "a 28-piece dinner service"
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "used with many uncountable nouns to describe a single example or an amount of something",
+      "sensetop": "piece of something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **piece of information/evidence/advice/news/legislation**"
+        },
+        {
+          "text": "a **piece of software**"
+        },
+        {
+          "text": "This is a superb **piece of work**."
+        },
+        {
+          "text": "It was an interesting piece of research."
+        },
+        {
+          "text": "The building is a **piece of history** *(= of historical interest or importance)*."
+        },
+        {
+          "text": "Isn't that a piece of luck?"
+        },
+        {
+          "text": "You should eat at least two pieces of fruit a day."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "a single item of writing, art, music, etc. that somebody has produced or created; a short item of writing from a longer work",
+      "sensetop": "piece of somethingpiece from something",
+      "labels": "(formal)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **piece of music/art**",
+          "contextForm": "piece of something"
+        },
+        {
+          "text": "a fine **piece of writing**"
+        },
+        {
+          "text": "They performed pieces by Bach and Handel."
+        },
+        {
+          "text": "The painting is a **companion piece** to *(= is closely related to and intended to be displayed with)* an earlier work."
+        },
+        {
+          "text": "They have some beautiful pieces *(= works of art, etc.)* in their home."
+        },
+        {
+          "text": "She read a piece from ‘Alice in Wonderland’.",
+          "contextForm": "piece from something"
+        },
+        {
+          "text": "The orchestra performed pieces by Ravel and Prokofiev."
+        },
+        {
+          "text": "Auditioning students are required to play a solo piece of their choice."
+        },
+        {
+          "text": "a piece for symphony orchestra, choir and four soloists"
+        },
+        {
+          "text": "He hasn't produced a single piece of writing this year."
+        },
+        {
+          "text": "They are exhibiting two important pieces by Calder."
+        },
+        {
+          "text": "This is an effective piece of writing."
+        },
+        {
+          "text": "a companion piece to the portrait of Gauguin's empty chair"
+        },
+        {
+          "text": "The best pieces include three paintings by El Greco."
+        }
+      ],
+      "topics": ["Music"],
+      "collocations": {
+        "adjective": ["amazing", "beautiful", "brilliant"],
+        "verb + piece": ["compose", "produce", "write"],
+        "piece + verb": [
+          "be called something",
+          "be entitled something",
+          "be titled something"
+        ],
+        "preposition": ["piece by", "piece for", "piece from"],
+        "phrases": [
+          "a piece of music",
+          "a piece of sculpture",
+          "a piece of work"
+        ]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "an article in a newspaper or magazine or a broadcast on television or radio",
+      "sensetop": "piece about/on something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The Washington Post ran a series of **opinion pieces** criticizing the policy."
+        },
+        {
+          "text": "Did you see her piece about the internet in the paper today?",
+          "contextForm": "piece about/on something"
+        },
+        {
+          "text": "a short piece by Will Simons on television satire"
+        },
+        {
+          "text": "an occasional piece on the lives of ordinary people"
+        },
+        {
+          "text": "an original piece written specifically for the producer"
+        }
+      ],
+      "topics": ["TV, radio and news"],
+      "collocations": {
+        "adjective": ["amazing", "beautiful", "brilliant"],
+        "verb + piece": ["compose", "produce", "write"],
+        "piece + verb": [
+          "be called something",
+          "be entitled something",
+          "be titled something"
+        ],
+        "preposition": ["piece by", "piece for", "piece from"],
+        "phrases": [
+          "a piece of music",
+          "a piece of sculpture",
+          "a piece of work"
+        ]
+      }
+    },
+    {
+      "senseNumber": "8",
+      "definition": "a coin of the value mentioned",
+      "examples": [
+        {
+          "text": "a 50p piece"
+        },
+        {
+          "text": "a five-cent piece"
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "one of the small figures or objects that you move around in games such as chess",
+      "cefr": "b2",
+      "examples": [],
+      "topics": ["Games and toys"]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "a part or share of something",
+      "sensetop": "piece of something",
+      "labels": "(especially North American English)",
+      "examples": [
+        {
+          "text": "companies seeking a piece of the market"
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "huge", "large"],
+        "verb + piece": [
+          "assemble",
+          "glue (back) together",
+          "put (back) together"
+        ],
+        "preposition": ["in pieces", "piece of"],
+        "phrases": ["bits and pieces", "break into pieces", "smash into pieces"]
+      }
+    },
+    {
+      "senseNumber": "11",
+      "definition": "a gun",
+      "labels": "(North American English, slang)",
+      "examples": []
+    },
+    {
+      "senseNumber": "12",
+      "definition": "a short distance",
+      "labels": "(North American English, old-fashioned, informal)",
+      "examples": [
+        {
+          "text": "She lives down the road a piece from here."
+        }
+      ]
+    },
+    {
+      "definition": "small objects or items of various kinds",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "She stuffed all her bits and pieces into a bag and left."
+        },
+        {
+          "text": "I just need to get a few bits and pieces at the supermarket."
+        }
+      ]
+    },
+    {
+      "definition": "to use bombs or other weapons to destroy somebody/something completely",
+      "examples": [
+        {
+          "text": "The plane was blown to pieces when the bomb exploded."
+        }
+      ]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to become very old and in bad condition because of long use",
+      "examples": [
+        {
+          "text": "Our car is falling to pieces, we've had it so long."
+        },
+        {
+          "text": "My old dictionary is falling to pieces."
+        }
+      ],
+      "synonyms": "fall apart"
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to stop working; to be destroyed",
+      "examples": [
+        {
+          "text": "He's worried the business will fall to pieces without him."
+        }
+      ]
+    },
+    {
+      "definition": "to tell somebody that you think their behaviour is bad or are angry with them",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to be so upset or afraid that you cannot manage to live or work normally",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "After his wife died he just went to pieces."
+        }
+      ]
+    },
+    {
+      "definition": "used to say that there is no definite answer to a question",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "‘How long will it take?’ ‘How long's a piece of string?’"
+        }
+      ]
+    },
+    {
+      "definition": "safe; not damaged or hurt, especially after a journey or dangerous experience",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "They were lucky to get home in one piece."
+        }
+      ]
+    },
+    {
+      "definition": "a person who is unpleasant, unkind or dishonest",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "Don’t trust him; he’s a nasty piece of work."
+        },
+        {
+          "text": "He's a thoroughly nasty piece of work."
+        }
+      ]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "all the same or similar",
+      "examples": [
+        {
+          "text": "The houses are all of a piece."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "all at the same time",
+      "examples": [
+        {
+          "text": "The house was built all of a piece in 1754."
+        }
+      ]
+    },
+    {
+      "definition": "to criticize somebody, or their work or ideas, very severely",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to return or to help somebody return to a normal situation, particularly after a shock or a disaster",
+      "examples": [
+        {
+          "text": "You cannot live your children's lives for them; you can only be there to pick up the pieces when things go wrong."
+        }
+      ]
+    },
+    {
+      "definition": "a thing that is very easy to do",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "a share of the available money or benefits that you believe you have a right to",
+      "examples": [
+        {
+          "text": "The company is demanding a larger slice of the corporate pie."
+        }
+      ]
+    },
+    {
+      "definition": "a thing that is very easy to do",
+      "labels": "(British English, offensive, slang)",
+      "examples": []
+    },
+    {
+      "definition": "used to express the fact that you admire somebody or find them funny, often when they have done something that surprises you",
+      "labels": "(North American English, informal)",
+      "examples": [
+        {
+          "text": "You're some piece of work, Jack, do you know that?"
+        }
+      ]
+    },
+    {
+      "definition": "a share or role in an interesting or exciting activity, especially one that makes money",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Foreign firms will all want a piece of the action if the new airport goes ahead."
+        }
+      ]
+    },
+    {
+      "definition": "to say exactly what you feel or think",
+      "examples": []
+    },
+    {
+      "definition": "the person or thing that is responsible for all the trouble in a situation",
+      "labels": "(especially humorous)",
+      "examples": [
+        {
+          "text": "It’s hard to identify the real villain of the piece in this case."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French piece (compare with medieval Latin pecia, petium), of obscure ultimate origin."
+}

@@ -1,0 +1,139 @@
+{
+  "word": "elect",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪˈlekt/",
+        "audio": "data/audio/e/elect/elect__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪˈlekts/",
+        "audio": "data/audio/e/elect/elects__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪˈlektɪd/",
+        "audio": "data/audio/e/elect/elected__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪˈlektɪŋ/",
+        "audio": "data/audio/e/elect/electing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪˈlekt/",
+        "audio": "data/audio/e/elect/elect__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪˈlekts/",
+        "audio": "data/audio/e/elect/elects__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪˈlektɪd/",
+        "audio": "data/audio/e/elect/elected__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪˈlektɪŋ/",
+        "audio": "data/audio/e/elect/electing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "elect",
+      "heSheIt": "elects"
+    },
+    "pastSimple": "elected",
+    "pastParticiple": "elected",
+    "ingForm": "electing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to choose somebody to do a particular job by voting for them",
+      "sensetop": "elect somebody/somethingelect somebody to somethingelect somebody (as) something",
+      "labels": "(especially North American English)(especially British English)(North American English)(British English)(especially British English)(North American English)(British English)(especially North American English)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Voters will elect a new president on 30 March next year.",
+          "contextForm": "elect somebody/something"
+        },
+        {
+          "text": "the **newly/democratically elected** government"
+        },
+        {
+          "text": "an **elected representative/official/assembly**"
+        },
+        {
+          "text": "What changes will he make if he **gets elected**?"
+        },
+        {
+          "text": "She became the first black woman to be elected to the Senate.",
+          "contextForm": "elect somebody to something"
+        },
+        {
+          "text": "He was elected (as) MP for Oxford East.",
+          "contextForm": "elect somebody (as) something"
+        },
+        {
+          "text": "The party first elected her leader in 2017."
+        },
+        {
+          "text": "Five were successful, three being elected unopposed."
+        },
+        {
+          "text": "He was elected to Parliament in 1997."
+        },
+        {
+          "text": "It was decided that the president should be elected directly in free elections."
+        },
+        {
+          "text": "Members of the council are elected annually."
+        },
+        {
+          "text": "She has been elected to Parliament."
+        },
+        {
+          "text": "They make their own rules and elect their own leaders."
+        },
+        {
+          "text": "Each officer shall be elected for one term of two years."
+        }
+      ],
+      "topics": ["Politics"],
+      "collocations": {
+        "adverb": ["annually", "locally", "nationally"],
+        "preposition": ["to"],
+        "phrases": ["be elected", "get elected", "be declared elected"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to choose to do something",
+      "sensetop": "elect to do something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Increasing numbers of people elect to work from home nowadays."
+        },
+        {
+          "text": "Several of the tenants have elected to move to smaller premises."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin elect- ‘picked out’, from the verb eligere, from e- (variant of ex-) ‘out’ + legere ‘to pick’."
+}

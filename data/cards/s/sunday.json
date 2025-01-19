@@ -1,0 +1,117 @@
+{
+  "word": "Sunday",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsʌndeɪ//ˈsʌndi/",
+        "audio": "data/audio/s/Sunday/sunday_1_gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsʌndeɪ//ˈsʌndi/",
+        "audio": "data/audio/s/Sunday/sunday__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the day of the week after Saturday and before Monday, thought of as either the first or the last day of the week",
+      "sensetop": "on Sundayon Sundayson a Sunday",
+      "labels": "(informal or North American English)(especially North American English)(British English)(British English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "It's Sunday today, isn't it?"
+        },
+        {
+          "text": "She went to a cooking class **last Sunday**."
+        },
+        {
+          "text": "Are you busy **next Sunday**?"
+        },
+        {
+          "text": "**Sunday morning/afternoon/evening**"
+        },
+        {
+          "text": "We'll see each other at Sunday's party."
+        },
+        {
+          "text": "I work Sunday to Thursday."
+        },
+        {
+          "text": "I work Sundays to Thursdays."
+        },
+        {
+          "text": "We'll meet on Sunday *(= next Sunday)*.",
+          "contextForm": "on Sunday"
+        },
+        {
+          "text": "We met on Sunday *(= last Monday)*."
+        },
+        {
+          "text": "We'll meet Sunday."
+        },
+        {
+          "text": "The office is closed on Sundays *(= every Sunday)*.",
+          "contextForm": "on Sundays"
+        },
+        {
+          "text": "The office is closed Sundays."
+        },
+        {
+          "text": "He was born on a Sunday.",
+          "contextForm": "on a Sunday"
+        },
+        {
+          "text": "I always do yoga on a Sunday *(= every Sunday)*."
+        },
+        {
+          "text": "I went to Lisbon on Wednesday, and came back the following Sunday."
+        },
+        {
+          "text": "‘When did the accident happen?’ ‘It was the Sunday *(= the Sunday of the week we are talking about)*.’"
+        },
+        {
+          "text": "Come back Sunday week *(= a week after next Sunday)*."
+        }
+      ],
+      "topics": ["Time"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a newspaper published on a Sunday",
+      "labels": "(British English, informal)",
+      "examples": []
+    },
+    {
+      "definition": "used to emphasize that something will never happen or will take a very long time",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "You won't find it, not in a month of Sundays."
+        },
+        {
+          "text": "It is possible to learn to skydive in Britain, but with our weather it might take a month of Sundays to do it."
+        }
+      ]
+    },
+    {
+      "definition": "your best clothes",
+      "labels": "(informal, humorous)",
+      "examples": [
+        {
+          "text": "I put on my Sunday best for the occasion."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English Sunnandæg ‘day of the sun’, translation of Latin dies solis; compare with Dutch zondag and German Sonntag."
+}

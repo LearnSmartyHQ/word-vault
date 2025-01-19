@@ -1,0 +1,88 @@
+{
+  "word": "compute",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəmˈpjuːt/",
+        "audio": "data/audio/c/compute/compute__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəmˈpjuːts/",
+        "audio": "data/audio/c/compute/computes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəmˈpjuːtɪd/",
+        "audio": "data/audio/c/compute/computed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəmˈpjuːtɪŋ/",
+        "audio": "data/audio/c/compute/computing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəmˈpjuːt/",
+        "audio": "data/audio/c/compute/compute__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəmˈpjuːts/",
+        "audio": "data/audio/c/compute/computes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəmˈpjuːtɪd/",
+        "audio": "data/audio/c/compute/computed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəmˈpjuːtɪŋ/",
+        "audio": "data/audio/c/compute/computing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "compute",
+      "heSheIt": "computes"
+    },
+    "pastSimple": "computed",
+    "pastParticiple": "computed",
+    "ingForm": "computing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to calculate something",
+      "sensetop": "compute something",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The losses were computed at £5 million."
+        },
+        {
+          "text": "These measurements can be used to compute the average size."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make sense",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "That just doesn't compute."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "early 17th cent.: from French computer or Latin computare, from com- ‘together’ + putare ‘to settle (an account)’."
+}

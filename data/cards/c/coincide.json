@@ -1,0 +1,126 @@
+{
+  "word": "coincide",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌkəʊɪnˈsaɪd/",
+        "audio": "data/audio/c/coincide/coincide__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌkəʊɪnˈsaɪdz/",
+        "audio": "data/audio/c/coincide/coincides__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌkəʊɪnˈsaɪdɪd/",
+        "audio": "data/audio/c/coincide/coincided__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌkəʊɪnˈsaɪdɪŋ/",
+        "audio": "data/audio/c/coincide/coinciding__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌkəʊɪnˈsaɪd/",
+        "audio": "data/audio/c/coincide/coincide__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌkəʊɪnˈsaɪdz/",
+        "audio": "data/audio/c/coincide/coincides__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌkəʊɪnˈsaɪdɪd/",
+        "audio": "data/audio/c/coincide/coincided__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌkəʊɪnˈsaɪdɪŋ/",
+        "audio": "data/audio/c/coincide/coinciding__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "coincide",
+      "heSheIt": "coincides"
+    },
+    "pastSimple": "coincided",
+    "pastParticiple": "coincided",
+    "ingForm": "coinciding"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to take place at the same time",
+      "sensetop": "coincide with something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "It's a pity our trips to New York don't coincide."
+        },
+        {
+          "text": "The strike was timed to coincide with the party conference.",
+          "contextForm": "coincide with something"
+        },
+        {
+          "text": "The singer's arrival was timed to coincide with the opening of the festival."
+        }
+      ],
+      "collocations": {
+        "adverb": ["exactly", "precisely", "roughly"],
+        "verb + coincide": ["be planned to", "be timed to"],
+        "preposition": ["with"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to be the same or very similar",
+      "sensetop": "coincide with something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The interests of employers and employees do not always coincide."
+        },
+        {
+          "text": "Her story coincided exactly with her brother's.",
+          "contextForm": "coincide with something"
+        },
+        {
+          "text": "Our views on this issue coincide closely with yours."
+        },
+        {
+          "text": "Our views on this issue coincide closely with those of the Countryside Council."
+        }
+      ],
+      "collocations": {
+        "adverb": ["closely", "exactly", "perfectly"],
+        "preposition": ["with"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to meet; to share the same space",
+      "sensetop": "coincide with something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "At this point the two paths coincide briefly."
+        },
+        {
+          "text": "The present position of the house coincides with that of an earlier dwelling.",
+          "contextForm": "coincide with something"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "early 18th cent. (in the sense ‘occupy the same space’): from medieval Latin coincidere, from co- ‘together with’ + incidere ‘fall upon or into’."
+}

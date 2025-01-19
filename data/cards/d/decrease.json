@@ -1,0 +1,133 @@
+{
+  "word": "decrease",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈkriːs/",
+        "audio": "data/audio/d/decrease/decrease__gb_4.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈkriːsɪz/",
+        "audio": "data/audio/d/decrease/decreases__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈkriːst/",
+        "audio": "data/audio/d/decrease/decreased__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈkriːsɪŋ/",
+        "audio": "data/audio/d/decrease/decreasing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈkriːs/",
+        "audio": "data/audio/d/decrease/decrease__us_4_rr.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈkriːsɪz/",
+        "audio": "data/audio/d/decrease/decreases__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈkriːst/",
+        "audio": "data/audio/d/decrease/decreased__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈkriːsɪŋ/",
+        "audio": "data/audio/d/decrease/decreasing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "decrease",
+      "heSheIt": "decreases"
+    },
+    "pastSimple": "decreased",
+    "pastParticiple": "decreased",
+    "ingForm": "decreasing"
+  },
+  "definitions": [
+    {
+      "definition": "to become smaller in size, number, etc.; to make something smaller in size, number, etc.",
+      "sensetop": "decrease (from something) (to something)decrease by somethingdecrease in somethingdecrease with somethingdecrease something",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Donations have **decreased significantly** over the past few years."
+        },
+        {
+          "text": "a decreasing population"
+        },
+        {
+          "text": "The number of new students decreased from 210 to 160 this year.",
+          "contextForm": "decrease (from something) (to something)"
+        },
+        {
+          "text": "The price of wheat has decreased by 5 per cent.",
+          "contextForm": "decrease by something"
+        },
+        {
+          "text": "This species of bird is decreasing in numbers every year.",
+          "contextForm": "decrease in something"
+        },
+        {
+          "text": "to decrease in size/value"
+        },
+        {
+          "text": "Fertility decreases with age.",
+          "contextForm": "decrease with something"
+        },
+        {
+          "text": "The drug did not **significantly decrease** the risk of heart attack.",
+          "contextForm": "decrease something"
+        },
+        {
+          "text": "People should decrease the amount of fat they eat."
+        },
+        {
+          "text": "to decrease the incidence/likelihood/rate of something"
+        },
+        {
+          "text": "Average family size has decreased from five to three children."
+        },
+        {
+          "text": "Crime has decreased by 20 per cent."
+        },
+        {
+          "text": "The heart gradually decreases in size."
+        },
+        {
+          "text": "Spending has decreased slightly this year."
+        },
+        {
+          "text": "The dose was gradually decreased after eight weeks."
+        },
+        {
+          "text": "The number of quarrels among children decreases with age."
+        },
+        {
+          "text": "Symptoms include a dry mouth, decreased appetite, headache and tiredness."
+        }
+      ],
+      "topics": ["Change, cause and effect", "Money"],
+      "collocations": {
+        "adverb": ["considerably", "dramatically", "drastically"],
+        "preposition": ["by", "from", "to"],
+        "phrases": ["decrease in number, size, value, etc."]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French decreis (noun), decreistre (verb), based on Latin decrescere, from de- ‘down’ + crescere ‘grow’."
+}

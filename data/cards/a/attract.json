@@ -1,0 +1,152 @@
+{
+  "word": "attract",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈtrækt/",
+        "audio": "data/audio/a/attract/attract__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈtrækts/",
+        "audio": "data/audio/a/attract/attracts__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈtræktɪd/",
+        "audio": "data/audio/a/attract/attracted__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈtræktɪŋ/",
+        "audio": "data/audio/a/attract/attracting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈtrækt/",
+        "audio": "data/audio/a/attract/attract__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈtrækts/",
+        "audio": "data/audio/a/attract/attracts__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈtræktɪd/",
+        "audio": "data/audio/a/attract/attracted__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈtræktɪŋ/",
+        "audio": "data/audio/a/attract/attracting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "attract",
+      "heSheIt": "attracts"
+    },
+    "pastSimple": "attracted",
+    "pastParticiple": "attracted",
+    "ingForm": "attracting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "if you are attracted by something, it interests you and makes you want it; if you are attracted by somebody, you like or admire them",
+      "sensetop": "be attracted by somebody/somethingattract somebody (to somebody/something)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I had always been attracted by the idea of working abroad.",
+          "contextForm": "be attracted by somebody/something"
+        },
+        {
+          "text": "What first attracted me to her was her sense of humour.",
+          "contextForm": "attract somebody (to somebody/something)"
+        },
+        {
+          "text": "She finds herself increasingly attracted to them and their lifestyle."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to have a sexual or romantic interest in somebody",
+      "sensetop": "be attracted to somebody",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I am not attracted to him at all."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to make somebody/something come somewhere or take part in something",
+      "sensetop": "attract somebody/something to somethingattract something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Officials hope to attract more tourists to the area.",
+          "contextForm": "attract somebody/something to something"
+        },
+        {
+          "text": "The new city is expected to attract investment worth £45 billion."
+        },
+        {
+          "text": "The exhibition has attracted thousands of visitors.",
+          "contextForm": "attract something"
+        },
+        {
+          "text": "to attract a crowd/audience/customers"
+        },
+        {
+          "text": "The warm damp air attracts a lot of mosquitoes."
+        },
+        {
+          "text": "Figure out how to continue to attract and retain businesses."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to make people have a particular reaction",
+      "sensetop": "attract something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "This proposal has **attracted a lot of interest**."
+        },
+        {
+          "text": "His comments were bound to **attract criticism**."
+        },
+        {
+          "text": "She tried to **attract the attention** of the waiter."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "if a magnet or gravity attracts something, it makes it move towards it",
+      "labels": "(physics)",
+      "examples": []
+    },
+    {
+      "definition": "used to say that people who are very different are often attracted to each other",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin attract- ‘drawn near’, from the verb attrahere, from ad- ‘to’ + trahere ‘draw’."
+}

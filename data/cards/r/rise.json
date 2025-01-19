@@ -1,0 +1,440 @@
+{
+  "word": "rise",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/raɪz/",
+        "audio": "data/audio/r/rise/rise__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈraɪzɪz/",
+        "audio": "data/audio/r/rise/rises__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rəʊz/",
+        "audio": "data/audio/r/rise/rose__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈrɪzn/",
+        "audio": "data/audio/r/rise/risen__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈraɪzɪŋ/",
+        "audio": "data/audio/r/rise/rising__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/raɪz/",
+        "audio": "data/audio/r/rise/rise__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈraɪzɪz/",
+        "audio": "data/audio/r/rise/rises__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rəʊz/",
+        "audio": "data/audio/r/rise/rose__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈrɪzn/",
+        "audio": "data/audio/r/rise/risen__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈraɪzɪŋ/",
+        "audio": "data/audio/r/rise/rising__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "rise",
+      "heSheIt": "rises"
+    },
+    "pastSimple": "rose",
+    "pastParticiple": "risen",
+    "ingForm": "rising"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to come or go upwards; to reach a higher level or position",
+      "sensetop": "+ adv./prep.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The curtain rose to reveal an empty stage."
+        },
+        {
+          "text": "Smoke was rising from the chimney.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "The river has risen by several metres."
+        },
+        {
+          "text": "A stream of bubbles rose to the surface."
+        },
+        {
+          "text": "The flood waters were rising fast."
+        }
+      ],
+      "collocations": {
+        "adverb": ["majestically", "up"],
+        "preposition": ["from", "into"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to increase in amount or number",
+      "sensetop": "rise in somethingrise by somethingrise to something",
+      "labels": "British EnglishNorth American English",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**Prices are** still **rising**."
+        },
+        {
+          "text": "rising fuel bills"
+        },
+        {
+          "text": "The price of gas rose."
+        },
+        {
+          "text": "Gas **rose in price**.",
+          "contextForm": "rise in something"
+        },
+        {
+          "text": "The shares have **risen in value**."
+        },
+        {
+          "text": "Global **temperatures** could **rise** three degrees or more."
+        },
+        {
+          "text": "Unemployment rose by 3 per cent.",
+          "contextForm": "rise by something"
+        },
+        {
+          "text": "Interest **rates rose** to a six-year high.",
+          "contextForm": "rise to something"
+        },
+        {
+          "text": "to **rise sharply/dramatically/rapidly/steeply**"
+        },
+        {
+          "text": "to rise **steadily/slightly**"
+        },
+        {
+          "text": "We are seeing a **rising tide** of online crime *(= a large increase in it)*."
+        },
+        {
+          "text": "The price of gas has risen by 3 per cent."
+        },
+        {
+          "text": "Interest rates are expected to rise from 4.5 per cent to 5 per cent in the next six months."
+        },
+        {
+          "text": "rising divorce rates"
+        },
+        {
+          "text": "Unemployment has risen by 25 000 this month."
+        },
+        {
+          "text": "Inflation rose from 2 per cent to 5 per cent last year."
+        },
+        {
+          "text": "Pensions will rise in line with inflation."
+        },
+        {
+          "text": "The cost of healthcare is rising faster than ever."
+        },
+        {
+          "text": "House prices have risen sharply in recent months."
+        },
+        {
+          "text": "Entry standards into the profession are set to rise further."
+        },
+        {
+          "text": "Air pollution has risen above an acceptable level."
+        }
+      ],
+      "topics": ["Change, cause and effect", "Money"],
+      "collocations": {
+        "adverb": ["considerably", "dramatically", "markedly"],
+        "verb + rise": ["be expected to", "be likely to", "be predicted to"],
+        "preposition": ["above", "by", "from"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "when the sun, moon, etc. rises, it appears above the horizon",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The sun rises in the east."
+        },
+        {
+          "text": "It was almost dark and the moon was just rising."
+        }
+      ],
+      "topics": ["Space"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to become more successful, important, powerful, etc.",
+      "sensetop": "+ adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a rising young politician"
+        },
+        {
+          "text": "He **rose to prominence** in the 90s.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "to **rise to fame/power**"
+        },
+        {
+          "text": "You could **rise to the top** if you work hard."
+        },
+        {
+          "text": "He **rose to the rank of** general."
+        },
+        {
+          "text": "She has risen to a position of great responsibility."
+        },
+        {
+          "text": "She **rose through the ranks** to become managing director."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to get up from a lying, sitting or kneeling position",
+      "sensetop": "(+ adv./prep.)",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "He was accustomed to rising *(= getting out of bed)* early."
+        },
+        {
+          "text": "They rose from the table."
+        },
+        {
+          "text": "She rose to her feet."
+        },
+        {
+          "text": "Adam rose abruptly from the table."
+        },
+        {
+          "text": "He made to rise but found his legs were not strong enough to support him."
+        },
+        {
+          "text": "He rose early and went for a walk."
+        },
+        {
+          "text": "He rose to his full height and leaned across the table."
+        },
+        {
+          "text": "She rose shakily to her feet and looked around."
+        },
+        {
+          "text": "She rose slowly from her chair to greet us."
+        },
+        {
+          "text": "She rose unsteadily to her feet."
+        },
+        {
+          "text": "Somehow he managed to rise to a sitting position."
+        },
+        {
+          "text": "Would you all rise, please, to welcome our visiting speaker."
+        }
+      ],
+      "synonyms": "get up",
+      "collocations": {
+        "adverb": ["early", "late"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to end a meeting",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The House *(= members of the House of Commons)* rose at 10 p.m."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "if a sound rises, it becomes louder and higher",
+      "examples": [
+        {
+          "text": "Her **voice rose** angrily."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "if the wind rises, it begins to blow more strongly",
+      "examples": [
+        {
+          "text": "The wind is rising—I think there's a storm coming."
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "if a feeling rises inside you, it begins and gets stronger",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "He felt anger rising inside him."
+        },
+        {
+          "text": "Her **spirits rose** *(= she felt happier)* at the news."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "if your colour rises, your face becomes pink or red because you are embarrassed",
+      "labels": "(formal)",
+      "examples": []
+    },
+    {
+      "senseNumber": "11",
+      "definition": "if hair rises, it stands up instead of lying flat",
+      "examples": [
+        {
+          "text": "The hair on the back of my neck rose when I heard the scream."
+        }
+      ]
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to begin to fight against your government or leader or against a foreign army",
+      "sensetop": "rise (up) (against somebody/something)",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The peasants rose in revolt."
+        },
+        {
+          "text": "He called on the people to rise up against the invaders."
+        }
+      ]
+    },
+    {
+      "senseNumber": "13",
+      "definition": "to be able to be seen above everything that is around",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Mountains rose in the distance."
+        },
+        {
+          "text": "the cliffs that rise majestically from the ocean"
+        },
+        {
+          "text": "Tall chimneys rise into the air."
+        },
+        {
+          "text": "Lush green mountains rise up behind the airport."
+        }
+      ],
+      "collocations": {
+        "adverb": ["majestically", "up"],
+        "preposition": ["from", "into"]
+      }
+    },
+    {
+      "senseNumber": "14",
+      "definition": "if land rises, it slopes upwards",
+      "examples": [
+        {
+          "text": "The ground rose steeply all around."
+        },
+        {
+          "text": "Behind the house the ground rises steeply to the north."
+        }
+      ]
+    },
+    {
+      "senseNumber": "15",
+      "definition": "a river rises where it begins to flow",
+      "sensetop": "+ adv./prep.",
+      "examples": [
+        {
+          "text": "The Thames rises in the Cotswold hills."
+        }
+      ]
+    },
+    {
+      "senseNumber": "16",
+      "definition": "when bread, cakes, etc. rise, they become larger and rounder because of the action of yeast or baking powder",
+      "examples": []
+    },
+    {
+      "senseNumber": "17",
+      "definition": "to come to life again",
+      "sensetop": "rise (from something)",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "to rise from the dead"
+        },
+        {
+          "text": "Can a new party **rise from the ashes** of the old one?"
+        }
+      ]
+    },
+    {
+      "definition": "to stand straight and tall in order to show that you are determined, powerful or important",
+      "examples": [
+        {
+          "text": "He drew himself up to his full height and glared at us."
+        }
+      ]
+    },
+    {
+      "definition": "somebody feels so angry about something that they feel physically sick",
+      "labels": "(formal)",
+      "examples": []
+    },
+    {
+      "definition": "to become angry",
+      "examples": [
+        {
+          "text": "Ben felt his hackles rise as the speaker continued."
+        }
+      ]
+    },
+    {
+      "definition": "usually used in orders to tell somebody to get out of bed and be active",
+      "labels": "(old-fashioned)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": null
+}

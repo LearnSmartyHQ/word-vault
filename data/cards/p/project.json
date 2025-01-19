@@ -1,0 +1,147 @@
+{
+  "word": "project",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈprɒdʒekt/",
+        "audio": "data/audio/p/project/project__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈprɑːdʒekt/",
+        "audio": "data/audio/p/project/project__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a piece of work involving careful study of a subject over a period of time, done by school or college students",
+      "sensetop": "project on something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a history project"
+        },
+        {
+          "text": "My class is **doing a project** on medieval towns.",
+          "contextForm": "project on something"
+        },
+        {
+          "text": "The final term will be devoted to project work."
+        }
+      ],
+      "topics": ["Education"],
+      "collocations": {
+        "adjective": ["class", "school", "French"],
+        "verb + project": ["do"],
+        "project + noun": ["work"],
+        "preposition": ["project on"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a planned piece of work that is designed to find information about something, to produce something new, or to improve something",
+      "sensetop": "project to do somethingproject on something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We **worked on** various **projects** together."
+        },
+        {
+          "text": "About 300 schools are **involved in the project**."
+        },
+        {
+          "text": "to **fund/finance a project**"
+        },
+        {
+          "text": "to **start/launch/initiate a project**"
+        },
+        {
+          "text": "to **undertake/complete a project**"
+        },
+        {
+          "text": "a **building/construction project**"
+        },
+        {
+          "text": "They've set up a **research project** to investigate the harmful effects of air pollution.",
+          "contextForm": "project to do something"
+        },
+        {
+          "text": "Work has begun on a project to build a new hospital."
+        },
+        {
+          "text": "They are taking part in a project on reducing food waste.",
+          "contextForm": "project on something"
+        },
+        {
+          "text": "a **project manager/team**"
+        },
+        {
+          "text": "The company runs large construction projects."
+        },
+        {
+          "text": "She embarked on an ambitious project to translate all the works of Plato."
+        },
+        {
+          "text": "We are seeking funding for this project."
+        },
+        {
+          "text": "He needed some financial assistance from the bank to get his project off the ground."
+        },
+        {
+          "text": "The project aims to reduce homelessness."
+        },
+        {
+          "text": "The scheme will be extended throughout the country after a successful six-month pilot project."
+        },
+        {
+          "text": "The wedding became her pet project, and she spent hours organizing it."
+        },
+        {
+          "text": "The proposed reform project contains some interesting ideas."
+        }
+      ],
+      "collocations": {
+        "adjective": ["ambitious", "big", "huge"],
+        "verb + project": ["get off the ground", "implement", "initiate"],
+        "project + verb": ["aim to", "be aimed at something"],
+        "project + noun": ["management", "coordinator", "director"],
+        "phrases": [
+          "the aim of the project",
+          "somebody’s current project",
+          "somebody’s latest project"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a set of aims, ideas or activities that somebody is interested in or wants to bring to people’s attention",
+      "examples": [
+        {
+          "text": "The party attempted to assemble its aims into a focused political project."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a group of houses or apartments built for poor families, usually with government money",
+      "labels": "(North American English)",
+      "examples": [
+        {
+          "text": "I was raised in the projects."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English (in the sense ‘preliminary design, tabulated statement’): from Latin projectum ‘something prominent’, neuter past participle of proicere ‘throw forth’, from pro- ‘forth’ + jacere ‘to throw’. Early senses of the verb were ‘plan’ and ‘cause to move forward’."
+}

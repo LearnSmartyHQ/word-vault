@@ -1,0 +1,298 @@
+{
+  "word": "try",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/traɪ/",
+        "audio": "data/audio/t/try/try__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/traɪz/",
+        "audio": "data/audio/t/try/tries__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/traɪd/",
+        "audio": "data/audio/t/try/tried__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈtraɪɪŋ/",
+        "audio": "data/audio/t/try/trying__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/traɪ/",
+        "audio": "data/audio/t/try/try__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/traɪz/",
+        "audio": "data/audio/t/try/tries__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/traɪd/",
+        "audio": "data/audio/t/try/tried__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈtraɪɪŋ/",
+        "audio": "data/audio/t/try/trying__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "try",
+      "heSheIt": "tries"
+    },
+    "pastSimple": "tried",
+    "pastParticiple": "tried",
+    "ingForm": "trying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make an attempt or effort to do or get something",
+      "sensetop": "try to do somethingtry your best/hardest (to do something)try doing something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I don't know if I can come but I'll try."
+        },
+        {
+          "text": "What are you trying to do?",
+          "contextForm": "try to do something"
+        },
+        {
+          "text": "I **tried hard** not to laugh."
+        },
+        {
+          "text": "You haven’t even tried to find it."
+        },
+        {
+          "text": "Don’t try to do it too quickly."
+        },
+        {
+          "text": "I **kept trying** to remember where I had seen him before."
+        },
+        {
+          "text": "I was **just trying** to help!"
+        },
+        {
+          "text": "She was **desperately trying** to stay afloat."
+        },
+        {
+          "text": "She tried her best to solve the problem.",
+          "contextForm": "try your best/hardest (to do something)"
+        },
+        {
+          "text": "Just try your hardest."
+        },
+        {
+          "text": "I tried calling him but there was no answer.",
+          "contextForm": "try doing something"
+        },
+        {
+          "text": "Just try getting a plumber at the weekend!"
+        },
+        {
+          "text": "He **tried and tried** but he could not climb out."
+        },
+        {
+          "text": "Please **try again** later."
+        },
+        {
+          "text": "Can't you do it? Let me try."
+        },
+        {
+          "text": "I clumsily tried to make amends."
+        },
+        {
+          "text": "I wondered if he was purposely trying to avoid me."
+        },
+        {
+          "text": "She tried valiantly to smile through her tears."
+        },
+        {
+          "text": "I've given up trying to persuade her."
+        },
+        {
+          "text": "a treason charge for allegedly trying to overthrow the government by force"
+        },
+        {
+          "text": "I hope you're not going to try and deny it."
+        },
+        {
+          "text": "Can you guys at least try and be nice to her?"
+        }
+      ],
+      "collocations": {
+        "adverb": ["desperately", "frantically", "furiously"],
+        "verb + try": ["decide to", "dare (somebody) to", "bother to"],
+        "phrases": [
+          "be just trying to do something",
+          "be only trying to do something",
+          "give up trying"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to use, do or test something in order to see if it is good, suitable, etc.",
+      "sensetop": "try somethingtry something on somebody/somethingtry doing something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Have you tried this new coffee? It's very good.",
+          "contextForm": "try something"
+        },
+        {
+          "text": "‘Would you like to try some raw fish?’ ‘Why not? **I'll try anything once**!’"
+        },
+        {
+          "text": "I'd like to **try something new**."
+        },
+        {
+          "text": "I'm having a caffeine-free week. You should try it."
+        },
+        {
+          "text": "Have you ever tried windsurfing?"
+        },
+        {
+          "text": "**Try** these shoes **for size**—they should fit you."
+        },
+        {
+          "text": "She tried the door, but it was locked."
+        },
+        {
+          "text": "The treatment has not yet been tried on patients.",
+          "contextForm": "try something on somebody/something"
+        },
+        {
+          "text": "John isn't here. Try phoning his mobile.",
+          "contextForm": "try doing something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["desperately", "frantically", "furiously"],
+        "verb + try": ["decide to", "dare (somebody) to", "bother to"],
+        "phrases": [
+          "be just trying to do something",
+          "be only trying to do something",
+          "give up trying"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to examine evidence in court and decide whether somebody is innocent or guilty",
+      "sensetop": "try somebody (for something)try something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "He was tried for murder.",
+          "contextForm": "try somebody (for something)"
+        },
+        {
+          "text": "The case was tried before a jury.",
+          "contextForm": "try something"
+        }
+      ],
+      "topics": ["Law and justice"]
+    },
+    {
+      "definition": "to try as hard as you can (to do something)",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "She did her damnedest to get it done on time."
+        }
+      ]
+    },
+    {
+      "definition": "to do as much as you can to try to achieve something",
+      "examples": [],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "used to say that although somebody has not succeeded in something, they have tried very hard",
+      "examples": [
+        {
+          "text": "They haven't won a game yet, but it isn't for want of trying."
+        },
+        {
+          "text": "They lost the game, but not for lack of trying."
+        }
+      ],
+      "topics": ["Difficulty and failure"]
+    },
+    {
+      "definition": "used to say that you should accept an unpleasant situation or event because you cannot change it",
+      "labels": "(saying)",
+      "examples": []
+    },
+    {
+      "definition": "that you have used or relied on in the past successfully",
+      "examples": [
+        {
+          "text": "a tried and tested method for solving the problem"
+        }
+      ]
+    },
+    {
+      "definition": "to try as hard as you can (to do something)",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "She tried her damnedest to get it done on time."
+        }
+      ]
+    },
+    {
+      "definition": "to do something such as an activity or a sport for the first time",
+      "examples": []
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to behave badly towards somebody or try to get something from them, even though you know this will make them angry",
+      "examples": [
+        {
+          "text": "Children often try it on with new teachers."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to try to start a sexual relationship with somebody",
+      "examples": []
+    },
+    {
+      "definition": "to do something that involves risk or luck, hoping to succeed",
+      "examples": [
+        {
+          "text": "My grandparents emigrated to Canada to try their luck there."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to make somebody feel impatient",
+      "examples": [
+        {
+          "text": "His stubbornness would try the patience of a saint."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French trier ‘sift’, of unknown origin. Sense 1 of the noun dates from the early 17th cent."
+}

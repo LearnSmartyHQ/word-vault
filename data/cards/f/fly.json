@@ -1,0 +1,497 @@
+{
+  "word": "fly",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/flaɪ/",
+        "audio": "data/audio/f/fly/fly__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/flaɪd/",
+        "audio": "data/audio/f/fly/flied__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/flaɪz/",
+        "audio": "data/audio/f/fly/flies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/fluː/",
+        "audio": "data/audio/f/fly/flew__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/fləʊn/",
+        "audio": "data/audio/f/fly/flown__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈflaɪɪŋ/",
+        "audio": "data/audio/f/fly/flying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/flaɪ/",
+        "audio": "data/audio/f/fly/fly__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/flaɪd/",
+        "audio": "data/audio/f/fly/flied__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/flaɪz/",
+        "audio": "data/audio/f/fly/flies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/fluː/",
+        "audio": "data/audio/f/fly/flew__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/fləʊn/",
+        "audio": "data/audio/f/fly/flown__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈflaɪɪŋ/",
+        "audio": "data/audio/f/fly/flying__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "fly",
+      "heSheIt": "flies"
+    },
+    "pastSimple": "flew",
+    "pastParticiple": "flown",
+    "ingForm": "flying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to move through the air, using wings",
+      "sensetop": "+ adv./prep.",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Penguins can't fly."
+        },
+        {
+          "text": "A stork flew slowly past.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "A wasp had flown in through the window."
+        },
+        {
+          "text": "Geese fly south in the fall."
+        }
+      ],
+      "topics": ["Birds", "Insects, worms, etc."],
+      "collocations": {
+        "adverb": ["high", "low", "fast"],
+        "preposition": ["above", "over"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to move through air or space",
+      "sensetop": "fly (from A) (to B)fly (to B) (from A)+ adv./prep.",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They were on a plane flying from London to New York.",
+          "contextForm": "fly (from A) (to B)"
+        },
+        {
+          "text": "Lufthansa fly to La Paz from Frankfurt.",
+          "contextForm": "fly (to B) (from A)"
+        },
+        {
+          "text": "Enemy planes **fly overhead**.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "to fly at the speed of sound"
+        },
+        {
+          "text": "The aircraft was declared fully functional and fit to fly."
+        }
+      ],
+      "topics": ["Transport by air"],
+      "collocations": {
+        "adverb": ["high", "low", "fast"],
+        "preposition": ["above", "over"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to travel in an aircraft or a spacecraft",
+      "sensetop": "fly (from A) (to B)fly + adv./prep.+ noun",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Is this the first time that you've flown?"
+        },
+        {
+          "text": "I'm flying to Hong Kong tomorrow.",
+          "contextForm": "fly (from A) (to B)"
+        },
+        {
+          "text": "I was flying home to visit my family.",
+          "contextForm": "fly + adv./prep."
+        },
+        {
+          "text": "I always fly business class.",
+          "contextForm": "+ noun"
+        },
+        {
+          "text": "We're flying KLM."
+        }
+      ],
+      "topics": ["Transport by air"],
+      "collocations": {
+        "adverb": ["high", "low", "fast"],
+        "preposition": ["above", "over"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to control an aircraft, etc. in the air",
+      "sensetop": "fly something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He's learning to fly."
+        },
+        {
+          "text": "a pilot trained to fly large passenger planes",
+          "contextForm": "fly something"
+        },
+        {
+          "text": "children flying kites"
+        },
+        {
+          "text": "She's trained to fly passenger planes, not military jets."
+        },
+        {
+          "text": "You'll have to fly the helicopter over some dangerous territory."
+        }
+      ],
+      "topics": ["Transport by air"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to transport goods or passengers in a plane",
+      "sensetop": "+ adv./prep.",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The stranded tourists were finally flown home."
+        },
+        {
+          "text": "He had flowers specially flown in for the ceremony."
+        },
+        {
+          "text": "Orders were given to fly the prisoners to the US."
+        }
+      ],
+      "topics": ["Transport by air"]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to move through the air for a particular distance; to travel over an ocean or area of land in an aircraft",
+      "sensetop": "fly something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Some birds fly huge distances when they migrate."
+        },
+        {
+          "text": "Who was the first person to fly the Atlantic?"
+        },
+        {
+          "text": "Only four airlines are currently allowed to fly transatlantic routes from Heathrow."
+        }
+      ],
+      "topics": ["Transport by air"]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to go or move quickly",
+      "sensetop": "(+ adv./prep.)",
+      "examples": [
+        {
+          "text": "The train was flying along."
+        },
+        {
+          "text": "She gasped and her hand flew to her mouth."
+        },
+        {
+          "text": "It's late—I must fly."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to move suddenly and with force",
+      "sensetop": "(+ adv./prep.)+ adj.",
+      "examples": [
+        {
+          "text": "A large stone came flying in through the window.",
+          "contextForm": "(+ adv./prep.)"
+        },
+        {
+          "text": "Several people were hit by flying glass."
+        },
+        {
+          "text": "David gave the door a kick and it flew open.",
+          "contextForm": "+ adj."
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to seem to pass very quickly",
+      "sensetop": "fly by/past",
+      "examples": [
+        {
+          "text": "Doesn't time fly?"
+        },
+        {
+          "text": "Summer has just flown by.",
+          "contextForm": "fly by/past"
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "if a flag flies, or if you fly it, it is displayed, for example on a pole (= a long piece of wood or metal)",
+      "sensetop": "fly something",
+      "examples": [
+        {
+          "text": "**Flags were flying** at half mast on all public buildings."
+        },
+        {
+          "text": "to fly the Stars and Stripes",
+          "contextForm": "fly something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to move around freely",
+      "examples": [
+        {
+          "text": "hair flying in the wind"
+        }
+      ]
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to be talked about by many people",
+      "examples": []
+    },
+    {
+      "senseNumber": "13",
+      "definition": "to escape from somebody/something",
+      "sensetop": "fly (something)",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Both suspects have flown the country."
+        }
+      ]
+    },
+    {
+      "senseNumber": "14",
+      "definition": "to be successful",
+      "labels": "(especially North American English)",
+      "examples": [
+        {
+          "text": "It remains to be seen whether his project will fly."
+        }
+      ]
+    },
+    {
+      "senseNumber": "15",
+      "definition": "to hit a ball high into the air",
+      "sensetop": "fly (something)",
+      "examples": []
+    },
+    {
+      "definition": "in a straight line",
+      "examples": [
+        {
+          "text": "The villages are no more than a mile apart as the crow flies."
+        }
+      ]
+    },
+    {
+      "definition": "the wanted person has escaped",
+      "examples": []
+    },
+    {
+      "definition": "to act without careful thought and without a plan that you have made in advance, hoping that you will be lucky and be successful",
+      "labels": "(informal)",
+      "examples": [],
+      "synonyms": "wing it"
+    },
+    {
+      "definition": "to escape from a place",
+      "labels": "(informal, especially North American English)",
+      "examples": []
+    },
+    {
+      "definition": "to show your support for your country, an organization or an idea to encourage or persuade others to do the same",
+      "examples": []
+    },
+    {
+      "definition": "to be successful",
+      "examples": [
+        {
+          "text": "British cinema has been flying high recently, winning several coveted awards."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to oppose or be the opposite of something that is usual or expected",
+      "examples": [
+        {
+          "text": "Such a proposal is flying in the face of common sense."
+        }
+      ]
+    },
+    {
+      "definition": "to become suddenly very angry",
+      "examples": [],
+      "topics": ["Feelings"]
+    },
+    {
+      "definition": "to test out public opinion on a subject",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The company is flying a kite to see if this plan provokes any interest."
+        }
+      ]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to become able to fly and leave its nest",
+      "examples": []
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to leave home and live somewhere else",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Her children have flown the nest."
+        }
+      ]
+    },
+    {
+      "definition": "to suddenly start saying or doing something that does not seem to be connected to what has gone before",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "He never sticks to the point but keeps going off at a tangent."
+        },
+        {
+          "text": "Laura’s mind went off at a tangent."
+        }
+      ]
+    },
+    {
+      "definition": "to suddenly become very angry",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "He seems to fly off the handle about the slightest thing these days."
+        }
+      ],
+      "topics": ["Feelings"]
+    },
+    {
+      "definition": "to stop existing; to disappear completely",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "As soon as the kids arrived, order went out of the window."
+        }
+      ]
+    },
+    {
+      "definition": "to fall, especially as a result of not seeing something under your feet",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Someone's going to go flying if you don't pick up these toys."
+        }
+      ]
+    },
+    {
+      "definition": "used to tell somebody to go away and stop annoying you or interfering",
+      "labels": "(North American English, informal)",
+      "examples": []
+    },
+    {
+      "definition": "to represent your country or organization",
+      "examples": [
+        {
+          "text": "Our exporters keep the flag flying at international trade exhibitions."
+        }
+      ]
+    },
+    {
+      "definition": "to attack somebody by hitting them or speaking angrily to them",
+      "examples": [
+        {
+          "text": "He let fly at me with his fist."
+        },
+        {
+          "text": "She let fly with a stream of abuse."
+        }
+      ]
+    },
+    {
+      "definition": "used to show that you do not believe something will ever happen",
+      "labels": "(ironic, saying)",
+      "examples": [
+        {
+          "text": "‘With a bit of luck, we'll be finished by the end of the year.’ ‘Yes, and pigs might fly!’"
+        }
+      ]
+    },
+    {
+      "definition": "time seems to pass very quickly",
+      "labels": "(saying)",
+      "examples": [
+        {
+          "text": "How time flies! I've got to go now."
+        },
+        {
+          "text": "Time has flown since the holiday began."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "verb Old English flēogan, of Germanic origin; related to Dutch vliegen and German fliegen, also to fly, the insect."
+}

@@ -1,0 +1,125 @@
+{
+  "word": "insight",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɪnsaɪt/",
+        "audio": "data/audio/i/insight/insight__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɪnsaɪt/",
+        "audio": "data/audio/i/insight/insight__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "an understanding of what something is like",
+      "sensetop": "insight into somethinginsight on somethinginsight about something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "There are many **valuable insights** in her book."
+        },
+        {
+          "text": "His work **offers** several useful **insights**."
+        },
+        {
+          "text": "The book **gives** us fascinating **insights** into life in Mexico.",
+          "contextForm": "insight into something"
+        },
+        {
+          "text": "I hope you have **gained** some **insight** into the difficulties we face."
+        },
+        {
+          "text": "She has some interesting insights on the principles that have guided US foreign policy.",
+          "contextForm": "insight on something"
+        },
+        {
+          "text": "The book **provides** important **insights** about the doctor-patient relationship.",
+          "contextForm": "insight about something"
+        },
+        {
+          "text": "a chance to get business advice and insight from other successful entrepreneurs"
+        },
+        {
+          "text": "Teachers have to apply in the classroom the insights that they gain in educational courses."
+        },
+        {
+          "text": "The letters lend some insight into her writing process."
+        },
+        {
+          "text": "The objective of the research is to gain a better insight into labour market processes."
+        },
+        {
+          "text": "The research will provide direct insight into molecular mechanisms."
+        },
+        {
+          "text": "We meet regularly to discuss working methods and share insights."
+        },
+        {
+          "text": "a fresh insight into Picasso's mind"
+        },
+        {
+          "text": "an insight as to how the gene works"
+        },
+        {
+          "text": "We meet every year to share insights and experiences."
+        }
+      ],
+      "collocations": {
+        "adjective": ["considerable", "great", "real"],
+        "… of insight": ["flash", "degree", "level"],
+        "verb + insight": ["have", "lack", "show"],
+        "preposition": ["insight about", "insight into", "insight as to"],
+        "phrases": ["a lack of insight"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the ability to see and understand the truth about people or situations",
+      "labels": "(approving)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He has insight, vision and a deep humanity."
+        },
+        {
+          "text": "She was a writer of great insight."
+        },
+        {
+          "text": "With a flash of insight I realized what the dream meant."
+        },
+        {
+          "text": "Schopenhauer's insight about music"
+        },
+        {
+          "text": "The experienced specialist has professional skills and insight."
+        },
+        {
+          "text": "With a flash of insight, she found the solution to the problem."
+        }
+      ],
+      "collocations": {
+        "adjective": ["considerable", "great", "real"],
+        "… of insight": ["flash", "degree", "level"],
+        "verb + insight": ["have", "lack", "show"],
+        "preposition": ["insight about", "insight into", "insight as to"],
+        "phrases": ["a lack of insight"]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English (in the sense ‘inner sight, wisdom’): probably of Scandinavian and Low German origin and related to Swedish insikt, Danish indsigt, Dutch inzicht, and German Einsicht."
+}

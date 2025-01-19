@@ -1,0 +1,125 @@
+{
+  "word": "typical",
+  "partOfSpeech": "adjective",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtɪpɪkl/",
+        "audio": "data/audio/t/typical/typical__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtɪpɪkl/",
+        "audio": "data/audio/t/typical/typical__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "having the usual qualities or features of a particular type of person, thing or group",
+      "sensetop": "typical of somebody/somethingtypical for somebody/something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a typical Italian cafe"
+        },
+        {
+          "text": "This is a typical example of Roman pottery."
+        },
+        {
+          "text": "Judy is a typical American teenager."
+        },
+        {
+          "text": "This meal is typical of local cookery.",
+          "contextForm": "typical of somebody/something"
+        },
+        {
+          "text": "The weather at the moment is not typical for July.",
+          "contextForm": "typical for somebody/something"
+        },
+        {
+          "text": "East Anglia is by no means typical of rural Britain."
+        },
+        {
+          "text": "Julia is fairly typical of her age group."
+        },
+        {
+          "text": "You must not take this attitude as typical of English people."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "look", "seem"],
+        "adverb": ["extremely", "fairly", "very"],
+        "preposition": ["of"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "happening in the usual way; showing what something is usually like",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "A typical working day for me begins at 7.30."
+        },
+        {
+          "text": "On a typical day, we receive about 50 letters."
+        },
+        {
+          "text": "Draw up your own budget for a typical week."
+        },
+        {
+          "text": "Typical interview questions are ‘Why do you want to study law?’ or ‘Why did you choose this college?’"
+        }
+      ],
+      "synonyms": "normal",
+      "collocations": {
+        "verbs": ["be", "look", "seem"],
+        "adverb": ["extremely", "fairly", "very"],
+        "preposition": ["of"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "behaving in the way that you expect",
+      "sensetop": "typical of somebody/something",
+      "labels": "(often disapproving)(informal)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He spoke with typical enthusiasm."
+        },
+        {
+          "text": "The characters don't react to their situation in typical horror movie fashion."
+        },
+        {
+          "text": "It was typical of her to forget.",
+          "contextForm": "typical of somebody/something"
+        },
+        {
+          "text": "She's late again—typical!"
+        },
+        {
+          "text": "They're going to be late? Now, isn't that just typical?"
+        },
+        {
+          "text": "That's altogether typical of Tom!"
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "look", "seem"],
+        "adverb": ["extremely", "fairly", "very"],
+        "preposition": ["of"]
+      }
+    }
+  ],
+  "wordOrigin": "early 17th cent.: from medieval Latin typicalis, via Latin from Greek tupikos, from tupos ‘impression, figure, type’, from tuptein ‘to strike’."
+}

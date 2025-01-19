@@ -1,0 +1,119 @@
+{
+  "word": "incorporate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈkɔːpəreɪt/",
+        "audio": "data/audio/i/incorporate/incorporate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈkɔːpəreɪts/",
+        "audio": "data/audio/i/incorporate/incorporates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈkɔːpəreɪtɪd/",
+        "audio": "data/audio/i/incorporate/incorporated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈkɔːpəreɪtɪŋ/",
+        "audio": "data/audio/i/incorporate/incorporating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈkɔːrpəreɪt/",
+        "audio": "data/audio/i/incorporate/incorporate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈkɔːrpəreɪts/",
+        "audio": "data/audio/i/incorporate/incorporates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈkɔːrpəreɪtɪd/",
+        "audio": "data/audio/i/incorporate/incorporated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈkɔːrpəreɪtɪŋ/",
+        "audio": "data/audio/i/incorporate/incorporating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "incorporate",
+      "heSheIt": "incorporates"
+    },
+    "pastSimple": "incorporated",
+    "pastParticiple": "incorporated",
+    "ingForm": "incorporating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to include something so that it forms a part of something",
+      "sensetop": "incorporate somethingincorporate something in/into/within something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The new car design incorporates all the latest safety features.",
+          "contextForm": "incorporate something"
+        },
+        {
+          "text": "We have incorporated all the latest safety features into the design.",
+          "contextForm": "incorporate something in/into/within something"
+        },
+        {
+          "text": "Many of your suggestions have been incorporated in the plan."
+        },
+        {
+          "text": "Results are incorporated within personalized medical records."
+        },
+        {
+          "text": "The computer components are incorporated seamlessly."
+        },
+        {
+          "text": "The data is now incorporated in the total figures."
+        },
+        {
+          "text": "The territory was formally incorporated into the Russian Empire in 1876."
+        },
+        {
+          "text": "These conditions must be expressly incorporated into the contract of employment."
+        },
+        {
+          "text": "These new features can easily be incorporated."
+        },
+        {
+          "text": "We can incorporate this information into our report."
+        }
+      ],
+      "collocations": {
+        "adverb": ["fully", "explicitly", "expressly"],
+        "preposition": ["as", "in", "into"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to create a legally recognized company",
+      "sensetop": "be incorporated",
+      "labels": "(business)",
+      "examples": [
+        {
+          "text": "The company was incorporated in 2008.",
+          "contextForm": "be incorporated"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from late Latin incorporat- ‘embodied’, from the verb incorporare, from in- ‘into’ + Latin corporare ‘form into a body’ (from corpus, corpor- ‘body’)."
+}

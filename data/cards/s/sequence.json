@@ -1,0 +1,140 @@
+{
+  "word": "sequence",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsiːkwəns/",
+        "audio": "data/audio/s/sequence/sequence__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsiːkwəns/",
+        "audio": "data/audio/s/sequence/sequence__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a set of events, actions, numbers, etc. which have a particular order and which lead to a particular result",
+      "sensetop": "sequence (of something)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He described **the sequence of events** leading up to the robbery."
+        },
+        {
+          "text": "The computer generates a random sequence of numbers."
+        },
+        {
+          "text": "Her latest book contains a sequence of poems about paintings."
+        },
+        {
+          "text": "Repeat the entire sequence at least three times."
+        },
+        {
+          "text": "The article describes the chronological sequence of events."
+        },
+        {
+          "text": "a basic blues chord sequence"
+        },
+        {
+          "text": "a remarkable winning sequence of games"
+        },
+        {
+          "text": "It is now possible to chart the DNA sequences of any living thing."
+        }
+      ],
+      "collocations": {
+        "adjective": ["complete", "entire", "whole"],
+        "verb + sequence": ["complete", "repeat", "follow"],
+        "preposition": ["sequence of"],
+        "phrases": ["in sequence", "out of sequence", "a sequence of events"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the order that events, actions, etc. happen in or should happen in",
+      "sensetop": "in a … sequencein sequenceout of sequence",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The tasks had to be performed in a particular sequence.",
+          "contextForm": "in a … sequence"
+        },
+        {
+          "text": "The interviewer should ask questions in a logical sequence."
+        },
+        {
+          "text": "Number the pages in sequence.",
+          "contextForm": "in sequence"
+        },
+        {
+          "text": "These pages are out of sequence.",
+          "contextForm": "out of sequence"
+        },
+        {
+          "text": "Put these numbers into the correct sequence."
+        },
+        {
+          "text": "I had to punch in a fixed sequence of codes."
+        },
+        {
+          "text": "The book is more satisfying if you read each chapter in sequence."
+        },
+        {
+          "text": "This article is out of sequence and belongs on page 57."
+        }
+      ],
+      "collocations": {
+        "adjective": ["complete", "entire", "whole"],
+        "verb + sequence": ["complete", "repeat", "follow"],
+        "preposition": ["sequence of"],
+        "phrases": ["in sequence", "out of sequence", "a sequence of events"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a part of a film that deals with one subject or topic or consists of one scene",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "the dream sequence in the middle of the movie"
+        },
+        {
+          "text": "The fight sequences were choreographed by Xin-Xin Xiong."
+        },
+        {
+          "text": "the opening credit sequence"
+        },
+        {
+          "text": "The heroine dies in the closing sequence of the film."
+        },
+        {
+          "text": "The movie begins with an extended car-chase sequence."
+        },
+        {
+          "text": "There were some very impressive underwater sequences."
+        }
+      ],
+      "topics": ["Film and theatre"],
+      "collocations": {
+        "adjective": ["opening", "climactic", "closing"],
+        "verb + sequence": ["film", "shoot", "choreograph"],
+        "sequence + verb": ["feature", "involve", "show"],
+        "preposition": ["in a/​the sequence"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: from late Latin sequentia, from Latin sequent- ‘following’, from the verb sequi ‘follow’."
+}

@@ -1,0 +1,83 @@
+{
+  "word": "drench",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/drentʃ/",
+        "audio": "data/audio/d/drench/drench__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdrentʃɪz/",
+        "audio": "data/audio/d/drench/drenches__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/drentʃt/",
+        "audio": "data/audio/d/drench/drenched__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdrentʃɪŋ/",
+        "audio": "data/audio/d/drench/drenching__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/drentʃ/",
+        "audio": "data/audio/d/drench/drench__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdrentʃɪz/",
+        "audio": "data/audio/d/drench/drenches__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/drentʃt/",
+        "audio": "data/audio/d/drench/drenched__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdrentʃɪŋ/",
+        "audio": "data/audio/d/drench/drenching__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "drench",
+      "heSheIt": "drenches"
+    },
+    "pastSimple": "drenched",
+    "pastParticiple": "drenched",
+    "ingForm": "drenching"
+  },
+  "definitions": [
+    {
+      "definition": "to make somebody/something completely wet",
+      "sensetop": "be/get drenchedbe drenched in/with somethingdrench somebody/something/yourself in/with something",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "We were caught in the storm and got drenched to the skin.",
+          "contextForm": "be/get drenched"
+        },
+        {
+          "text": "His face was drenched with sweat.",
+          "contextForm": "be drenched in/with something"
+        },
+        {
+          "text": "She drenched herself in perfume.",
+          "contextForm": "drench somebody/something/yourself in/with something"
+        }
+      ],
+      "synonyms": "soak",
+      "topics": ["Weather"]
+    }
+  ],
+  "wordOrigin": "Old English drencan ‘force to drink’, drenc ‘a drink or draught’, of Germanic origin; related to German tränken (verb), Trank (noun), also to drink."
+}

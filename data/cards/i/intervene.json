@@ -1,0 +1,162 @@
+{
+  "word": "intervene",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌɪntəˈviːn/",
+        "audio": "data/audio/i/intervene/intervene__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌɪntəˈviːnz/",
+        "audio": "data/audio/i/intervene/intervenes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌɪntəˈviːnd/",
+        "audio": "data/audio/i/intervene/intervened__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌɪntəˈviːnɪŋ/",
+        "audio": "data/audio/i/intervene/intervening__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌɪntərˈviːn/",
+        "audio": "data/audio/i/intervene/intervene__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌɪntərˈviːnz/",
+        "audio": "data/audio/i/intervene/intervenes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌɪntərˈviːnd/",
+        "audio": "data/audio/i/intervene/intervened__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌɪntərˈviːnɪŋ/",
+        "audio": "data/audio/i/intervene/intervening__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "intervene",
+      "heSheIt": "intervenes"
+    },
+    "pastSimple": "intervened",
+    "pastParticiple": "intervened",
+    "ingForm": "intervening"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to become involved in a situation in order to improve or help it",
+      "sensetop": "intervene in somethingintervene between A and Bintervene against somebodyintervene (with somebody) (on behalf of somebody)intervene to do something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She might have been killed if the neighbours hadn't intervened."
+        },
+        {
+          "text": "The President intervened personally in the crisis.",
+          "contextForm": "intervene in something"
+        },
+        {
+          "text": "She went over to intervene between the two men.",
+          "contextForm": "intervene between A and B"
+        },
+        {
+          "text": "They would not intervene against the rebels themselves.",
+          "contextForm": "intervene against somebody"
+        },
+        {
+          "text": "attempts to intervene with the authorities on the prisoners' behalf",
+          "contextForm": "intervene (with somebody) (on behalf of somebody)"
+        },
+        {
+          "text": "They intervened to halt the attack.",
+          "contextForm": "intervene to do something"
+        },
+        {
+          "text": "Eventually, the army was forced to intervene."
+        },
+        {
+          "text": "Government often intervenes decisively in major professional issues in medicine."
+        },
+        {
+          "text": "Intervening militarily will not bring peace."
+        },
+        {
+          "text": "Local people feel strongly about the proposed development but are virtually powerless to intervene."
+        },
+        {
+          "text": "Nurses should be ready to intervene on behalf of their patients."
+        },
+        {
+          "text": "Our government has no right to intervene."
+        },
+        {
+          "text": "She was reluctant to intervene in what was essentially a private dispute."
+        },
+        {
+          "text": "The King intervened personally on behalf of the children."
+        },
+        {
+          "text": "The UN refused to intervene."
+        },
+        {
+          "text": "Teachers should learn when to intervene and when to let the students do the talking."
+        },
+        {
+          "text": "The EU refuses to intervene to control the trade."
+        }
+      ],
+      "topics": ["Discussion and agreement"],
+      "collocations": {
+        "adverb": ["actively", "directly", "personally"],
+        "verb + intervene": ["be forced to", "have to", "be powerless to"],
+        "preposition": ["against", "between", "in"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to interrupt somebody when they are speaking in order to say something",
+      "sensetop": "(+ speech)",
+      "examples": [
+        {
+          "text": "‘But,’ she intervened, ‘what about the others?’"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to happen in a way that delays something or prevents it from happening",
+      "examples": [
+        {
+          "text": "They were planning to get married and then the war intervened."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to exist between two events or places",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "I saw nothing of her during the years that intervened."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late 16th cent. (in the sense ‘come in as an extraneous factor or thing’): from Latin intervenire, from inter- ‘between’ + venire ‘come’."
+}

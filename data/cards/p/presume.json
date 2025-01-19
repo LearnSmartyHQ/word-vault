@@ -1,0 +1,160 @@
+{
+  "word": "presume",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/prɪˈzjuːm/",
+        "audio": "data/audio/p/presume/presume__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/prɪˈzjuːmz/",
+        "audio": "data/audio/p/presume/presumes__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/prɪˈzjuːmd/",
+        "audio": "data/audio/p/presume/presumed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/prɪˈzjuːmɪŋ/",
+        "audio": "data/audio/p/presume/presuming__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/prɪˈzuːm/",
+        "audio": "data/audio/p/presume/presume__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/prɪˈzuːmz/",
+        "audio": "data/audio/p/presume/presumes__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/prɪˈzuːmd/",
+        "audio": "data/audio/p/presume/presumed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/prɪˈzuːmɪŋ/",
+        "audio": "data/audio/p/presume/presuming__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "presume",
+      "heSheIt": "presumes"
+    },
+    "pastSimple": "presumed",
+    "pastParticiple": "presumed",
+    "ingForm": "presuming"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to suppose that something is true, although you do not have actual proof",
+      "sensetop": "presume (that)…it is presumed that…presume somebody/something to be/have something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They are very expensive, I presume?"
+        },
+        {
+          "text": "‘Is he still abroad?’ ‘**I presume so**.’"
+        },
+        {
+          "text": "I presumed (that) he understood the rules.",
+          "contextForm": "presume (that)…"
+        },
+        {
+          "text": "Little is known of the youngest son; it is presumed that he died young.",
+          "contextForm": "it is presumed that…"
+        },
+        {
+          "text": "I presumed him to be her husband.",
+          "contextForm": "presume somebody/something to be/have something"
+        },
+        {
+          "text": "I had presumed wrongly that Jenny would be there."
+        },
+        {
+          "text": "I presumed that he understood the rules."
+        },
+        {
+          "text": "They presumed that she wouldn't be interested in the job because of the low salary."
+        }
+      ],
+      "synonyms": "assume",
+      "collocations": {
+        "adverb": ["correctly", "wrongly", "reasonably"],
+        "phrases": [
+          "be presumed dead",
+          "be presumed guilty",
+          "be presumed innocent"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to accept that something is true until it is shown not to be true, especially in court",
+      "sensetop": "presume somebody/something + adj.presume somethingpresume somebody/something to be/have something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Twelve passengers are missing, **presumed dead**.",
+          "contextForm": "presume somebody/something + adj."
+        },
+        {
+          "text": "In English law, a person is **presumed innocent** until proved guilty."
+        },
+        {
+          "text": "We must presume innocence until we have proof of guilt.",
+          "contextForm": "presume something"
+        },
+        {
+          "text": "We must presume them to be innocent until we have proof of guilt.",
+          "contextForm": "presume somebody/something to be/have something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["correctly", "wrongly", "reasonably"],
+        "phrases": [
+          "be presumed dead",
+          "be presumed guilty",
+          "be presumed innocent"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to accept something as true or existing and to act on that basis",
+      "sensetop": "presume something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The course seems to presume some previous knowledge of the subject."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to behave in a way that shows a lack of respect by doing something that you have no right to do",
+      "sensetop": "presume to do something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "I wouldn't presume to tell you how to run your own business."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French presumer, from Latin praesumere ‘anticipate’ (in late Latin ‘take for granted’), from prae ‘before’ + sumere ‘take’."
+}

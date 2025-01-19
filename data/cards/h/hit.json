@@ -1,0 +1,654 @@
+{
+  "word": "hit",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/hɪt/",
+        "audio": "data/audio/h/hit/hit__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/hɪts/",
+        "audio": "data/audio/h/hit/hits__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈhɪtɪŋ/",
+        "audio": "data/audio/h/hit/hitting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/hɪt/",
+        "audio": "data/audio/h/hit/hit__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/hɪts/",
+        "audio": "data/audio/h/hit/hits__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈhɪtɪŋ/",
+        "audio": "data/audio/h/hit/hitting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "hit",
+      "heSheIt": "hits"
+    },
+    "pastSimple": "hit",
+    "pastParticiple": "hit",
+    "ingForm": "hitting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to bring your hand, or an object you are holding, against somebody/something quickly and with force",
+      "sensetop": "hit somebody/somethinghit somebody/something with somethinghit somebody/something in/on somethinghit somebody/something in/on something with something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I was afraid he was going to hit me.",
+          "contextForm": "hit somebody/something"
+        },
+        {
+          "text": "She hit him with her umbrella.",
+          "contextForm": "hit somebody/something with something"
+        },
+        {
+          "text": "Someone hit him in the face.",
+          "contextForm": "hit somebody/something in/on something"
+        },
+        {
+          "text": "He hit the nail squarely on the head with the hammer.",
+          "contextForm": "hit somebody/something in/on something with something"
+        },
+        {
+          "text": "He was hit over the head with a broken bottle."
+        },
+        {
+          "text": "I was so angry, I wanted to hit him."
+        },
+        {
+          "text": "She didn't hit me very hard."
+        },
+        {
+          "text": "She hit him in the face."
+        },
+        {
+          "text": "Their teachers used to hit them with a stick."
+        },
+        {
+          "text": "I felt like hitting him."
+        },
+        {
+          "text": "I picked up a sock and hit him over the head with it."
+        },
+        {
+          "text": "My parents never used to hit me."
+        }
+      ],
+      "collocations": {
+        "adverb": ["hard", "repeatedly", "directly"],
+        "verb + hit": ["want to", "be going to"],
+        "preposition": ["in", "on", "with"],
+        "phrases": ["hit somebody over the head"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to come against something/somebody with force, especially causing damage or injury",
+      "sensetop": "hit something/somebodyhit against something/somebody",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The bus hit the bridge.",
+          "contextForm": "hit something/somebody"
+        },
+        {
+          "text": "The boy was hit by a speeding car."
+        },
+        {
+          "text": "The boat hit against an object under the surface of the water.",
+          "contextForm": "hit against something/somebody"
+        },
+        {
+          "text": "A taxi almost hit him as he was crossing the street."
+        },
+        {
+          "text": "She threw a plate at him and narrowly missed hitting him."
+        },
+        {
+          "text": "I was hit by a falling stone."
+        }
+      ],
+      "topics": ["Health problems"],
+      "collocations": {
+        "adverb": ["hard", "repeatedly", "directly"],
+        "verb + hit": ["want to", "be going to"],
+        "preposition": ["in", "on", "with"],
+        "phrases": ["hit somebody over the head"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to knock a part of your body against something",
+      "sensetop": "hit somethinghit something on somethinghit something against something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I must have hit my knee."
+        },
+        {
+          "text": "He hit his head on the low ceiling.",
+          "contextForm": "hit something on something"
+        },
+        {
+          "text": "As she stood up, she hit her hand against the edge of the table.",
+          "contextForm": "hit something against something"
+        },
+        {
+          "text": "I accidentally hit my knee on the desk."
+        },
+        {
+          "text": "I hit my head on the low doorway."
+        },
+        {
+          "text": "He fell, hitting his head on the hard stone floor."
+        }
+      ],
+      "collocations": {
+        "adverb": ["hard", "repeatedly", "directly"],
+        "verb + hit": ["want to", "be going to"],
+        "preposition": ["in", "on", "with"],
+        "phrases": ["hit somebody over the head"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to reach and touch a person or thing suddenly and with force",
+      "sensetop": "be hit by somebody/somethinghit somebody/something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The town was hit by bombs again last night.",
+          "contextForm": "be hit by somebody/something"
+        },
+        {
+          "text": "He was hit by a sniper."
+        },
+        {
+          "text": "Not all the bullets **hit their targets**.",
+          "contextForm": "hit somebody/something"
+        },
+        {
+          "text": "The grenade will explode as soon as it hits the ground."
+        },
+        {
+          "text": "He was hit directly in the back."
+        }
+      ],
+      "collocations": {
+        "adverb": ["hard", "repeatedly", "directly"],
+        "verb + hit": ["want to", "be going to"],
+        "preposition": ["in", "on", "with"],
+        "phrases": ["hit somebody over the head"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to bring a bat, etc. against a ball and push it away with force",
+      "sensetop": "hit somethinghit something + adv./prep.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She **hit the ball** and ran to first base."
+        },
+        {
+          "text": "I hit the ball too hard and it went out of the court.",
+          "contextForm": "hit something + adv./prep."
+        },
+        {
+          "text": "We've hit our ball over the fence!"
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to score points by hitting a ball",
+      "sensetop": "hit something",
+      "labels": "(sport)",
+      "examples": [
+        {
+          "text": "to hit a home run"
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to press something such as a button to operate a machine, etc.",
+      "sensetop": "hit something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Hit the brakes!"
+        },
+        {
+          "text": "He picked up the phone and **hit** several **buttons**."
+        },
+        {
+          "text": "I found the impulse to hit the fast-forward button to be quite overwhelming."
+        },
+        {
+          "text": "I accidentally hit the wrong key."
+        },
+        {
+          "text": "Enter your password and then hit ‘Return’."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to have a bad effect on somebody/something",
+      "sensetop": "hit (somebody/something)it hits somebody + adv.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The tax increases will certainly hit people on low incomes.",
+          "contextForm": "hit (somebody/something)"
+        },
+        {
+          "text": "His death didn't really hit me at first."
+        },
+        {
+          "text": "A tornado hit on Tuesday night."
+        },
+        {
+          "text": "Rural areas have been **worst hit** by the strike."
+        },
+        {
+          "text": "Spain was one of the **hardest hit** countries."
+        },
+        {
+          "text": "It hit him very hard when Rosie left.",
+          "contextForm": "it hits somebody + adv."
+        },
+        {
+          "text": "Our department has been badly hit by the cutbacks."
+        },
+        {
+          "text": "Some businesses have been hit very hard by the rise in interest rates."
+        },
+        {
+          "text": "The plans could be hit by spending cuts."
+        },
+        {
+          "text": "Airlines were badly hit by the recession."
+        }
+      ],
+      "collocations": {
+        "adverb": ["badly", "hard", "heavily"]
+      }
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to attack somebody/something",
+      "sensetop": "hit (somebody/something)",
+      "examples": [
+        {
+          "text": "We hit the enemy when they least expected it."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to reach a place",
+      "sensetop": "hit something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Follow this footpath and you'll eventually hit the road."
+        },
+        {
+          "text": "The President **hits town** tomorrow."
+        },
+        {
+          "text": "Traffic was heavy when they hit the main road."
+        },
+        {
+          "text": "They were making good progress when they hit a wide fast-flowing river."
+        },
+        {
+          "text": "It'll be two hours before we hit the border."
+        },
+        {
+          "text": "By the time we hit the city centre, everything was closed."
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to reach a particular level",
+      "sensetop": "hit something",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "Temperatures hit 40° yesterday."
+        },
+        {
+          "text": "The euro hit a record low in trading today."
+        },
+        {
+          "text": "We **hit top form** *(= played our best)* in yesterday’s match."
+        },
+        {
+          "text": "The film doesn't always **hit its targets** *(= succeed in what it is attempting to do)*."
+        },
+        {
+          "text": "He had managed to hit his sales target this month."
+        },
+        {
+          "text": "Temperatures are expected to hit 30°C tomorrow."
+        }
+      ]
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to experience something difficult or unpleasant",
+      "sensetop": "hit something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "We seem to have hit a problem."
+        },
+        {
+          "text": "Everything was going well but then we hit trouble."
+        }
+      ]
+    },
+    {
+      "senseNumber": "13",
+      "definition": "to come suddenly into your mind",
+      "sensetop": "hit somebodyit hits somebodyit hits somebody that…",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The idea hit me like a tornado.",
+          "contextForm": "hit somebody"
+        },
+        {
+          "text": "I couldn't remember where I'd seen him before, and then it suddenly hit me.",
+          "contextForm": "it hits somebody"
+        },
+        {
+          "text": "That's when it really hit me that we were in deep trouble.",
+          "contextForm": "it hits somebody that…"
+        }
+      ]
+    },
+    {
+      "senseNumber": "14",
+      "definition": "to become widely available for sale",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "the latest board game to **hit the market**"
+        },
+        {
+          "text": "to **hit the shops/stores/shelves**"
+        },
+        {
+          "text": "Her shocking autobiography is about to **hit the streets**."
+        }
+      ]
+    },
+    {
+      "definition": "to be an important item of news in the media",
+      "examples": [
+        {
+          "text": "He always manages to grab the headlines."
+        },
+        {
+          "text": "The hospital hit the headlines when a number of suspicious deaths occurred."
+        },
+        {
+          "text": "The story was important enough to make the headlines."
+        }
+      ]
+    },
+    {
+      "definition": "to be very successful",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The band has hit big in the US."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "if a plan, somebody’s career, etc. hits the buffers, it suddenly stops being successful",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The former tennis star’s comeback trail hit the buffers yesterday when she lost in straight sets."
+        }
+      ],
+      "topics": ["Difficulty and failure"]
+    },
+    {
+      "definition": "to fall to the ground",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to affect somebody very deeply",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "The business over the lawsuit had really knocked her for six."
+        }
+      ]
+    },
+    {
+      "definition": "to start doing something and continue very quickly and successfully",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to go to bed",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "I decided to hit the sack and have an early night."
+        }
+      ]
+    },
+    {
+      "definition": "if a remark, etc. hits/strikes home, it has a strong effect on somebody, in a way that makes them realize what the true facts of a situation are",
+      "examples": [
+        {
+          "text": "Her face went pale as his words hit home."
+        }
+      ]
+    },
+    {
+      "definition": "to be very obvious to somebody",
+      "examples": []
+    },
+    {
+      "definition": "used to tell somebody to start doing something, such as playing music",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Hit it, Louis!"
+        }
+      ]
+    },
+    {
+      "definition": "to have a good friendly relationship with somebody",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "We hit it off straight away."
+        }
+      ],
+      "topics": ["Family and relationships"]
+    },
+    {
+      "definition": "to make or win a lot of money quickly and unexpectedly",
+      "examples": []
+    },
+    {
+      "definition": "to succeed/fail in achieving or guessing something",
+      "examples": [
+        {
+          "text": "He blushed furiously and Robyn knew she had hit the mark."
+        },
+        {
+          "text": "The film misses the mark because it just isn't believable."
+        }
+      ],
+      "topics": [
+        "Success",
+        "Doubt, guessing and certainty",
+        "Difficulty and failure"
+      ]
+    },
+    {
+      "definition": "to say something that is exactly right",
+      "examples": []
+    },
+    {
+      "definition": "to mention a subject that makes somebody feel angry, upset, embarrassed, etc.",
+      "examples": [
+        {
+          "text": "You touched a raw nerve when you mentioned his first wife."
+        },
+        {
+          "text": "My remarks about divorce had unwittingly touched a raw nerve."
+        },
+        {
+          "text": "The article struck a raw nerve as it revived unpleasant memories."
+        }
+      ],
+      "topics": ["Feelings"]
+    },
+    {
+      "definition": "to suddenly be in a successful situation, especially one that makes you rich",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The band really hit pay dirt with their last album."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to do, say or write something that is suitable/not suitable for a particular occasion",
+      "labels": "(especially British English)",
+      "examples": [
+        {
+          "text": "It is a bizarre tale and the author hits just the right note of horror and disbelief."
+        },
+        {
+          "text": "Unfortunately, the president struck the wrong note in his speech, ignoring the public mood."
+        }
+      ]
+    },
+    {
+      "definition": "to start a journey",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The following spring I hit the road."
+        }
+      ]
+    },
+    {
+      "definition": "to suddenly become very angry",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Feelings"]
+    },
+    {
+      "definition": "if something hits the spot it does exactly what it should do",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to begin to do something with confidence and at a good speed after a slow, uncertain start",
+      "examples": [
+        {
+          "text": "After a nervous start, he finally hit his stride in the second set."
+        },
+        {
+          "text": "The team took time to hit stride."
+        },
+        {
+          "text": "The show finally hit its stride in the second season."
+        }
+      ]
+    },
+    {
+      "definition": "to reach a point when you cannot continue or make any more progress",
+      "examples": [
+        {
+          "text": "We hit a wall and we weren't scoring."
+        },
+        {
+          "text": "I’ve hit a wall with my marathon training."
+        },
+        {
+          "text": "What do you do when you hit the wall at work?"
+        }
+      ]
+    },
+    {
+      "definition": "to continue to hurt somebody when they are already defeated",
+      "examples": []
+    },
+    {
+      "definition": "to affect somebody where they will feel it most",
+      "examples": []
+    },
+    {
+      "definition": "to hit the wooden frame of the goal in the game of football (soccer), instead of scoring a goal",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "She hit the woodwork twice before scoring."
+        }
+      ]
+    },
+    {
+      "definition": "to be so surprised by something that you do not know how to react",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "when somebody in authority finds out about something bad or wrong that somebody has done",
+      "labels": "(taboo, slang)",
+      "examples": [
+        {
+          "text": "When the shit hits the fan, I don't want to be here."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Old English hittan (in the sense ‘come upon, find’), from Old Norse hitta ‘come upon, meet with’, of unknown origin."
+}

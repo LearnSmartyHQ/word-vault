@@ -1,0 +1,209 @@
+{
+  "word": "secure",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/sɪˈkjʊə(r)/",
+        "audio": "data/audio/s/secure/secure__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/sɪˈkjʊəz/",
+        "audio": "data/audio/s/secure/secures__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/sɪˈkjʊəd/",
+        "audio": "data/audio/s/secure/secured__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/sɪˈkjʊərɪŋ/",
+        "audio": "data/audio/s/secure/securing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/sɪˈkjʊr/",
+        "audio": "data/audio/s/secure/secure__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/sɪˈkjʊrz/",
+        "audio": "data/audio/s/secure/secures__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/sɪˈkjʊrd/",
+        "audio": "data/audio/s/secure/secured__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/sɪˈkjʊrɪŋ/",
+        "audio": "data/audio/s/secure/securing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "secure",
+      "heSheIt": "secures"
+    },
+    "pastSimple": "secured",
+    "pastParticiple": "secured",
+    "ingForm": "securing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to obtain or achieve something, especially when this means using a lot of effort",
+      "sensetop": "secure somethingsecure something for somebody/something/yourselfsecure somebody/something/yourself something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **secure a contract/deal/funding**",
+          "contextForm": "secure something"
+        },
+        {
+          "text": "The team managed to **secure a place** in the finals."
+        },
+        {
+          "text": "The team were unable to **secure a victory**."
+        },
+        {
+          "text": "She secured 2 000 votes."
+        },
+        {
+          "text": "The delegation has secured the promise of a ceasefire."
+        },
+        {
+          "text": "A production company secured the film rights to the biography."
+        },
+        {
+          "text": "They are contract workers unable to secure a full-time position."
+        },
+        {
+          "text": "Retailers will need to pay a higher price in order to secure supplies."
+        },
+        {
+          "text": "He secured a place for himself at law school.",
+          "contextForm": "secure something for somebody/something/yourself"
+        },
+        {
+          "text": "He secured himself a place at law school.",
+          "contextForm": "secure somebody/something/yourself something"
+        },
+        {
+          "text": "The party won 399 seats, thereby securing a majority in the Assembly."
+        },
+        {
+          "text": "They failed to secure the release of the prisoners."
+        },
+        {
+          "text": "This could improve your chances of securing employment."
+        },
+        {
+          "text": "Victory was not going to be easily secured."
+        },
+        {
+          "text": "He's just secured a $5 million contract."
+        }
+      ],
+      "topics": ["Success"],
+      "collocations": {
+        "adverb": ["easily", "safely", "eventually"],
+        "verb + secure": ["be able to", "manage to", "fail to"],
+        "phrases": [
+          "an attempt to secure something",
+          "an effort to secure something",
+          "be aimed at securing something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to attach or fasten something so that it does not move",
+      "sensetop": "secure something to somethingsecure something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She secured the rope firmly to the back of the car.",
+          "contextForm": "secure something to something"
+        },
+        {
+          "text": "He secured the boat with a rope.",
+          "contextForm": "secure something"
+        },
+        {
+          "text": "The tables on board were secured firmly to the floor."
+        },
+        {
+          "text": "The crates had not been firmly secured to the truck."
+        },
+        {
+          "text": "The rail was secured with bolts."
+        },
+        {
+          "text": "Wrap a bandage around the arm and secure it with tape or a pin."
+        }
+      ],
+      "collocations": {
+        "adverb": ["firmly", "properly", "tightly"],
+        "preposition": ["to", "with"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to protect something so that it is safe and difficult to attack or damage",
+      "sensetop": "secure something against somethingsecure something from somethingsecure something",
+      "labels": "(figurative)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to secure a property against intruders",
+          "contextForm": "secure something against something"
+        },
+        {
+          "text": "Have you properly secured your computer from viral attack?",
+          "contextForm": "secure something from something"
+        },
+        {
+          "text": "a savings plan that will **secure** your child’s **future**"
+        },
+        {
+          "text": "We must all do everything we can to **secure** our **borders**.",
+          "contextForm": "secure something"
+        },
+        {
+          "text": "The windows were secured with locks and bars."
+        },
+        {
+          "text": "No home can be completely secured against intruders."
+        },
+        {
+          "text": "The government has deployed 35 000 troops in an effort to secure the border."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to legally agree to give somebody property or goods that are worth the same amount as the money that you have borrowed from them, if you are unable to pay the money back",
+      "sensetop": "secure something",
+      "examples": [
+        {
+          "text": "a loan secured on the house"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": null
+}

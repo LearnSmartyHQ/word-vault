@@ -1,0 +1,53 @@
+{
+  "word": "we",
+  "partOfSpeech": "pronoun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/wi//wiː/",
+        "audio": "data/audio/w/we/we__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/wi//wiː/",
+        "audio": "data/audio/w/we/we__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "I and another person or other people; I and you",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We've moved to Atlanta."
+        },
+        {
+          "text": "We'd *(= the company would)* like to offer you the job."
+        },
+        {
+          "text": "Why don't we go and see it together?"
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "people in general",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We should take more care of our historic buildings."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English, of Germanic origin; related to Dutch wij and German wir."
+}

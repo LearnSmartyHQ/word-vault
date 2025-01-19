@@ -1,0 +1,404 @@
+{
+  "word": "operate",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɒpəreɪt/",
+        "audio": "data/audio/o/operate/operate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈɒpəreɪts/",
+        "audio": "data/audio/o/operate/operates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈɒpəreɪtɪd/",
+        "audio": "data/audio/o/operate/operated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈɒpəreɪtɪŋ/",
+        "audio": "data/audio/o/operate/operating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɑːpəreɪt/",
+        "audio": "data/audio/o/operate/operate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈɑːpəreɪts/",
+        "audio": "data/audio/o/operate/operates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈɑːpəreɪtɪd/",
+        "audio": "data/audio/o/operate/operated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈɑːpəreɪtɪŋ/",
+        "audio": "data/audio/o/operate/operating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "operate",
+      "heSheIt": "operates"
+    },
+    "pastSimple": "operated",
+    "pastParticiple": "operated",
+    "ingForm": "operating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to work in a particular way",
+      "sensetop": "+ adv./prep.",
+      "labels": "(figurative)(figurative)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Most domestic freezers operate at below −18°C."
+        },
+        {
+          "text": "Solar panels can only operate in sunlight."
+        },
+        {
+          "text": "Some people can only operate well under pressure."
+        },
+        {
+          "text": "The equipment was not operating properly."
+        },
+        {
+          "text": "The machine can operate for 15 hours continuously at full power."
+        },
+        {
+          "text": "Room air conditioners must be installed on a flat surface in order to operate efficiently."
+        },
+        {
+          "text": "If hydraulic pressure is lost then a fail safe mechanism operates on the flywheels."
+        },
+        {
+          "text": "Heating and cooling systems will operate only between the peak work hours of 10 a.m. and 3 p.m."
+        },
+        {
+          "text": "The steel belts required lubricants to operate smoothly."
+        },
+        {
+          "text": "We do safety checks, making sure the metal detector is operating correctly."
+        },
+        {
+          "text": "When the system is operating, the output is 4 kilowatts of cold or 5.3 kilowatts of heat for every kilowatt of electricity."
+        },
+        {
+          "text": "People learn best when they're operating in a less competitive mode."
+        },
+        {
+          "text": "Teachers should not operate on the assumption that all children have access to the internet at home."
+        },
+        {
+          "text": "Workplace conflict hampers an organization's ability to operate effectively."
+        }
+      ],
+      "synonyms": "function"
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to use or control a machine or make it work",
+      "sensetop": "operate something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "What skills are needed to operate this machinery?"
+        },
+        {
+          "text": "They use a **remotely operated** camera."
+        },
+        {
+          "text": "The doors can be **manually operated** in the event of fire."
+        },
+        {
+          "text": "The machinery is easy to operate."
+        },
+        {
+          "text": "Do not operate heavy machinery while taking this medication."
+        },
+        {
+          "text": "A licensed driver is permitted by society to operate a vehicle."
+        },
+        {
+          "text": "The front windows are electrically operated."
+        },
+        {
+          "text": "An experienced pilot was operating the aircraft."
+        },
+        {
+          "text": "21st century lifeboat crews learn to operate hi-tech equipment."
+        },
+        {
+          "text": "The teacher operates the camera and attempts to follow the students' storyboards."
+        },
+        {
+          "text": "The animals can be trained to operate levers and push buttons in response to flashing lights."
+        }
+      ],
+      "collocations": {
+        "adverb": ["effectively", "efficiently", "reliably"],
+        "verb + operate": ["be designed to", "be easy to"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to manage a business, organization or service",
+      "sensetop": "operate something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The airline currently **operates flights** to 25 countries."
+        },
+        {
+          "text": "By last year, the chain was operating 388 stores in 47 states."
+        },
+        {
+          "text": "He started and **operated a** successful technology **business**."
+        },
+        {
+          "text": "The company **operates** public transport **services** across the world."
+        },
+        {
+          "text": "He won one of three licenses to operate casinos in Macau."
+        },
+        {
+          "text": "They operate 32 marketing teams across the country."
+        },
+        {
+          "text": "The grill chain operates six restaurants in the Miami area."
+        },
+        {
+          "text": "Some plants operate their own testing facilities."
+        },
+        {
+          "text": "The company operates a global network of servers."
+        },
+        {
+          "text": "Telecom Namibia operates the only public network in Namibia."
+        },
+        {
+          "text": "The laboratory is still owned by the government but is now commercially operated."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to work, especially in a particular way or from a particular place",
+      "sensetop": "+ adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "A new late-night service is now operating."
+        },
+        {
+          "text": "They plan to operate from a new office in Edinburgh."
+        },
+        {
+          "text": "Retailers operate in a fast-paced environment."
+        },
+        {
+          "text": "The business operates on a cooperative basis."
+        },
+        {
+          "text": "We **operate independently** from our sister companies."
+        },
+        {
+          "text": "Illegal drinking clubs continue to operate in the city."
+        },
+        {
+          "text": "Foreign businesses must wait about five months to get a license to operate."
+        },
+        {
+          "text": "A shuttle bus service will operate to and from the showground."
+        },
+        {
+          "text": "There are many factors that might affect a firm seeking to operate in a new market."
+        },
+        {
+          "text": "Our members operate in areas including marketing, financial services, healthcare and housing."
+        },
+        {
+          "text": "The goal of the plant is to operate in a just-in-time manner."
+        },
+        {
+          "text": "Local authorities operate within a wider political system."
+        },
+        {
+          "text": "The production operated within the ethical constraints imposed by the television network."
+        },
+        {
+          "text": "The government does not operate according to fixed rules."
+        },
+        {
+          "text": "The industry operates under rigid guidelines."
+        },
+        {
+          "text": "At that time, the United States operated under the Meat Import Law of 1964."
+        },
+        {
+          "text": "Their household operates on a tight budget."
+        },
+        {
+          "text": "The hospital was operating normally."
+        },
+        {
+          "text": "The internet harbours pharmacies that operate illegally."
+        },
+        {
+          "text": "In wartime, markets do not operate freely."
+        },
+        {
+          "text": "These wells have been operating safely for many years."
+        },
+        {
+          "text": "Market conditions no longer allowed the company to operate profitably."
+        },
+        {
+          "text": "We operate as an advisory service for schools."
+        },
+        {
+          "text": "It will continue to operate as a separate company with its own sales and marketing team."
+        },
+        {
+          "text": "Multiple similar companies already operate in the same area."
+        },
+        {
+          "text": "His clinic operated out of Juarez in Mexico."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to be used or working; to use something or make it work",
+      "sensetop": "operate something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The regulation operates in favour of married couples."
+        },
+        {
+          "text": "He believes that sinister **forces are operating**."
+        },
+        {
+          "text": "France **operates a system** of subsidized loans to dairy farmers.",
+          "contextForm": "operate something"
+        },
+        {
+          "text": "In Germany, the recycling scheme has been operating for several years."
+        },
+        {
+          "text": "A waiting list system will operate."
+        },
+        {
+          "text": "circumstances in which natural selection is operating"
+        },
+        {
+          "text": "It has become apparent from the study of these cells there may be more than one mechanism operating."
+        },
+        {
+          "text": "These people do not understand how the scientific process operates."
+        },
+        {
+          "text": "Consumer law operates on a case-by-case basis."
+        },
+        {
+          "text": "This system operates on the principle that lighter soils require less pesticide than darker soils."
+        },
+        {
+          "text": "Standardize procedures to ensure the system operates efficiently."
+        },
+        {
+          "text": "We like to believe that our legal system operates with scrupulous fairness."
+        },
+        {
+          "text": "These people have no understanding of how the system operates, nor access to those who do."
+        },
+        {
+          "text": "As described by Freud, the emotions of love and hate operate in a similar manner."
+        },
+        {
+          "text": "Great works of art operate on many levels and can be interpreted in many different ways."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to cut open somebody’s body in order to remove a part that has a disease or to repair a part that is damaged",
+      "sensetop": "operate on somebody/something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Surgeons operated last night."
+        },
+        {
+          "text": "We will have to operate on his eyes.",
+          "contextForm": "operate on somebody/something"
+        },
+        {
+          "text": "She was operated on the next day."
+        },
+        {
+          "text": "Doctors operated for seven hours, amputating his right arm."
+        },
+        {
+          "text": "It may be necessary to operate."
+        },
+        {
+          "text": "Surgeons often operate during the night, and often after disturbed sleep."
+        },
+        {
+          "text": "The surgeon operates to obtain tissue for histological examination."
+        },
+        {
+          "text": "Doctors operated on her wrists."
+        },
+        {
+          "text": "She died in hospital as surgeons operated on her."
+        },
+        {
+          "text": "He was admitted to hospital and his foot was operated on."
+        },
+        {
+          "text": "Surgeons operated on him for two hours to remove the blade."
+        },
+        {
+          "text": "He will be operated on next week to have his colon removed."
+        }
+      ],
+      "topics": ["Healthcare"]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to be involved in military activities in a place",
+      "sensetop": "(+ adv./prep.)",
+      "examples": [
+        {
+          "text": "Troops are operating from bases in the north."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "early 17th cent.: from Latin operat- ‘done by labour’, from the verb operari, from opus, oper- ‘work’."
+}

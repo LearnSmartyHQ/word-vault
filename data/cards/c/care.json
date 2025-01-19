@@ -1,0 +1,233 @@
+{
+  "word": "care",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/keə(r)/",
+        "audio": "data/audio/c/care/care__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ker/",
+        "audio": "data/audio/c/care/care__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the process of caring for somebody/something and providing what they need for their health or protection",
+      "sensetop": "care for somebody/somethingwith care",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Some people were badly injured and needed **medical care**."
+        },
+        {
+          "text": "We aim to continually improve the quality of **patient care**."
+        },
+        {
+          "text": "The parents shared equally in the care of the children."
+        },
+        {
+          "text": "The company **provides care** older people living in their own homes.",
+          "contextForm": "care for somebody/something"
+        },
+        {
+          "text": "With proper care, the plants may last for fifty years.",
+          "contextForm": "with care"
+        },
+        {
+          "text": "**skin/hair care** products"
+        },
+        {
+          "text": "She's still very frail and will need lots of tender loving care."
+        },
+        {
+          "text": "The couple relied on informal care from relatives."
+        },
+        {
+          "text": "We have improved the way doctors deliver care."
+        }
+      ],
+      "topics": ["Life stages", "Healthcare"],
+      "collocations": {
+        "adjective": ["good", "great", "proper"],
+        "verb + care": ["take", "deliver", "provide (somebody with)"],
+        "care + noun": ["services", "centre/​center", "facility"],
+        "preposition": ["in care", "in somebody’s care", "under the care of"],
+        "phrases": [
+          "care of somebody",
+          "in care of somebody",
+          "the quality of care"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the fact of providing a home in an institution run by the local authority or with another family for children who cannot live with their parents",
+      "sensetop": "in care",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "Most children in care live with foster carers.",
+          "contextForm": "in care"
+        },
+        {
+          "text": "The two girls were **taken into care** after their parents were killed."
+        },
+        {
+          "text": "He had been in foster care since he was five."
+        },
+        {
+          "text": "Mentors support teenagers leaving care."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "attention or thought that you give to something that you are doing so that you will do it well and avoid mistakes or damage",
+      "sensetop": "with care",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**Great care** is needed when choosing a used car."
+        },
+        {
+          "text": "She chose her words with care.",
+          "contextForm": "with care"
+        },
+        {
+          "text": "Fragile—handle with care *(= written on a container holding something that is easily broken or damaged)*"
+        },
+        {
+          "text": "Consumers must exercise care when buying medicines online."
+        },
+        {
+          "text": "The little girl was writing her name with painstaking care."
+        },
+        {
+          "text": "She was charged with driving without due care and attention."
+        },
+        {
+          "text": "Transporting the specimens requires great care."
+        }
+      ],
+      "collocations": {
+        "adjective": ["extreme", "good", "great"],
+        "verb + care": ["exercise", "take", "need"],
+        "preposition": ["with care", "without care"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a feeling of worry; something that causes problems or worries",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "I felt free from the cares of the day as soon as I left the building."
+        },
+        {
+          "text": "Sam looked as if he **didn't have a care in the world**."
+        }
+      ]
+    },
+    {
+      "definition": "used when writing to somebody at another person’s address",
+      "examples": [
+        {
+          "text": "Write to him care of his lawyer."
+        }
+      ]
+    },
+    {
+      "definition": "being cared for by somebody",
+      "examples": [
+        {
+          "text": "The child was left in the care of friends."
+        },
+        {
+          "text": "You won’t come to any harm while you’re in their care."
+        },
+        {
+          "text": "Many historic sites are in the care of the National Trust."
+        }
+      ]
+    },
+    {
+      "definition": "used when saying goodbye",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Bye! Take care!"
+        }
+      ]
+    },
+    {
+      "definition": "to be careful",
+      "examples": [
+        {
+          "text": "Take care (that) you don't spill any of it!"
+        },
+        {
+          "text": "Care should be taken to close the lid securely."
+        }
+      ]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to care for somebody/something/yourself; to be careful about something",
+      "labels": "British English",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Who's taking care of the children while you're away?"
+        },
+        {
+          "text": "She takes great care of her clothes."
+        },
+        {
+          "text": "He's old enough to take care of himself."
+        },
+        {
+          "text": "You should take better care of yourself."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to be responsible for or to deal with a situation or task",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Don't worry about the travel arrangements. They're all being taken care of."
+        },
+        {
+          "text": "Celia takes care of the marketing side of things."
+        }
+      ]
+    },
+    {
+      "definition": "receiving medical care from somebody",
+      "examples": [
+        {
+          "text": "He's under the care of Dr Parks."
+        },
+        {
+          "text": "refugees under the care of the relief agencies"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English caru (noun), carian (verb), of Germanic origin; related to Old High German chara ‘grief, lament’, charon ‘grieve’, and Old Norse kǫr ‘sickbed’."
+}

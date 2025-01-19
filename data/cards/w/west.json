@@ -1,0 +1,110 @@
+{
+  "word": "west",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/west/",
+        "audio": "data/audio/w/west/west__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/west/",
+        "audio": "data/audio/w/west/west__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the direction that you look towards to see the sun go down; one of the four main points of the compass",
+      "sensetop": "to the west (of…)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Which way is west?"
+        },
+        {
+          "text": "Rain is spreading from the west."
+        },
+        {
+          "text": "a west-facing window"
+        },
+        {
+          "text": "He lives to the west of *(= further west than)* the town.",
+          "contextForm": "to the west (of…)"
+        },
+        {
+          "text": "The train line facilitates travel between east and west."
+        }
+      ],
+      "topics": ["Geography"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the western part of a country, region or city",
+      "sensetop": "in the west",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The west of the country is especially popular with tourists."
+        },
+        {
+          "text": "Around 2 000 teachers from around the West of England attended the conference."
+        },
+        {
+          "text": "Elsewhere in the West, wet, unsettled weather will continue until the weekend.",
+          "contextForm": "in the west"
+        },
+        {
+          "text": "House prices in the west have risen significantly over the last five years."
+        },
+        {
+          "text": "There's been a severe earthquake in the west of the country."
+        }
+      ],
+      "topics": ["Geography"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "Europe and North America, contrasted with other parts of the world",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I was born in Japan, but I've lived in the West for some years now."
+        }
+      ],
+      "topics": ["Geography"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "the western side of the US",
+      "labels": "(North American English)",
+      "cefr": "a1",
+      "examples": [
+        {
+          "text": "the history of the American West"
+        }
+      ],
+      "topics": ["Geography"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "Western Europe and North America, when contrasted with the Communist countries of Eastern Europe",
+      "examples": [
+        {
+          "text": "East–West relations"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English, of Germanic origin; related to Dutch and German west, from an Indo-European root shared by Greek hesperos, Latin vesper ‘evening’."
+}

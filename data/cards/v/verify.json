@@ -1,0 +1,100 @@
+{
+  "word": "verify",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈverɪfaɪ/",
+        "audio": "data/audio/v/verify/verify__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈverɪfaɪz/",
+        "audio": "data/audio/v/verify/verifies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈverɪfaɪd/",
+        "audio": "data/audio/v/verify/verified__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈverɪfaɪɪŋ/",
+        "audio": "data/audio/v/verify/verifying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈverɪfaɪ/",
+        "audio": "data/audio/v/verify/verify__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈverɪfaɪz/",
+        "audio": "data/audio/v/verify/verifies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈverɪfaɪd/",
+        "audio": "data/audio/v/verify/verified__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈverɪfaɪɪŋ/",
+        "audio": "data/audio/v/verify/verifying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "verify",
+      "heSheIt": "verifies"
+    },
+    "pastSimple": "verified",
+    "pastParticiple": "verified",
+    "ingForm": "verifying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to check that something is true or accurate",
+      "sensetop": "verify somethingverify that…verify whether, what, etc…",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "We have no way of verifying his story.",
+          "contextForm": "verify something"
+        },
+        {
+          "text": "Please verify that there is sufficient memory available before loading the program.",
+          "contextForm": "verify that…"
+        },
+        {
+          "text": "Please verify that your password was entered correctly."
+        },
+        {
+          "text": "I'll leave you to verify whether these claims are true.",
+          "contextForm": "verify whether, what, etc…"
+        }
+      ],
+      "topics": ["Scientific research"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to show or say that something is true or accurate",
+      "sensetop": "verify somethingverify that…",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Her version of events was verified by neighbours."
+        },
+        {
+          "text": "Several witnesses verified his story."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English (as a legal term): from Old French verifier, from medieval Latin verificare, from verus ‘true’."
+}

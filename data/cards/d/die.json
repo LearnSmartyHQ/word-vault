@@ -1,0 +1,293 @@
+{
+  "word": "die",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/daɪ/",
+        "audio": "data/audio/d/die/die__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/daɪz/",
+        "audio": "data/audio/d/die/dies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/daɪd/",
+        "audio": "data/audio/d/die/died__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdaɪɪŋ/",
+        "audio": "data/audio/d/die/dying__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/daɪ/",
+        "audio": "data/audio/d/die/die__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/daɪz/",
+        "audio": "data/audio/d/die/dies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/daɪd/",
+        "audio": "data/audio/d/die/died__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdaɪɪŋ/",
+        "audio": "data/audio/d/die/dying__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "die",
+      "heSheIt": "dies"
+    },
+    "pastSimple": "died",
+    "pastParticiple": "died",
+    "ingForm": "dying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to stop living",
+      "sensetop": "die of/from somethingdie with somethingdie for somethingdie a… deathdie + adj.die + noun",
+      "labels": "(informal)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "My father **died suddenly** at the age of 48."
+        },
+        {
+          "text": "At least six people have died in the accident."
+        },
+        {
+          "text": "That plant's going to die if you don't water it!"
+        },
+        {
+          "text": "He later died in hospital."
+        },
+        {
+          "text": "They died fighting for their country."
+        },
+        {
+          "text": "She died peacefully after a long illness."
+        },
+        {
+          "text": "to die with dignity"
+        },
+        {
+          "text": "to die of/from cancer *(= cancer is the cause of death)*",
+          "contextForm": "die of/from something"
+        },
+        {
+          "text": "A further 156 people have died with Covid-19 *(= they had the disease when they died)*.",
+          "contextForm": "die with something"
+        },
+        {
+          "text": "He was ready to die for his cause.",
+          "contextForm": "die for something"
+        },
+        {
+          "text": "I'll never forget it **to my dying day** *(= until I die)*."
+        },
+        {
+          "text": "**I nearly died** when I saw him there *(= it was very embarrassing)*."
+        },
+        {
+          "text": "to die a natural/slow/horrible/violent death",
+          "contextForm": "die a… death"
+        },
+        {
+          "text": "She died young.",
+          "contextForm": "die + adj."
+        },
+        {
+          "text": "At least they died happy."
+        },
+        {
+          "text": "He died a hero.",
+          "contextForm": "die + noun"
+        },
+        {
+          "text": "He died a poor man."
+        },
+        {
+          "text": "Her husband died suddenly last week."
+        },
+        {
+          "text": "That plant's died."
+        },
+        {
+          "text": "He died for his beliefs."
+        },
+        {
+          "text": "Her father died tragically in a car crash."
+        },
+        {
+          "text": "30 000 people died as a result of the earthquake."
+        },
+        {
+          "text": "A dog lay dying in the road."
+        },
+        {
+          "text": "I nearly died when they told me the price."
+        },
+        {
+          "text": "I thought I was going to die."
+        },
+        {
+          "text": "One of their children died in infancy."
+        },
+        {
+          "text": "She should be allowed to die peacefully."
+        },
+        {
+          "text": "The accident victim died from her injuries."
+        },
+        {
+          "text": "to die for your country"
+        },
+        {
+          "text": "Her father died of cancer."
+        },
+        {
+          "text": "I'm not afraid to die."
+        },
+        {
+          "text": "She died a natural death."
+        }
+      ],
+      "topics": ["Life stages"],
+      "collocations": {
+        "adverb": ["peacefully", "suddenly", "unexpectedly"],
+        "verb + die": ["be going to", "be allowed to"],
+        "preposition": ["for", "from", "of"],
+        "phrases": ["die a natural, violent, etc. death"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to stop existing; to disappear",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The old customs are dying."
+        },
+        {
+          "text": "His secret died with him *(= he never told anyone)*."
+        },
+        {
+          "text": "The words died on my lips *(= I stopped speaking)*."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to stop working",
+      "examples": [
+        {
+          "text": "My phone died and I had no way to contact you."
+        },
+        {
+          "text": "The engine spluttered and died."
+        },
+        {
+          "text": "My car just **died on me**."
+        }
+      ]
+    },
+    {
+      "definition": "to want something or want to do something very much",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "I'm dying for a glass of water."
+        },
+        {
+          "text": "I'm dying to know what happened."
+        }
+      ]
+    },
+    {
+      "definition": "used to emphasize that you are telling the truth or will do what you promise",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "I saw him do it—cross my heart."
+        }
+      ]
+    },
+    {
+      "definition": "to fail completely",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "The play got terrible reviews and quickly died a death."
+        }
+      ],
+      "topics": ["Difficulty and failure"]
+    },
+    {
+      "definition": "to die because you are old or ill",
+      "examples": []
+    },
+    {
+      "definition": "to find something extremely funny",
+      "examples": [
+        {
+          "text": "I nearly died laughing when she said that."
+        }
+      ]
+    },
+    {
+      "definition": "to die or become ill and fall down in very large numbers",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "People were dropping like flies in the intense heat."
+        }
+      ]
+    },
+    {
+      "definition": "a situation where you need to act in a very determined way or taking a great risk, because there is no alternative",
+      "examples": [
+        {
+          "text": "At this stage in the competition it's do or die."
+        }
+      ]
+    },
+    {
+      "definition": "do not stop hoping",
+      "labels": "(saying)",
+      "examples": []
+    },
+    {
+      "definition": "used to say that things change very slowly",
+      "examples": []
+    },
+    {
+      "definition": "if you think something is to die for, you really want it, and would do anything to get it",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "She was wearing a dress to die for."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "verb Middle English: from Old Norse deyja, of Germanic origin; related to dead."
+}

@@ -1,0 +1,87 @@
+{
+  "word": "confer",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kənˈfɜː(r)/",
+        "audio": "data/audio/x/confer/xconfer__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kənˈfɜːz/",
+        "audio": "data/audio/x/confer/xconfers__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kənˈfɜːd/",
+        "audio": "data/audio/x/confer/xconferred__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kənˈfɜːrɪŋ/",
+        "audio": "data/audio/x/confer/xconferring__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kənˈfɜːr/",
+        "audio": "data/audio/x/confer/xconfer__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kənˈfɜːrz/",
+        "audio": "data/audio/x/confer/xconfers__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kənˈfɜːrd/",
+        "audio": "data/audio/x/confer/xconferred__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kənˈfɜːrɪŋ/",
+        "audio": "data/audio/x/confer/xconferring__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "confer",
+      "heSheIt": "confers"
+    },
+    "pastSimple": "conferred",
+    "pastParticiple": "conferred",
+    "ingForm": "conferring"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to discuss something with somebody, in order to exchange opinions or get advice",
+      "sensetop": "confer (with somebody) (on/about something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He wanted to confer with his colleagues before reaching a decision."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to give somebody an award, a university degree or a particular honour or right",
+      "sensetop": "confer something (on/upon somebody)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "An honorary degree was conferred on him by Oxford University in 2019."
+        }
+      ],
+      "topics": ["Education"]
+    }
+  ],
+  "wordOrigin": "late Middle English (in the general sense ‘bring together’, also in sense (1)): from Latin conferre, from con- ‘together’ + ferre ‘bring’."
+}

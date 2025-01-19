@@ -1,0 +1,126 @@
+{
+  "word": "underestimate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌʌndərˈestɪmeɪt/",
+        "audio": "data/audio/u/underestimate/underestimate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌʌndərˈestɪmeɪts/",
+        "audio": "data/audio/u/underestimate/underestimates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌʌndərˈestɪmeɪtɪd/",
+        "audio": "data/audio/u/underestimate/underestimated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˌʌndərˈestɪmeɪtɪŋ/",
+        "audio": "data/audio/u/underestimate/underestimating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌʌndərˈestɪmeɪt/",
+        "audio": "data/audio/u/underestimate/underestimate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌʌndərˈestɪmeɪts/",
+        "audio": "data/audio/u/underestimate/underestimates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌʌndərˈestɪmeɪtɪd/",
+        "audio": "data/audio/u/underestimate/underestimated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˌʌndərˈestɪmeɪtɪŋ/",
+        "audio": "data/audio/u/underestimate/underestimating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "underestimate",
+      "heSheIt": "underestimates"
+    },
+    "pastSimple": "underestimated",
+    "pastParticiple": "underestimated",
+    "ingForm": "underestimating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to think or guess that the amount, cost or size of something is smaller than it really is",
+      "sensetop": "underestimate somethingunderestimate what, how, etc…",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "to underestimate the cost of the project",
+          "contextForm": "underestimate something"
+        },
+        {
+          "text": "We underestimated the time it would take to get there."
+        },
+        {
+          "text": "The statistics seriously underestimate the number of people affected."
+        },
+        {
+          "text": "We underestimated how long it would take.",
+          "contextForm": "underestimate what, how, etc…"
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"],
+      "collocations": {
+        "adverb": ["badly", "considerably", "greatly"],
+        "verb + underestimate": ["tend to"],
+        "phrases": ["something should not be underestimated"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to not realize how good, strong, determined, difficult, etc. somebody/something really is",
+      "sensetop": "underestimate somebody/somethingunderestimate what, how, etc…",
+      "examples": [
+        {
+          "text": "Never underestimate your opponent.",
+          "contextForm": "underestimate somebody/something"
+        },
+        {
+          "text": "Their ability should not be underestimated."
+        },
+        {
+          "text": "Don't underestimate how difficult this is going to be.",
+          "contextForm": "underestimate what, how, etc…"
+        },
+        {
+          "text": "Don't underestimate what she is capable of."
+        },
+        {
+          "text": "He realized that he had seriously underestimated their strength."
+        },
+        {
+          "text": "The importance of these feelings should not be underestimated."
+        },
+        {
+          "text": "We consistently underestimate the resources and motivation of our adversaries."
+        }
+      ],
+      "collocations": {
+        "adverb": ["badly", "considerably", "greatly"],
+        "verb + underestimate": ["tend to"],
+        "phrases": ["something should not be underestimated"]
+      }
+    }
+  ],
+  "wordOrigin": null
+}

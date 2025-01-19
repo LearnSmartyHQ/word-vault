@@ -1,0 +1,189 @@
+{
+  "word": "resist",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈzɪst/",
+        "audio": "data/audio/r/resist/resist__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈzɪsts/",
+        "audio": "data/audio/r/resist/resists__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈzɪstɪd/",
+        "audio": "data/audio/r/resist/resisted__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈzɪstɪŋ/",
+        "audio": "data/audio/r/resist/resisting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈzɪst/",
+        "audio": "data/audio/r/resist/resist__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈzɪsts/",
+        "audio": "data/audio/r/resist/resists__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈzɪstɪd/",
+        "audio": "data/audio/r/resist/resisted__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈzɪstɪŋ/",
+        "audio": "data/audio/r/resist/resisting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "resist",
+      "heSheIt": "resists"
+    },
+    "pastSimple": "resisted",
+    "pastParticiple": "resisted",
+    "ingForm": "resisting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to refuse to accept something and try to stop it from happening",
+      "sensetop": "resist somethingresist doing something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They are determined to **resist pressure** to change the law.",
+          "contextForm": "resist something"
+        },
+        {
+          "text": "People naturally resist change."
+        },
+        {
+          "text": "The bank strongly resisted cutting interest rates.",
+          "contextForm": "resist doing something"
+        },
+        {
+          "text": "Residents who oppose the plans are threatening to resist."
+        },
+        {
+          "text": "She steadfastly resisted all attempts to help her."
+        },
+        {
+          "text": "I believe we should resist calls for tighter controls."
+        },
+        {
+          "text": "They successfully resisted pressure from their competitors to increase prices."
+        },
+        {
+          "text": "Employer groups fiercely resisted the introduction of the minimum wage."
+        },
+        {
+          "text": "Trends in the national economy confront companies with pressures they are unable to resist."
+        }
+      ],
+      "synonyms": "oppose",
+      "collocations": {
+        "adverb": ["fiercely", "firmly", "resolutely"],
+        "verb + resist": ["be able to", "can", "manage to"],
+        "phrases": ["the strength to resist something"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to fight back when attacked; to use force to stop something from happening",
+      "sensetop": "resist something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He tried to pin me down, but I resisted."
+        },
+        {
+          "text": "She was charged with **resisting arrest**.",
+          "contextForm": "resist something"
+        },
+        {
+          "text": "He gathered forces to resist the invasion."
+        },
+        {
+          "text": "The civil population passively resisted."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to stop yourself from having something you like or doing something you very much want to do",
+      "sensetop": "resist somethingresist doing something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I finished the cake. I **couldn't resist it**.",
+          "contextForm": "resist something"
+        },
+        {
+          "text": "The Chancellor **resisted the temptation** to raise business taxes."
+        },
+        {
+          "text": "I found the temptation to miss the class too **hard to resist**."
+        },
+        {
+          "text": "She could hardly **resist the urge** to turn and run."
+        },
+        {
+          "text": "He couldn't resist showing off his new car.",
+          "contextForm": "resist doing something"
+        },
+        {
+          "text": "Eric couldn’t resist a smile when she finally agreed."
+        },
+        {
+          "text": "She was powerless to resist the attraction that she felt to him."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to not be harmed or damaged by something",
+      "sensetop": "resist something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "A healthy diet should help your body resist infection."
+        },
+        {
+          "text": "The castle was built to resist attack."
+        },
+        {
+          "text": "This new paint is designed to resist heat."
+        },
+        {
+          "text": "Aluminium resists corrosion and rust."
+        },
+        {
+          "text": "They are treated with silicone to enable them to resist damp."
+        },
+        {
+          "text": "crops that resist disease and pest attack"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French resister or Latin resistere, from re- (expressing opposition) + sistere ‘stop’ (reduplication of stare ‘to stand’)."
+}

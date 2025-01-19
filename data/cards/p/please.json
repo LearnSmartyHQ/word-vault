@@ -1,0 +1,108 @@
+{
+  "word": "please",
+  "partOfSpeech": "exclamation",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pliːz/",
+        "audio": "data/audio/p/please/please__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pəˈliːz/",
+        "audio": "data/audio/p/please/please__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pliːz/",
+        "audio": "data/audio/p/please/please__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pəˈliːz/",
+        "audio": "data/audio/p/please/please__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "used as a polite way of asking for something or telling somebody to do something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Please sit down."
+        },
+        {
+          "text": "Two coffees, please."
+        },
+        {
+          "text": "Quiet please!"
+        },
+        {
+          "text": "Please could I leave early today?"
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "used to add force to a request or statement",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Please don't leave me here alone."
+        },
+        {
+          "text": "Please, please don't forget."
+        },
+        {
+          "text": "Please, I don't understand what I have to do."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "used as a polite way of accepting something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "‘Would you like some help?’ ‘Yes, please.’"
+        },
+        {
+          "text": "‘Coffee?’ ‘Please.’"
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "used to ask somebody to stop behaving badly",
+      "labels": "(informal, often humorous)",
+      "examples": [
+        {
+          "text": "Children, please! I'm trying to work."
+        },
+        {
+          "text": "John! Please!"
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "used when you are replying to somebody who has said something that you think is stupid",
+      "examples": [
+        {
+          "text": "Oh, please! You cannot be serious."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French plaisir ‘to please’, from Latin placere."
+}

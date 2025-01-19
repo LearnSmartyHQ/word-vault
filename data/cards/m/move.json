@@ -1,0 +1,465 @@
+{
+  "word": "move",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/muːv/",
+        "audio": "data/audio/m/move/move__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/muːvz/",
+        "audio": "data/audio/m/move/moves__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/muːvd/",
+        "audio": "data/audio/m/move/moved__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈmuːvɪŋ/",
+        "audio": "data/audio/m/move/moving__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/muːv/",
+        "audio": "data/audio/m/move/move__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/muːvz/",
+        "audio": "data/audio/m/move/moves__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/muːvd/",
+        "audio": "data/audio/m/move/moved__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈmuːvɪŋ/",
+        "audio": "data/audio/m/move/moving__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "move",
+      "heSheIt": "moves"
+    },
+    "pastSimple": "moved",
+    "pastParticiple": "moved",
+    "ingForm": "moving"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to change position or make somebody/something change position in a way that can be seen, heard or felt",
+      "sensetop": "+ adv./prep.move somethingmove something + adv./prep.",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Don't move—stay perfectly still."
+        },
+        {
+          "text": "The bus was already moving when I jumped onto it."
+        },
+        {
+          "text": "The ball was really moving *(= moving fast)* when it reached him."
+        },
+        {
+          "text": "He could hear someone moving around in the room above.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "Phil moved towards the window."
+        },
+        {
+          "text": "**You can hardly move** in this pub on Saturdays *(= because it is so crowded)*."
+        },
+        {
+          "text": "**You can't move for** books in her room."
+        },
+        {
+          "text": "Temperatures will drop as the cold front moves down across France."
+        },
+        {
+          "text": "I can't move my fingers.",
+          "contextForm": "move something"
+        },
+        {
+          "text": "We moved our chairs a little nearer.",
+          "contextForm": "move something + adv./prep."
+        },
+        {
+          "text": "She moved the ball toward the opponent's goal."
+        },
+        {
+          "text": "He moved his arm away from his face."
+        },
+        {
+          "text": "Over a million people move around this city daily."
+        },
+        {
+          "text": "Investors can move money into foreign bonds when the dollar is weak."
+        },
+        {
+          "text": "Black clouds moved across the sky."
+        },
+        {
+          "text": "Can you move down the steps?"
+        },
+        {
+          "text": "Move your chairs a little closer."
+        },
+        {
+          "text": "Someone had moved the bike from where I left it."
+        },
+        {
+          "text": "The papers on his desk had been moved."
+        },
+        {
+          "text": "We moved a little nearer."
+        },
+        {
+          "text": "The traffic moved slowly along the highway."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to change the place where you live, have your work, etc.",
+      "sensetop": "move (from…) (to…)move awaymove house",
+      "labels": "(British English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We don't like it here so we've decided to move."
+        },
+        {
+          "text": "The company's moving to Scotland.",
+          "contextForm": "move (from…) (to…)"
+        },
+        {
+          "text": "People move from place to place today in ever greater numbers."
+        },
+        {
+          "text": "She's been all on her own since her daughter moved away.",
+          "contextForm": "move away"
+        },
+        {
+          "text": "We moved house last week.",
+          "contextForm": "move house"
+        },
+        {
+          "text": "In 1905 his family moved to Milan, where he studied sculpture."
+        },
+        {
+          "text": "There are a lot more people moving across borders."
+        },
+        {
+          "text": "They've moved house three times in the past year."
+        },
+        {
+          "text": "We moved here in 2003."
+        },
+        {
+          "text": "Moving can be an extremely stressful experience."
+        },
+        {
+          "text": "All her family have moved away so she's on her own."
+        },
+        {
+          "text": "He worked as a sales rep before moving to the marketing department."
+        }
+      ],
+      "topics": ["Houses and homes"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to make somebody change from one job, class, etc. to another",
+      "sensetop": "move somebody (from…) (to…)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I'm being moved to the New York office."
+        },
+        {
+          "text": "He's recently been moved from our Head Office."
+        },
+        {
+          "text": "We've decided to move her into the Accounts Department."
+        },
+        {
+          "text": "Several major industries have been moved from the north to the south of the country."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to change the position of a piece",
+      "sensetop": "move something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "It's your turn to move."
+        },
+        {
+          "text": "She moved her queen.",
+          "contextForm": "move something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to leave, begin something, etc. quickly",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Let's move—it's time we went shopping."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to change; to change something",
+      "sensetop": "(+ adv./prep.)move something (+ adv./prep.)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The government has not moved on this issue.",
+          "contextForm": "(+ adv./prep.)"
+        },
+        {
+          "text": "Things have moved on a lot since the days when I was young."
+        },
+        {
+          "text": "Let's move the meeting to Wednesday.",
+          "contextForm": "move something (+ adv./prep.)"
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to make progress in the way or direction mentioned",
+      "sensetop": "move onmove aheadmove forward+ adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Time is moving on.",
+          "contextForm": "move on"
+        },
+        {
+          "text": "Share prices moved ahead today.",
+          "contextForm": "move ahead"
+        },
+        {
+          "text": "After that, things moved forward at lightning speed",
+          "contextForm": "move forward"
+        },
+        {
+          "text": "Things are not moving as fast as we hoped.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "Things certainly move fast in the blogosphere."
+        },
+        {
+          "text": "Finally things are moving in the right direction."
+        }
+      ],
+      "synonyms": "progress"
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to take action; to do something",
+      "examples": [
+        {
+          "text": "The police moved quickly to dispel the rumours."
+        },
+        {
+          "text": "The firm has moved to reassure customers that they will continue to provide good service."
+        }
+      ],
+      "synonyms": "act"
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to cause somebody to have strong feelings, especially of sympathy or of being sad",
+      "sensetop": "move somebodymove somebody to something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We were **deeply moved** by her plight.",
+          "contextForm": "move somebody"
+        },
+        {
+          "text": "Grown men were **moved to tears** at the horrific scenes.",
+          "contextForm": "move somebody to something"
+        },
+        {
+          "text": "I am really moved by people's kindness."
+        },
+        {
+          "text": "The film moved me so much, I started to weep."
+        },
+        {
+          "text": "The woman's story had really moved her."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to cause somebody to do something",
+      "sensetop": "move somebody to do somethingmove somebody",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "She felt moved to address the crowd.",
+          "contextForm": "move somebody to do something"
+        },
+        {
+          "text": "He works **when the spirit moves him** *(= when he wants to)*.",
+          "contextForm": "move somebody"
+        },
+        {
+          "text": "Like many adolescents he was moved to write poetry."
+        },
+        {
+          "text": "‘Certainly not!’ he was moved to protest."
+        },
+        {
+          "text": "As the delays got worse he was moved to make a mild complaint."
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to sell goods; to be sold",
+      "sensetop": "move (something)",
+      "examples": [
+        {
+          "text": "How quickly can we move this stock?"
+        },
+        {
+          "text": "These copies are moving fast—they'll soon be sold out."
+        }
+      ]
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to suggest something formally so that it can be discussed and decided",
+      "sensetop": "move somethingmove that…",
+      "labels": "(formal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The Opposition moved an amendment to the Bill.",
+          "contextForm": "move something"
+        },
+        {
+          "text": "I move that a vote be taken on this.",
+          "contextForm": "move that…"
+        }
+      ],
+      "topics": ["Suggestions and advice"]
+    },
+    {
+      "definition": "a rude way of telling somebody to hurry",
+      "labels": "(offensive, slang)",
+      "examples": [
+        {
+          "text": "If you get your ass in gear, we can make it out of here tonight."
+        }
+      ]
+    },
+    {
+      "definition": "to begin, leave, etc. quickly",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "It's late—we'd better get moving."
+        }
+      ]
+    },
+    {
+      "definition": "to cause something to make progress",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The new director has really got things moving."
+        }
+      ]
+    },
+    {
+      "definition": "in the future, starting from now",
+      "labels": "(formal or business)",
+      "examples": [
+        {
+          "text": "We have a very solid financial position going forward."
+        },
+        {
+          "text": "The strategy going forward is still undecided."
+        },
+        {
+          "text": "Moving forward, we need to have a real plan."
+        }
+      ]
+    },
+    {
+      "definition": "to change and develop your ideas, way of working, etc. so that you do what is modern and what is expected",
+      "examples": [
+        {
+          "text": "Many complained that the Royal Family had failed to move with the times."
+        }
+      ]
+    },
+    {
+      "definition": "a rude way of telling somebody to hurry",
+      "labels": "(offensive, slang)",
+      "examples": [
+        {
+          "text": "If you move your ass, we can make it out of here tonight."
+        }
+      ]
+    },
+    {
+      "definition": "to do everything you possibly can in order to achieve something",
+      "examples": [],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to do something more quickly because there is not much time",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Move it! We’re going to be late!"
+        }
+      ]
+    },
+    {
+      "definition": "to make a great effort to do something",
+      "examples": [
+        {
+          "text": "The director moved mountains to remake this classic film."
+        }
+      ],
+      "topics": ["Success"]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French moveir, from Latin movere."
+}

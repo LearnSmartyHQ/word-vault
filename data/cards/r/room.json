@@ -1,0 +1,301 @@
+{
+  "word": "room",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ruːm//rʊm/",
+        "audio": "data/audio/r/room/room__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ruːm//rʊm/",
+        "audio": "data/audio/r/room/room__us_1_rr.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a part of a building that has its own walls, floor and ceiling and is usually used for a particular purpose",
+      "sensetop": "in the/somebody's room",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I heard him **enter the room**."
+        },
+        {
+          "text": "As soon as the teacher **left the room** there was uproar."
+        },
+        {
+          "text": "They were in **the next room** and we could hear every word they said.",
+          "contextForm": "in the/somebody's room"
+        },
+        {
+          "text": "I don't want to watch television. I'll be in **the other room** *(= a different room)*."
+        },
+        {
+          "text": "I think Simon is in his room *(= bedroom)*."
+        },
+        {
+          "text": "They had to sit in the **waiting room** for an hour."
+        },
+        {
+          "text": "a **dining/living/sitting room**"
+        },
+        {
+          "text": "a **conference/meeting room**"
+        },
+        {
+          "text": "He was pacing the room nervously."
+        },
+        {
+          "text": "I used to share a room (= bedroom) with my sister."
+        },
+        {
+          "text": "Our guests are sleeping in the spare room."
+        },
+        {
+          "text": "She felt sick and the room was spinning."
+        },
+        {
+          "text": "She flew from room to room looking for the fire extinguisher."
+        },
+        {
+          "text": "Suddenly Katie burst into the room."
+        },
+        {
+          "text": "The patient was in a private room equipped with bathroom and TV."
+        },
+        {
+          "text": "The room contained little more than a table and chair."
+        },
+        {
+          "text": "The room smelled of stale sweat and coffee."
+        },
+        {
+          "text": "The room was filled with morning sunshine."
+        },
+        {
+          "text": "The rooms are cramped and narrow."
+        },
+        {
+          "text": "We hired a room for the party."
+        },
+        {
+          "text": "He walked out of the room and slammed the door."
+        }
+      ],
+      "topics": ["Houses and homes"],
+      "collocations": {
+        "adjective": ["big", "cavernous", "enormous"],
+        "verb + room": ["burst into", "come into", "creep into"],
+        "room + verb": [
+          "adjoin something",
+          "face something",
+          "overlook something"
+        ],
+        "room + noun": ["key", "number", "lights"],
+        "preposition": [
+          "around a/​the room",
+          "round a/​the room",
+          "from room to room"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "having the number of rooms mentioned",
+      "examples": [
+        {
+          "text": "a three-roomed/three-room apartment"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a bedroom in a hotel, etc.",
+      "labels": "(British English)(North American English)(British English)(especially British English)(both British English)(especially British English)(especially North American English)(both British English)(British English)(North American English also)(especially British English)(especially North American English)(especially British English)(especially North American English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a double/single room"
+        },
+        {
+          "text": "I just stayed in my **hotel room**."
+        },
+        {
+          "text": "I'd like to book a room with a view of the lake."
+        },
+        {
+          "text": "We rented a room while looking for a house to buy."
+        },
+        {
+          "text": "She lets out rooms to students."
+        },
+        {
+          "text": "Guests are requested to vacate their rooms by 11 a.m."
+        },
+        {
+          "text": "Soaring room rates have put tourists off visiting the city."
+        },
+        {
+          "text": "I was renting a tiny basement room at that time."
+        }
+      ],
+      "topics": ["Holidays"],
+      "collocations": {
+        "adjective": ["big", "cavernous", "enormous"],
+        "verb + room": ["burst into", "come into", "creep into"],
+        "room + verb": [
+          "adjoin something",
+          "face something",
+          "overlook something"
+        ],
+        "room + noun": ["key", "number", "lights"],
+        "preposition": [
+          "around a/​the room",
+          "round a/​the room",
+          "from room to room"
+        ]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a set of two or more rooms that you rent to live in",
+      "labels": "(British English, old-fashioned)",
+      "examples": [
+        {
+          "text": "They lived in rooms in Kensington."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "empty space that can be used for a particular purpose",
+      "sensetop": "room for somebody/somethingroom to do somethingroom for somebody to do something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I'll move the table—it takes up too much room."
+        },
+        {
+          "text": "Is there enough room for me in the car?",
+          "contextForm": "room for somebody/something"
+        },
+        {
+          "text": "How can we **make room **for all the furniture?"
+        },
+        {
+          "text": "The bar was so packed there was hardly room to move.",
+          "contextForm": "room to do something"
+        },
+        {
+          "text": "We got our stuff in the van with room to spare."
+        },
+        {
+          "text": "I **left room **for Zac to sit beside me.",
+          "contextForm": "room for somebody to do something"
+        },
+        {
+          "text": "There's **plenty of room** in the attic."
+        },
+        {
+          "text": "You'll have to find room for all those books."
+        },
+        {
+          "text": "Will there be enough room for that dishwasher in your kitchen?"
+        },
+        {
+          "text": "Make sure you have plenty of room to sit comfortably."
+        },
+        {
+          "text": "There's room for one more at the table."
+        }
+      ],
+      "collocations": {
+        "adjective": ["ample", "considerable", "enough"],
+        "verb + room": ["find", "leave", "make"],
+        "preposition": ["room for"],
+        "phrases": ["room for manoeuvre/​maneuver"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "the possibility of something existing or happening; the opportunity to do something",
+      "sensetop": "room for somethingroom to do something",
+      "examples": [
+        {
+          "text": "He had to be certain. There could be **no room for doubt**.",
+          "contextForm": "room for something"
+        },
+        {
+          "text": "There's some **room for improvement** in your work *(= it is not as good as it could be)*."
+        },
+        {
+          "text": "It is important to give children room to think for themselves.",
+          "contextForm": "room to do something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "all the people in a room",
+      "examples": [
+        {
+          "text": "The whole room burst into applause."
+        },
+        {
+          "text": "A ripple of laughter ran round the room."
+        },
+        {
+          "text": "The room fell silent as she rose to speak."
+        }
+      ]
+    },
+    {
+      "definition": "a problem or question that everyone knows about but does not mention because it is easier not to discuss it",
+      "examples": [
+        {
+          "text": "The elephant in the room was the money that had to be paid in bribes."
+        },
+        {
+          "text": "There’s a big elephant in the room and it’s gun control."
+        }
+      ]
+    },
+    {
+      "definition": "the chance to change the way that something happens and influence decisions that are made",
+      "examples": [
+        {
+          "text": "Small farmers have limited room for manoeuvre."
+        },
+        {
+          "text": "The economic conditions are restricting the bank's freedom of manoeuvre."
+        },
+        {
+          "text": "The government has very little room for manoeuvre on this issue."
+        }
+      ]
+    },
+    {
+      "definition": "when somebody says there’s no room to swing a cat, they mean that a room is very small and that there is not enough space",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "a decision that people describe as being made in a smoke-filled room is made by a small group of people at a private meeting, rather than in an open and democratic way",
+      "labels": "(disapproving)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Old English rūm, of Germanic origin; related to Dutch ruim, German Raum."
+}

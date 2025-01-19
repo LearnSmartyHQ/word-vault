@@ -1,0 +1,359 @@
+{
+  "word": "set",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/set/",
+        "audio": "data/audio/s/set/set__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/sets/",
+        "audio": "data/audio/s/set/sets__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsetɪŋ/",
+        "audio": "data/audio/s/set/setting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/set/",
+        "audio": "data/audio/s/set/set__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/sets/",
+        "audio": "data/audio/s/set/sets__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsetɪŋ/",
+        "audio": "data/audio/s/set/setting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "set",
+      "heSheIt": "sets"
+    },
+    "pastSimple": "set",
+    "pastParticiple": "set",
+    "ingForm": "setting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to prepare or arrange something so that it is ready for use or in position",
+      "sensetop": "set somethingset something + adv.prep.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Have you set the alarm clock?",
+          "contextForm": "set something"
+        },
+        {
+          "text": "She set the camera on automatic.",
+          "contextForm": "set something + adv.prep."
+        },
+        {
+          "text": "I set my watch by *(= make it show the same time as)* the TV."
+        },
+        {
+          "text": "Set the alarm for 7 o'clock."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to arrange knives, forks, etc. on a table for a meal",
+      "sensetop": "set a/the tableset a/the table for somebody/something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Can you help me set the table?",
+          "contextForm": "set a/the table"
+        },
+        {
+          "text": "Could you set the table for dinner?",
+          "contextForm": "set a/the table for somebody/something"
+        },
+        {
+          "text": "The table was set for six guests."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to fix something so that others copy it or try to achieve it",
+      "sensetop": "set something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "This could set a new fashion."
+        },
+        {
+          "text": "They **set high standards** of customer service."
+        },
+        {
+          "text": "I am unwilling to **set a precedent**."
+        },
+        {
+          "text": "She **set a** new world **record** for the high jump."
+        },
+        {
+          "text": "I rely on you to **set a good example**."
+        },
+        {
+          "text": "The opening scene **sets the tone** for the rest of the movie."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to give somebody a piece of work to do or a task or target to achieve",
+      "sensetop": "set somethingset something for somethingset something for somebody/yourselfset somebody/yourself somethingset somebody/yourself to do something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Who will be setting *(= writing the questions for)* the French exam?",
+          "contextForm": "set something"
+        },
+        {
+          "text": "The government has **set a** growth **target** of 6%."
+        },
+        {
+          "text": "What books have been set *(= are to be studied)* for the English course?",
+          "contextForm": "set something for something"
+        },
+        {
+          "text": "She's set a difficult task for herself.",
+          "contextForm": "set something for somebody/yourself"
+        },
+        {
+          "text": "He likes to **set** challenging **goals** for himself."
+        },
+        {
+          "text": "She's set herself a difficult task.",
+          "contextForm": "set somebody/yourself something"
+        },
+        {
+          "text": "I've set myself to finish the job by the end of the month.",
+          "contextForm": "set somebody/yourself to do something"
+        }
+      ],
+      "topics": ["Education"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to arrange or fix something; to decide on something",
+      "sensetop": "set something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They haven't **set a date** for their wedding yet."
+        },
+        {
+          "text": "The government has set strict limits on public spending this year."
+        },
+        {
+          "text": "We can't just let the global corporations **set the agenda** *(= decide what is important)* every time."
+        },
+        {
+          "text": "Set a time limit for your studying each night."
+        },
+        {
+          "text": "Individual countries don't really set the price of oil."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to place the action of a play, novel or film in a particular place, time, etc.",
+      "sensetop": "be set + adv./prep.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The novel is set in London in the 1960s.",
+          "contextForm": "be set + adv./prep."
+        },
+        {
+          "text": "The movie is set in Los Angeles in the year 2050."
+        },
+        {
+          "text": "This powerful drama is set against the backdrop of the Civil War."
+        }
+      ],
+      "topics": ["Film and theatre"]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to be located in a particular place",
+      "sensetop": "be set + adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The house is set in fifty acres of parkland.",
+          "contextForm": "be set + adv./prep."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to put something/somebody in a particular place or position",
+      "sensetop": "set something/somebody + adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She set a tray down on the table."
+        },
+        {
+          "text": "They ate everything that was set in front of them."
+        },
+        {
+          "text": "When she fell he picked her up and set her on her feet again."
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to cause somebody/something to be in a particular state; to start something happening",
+      "sensetop": "set somebody/something + adv./prep.set somebody/something + adj.set somebody/something doing something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Her manner immediately **set** everyone **at** their **ease**.",
+          "contextForm": "set somebody/something + adv./prep."
+        },
+        {
+          "text": "He pulled the lever and **set** the machine **in motion**."
+        },
+        {
+          "text": "The new leader has set the party on the road to success."
+        },
+        {
+          "text": "Demonstrators **set** two cars **on fire**."
+        },
+        {
+          "text": "Demonstrators **set fire to** two cars."
+        },
+        {
+          "text": "The hijackers **set** the hostages **free**.",
+          "contextForm": "set somebody/something + adj."
+        },
+        {
+          "text": "Her remarks set me thinking.",
+          "contextForm": "set somebody/something doing something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to go down below the horizon",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We sat and watched the sun setting."
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to put a precious stone into a piece of jewellery",
+      "sensetop": "set A in Bset B with A",
+      "examples": [
+        {
+          "text": "She had the sapphire set in a gold ring.",
+          "contextForm": "set A in B"
+        },
+        {
+          "text": "Her bracelet was set with emeralds.",
+          "contextForm": "set B with A"
+        }
+      ]
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to become solid or hard",
+      "sensetop": "+ adj.",
+      "examples": [
+        {
+          "text": "Leave the concrete to set for a few hours."
+        },
+        {
+          "text": "The glue had set hard.",
+          "contextForm": "+ adj."
+        }
+      ]
+    },
+    {
+      "senseNumber": "13",
+      "definition": "to fix your face into a determined expression",
+      "sensetop": "set something",
+      "examples": [
+        {
+          "text": "Her jaw was set in a determined manner."
+        }
+      ]
+    },
+    {
+      "senseNumber": "14",
+      "definition": "to arrange somebody’s hair while it is wet so that it dries in a particular style",
+      "sensetop": "set something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "She had her hair washed and set."
+        }
+      ],
+      "topics": ["Appearance"]
+    },
+    {
+      "senseNumber": "15",
+      "definition": "to put a broken bone into a fixed position and hold it there, so that it will join together again and get better; to get better in this way",
+      "sensetop": "set (something)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The surgeon set her broken arm."
+        }
+      ],
+      "topics": ["Healthcare"]
+    },
+    {
+      "senseNumber": "16",
+      "definition": "to use a machine or computer to arrange writing and images on pages in order to prepare a book, newspaper, etc. for printing",
+      "sensetop": "set something",
+      "labels": "(specialist)",
+      "examples": []
+    },
+    {
+      "senseNumber": "17",
+      "definition": "to write music to go with words",
+      "sensetop": "set something (to something)",
+      "examples": [
+        {
+          "text": "Schubert set many poems to music."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "verb Old English settan, of Germanic origin; related to Dutch zetten, German setzen, also to sit."
+}

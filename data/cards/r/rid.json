@@ -1,0 +1,96 @@
+{
+  "word": "rid",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪd/",
+        "audio": "data/audio/r/rid/rid__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪdz/",
+        "audio": "data/audio/r/rid/rids__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈrɪdɪŋ/",
+        "audio": "data/audio/r/rid/ridding__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪd/",
+        "audio": "data/audio/r/rid/rid__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪdz/",
+        "audio": "data/audio/r/rid/rids__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈrɪdɪŋ/",
+        "audio": "data/audio/r/rid/ridding__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "rid",
+      "heSheIt": "rids"
+    },
+    "pastSimple": "rid",
+    "pastParticiple": "rid",
+    "ingForm": "ridding"
+  },
+  "definitions": [
+    {
+      "definition": "to be free of somebody/something that has been annoying you or that you do not want",
+      "labels": "(formal)(British English)",
+      "examples": [
+        {
+          "text": "She wanted to be rid of her parents and their authority."
+        },
+        {
+          "text": "I was glad to be rid of the car when I finally sold it."
+        },
+        {
+          "text": "He was a nuisance and we're all **well rid of** him *(= we'll be much better without him)*."
+        }
+      ]
+    },
+    {
+      "definition": "to make yourself free of somebody/something that is annoying you or that you do not want; to throw something away",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Try and get rid of your visitors before I get there."
+        },
+        {
+          "text": "The problem is getting rid of nuclear waste."
+        },
+        {
+          "text": "I can't get rid of this headache."
+        },
+        {
+          "text": "We got rid of all the old furniture."
+        }
+      ]
+    },
+    {
+      "definition": "to want to be free of somebody/something that has been annoying you or that you do not want",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "Are you trying to say you want rid of me?"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old Norse rythja. The original sense ‘to clear’ described clearing land of trees and undergrowth; this gave rise to ‘free from rubbish or encumbrances’, later becoming generalized."
+}

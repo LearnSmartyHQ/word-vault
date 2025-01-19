@@ -1,0 +1,58 @@
+{
+  "word": "during",
+  "partOfSpeech": "preposition",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdjʊərɪŋ/",
+        "audio": "data/audio/d/during/during__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdʊrɪŋ/",
+        "audio": "data/audio/d/during/during__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "all through a period of time",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "during the 1990s"
+        },
+        {
+          "text": "There are extra flights to Colorado during the winter."
+        },
+        {
+          "text": "Please remain seated during the performance."
+        }
+      ],
+      "topics": ["Time"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "at some point in a period of time",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He was taken to the hospital during the night."
+        },
+        {
+          "text": "I only saw her once during my stay in Rome."
+        }
+      ],
+      "topics": ["Time"]
+    }
+  ],
+  "wordOrigin": "late Middle English: present participle of the obsolete verb dure ‘last, endure, extend’, via Old French from Latin durare ‘to last’, from durus ‘hard’."
+}

@@ -1,0 +1,332 @@
+{
+  "word": "pick",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pɪk/",
+        "audio": "data/audio/p/pick/pick__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pɪks/",
+        "audio": "data/audio/p/pick/picks__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pɪkt/",
+        "audio": "data/audio/p/pick/picked__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈpɪkɪŋ/",
+        "audio": "data/audio/p/pick/picking__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pɪk/",
+        "audio": "data/audio/p/pick/pick__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pɪks/",
+        "audio": "data/audio/p/pick/picks__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pɪkt/",
+        "audio": "data/audio/p/pick/picked__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈpɪkɪŋ/",
+        "audio": "data/audio/p/pick/picking__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "pick",
+      "heSheIt": "picks"
+    },
+    "pastSimple": "picked",
+    "pastParticiple": "picked",
+    "ingForm": "picking"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to choose somebody/something from a group of people or things",
+      "sensetop": "pick somebody/somethingpick somebody/something to do somethingpick somebody/something for somethingpick somebody/something as something",
+      "labels": "(rather informal)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Pick a number from one to twenty.",
+          "contextForm": "pick somebody/something"
+        },
+        {
+          "text": "They are **picking the **final **team **this weekend."
+        },
+        {
+          "text": "It's time to pick a side *(= decide who you support)*."
+        },
+        {
+          "text": "He picked his words carefully."
+        },
+        {
+          "text": "At the beach we **picked a spot** to sit down."
+        },
+        {
+          "text": "He has been picked to play in this week's game.",
+          "contextForm": "pick somebody/something to do something"
+        },
+        {
+          "text": "Have you been picked for the team?",
+          "contextForm": "pick somebody/something for something"
+        },
+        {
+          "text": "It was picked as the best film in the competition.",
+          "contextForm": "pick somebody/something as something"
+        },
+        {
+          "text": "Companies want to pick the best candidates for the job."
+        },
+        {
+          "text": "There are so many good ones it's hard to pick a favourite."
+        },
+        {
+          "text": "They picked Jane as the captain."
+        },
+        {
+          "text": "She picked the best cake for herself."
+        },
+        {
+          "text": "Have I picked a bad time to talk to you?"
+        }
+      ],
+      "topics": ["Preferences and decisions"],
+      "collocations": {
+        "adverb": ["at random", "randomly", "out"],
+        "preposition": ["as", "for"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to take flowers, fruit, etc. from the plant or the tree where they are growing",
+      "sensetop": "pick something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to pick grapes/strawberries/cotton"
+        },
+        {
+          "text": "flowers freshly picked from the garden"
+        },
+        {
+          "text": "The common was a great place to go blackberry picking."
+        },
+        {
+          "text": "They picked some flowers and arranged them into a beautiful bouquet."
+        },
+        {
+          "text": "freshly picked strawberries"
+        }
+      ],
+      "topics": ["Farming"],
+      "collocations": {
+        "phrases": ["freshly picked"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to pull or remove something or small pieces of something from something else, especially with your fingers",
+      "sensetop": "pick something + adv./prep.pick somethingpick something + adj.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She picked bits of fluff from his sweater.",
+          "contextForm": "pick something + adv./prep."
+        },
+        {
+          "text": "He picked the nuts off the top of the cake."
+        },
+        {
+          "text": "Names were picked at random out of a hat."
+        },
+        {
+          "text": "to **pick your nose** *(= put your finger inside your nose to remove dried )",
+          "contextForm": "pick something"
+        },
+        {
+          "text": "to **pick your teeth** *(= use a small sharp piece of wood or plastic to remove pieces of food from your teeth)*"
+        },
+        {
+          "text": "The dogs picked the bones clean *(= ate all the meat from the bones)*.",
+          "contextForm": "pick something + adj."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to play a musical instrument, especially a guitar, by pulling the strings with your fingers",
+      "sensetop": "pick (something)",
+      "labels": "(North American English)British and North American English",
+      "examples": []
+    },
+    {
+      "definition": "to be angry with somebody about something and want to discuss it with them",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to choose only those things that you like or want very much",
+      "examples": [
+        {
+          "text": "You have to take any job you can get—you can't pick and choose."
+        }
+      ],
+      "topics": ["Preferences and decisions"]
+    },
+    {
+      "definition": "to ask somebody a lot of questions about something because they know more about the subject than you do",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "I need to pick your brains: what can you tell me about credit unions?"
+        }
+      ]
+    },
+    {
+      "definition": "to deliberately start a fight or an argument with somebody",
+      "examples": [
+        {
+          "text": "He had drunk too much and was ready to pick a fight with anyone who crossed his path."
+        },
+        {
+          "text": "She tried to pick a quarrel with me."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "definition": "to find the weak points in something such as a plan, suggestion, etc.",
+      "examples": [
+        {
+          "text": "It was easy to pick holes in his arguments."
+        }
+      ]
+    },
+    {
+      "definition": "to open a lock without a key, using something such as a piece of wire",
+      "examples": [
+        {
+          "text": "The burglars must have picked the lock on the back door."
+        }
+      ]
+    },
+    {
+      "definition": "to steal something from somebody’s pocket without them noticing",
+      "examples": [
+        {
+          "text": "The back pocket on a pair of jeans is the easiest one to pick."
+        }
+      ],
+      "topics": ["Crime and punishment"]
+    },
+    {
+      "definition": "to criticize somebody, or their work or ideas, very severely",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to criticize somebody, or their work or ideas, very severely",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Their case was torn to shreds by the defence lawyer."
+        }
+      ]
+    },
+    {
+      "definition": "to pay for something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The company picked up the tab for his hotel room."
+        },
+        {
+          "text": "The government will continue to pick up college fees for some students."
+        }
+      ]
+    },
+    {
+      "definition": "to return or to help somebody return to a normal situation, particularly after a shock or a disaster",
+      "examples": [
+        {
+          "text": "You cannot live your children's lives for them; you can only be there to pick up the pieces when things go wrong."
+        }
+      ]
+    },
+    {
+      "definition": "to go faster",
+      "examples": [
+        {
+          "text": "The train began to pick up speed."
+        }
+      ]
+    },
+    {
+      "definition": "to return to an earlier situation or way of life after a period doing something else",
+      "examples": []
+    },
+    {
+      "definition": "to walk carefully, choosing the safest, driest, etc. place to put your feet",
+      "examples": [
+        {
+          "text": "She picked her way delicately over the rough ground."
+        },
+        {
+          "text": "We picked our way carefully over the jagged rocks."
+        }
+      ]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to choose a horse, etc. that you think is most likely to win a race",
+      "examples": [
+        {
+          "text": "He's very good at picking winners."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make a very good choice",
+      "labels": "(informal)",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Preferences and decisions"]
+    },
+    {
+      "definition": "offering somebody an ideal opportunity to gain an advantage",
+      "examples": [
+        {
+          "text": "This is an opportunity ripe for the picking."
+        },
+        {
+          "text": "The Raiders' defense is ripe for the picking."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "verb Middle English (earlier as pike, which continues in dialect use): of unknown origin. Compare with Dutch pikken ‘pick, peck’, and German picken ‘peck, puncture’, also with French piquer ‘to prick’."
+}

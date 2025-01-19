@@ -1,0 +1,69 @@
+{
+  "word": "burden",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈbɜːdn/",
+        "audio": "data/audio/b/burden/burden__gb_5.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈbɜːrdn/",
+        "audio": "data/audio/b/burden/burden__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a duty, responsibility, etc. that causes worry, difficulty or hard work",
+      "sensetop": "the burden (of something)burden on somebodya burden to somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "to **bear/carry/ease/reduce/share the burden**"
+        },
+        {
+          "text": "The main burden of caring for old people falls on the state.",
+          "contextForm": "the burden (of something)"
+        },
+        {
+          "text": "the heavy tax burden on working people",
+          "contextForm": "burden on somebody"
+        },
+        {
+          "text": "I don't want to become a burden to my children when I'm old.",
+          "contextForm": "a burden to somebody"
+        }
+      ],
+      "topics": ["Difficulty and failure"],
+      "collocations": {
+        "adjective": ["enormous", "great", "heavy"],
+        "verb + burden": ["bear", "carry", "assume"],
+        "burden + verb": ["fall on somebody/​something"],
+        "preposition": ["burden for", "burden of", "burden on"],
+        "phrases": [
+          "the burden of proof",
+          "have a burden on your shoulders",
+          "the burden of doing something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a heavy load that is difficult to carry",
+      "labels": "(formal)",
+      "examples": [],
+      "collocations": {
+        "verb + burden": ["carry", "pick up", "lay down"],
+        "phrases": ["a beast of burden"]
+      }
+    }
+  ],
+  "wordOrigin": "Old English byrthen, of West Germanic origin; related to the verb bear."
+}

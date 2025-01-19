@@ -1,0 +1,754 @@
+{
+  "word": "find",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/faɪnd/",
+        "audio": "data/audio/f/find/find__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/faɪndz/",
+        "audio": "data/audio/f/find/finds__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/faʊnd/",
+        "audio": "data/audio/f/find/found__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfaɪndɪŋ/",
+        "audio": "data/audio/f/find/finding__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/faɪnd/",
+        "audio": "data/audio/f/find/find__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/faɪndz/",
+        "audio": "data/audio/f/find/finds__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/faʊnd/",
+        "audio": "data/audio/f/find/found__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfaɪndɪŋ/",
+        "audio": "data/audio/f/find/finding__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "find",
+      "heSheIt": "finds"
+    },
+    "pastSimple": "found",
+    "pastParticiple": "found",
+    "ingForm": "finding"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to discover somebody/something unexpectedly or by chance",
+      "sensetop": "find somebody/somethingfind somebody/something + adj.",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Look what I've found!",
+          "contextForm": "find somebody/something"
+        },
+        {
+          "text": "We've found a great new restaurant near the office."
+        },
+        {
+          "text": "A whale was found washed up on the shore.",
+          "contextForm": "find somebody/something + adj."
+        },
+        {
+          "text": "They found a car abandoned on top of the cliff."
+        },
+        {
+          "text": "I've found a really good healthy eating blog."
+        },
+        {
+          "text": "She found a beautiful shell on the beach."
+        },
+        {
+          "text": "If you found £20 in the street, would you hand it in?"
+        },
+        {
+          "text": "I think I've found a friend."
+        },
+        {
+          "text": "It's so good when you find someone you can talk to."
+        },
+        {
+          "text": "We went out hoping to find something to eat."
+        },
+        {
+          "text": "Police found weapons in the house."
+        },
+        {
+          "text": "Coins found at the site are thought to be from Anglo-Saxon times."
+        },
+        {
+          "text": "Letters found among his belongings may hold a clue."
+        },
+        {
+          "text": "She made the sculpture with materials found near her home."
+        },
+        {
+          "text": "He seemed to have a knack of finding women to look after him."
+        },
+        {
+          "text": "I never expected to find love at this point in my life."
+        },
+        {
+          "text": "I didn't expect to come home and find him gone."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to get back something/somebody that was lost after searching for it/them",
+      "sensetop": "find somebody/somethingfind something for somebodyfind somebody somethingfind somebody/something + adj.",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I **can't find** my keys.",
+          "contextForm": "find somebody/something"
+        },
+        {
+          "text": "I thought I'd lost my wallet but I found it under my desk."
+        },
+        {
+          "text": "I wanted to talk to him but he was **nowhere to be found**."
+        },
+        {
+          "text": "Can you find my bag for me?",
+          "contextForm": "find something for somebody"
+        },
+        {
+          "text": "Can you find me my bag?",
+          "contextForm": "find somebody something"
+        },
+        {
+          "text": "The child was eventually found safe and well.",
+          "contextForm": "find somebody/something + adj."
+        },
+        {
+          "text": "I'm trying to find my glasses."
+        },
+        {
+          "text": "I eventually found them under the bed."
+        },
+        {
+          "text": "She found the remote control down the back of the sofa."
+        },
+        {
+          "text": "Found it! I've been looking for this for weeks!"
+        },
+        {
+          "text": "Can you help me find my dog?"
+        },
+        {
+          "text": "A reward is offered for whoever finds him."
+        },
+        {
+          "text": "Josh found my earring for me."
+        },
+        {
+          "text": "I'll find you your coat."
+        },
+        {
+          "text": "The search party found no trace of the missing climbers."
+        },
+        {
+          "text": "He went through the drawers but found nothing."
+        },
+        {
+          "text": "He was found by police the following morning."
+        },
+        {
+          "text": "His body was found after three days of searching."
+        },
+        {
+          "text": "They don't expect to find him alive."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to discover something/somebody by searching, studying or thinking carefully",
+      "sensetop": "find something/somebodyfind something for somebodyfind somebody something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They **found** no **evidence** to support this claim.",
+          "contextForm": "find something/somebody"
+        },
+        {
+          "text": "We **found a way** out."
+        },
+        {
+          "text": "I managed to **find a solution** to the problem."
+        },
+        {
+          "text": "Our website is the place to **find answers** to all your questions."
+        },
+        {
+          "text": "He's struggling to **find work**."
+        },
+        {
+          "text": "Scientists are still **trying to find** a cure for cancer."
+        },
+        {
+          "text": "I'm having trouble finding anything new to say on this subject."
+        },
+        {
+          "text": "Have they found anyone to replace her yet?"
+        },
+        {
+          "text": "It's **hard to find** a babysitter."
+        },
+        {
+          "text": "I'll find that information for you.",
+          "contextForm": "find something for somebody"
+        },
+        {
+          "text": "I'll find you that information.",
+          "contextForm": "find somebody something"
+        },
+        {
+          "text": "His father **found** him **a job**."
+        },
+        {
+          "text": "They're trying to find a place to stay."
+        },
+        {
+          "text": "Can you find a hotel for me?"
+        },
+        {
+          "text": "Can you find me a hotel?"
+        },
+        {
+          "text": "We found some evidence of harmful effects."
+        },
+        {
+          "text": "Scientists have found fresh evidence to suggest that a huge explosion led to the death of the dinosaurs."
+        },
+        {
+          "text": "No links were found between the two cases."
+        },
+        {
+          "text": "Students are given ten questions and have one minute to find the answers."
+        },
+        {
+          "text": "The beetles have found a warm place to live."
+        },
+        {
+          "text": "At last we've found a home."
+        },
+        {
+          "text": "He needs to find a doctor willing to treat him."
+        },
+        {
+          "text": "Her friends wanted to find her a husband."
+        },
+        {
+          "text": "She had to find a valid excuse for leaving the room."
+        },
+        {
+          "text": "We need to find a useful role for the volunteers in the campaign."
+        },
+        {
+          "text": "We'll have to find an alternative."
+        },
+        {
+          "text": "Police are confident of finding the killers."
+        },
+        {
+          "text": "A window was broken and we think we've found the culprit."
+        },
+        {
+          "text": "The doctor couldn't find anything wrong with him."
+        },
+        {
+          "text": "Considerable variation was found in the terms offered by different banks."
+        },
+        {
+          "text": "Can you find a use for this old table?"
+        },
+        {
+          "text": "He sometimes struggles to find the right words."
+        },
+        {
+          "text": "I can't find anything good to say about it."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to discover that something is true after you have tried it, tested it or experienced it",
+      "sensetop": "find (that)…find somebody/something + adj.find somebody/something + nounfind somebody/something to be/do somethingit is found that…",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I find (that) it pays to be honest.",
+          "contextForm": "find (that)…"
+        },
+        {
+          "text": "A **study found** that green tea could be beneficial."
+        },
+        {
+          "text": "You'll find your opinions change as you get older."
+        },
+        {
+          "text": "We found the beds very comfortable.",
+          "contextForm": "find somebody/something + adj."
+        },
+        {
+          "text": "They found him a plausible witness.",
+          "contextForm": "find somebody/something + noun"
+        },
+        {
+          "text": "They found him to be charming.",
+          "contextForm": "find somebody/something to be/do something"
+        },
+        {
+          "text": "**Researchers found** this to be the most effective method."
+        },
+        {
+          "text": "Her blood was found to contain poison."
+        },
+        {
+          "text": "If you are found to have lied, you can be charged."
+        },
+        {
+          "text": "It was found that her blood contained poison.",
+          "contextForm": "it is found that…"
+        },
+        {
+          "text": "The report found that 30% of the firms studied had failed within a year."
+        },
+        {
+          "text": "The survey found over 80% of women had dieted in the past year."
+        },
+        {
+          "text": "People usually find their symptoms go away after a few days."
+        },
+        {
+          "text": "Readers will find the maps in the appendix very useful."
+        },
+        {
+          "text": "Here are some tips which I hope you'll find helpful."
+        },
+        {
+          "text": "Hopefully we'll find the ground a bit firmer today."
+        },
+        {
+          "text": "I found some parts of his argument hard to understand."
+        },
+        {
+          "text": "We found the whole thing a farce."
+        },
+        {
+          "text": "A poll six months ago found the opposite to be true."
+        },
+        {
+          "text": "The sample was found to contain asbestos."
+        },
+        {
+          "text": "The results were found to vary."
+        },
+        {
+          "text": "It was found that older people were more likely to agree."
+        },
+        {
+          "text": "If it is found that he's been lying, then of course that will change everything."
+        },
+        {
+          "text": "If he is found to have been lying, then of course that will change everything."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to have a particular feeling or opinion about something",
+      "sensetop": "find something + adj.find something + noun",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You may **find it hard** to accept your illness.",
+          "contextForm": "find something + adj."
+        },
+        {
+          "text": "You may find your illness hard to accept."
+        },
+        {
+          "text": "Do women **find it** more **difficult** to ask for a rise?"
+        },
+        {
+          "text": "I found the book very interesting."
+        },
+        {
+          "text": "She **finds it** a strain to meet new people.",
+          "contextForm": "find something + noun"
+        },
+        {
+          "text": "She finds meeting new people a strain."
+        },
+        {
+          "text": "I find it interesting that they don't get on."
+        },
+        {
+          "text": "You're lucky if you do a job you find interesting."
+        },
+        {
+          "text": "Do women find asking for a rise more difficult?"
+        },
+        {
+          "text": "I find it amazing that they're still together."
+        },
+        {
+          "text": "He knows that women find him attractive."
+        },
+        {
+          "text": "Some people find tall buildings beautiful; others hate them."
+        },
+        {
+          "text": "I find the whole subject fascinating."
+        },
+        {
+          "text": "We apologise if you found any of these comments offensive."
+        },
+        {
+          "text": "The news report contains images that some viewers may find disturbing."
+        },
+        {
+          "text": "She didn't find the joke very funny."
+        },
+        {
+          "text": "The company found it necessary to hire more people."
+        },
+        {
+          "text": "Do you find it acceptable that these children were left on their own?"
+        },
+        {
+          "text": "Don't you find it odd that she didn't say anything?"
+        },
+        {
+          "text": "I found it a nuisance to have to change my plans at the last minute."
+        },
+        {
+          "text": "I don't find anything wrong in him employing his relatives."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "used to say that something exists, grows, etc. somewhere",
+      "sensetop": "be found + adv./prep.find something/somebody + adv./prep.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "These flowers are found only in Africa.",
+          "contextForm": "be found + adv./prep."
+        },
+        {
+          "text": "Further details can be found on our website."
+        },
+        {
+          "text": "You'll find this style of architecture all over the town.",
+          "contextForm": "find something/somebody + adv./prep."
+        },
+        {
+          "text": "Find us at www.oup.com."
+        },
+        {
+          "text": "These pests can be found in almost every garden."
+        },
+        {
+          "text": "Folacin is a B vitamin found in many vegetables."
+        },
+        {
+          "text": "The college offers cultural events not normally found in such a rural area."
+        },
+        {
+          "text": "This is over 100 times the amount of chlorine found in drinking water."
+        },
+        {
+          "text": "Marbling is the small flecks of fat found within meat."
+        },
+        {
+          "text": "You will find all this information on our website."
+        },
+        {
+          "text": "Early in the season you will find aphids on the upper leaves."
+        },
+        {
+          "text": "The white clay found at Meissen was used to make fine china."
+        },
+        {
+          "text": "The condition is most typically found among women over 50."
+        },
+        {
+          "text": "At this time of year you will generally find her in the garden."
+        },
+        {
+          "text": "At this time of year she is generally to be found in the garden."
+        },
+        {
+          "text": "It is rare that you find a cable snapping for no reason."
+        },
+        {
+          "text": "You don't tend to find many fresh food markets here."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to discover somebody/something/yourself doing something or in a particular situation, especially when this is unexpected",
+      "sensetop": "find somebody/something/yourself + adv./prep.find somebody/something/yourself + adj.find somebody/something/yourself doing somethingfind (that)…",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She woke up and found herself in a hospital bed.",
+          "contextForm": "find somebody/something/yourself + adv./prep."
+        },
+        {
+          "text": "I found the house in a mess."
+        },
+        {
+          "text": "We came home and found him asleep on the sofa.",
+          "contextForm": "find somebody/something/yourself + adj."
+        },
+        {
+          "text": "I found myself forced to act."
+        },
+        {
+          "text": "He looked up to find her watching him.",
+          "contextForm": "find somebody/something/yourself doing something"
+        },
+        {
+          "text": "I suddenly found myself running down the street."
+        },
+        {
+          "text": "She was **surprised to find** that everyone had left.",
+          "contextForm": "find (that)…"
+        },
+        {
+          "text": "I found myself in a dilemma."
+        },
+        {
+          "text": "The institutions in which these people often found themselves were very harsh."
+        },
+        {
+          "text": "We arrived to find the room full of people."
+        },
+        {
+          "text": "They found the building completely deserted."
+        },
+        {
+          "text": "We find ourselves unable to reach a decision."
+        },
+        {
+          "text": "She was found dead in her bed."
+        },
+        {
+          "text": "I found everyone else already waiting."
+        },
+        {
+          "text": "They were surprised to find birds nesting in the roof."
+        },
+        {
+          "text": "I found him in the kitchen chopping vegetables."
+        },
+        {
+          "text": "I found him going through my stuff."
+        },
+        {
+          "text": "I found myself wondering why."
+        },
+        {
+          "text": "She found herself feeling slightly annoyed."
+        },
+        {
+          "text": "I was disappointed to find that they had left already."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to have something available so that you can use it",
+      "sensetop": "find something",
+      "examples": [
+        {
+          "text": "I keep meaning to write, but never seem to find (the) time."
+        },
+        {
+          "text": "How are we going to find £10  000 for a car?"
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to show a quality in yourself, usually with an effort",
+      "sensetop": "find something",
+      "examples": [
+        {
+          "text": "I found the courage to speak."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to arrive at something naturally; to reach something/somebody",
+      "sensetop": "find something/somebody",
+      "examples": [
+        {
+          "text": "Water will always find its own level."
+        },
+        {
+          "text": "Most of the money **finds its way** to the people who need it."
+        },
+        {
+          "text": "The criticism found its mark *(= had the effect intended)*."
+        },
+        {
+          "text": "I hope this letter finds you in good health."
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to make a particular decision in a court case",
+      "sensetop": "find somebody + adj.find in somebody’s favour",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The jury **found him guilty**.",
+          "contextForm": "find somebody + adj."
+        },
+        {
+          "text": "How do you find the accused?"
+        },
+        {
+          "text": "The court found in her favour.",
+          "contextForm": "find in somebody’s favour"
+        }
+      ],
+      "topics": ["Law and justice", "Preferences and decisions"]
+    },
+    {
+      "definition": "with free food and accommodation in addition to your wages",
+      "labels": "(old-fashioned, British English)",
+      "examples": []
+    },
+    {
+      "definition": "to look for and discover mistakes in somebody/something; to complain about somebody/something",
+      "examples": [
+        {
+          "text": "My mother did nothing but find fault with my manners."
+        },
+        {
+          "text": "My boss finds fault with everything I do."
+        }
+      ]
+    },
+    {
+      "definition": "to become able to act independently and with confidence",
+      "examples": [
+        {
+          "text": "I only recently joined the firm so I'm still finding my feet."
+        }
+      ]
+    },
+    {
+      "definition": "to be able or willing to do something",
+      "labels": "(literary)",
+      "examples": [
+        {
+          "text": "Can you find it in your heart to forgive her?"
+        },
+        {
+          "text": "He couldn't find it in himself to trust anyone again."
+        }
+      ]
+    },
+    {
+      "definition": "to meet somebody who is equal to or even better than you in strength, skill or intelligence",
+      "examples": [
+        {
+          "text": "He thought he could beat anyone at chess but he’s met his match in Peter."
+        },
+        {
+          "text": "I think he's finally met his match in Lisa."
+        },
+        {
+          "text": "She knew she had met her match and tried to retreat."
+        }
+      ]
+    },
+    {
+      "definition": "to be able to speak or express your opinion",
+      "examples": [],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "definition": "to discover the right route (to a place)",
+      "examples": [
+        {
+          "text": "I hope you can find your way home."
+        }
+      ]
+    },
+    {
+      "definition": "to come to a place or a situation by chance or without intending to",
+      "examples": [
+        {
+          "text": "He eventually found his way into acting."
+        }
+      ]
+    },
+    {
+      "definition": "impossible for anyone to find or see",
+      "examples": [
+        {
+          "text": "I wanted to talk to him but he was **nowhere to be found**."
+        },
+        {
+          "text": "The children were nowhere to be seen."
+        },
+        {
+          "text": "A peace settlement is nowhere in sight *(= is not likely in the near future)*."
+        }
+      ]
+    },
+    {
+      "definition": "to accept somebody as they are without expecting them to behave in a special way or have special qualities",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Old English findan, of Germanic origin; related to Dutch vinden and German finden."
+}

@@ -1,0 +1,403 @@
+{
+  "word": "mean",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/miːn/",
+        "audio": "data/audio/m/mean/mean__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/miːnz/",
+        "audio": "data/audio/m/mean/means__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ment/",
+        "audio": "data/audio/m/mean/meant__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈmiːnɪŋ/",
+        "audio": "data/audio/m/mean/meaning__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/miːn/",
+        "audio": "data/audio/m/mean/mean__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/miːnz/",
+        "audio": "data/audio/m/mean/means__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ment/",
+        "audio": "data/audio/m/mean/meant__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈmiːnɪŋ/",
+        "audio": "data/audio/m/mean/meaning__us_3.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "mean",
+      "heSheIt": "means"
+    },
+    "pastSimple": "meant",
+    "pastParticiple": "meant",
+    "ingForm": "meaning"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to have something as a meaning in the same or another language",
+      "sensetop": "mean something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "What does this sentence mean?",
+          "contextForm": "mean something"
+        },
+        {
+          "text": "What does ‘lark’ mean?"
+        },
+        {
+          "text": "The word ‘Kuching’ means ‘cat’ in Malay."
+        },
+        {
+          "text": "Many languages use a single word to mean both music and dance."
+        },
+        {
+          "text": "**What is meant by** ‘batch processing’?"
+        },
+        {
+          "text": "‘Parcours’ is a French word meaning the route or the journey."
+        },
+        {
+          "text": "‘Zavod’ is usually translated as ‘The Iron Foundry’, though the word means simply ‘factory’ or ‘work’."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to have something as a meaning; to represent something",
+      "sensetop": "mean something by somethingmean something to somebodymean (that)…mean something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "What do we mean by democracy?",
+          "contextForm": "mean something by something"
+        },
+        {
+          "text": "Does the name ‘Jos Vos’ **mean anything to you** *(= do you know who he is)*?",
+          "contextForm": "mean something to somebody"
+        },
+        {
+          "text": "The flashing light means (that) you must stop.",
+          "contextForm": "mean (that)…"
+        },
+        {
+          "text": "The Olympics have **come to mean** a wide variety of things.",
+          "contextForm": "mean something"
+        },
+        {
+          "text": "Convenience means different things to different customers."
+        },
+        {
+          "text": "Too often impressionism is taken to mean gazing through a soft-focus lens."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to intend to say something on a particular occasion",
+      "sensetop": "mean something by somethingmean somethingmean (that)…",
+      "labels": "(informal)(informal)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "What did he mean by that remark?",
+          "contextForm": "mean something by something"
+        },
+        {
+          "text": "‘Perhaps we should try another approach.’ ‘**What do you mean?** *(= I don't understand what you are suggesting.)*’",
+          "contextForm": "mean something"
+        },
+        {
+          "text": "‘**What's that supposed to mean?**’ demanded John."
+        },
+        {
+          "text": "**What do you mean**, you thought I wouldn't mind? *(= of course I mind and I am very angry)*"
+        },
+        {
+          "text": "**What she means is** that there's no point in waiting here."
+        },
+        {
+          "text": "I always found him a little strange, **if you know what I mean** *(= if you understand what I mean by ‘strange’)*."
+        },
+        {
+          "text": "**I know what you mean** *(= I understand and feel sympathy)*. I hated learning to drive too."
+        },
+        {
+          "text": "It was like—weird. **Know what I mean?**"
+        },
+        {
+          "text": "**I see what you mean** *(= I understand although I may not agree)*, but I still think it's worth trying."
+        },
+        {
+          "text": "**See what I mean** *(= I was right and this proves it, doesn't it)*? She never agrees to anything I suggest."
+        },
+        {
+          "text": "‘But Pete doesn't know we're here!’ ‘**That's what I mean!** *(= that's what I have been trying to tell you.)*’"
+        },
+        {
+          "text": "Do you mean Ann Smith or Mary Smith?"
+        },
+        {
+          "text": "Did he mean (that) he was dissatisfied with our service?",
+          "contextForm": "mean (that)…"
+        },
+        {
+          "text": "**You mean** *(= are you telling me)* we have to start all over again?"
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to have something as a purpose or intention",
+      "sensetop": "mean somethingmean something as somethingmean what…mean something for somebody/somethingmean to do somethingmean somebody/something to do somethingmean (that)…",
+      "labels": "(formal)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**What did she mean by** leaving so early *(= why did she do it)*?",
+          "contextForm": "mean something"
+        },
+        {
+          "text": "Don't laugh! **I mean it** *(= I am serious)*."
+        },
+        {
+          "text": "He **means trouble** *(= to cause trouble)*."
+        },
+        {
+          "text": "Don't be upset—I'm sure she meant it as a compliment.",
+          "contextForm": "mean something as something"
+        },
+        {
+          "text": "He **means what he says** *(= is not joking, exaggerating, etc.)*.",
+          "contextForm": "mean what…"
+        },
+        {
+          "text": "The chair was clearly meant for a child.",
+          "contextForm": "mean something for somebody/something"
+        },
+        {
+          "text": "Don't be angry. I'm sure she **meant it for the best** *(= intended to be helpful)*."
+        },
+        {
+          "text": "She means to succeed.",
+          "contextForm": "mean to do something"
+        },
+        {
+          "text": "I'm sorry I hurt you. **I didn't mean to**."
+        },
+        {
+          "text": "I'm feeling very guilty—**I've been meaning** to call my parents for days, but still haven't got around to it."
+        },
+        {
+          "text": "I didn't mean you to read the letter.",
+          "contextForm": "mean somebody/something to do something"
+        },
+        {
+          "text": "**You're meant to** *(= you are supposed to)* pay before you go in."
+        },
+        {
+          "text": "I never meant (that) you should come alone.",
+          "contextForm": "mean (that)…"
+        },
+        {
+          "text": "What do you mean by that?"
+        },
+        {
+          "text": "I didn't mean to read your letter."
+        },
+        {
+          "text": "The house was clearly meant to be a family home."
+        },
+        {
+          "text": "There was a rack by the door presumably meant for umbrellas."
+        },
+        {
+          "text": "They are not using the system in the way the manufacturer meant it to be used."
+        }
+      ],
+      "synonyms": "intend"
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to have something as a result or a likely result",
+      "sensetop": "mean somethingmean to be/do somethingmean (that)…mean doing somethingmean somebody/something doing something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Spending too much now will mean a shortage of cash next year.",
+          "contextForm": "mean something"
+        },
+        {
+          "text": "Being frugal **doesn't necessarily mean** doing without."
+        },
+        {
+          "text": "Lower energy consumption means less pollution."
+        },
+        {
+          "text": "Touching the wires means instant death."
+        },
+        {
+          "text": "Do you have any idea **what it means to** be poor?",
+          "contextForm": "mean to be/do something"
+        },
+        {
+          "text": "We’ll have to be careful with money but **that doesn’t mean** (that) we can’t enjoy ourselves.",
+          "contextForm": "mean (that)…"
+        },
+        {
+          "text": "This new order will mean working overtime.",
+          "contextForm": "mean doing something"
+        },
+        {
+          "text": "The injury could mean him missing next week's game.",
+          "contextForm": "mean somebody/something doing something"
+        },
+        {
+          "text": "High unemployment means people are spending less."
+        },
+        {
+          "text": "Mr President, does this mean an end to the current conflict?"
+        },
+        {
+          "text": "The cost would have meant financial ruin for us."
+        },
+        {
+          "text": "Good civic planning means more green space."
+        },
+        {
+          "text": "Rural life meant having to draw water from a well every day."
+        }
+      ],
+      "topics": ["Change, cause and effect"]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to be of value or importance to somebody",
+      "sensetop": "mean something to somebody",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Your friendship means a great deal to me."
+        },
+        {
+          "text": "$20 **means a lot** *(= represents a lot of money)* when you live on $100 a week."
+        },
+        {
+          "text": "Money **means nothing to him**."
+        },
+        {
+          "text": "Her children **mean the world to her**."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to intend somebody to be or do something",
+      "sensetop": "be meant for something/somebodymean somebody/something to be something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I **was never meant for** the army *(= did not have the qualities needed to become a soldier)*.",
+          "contextForm": "be meant for something/somebody"
+        },
+        {
+          "text": "Duncan and Makiko **were meant for each other** *(= are very suitable as partners)*."
+        },
+        {
+          "text": "His father meant him to be an engineer.",
+          "contextForm": "mean somebody/something to be something"
+        },
+        {
+          "text": "She did everything to get the two of them together, but I guess it just wasn't **meant to be**."
+        }
+      ]
+    },
+    {
+      "definition": "to be generally considered to be something",
+      "examples": [
+        {
+          "text": "This restaurant is meant to be excellent."
+        }
+      ]
+    },
+    {
+      "definition": "used to explain or correct what you have just said",
+      "labels": "(informal)",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "It was so boring—I mean, nothing happened for the first hour!"
+        },
+        {
+          "text": "She's English—Scottish, I mean."
+        }
+      ]
+    },
+    {
+      "definition": "to be serious in your intentions",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "He has the look of a man who means business."
+        },
+        {
+          "text": "He says he's going to make changes, and I think he means business."
+        }
+      ]
+    },
+    {
+      "definition": "to not have any intention of hurting somebody",
+      "examples": []
+    },
+    {
+      "definition": "used to emphasize what you are saying or to ask somebody if they really mean what they say",
+      "examples": [
+        {
+          "text": "I mean to say, you should have known how he would react!"
+        },
+        {
+          "text": "Do you mean to say you've lost it?"
+        }
+      ]
+    },
+    {
+      "definition": "to have good intentions, although their effect may not be good",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "verb Old English mænan, of West Germanic origin; related to Dutch meenen and German meinen, from an Indo-European root shared by mind."
+}

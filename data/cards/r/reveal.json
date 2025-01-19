@@ -1,0 +1,169 @@
+{
+  "word": "reveal",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈviːl/",
+        "audio": "data/audio/r/reveal/reveal__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈviːlz/",
+        "audio": "data/audio/r/reveal/reveals__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈviːld/",
+        "audio": "data/audio/r/reveal/revealed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈviːlɪŋ/",
+        "audio": "data/audio/r/reveal/revealing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈviːl/",
+        "audio": "data/audio/r/reveal/reveal__us_5.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈviːlz/",
+        "audio": "data/audio/r/reveal/reveals__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈviːld/",
+        "audio": "data/audio/r/reveal/revealed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈviːlɪŋ/",
+        "audio": "data/audio/r/reveal/revealing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "reveal",
+      "heSheIt": "reveals"
+    },
+    "pastSimple": "revealed",
+    "pastParticiple": "revealed",
+    "ingForm": "revealing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make something known to somebody",
+      "sensetop": "reveal somethingreveal something to somebodyreveal (that)…it is revealed that…reveal how, what, etc…reveal somebody/something to be/have somethingreveal somebody/something as something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **reveal a secret**",
+          "contextForm": "reveal something"
+        },
+        {
+          "text": "Her expression revealed nothing."
+        },
+        {
+          "text": "A series of flashbacks **reveal the details** of the tragedy."
+        },
+        {
+          "text": "The **identity** of the buyer has not **been revealed**."
+        },
+        {
+          "text": "The survey reveals some worrying statistics."
+        },
+        {
+          "text": "The doctors did not **reveal the truth** to him.",
+          "contextForm": "reveal something to somebody"
+        },
+        {
+          "text": "The report reveals that the company made a loss of £20 million last year.",
+          "contextForm": "reveal (that)…"
+        },
+        {
+          "text": "It was revealed that important evidence had been suppressed.",
+          "contextForm": "it is revealed that…"
+        },
+        {
+          "text": "Officers could not reveal how he died.",
+          "contextForm": "reveal how, what, etc…"
+        },
+        {
+          "text": "Salted peanuts were recently revealed to be the nation's favourite snack.",
+          "contextForm": "reveal somebody/something to be/have something"
+        },
+        {
+          "text": "He has been revealed as a traitor.",
+          "contextForm": "reveal somebody/something as something"
+        },
+        {
+          "text": "Salted peanuts were recently revealed as the nation’s favourite snack."
+        },
+        {
+          "text": "I'm afraid I cannot reveal any more details at the moment."
+        },
+        {
+          "text": "She refused to reveal the whereabouts of her husband."
+        },
+        {
+          "text": "She would not reveal her true identity to the police."
+        },
+        {
+          "text": "One of the oldest people in Britain has revealed her secret: a drop of brandy in her tea."
+        },
+        {
+          "text": "Wilde is revealed as a man of great intelligence, dignity and wit."
+        },
+        {
+          "text": "Details of the murder were revealed by the local paper."
+        }
+      ],
+      "synonyms": "disclose"
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to show something that previously could not be seen",
+      "sensetop": "reveal somethingreveal yourself",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He laughed, revealing a line of white teeth.",
+          "contextForm": "reveal something"
+        },
+        {
+          "text": "The door opened to reveal a cosy little room."
+        },
+        {
+          "text": "X-rays revealed a fracture."
+        },
+        {
+          "text": "Excavations at these sites have revealed impressive stone structures."
+        },
+        {
+          "text": "She crouched in the dark, too frightened to reveal herself.",
+          "contextForm": "reveal yourself"
+        },
+        {
+          "text": "A thorough search failed to reveal the murder weapon."
+        },
+        {
+          "text": "The door swung open to reveal a tall, gaunt figure."
+        }
+      ],
+      "synonyms": "display"
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French reveler or Latin revelare, from re- ‘again’ (expressing reversal) + velum ‘veil’."
+}

@@ -1,0 +1,73 @@
+{
+  "word": "vaccinate",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈvæksɪneɪt/",
+        "audio": "data/audio/v/vaccinate/vaccinate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈvæksɪneɪts/",
+        "audio": "data/audio/v/vaccinate/vaccinates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈvæksɪneɪtɪd/",
+        "audio": "data/audio/v/vaccinate/vaccinated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈvæksɪneɪtɪŋ/",
+        "audio": "data/audio/v/vaccinate/vaccinating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈvæksɪneɪt/",
+        "audio": "data/audio/v/vaccinate/vaccinate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈvæksɪneɪts/",
+        "audio": "data/audio/v/vaccinate/vaccinates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈvæksɪneɪtɪd/",
+        "audio": "data/audio/v/vaccinate/vaccinated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈvæksɪneɪtɪŋ/",
+        "audio": "data/audio/v/vaccinate/vaccinating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "vaccinate",
+      "heSheIt": "vaccinates"
+    },
+    "pastSimple": "vaccinated",
+    "pastParticiple": "vaccinated",
+    "ingForm": "vaccinating"
+  },
+  "definitions": [
+    {
+      "definition": "to give a person or an animal a vaccine, especially by injecting it, in order to protect them against a disease",
+      "sensetop": "vaccinate somebody (against something)",
+      "labels": "(British English)(informal)(British English)(North American English)(British English)(British English)(British English)(British English)(North American English)(British English)(North American English)(British English)(British English)(British English)(North American English)(British English)(British English)",
+      "examples": [
+        {
+          "text": "I was vaccinated against tetanus."
+        }
+      ],
+      "topics": ["Healthcare"]
+    }
+  ],
+  "wordOrigin": null
+}

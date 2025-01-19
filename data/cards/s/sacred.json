@@ -1,0 +1,79 @@
+{
+  "word": "sacred",
+  "partOfSpeech": "adjective",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈseɪkrɪd/",
+        "audio": "data/audio/s/sacred/sacred__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈseɪkrɪd/",
+        "audio": "data/audio/s/sacred/sacred__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "connected with God or a god; considered to be holy",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a sacred image/shrine/temple"
+        },
+        {
+          "text": "sacred music"
+        },
+        {
+          "text": "Cows are sacred to Hindus."
+        },
+        {
+          "text": "The place was sacred to the Apaches."
+        },
+        {
+          "text": "the feeling that all life should be held sacred"
+        },
+        {
+          "text": "a sacred image/​grove"
+        }
+      ],
+      "topics": ["Religion and festivals"],
+      "collocations": {
+        "verbs": ["be", "become", "remain"],
+        "adverb": ["absolutely", "almost"],
+        "preposition": ["to"],
+        "phrases": ["sacred and profane"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "very important and treated with great respect; that must not be changed or challenged",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Human life must always be sacred."
+        },
+        {
+          "text": "For journalists **nothing is sacred** *(= they write about anything)*."
+        },
+        {
+          "text": "Some companies offer five-year plans but there is nothing sacred about this length of time *(= it can be changed)*."
+        }
+      ],
+      "synonyms": "sacrosanct",
+      "collocations": {
+        "verbs": ["be", "become", "remain"],
+        "adverb": ["absolutely", "almost"],
+        "preposition": ["to"],
+        "phrases": ["sacred and profane"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English: past participle of archaic sacre ‘consecrate’, from Old French sacrer, from Latin sacrare, from sacer, sacr- ‘holy’."
+}

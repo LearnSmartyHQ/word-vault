@@ -1,0 +1,1010 @@
+{
+  "word": "go",
+  "partOfSpeech": "verblinking verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɡəʊ/",
+        "audio": "data/audio/g/go/go__gb_4.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɡəʊz/",
+        "audio": "data/audio/g/go/goes__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/went/",
+        "audio": "data/audio/w/go/went__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɡɒn/",
+        "audio": "data/audio/g/go/gone__gb_4.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈɡəʊɪŋ/",
+        "audio": "data/audio/g/go/going__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡəʊ/",
+        "audio": "data/audio/g/go/go__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɡəʊz/",
+        "audio": "data/audio/g/go/goes__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/went/",
+        "audio": "data/audio/w/go/went__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɡɔːn/",
+        "audio": "data/audio/g/go/gone__us_3_rr.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈɡəʊɪŋ/",
+        "audio": "data/audio/g/go/going__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "go",
+      "heSheIt": "goes"
+    },
+    "pastSimple": "went",
+    "pastParticiple": "gone",
+    "ingForm": "going"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to move or travel from one place to another",
+      "sensetop": "+ adv./prep.go to do something",
+      "labels": "North American English",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She went into her room and shut the door behind her.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "I have to go to Rome on business."
+        },
+        {
+          "text": "She has gone to China *(= is now in China or is on her way there)*."
+        },
+        {
+          "text": "She has been to China *(= she went to China and has now returned)*."
+        },
+        {
+          "text": "Are you going home for Christmas?"
+        },
+        {
+          "text": "She has gone to see her sister this weekend.",
+          "contextForm": "go to do something"
+        },
+        {
+          "text": "Could you go and get me a towel?"
+        },
+        {
+          "text": "I'm going to Spain this year."
+        },
+        {
+          "text": "It's a long way to go just to see a couple of reefs."
+        },
+        {
+          "text": "She's gone to Brazil on vacation."
+        },
+        {
+          "text": "The weather was pretty bad when we went to Boston last year."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to move or travel, especially with somebody else, to a particular place or in order to be present at an event",
+      "sensetop": "go (to something)go with somebodygo (to something) (with somebody)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Are you going to Dave's party?",
+          "contextForm": "go (to something)"
+        },
+        {
+          "text": "Who else is going?"
+        },
+        {
+          "text": "His dog goes everywhere with him.",
+          "contextForm": "go with somebody"
+        },
+        {
+          "text": "He invited her to go with him to the concert.",
+          "contextForm": "go (to something) (with somebody)"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to move or travel in a particular way or over a particular distance",
+      "sensetop": "+ adv./prep.+ noun",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He's going too fast.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "They went farther north into the mountains."
+        },
+        {
+          "text": "We had gone about fifty miles when the car broke down.",
+          "contextForm": "+ noun"
+        },
+        {
+          "text": "Slow down—you're going too fast."
+        },
+        {
+          "text": "We had gone many miles without seeing another car."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to move in a particular way or while doing something else",
+      "sensetop": "go flying, skidding, etc. (+ adv./prep.)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She crashed into a waiter and his tray of drinks went flying."
+        },
+        {
+          "text": "The car went skidding off the road into a ditch."
+        },
+        {
+          "text": "She went sobbing up the stairs."
+        },
+        {
+          "text": "I tripped and went tumbling down the stairs."
+        },
+        {
+          "text": "Don't go charging in there!"
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to leave one place in order to reach another",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I must be going now."
+        },
+        {
+          "text": "They came at six and went at nine."
+        },
+        {
+          "text": "Has she gone yet?"
+        },
+        {
+          "text": "He's been gone an hour *(= he left an hour ago)*."
+        },
+        {
+          "text": "When does the train go?"
+        },
+        {
+          "text": "After they'd gone there was an awkward silence."
+        },
+        {
+          "text": "Don't go—I want to talk to you."
+        },
+        {
+          "text": "Here's a list of things to remember before you go."
+        },
+        {
+          "text": "The train goes in a few minutes' time."
+        },
+        {
+          "text": "They went at about nine o'clock."
+        },
+        {
+          "text": "What time did they go?"
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to leave a place and do something different",
+      "sensetop": "go on something",
+      "labels": "(British English)(North American English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **go on a journey/tour/trip/cruise**"
+        },
+        {
+          "text": "Richard has gone on leave for two weeks."
+        },
+        {
+          "text": "to **go on holiday**"
+        },
+        {
+          "text": "to **go on vacation**"
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to visit or attend a place for a particular purpose",
+      "sensetop": "go to something",
+      "labels": "(British English)(North American English)(British English)(North American English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **go to school/college/university**"
+        },
+        {
+          "text": "I have to **go to hospital** for an operation."
+        },
+        {
+          "text": "I have to **go to the hospital**."
+        },
+        {
+          "text": "to **go to the cinema**"
+        },
+        {
+          "text": "to **go to the movies**"
+        },
+        {
+          "text": "to **go to prison/jail** *(= to be sent there as punishment for a crime)*"
+        },
+        {
+          "text": "He **goes to work** by bus."
+        },
+        {
+          "text": "I think you should **go to the doctor's**."
+        },
+        {
+          "text": "Do you **go to church** *(= regularly attend church services)*?"
+        },
+        {
+          "text": "I always **go to the gym** before work."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to look at a particular page or website",
+      "sensetop": "go on somethinggo to something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She went on Facebook and changed her relationship status.",
+          "contextForm": "go on something"
+        },
+        {
+          "text": "To find out what the terms mean, go to the glossary.",
+          "contextForm": "go to something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to leave a place or travel to a place in order to take part in an activity or a sport",
+      "sensetop": "go for somethinggo doing",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **go for a walk**",
+          "contextForm": "go for something"
+        },
+        {
+          "text": "to go for a ride/drive/run/swim"
+        },
+        {
+          "text": "Shall we go for a drink *(= at a pub or bar)* after work?"
+        },
+        {
+          "text": "to **go swimming/fishing/jogging**",
+          "contextForm": "go doing"
+        },
+        {
+          "text": "I have to **go shopping** this afternoon."
+        },
+        {
+          "text": "We're going sailing on Saturday."
+        },
+        {
+          "text": "We went walking on the beach."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to be sent or passed somewhere",
+      "sensetop": "+ adv./prep.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I want this memo to go to all managers."
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "used to talk about how quickly or slowly time seems to pass",
+      "sensetop": "+ adv./prep.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Hasn't the time gone quickly?"
+        },
+        {
+          "text": "Half an hour went past while we were sitting there."
+        },
+        {
+          "text": "The cruise went very quickly."
+        }
+      ],
+      "collocations": {
+        "adverb": ["quickly", "slowly", "by"]
+      }
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to stop existing; to be lost or stolen",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Has your headache gone yet?"
+        },
+        {
+          "text": "I left my bike outside the library and when I came out again it had gone."
+        }
+      ],
+      "synonyms": "disappear"
+    },
+    {
+      "senseNumber": "13",
+      "definition": "to lead or extend in a particular direction",
+      "sensetop": "+ adv./prep.go from something to something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Where does this road go?",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "The trail goes north at this point."
+        },
+        {
+          "text": "I want a rope that will go from the top window to the ground.",
+          "contextForm": "go from something to something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "14",
+      "definition": "to have as a usual or correct position; to be placed",
+      "sensetop": "+ adv./prep.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "This dictionary goes on the top shelf."
+        },
+        {
+          "text": "Where do you want the piano to go *(= be put)*?"
+        }
+      ]
+    },
+    {
+      "senseNumber": "15",
+      "definition": "used to say that something does/did not fit into a particular place or space",
+      "sensetop": "will/would not go (in/into something)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "My clothes won't all go in that one suitcase."
+        },
+        {
+          "text": "He tried to push his hand through the gap but it wouldn't go."
+        }
+      ]
+    },
+    {
+      "senseNumber": "16",
+      "definition": "used to talk about how well or badly something makes progress or succeeds",
+      "sensetop": "+ adv./prep.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "‘How did the interview go?’ ‘It **went well**, thank you.’"
+        },
+        {
+          "text": "Did everything **go smoothly**?"
+        },
+        {
+          "text": "**How's it going** *(= is your life enjoyable, successful, etc. at the moment)*?"
+        },
+        {
+          "text": "**The way things are going**, the company will be bankrupt by the end of the year."
+        }
+      ],
+      "topics": ["Success"],
+      "collocations": {
+        "adverb": ["smoothly", "well", "badly"]
+      }
+    },
+    {
+      "senseNumber": "17",
+      "definition": "used in many expressions to show that somebody/something has reached a particular state/is no longer in a particular state",
+      "sensetop": "go to somethinggo into somethinggo on somethinggo out of something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She **went to sleep**.",
+          "contextForm": "go to something"
+        },
+        {
+          "text": "The US and Mexico **went to war** in 1846."
+        },
+        {
+          "text": "The law **went into effect** on 1 August.",
+          "contextForm": "go into something"
+        },
+        {
+          "text": "Shares **went on sale** this morning.",
+          "contextForm": "go on something"
+        },
+        {
+          "text": "They're threatening to **go on strike** again."
+        },
+        {
+          "text": "That colour has gone out of fashion.",
+          "contextForm": "go out of something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "18",
+      "definition": "to become different in a particular way, especially a bad way",
+      "sensetop": "+ adj.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **go crazy/mad/nuts/insane**"
+        },
+        {
+          "text": "She's beginning to go blind."
+        },
+        {
+          "text": "He suddenly went quiet."
+        },
+        {
+          "text": "The company **went bankrupt** last year."
+        },
+        {
+          "text": "Our dog **went missing **over a week ago."
+        },
+        {
+          "text": "Her hair is going grey."
+        },
+        {
+          "text": "The children went wild with excitement."
+        },
+        {
+          "text": "I can't believe I'm going bald—I'm only thirty!"
+        },
+        {
+          "text": "She went bright red with embarrassment."
+        },
+        {
+          "text": "The milk has gone sour."
+        }
+      ]
+    },
+    {
+      "senseNumber": "19",
+      "definition": "to live or move around in a particular state",
+      "sensetop": "+ adj.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to go naked/barefoot"
+        },
+        {
+          "text": "She cannot bear the thought of children **going hungry**."
+        }
+      ]
+    },
+    {
+      "senseNumber": "20",
+      "definition": "to spend a period of time in a particular way",
+      "examples": [
+        {
+          "text": "They went for two weeks without receiving any news."
+        }
+      ]
+    },
+    {
+      "senseNumber": "21",
+      "definition": "to not be noticed, reported, etc.",
+      "sensetop": "go unnoticed, unreported, etc.",
+      "examples": [
+        {
+          "text": "Pippa's absence went unnoticed."
+        },
+        {
+          "text": "Police are worried that many crimes go unreported."
+        },
+        {
+          "text": "In these traditional stories, no crime goes unpunished."
+        },
+        {
+          "text": "Customer service calls went unanswered."
+        }
+      ]
+    },
+    {
+      "senseNumber": "22",
+      "definition": "to make a particular sound or movement",
+      "sensetop": "+ noun+ adv./prep.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The gun went ‘bang’.",
+          "contextForm": "+ noun"
+        },
+        {
+          "text": "She went like this with her hand.",
+          "contextForm": "+ adv./prep."
+        }
+      ]
+    },
+    {
+      "senseNumber": "23",
+      "definition": "to be sounded as a signal or warning",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The whistle went for the end of the game."
+        }
+      ]
+    },
+    {
+      "senseNumber": "24",
+      "definition": "if a number will go into another number, it is contained in that number an exact number of times",
+      "sensetop": "(+ adj.)go into something",
+      "labels": "(North American English)",
+      "examples": [
+        {
+          "text": "3 into 12 goes 4 times.",
+          "contextForm": "(+ adj.)"
+        },
+        {
+          "text": "7 into 15 won’t go."
+        },
+        {
+          "text": "7 into 15 doesn’t go."
+        },
+        {
+          "text": "7 won’t go into 15.",
+          "contextForm": "go into something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "25",
+      "definition": "to combine well with something",
+      "sensetop": "go with somethinggo (together)",
+      "examples": [
+        {
+          "text": "Does this jacket go with this skirt?",
+          "contextForm": "go with something"
+        },
+        {
+          "text": "Those colours don’t really go (together).",
+          "contextForm": "go (together)"
+        },
+        {
+          "text": "Leeks and potatoes go well together in a soup."
+        },
+        {
+          "text": "That tie goes well with that shirt."
+        }
+      ],
+      "synonyms": "match"
+    },
+    {
+      "senseNumber": "26",
+      "definition": "used to talk about what tune or words a song or poem has or what happens in a story",
+      "sensetop": "+ adv./prep.go that…",
+      "examples": [
+        {
+          "text": "How does that song go?",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "I forget how the next line goes."
+        },
+        {
+          "text": "The story goes that she's been married five times.",
+          "contextForm": "go that…"
+        }
+      ]
+    },
+    {
+      "senseNumber": "27",
+      "definition": "to say",
+      "sensetop": "+ speech",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "I asked ‘How much?’ and he goes, ‘Fifty’ and I go, ‘Fifty? You must be joking!’"
+        }
+      ]
+    },
+    {
+      "senseNumber": "28",
+      "definition": "to start an activity",
+      "examples": [
+        {
+          "text": "I'll say ‘One, two, three, go!’ as a signal for you to start."
+        },
+        {
+          "text": "As soon as he gets here we're ready to go."
+        }
+      ]
+    },
+    {
+      "senseNumber": "29",
+      "definition": "if a machine goes, it works",
+      "examples": [
+        {
+          "text": "This clock doesn't go."
+        },
+        {
+          "text": "What makes it go?"
+        }
+      ]
+    },
+    {
+      "senseNumber": "30",
+      "definition": "used to talk about wanting to get rid of somebody/something",
+      "sensetop": "somebody/something must/has to/can go",
+      "examples": [
+        {
+          "text": "The old sofa will have to go."
+        },
+        {
+          "text": "He's useless—he'll have to go."
+        }
+      ]
+    },
+    {
+      "senseNumber": "31",
+      "definition": "to get worse; to become damaged or stop working correctly",
+      "examples": [
+        {
+          "text": "Her sight is beginning to go."
+        },
+        {
+          "text": "His mind is going *(= he is losing his mental powers)*."
+        },
+        {
+          "text": "I was driving home when my brakes went."
+        }
+      ]
+    },
+    {
+      "senseNumber": "32",
+      "definition": "to die. People say ‘go’ to avoid saying ‘die’.",
+      "examples": [
+        {
+          "text": "You can't take your money with you when you go."
+        }
+      ]
+    },
+    {
+      "senseNumber": "33",
+      "definition": "when money goes, it is spent or used for something",
+      "sensetop": "go on somethinggo to do something",
+      "examples": [
+        {
+          "text": "I don't know where the money goes!"
+        },
+        {
+          "text": "Most of my salary goes on the rent.",
+          "contextForm": "go on something"
+        },
+        {
+          "text": "The money will go to finance a new community centre.",
+          "contextForm": "go to do something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "34",
+      "definition": "to be sold",
+      "sensetop": "go (to somebody) (for something)",
+      "examples": [
+        {
+          "text": "We won't let the house go for less than $200 000."
+        },
+        {
+          "text": "There was usually some bread **going cheap** *(= being sold cheaply)* at the end of the day."
+        }
+      ]
+    },
+    {
+      "senseNumber": "35",
+      "definition": "to be willing to pay a particular amount of money for something",
+      "sensetop": "+ adv./prep.",
+      "examples": [
+        {
+          "text": "He's offered £3 000 for the car and I don't think he'll go any higher."
+        },
+        {
+          "text": "I'll go to $1 000 but that's my limit."
+        }
+      ]
+    },
+    {
+      "senseNumber": "36",
+      "definition": "to help; to play a part in doing something",
+      "sensetop": "go to do something",
+      "examples": [
+        {
+          "text": "This all goes to prove my theory."
+        },
+        {
+          "text": "It *(= what has just happened)* **just goes to show** you can't always tell how people are going to react."
+        }
+      ]
+    },
+    {
+      "senseNumber": "37",
+      "definition": "to be available",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "There just aren't any jobs going in this area."
+        }
+      ]
+    },
+    {
+      "senseNumber": "38",
+      "definition": "to use a toilet",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Do you need to go, Billy?"
+        }
+      ]
+    },
+    {
+      "definition": "anything that somebody says or does is accepted or allowed, even if it shocks or surprises people",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Almost anything goes these days."
+        }
+      ]
+    },
+    {
+      "definition": "in comparison with the average person, thing, etc.",
+      "examples": [
+        {
+          "text": "As teachers go, he's not bad."
+        }
+      ]
+    },
+    {
+      "definition": "to be nearly a particular age, time or number",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "It was going on (for) midnight."
+        }
+      ]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "used to show what somebody intends to do in the future",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We're going to buy a house when we've saved enough money."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "used to show that something is likely to happen very soon or in the future",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I think I'm going to faint."
+        },
+        {
+          "text": "If the drought continues there's going to be a famine."
+        }
+      ]
+    },
+    {
+      "definition": "used to tell or warn somebody not to do something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Don't go getting yourself into trouble."
+        }
+      ]
+    },
+    {
+      "definition": "something that is enough for a short time",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "£50 should be enough to be going on with."
+        }
+      ]
+    },
+    {
+      "definition": "to make a very great effort to get something or do something",
+      "examples": []
+    },
+    {
+      "definition": "used to show that you are angry or annoyed that somebody has done something stupid",
+      "examples": [
+        {
+          "text": "Trust him to go and mess things up!"
+        },
+        {
+          "text": "Why did you have to go and upset your mother like that?"
+        },
+        {
+          "text": "**You've really gone and done it** *(= done something very stupid)* now!"
+        }
+      ]
+    },
+    {
+      "definition": "to suddenly become very angry",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "Now and again she really goes off on one."
+        }
+      ],
+      "topics": ["Feelings"]
+    },
+    {
+      "definition": "used to express the fact that you do not believe something, or that you think something is bad",
+      "labels": "(old-fashioned)",
+      "examples": [
+        {
+          "text": "Go on with you—you’re never forty. You don’t look a day over thirty."
+        }
+      ]
+    },
+    {
+      "definition": "(to have) many/not many advantages",
+      "examples": [
+        {
+          "text": "You're young, intelligent, attractive—you have a lot going for you!"
+        }
+      ]
+    },
+    {
+      "definition": "not possible or allowed",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "If the bank won't lend us the money it's no go, I'm afraid."
+        }
+      ],
+      "topics": ["Permission and obligation"]
+    },
+    {
+      "definition": "used to say that you do not want to talk about something in any more detail because you do not even want to think about it",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Don't ask me to choose. I don't want to go there."
+        },
+        {
+          "text": "‘There was a problem with his parents, wasn't there?’ ‘Don't even go there!’"
+        }
+      ]
+    },
+    {
+      "definition": "what you say to tell people to start a race",
+      "examples": []
+    },
+    {
+      "definition": "to start with; for now",
+      "examples": [
+        {
+          "text": "‘One slice or two?’ ‘Just one to be going on with.’"
+        }
+      ]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "that remains; still left",
+      "examples": [
+        {
+          "text": "I only have one exam to go."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "if you buy cooked food to go in a restaurant or shop, you buy it to take away and eat somewhere else",
+      "labels": "(North American English, informal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Two pizzas to go."
+        }
+      ],
+      "topics": ["Cooking and eating"]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "the way somebody behaves towards other people will affect the way those people behave towards them in the future",
+      "examples": []
+    },
+    {
+      "senseNumber": "2",
+      "definition": "something that is not fashionable now will become fashionable again in the future",
+      "examples": []
+    },
+    {
+      "definition": "used to ask what action somebody should take, especially in order to improve the difficult situation that they are in",
+      "examples": []
+    },
+    {
+      "definition": "used by a soldier who is guarding a place to order somebody to say who they are",
+      "examples": [
+        {
+          "text": "Halt, who goes there?"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English gān, of Germanic origin; related to Dutch gaan and German gehen; the form went was originally the past tense of wend."
+}

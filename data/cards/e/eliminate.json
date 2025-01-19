@@ -1,0 +1,155 @@
+{
+  "word": "eliminate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪˈlɪmɪneɪt/",
+        "audio": "data/audio/e/eliminate/eliminate__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪˈlɪmɪneɪts/",
+        "audio": "data/audio/e/eliminate/eliminates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪˈlɪmɪneɪtɪd/",
+        "audio": "data/audio/e/eliminate/eliminated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪˈlɪmɪneɪtɪŋ/",
+        "audio": "data/audio/e/eliminate/eliminating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪˈlɪmɪneɪt/",
+        "audio": "data/audio/e/eliminate/eliminate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪˈlɪmɪneɪts/",
+        "audio": "data/audio/e/eliminate/eliminates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪˈlɪmɪneɪtɪd/",
+        "audio": "data/audio/e/eliminate/eliminated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪˈlɪmɪneɪtɪŋ/",
+        "audio": "data/audio/e/eliminate/eliminating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "eliminate",
+      "heSheIt": "eliminates"
+    },
+    "pastSimple": "eliminated",
+    "pastParticiple": "eliminated",
+    "ingForm": "eliminating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to remove or get rid of something",
+      "sensetop": "eliminate somethingeliminate something from something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Credit cards eliminate the need to carry a lot of cash.",
+          "contextForm": "eliminate something"
+        },
+        {
+          "text": "This diet claims to eliminate toxins from the body.",
+          "contextForm": "eliminate something from something"
+        },
+        {
+          "text": "The risk cannot be eliminated altogether."
+        },
+        {
+          "text": "The single market is designed to eliminate barriers to the free movement of goods, services and people."
+        },
+        {
+          "text": "This procedure does not completely eliminate the possibility of an accident."
+        },
+        {
+          "text": "Try to eliminate fatty foods from your diet."
+        },
+        {
+          "text": "a policy that they claim will eventually eliminate corruption in the industry"
+        },
+        {
+          "text": "Transmissions of the disease through this route have virtually been eliminated."
+        }
+      ],
+      "collocations": {
+        "adverb": ["altogether", "completely", "entirely"],
+        "verb + eliminate": ["seek to", "take steps to", "try to"],
+        "preposition": ["from"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to stop considering that somebody/something might be responsible for something or chosen for something",
+      "sensetop": "eliminate somebody/something from somethingeliminate somebody/something (as something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The police have eliminated two suspects from their investigation.",
+          "contextForm": "eliminate somebody/something from something"
+        },
+        {
+          "text": "Malaria was eliminated as a cause of death.",
+          "contextForm": "eliminate somebody/something (as something)"
+        },
+        {
+          "text": "He was later released after being eliminated by the police from their inquiries."
+        },
+        {
+          "text": "We can only be certain once we have eliminated every other possible explanation."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to defeat a person or a team so that they no longer take part in a competition, etc.",
+      "sensetop": "be eliminatedbe eliminated from something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "All the English teams were eliminated in the early stages of the competition.",
+          "contextForm": "be eliminated"
+        },
+        {
+          "text": "She was eliminated from the tournament in the first round.",
+          "contextForm": "be eliminated from something"
+        }
+      ],
+      "synonyms": "knock out"
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to kill somebody, especially an enemy or opponent",
+      "sensetop": "eliminate somebody",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Most of the regime's opponents were eliminated."
+        },
+        {
+          "text": "Rival gangsters had attempted to eliminate him."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "mid 16th cent. (in the sense ‘drive out’): from Latin eliminat- ‘turned out of doors’, from the verb eliminare, from e- (variant of ex-) ‘out’ + limen, limin- ‘threshold’."
+}

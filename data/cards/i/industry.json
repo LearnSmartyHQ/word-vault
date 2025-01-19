@@ -1,0 +1,149 @@
+{
+  "word": "industry",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɪndəstri/",
+        "audio": "data/audio/i/industry/industry__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɪndəstri/",
+        "audio": "data/audio/i/industry/industry__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the production of goods from raw materials, especially in factories",
+      "sensetop": "in industry",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the needs of British industry"
+        },
+        {
+          "text": "the Department of Trade and Industry"
+        },
+        {
+          "text": "She got a job in industry.",
+          "contextForm": "in industry"
+        },
+        {
+          "text": "The banks lend money to commerce and industry."
+        },
+        {
+          "text": "government measures to stimulate new industry"
+        },
+        {
+          "text": "trade barriers erected to protect domestic industry"
+        }
+      ],
+      "topics": ["Business"],
+      "collocations": {
+        "adjective": ["booming", "growing", "thriving"],
+        "verb + industry": ["benefit", "develop", "encourage"],
+        "industry + verb": ["boom", "develop", "expand"],
+        "industry + noun": ["executive", "leader", "expert"],
+        "preposition": ["in industry", "within industry"],
+        "phrases": [
+          "a captain of industry",
+          "commerce and industry",
+          "regulation of (an) industry"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the people and activities involved in producing a particular thing, or in providing a particular service",
+      "sensetop": "in an industrywithin an industry",
+      "labels": "(figurative)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the steel/oil/auto industry"
+        },
+        {
+          "text": "the music/film/tourism industry"
+        },
+        {
+          "text": "We need to develop local industries."
+        },
+        {
+          "text": "She later worked in the banking industry.",
+          "contextForm": "in an industry"
+        },
+        {
+          "text": "The whole issue has raised concern within the food industry.",
+          "contextForm": "within an industry"
+        },
+        {
+          "text": "At a wider level, the **industry as a whole** needs restructuring."
+        },
+        {
+          "text": "**industry insiders/analysts/experts**"
+        },
+        {
+          "text": "the Kardashian industry *(= the large number of people involved in making the Kardashian family successful)*"
+        },
+        {
+          "text": "In the computer industry, change comes about very rapidly."
+        },
+        {
+          "text": "The music industry is changing rapidly."
+        },
+        {
+          "text": "More than 140 000 people are directly involved in the industry."
+        },
+        {
+          "text": "Running down the nuclear industry will result in heavy job losses."
+        },
+        {
+          "text": "The government decided to encourage industries based on biotechnology."
+        },
+        {
+          "text": "The state's timber industry is heavily subsidized."
+        },
+        {
+          "text": "When the oil ran out, other industries associated with it closed down."
+        },
+        {
+          "text": "Thousands of jobs were lost in the steel industry."
+        }
+      ],
+      "topics": ["Working life"],
+      "collocations": {
+        "adjective": ["booming", "growing", "thriving"],
+        "verb + industry": ["benefit", "develop", "encourage"],
+        "industry + verb": ["boom", "develop", "expand"],
+        "industry + noun": ["executive", "leader", "expert"],
+        "preposition": ["in industry", "within industry"],
+        "phrases": [
+          "a captain of industry",
+          "commerce and industry",
+          "regulation of (an) industry"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the quality of working hard",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "We were impressed by their industry."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English (in sense (3)): from French industrie or Latin industria ‘diligence’."
+}

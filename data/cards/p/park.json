@@ -1,0 +1,172 @@
+{
+  "word": "park",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pɑːk/",
+        "audio": "data/audio/p/park/park__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pɑːrk/",
+        "audio": "data/audio/p/park/park__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "an area of public land in a town or a city where people go to walk, play and relax",
+      "sensetop": "in the park",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Hyde Park"
+        },
+        {
+          "text": "We went for a walk in the park.",
+          "contextForm": "in the park"
+        },
+        {
+          "text": "A public park will be built around the complex."
+        },
+        {
+          "text": "a park bench"
+        },
+        {
+          "text": "the park entrance/gates"
+        },
+        {
+          "text": "They go to the park most Sunday afternoons."
+        },
+        {
+          "text": "We met in Central Park."
+        },
+        {
+          "text": "a cafe overlooking the park"
+        },
+        {
+          "text": "I work as a ranger in the city's park system."
+        },
+        {
+          "text": "a park managed by the Department of Parks and Recreation"
+        }
+      ],
+      "collocations": {
+        "adjective": ["local", "neighbourhood/​neighborhood", "city"],
+        "verb + park": ["go to", "visit", "design"],
+        "park + noun": ["bench", "entrance", "boundary"],
+        "preposition": ["at a/​the park", "in a/​the park"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "an area of land used for a particular purpose",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a business/science park"
+        },
+        {
+          "text": "a wildlife park"
+        },
+        {
+          "text": "a park ranger"
+        },
+        {
+          "text": "She lives in a trailer park in Tucson, Arizona."
+        },
+        {
+          "text": "The lion was shot dead by a park ranger."
+        },
+        {
+          "text": "an indoor park for skateboarders"
+        }
+      ],
+      "collocations": {
+        "adjective": ["local", "neighbourhood/​neighborhood", "city"],
+        "verb + park": ["go to", "visit", "design"],
+        "park + noun": ["bench", "entrance", "boundary"],
+        "preposition": ["at a/​the park", "in a/​the park"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "(in the UK) an area of land, usually with fields and trees, attached to a large country house",
+      "examples": [
+        {
+          "text": "The cottage is set within the park of a country house."
+        },
+        {
+          "text": "The houses and parks in Georgian Sussex represented leisured society at its peak."
+        }
+      ],
+      "collocations": {
+        "adjective": ["local", "neighbourhood/​neighborhood", "city"],
+        "verb + park": ["go to", "visit", "design"],
+        "park + noun": ["bench", "entrance", "boundary"],
+        "preposition": ["at a/​the park", "in a/​the park"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a piece of land for playing sports, especially baseball",
+      "labels": "(North American English)",
+      "cefr": "a2",
+      "examples": [
+        {
+          "text": "With a mighty swing he hit the ball right out of the park."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"],
+      "collocations": {
+        "adjective": ["local", "neighbourhood/​neighborhood", "city"],
+        "verb + park": ["go to", "visit", "design"],
+        "park + noun": ["bench", "entrance", "boundary"],
+        "preposition": ["at a/​the park", "in a/​the park"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a football (soccer) or rugby field",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "the fastest man on the park"
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "the position of the gears in a car with automatic transmission (= a system that changes the gears by itself so the driver does not have to) in which they are locked so that the engine cannot send any power to the wheels",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She put the car in park, pulled out the key and got out."
+        }
+      ],
+      "topics": ["Transport by car or lorry"]
+    },
+    {
+      "definition": "a thing that is very easy to do or deal with",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The role isn't exactly a walk in the park."
+        },
+        {
+          "text": "The next game will be a walk in the park."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French parc, from medieval Latin parricus, of Germanic origin; related to German Pferch ‘pen, fold’, also to paddock. The word was originally a legal term designating land held by royal permission for keeping game animals: this was enclosed and therefore distinct from a forest or chase, and (also unlike a forest) had no special laws or officers. A military sense ‘space occupied by artillery, wagons, stores, etc., in an encampment’ (late 17th cent.) is the origin of the verb sense (mid 19th cent.) and of sense (2) (early 20th cent.)."
+}

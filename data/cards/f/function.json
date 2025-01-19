@@ -1,0 +1,112 @@
+{
+  "word": "function",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfʌŋkʃn/",
+        "audio": "data/audio/f/function/function__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfʌŋkʃn/",
+        "audio": "data/audio/f/function/function__us_4.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a special activity or purpose of a person or thing",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The club **serves a** useful **function** as a meeting place."
+        },
+        {
+          "text": "to **fulfil/perform a function**"
+        },
+        {
+          "text": "What is your function in the department?"
+        },
+        {
+          "text": "**bodily functions** *(= for example eating, sex, using the toilet)*"
+        },
+        {
+          "text": "The function of the heart is to pump blood through the body."
+        },
+        {
+          "text": "This design aims for harmony of form and function."
+        },
+        {
+          "text": "Fortunately, his head injuries left his bodily functions unimpaired."
+        },
+        {
+          "text": "The committee has a dual function, both advisory and regulatory."
+        },
+        {
+          "text": "Within two weeks of quitting smoking, your lung function can improve as much as 30%"
+        }
+      ],
+      "collocations": {
+        "adjective": ["important", "useful", "valuable"],
+        "verb + function": ["have", "carry out", "fulfil/​fulfill"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a social event or official ceremony",
+      "examples": [
+        {
+          "text": "The hall provided a venue for weddings and other functions."
+        },
+        {
+          "text": "The couple attended a charity function in aid of cancer research."
+        },
+        {
+          "text": "There are numerous functions in aid of charity."
+        },
+        {
+          "text": "He and his wife were guests of honour at a function held by the society last weekend."
+        },
+        {
+          "text": "The reception will be held in the hotel's function room."
+        }
+      ],
+      "collocations": {
+        "adjective": ["charity", "official", "social"],
+        "verb + function": ["hold", "attend", "go to"],
+        "function + noun": ["room"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a quantity whose value depends on the varying values of others. In the statement 2x=y, y is a function of x.",
+      "sensetop": "function (of something)",
+      "labels": "(mathematics)(figurative)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Salary is a function of age and experience."
+        }
+      ],
+      "topics": ["Maths and measurement"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a part of a program, etc. that performs a basic operation",
+      "labels": "(computing)",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Computers"]
+    }
+  ],
+  "wordOrigin": "mid 16th cent.: from French fonction, from Latin functio(n-), from fungi ‘perform’."
+}

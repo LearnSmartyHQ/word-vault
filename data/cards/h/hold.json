@@ -1,0 +1,614 @@
+{
+  "word": "hold",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/həʊld/",
+        "audio": "data/audio/h/hold/hold__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/həʊldz/",
+        "audio": "data/audio/h/hold/holds__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/held/",
+        "audio": "data/audio/h/hold/held__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈhəʊldɪŋ/",
+        "audio": "data/audio/h/hold/holding__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/həʊld/",
+        "audio": "data/audio/h/hold/hold__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/həʊldz/",
+        "audio": "data/audio/h/hold/holds__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/held/",
+        "audio": "data/audio/h/hold/held__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈhəʊldɪŋ/",
+        "audio": "data/audio/h/hold/holding__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "hold",
+      "heSheIt": "holds"
+    },
+    "pastSimple": "held",
+    "pastParticiple": "held",
+    "ingForm": "holding"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to have somebody/something in your hand, arms, etc.",
+      "sensetop": "hold somebody/somethinghold somebody/something + adv./prep.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She was holding a large box.",
+          "contextForm": "hold somebody/something"
+        },
+        {
+          "text": "They were **holding hands** *(= the right hand of one person holding the left hand of the other)*."
+        },
+        {
+          "text": "I held the mouse by its tail.",
+          "contextForm": "hold somebody/something + adv./prep."
+        },
+        {
+          "text": "The girl held her father's hand tightly."
+        },
+        {
+          "text": "He was holding the baby in his arms."
+        },
+        {
+          "text": "The winning captain held the trophy in the air."
+        },
+        {
+          "text": "The lovers held each other close."
+        },
+        {
+          "text": "A man holding a map beckoned to me."
+        },
+        {
+          "text": "The person holding most cards when the time limit is reached is the winner."
+        },
+        {
+          "text": "People were holding banners and placards as they stood outside the building."
+        },
+        {
+          "text": "Each woman held a bottle in her hand."
+        },
+        {
+          "text": "The family made a circle, held hands, and bowed their heads."
+        },
+        {
+          "text": "It had started to rain, so several people held umbrellas over me."
+        },
+        {
+          "text": "They walked along the street, holding hands."
+        },
+        {
+          "text": "I held the baby gently in my arms."
+        },
+        {
+          "text": "He held her by the shoulders."
+        }
+      ],
+      "collocations": {
+        "adverb": ["firmly", "securely", "tightly"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to put your hand on part of your body, usually because it hurts",
+      "sensetop": "hold somethinghold something + adv./prep.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She groaned and held her head.",
+          "contextForm": "hold something"
+        },
+        {
+          "text": "The prisoner held his head in his hands.",
+          "contextForm": "hold something + adv./prep."
+        },
+        {
+          "text": "She started to dance, holding her hands rapturously to her chest."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to keep somebody/something in a particular position",
+      "sensetop": "hold something + adv./prep.hold something + adj.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Hold your head up.",
+          "contextForm": "hold something + adv./prep."
+        },
+        {
+          "text": "Hold this position for a count of 10."
+        },
+        {
+          "text": "The wood is held in position by a clamp."
+        },
+        {
+          "text": "People held handkerchiefs over their mouths."
+        },
+        {
+          "text": "I had to hold my stomach in *(= pull the muscles flat)* to zip up my jeans."
+        },
+        {
+          "text": "I'll hold the door open for you.",
+          "contextForm": "hold something + adj."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to support the weight of somebody/something",
+      "sensetop": "hold somebody/something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I don't think that branch will hold your weight."
+        },
+        {
+          "text": "She let him hold most of her weight as he led her upstairs."
+        },
+        {
+          "text": "Several pieces of wood joined together can hold more weight than just one piece."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to have enough space for something/somebody; to contain something/somebody",
+      "sensetop": "hold something/somebody",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "This barrel holds 25 litres."
+        },
+        {
+          "text": "The plane holds about 300 passengers."
+        },
+        {
+          "text": "The inner box holds the cheese and has holes in it."
+        },
+        {
+          "text": "Each 180-litre container will hold up to three black bags of rubbish."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to have or offer something; to be going to bring something",
+      "sensetop": "hold something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I don't know what the **future holds**."
+        },
+        {
+          "text": "This research **holds the key** to understanding life."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to have a meeting, competition, conversation, etc.",
+      "sensetop": "hold something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Each month she **holds a meeting** with her entire staff."
+        },
+        {
+          "text": "The British Foreign Minister **held talks** with the leaders of the two countries."
+        },
+        {
+          "text": "He has already **held discussions** with Irish shareholders."
+        },
+        {
+          "text": "It's impossible to hold a conversation with all this noise."
+        },
+        {
+          "text": "The next **conference will be held** in Ohio."
+        },
+        {
+          "text": "The country is **holding** its first free **elections** for 20 years."
+        },
+        {
+          "text": "to **hold an event/a party/a competition**"
+        },
+        {
+          "text": "The premiere was held in the Four Seasons Hotel."
+        },
+        {
+          "text": "The Lisburn Social Club is holding a special Mother's Day lunch next Sunday."
+        },
+        {
+          "text": "Special events are held annually as part of a fund-raising strategy."
+        },
+        {
+          "text": "The Prime Minister announced his intention to hold a referendum."
+        },
+        {
+          "text": "She held a garden party to celebrate the artist's 60th birthday."
+        },
+        {
+          "text": "The meeting will be held in the community centre."
+        }
+      ],
+      "topics": ["Working life"]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to have something you have gained or achieved",
+      "sensetop": "hold something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Who **holds the** world **record** for the long jump?"
+        },
+        {
+          "text": "She held the title of world champion for three years."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to have a particular job or position",
+      "sensetop": "hold something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "How long has he **held office**?"
+        },
+        {
+          "text": "Mrs Thatcher **held the post** of prime minister longer than anyone else last century."
+        },
+        {
+          "text": "Men still **hold** most **positions** of power in this country."
+        },
+        {
+          "text": "The company has held the advertising contract since 2019."
+        },
+        {
+          "text": "The professor will **hold a seat** on the advisory board."
+        },
+        {
+          "text": "Labour's John Taylor and Mary Smith both held seats in this constituency."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to keep somebody and not allow them to leave",
+      "sensetop": "hold somebodyhold somebody + noun",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Police are holding two men in connection with last Thursday's bank raid.",
+          "contextForm": "hold somebody"
+        },
+        {
+          "text": "He was **held prisoner** for two years.",
+          "contextForm": "hold somebody + noun"
+        },
+        {
+          "text": "Eight people were **held hostage** for four months."
+        },
+        {
+          "text": "She was held captive in a castle."
+        },
+        {
+          "text": "She was arrested and **held in custody** in a police station."
+        }
+      ],
+      "topics": ["Crime and punishment"]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to keep somebody’s attention or interest",
+      "sensetop": "hold something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "There wasn't much in the museum to hold my attention."
+        },
+        {
+          "text": "These discussions held little interest for Lucy."
+        }
+      ]
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to keep something at the same level, rate, speed, etc.; to stay at the same level, rate, etc.",
+      "sensetop": "hold something (at something)hold something to somethinghold at something",
+      "examples": [
+        {
+          "text": "Hold your speed at 70.",
+          "contextForm": "hold something (at something)"
+        },
+        {
+          "text": "Interest rates have been held at 8% for a year now."
+        },
+        {
+          "text": "They are trying to hold public spending to £300 billion.",
+          "contextForm": "hold something to something"
+        },
+        {
+          "text": "The company's shares held at £3.47.",
+          "contextForm": "hold at something"
+        },
+        {
+          "text": "In trading today the dollar **held steady** against the yen."
+        }
+      ]
+    },
+    {
+      "senseNumber": "13",
+      "definition": "to keep something so that it can be used later",
+      "sensetop": "hold something",
+      "examples": [
+        {
+          "text": "Employees do not have access to personal records held on computer."
+        },
+        {
+          "text": "Our solicitor holds our wills."
+        },
+        {
+          "text": "We can hold your reservation for three days."
+        }
+      ]
+    },
+    {
+      "senseNumber": "14",
+      "definition": "to wait until you can speak to the person you have phoned",
+      "sensetop": "hold the line",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "That extension is busy right now. Can you hold?"
+        },
+        {
+          "text": "She asked me to hold the line.",
+          "contextForm": "hold the line"
+        }
+      ],
+      "topics": ["Phones, email and the internet"]
+    },
+    {
+      "senseNumber": "15",
+      "definition": "to own or have something",
+      "sensetop": "hold something",
+      "labels": "(rather formal)",
+      "examples": [
+        {
+          "text": "Employees hold 30% of the shares."
+        },
+        {
+          "text": "He was born in South Africa but he holds a British passport."
+        },
+        {
+          "text": "Applicants must hold a full driving licence."
+        }
+      ]
+    },
+    {
+      "senseNumber": "16",
+      "definition": "to defend something against attack; to have control of something",
+      "sensetop": "hold something",
+      "examples": [
+        {
+          "text": "The rebels held the radio station."
+        }
+      ]
+    },
+    {
+      "senseNumber": "17",
+      "definition": "to remain strong and safe or in position",
+      "examples": [
+        {
+          "text": "They were afraid the dam wouldn't hold."
+        }
+      ]
+    },
+    {
+      "senseNumber": "18",
+      "definition": "to remain the same",
+      "examples": [
+        {
+          "text": "How long will the fine weather hold?"
+        },
+        {
+          "text": "If their luck holds, they could still win the championship."
+        }
+      ]
+    },
+    {
+      "senseNumber": "19",
+      "definition": "to have a belief or an opinion about somebody/something",
+      "sensetop": "hold somethinghold somebody/something + adv./prep./adj.",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "He **holds** strange **views** on education.",
+          "contextForm": "hold something"
+        },
+        {
+          "text": "She is **held in high regard** by her students *(= they have a high opinion of her)*.",
+          "contextForm": "hold somebody/something + adv./prep./adj."
+        },
+        {
+          "text": "to be **held in high esteem**"
+        },
+        {
+          "text": "He has very firmly held religious beliefs."
+        },
+        {
+          "text": "deeply held religious beliefs"
+        },
+        {
+          "text": "privately held views"
+        },
+        {
+          "text": "This view is not widely held."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adverb": ["commonly", "widely", "deeply"]
+      }
+    },
+    {
+      "senseNumber": "20",
+      "definition": "to consider that something is true",
+      "sensetop": "hold that…hold somebody/something + adj.be held to be something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "I still hold that the government's economic policies are mistaken.",
+          "contextForm": "hold that…"
+        },
+        {
+          "text": "Parents will be **held responsible** for their children's behaviour.",
+          "contextForm": "hold somebody/something + adj."
+        },
+        {
+          "text": "These vases are held to be the finest examples of Greek art.",
+          "contextForm": "be held to be something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "21",
+      "definition": "to be in close contact with the road and easy to control, especially when driven fast",
+      "sensetop": "hold the road",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Transport by car or lorry"]
+    },
+    {
+      "senseNumber": "22",
+      "definition": "to continue to move in a particular direction",
+      "sensetop": "hold a course",
+      "examples": []
+    },
+    {
+      "senseNumber": "23",
+      "definition": "to make a note continue for a particular time",
+      "sensetop": "hold something",
+      "examples": []
+    },
+    {
+      "senseNumber": "24",
+      "definition": "be able to drink a reasonable amount of alcohol without becoming drunk",
+      "sensetop": "hold your drink",
+      "examples": [
+        {
+          "text": "I can hold my drink as well as anyone."
+        }
+      ]
+    },
+    {
+      "senseNumber": "25",
+      "definition": "to win a game in which you are serving",
+      "sensetop": "hold (your) serve",
+      "examples": [
+        {
+          "text": "Zverev held serve to take the set.",
+          "contextForm": "hold (your) serve"
+        },
+        {
+          "text": "Halep held to love."
+        }
+      ]
+    },
+    {
+      "senseNumber": "26",
+      "definition": "used to tell somebody to stop doing something or not to do something",
+      "sensetop": "hold something",
+      "labels": "(North American English, informal)",
+      "examples": [
+        {
+          "text": "Hold your fire! *(= don't shoot)*"
+        },
+        {
+          "text": "Hold the front page! *(= don't print it until a particular piece of news is available)*"
+        },
+        {
+          "text": "Give me a hot dog, but hold the *(= don't give me any)* mustard."
+        }
+      ]
+    },
+    {
+      "definition": "to be true",
+      "examples": [
+        {
+          "text": "The same argument does not hold good in every case."
+        }
+      ]
+    },
+    {
+      "definition": "used to ask somebody to wait, or not to move",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Hold it a second—I don't think everyone's arrived yet."
+        }
+      ]
+    },
+    {
+      "definition": "to hold somebody/something very tightly because you are afraid",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "a person cannot be prevented from doing something",
+      "examples": [
+        {
+          "text": "Once she gets on to the subject of politics there's no holding her."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "verb Old English haldan, healdan, of Germanic origin; related to Dutch houden and German halten; the noun is partly from Old Norse hald ‘hold, support, custody’."
+}

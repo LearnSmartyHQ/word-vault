@@ -1,0 +1,96 @@
+{
+  "word": "paint",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/peɪnt/",
+        "audio": "data/audio/p/paint/paint__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/peɪnt/",
+        "audio": "data/audio/p/paint/paint__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a liquid that is put on surfaces to give them a particular colour; a layer of this liquid when it has dried on a surface",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "white paint"
+        },
+        {
+          "text": "**gloss/matt/acrylic paint**"
+        },
+        {
+          "text": "The woodwork has recently been given a fresh **coat of paint**."
+        },
+        {
+          "text": "**Wet paint!** *(= used as a sign)*"
+        },
+        {
+          "text": "The paint is starting to peel off."
+        },
+        {
+          "text": "The house is desperately in need of **a lick of paint** *(= a new coat of paint)*."
+        },
+        {
+          "text": "We did a quick **paint job** on the car *(= a new coat of paint to make it look better)* and hoped the damage wasn't noticeable."
+        },
+        {
+          "text": "a can/pot/tin of paint"
+        },
+        {
+          "text": "The aircraft have been repainted in the original red and black paint scheme."
+        },
+        {
+          "text": "The artist has used several layers of paint to create the stormy sky."
+        },
+        {
+          "text": "The stove is available in two metallic paint finishes."
+        }
+      ],
+      "topics": ["Houses and homes"],
+      "collocations": {
+        "adjective": ["thick", "thin", "fresh"],
+        "… of paint": ["blob", "speck", "splash"],
+        "verb + paint": ["apply", "put on", "spray"],
+        "paint + verb": ["dry", "chip", "flake"],
+        "paint + noun": ["colour/​color", "finish", "brush"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "tubes or blocks of paint used for painting pictures",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "oil paints"
+        },
+        {
+          "text": "an artist working with acrylic paints"
+        }
+      ],
+      "topics": ["Art"],
+      "collocations": {
+        "adjective": ["thick", "thin", "fresh"],
+        "… of paint": ["blob", "speck", "splash"],
+        "verb + paint": ["apply", "put on", "spray"],
+        "paint + verb": ["dry", "chip", "flake"],
+        "paint + noun": ["colour/​color", "finish", "brush"]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English: from peint ‘painted’, past participle of Old French peindre, from Latin pingere ‘to paint’."
+}

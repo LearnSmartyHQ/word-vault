@@ -1,0 +1,173 @@
+{
+  "word": "justify",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdʒʌstɪfaɪ/",
+        "audio": "data/audio/j/justify/justify__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdʒʌstɪfaɪz/",
+        "audio": "data/audio/j/justify/justifies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdʒʌstɪfaɪd/",
+        "audio": "data/audio/j/justify/justified__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdʒʌstɪfaɪɪŋ/",
+        "audio": "data/audio/j/justify/justifying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdʒʌstɪfaɪ/",
+        "audio": "data/audio/j/justify/justify__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdʒʌstɪfaɪz/",
+        "audio": "data/audio/j/justify/justifies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdʒʌstɪfaɪd/",
+        "audio": "data/audio/j/justify/justified__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdʒʌstɪfaɪɪŋ/",
+        "audio": "data/audio/j/justify/justifying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "justify",
+      "heSheIt": "justifies"
+    },
+    "pastSimple": "justified",
+    "pastParticiple": "justified",
+    "ingForm": "justifying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to show that somebody/something is right or reasonable",
+      "sensetop": "justify doing somethingjustify somebody/something doing somethingjustify something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "How can they justify paying such huge salaries?",
+          "contextForm": "justify doing something"
+        },
+        {
+          "text": "The results of the inquiry did not justify them departing from their existing policy.",
+          "contextForm": "justify somebody/something doing something"
+        },
+        {
+          "text": "Her success had justified the faith her teachers had put in her.",
+          "contextForm": "justify something"
+        },
+        {
+          "text": "Can you really justify the destruction of such a fine old building?"
+        },
+        {
+          "text": "The decision can be justified on the grounds that there is no realistic alternative."
+        },
+        {
+          "text": "The events that followed served to justify our earlier decision."
+        },
+        {
+          "text": "The extra effort involved would go a long way in helping to justify their high price tags."
+        },
+        {
+          "text": "The meagre result hardly justified the risks they took to get it."
+        },
+        {
+          "text": "The university could not easily justify spending the money on this."
+        },
+        {
+          "text": "It would be difficult for an employer to justify dismissing someone on those grounds."
+        }
+      ],
+      "collocations": {
+        "adverb": ["really", "truly", "easily"],
+        "verb + justify": ["can", "serve to", "appear to"],
+        "preposition": [
+          "on the grounds of something",
+          "on the grounds that…",
+          "to"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to give an explanation or excuse for something or for doing something",
+      "sensetop": "justify something/yourselfjustify something/yourself to somebodyjustify doing somethingjustify somebody/something doing something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The senator made an attempt to **justify his actions**.",
+          "contextForm": "justify something/yourself"
+        },
+        {
+          "text": "The Prime Minister has been asked to justify the decision to Parliament.",
+          "contextForm": "justify something/yourself to somebody"
+        },
+        {
+          "text": "You don't need to justify yourself to me."
+        },
+        {
+          "text": "He sought to justify taking these measures by citing the threat of a terrorist attack.",
+          "contextForm": "justify doing something"
+        },
+        {
+          "text": "The press release was intended to justify them sacking her.",
+          "contextForm": "justify somebody/something doing something"
+        },
+        {
+          "text": "He found it very difficult to justify his decision."
+        },
+        {
+          "text": "Can you justify that accusation?"
+        },
+        {
+          "text": "How will you justify this pay cut to your employees?"
+        }
+      ],
+      "synonyms": "defend"
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to arrange lines of printed text so that one or both edges are straight",
+      "sensetop": "justify something",
+      "labels": "(specialist)",
+      "examples": []
+    },
+    {
+      "definition": "bad or unfair methods of doing something are acceptable if the result of that action is good or positive",
+      "labels": "(saying)",
+      "examples": [
+        {
+          "text": "He defended a morality in which the end justifies the means."
+        },
+        {
+          "text": "That's only OK if you believe that the end justifies the means."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English (in the senses ‘administer justice to’ and ‘inflict a judicial penalty on’): from Old French justifier, from Christian Latin justificare ‘do justice to’, from Latin justus, from jus ‘law, right’."
+}

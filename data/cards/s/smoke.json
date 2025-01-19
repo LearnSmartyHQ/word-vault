@@ -1,0 +1,157 @@
+{
+  "word": "smoke",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/sməʊk/",
+        "audio": "data/audio/s/smoke/smoke__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/sməʊk/",
+        "audio": "data/audio/s/smoke/smoke__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the grey, white or black gas that is produced by something burning",
+      "sensetop": "smoke from something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**cigarette/tobacco smoke**"
+        },
+        {
+          "text": "**Plumes of black smoke** could be seen rising from the area."
+        },
+        {
+          "text": "The explosion sent a huge **cloud of smoke** into the sky."
+        },
+        {
+          "text": "Clouds of thick black smoke billowed from the car's exhaust."
+        },
+        {
+          "text": "His eyes were smarting from the smoke from the fire.",
+          "contextForm": "smoke from something"
+        },
+        {
+          "text": "The smoke from their cigarettes curled upwards."
+        },
+        {
+          "text": "The majority of people who die in fires die of **smoke inhalation**."
+        },
+        {
+          "text": "Check your **smoke detectors** for dead batteries."
+        },
+        {
+          "text": "The witch disappeared in **a puff of smoke**."
+        },
+        {
+          "text": "I can definitely smell smoke."
+        },
+        {
+          "text": "Blue smoke curled up from her cigarette."
+        },
+        {
+          "text": "Don't blow smoke in my face!"
+        },
+        {
+          "text": "Hundreds of people die each year as a result of exposure to second-hand smoke."
+        },
+        {
+          "text": "I taught myself to blow smoke rings."
+        },
+        {
+          "text": "The club had a smoke machine and laser show."
+        },
+        {
+          "text": "When the smoke cleared we saw the extent of the damage."
+        }
+      ],
+      "topics": ["The environment"],
+      "collocations": {
+        "adjective": ["dense", "heavy", "thick"],
+        "… of smoke": ["cloud", "column", "haze"],
+        "verb + smoke": ["belch", "belch out", "blow"],
+        "smoke + verb": ["belch", "billow", "come"],
+        "smoke + noun": ["plume", "ring", "signal"],
+        "phrases": ["go up in smoke", "full of smoke", "thick with smoke"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "an act of smoking a cigarette",
+      "labels": "(informal)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Are you coming outside for a smoke?"
+        },
+        {
+          "text": "He's in the back garden having a smoke."
+        }
+      ],
+      "topics": ["Social issues"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "London, or another large city",
+      "labels": "(British English, informal)",
+      "examples": []
+    },
+    {
+      "definition": "to try to trick somebody or lie to somebody, particularly by saying something is better than it really is",
+      "labels": "(North American English, offensive, slang)",
+      "examples": []
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to be completely burnt",
+      "examples": [
+        {
+          "text": "The whole house went up in smoke."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "if your plans, hopes, etc. go up in smoke, they fail completely",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Hopes of an early end to the dispute have gone up in smoke."
+        }
+      ],
+      "topics": ["Difficulty and failure"]
+    },
+    {
+      "definition": "if something bad is being said about somebody/something, it usually has some truth in it",
+      "labels": "(saying)",
+      "examples": []
+    },
+    {
+      "definition": "the fact of hiding the truth with information that is not important or relevant",
+      "examples": [
+        {
+          "text": "There's a lot of smoke and mirrors in the financing of this film."
+        }
+      ]
+    },
+    {
+      "definition": "a decision that people describe as being made in a smoke-filled room is made by a small group of people at a private meeting, rather than in an open and democratic way",
+      "labels": "(disapproving)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Old English smoca (noun), smocian (verb), from the Germanic base of smēocan ‘emit smoke’; related to Dutch smook and German Schmauch."
+}

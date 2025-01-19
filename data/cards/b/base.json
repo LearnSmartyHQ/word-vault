@@ -1,0 +1,243 @@
+{
+  "word": "base",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/beɪs/",
+        "audio": "data/audio/b/base/base__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/beɪs/",
+        "audio": "data/audio/b/base/base__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the lowest part of something, especially the part or surface on which it rests or stands",
+      "sensetop": "at the base of something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The lamp has a heavy base."
+        },
+        {
+          "text": "the base of a column/glass"
+        },
+        {
+          "text": "He felt a sharp pain at the base of his spine.",
+          "contextForm": "at the base of something"
+        },
+        {
+          "text": "The statue has a solid concrete base."
+        },
+        {
+          "text": "Four bronze lions stand at the base of the column."
+        }
+      ],
+      "collocations": {
+        "adjective": ["firm", "solid", "strong"],
+        "verb + base": ["have"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the main place where you live or stay or where a business operates from",
+      "sensetop": "base for doing somethingbase for somethingas a base",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I spend a lot of time in Britain but Paris is still my base."
+        },
+        {
+          "text": "The town is an ideal base for touring the area.",
+          "contextForm": "base for doing something"
+        },
+        {
+          "text": "The organization is looking for a permanent base for its operations.",
+          "contextForm": "base for something"
+        },
+        {
+          "text": "You can **use** our apartment **as a base** in New York.",
+          "contextForm": "as a base"
+        },
+        {
+          "text": "The company has its base in New York, and branch offices all over the world."
+        },
+        {
+          "text": "The company has set up its new base in the north."
+        }
+      ],
+      "collocations": {
+        "adjective": ["excellent", "ideal", "perfect"],
+        "verb + base": ["have", "establish", "set up"],
+        "base + noun": ["camp"],
+        "preposition": ["base for"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a place where an army, a navy, etc. operates from",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **military/naval base**"
+        },
+        {
+          "text": "an **air base**"
+        },
+        {
+          "text": "After the attack, they returned to base."
+        },
+        {
+          "text": "The UN forces headed back to base."
+        },
+        {
+          "text": "Demonstrators demanded the removal of foreign bases."
+        },
+        {
+          "text": "The Americans established a naval base on the island in the 1960s."
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adjective": ["foreign", "air", "air-force"],
+        "verb + base": ["have", "build", "establish"],
+        "preposition": ["at a/​the base", "on a/​the base", "to (the) base"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "the people, activity, etc. from which somebody/something gets most of their support, income, power, etc.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "These policies have a broad **base of support**."
+        },
+        {
+          "text": "We once had an economy with a solid manufacturing base."
+        },
+        {
+          "text": "By broadening the **tax base** *(= increasing the number of people who pay taxes)* he could raise more revenue."
+        },
+        {
+          "text": "We have developed a strong **client base**."
+        },
+        {
+          "text": "This course is an opportunity to expand my **knowledge base**"
+        },
+        {
+          "text": "The country has a sound commercial base."
+        }
+      ],
+      "collocations": {
+        "adjective": ["solid", "sound", "broad"],
+        "verb + base": ["create", "form", "have"],
+        "base + verb": ["grow", "shrink"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "the pay that you get before anything extra is added",
+      "sensetop": "base pay/salary/wage",
+      "labels": "(especially North American English)British English usually",
+      "examples": [
+        {
+          "text": "All we got was base pay—we didn't reach profitability levels to award a bonus."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "an idea, a fact, a situation, etc. from which something is developed",
+      "examples": [
+        {
+          "text": "She used her family's history as a base for her novel."
+        },
+        {
+          "text": "His arguments have a sound economic base."
+        },
+        {
+          "text": "These policies give us a solid base for winning the next election."
+        }
+      ],
+      "synonyms": "basis",
+      "collocations": {
+        "adjective": ["firm", "secure", "solid"],
+        "verb + base": ["form", "have", "establish"],
+        "preposition": ["base for"]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "the first or main part of a substance to which other things are added",
+      "examples": [
+        {
+          "text": "a drink with a rum base"
+        },
+        {
+          "text": "Put some moisturizer on as a base before applying your make-up."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "a chemical substance, for example an alkali, that can combine with an acid to form a salt",
+      "examples": []
+    },
+    {
+      "senseNumber": "9",
+      "definition": "a number on which a system of counting and expressing numbers is built up, for example 10 in the decimal system and 2 in the binary system",
+      "examples": []
+    },
+    {
+      "senseNumber": "10",
+      "definition": "one of the four positions that a player must reach in order to score points",
+      "cefr": "c1",
+      "examples": [],
+      "topics": ["Sports: ball and racket sports"]
+    },
+    {
+      "definition": "to consider and deal with all the things that could happen or could be needed when you are arranging something",
+      "examples": [
+        {
+          "text": "I am confident this contract covers all the bases."
+        }
+      ]
+    },
+    {
+      "definition": "to fail to make a successful start in a project, relationship, etc.; to fail to get through the first stage",
+      "labels": "(informal, especially North American English)",
+      "examples": [],
+      "topics": ["Difficulty and failure"]
+    },
+    {
+      "definition": "completely wrong about something",
+      "labels": "(North American English, informal)",
+      "examples": [
+        {
+          "text": "If that's what you think, you're way off base."
+        }
+      ]
+    },
+    {
+      "definition": "to make contact with somebody again",
+      "labels": "(informal)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "noun Middle English: from Old French, from Latin basis ‘base, pedestal’, from Greek."
+}

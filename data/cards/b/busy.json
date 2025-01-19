@@ -1,0 +1,173 @@
+{
+  "word": "busy",
+  "partOfSpeech": "adjective",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈbɪzi/",
+        "audio": "data/audio/b/busy/busy__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈbɪzi/",
+        "audio": "data/audio/b/busy/busy__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "having a lot to do; perhaps not free to do something else because you are working on something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Are you busy tonight?"
+        },
+        {
+          "text": "I'm afraid the doctor is busy at the moment. Can he call you back?"
+        },
+        {
+          "text": "The principal is a very busy woman."
+        },
+        {
+          "text": "I'll be **too busy** to come to the meeting."
+        },
+        {
+          "text": "She was always **too busy** to listen."
+        },
+        {
+          "text": "I've got enough work to **keep you busy**."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "look", "seem"],
+        "adverb": ["extremely", "fairly", "very"],
+        "preposition": ["with"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "giving all your attention and effort to a particular activity",
+      "sensetop": "busy doing somethingbusy with something/somebody",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "James is busy practising for the school concert.",
+          "contextForm": "busy doing something"
+        },
+        {
+          "text": "They were busy enjoying themselves at the party."
+        },
+        {
+          "text": "Kate's busy with her homework.",
+          "contextForm": "busy with something/somebody"
+        },
+        {
+          "text": "Let's get busy with the clearing up."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "look", "seem"],
+        "adverb": ["extremely", "fairly", "very"],
+        "preposition": ["with"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "full of work and activity",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Have you had a busy day?"
+        },
+        {
+          "text": "I have a very **busy schedule**."
+        },
+        {
+          "text": "This is one of the **busiest times** of the year for the department."
+        },
+        {
+          "text": "We've got a busy week ahead of us."
+        },
+        {
+          "text": "We had a busy weekend lined up."
+        },
+        {
+          "text": "a very busy life"
+        },
+        {
+          "text": "Things are **getting** really **busy** now."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "full of people, activity, vehicles, etc.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **busy road/street**"
+        },
+        {
+          "text": "The place **gets** very **busy** at lunchtimes."
+        },
+        {
+          "text": "We have to cross a busy main road to get to school."
+        },
+        {
+          "text": "Victoria is one of London's busiest stations."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "being used",
+      "labels": "(especially North American English)(British English)(especially North American English)(North American English)(both British English)(especially North American English)(informal, especially North American English)(British English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The line is busy—I'll try again later."
+        },
+        {
+          "text": "the busy signal"
+        }
+      ],
+      "synonyms": "engaged"
+    },
+    {
+      "senseNumber": "6",
+      "definition": "too full of small details",
+      "examples": [
+        {
+          "text": "This wallpaper is too busy for the bedroom."
+        }
+      ]
+    },
+    {
+      "definition": "very busy",
+      "examples": []
+    },
+    {
+      "definition": "to find enough things to do",
+      "examples": [
+        {
+          "text": "Since she retired she's kept herself very busy."
+        },
+        {
+          "text": "She needed to keep busy."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English bisgian (verb), bisig (noun); related to Dutch bezig, of unknown origin."
+}

@@ -1,0 +1,117 @@
+{
+  "word": "magnify",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmæɡnɪfaɪ/",
+        "audio": "data/audio/m/magnify/magnify__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈmæɡnɪfaɪz/",
+        "audio": "data/audio/m/magnify/magnifies__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈmæɡnɪfaɪd/",
+        "audio": "data/audio/m/magnify/magnified__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈmæɡnɪfaɪɪŋ/",
+        "audio": "data/audio/m/magnify/magnifying__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmæɡnɪfaɪ/",
+        "audio": "data/audio/m/magnify/magnify__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈmæɡnɪfaɪz/",
+        "audio": "data/audio/m/magnify/magnifies__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈmæɡnɪfaɪd/",
+        "audio": "data/audio/m/magnify/magnified__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈmæɡnɪfaɪɪŋ/",
+        "audio": "data/audio/m/magnify/magnifying__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "magnify",
+      "heSheIt": "magnifies"
+    },
+    "pastSimple": "magnified",
+    "pastParticiple": "magnified",
+    "ingForm": "magnifying"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make something look bigger than it really is, for example by using a lens or microscope",
+      "sensetop": "magnify something (to/by something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "bacteria magnified to 1 000 times their actual size"
+        },
+        {
+          "text": "an image magnified by a factor of 4"
+        },
+        {
+          "text": "The picture shows the insect’s head magnified ten times."
+        }
+      ],
+      "synonyms": "enlarge",
+      "topics": ["Engineering"],
+      "collocations": {
+        "adverb": ["greatly", "highly"],
+        "phrases": ["magnify something 50, 100, etc. times"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make something bigger, louder or stronger",
+      "sensetop": "magnify something",
+      "examples": [
+        {
+          "text": "The sound was magnified by the high roof."
+        },
+        {
+          "text": "The dry summer has magnified the problem of water shortages."
+        }
+      ],
+      "collocations": {
+        "adverb": ["greatly", "highly"],
+        "phrases": ["magnify something 50, 100, etc. times"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to make something seem more important or serious than it really is",
+      "sensetop": "magnify something",
+      "examples": [
+        {
+          "text": "The daring of his exploits had been hugely magnified by constant telling."
+        }
+      ],
+      "synonyms": "exaggerate",
+      "collocations": {
+        "adverb": ["greatly", "highly"],
+        "phrases": ["magnify something 50, 100, etc. times"]
+      }
+    }
+  ],
+  "wordOrigin": "late Middle English (in the senses ‘show honour to (God)’ and ‘make greater’): from Old French magnifier or Latin magnificare, based on Latin magnus ‘great’. The current senses date from the mid 17th cent."
+}

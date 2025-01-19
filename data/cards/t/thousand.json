@@ -1,0 +1,64 @@
+{
+  "word": "thousand",
+  "partOfSpeech": "number",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈθaʊznd/",
+        "audio": "data/audio/t/thousand/thousand__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈθaʊznd/",
+        "audio": "data/audio/t/thousand/thousand__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "1 000",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [],
+      "topics": ["Maths and measurement"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a large number",
+      "labels": "(usually informal)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "There were thousands of people there."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the numbers from 1 000 to 9 999",
+      "examples": [
+        {
+          "text": "The cost ran into the thousands."
+        }
+      ]
+    },
+    {
+      "definition": "to be very successful",
+      "labels": "(North American English, informal)",
+      "examples": [
+        {
+          "text": "He’s made another sale? He’s really batting a thousand!"
+        }
+      ],
+      "topics": ["Success"]
+    }
+  ],
+  "wordOrigin": "Old English thūsend, of Germanic origin; related to Dutch duizend and German Tausend."
+}

@@ -1,0 +1,148 @@
+{
+  "word": "circulate",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsɜːkjəleɪt/",
+        "audio": "data/audio/c/circulate/circulate__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsɜːkjəleɪts/",
+        "audio": "data/audio/c/circulate/circulates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsɜːkjəleɪtɪd/",
+        "audio": "data/audio/c/circulate/circulated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈsɜːkjəleɪtɪŋ/",
+        "audio": "data/audio/c/circulate/circulating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsɜːrkjəleɪt/",
+        "audio": "data/audio/c/circulate/circulate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsɜːrkjəleɪts/",
+        "audio": "data/audio/c/circulate/circulates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsɜːrkjəleɪtɪd/",
+        "audio": "data/audio/c/circulate/circulated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈsɜːrkjəleɪtɪŋ/",
+        "audio": "data/audio/c/circulate/circulating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "circulate",
+      "heSheIt": "circulates"
+    },
+    "pastSimple": "circulated",
+    "pastParticiple": "circulated",
+    "ingForm": "circulating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "when a liquid, gas or air circulates or is circulated, it moves continuously around a place or system",
+      "sensetop": "circulate something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The condition prevents the blood from circulating freely."
+        },
+        {
+          "text": "Cooled air is circulated throughout the building.",
+          "contextForm": "circulate something"
+        },
+        {
+          "text": "Blood circulates through the arteries and veins."
+        },
+        {
+          "text": "The heart circulates blood around the body."
+        },
+        {
+          "text": "sugar circulating in the bloodstream"
+        },
+        {
+          "text": "The condition prevents blood from circulating freely."
+        }
+      ],
+      "topics": ["Biology", "Physics and chemistry"],
+      "collocations": {
+        "adverb": ["freely"],
+        "preposition": ["around", "round", "in"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "if a story, an idea, information, etc. circulates or if you circulate it, it spreads or it is passed from one person to another",
+      "sensetop": "circulate around somethingcirculate among somebodycirculate something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Rumours began to circulate about his financial problems."
+        },
+        {
+          "text": "There's a story circulating around the office that you are about to leave the company.",
+          "contextForm": "circulate around something"
+        },
+        {
+          "text": "the latest conspiracy theory circulating among some online communities",
+          "contextForm": "circulate among somebody"
+        },
+        {
+          "text": "Who has been circulating these rumours?",
+          "contextForm": "circulate something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["widely", "freely"],
+        "preposition": ["among", "around", "round"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to send goods or information to all the people in a group",
+      "sensetop": "circulate somethingcirculate something to somebody",
+      "examples": [
+        {
+          "text": "They circulated a petition for his release.",
+          "contextForm": "circulate something"
+        },
+        {
+          "text": "The book was circulated widely in Russia."
+        },
+        {
+          "text": "The document will be circulated to all members.",
+          "contextForm": "circulate something to somebody"
+        }
+      ],
+      "collocations": {
+        "adverb": ["widely", "freely"],
+        "preposition": ["among", "around", "round"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to move around a group, especially at a party, talking to different people",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "late 15th cent. (as an alchemical term meaning ‘distil something in a closed container, allowing condensed vapour to return to the original liquid’): from Latin circulat- ‘moved in a circular path’, from the verb circulare, from circulus ‘small ring’, diminutive of circus ‘ring’.Sense (1) dates from the mid 17th cent."
+}

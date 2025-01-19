@@ -1,0 +1,169 @@
+{
+  "word": "practise",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈpræktɪs/",
+        "audio": "data/audio/p/practise/practice__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈpræktɪsɪz/",
+        "audio": "data/audio/p/practise/practises__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈpræktɪst/",
+        "audio": "data/audio/p/practise/practised__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈpræktɪsɪŋ/",
+        "audio": "data/audio/p/practise/practising__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈpræktɪs/",
+        "audio": "data/audio/p/practise/practise__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈpræktɪsɪz/",
+        "audio": "data/audio/p/practise/practises__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈpræktɪst/",
+        "audio": "data/audio/p/practise/practised__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈpræktɪsɪŋ/",
+        "audio": "data/audio/p/practise/practising__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "practise",
+      "heSheIt": "practises"
+    },
+    "pastSimple": "practised",
+    "pastParticiple": "practised",
+    "ingForm": "practising"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to do an activity or train regularly so that you can improve your skill",
+      "sensetop": "practise for somethingpractise somethingpractise something on somebody/somethingpractise on somebody/somethingpractise doing something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You need to practise every day."
+        },
+        {
+          "text": "She's practising for her piano exam.",
+          "contextForm": "practise for something"
+        },
+        {
+          "text": "I've been practising my serve for weeks.",
+          "contextForm": "practise something"
+        },
+        {
+          "text": "She diligently practised her violin every day."
+        },
+        {
+          "text": "He usually wants to practise his English on me.",
+          "contextForm": "practise something on somebody/something"
+        },
+        {
+          "text": "I learned hairdressing by practising on my sister.",
+          "contextForm": "practise on somebody/something"
+        },
+        {
+          "text": "Practise reversing the car into the garage.",
+          "contextForm": "practise doing something"
+        }
+      ],
+      "topics": ["Education", "Language", "Music"],
+      "collocations": {
+        "adverb": ["diligently", "hard", "regularly"],
+        "preposition": ["for", "on"],
+        "phrases": ["be well practised (in something)"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to work as a doctor, lawyer, etc.",
+      "sensetop": "practise as somethingpractise something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "There are over 50 000 solicitors practising in England and Wales."
+        },
+        {
+          "text": "She practised as a barrister for many years.",
+          "contextForm": "practise as something"
+        },
+        {
+          "text": "He was banned from **practising medicine**.",
+          "contextForm": "practise something"
+        },
+        {
+          "text": "She **practised law** for more than a decade."
+        }
+      ],
+      "topics": ["Jobs"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to do something regularly as part of your normal behaviour",
+      "sensetop": "practise something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "to practise self-restraint/safe sex"
+        },
+        {
+          "text": "Do you still practise your religion?"
+        },
+        {
+          "text": "These methods are still practised today."
+        },
+        {
+          "text": "This model of education is widely practised."
+        },
+        {
+          "text": "whaling as currently practised"
+        },
+        {
+          "text": "Polygamy is legal there, but it is very rarely practised."
+        },
+        {
+          "text": "Christians were allowed to practise their faith unmolested by the authorities."
+        },
+        {
+          "text": "People found guilty of practising black magic were hanged."
+        }
+      ],
+      "collocations": {
+        "adverb": ["commonly", "routinely", "widely"],
+        "phrases": ["(be) practised today"]
+      }
+    },
+    {
+      "definition": "to do the things yourself that you tell other people to do",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French practiser or medieval Latin practizare, alteration of practicare ‘perform, carry out’, from practica ‘practice’, from Greek praktikē, feminine (used as a noun), of praktikos ‘concerned with action’, from prattein ‘do, act’."
+}

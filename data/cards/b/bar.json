@@ -1,0 +1,304 @@
+{
+  "word": "bar",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bɑː(r)/",
+        "audio": "data/audio/b/bar/bar__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bɑːr/",
+        "audio": "data/audio/b/bar/bar__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a place where you can buy and drink alcoholic and other drinks",
+      "labels": "(British English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We arranged to meet in a bar called the Flamingo."
+        },
+        {
+          "text": "The area is full of restaurants and bars."
+        },
+        {
+          "text": "The bar staff are very friendly."
+        },
+        {
+          "text": "It's the island’s only **licensed bar** *(= one that is allowed to sell alcoholic drinks)*."
+        },
+        {
+          "text": "I found David in the bar of the Red Lion *(= a room in a pub where drinks are served)*."
+        },
+        {
+          "text": "The hotel has a restaurant, bar and swimming pool."
+        },
+        {
+          "text": "There were not many people in the bar."
+        },
+        {
+          "text": "He's been working in a bar called the Anvil."
+        },
+        {
+          "text": "We could meet at the theatre and have a drink in the bar."
+        }
+      ],
+      "topics": ["Drinks"],
+      "collocations": {
+        "adjective": ["licensed", "crowded", "open"],
+        "verb + bar": ["enter", "frequent", "go to"],
+        "bar + noun": ["food", "menu", "snacks"],
+        "preposition": ["in a/​the bar", "at a/​the bar"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a place in which a particular kind of food or drink is the main thing that is served",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a sushi bar"
+        },
+        {
+          "text": "The hotel has a cocktail bar on the top floor."
+        }
+      ],
+      "collocations": {
+        "adjective": ["licensed", "crowded", "open"],
+        "verb + bar": ["enter", "frequent", "go to"],
+        "bar + noun": ["food", "menu", "snacks"],
+        "preposition": ["in a/​the bar", "at a/​the bar"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a long wide wooden surface where drinks, etc. are served",
+      "sensetop": "at the barbehind the bar",
+      "labels": "(humorous)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She was sitting at the bar.",
+          "contextForm": "at the bar"
+        },
+        {
+          "text": "He spent the summer working behind the bar at the local pub.",
+          "contextForm": "behind the bar"
+        },
+        {
+          "text": "It was so crowded I couldn't get to the bar."
+        },
+        {
+          "text": "They were chatting at the bar."
+        },
+        {
+          "text": "I didn't recognize the man who was serving behind the bar."
+        },
+        {
+          "text": "You can usually find him propping up (= leaning on) the bar of the Queen's Head."
+        }
+      ],
+      "topics": ["Drinks"],
+      "collocations": {
+        "adjective": ["breakfast"],
+        "verb + bar": ["be propping up"],
+        "preposition": ["at the bar", "behind the bar"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a piece of something with straight sides",
+      "labels": "(North American English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **bar of chocolate/soap **"
+        },
+        {
+          "text": "a **chocolate bar**"
+        },
+        {
+          "text": "a **candy bar**"
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a long straight piece of metal or wood. Bars are often used to stop somebody from getting through a space.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He smashed the window with an **iron bar**."
+        },
+        {
+          "text": "The room was small, with bars on the windows."
+        },
+        {
+          "text": "The windows at street level were fitted with bars."
+        },
+        {
+          "text": "a five-bar gate *(= one made with five horizontal bars of wood)*"
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "a long narrow area at the edge of a computer screen that contains links or pull-down menus or displays information about the website or program that you are using",
+      "examples": []
+    },
+    {
+      "senseNumber": "7",
+      "definition": "the crossbar of a goal",
+      "examples": [
+        {
+          "text": "His shot hit the bar."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "a band of colour or light",
+      "examples": [
+        {
+          "text": "Bars of sunlight slanted down from the tall narrow windows."
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "a thing that stops somebody from doing something",
+      "sensetop": "bar (to something)",
+      "examples": [
+        {
+          "text": "At that time being a woman was a bar to promotion in most professions."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "one of the short sections of equal length that a piece of music is divided into, and the notes that are in it",
+      "labels": "(British English)North American English also",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "four beats to the bar"
+        },
+        {
+          "text": "the opening bars of a piece of music"
+        },
+        {
+          "text": "She played a few bars on the piano."
+        }
+      ],
+      "topics": ["Music"],
+      "collocations": {
+        "verb + bar": ["hum", "play", "sing"],
+        "preposition": ["in a/​the bar"],
+        "phrases": ["two, four, etc. beats to the bar"]
+      }
+    },
+    {
+      "senseNumber": "11",
+      "definition": "the profession of barrister (= a lawyer in a higher court)",
+      "labels": "(British English)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "to **be called to the Bar** *(= allowed to work as a qualified )*"
+        }
+      ],
+      "topics": ["Law and justice"]
+    },
+    {
+      "senseNumber": "12",
+      "definition": "the profession of any kind of lawyer",
+      "labels": "(North American English)",
+      "examples": []
+    },
+    {
+      "senseNumber": "13",
+      "definition": "a unit for measuring the pressure of the atmosphere, equal to a hundred thousand newtons per square metre",
+      "examples": []
+    },
+    {
+      "senseNumber": "14",
+      "definition": "a piece of metal with wire wrapped around it that becomes red and hot when electricity is passed through it",
+      "examples": [
+        {
+          "text": "Switch another bar on if you’re cold."
+        }
+      ]
+    },
+    {
+      "definition": "in prison",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The murderer is now safely behind bars."
+        }
+      ]
+    },
+    {
+      "definition": "to set a new, lower standard of quality or performance",
+      "examples": [
+        {
+          "text": "In the current economic climate we may need to lower the bar on quotas."
+        }
+      ]
+    },
+    {
+      "definition": "to have nothing to do with something",
+      "labels": "(Australian English, New Zealand English, informal)",
+      "examples": [
+        {
+          "text": "If he tries to sell you his car, don't have a bar of it."
+        }
+      ]
+    },
+    {
+      "definition": "to set a new, higher standard of quality or performance",
+      "examples": [
+        {
+          "text": "The factory has raised the bar on productivity, food safety and quality."
+        },
+        {
+          "text": "This latest computer game raises the bar for interface design."
+        },
+        {
+          "text": "The awards go to people who have truly raised the bar."
+        },
+        {
+          "text": "Perhaps the new admission requirements raised the bar too high."
+        }
+      ]
+    },
+    {
+      "definition": "to set a standard of quality or performance",
+      "examples": [
+        {
+          "text": "The show really sets the bar for artistic invention."
+        },
+        {
+          "text": "Sofia sets the bar very high for what she expects of herself."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "noun senses 1 to 12 Middle English: from Old French barre (noun), barrer (verb), of unknown origin. noun sense 13 early 20th cent.: from Greek baros ‘weight’."
+}

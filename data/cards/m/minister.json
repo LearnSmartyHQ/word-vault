@@ -1,0 +1,116 @@
+{
+  "word": "minister",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmɪnɪstə(r)/",
+        "audio": "data/audio/m/minister/minister__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmɪnɪstər/",
+        "audio": "data/audio/m/minister/minister__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a senior member of the government who is in charge of a government department or a branch of one",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the Minister of Education"
+        },
+        {
+          "text": "She became minister of education in 2024."
+        },
+        {
+          "text": "A new minister of defence had been appointed."
+        },
+        {
+          "text": "a meeting of EU Foreign Ministers"
+        },
+        {
+          "text": "senior ministers in the Cabinet"
+        },
+        {
+          "text": "cabinet/government ministers"
+        },
+        {
+          "text": "the finance/defence/interior/justice minister"
+        },
+        {
+          "text": "The health minister announced £10 billion in extra funding."
+        },
+        {
+          "text": "Groups are lobbying the Transport Minister over the issue."
+        },
+        {
+          "text": "Local authorities should submit schemes to the relevant minister for approval."
+        },
+        {
+          "text": "Ministers are accountable to Parliament."
+        },
+        {
+          "text": "The foreign minister intervened with disastrous results."
+        },
+        {
+          "text": "the minister responsible for the health service"
+        },
+        {
+          "text": "the new minister for the Arts"
+        }
+      ],
+      "topics": ["Politics"],
+      "collocations": {
+        "adjective": ["prime", "chief", "principal"],
+        "verb + minister": [
+          "appoint (somebody)",
+          "appoint somebody as",
+          "be named"
+        ],
+        "minister + verb": ["resign", "retire", "be accountable to somebody"],
+        "preposition": ["minister for", "minister of"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a trained religious leader in some Christian churches",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a Methodist minister"
+        },
+        {
+          "text": "He was ordained minister of a small rural congregation."
+        }
+      ],
+      "topics": ["Religion and festivals", "Jobs"],
+      "collocations": {
+        "adjective": ["Christian", "Presbyterian", "Protestant"],
+        "verb + minister": [
+          "ordain (somebody)",
+          "ordain somebody as",
+          "preach (something)"
+        ],
+        "phrases": ["a minister of religion"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a person, lower in rank than an ambassador, whose job is to represent their government in a foreign country",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Middle English (in sense (2); also in the sense ‘a person acting under the authority of another’): from Old French ministre (noun), ministrer (verb), from Latin minister ‘servant’, from minus ‘less’."
+}

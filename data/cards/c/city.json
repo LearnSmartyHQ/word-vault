@@ -1,0 +1,179 @@
+{
+  "word": "city",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsɪti/",
+        "audio": "data/audio/c/city/city__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsɪti/",
+        "audio": "data/audio/c/city/city__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a large and important town",
+      "sensetop": "in a citythe city of…",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Parking is difficult in the **city centre**."
+        },
+        {
+          "text": "It is one of the world's most beautiful cities."
+        },
+        {
+          "text": "Riots occurred in all the **major cities**."
+        },
+        {
+          "text": "the country’s **capital city**"
+        },
+        {
+          "text": "Mexico City has a population of more than 20 million people."
+        },
+        {
+          "text": "Manchester City Football Club"
+        },
+        {
+          "text": "We live in a big city.",
+          "contextForm": "in a city"
+        },
+        {
+          "text": "a map of the city of Boston",
+          "contextForm": "the city of…"
+        },
+        {
+          "text": "Bonn is Oxford's twin city."
+        },
+        {
+          "text": "Her native city is Tokyo."
+        },
+        {
+          "text": "Rome is one of the great cities of the world."
+        },
+        {
+          "text": "The building runs the length of a city block."
+        },
+        {
+          "text": "The city grew rapidly in the 19th century."
+        },
+        {
+          "text": "There's a park just outside the city."
+        },
+        {
+          "text": "the host city for the Olympic Games"
+        },
+        {
+          "text": "the lost city of Atlantis"
+        },
+        {
+          "text": "the old walled city of Cartagena"
+        },
+        {
+          "text": "The city of Boston is one of America's most historic cities."
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "huge", "large"],
+        "verb + city": ["build", "found"],
+        "city + verb": ["grow", "flourish"],
+        "city + noun": ["dweller", "slicker", "boy"],
+        "preposition": ["in a/​the city", "outside a/​the city"],
+        "phrases": [
+          "the centre/​center of a city",
+          "the heart of a city",
+          "the middle of a city"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a town that has been given special rights by a king or queen, usually one that has a cathedral",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "the city of York"
+        },
+        {
+          "text": "Ely is a cathedral city in East Cambridgeshire."
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "huge", "large"],
+        "verb + city": ["build", "found"],
+        "city + verb": ["grow", "flourish"],
+        "city + noun": ["dweller", "slicker", "boy"],
+        "preposition": ["in a/​the city", "outside a/​the city"],
+        "phrases": [
+          "the centre/​center of a city",
+          "the heart of a city",
+          "the middle of a city"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a town that has been given special rights by the state government",
+      "labels": "(North American English)",
+      "examples": [],
+      "collocations": {
+        "adjective": ["big", "huge", "large"],
+        "verb + city": ["build", "found"],
+        "city + verb": ["grow", "flourish"],
+        "city + noun": ["dweller", "slicker", "boy"],
+        "preposition": ["in a/​the city", "outside a/​the city"],
+        "phrases": [
+          "the centre/​center of a city",
+          "the heart of a city",
+          "the middle of a city"
+        ]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "all the people who live in a city",
+      "examples": [
+        {
+          "text": "The city turned out to welcome the victorious team home."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "the UK’s financial and business centre, in the oldest part of London; the people who work there",
+      "labels": "(British English)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "a City stockbroker"
+        },
+        {
+          "text": "What is the City's reaction to the cut in interest rates?"
+        }
+      ],
+      "topics": ["Money"]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "used after other nouns to say that a place is full of a particular thing",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "It's not exactly fun city here is it?"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French cite, from Latin civitas, from civis ‘citizen’. Originally denoting a town, and often used as a Latin equivalent to Old English burh ‘borough’, the term was later applied to foreign and ancient cities and to the more important English boroughs. The connection between city and cathedral grew up under the Norman kings, as the episcopal sees (many had been established in villages) were removed to the chief borough of the diocese."
+}

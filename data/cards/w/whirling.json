@@ -1,0 +1,114 @@
+{
+  "word": "whirl",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/wɜːl/",
+        "audio": "data/audio/w/whirl/whirl__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/wɜːlz/",
+        "audio": "data/audio/w/whirl/whirls__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/wɜːld/",
+        "audio": "data/audio/w/whirl/whirled__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈwɜːlɪŋ/",
+        "audio": "data/audio/w/whirl/whirling__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/wɜːrl/",
+        "audio": "data/audio/w/whirl/whirl__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/wɜːrlz/",
+        "audio": "data/audio/w/whirl/whirls__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/wɜːrld/",
+        "audio": "data/audio/w/whirl/whirled__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈwɜːrlɪŋ/",
+        "audio": "data/audio/w/whirl/whirling__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "whirl",
+      "heSheIt": "whirls"
+    },
+    "pastSimple": "whirled",
+    "pastParticiple": "whirled",
+    "ingForm": "whirling"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to move, or make somebody/something move, around quickly in a circle or in a particular direction",
+      "sensetop": "(+ adv./prep.)whirl somebody/something (+ adv./prep.)",
+      "examples": [
+        {
+          "text": "Leaves whirled in the wind.",
+          "contextForm": "(+ adv./prep.)"
+        },
+        {
+          "text": "She whirled around to face him."
+        },
+        {
+          "text": "They ducked to avoid the whirling blades of the helicopter."
+        },
+        {
+          "text": "Tom whirled her across the dance floor.",
+          "contextForm": "whirl somebody/something (+ adv./prep.)"
+        },
+        {
+          "text": "He grasped her wrist and whirled her back to face him."
+        },
+        {
+          "text": "He whirled her around the dance floor."
+        },
+        {
+          "text": "She whirled on him, furious."
+        },
+        {
+          "text": "She whirled round and round, flinging out her arms."
+        },
+        {
+          "text": "The gulls were whirling and shrieking in the sky above."
+        }
+      ],
+      "synonyms": "spin"
+    },
+    {
+      "senseNumber": "2",
+      "definition": "if your mind, thoughts, etc. whirl, you feel confused and excited and cannot think clearly",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "I couldn't sleep—my mind was whirling from all that had happened."
+        },
+        {
+          "text": "So many thoughts whirled around in her mind."
+        }
+      ],
+      "synonyms": "reel",
+      "topics": ["Feelings"]
+    }
+  ],
+  "wordOrigin": "Middle English: the verb probably from Old Norse hvirfla ‘turn about’; the noun partly from Middle Low German, Middle Dutch wervel ‘spindle’, or from Old Norse hvirfill ‘circle’, from a Germanic base meaning ‘rotate’."
+}

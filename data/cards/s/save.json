@@ -1,0 +1,453 @@
+{
+  "word": "save",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/seɪv/",
+        "audio": "data/audio/s/save/save__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/seɪvz/",
+        "audio": "data/audio/s/save/saves__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/seɪvd/",
+        "audio": "data/audio/s/save/saved__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈseɪvɪŋ/",
+        "audio": "data/audio/s/save/saving__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/seɪv/",
+        "audio": "data/audio/s/save/save__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/seɪvz/",
+        "audio": "data/audio/s/save/saves__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/seɪvd/",
+        "audio": "data/audio/s/save/saved__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈseɪvɪŋ/",
+        "audio": "data/audio/s/save/saving__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "save",
+      "heSheIt": "saves"
+    },
+    "pastSimple": "saved",
+    "pastParticiple": "saved",
+    "ingForm": "saving"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to keep somebody/something safe from death, harm, loss, etc.",
+      "sensetop": "save somebody/somethingsave somebody/something from somethingsave somebody/something from doing something",
+      "labels": "(figurative)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **save somebody’s life**",
+          "contextForm": "save somebody/something"
+        },
+        {
+          "text": "Doctors were unable to save her."
+        },
+        {
+          "text": "He's trying to save their marriage."
+        },
+        {
+          "text": "She needs to win the next two games to save the match."
+        },
+        {
+          "text": "Workers chose longer hours in order to **save jobs**."
+        },
+        {
+          "text": "If you really want to **save the planet**, sell your car."
+        },
+        {
+          "text": "Thanks for doing that. You **saved my life** *(= helped me a lot)*."
+        },
+        {
+          "text": "She started a campaign to save her business."
+        },
+        {
+          "text": "to save a rare species from extinction",
+          "contextForm": "save somebody/something from something"
+        },
+        {
+          "text": "His intrepid act **saved** five men **from death**."
+        },
+        {
+          "text": "Money from local businesses helped save the school from closure."
+        },
+        {
+          "text": "This new technology might just have the power to **save the world** from ecological disaster."
+        },
+        {
+          "text": "She saved a little girl from falling into the water.",
+          "contextForm": "save somebody/something from doing something"
+        },
+        {
+          "text": "He is responsible for saving the lives of the aircrew."
+        },
+        {
+          "text": "It's a trick that might just save us from total disaster."
+        },
+        {
+          "text": "She helped save my career."
+        },
+        {
+          "text": "The furniture was beyond saving."
+        },
+        {
+          "text": "They saved the paintings from destruction."
+        },
+        {
+          "text": "We managed to save the animals from being put down."
+        },
+        {
+          "text": "She tried to get the boy to run away and save himself, not try to help her."
+        }
+      ],
+      "collocations": {
+        "adverb": ["single-handedly", "possibly", "potentially"],
+        "verb + save": ["be able to", "can", "be unable to"],
+        "preposition": ["from"],
+        "phrases": [
+          "an attempt to save something",
+          "an effort to save something",
+          "a battle to save something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to keep money instead of spending it, especially in order to buy a particular thing",
+      "sensetop": "save for somethingsave upsave up for somethingsave somethingsave something upsave something (up) for something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I'm not very good at saving."
+        },
+        {
+          "text": "We **scrimp and save** to send our children to a private school."
+        },
+        {
+          "text": "I'm saving up to buy a new car."
+        },
+        {
+          "text": "I'm saving for a new bike.",
+          "contextForm": "save for something"
+        },
+        {
+          "text": "For all younger people in the US saving for retirement will be an absolute necessity."
+        },
+        {
+          "text": "We've been saving up to go to Australia.",
+          "contextForm": "save up"
+        },
+        {
+          "text": "I'm trying to save up for my holiday.",
+          "contextForm": "save up for something"
+        },
+        {
+          "text": "You should save a little each week.",
+          "contextForm": "save something"
+        },
+        {
+          "text": "I've saved almost £100 so far."
+        },
+        {
+          "text": "He saved up some money and made plans to travel.",
+          "contextForm": "save something up"
+        },
+        {
+          "text": "He's been saving his allowance up for a new bike.",
+          "contextForm": "save something (up) for something"
+        }
+      ],
+      "topics": ["Money"],
+      "collocations": {
+        "adverb": ["up"],
+        "verb + save": ["look to", "try to", "manage to"],
+        "preposition": ["for", "on"],
+        "phrases": ["scrimp and save", "thereby saving"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to avoid wasting something or using more than necessary",
+      "sensetop": "save somethingsave something on somethingsave somebody something on somethingsave somebody something save on something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "People are looking for ways to **save money**.",
+          "contextForm": "save something"
+        },
+        {
+          "text": "We'll take a cab to **save time**."
+        },
+        {
+          "text": "Recycling waste **saves energy**."
+        },
+        {
+          "text": "Images are captured in black and white to save hard disk space."
+        },
+        {
+          "text": "Book early and save £50!"
+        },
+        {
+          "text": "We should try to save water."
+        },
+        {
+          "text": "The government is trying to save £1 million on defence.",
+          "contextForm": "save something on something"
+        },
+        {
+          "text": "If we go this way it will save us two hours on the trip.",
+          "contextForm": "save somebody something on something"
+        },
+        {
+          "text": "A professional wedding coordinator can save you time and money.",
+          "contextForm": "save somebody something"
+        },
+        {
+          "text": "I save on fares by walking to work.",
+          "contextForm": "save on something"
+        },
+        {
+          "text": "Factory and farm managers were told to save electricity during peak hours."
+        },
+        {
+          "text": "We use video conferencing for our meetings, thereby saving thousands in travel expenses."
+        },
+        {
+          "text": "This new system could save us a lot of money."
+        },
+        {
+          "text": "They're hoping to save on printing costs."
+        }
+      ],
+      "collocations": {
+        "adverb": ["up"],
+        "verb + save": ["look to", "try to", "manage to"],
+        "preposition": ["for", "on"],
+        "phrases": ["scrimp and save", "thereby saving"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to keep something to use or enjoy in the future or for somebody else to use",
+      "sensetop": "save something for something/somebodysave somethingsave somebody something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He's saving his strength for the last part of the race.",
+          "contextForm": "save something for something/somebody"
+        },
+        {
+          "text": "We'll eat some now and save some for tomorrow."
+        },
+        {
+          "text": "Save some food for me."
+        },
+        {
+          "text": "The main event is saved until last.",
+          "contextForm": "save something"
+        },
+        {
+          "text": "Save me some food.",
+          "contextForm": "save somebody something"
+        },
+        {
+          "text": "I won't save you a seat if you're late."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to make a computer keep data by putting a copy in a location where it will be stored",
+      "sensetop": "save somethingsave something to something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We recommend you save regularly by clicking on the update button."
+        },
+        {
+          "text": "Save data frequently.",
+          "contextForm": "save something"
+        },
+        {
+          "text": "All your recent searches are automatically saved."
+        },
+        {
+          "text": "The data can be saved to disk.",
+          "contextForm": "save something to something"
+        }
+      ],
+      "topics": ["Computers"]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to collect something because you like it or for a special purpose",
+      "sensetop": "save something",
+      "examples": [
+        {
+          "text": "I've been saving theatre programmes for years."
+        },
+        {
+          "text": "If you save ten tokens you can get a T-shirt."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to avoid doing something difficult or unpleasant; to make somebody able to avoid doing something difficult or unpleasant",
+      "sensetop": "save somebody from doing somethingsave somethingsave somebody somethingsave doing somethingsave somebody doing something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The prize money saved her from having to find a job.",
+          "contextForm": "save somebody from doing something"
+        },
+        {
+          "text": "She did it herself to save argument.",
+          "contextForm": "save something"
+        },
+        {
+          "text": "Thanks for sending that letter for me—it saved me a trip.",
+          "contextForm": "save somebody something"
+        },
+        {
+          "text": "The new system will **save** people **the trouble** of taking recyclable materials to collection points."
+        },
+        {
+          "text": "He's grown a beard to save shaving.",
+          "contextForm": "save doing something"
+        },
+        {
+          "text": "If you phone for an appointment, it'll save you waiting.",
+          "contextForm": "save somebody doing something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to prevent an opponent’s shot from going in the goal",
+      "sensetop": "save (something)",
+      "labels": "(British English)",
+      "cefr": "b1",
+      "examples": [
+        {
+          "text": "to save a penalty"
+        },
+        {
+          "text": "The goalie saved Johnson's long-range shot."
+        },
+        {
+          "text": "The goalie saved brilliantly from Johnson's long-range shot."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"],
+      "collocations": {
+        "adverb": ["brilliantly", "superbly", "bravely"]
+      }
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to prevent a person's soul from going to hell",
+      "sensetop": "save (something)",
+      "examples": [
+        {
+          "text": "The missionaries believed they were sent to save souls."
+        },
+        {
+          "text": "A large poster proclaimed, ‘Jesus saves.’"
+        }
+      ]
+    },
+    {
+      "definition": "to be completely unable to do something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "He can't interview people to save his life."
+        }
+      ]
+    },
+    {
+      "definition": "to rescue somebody from a very difficult situation",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "He's out to save his own political neck."
+        }
+      ]
+    },
+    {
+      "definition": "used to tell somebody that it is not worth wasting time and effort saying something because it will not change anything",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Save your breath—you'll never persuade her."
+        },
+        {
+          "text": "It's useless talking to him—you may as well save your breath."
+        }
+      ]
+    },
+    {
+      "definition": "to prevent failure or defeat, when this seems certain to happen",
+      "examples": [
+        {
+          "text": "Salah's late goal saved the day for Liverpool."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to avoid or help somebody avoid being embarrassed",
+      "examples": [
+        {
+          "text": "She was fired, but she saved face by telling everyone she'd resigned."
+        }
+      ]
+    },
+    {
+      "definition": "to try to avoid death, punishment, etc., especially by leaving others in an extremely difficult situation",
+      "examples": [
+        {
+          "text": "To save his own skin, he lied and blamed the accident on his friend."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "verb Middle English: from Old French sauver, from late Latin salvare, from Latin salvus ‘safe’. The noun dates from the late 19th cent."
+}

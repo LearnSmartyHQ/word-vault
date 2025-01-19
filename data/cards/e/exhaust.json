@@ -1,0 +1,65 @@
+{
+  "word": "exhaust",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪɡˈzɔːst/",
+        "audio": "data/audio/e/exhaust/exhaust__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪɡˈzɔːst/",
+        "audio": "data/audio/e/exhaust/exhaust__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "waste gases that come out of a vehicle, an engine or a machine",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "car **exhaust fumes/emissions**"
+        },
+        {
+          "text": "ducts which draw out exhaust air and replace it with fresh"
+        },
+        {
+          "text": "The car was fitted with a catalytic converter to meet exhaust regulations."
+        }
+      ],
+      "topics": ["The environment", "Transport by car or lorry"],
+      "collocations": {
+        "adjective": ["auto", "automobile", "car"],
+        "exhaust + noun": ["emission", "fumes", "gas"],
+        "preposition": ["from an/​the exhaust"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the system in a vehicle through which exhaust gases come out",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "My car needs a new exhaust."
+        },
+        {
+          "text": "pollution from car exhausts"
+        }
+      ],
+      "topics": ["Transport by car or lorry"],
+      "collocations": {
+        "adjective": ["auto", "automobile", "car"],
+        "exhaust + noun": ["emission", "fumes", "gas"],
+        "preposition": ["from an/​the exhaust"]
+      }
+    }
+  ],
+  "wordOrigin": "mid 16th cent. (in the sense ‘draw off or out’): from Latin exhaust- ‘drained out’, from the verb exhaurire, from ex- ‘out’ + haurire ‘draw (water), drain’."
+}

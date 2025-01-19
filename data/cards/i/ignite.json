@@ -1,0 +1,95 @@
+{
+  "word": "ignite",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪɡˈnaɪt/",
+        "audio": "data/audio/i/ignite/ignite__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪɡˈnaɪts/",
+        "audio": "data/audio/i/ignite/ignites__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪɡˈnaɪtɪd/",
+        "audio": "data/audio/i/ignite/ignited__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪɡˈnaɪtɪŋ/",
+        "audio": "data/audio/i/ignite/igniting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪɡˈnaɪt/",
+        "audio": "data/audio/i/ignite/ignite__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪɡˈnaɪts/",
+        "audio": "data/audio/i/ignite/ignites__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪɡˈnaɪtɪd/",
+        "audio": "data/audio/i/ignite/ignited__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪɡˈnaɪtɪŋ/",
+        "audio": "data/audio/i/ignite/igniting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "ignite",
+      "heSheIt": "ignites"
+    },
+    "pastSimple": "ignited",
+    "pastParticiple": "ignited",
+    "ingForm": "igniting"
+  },
+  "definitions": [
+    {
+      "definition": "to start to burn; to make something start to burn",
+      "sensetop": "ignite something",
+      "labels": "(figurative)(figurative)",
+      "examples": [
+        {
+          "text": "Gas ignites very easily."
+        },
+        {
+          "text": "Tempers ignited when the whole family spent Christmas together."
+        },
+        {
+          "text": "Flames melted a lead pipe and ignited leaking gas.",
+          "contextForm": "ignite something"
+        },
+        {
+          "text": "His words ignited their anger."
+        },
+        {
+          "text": "The burning foam generates such heat that other items in the room can ignite spontaneously."
+        },
+        {
+          "text": "The gunpowder sometimes fails to ignite."
+        },
+        {
+          "text": "an explosive that is easily ignited"
+        }
+      ],
+      "collocations": {
+        "adverb": ["spontaneously", "instantly", "suddenly"],
+        "verb + ignite": ["fail to"]
+      }
+    }
+  ],
+  "wordOrigin": "mid 17th cent. (in the sense ‘make intensely hot’): from Latin ignire ‘set on fire’, from ignis ‘fire’."
+}

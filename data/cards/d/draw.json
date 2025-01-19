@@ -1,0 +1,608 @@
+{
+  "word": "draw",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/drɔː/",
+        "audio": "data/audio/d/draw/draw__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/drɔːz/",
+        "audio": "data/audio/d/draw/draws__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/druː/",
+        "audio": "data/audio/d/draw/drew__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/drɔːn/",
+        "audio": "data/audio/d/draw/drawn__gb_4.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈdrɔːɪŋ/",
+        "audio": "data/audio/d/draw/drawing__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/drɔː/",
+        "audio": "data/audio/d/draw/draw__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/drɔːz/",
+        "audio": "data/audio/d/draw/draws__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/druː/",
+        "audio": "data/audio/d/draw/drew__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/drɔːn/",
+        "audio": "data/audio/d/draw/drawn__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈdrɔːɪŋ/",
+        "audio": "data/audio/d/draw/drawing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "draw",
+      "heSheIt": "draws"
+    },
+    "pastSimple": "drew",
+    "pastParticiple": "drawn",
+    "ingForm": "drawing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make pictures, or a picture of something, with a pencil, pen or chalk (but not paint)",
+      "sensetop": "draw somethingdraw something with something",
+      "labels": "(US English)(US English)(US English)(especially British English)(North American English usually)(British English)(North American English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You draw beautifully."
+        },
+        {
+          "text": "to **draw a picture/map/diagram**",
+          "contextForm": "draw something"
+        },
+        {
+          "text": "She drew a house."
+        },
+        {
+          "text": "a crudely drawn child's face"
+        },
+        {
+          "text": "He drew a circle in the sand with a stick.",
+          "contextForm": "draw something with something"
+        }
+      ],
+      "topics": ["Art"],
+      "collocations": {
+        "adverb": ["accurately", "beautifully", "carefully"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to describe something in words in a way that produces an image in somebody's mind",
+      "sensetop": "draw something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The report **drew a** grim **picture** of inefficiency and corruption."
+        },
+        {
+          "text": "She writes lively stories with sharply drawn characters."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to have a particular idea after you have studied something or thought about it",
+      "sensetop": "draw somethingdraw something from something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Is it possible to **draw inferences** about the environment during the Bronze Age?",
+          "contextForm": "draw something"
+        },
+        {
+          "text": "What **conclusions** did you **draw** from the report?",
+          "contextForm": "draw something from something"
+        },
+        {
+          "text": "We can draw some lessons for the future from this accident."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to express a comparison or a contrast; to define the limits of something",
+      "sensetop": "draw something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **draw a comparison/a parallel/an analogy/a distinction** between two events"
+        },
+        {
+          "text": "He attempted to draw a contrast between himself and the prime minister."
+        },
+        {
+          "text": "The site's boundaries were tightly drawn by the Department of the Environment."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to produce a reaction or response",
+      "sensetop": "draw somethingdraw something from somebody",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The plan has **drawn** a lot of **criticism**.",
+          "contextForm": "draw something"
+        },
+        {
+          "text": "The announcement drew loud applause from the audience.",
+          "contextForm": "draw something from somebody"
+        },
+        {
+          "text": "The proposal has drawn interest from local businessmen."
+        },
+        {
+          "text": "The reforms drew widespread support from voters."
+        }
+      ]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to direct or attract somebody's attention to something",
+      "sensetop": "draw something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Our aim is to **draw attention to** the plight of these children."
+        },
+        {
+          "text": "The exhibition drew great critical attention."
+        },
+        {
+          "text": "My eyes were drawn to the man in the corner."
+        },
+        {
+          "text": "Her gaze was drawn irresistibly to the scene outside."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to attract somebody to come to a place or take part in an activity",
+      "sensetop": "draw somebodydraw somebody to something",
+      "examples": [
+        {
+          "text": "The movie is drawing large audiences.",
+          "contextForm": "draw somebody"
+        },
+        {
+          "text": "The events continue to **draw** huge **crowds**."
+        },
+        {
+          "text": "The course draws students from all over the country."
+        },
+        {
+          "text": "Her screams drew passers-by to the scene.",
+          "contextForm": "draw somebody to something"
+        },
+        {
+          "text": "We asked the surfing champion what first drew him to the sport."
+        },
+        {
+          "text": "Animals are instinctively drawn to those who like them."
+        },
+        {
+          "text": "He was increasingly drawn to the idea of making short films."
+        }
+      ],
+      "collocations": {
+        "adverb": ["immediately", "inevitably", "inexorably"],
+        "preposition": ["from", "to"]
+      }
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to move in the direction mentioned",
+      "sensetop": "+ adv./prep.",
+      "labels": "(figurative)(figurative)",
+      "examples": [
+        {
+          "text": "The train drew into the station."
+        },
+        {
+          "text": "The train drew in."
+        },
+        {
+          "text": "The figures in the distance seemed to be drawing closer."
+        },
+        {
+          "text": "Their car **drew alongside** ours."
+        },
+        {
+          "text": "Her retirement is drawing near."
+        },
+        {
+          "text": "The meeting was **drawing to a close**."
+        },
+        {
+          "text": "As he drew near, I could see that he was limping."
+        },
+        {
+          "text": "as the boat drew towards the shore"
+        },
+        {
+          "text": "He approached her but she drew away."
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to move something/somebody by pulling it or them gently",
+      "sensetop": "draw something/somebody + adv./prep.",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "He drew the cork out of the bottle."
+        },
+        {
+          "text": "I drew my chair up closer to the fire."
+        },
+        {
+          "text": "She drew me onto the balcony."
+        },
+        {
+          "text": "I tried to **draw him aside** *(= for example where I could talk to him privately)*."
+        },
+        {
+          "text": "She sat with her legs drawn up on the sofa."
+        },
+        {
+          "text": "The project enables students to draw together their knowledge, skills and experience."
+        }
+      ],
+      "collocations": {
+        "adverb": ["half", "partly", "back"],
+        "preposition": ["onto", "out of", "to"]
+      }
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to pull a vehicle such as a carriage",
+      "sensetop": "be drawn by something",
+      "examples": [
+        {
+          "text": "The King's coach was drawn by six horses.",
+          "contextForm": "be drawn by something"
+        },
+        {
+          "text": "a horse-drawn carriage"
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to open or close curtains, etc.",
+      "sensetop": "draw something",
+      "examples": [
+        {
+          "text": "The blinds were drawn."
+        },
+        {
+          "text": "It was getting dark so I switched on the light and drew the curtains."
+        },
+        {
+          "text": "She drew back the curtains and let the sunlight in."
+        }
+      ],
+      "collocations": {
+        "adverb": ["half", "partly", "back"],
+        "preposition": ["onto", "out of", "to"]
+      }
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to take out a weapon, such as a gun or a sword, in order to attack somebody",
+      "sensetop": "draw (something) (on somebody)",
+      "examples": [
+        {
+          "text": "She drew a revolver on me."
+        },
+        {
+          "text": "He came towards them with his sword drawn."
+        }
+      ]
+    },
+    {
+      "senseNumber": "13",
+      "definition": "to make somebody say more about something",
+      "sensetop": "be drawn (about/on something)",
+      "examples": [
+        {
+          "text": "Spielberg refused to be drawn on his next movie.",
+          "contextForm": "be drawn (about/on something)"
+        }
+      ],
+      "collocations": {
+        "adverb": ["accurately", "beautifully", "carefully"]
+      }
+    },
+    {
+      "senseNumber": "14",
+      "definition": "to decide something by picking cards, tickets or numbers by chance",
+      "sensetop": "draw for somethingdraw somethingdraw something (from something)be drawn against somebody/somethingdraw somebody/something to do something",
+      "examples": [
+        {
+          "text": "We drew for partners.",
+          "contextForm": "draw for something"
+        },
+        {
+          "text": "He drew the winning ticket.",
+          "contextForm": "draw something"
+        },
+        {
+          "text": "Names were drawn from a hat for the last few places.",
+          "contextForm": "draw something (from something)"
+        },
+        {
+          "text": "Italy has been drawn against Spain in the first round.",
+          "contextForm": "be drawn against somebody/something"
+        },
+        {
+          "text": "Italy has been drawn to play Spain.",
+          "contextForm": "draw somebody/something to do something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "15",
+      "definition": "to finish a game without either team winning",
+      "sensetop": "draw with/against somebodydraw something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "England and France drew."
+        },
+        {
+          "text": "England and France drew 3–3."
+        },
+        {
+          "text": "England drew with/against France.",
+          "contextForm": "draw with/against somebody"
+        },
+        {
+          "text": "England drew their game against France.",
+          "contextForm": "draw something"
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"]
+    },
+    {
+      "senseNumber": "16",
+      "definition": "to take money or payments from a bank account or post office",
+      "sensetop": "draw something out (of something)draw something (from something)draw something on something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I drew out £200.",
+          "contextForm": "draw something out (of something)"
+        },
+        {
+          "text": "Can I draw $80 out of my account?"
+        },
+        {
+          "text": "She went to the post office to draw her pension.",
+          "contextForm": "draw something (from something)"
+        },
+        {
+          "text": "The cheque was drawn on his personal account.",
+          "contextForm": "draw something on something"
+        }
+      ],
+      "synonyms": "withdraw",
+      "topics": ["Money"]
+    },
+    {
+      "senseNumber": "17",
+      "definition": "to take or pull liquid or gas from somewhere",
+      "sensetop": "draw something (+adv./prep.)",
+      "examples": [
+        {
+          "text": "to draw water from a well"
+        },
+        {
+          "text": "The device draws gas along the pipe."
+        },
+        {
+          "text": "The ducts draw out stale air."
+        },
+        {
+          "text": "The company has been drawing gas and oil out of the rich ground for 62 years."
+        }
+      ],
+      "collocations": {
+        "adverb": ["half", "partly", "back"],
+        "preposition": ["onto", "out of", "to"]
+      }
+    },
+    {
+      "senseNumber": "18",
+      "definition": "to breathe in smoke or air",
+      "sensetop": "draw at/on somethingdraw something in",
+      "examples": [
+        {
+          "text": "He drew thoughtfully on his pipe.",
+          "contextForm": "draw at/on something"
+        },
+        {
+          "text": "She breathed deeply, drawing in the fresh mountain air.",
+          "contextForm": "draw something in"
+        }
+      ]
+    },
+    {
+      "definition": "if two people are at daggers drawn, they are very angry with each other",
+      "labels": "(British English)",
+      "examples": []
+    },
+    {
+      "definition": "used to say that people or groups have shown which side they intend to support in an argument or contest that is going to begin",
+      "examples": [],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "definition": "to aim carefully at somebody/something before shooting a gun",
+      "labels": "(especially North American English)",
+      "examples": [
+        {
+          "text": "One of the police officers drew a bead on the gunman and fired."
+        }
+      ]
+    },
+    {
+      "definition": "to get no response or result",
+      "examples": [
+        {
+          "text": "So far, the police investigation has drawn a blank."
+        }
+      ]
+    },
+    {
+      "definition": "to make somebody bleed",
+      "examples": []
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to stop doing something and rest",
+      "examples": [
+        {
+          "text": "She talks all the time and hardly stops to draw breath."
+        },
+        {
+          "text": "He spoke solidly for twenty minutes, barely pausing to draw breath."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to live; to be alive",
+      "labels": "(literary)",
+      "examples": [
+        {
+          "text": "He was as kind a man as ever drew breath."
+        }
+      ]
+    },
+    {
+      "definition": "to make somebody direct their anger, criticism, etc. at you, so that others do not have to face it",
+      "examples": []
+    },
+    {
+      "definition": "to start being more careful in your behaviour, especially by spending less money than before",
+      "examples": [
+        {
+          "text": "Small businesses have had to pull their horns in during the recession."
+        }
+      ]
+    },
+    {
+      "definition": "to refuse to do something; to set a limit",
+      "examples": [
+        {
+          "text": "I don't mind helping, but I draw the line at doing everything myself."
+        },
+        {
+          "text": "We would have liked to invite all our relatives, but you have to draw the line somewhere."
+        }
+      ]
+    },
+    {
+      "definition": "to make a difference between two closely related ideas",
+      "examples": [
+        {
+          "text": "Where do you draw the line between genius and madness?"
+        }
+      ]
+    },
+    {
+      "definition": "to say that something is finished and not worth discussing any more",
+      "labels": "(British English)",
+      "examples": []
+    },
+    {
+      "definition": "to use a method of choosing somebody/something that involves putting a number folded pieces of paper in a bag, one of them with a mark on it. People then take it in turns to take a piece of paper from the bag and the one who takes the paper with the mark on it is chosen.",
+      "examples": [
+        {
+          "text": "They drew lots for the right to go first."
+        }
+      ]
+    },
+    {
+      "definition": "to be the person in a group who is chosen or forced to perform an unpleasant duty or task",
+      "examples": [
+        {
+          "text": "I drew the short straw and had to clean the toilets."
+        }
+      ]
+    },
+    {
+      "definition": "to use a method of choosing somebody to do or have something in which each person takes a piece of paper, etc. from a container and the one whose paper has a special mark is chosen",
+      "examples": [
+        {
+          "text": "We drew straws for who went first."
+        }
+      ]
+    },
+    {
+      "definition": "to stand straight and tall in order to show that you are determined, powerful or important",
+      "examples": [
+        {
+          "text": "He drew himself up to his full height and glared at us."
+        }
+      ]
+    },
+    {
+      "definition": "(to establish) a clear limit to what you will do or accept",
+      "examples": [
+        {
+          "text": "It’s time to draw a line in the sand and stop allowing workplace bullying to continue."
+        }
+      ]
+    },
+    {
+      "definition": "to speak to somebody in private, especially in order to warn or tell them about something",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Old English dragan, of Germanic origin; related to Dutch dragen and German tragen, also to draught."
+}

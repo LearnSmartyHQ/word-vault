@@ -1,0 +1,575 @@
+{
+  "word": "fight",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/faɪt/",
+        "audio": "data/audio/f/fight/fight__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/faɪts/",
+        "audio": "data/audio/f/fight/fights__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/fɔːt/",
+        "audio": "data/audio/f/fight/fought__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfaɪtɪŋ/",
+        "audio": "data/audio/f/fight/fighting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/faɪt/",
+        "audio": "data/audio/f/fight/fight__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/faɪts/",
+        "audio": "data/audio/f/fight/fights__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/fɔːt/",
+        "audio": "data/audio/f/fight/fought__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfaɪtɪŋ/",
+        "audio": "data/audio/f/fight/fighting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "fight",
+      "heSheIt": "fights"
+    },
+    "pastSimple": "fought",
+    "pastParticiple": "fought",
+    "ingForm": "fighting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to take part in a war or battle against an enemy",
+      "sensetop": "fight against somebodyfight somebody/somethingfight for somethingfight somebody/something for somethingfight over somethingfight somebody/something over something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "soldiers trained to fight"
+        },
+        {
+          "text": "He fought in Vietnam."
+        },
+        {
+          "text": "My grandfather fought against the Fascists in Spain.",
+          "contextForm": "fight against somebody"
+        },
+        {
+          "text": "to **fight a war/battle**",
+          "contextForm": "fight somebody/something"
+        },
+        {
+          "text": "They gathered soldiers to fight the invading army."
+        },
+        {
+          "text": "They fought for control of the island.",
+          "contextForm": "fight for something"
+        },
+        {
+          "text": "Didn't we fight a war for freedom?",
+          "contextForm": "fight somebody/something for something"
+        },
+        {
+          "text": "They were fighting over disputed land.",
+          "contextForm": "fight over something"
+        },
+        {
+          "text": "Future wars will be fought over water supplies.",
+          "contextForm": "fight somebody/something over something"
+        },
+        {
+          "text": "We fought and won."
+        },
+        {
+          "text": "Millions fought and died."
+        },
+        {
+          "text": "He did not believe that the enemy was ready to fight."
+        },
+        {
+          "text": "We believed we were fighting for freedom."
+        },
+        {
+          "text": "These men fought for their country."
+        },
+        {
+          "text": "Many African American soldiers fought for the Union."
+        },
+        {
+          "text": "He fought alongside his comrades."
+        },
+        {
+          "text": "I met someone who fought alongside my father in the war."
+        },
+        {
+          "text": "They fought bravely against the enemy."
+        },
+        {
+          "text": "The country fought several wars against its neighbours."
+        },
+        {
+          "text": "The soldiers were trained to fight in the jungle."
+        },
+        {
+          "text": "Bolshevik troops fought Polish forces in what is today Western Ukraine and Belarus."
+        },
+        {
+          "text": "These soldiers fought under the imperial banner."
+        },
+        {
+          "text": "Modern wars are fought with more sophisticated technology."
+        }
+      ],
+      "collocations": {
+        "adverb": ["bravely", "gallantly", "valiantly"],
+        "verb + fight": ["be prepared to", "be ready to", "continue to"],
+        "preposition": ["against", "alongside", "for"],
+        "phrases": ["fight to the death"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to struggle physically with somebody",
+      "sensetop": "fight with somebodyfight somebodyfight over somethingfight somebody over somethingfight (somebody) for somethingfight against somebody/something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "My little brothers are always fighting."
+        },
+        {
+          "text": "He taught me how to fight with a sword."
+        },
+        {
+          "text": "Riot police fought with demonstrators.",
+          "contextForm": "fight with somebody"
+        },
+        {
+          "text": "She sometimes fights with other children in the playground."
+        },
+        {
+          "text": "She fought her attacker, eventually forcing him to flee.",
+          "contextForm": "fight somebody"
+        },
+        {
+          "text": "Children will fight even over small things.",
+          "contextForm": "fight over something"
+        },
+        {
+          "text": "dogs fighting over scraps of food"
+        },
+        {
+          "text": "They were fighting each other over a toy.",
+          "contextForm": "fight somebody over something"
+        },
+        {
+          "text": "Paris offers to fight Menelaus for Helen's hand.",
+          "contextForm": "fight (somebody) for something"
+        },
+        {
+          "text": "She fought hard against his strong grip.",
+          "contextForm": "fight against somebody/something"
+        },
+        {
+          "text": "He was suspended from school for fighting."
+        },
+        {
+          "text": "How did you get the black eye? Have you been fighting?"
+        },
+        {
+          "text": "I caught them fighting with sticks."
+        },
+        {
+          "text": "He fought against his attacker."
+        },
+        {
+          "text": "Thousands of rioting students fought with police."
+        },
+        {
+          "text": "They practically fought (with) each other for the honour of carrying my bag."
+        },
+        {
+          "text": "A boy said he wanted to fight me after school."
+        }
+      ],
+      "collocations": {
+        "adverb": ["bitterly", "hard", "dirty"],
+        "verb + fight": ["be prepared to"],
+        "preposition": ["against", "with"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to have an argument with somebody about something",
+      "sensetop": "fight about somethingfight over somethingfight with somebody",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I remember lying in bed listening to my parents fighting."
+        },
+        {
+          "text": "It's a trivial matter and not worth fighting about.",
+          "contextForm": "fight about something"
+        },
+        {
+          "text": "Scholars have long fought over this point.",
+          "contextForm": "fight over something"
+        },
+        {
+          "text": "I'm always fighting with my sister.",
+          "contextForm": "fight with somebody"
+        },
+        {
+          "text": "It's normal for couples to fight."
+        },
+        {
+          "text": "The thing we fight about most is money."
+        },
+        {
+          "text": "We've fought over many issues, but always respected one another."
+        },
+        {
+          "text": "Let's not fight over the details."
+        },
+        {
+          "text": "He was well-liked by his peers, but often fought with his teachers."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to try hard to stop, deal with or oppose something bad or something that you disagree with",
+      "sensetop": "fight somethingfight against somethingfight for somebodyfight something with somethingfight to do something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We will continue to fight for as long as it takes."
+        },
+        {
+          "text": "She **fought bravely**, but died of the disease."
+        },
+        {
+          "text": "to **fight terrorism/crime/corruption/poverty**",
+          "contextForm": "fight something"
+        },
+        {
+          "text": "Vitamin C helps your body to **fight disease**."
+        },
+        {
+          "text": "Workers are fighting the decision to close the factory."
+        },
+        {
+          "text": "The fire crews had problems fighting the blaze."
+        },
+        {
+          "text": "She **fought a** long **battle** against cancer."
+        },
+        {
+          "text": "They are committed to fighting against racism.",
+          "contextForm": "fight against something"
+        },
+        {
+          "text": "She spent her life fighting for the poor.",
+          "contextForm": "fight for somebody"
+        },
+        {
+          "text": "We must fight hatred with love.",
+          "contextForm": "fight something with something"
+        },
+        {
+          "text": "She'll **fight like a tiger** to protect her children.",
+          "contextForm": "fight to do something"
+        },
+        {
+          "text": "We are committed to fighting poverty."
+        },
+        {
+          "text": "The government will introduce new measures to fight terrorism."
+        },
+        {
+          "text": "a superhero who wants to fight crime and clean up the city"
+        },
+        {
+          "text": "Fighting corruption is essential to restore public confidence."
+        },
+        {
+          "text": "He vowed to fight against the decision."
+        },
+        {
+          "text": "He has used his fame to become a spokesman for alleviating world poverty and fighting AIDS."
+        },
+        {
+          "text": "His body was too weak to fight the infection."
+        },
+        {
+          "text": "Why did you fight so hard against these changes?"
+        },
+        {
+          "text": "I've always had to fight against prejudice."
+        },
+        {
+          "text": "They are fighting unwinnable wars against corporate giants."
+        },
+        {
+          "text": "We're fighting for people who are discriminated against."
+        },
+        {
+          "text": "The organization fights on behalf of political prisoners across the world."
+        },
+        {
+          "text": "This battle is being fought with spin and PR."
+        }
+      ],
+      "collocations": {
+        "adverb": ["hard", "like a tiger", "tooth and nail"],
+        "verb + fight": ["be determined to", "be prepared to", "be ready to"],
+        "preposition": ["against", "for"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to try very hard to get something or to achieve something",
+      "sensetop": "fight for somethingfight to do somethingfight your way…",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We fought for years before we got the recognition we deserved."
+        },
+        {
+          "text": "Women **fought for the right** to vote.",
+          "contextForm": "fight for something"
+        },
+        {
+          "text": "He's still fighting for compensation after the accident."
+        },
+        {
+          "text": "Doctors fought for more than six hours to save his life.",
+          "contextForm": "fight to do something"
+        },
+        {
+          "text": "She **fought hard** to get this film made."
+        },
+        {
+          "text": "She gradually fought her way to the top of the company.",
+          "contextForm": "fight your way…"
+        },
+        {
+          "text": "The company is fighting for survival at the moment."
+        },
+        {
+          "text": "We will never give up fighting for justice."
+        },
+        {
+          "text": "He fought tirelessly for the abolition of slavery."
+        },
+        {
+          "text": "Regional monopolies were bitterly fought for."
+        },
+        {
+          "text": "We need a good manager who is prepared to fight for a fair share of the funds."
+        },
+        {
+          "text": "We are fighting for equal rights."
+        },
+        {
+          "text": "Campaigners fought to save the hospital from closure."
+        },
+        {
+          "text": "She fought desperately to suppress her laughter."
+        },
+        {
+          "text": "He fought hard to overcome his disadvantages."
+        },
+        {
+          "text": "They say they are fighting to preserve their way of life."
+        },
+        {
+          "text": "She fought to keep her composure."
+        },
+        {
+          "text": "We fought our way across London in heavy traffic."
+        },
+        {
+          "text": "This small company fought its way to global success."
+        }
+      ],
+      "topics": ["Success"],
+      "collocations": {
+        "adverb": ["hard", "like a tiger", "tooth and nail"],
+        "verb + fight": ["be determined to", "be prepared to", "be ready to"],
+        "preposition": ["against", "for"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to take part in a contest against somebody",
+      "sensetop": "fight somebody/something (for something)fight for something",
+      "examples": [
+        {
+          "text": "to **fight an election/a campaign**",
+          "contextForm": "fight somebody/something (for something)"
+        },
+        {
+          "text": "She's fighting for a place in the national team.",
+          "contextForm": "fight for something"
+        },
+        {
+          "text": "There are twelve parties fighting the election."
+        },
+        {
+          "text": "The second half was fiercely fought, but neither side managed to score."
+        }
+      ],
+      "collocations": {
+        "adverb": ["bitterly", "hard", "successfully"],
+        "verb + fight": ["be determined to", "be prepared to", "be ready to"],
+        "preposition": ["for"],
+        "phrases": ["fiercely fought"]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to take part in a boxing match",
+      "sensetop": "fight somebody/​something",
+      "cefr": "a2",
+      "examples": [
+        {
+          "text": "Doctors fear he may never fight again."
+        },
+        {
+          "text": "He has fought 37 bouts with 24 knockouts."
+        }
+      ],
+      "topics": ["Sports: other sports"]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to try to get what you want in court",
+      "sensetop": "fight (somebody) for somethingfight something",
+      "examples": [
+        {
+          "text": "He fought his wife for custody of the children.",
+          "contextForm": "fight (somebody) for something"
+        },
+        {
+          "text": "I'm determined to fight the case.",
+          "contextForm": "fight something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["hard", "like a tiger", "tooth and nail"],
+        "verb + fight": ["be determined to", "be prepared to", "be ready to"],
+        "preposition": ["against", "for"]
+      }
+    },
+    {
+      "definition": "to defend your/somebody’s position against other people",
+      "labels": "(British English)",
+      "examples": []
+    },
+    {
+      "definition": "to use similar methods in a fight or an argument to those your opponent is using",
+      "examples": [],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "definition": "to make a great effort to stay alive, especially when you are badly injured or seriously ill",
+      "examples": [
+        {
+          "text": "A young cyclist is fighting for his life after the accident."
+        }
+      ],
+      "topics": ["Health problems"]
+    },
+    {
+      "definition": "to be always arguing with each other",
+      "examples": [
+        {
+          "text": "In our childhood Irina and I fought like cat and dog."
+        }
+      ]
+    },
+    {
+      "definition": "to be able to win an argument or get what you want without anyone’s help",
+      "examples": [
+        {
+          "text": "I wouldn't get involved—he's old enough to fight his own battles."
+        },
+        {
+          "text": "My parents believed in leaving me to fight my own battles."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "definition": "to be unwilling to accept something or do something, and to try to avoid it",
+      "examples": [
+        {
+          "text": "Successive governments have fought shy of such measures."
+        }
+      ]
+    },
+    {
+      "definition": "to fight until one of the two people or groups is dead, or until one person or group defeats the other",
+      "examples": [
+        {
+          "text": "The soldiers were prepared to fight to the death if they had to."
+        }
+      ]
+    },
+    {
+      "definition": "to fight in a very determined way for what you want",
+      "examples": [
+        {
+          "text": "The residents are fighting tooth and nail to stop the new development."
+        },
+        {
+          "text": "She fought tooth and nail to keep custody of the children."
+        }
+      ]
+    },
+    {
+      "definition": "used to say that although you have failed or had a bad experience, you will continue",
+      "labels": "(saying)",
+      "examples": []
+    },
+    {
+      "definition": "(to try to do) something that you will probably never succeed in doing",
+      "examples": [
+        {
+          "text": "I’m fighting a losing battle against the mess in this house!"
+        },
+        {
+          "text": "She wanted him to take some responsibility for his actions, but she knew it was a losing battle."
+        }
+      ],
+      "topics": ["Difficulty and failure"]
+    }
+  ],
+  "wordOrigin": "Old English feohtan (verb), feoht(e), gefeoht (noun), of West Germanic origin; related to Dutch vechten, gevecht and German fechten, Gefecht."
+}

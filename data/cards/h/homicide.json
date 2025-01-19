@@ -1,0 +1,40 @@
+{
+  "word": "homicide",
+  "partOfSpeech": "noun",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈhɒmɪsaɪd/",
+        "audio": "data/audio/h/homicide/homicide__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈhɑːmɪsaɪd/",
+        "audio": "data/audio/h/homicide/homicide__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "definition": "the act of killing another person, especially when it is a crime",
+      "examples": [
+        {
+          "text": "He has been arrested on homicide and assault charges."
+        },
+        {
+          "text": "the **homicide bureau** *(= the department of the US police that deals with murder)*"
+        }
+      ],
+      "topics": ["Crime and punishment"],
+      "collocations": {
+        "adjective": ["criminal", "culpable", "negligent"],
+        "homicide + noun": ["detective", "unit", "investigation"]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English: from Old French, from Latin homicidium, from homo, homin- ‘man’."
+}

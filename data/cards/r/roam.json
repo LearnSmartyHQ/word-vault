@@ -1,0 +1,159 @@
+{
+  "word": "roam",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rəʊm/",
+        "audio": "data/audio/r/roam/roam__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rəʊmz/",
+        "audio": "data/audio/r/roam/roams__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rəʊmd/",
+        "audio": "data/audio/r/roam/roamed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈrəʊmɪŋ/",
+        "audio": "data/audio/r/roam/roaming__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rəʊm/",
+        "audio": "data/audio/r/roam/roam__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rəʊmz/",
+        "audio": "data/audio/r/roam/roams__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rəʊmd/",
+        "audio": "data/audio/r/roam/roamed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈrəʊmɪŋ/",
+        "audio": "data/audio/r/roam/roaming__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "roam",
+      "heSheIt": "roams"
+    },
+    "pastSimple": "roamed",
+    "pastParticiple": "roamed",
+    "ingForm": "roaming"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to walk or travel around an area without any definite aim or direction",
+      "sensetop": "+ adv./prep.roam something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The sheep are allowed to roam freely on this land.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "Ramblers are calling for the **right to roam ***(= the freedom to walk in open countryside)* to be extended."
+        },
+        {
+          "text": "to roam the countryside/the streets",
+          "contextForm": "roam something"
+        },
+        {
+          "text": "He'd roamed aimlessly for a few hours."
+        },
+        {
+          "text": "The animals were allowed to roam free."
+        },
+        {
+          "text": "They're roaming around the countryside."
+        },
+        {
+          "text": "Wild camels roam across the country."
+        },
+        {
+          "text": "roaming through the town"
+        },
+        {
+          "text": "the wild dog's instinct to roam widely"
+        },
+        {
+          "text": "when dinosaurs roamed the earth"
+        },
+        {
+          "text": "A number of mammal species roamed widely around the northern hemisphere."
+        },
+        {
+          "text": "Animals roam freely around the village."
+        },
+        {
+          "text": "Gangs of barefoot children roam the city streets, begging for scraps."
+        },
+        {
+          "text": "I'd like to be a photographer and roam the world with my camera."
+        }
+      ],
+      "topics": ["Hobbies"],
+      "collocations": {
+        "adverb": ["free", "freely", "widely"],
+        "verb + roam": [
+          "allow somebody/​something to",
+          "let somebody/​something"
+        ],
+        "preposition": ["about", "around", "across"],
+        "phrases": [
+          "the freedom to roam",
+          "the right to roam",
+          "roam the earth"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to move slowly over every part of somebody/something",
+      "sensetop": "roam over something/somebodyroam something/somebody",
+      "examples": [
+        {
+          "text": "His gaze roamed over her.",
+          "contextForm": "roam over something/somebody"
+        },
+        {
+          "text": "Her eyes roamed over him, assessing him."
+        },
+        {
+          "text": "Her eyes roamed the room.",
+          "contextForm": "roam something/somebody"
+        }
+      ],
+      "collocations": {
+        "adverb": ["free", "freely", "widely"],
+        "verb + roam": [
+          "allow somebody/​something to",
+          "let somebody/​something"
+        ],
+        "preposition": ["about", "around", "across"],
+        "phrases": [
+          "the freedom to roam",
+          "the right to roam",
+          "roam the earth"
+        ]
+      }
+    }
+  ],
+  "wordOrigin": "Middle English: of unknown origin."
+}

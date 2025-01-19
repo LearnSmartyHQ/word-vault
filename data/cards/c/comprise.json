@@ -1,0 +1,94 @@
+{
+  "word": "comprise",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəmˈpraɪz/",
+        "audio": "data/audio/c/comprise/comprise__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəmˈpraɪzɪz/",
+        "audio": "data/audio/c/comprise/comprises__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəmˈpraɪzd/",
+        "audio": "data/audio/c/comprise/comprised__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəmˈpraɪzɪŋ/",
+        "audio": "data/audio/c/comprise/comprising__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəmˈpraɪz/",
+        "audio": "data/audio/c/comprise/comprise__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəmˈpraɪzɪz/",
+        "audio": "data/audio/c/comprise/comprises__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəmˈpraɪzd/",
+        "audio": "data/audio/c/comprise/comprised__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəmˈpraɪzɪŋ/",
+        "audio": "data/audio/c/comprise/comprising__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "comprise",
+      "heSheIt": "comprises"
+    },
+    "pastSimple": "comprised",
+    "pastParticiple": "comprised",
+    "ingForm": ""
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to have somebody/something as parts or members",
+      "sensetop": "comprise somethingbe comprised of somebody/something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The collection comprises 327 paintings.",
+          "contextForm": "comprise something"
+        },
+        {
+          "text": "a book comprising eight short stories"
+        },
+        {
+          "text": "The committee is comprised of representatives from both the public and private sectors.",
+          "contextForm": "be comprised of somebody/something"
+        }
+      ],
+      "synonyms": "consist of"
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to be the parts or members that form something",
+      "sensetop": "comprise something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Older people comprise a large proportion of those living in poverty."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from French, ‘comprised’, feminine past participle of comprendre, from Old French comprehender, from com- ‘together’ + prehendere ‘grasp’."
+}

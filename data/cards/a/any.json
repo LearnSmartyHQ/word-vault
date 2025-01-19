@@ -1,0 +1,78 @@
+{
+  "word": "any",
+  "partOfSpeech": "determiner",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈeni/",
+        "audio": "data/audio/a/any/any__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈeni/",
+        "audio": "data/audio/a/any/any__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "used with uncountable or plural nouns in negative sentences and questions, after if or whether, and after some verbs such as prevent, ban, forbid, etc. to refer to an amount or a number of something, however large or small",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I didn't eat any meat."
+        },
+        {
+          "text": "Are there any stamps?"
+        },
+        {
+          "text": "I've got hardly any money."
+        },
+        {
+          "text": "You can't go out without any shoes."
+        },
+        {
+          "text": "He forbids any talking in class."
+        },
+        {
+          "text": "She asked if we had any questions."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "used with singular countable nouns to refer to one of a number of things or people, when it does not matter which one",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Take any book you like."
+        },
+        {
+          "text": "Any colour will do."
+        },
+        {
+          "text": "Any teacher will tell you that students learn at different rates."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "used to show that somebody/something is special",
+      "sensetop": "not just any somebody/something",
+      "examples": [
+        {
+          "text": "It isn't just any day—it's my birthday!"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English ǣnig (from one + -y), of Germanic origin; related to Dutch eenig and German einig."
+}

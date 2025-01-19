@@ -1,0 +1,291 @@
+{
+  "word": "unit",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈjuːnɪt/",
+        "audio": "data/audio/u/unit/unit__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈjuːnɪt/",
+        "audio": "data/audio/u/unit/unit__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a single thing, person or group that is complete by itself but can also form part of something larger",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "After 1946 the British Government treated the four territorial divisions as a **single unit**."
+        },
+        {
+          "text": "The **basic unit** of society is the family."
+        },
+        {
+          "text": "The cell is the unit of which all living organisms are composed."
+        },
+        {
+          "text": "the role of the **family unit** in the community"
+        }
+      ],
+      "collocations": {
+        "adjective": ["large", "small", "basic"],
+        "verb + unit": ["break something down into", "divide something into"],
+        "phrases": ["unit of analysis"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a single item of the type of product that a company sells",
+      "labels": "(business)",
+      "examples": [
+        {
+          "text": "The game's selling price was $15 per unit."
+        },
+        {
+          "text": "What's the **unit cost**?"
+        },
+        {
+          "text": "The manufacturer sold 73 000 units in the first quarter."
+        },
+        {
+          "text": "China produced 65 million units last year."
+        }
+      ],
+      "collocations": {
+        "adjective": ["basic", "standard", "monetary"],
+        "verb + unit": ["produce", "sell"],
+        "unit + noun": ["cost", "length", "weight"],
+        "preposition": ["unit of"],
+        "phrases": ["per unit"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "one of the parts into which a textbook or a series of lessons is divided",
+      "sensetop": "in a unit",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Each unit of the course that we completed felt like a real achievement."
+        },
+        {
+          "text": "The present perfect is covered in Unit 8.",
+          "contextForm": "in a unit"
+        },
+        {
+          "text": "The university is recruiting staff to teach the new units."
+        },
+        {
+          "text": "You learned this in the first unit."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a group of people who work or live together, especially for a particular purpose",
+      "sensetop": "in a unit",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**army/military/combat/police units**"
+        },
+        {
+          "text": "a **special unit** of the FBI"
+        },
+        {
+          "text": "Medical units were operating in the disaster area."
+        },
+        {
+          "text": "Two **members of the unit** died on the mission."
+        },
+        {
+          "text": "They formed **small units** of 15 to 20 people."
+        },
+        {
+          "text": "The marching column encountered **large units** of the enemy."
+        },
+        {
+          "text": "Soldiers in the unit are trained to survive in the snow and cold.",
+          "contextForm": "in a unit"
+        },
+        {
+          "text": "The army is collaborating with guerrilla units in the border region."
+        },
+        {
+          "text": "Enemy units have infiltrated the territory."
+        },
+        {
+          "text": "The new manager changed a talented collection of individuals into a cohesive unit."
+        },
+        {
+          "text": "Large departments were broken down into smaller units."
+        }
+      ],
+      "collocations": {
+        "adjective": ["army", "combat", "infantry"],
+        "unit + noun": ["commander"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a department, especially in a hospital, that provides a particular type of care or treatment",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the **intensive care unit**"
+        },
+        {
+          "text": "a **maternity unit**"
+        },
+        {
+          "text": "The cancer research unit is attached to the local university."
+        },
+        {
+          "text": "patients in the psychiatric unit"
+        }
+      ],
+      "topics": ["Healthcare"],
+      "collocations": {
+        "adjective": ["intensive care", "accident and emergency", "casualty"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "a piece of furniture, especially a cupboard, that fits with and matches others of the same type",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a fitted kitchen with white units"
+        },
+        {
+          "text": "floor/wall units"
+        },
+        {
+          "text": "bedroom/kitchen units"
+        }
+      ],
+      "topics": ["Houses and homes"],
+      "collocations": {
+        "adjective": ["kitchen", "storage", "vanity"],
+        "verb + unit": ["install"]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "a fixed quantity, etc. that is used as a standard measurement",
+      "sensetop": "per unit",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a unit of measurement"
+        },
+        {
+          "text": "Women are advised not to drink more than fourteen units of alcohol per week."
+        },
+        {
+          "text": "a unit of time/length/weight"
+        },
+        {
+          "text": "a unit of currency, such as the euro or the dollar"
+        },
+        {
+          "text": "Electricity is ten pence per unit.",
+          "contextForm": "per unit"
+        },
+        {
+          "text": "The law requires almost all federal agencies to use metric units."
+        },
+        {
+          "text": "The highest carbon emissions per unit of energy are from coal."
+        }
+      ],
+      "collocations": {
+        "adjective": ["basic", "standard", "monetary"],
+        "verb + unit": ["produce", "sell"],
+        "unit + noun": ["cost", "length", "weight"],
+        "preposition": ["unit of"],
+        "phrases": ["per unit"]
+      }
+    },
+    {
+      "senseNumber": "8",
+      "definition": "a small machine that has a particular purpose or is part of a larger machine",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "a waste disposal unit"
+        },
+        {
+          "text": "the central processing unit of a computer"
+        },
+        {
+          "text": "an air-conditioning unit"
+        }
+      ],
+      "topics": ["Computers"],
+      "collocations": {
+        "adjective": ["kitchen", "storage", "vanity"],
+        "verb + unit": ["install"]
+      }
+    },
+    {
+      "senseNumber": "9",
+      "definition": "a single flat, house or section in a building or group of buildings",
+      "labels": "(formal)(Australian English, New Zealand English)",
+      "examples": [
+        {
+          "text": "a **housing/residential unit**"
+        },
+        {
+          "text": "to **build** new affordable housing **units**"
+        },
+        {
+          "text": "The site is being redeveloped for 62 **home units**."
+        },
+        {
+          "text": "a single dwelling unit"
+        },
+        {
+          "text": "a **retail/business unit**"
+        },
+        {
+          "text": "an **industrial unit**"
+        }
+      ],
+      "collocations": {
+        "adjective": ["dwelling", "housing", "residential"],
+        "verb + unit": ["build"]
+      }
+    },
+    {
+      "senseNumber": "10",
+      "definition": "any whole number from 0 to 9",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "a column for the tens and a column for the units"
+        }
+      ],
+      "topics": ["Maths and measurement"]
+    }
+  ],
+  "wordOrigin": "late 16th cent. (as a mathematical term): from Latin unus, probably suggested by digit."
+}

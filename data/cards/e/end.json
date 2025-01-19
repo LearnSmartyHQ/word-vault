@@ -1,0 +1,809 @@
+{
+  "word": "end",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/end/",
+        "audio": "data/audio/e/end/end__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/end/",
+        "audio": "data/audio/e/end/end__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the final part of a period of time, an event, an activity or a story",
+      "sensetop": "at the end of somethingat the endby the end of somethingto the end of somethingtowards the end (of something)until the enduntil the end of something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "It's the end of an era."
+        },
+        {
+          "text": "the end of the book"
+        },
+        {
+          "text": "at the end of the week",
+          "contextForm": "at the end of something"
+        },
+        {
+          "text": "There’ll be a chance to ask questions at the end.",
+          "contextForm": "at the end"
+        },
+        {
+          "text": "He wants the reports by the end of the month.",
+          "contextForm": "by the end of something"
+        },
+        {
+          "text": "She remained active as an artist to the end of her life.",
+          "contextForm": "to the end of something"
+        },
+        {
+          "text": "I was getting bored towards the end of the talk.",
+          "contextForm": "towards the end (of something)"
+        },
+        {
+          "text": "We didn't leave until the **very end**.",
+          "contextForm": "until the end"
+        },
+        {
+          "text": "I'm staying until the end of this week.",
+          "contextForm": "until the end of something"
+        },
+        {
+          "text": "We had to hear about the whole journey **from beginning to end**."
+        },
+        {
+          "text": "He is **nearing the end** of his career."
+        },
+        {
+          "text": "Our end-of-season sale starts next week."
+        },
+        {
+          "text": "I'll never get to the end of this book!"
+        },
+        {
+          "text": "It stayed hot right up to the end of September."
+        },
+        {
+          "text": "They get married at the end of the movie."
+        },
+        {
+          "text": "I hope to finish this by the end of the week."
+        },
+        {
+          "text": "They finally get named at the end of the book."
+        },
+        {
+          "text": "Her death marks the end of an era."
+        },
+        {
+          "text": "You don't know who the murderer is until right at the end of the book."
+        },
+        {
+          "text": "His story was one big lie from beginning to end."
+        },
+        {
+          "text": "The award was a fitting end to a distinguished career."
+        },
+        {
+          "text": "The pigs were weighed at the beginning and end of the experiment."
+        },
+        {
+          "text": "Near the end of each term, students were selected from each class for a prize."
+        },
+        {
+          "text": "The new rules could be in place before the end of this year."
+        },
+        {
+          "text": "The plants die at the end of each growing season."
+        },
+        {
+          "text": "Her contract expires at the end of the year."
+        },
+        {
+          "text": "In the six months to the end of March overall revenue rose 18%."
+        },
+        {
+          "text": "They scored a goal three minutes from the end of extra time."
+        }
+      ],
+      "topics": ["Literature and writing"],
+      "collocations": {
+        "adjective": ["abrupt", "sudden", "early"],
+        "verb + end": ["come to", "get to", "reach"],
+        "end + verb": ["be in sight"],
+        "end + noun": ["user", "point", "product"],
+        "preposition": ["at an end", "at the end", "by the end"],
+        "phrases": [
+          "at the very end",
+          "right at the end",
+          "from beginning to end"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a situation in which something does not exist any more",
+      "sensetop": "at an endan end to something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "It was the end of all his dreams."
+        },
+        {
+          "text": "That was by no means the end of the matter."
+        },
+        {
+          "text": "The war was finally at an end.",
+          "contextForm": "at an end"
+        },
+        {
+          "text": "The meeting **came to an end** *(= finished)*."
+        },
+        {
+          "text": "The coup **brought** his corrupt regime **to an end**."
+        },
+        {
+          "text": "This latest attack could **spell the end of** the peace process."
+        },
+        {
+          "text": "They have **called for an end to** violence.",
+          "contextForm": "an end to something"
+        },
+        {
+          "text": "an end to the conflict/war"
+        },
+        {
+          "text": "Let’s **put an end to** *(= stop)* these rumours once and for all."
+        },
+        {
+          "text": "There's no **end in sight** to the present crisis."
+        },
+        {
+          "text": "Cheap air travel **marked the end** of the golden age of the British seaside holiday."
+        },
+        {
+          "text": "The release of ‘The Jazz Singer’ **signalled the end** of the silent movie era."
+        },
+        {
+          "text": "He won't win, but he'll keep fighting to the end."
+        },
+        {
+          "text": "Talks were in progress to bring an end to the fighting."
+        },
+        {
+          "text": "The meeting finally came to an end at six."
+        },
+        {
+          "text": "The proceedings are expected to be at an end by 6 p.m."
+        },
+        {
+          "text": "What the business community wants is an end to the recession."
+        },
+        {
+          "text": "The injury brought her career to an early end."
+        },
+        {
+          "text": "As far as I'm concerned, that's the end of it."
+        },
+        {
+          "text": "the end of the civil war"
+        },
+        {
+          "text": "They demanded an end to racial discrimination in the workplace."
+        },
+        {
+          "text": "I think I've finally reached the end of the teen movie craze."
+        }
+      ],
+      "collocations": {
+        "adjective": ["abrupt", "sudden", "early"],
+        "verb + end": ["come to", "get to", "reach"],
+        "end + verb": ["be in sight"],
+        "end + noun": ["user", "point", "product"],
+        "preposition": ["at an end", "at the end", "by the end"],
+        "phrases": [
+          "at the very end",
+          "right at the end",
+          "from beginning to end"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "the part of an object or a place that is the furthest away from its centre",
+      "sensetop": "at the end of somethingon the end of something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I joined the end of the queue."
+        },
+        {
+          "text": "Go to the end of the line!"
+        },
+        {
+          "text": "Turn right at the end of the road.",
+          "contextForm": "at the end of something"
+        },
+        {
+          "text": "His office is the room at **the other end** of the corridor."
+        },
+        {
+          "text": "That's his wife sitting at **the far end** of the table."
+        },
+        {
+          "text": "You've got something on the end of your nose.",
+          "contextForm": "on the end of something"
+        },
+        {
+          "text": "Tie the ends of the string together."
+        },
+        {
+          "text": "These two products are from **opposite ends** of the price range."
+        },
+        {
+          "text": "We've travelled from one end of Mexico to the other."
+        },
+        {
+          "text": "They live in the end house."
+        },
+        {
+          "text": "Continue until you reach the end of the road."
+        },
+        {
+          "text": "The bank is right at the end of the street."
+        },
+        {
+          "text": "The famous Las Vegas Strip is about three miles from end to end."
+        },
+        {
+          "text": "Turn into Hope Street and our house is right at the end."
+        },
+        {
+          "text": "the southern end of the lake"
+        },
+        {
+          "text": "We walked along the whole promenade, from end to end."
+        },
+        {
+          "text": "The rope was unfastened at one end."
+        },
+        {
+          "text": "Take the free end of the rope and pass it through the hole."
+        },
+        {
+          "text": "housebuyers at the cheap end of the market"
+        },
+        {
+          "text": "The two parties represent opposite ends of the political spectrum."
+        },
+        {
+          "text": "The car was lifted up by the winds and tumbled end over end along the ground."
+        },
+        {
+          "text": "Their red blood cells were at the low end of the normal range."
+        }
+      ],
+      "collocations": {
+        "adjective": ["bottom", "lower", "top"],
+        "verb + end": ["come to", "get to", "reach"],
+        "end + noun": ["part", "piece", "portion"],
+        "preposition": ["at the end", "on end"],
+        "phrases": ["at one end", "change ends", "close to the end"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "an aim or a purpose",
+      "examples": [
+        {
+          "text": "They are prepared to use violence in pursuit of their ends."
+        },
+        {
+          "text": "She is exploiting the current situation for her own ends."
+        },
+        {
+          "text": "He joined the society for political ends."
+        },
+        {
+          "text": "**With this end in view** *(= in order to achieve this)* they employed 50 new staff."
+        },
+        {
+          "text": "We are willing to make any concessions necessary **to this end** *(= in order to achieve this)*."
+        },
+        {
+          "text": "They are working towards common ends."
+        },
+        {
+          "text": "Despite our differences, we were working to a common end."
+        },
+        {
+          "text": "She was prepared to lie in order to achieve her ends."
+        },
+        {
+          "text": "He wished to have a house built, and to this end he engaged a local architect."
+        },
+        {
+          "text": "The money might have been used to more beneficial ends."
+        }
+      ],
+      "collocations": {
+        "adjective": ["noble", "worthwhile", "worthy"],
+        "verb + end": ["accomplish", "achieve", "attain"],
+        "preposition": ["to… ends", "to this end"],
+        "phrases": [
+          "an end in itself",
+          "a means to an end",
+          "the end justifies the means"
+        ]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a part of an activity with which somebody is involved, especially in business",
+      "examples": [
+        {
+          "text": "We need somebody to handle the marketing end of the business."
+        },
+        {
+          "text": "Are there any problems at your end?"
+        },
+        {
+          "text": "I have kept my end of the bargain."
+        }
+      ],
+      "collocations": {
+        "adjective": ["bottom", "lower", "top"],
+        "verb + end": ["come to", "get to", "reach"],
+        "end + noun": ["part", "piece", "portion"],
+        "preposition": ["at the end", "on end"],
+        "phrases": ["at one end", "change ends", "close to the end"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "either of two places connected by a phone call, journey, etc.",
+      "examples": [
+        {
+          "text": "I answered the phone but there was no one **at the other end**."
+        },
+        {
+          "text": "Jean is going to meet me at **the other end**."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "one of the two halves of a sports field",
+      "cefr": "a2",
+      "examples": [
+        {
+          "text": "The teams changed ends at half-time."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "a small piece that is left after something has been used",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "a cigarette end"
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "a person’s death. People say ‘end’ to avoid saying ‘death’.",
+      "labels": "(literary)",
+      "examples": [
+        {
+          "text": "She came to **an untimely end** *(= died young)*."
+        },
+        {
+          "text": "I was with him at the end *(= when he died)*."
+        },
+        {
+          "text": "He **met his end** *(= died)* at the Battle of Waterloo."
+        },
+        {
+          "text": "He was bound to meet a violent end one day."
+        },
+        {
+          "text": "The end came when he collapsed after playing golf."
+        },
+        {
+          "text": "She had a short life and a tragic end."
+        }
+      ],
+      "collocations": {
+        "adjective": ["sad", "tragic", "bad"],
+        "verb + end": ["come to", "meet"],
+        "end + verb": ["come"]
+      }
+    },
+    {
+      "senseNumber": "10",
+      "definition": "a lineman who is nearest to the side of the field",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "a defensive end"
+        },
+        {
+          "text": "He does as good a job as any end in football at helping his teammates."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"]
+    },
+    {
+      "definition": "used to introduce the most important fact after everything has been considered",
+      "labels": "(informal)",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "At the end of the day, he'll still have to make his own decision."
+        }
+      ]
+    },
+    {
+      "definition": "having nothing to do and not knowing what you want to do",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Come and see us, if you're at a loose end."
+        }
+      ]
+    },
+    {
+      "definition": "something unpleasant that happens to somebody, for example punishment or a violent death, usually because of their own actions",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "He'll **come to a sticky end** one of these days if he carries on like that."
+        }
+      ]
+    },
+    {
+      "definition": "to have almost nothing left of something",
+      "examples": [
+        {
+          "text": "I'm at the end of my patience."
+        },
+        {
+          "text": "They are at the end of their food supply."
+        }
+      ]
+    },
+    {
+      "definition": "to feel that you cannot deal with a difficult situation any more because you are too tired, worried, etc.",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "You’d better let her know you’re safe. She’s at the end of her tether."
+        }
+      ]
+    },
+    {
+      "definition": "to be the person that an action, etc. is directed at, especially an unpleasant one",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "She found herself on the receiving end of a great deal of criticism."
+        }
+      ]
+    },
+    {
+      "definition": "to be so worried by a problem that you do not know what to do next",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "She was at her wits’ end wondering how she’d manage it all in the time."
+        },
+        {
+          "text": "I'm at my wits' end trying to cope with his moods."
+        }
+      ],
+      "topics": ["Feelings"]
+    },
+    {
+      "definition": "when you say that people or situations are the end, you mean that you are annoyed with them",
+      "labels": "(British English, informal)",
+      "examples": []
+    },
+    {
+      "definition": "the first sign of something ending",
+      "examples": [
+        {
+          "text": "The scandal was the beginning of the end of his career as a politician."
+        },
+        {
+          "text": "It wasn't the end of their marriage, but it was the beginning of the end."
+        },
+        {
+          "text": "That day was the beginning of the end of our friendship."
+        }
+      ]
+    },
+    {
+      "definition": "to become very tired by trying to do too many things and going to bed late and getting up early",
+      "examples": []
+    },
+    {
+      "definition": "a thing that is itself important and not just a part of something more important",
+      "examples": [
+        {
+          "text": "For her, shopping had become an end in itself."
+        },
+        {
+          "text": "For him, travelling had become an end in itself rather than a means of seeing new places."
+        }
+      ]
+    },
+    {
+      "definition": "bad or unfair methods of doing something are acceptable if the result of that action is good or positive",
+      "labels": "(saying)",
+      "examples": [
+        {
+          "text": "He defended a morality in which the end justifies the means."
+        },
+        {
+          "text": "That's only OK if you believe that the end justifies the means."
+        }
+      ]
+    },
+    {
+      "definition": "(to reach) the point at which something can no longer continue in the same way",
+      "examples": [
+        {
+          "text": "A defeat in the second round marked the end of the line for last year's champion."
+        },
+        {
+          "text": "The loss of this contract could signal the end of the line for the shipyard."
+        },
+        {
+          "text": "This latest disagreement could mean the end of the road for the band."
+        }
+      ]
+    },
+    {
+      "definition": "used when you are stating that there is nothing more that can be said or done about something",
+      "examples": [
+        {
+          "text": "If she doesn’t agree, I won’t go ahead. End of story."
+        }
+      ]
+    },
+    {
+      "definition": "in a line, with the ends touching",
+      "examples": [
+        {
+          "text": "They arranged the tables end to end."
+        }
+      ]
+    },
+    {
+      "definition": "to have sex",
+      "labels": "(British English, slang)",
+      "examples": []
+    },
+    {
+      "definition": "to be the person in a group who is chosen or forced to perform an unpleasant duty or task",
+      "examples": []
+    },
+    {
+      "definition": "to understand something in the wrong way",
+      "labels": "(British English, informal)",
+      "examples": []
+    },
+    {
+      "definition": "to suddenly become very angry or emotional",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to do everything possible, even if it is difficult, in order to get or achieve something",
+      "examples": [
+        {
+          "text": "I'd go to the ends of the earth to see her again."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "after a long period of time or series of events",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He tried various jobs and in the end became an accountant."
+        },
+        {
+          "text": "In the end, they decided to spend Christmas at home."
+        }
+      ],
+      "topics": ["Time"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "after everything has been considered",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You can try your best to impress the interviewers but in the end it's often just a question of luck."
+        }
+      ]
+    },
+    {
+      "definition": "to start or be made to start a new and difficult activity that you are not prepared for",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Junior hospital doctors are thrown in at the deep end in their first jobs."
+        },
+        {
+          "text": "The company believes in throwing new employees in at the deep end with no training."
+        }
+      ]
+    },
+    {
+      "definition": "to continue to be cheerful in a difficult situation",
+      "labels": "(British English, informal)",
+      "examples": []
+    },
+    {
+      "definition": "something that shows you are nearly at the end of a long and difficult time or situation",
+      "examples": [
+        {
+          "text": "For the first time since the start of his treatment, we can now see light at the end of the tunnel."
+        }
+      ]
+    },
+    {
+      "definition": "to earn just enough money to be able to buy the things you need",
+      "examples": [
+        {
+          "text": "Many families struggle to make ends meet."
+        }
+      ]
+    },
+    {
+      "definition": "to shock or frighten somebody",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "a chilling tale that will make your hair stand on end"
+        }
+      ]
+    },
+    {
+      "definition": "a thing or an action that is not interesting or important in itself but is a way of achieving something else",
+      "examples": [
+        {
+          "text": "He doesn't particularly like the work but he sees it as a means to an end."
+        },
+        {
+          "text": "I don't enjoy studying computing—it's just a means to an end."
+        }
+      ]
+    },
+    {
+      "definition": "very much",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "It upset me no end to hear they'd split up."
+        }
+      ]
+    },
+    {
+      "definition": "a lot of something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "We had no end of trouble getting them to agree."
+        }
+      ]
+    },
+    {
+      "definition": "not the worst thing that could happen to somebody",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Failing one exam is not the end of the world."
+        },
+        {
+          "text": "It won't be the end of the world if you don't get the job."
+        }
+      ]
+    },
+    {
+      "definition": "to keep being reminded of something because somebody is always talking to you about it",
+      "examples": [
+        {
+          "text": "If we don't get her a dog we'll never hear the end of it."
+        }
+      ]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "in a position standing upright rather than lying flat",
+      "examples": [
+        {
+          "text": "It'll fit if you stand it on end."
+        },
+        {
+          "text": "Stand the box on end."
+        },
+        {
+          "text": "Stand it on end."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "for the stated length of time, without stopping",
+      "examples": [
+        {
+          "text": "He would disappear for **weeks on end**."
+        }
+      ]
+    },
+    {
+      "definition": "to kill yourself",
+      "examples": []
+    },
+    {
+      "definition": "a situation in which somebody is treated badly or unfairly",
+      "labels": "(Australian English, informal)",
+      "examples": []
+    },
+    {
+      "definition": "the place or position of greatest difficulty or responsibility",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "He started work at the sharp end of the business, as a salesman."
+        }
+      ]
+    },
+    {
+      "definition": "an event or action that is the beginning of something more serious and/or unpleasant",
+      "labels": "(especially British English)",
+      "examples": [
+        {
+          "text": "The introduction of a tax on workplace parking is seen by many as the thin end of the wedge."
+        }
+      ]
+    },
+    {
+      "definition": "continuing until you have done everything you can, or until something is completely finished, despite difficulties and problems",
+      "examples": [
+        {
+          "text": "They were prepared to fight to the bitter end for their rights."
+        },
+        {
+          "text": "We will fight this case to the bitter end."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English ende (noun), endian (verb), of Germanic origin; related to Dutch einde (noun), einden (verb) and German Ende (noun), enden (verb)."
+}

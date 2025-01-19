@@ -1,0 +1,213 @@
+{
+  "word": "tea",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/tiː/",
+        "audio": "data/audio/t/tea/tea__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/tiː/",
+        "audio": "data/audio/t/tea/tea__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the dried leaves (called tea leaves) of the tea bush",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a packet of tea"
+        },
+        {
+          "text": "I spooned the tea into the pot."
+        },
+        {
+          "text": "a blend of different teas *(= types of tea)*"
+        }
+      ],
+      "collocations": {
+        "adjective": ["loose"],
+        "… of tea": ["box", "packet"],
+        "verb + tea": ["grow"],
+        "tea + verb": ["grow"],
+        "tea + noun": ["leaf", "bag", "caddy"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "a hot drink made by pouring boiling water onto tea leaves. It may be drunk with milk or lemon and/or sugar added.",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **cup of tea**"
+        },
+        {
+          "text": "A pot of tea for two, please."
+        },
+        {
+          "text": "**iced tea**"
+        },
+        {
+          "text": "Would you like tea or coffee?"
+        },
+        {
+          "text": "I don't drink tea."
+        },
+        {
+          "text": "Do you take sugar in your tea?"
+        },
+        {
+          "text": "She sipped her hot tea slowly."
+        },
+        {
+          "text": "Allow the tea to cool before you drink it."
+        },
+        {
+          "text": "I'll bring you a cup of tea in a few minutes."
+        },
+        {
+          "text": "I'll have tea—white, no sugar, please."
+        },
+        {
+          "text": "I'll make you some tea."
+        },
+        {
+          "text": "John rushed around dispensing tea and cakes to everyone."
+        },
+        {
+          "text": "There's some fresh tea in the pot."
+        },
+        {
+          "text": "You haven't let the tea brew long enough."
+        },
+        {
+          "text": "All rooms have tea-making facilities."
+        },
+        {
+          "text": "The hospital tea bar is run by volunteers."
+        },
+        {
+          "text": "an authentic Japanese tea house"
+        }
+      ],
+      "topics": ["Drinks"],
+      "collocations": {
+        "adjective": ["fresh", "stewed", "strong"],
+        "… of tea": ["cup", "flask", "mug"],
+        "verb + tea": ["drink", "have", "take"],
+        "tea + verb": ["brew", "cool"],
+        "tea + noun": ["kettle", "pot", "urn"],
+        "preposition": ["in your tea"],
+        "phrases": ["tea and coffee", "tea or coffee", "tea and biscuits"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a cup of tea",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Two teas, please."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "a hot drink made by pouring boiling water onto the leaves of other plants",
+      "examples": [
+        {
+          "text": "camomile/mint/herbal tea"
+        }
+      ],
+      "collocations": {
+        "adjective": ["fresh", "stewed", "strong"],
+        "… of tea": ["cup", "flask", "mug"],
+        "verb + tea": ["drink", "have", "take"],
+        "tea + verb": ["brew", "cool"],
+        "tea + noun": ["kettle", "pot", "urn"],
+        "preposition": ["in your tea"],
+        "phrases": ["tea and coffee", "tea or coffee", "tea and biscuits"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "the name used by some people in the UK for the cooked meal eaten in the evening, especially when it is eaten early in the evening",
+      "labels": "(British English)",
+      "cefr": "a1",
+      "examples": [
+        {
+          "text": "You can have your tea as soon as you come home from school."
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adjective": ["afternoon", "cream", "high"],
+        "tea + noun": ["time", "things"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "a light meal eaten in the afternoon or early evening, usually with sandwiches and/or biscuits and cakes and with tea to drink",
+      "labels": "(British English)British EnglishBritish English",
+      "examples": [
+        {
+          "text": "Would you like to come to tea on Sunday?"
+        },
+        {
+          "text": "I cleared away the tea things."
+        }
+      ],
+      "collocations": {
+        "adjective": ["afternoon", "cream", "high"],
+        "tea + noun": ["time", "things"]
+      }
+    },
+    {
+      "definition": "not what somebody likes or is interested in",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "An evening at the opera isn't everyone's cup of tea."
+        },
+        {
+          "text": "He's nice enough but not really my cup of tea."
+        }
+      ]
+    },
+    {
+      "definition": "not even for a great reward",
+      "labels": "(old-fashioned)",
+      "examples": [
+        {
+          "text": "I wouldn't do your job. Not for all the tea in China!"
+        }
+      ]
+    },
+    {
+      "definition": "to tell somebody something that should be kept secret or private",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "We don't want to spill the beans yet."
+        },
+        {
+          "text": "She made the mistake of spilling the tea on her sister's love life."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "mid 17th cent.: probably via Malay from Chinese (Min dialect) te; related to Mandarin chá. Compare with char (noun - sense 2)."
+}

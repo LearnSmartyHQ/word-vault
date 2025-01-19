@@ -1,0 +1,529 @@
+{
+  "word": "work",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/wɜːk/",
+        "audio": "data/audio/w/work/work__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/wɜːks/",
+        "audio": "data/audio/w/work/works__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/wɜːkt/",
+        "audio": "data/audio/w/work/worked__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈwɜːkɪŋ/",
+        "audio": "data/audio/w/work/working__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/wɜːrk/",
+        "audio": "data/audio/w/work/work__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/wɜːrks/",
+        "audio": "data/audio/w/work/works__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/wɜːrkt/",
+        "audio": "data/audio/w/work/worked__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈwɜːrkɪŋ/",
+        "audio": "data/audio/w/work/working__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "work",
+      "heSheIt": "works"
+    },
+    "pastSimple": "worked",
+    "pastParticiple": "worked",
+    "ingForm": "working"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to do something that involves physical or mental effort, especially as part of a job",
+      "sensetop": "work on somethingwork at somethingwork with somebody+ noun",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I can't work if I'm cold."
+        },
+        {
+          "text": "The kids always **work hard** at school."
+        },
+        {
+          "text": "The whole team is currently **working on the project**.",
+          "contextForm": "work on something"
+        },
+        {
+          "text": "He is working on a new novel."
+        },
+        {
+          "text": "She's outside, working on the car."
+        },
+        {
+          "text": "I've been working at my assignment all day.",
+          "contextForm": "work at something"
+        },
+        {
+          "text": "Work with a partner to solve the problem.",
+          "contextForm": "work with somebody"
+        },
+        {
+          "text": "We **work closely** with clients to develop specific solutions."
+        },
+        {
+          "text": "Doctors often **work** very long **hours**.",
+          "contextForm": "+ noun"
+        },
+        {
+          "text": "He works shifts at a metal plant."
+        },
+        {
+          "text": "An architect must work within the confines of the laws of physics."
+        },
+        {
+          "text": "Employees are motivated to work harder for a variety of different reasons."
+        },
+        {
+          "text": "I've spent three hours working at this problem."
+        },
+        {
+          "text": "I work more efficiently on my own."
+        },
+        {
+          "text": "We worked steadily away all morning."
+        },
+        {
+          "text": "I got to work with leading architects."
+        },
+        {
+          "text": "We will continue to work with suppliers and listen to customers."
+        },
+        {
+          "text": "I have to work unsociable hours at times."
+        },
+        {
+          "text": "I am willing to work hard to accomplish this."
+        },
+        {
+          "text": "The police are actively working with different groups in the community."
+        },
+        {
+          "text": "She is working on an important murder case."
+        },
+        {
+          "text": "They are working in close partnership with the local council."
+        },
+        {
+          "text": "She met other artists who worked in similar ways to her."
+        },
+        {
+          "text": "The department works on issues of special concern to women."
+        },
+        {
+          "text": "They don't want to work seven days a week."
+        }
+      ],
+      "topics": ["Jobs"],
+      "collocations": {
+        "adverb": ["hard", "tirelessly", "assiduously"],
+        "verb + work": ["continue to", "choose to", "prefer to"],
+        "preposition": ["as", "at", "for"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to have a job",
+      "sensetop": "work for somebody/somethingwork in somethingwork with somebody/somethingwork as something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Both my parents work."
+        },
+        {
+          "text": "to work in an office/a factory"
+        },
+        {
+          "text": "She **works for** an engineering **company**.",
+          "contextForm": "work for somebody/something"
+        },
+        {
+          "text": "My father wants me to work for him when I leave school."
+        },
+        {
+          "text": "I've always worked in education.",
+          "contextForm": "work in something"
+        },
+        {
+          "text": "He worked in the oil industry for twenty years."
+        },
+        {
+          "text": "Do you enjoy working with children?",
+          "contextForm": "work with somebody/something"
+        },
+        {
+          "text": "My son is working as a teacher.",
+          "contextForm": "work as something"
+        },
+        {
+          "text": "the people you work with"
+        },
+        {
+          "text": "people who have worked closely together over a period of time"
+        },
+        {
+          "text": "A lot of mothers choose to work part-time."
+        },
+        {
+          "text": "He's working as a builder at the moment."
+        },
+        {
+          "text": "He was found to be working illegally and was deported."
+        },
+        {
+          "text": "I work primarily with young children."
+        },
+        {
+          "text": "She works for an oil company."
+        },
+        {
+          "text": "He works directly with customers."
+        },
+        {
+          "text": "I prefer to work as part of a team."
+        },
+        {
+          "text": "I needed a job which would enable me to work at home."
+        },
+        {
+          "text": "They have lived and worked in the area all their life."
+        },
+        {
+          "text": "Many of them had the opportunity to work or study abroad."
+        },
+        {
+          "text": "The school is a great place to work."
+        },
+        {
+          "text": "She works with young people."
+        },
+        {
+          "text": "She is working in the field of historic preservation."
+        },
+        {
+          "text": "It is great to work in an environment that encourages creativity."
+        },
+        {
+          "text": "She is still working at the age of 80."
+        },
+        {
+          "text": "He works from home (= does paid work at home) two days a week."
+        }
+      ],
+      "topics": ["Working life"],
+      "collocations": {
+        "adverb": ["hard", "tirelessly", "assiduously"],
+        "verb + work": ["continue to", "choose to", "prefer to"],
+        "preposition": ["as", "at", "for"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to make efforts to achieve something",
+      "sensetop": "work for somethingwork to do somethingwork togetherwork together to do something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She dedicated her life to working for peace.",
+          "contextForm": "work for something"
+        },
+        {
+          "text": "The committee is working to get the prisoners freed.",
+          "contextForm": "work to do something"
+        },
+        {
+          "text": "We have proved that different groups can work harmoniously together.",
+          "contextForm": "work together"
+        },
+        {
+          "text": "The police and the public need to work together to combat crime.",
+          "contextForm": "work together to do something"
+        },
+        {
+          "text": "Emergency teams were working around the clock to make the homes secure."
+        },
+        {
+          "text": "Farmers must work together for their own economic good."
+        },
+        {
+          "text": "We are actively working to increase the number of women in science."
+        },
+        {
+          "text": "They worked tirelessly to promote the charity."
+        },
+        {
+          "text": "I'm working on a plan to get out of this situation."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to make yourself/somebody work, especially very hard",
+      "sensetop": "work yourself/somebody + adv./prep.",
+      "examples": [
+        {
+          "text": "She works herself too hard."
+        },
+        {
+          "text": "He says they're working him hard."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to function; to operate",
+      "sensetop": "work by somethingwork by doing something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The printer isn't working."
+        },
+        {
+          "text": "How does the device **actually work**?"
+        },
+        {
+          "text": "Are they any closer to understanding how the brain works?"
+        },
+        {
+          "text": "It works by electricity.",
+          "contextForm": "work by something"
+        },
+        {
+          "text": "The filtration process works by physically removing the contaminants from the water.",
+          "contextForm": "work by doing something"
+        },
+        {
+          "text": "My limbs seemed to be working independently of each other."
+        },
+        {
+          "text": "The machine is tested regularly to make sure it is working properly."
+        },
+        {
+          "text": "The fish's eyes can work independently of each other."
+        },
+        {
+          "text": "Both ends must be securely sealed for it to work effectively."
+        }
+      ],
+      "collocations": {
+        "adverb": ["correctly", "effectively", "efficiently"],
+        "verb + work": ["seem to"],
+        "phrases": [
+          "work like a charm",
+          "work like magic",
+          "work to somebody’s advantage"
+        ]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to make a machine, device, etc. operate",
+      "sensetop": "work something",
+      "examples": [
+        {
+          "text": "Do you know how to work the coffee machine?"
+        },
+        {
+          "text": "The machine is worked by wind power."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to have the result or effect that you want",
+      "sensetop": "work on somebody/something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The pills the doctor gave me aren't working."
+        },
+        {
+          "text": "My plan worked, and I got them to agree."
+        },
+        {
+          "text": "The system seemed to **work well**."
+        },
+        {
+          "text": "Everything worked very smoothly."
+        },
+        {
+          "text": "His charm doesn't work on me *(= does not affect or impress me)*.",
+          "contextForm": "work on somebody/something"
+        },
+        {
+          "text": "Organic farming works best with a wide variety of crops."
+        },
+        {
+          "text": "I might have an idea that would work perfectly."
+        }
+      ],
+      "collocations": {
+        "adverb": ["correctly", "effectively", "efficiently"],
+        "verb + work": ["seem to"],
+        "phrases": [
+          "work like a charm",
+          "work like magic",
+          "work to somebody’s advantage"
+        ]
+      }
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to have a particular effect",
+      "sensetop": "work against somebodywork in somebody’s favour",
+      "examples": [
+        {
+          "text": "Your age can work against you in this job.",
+          "contextForm": "work against somebody"
+        },
+        {
+          "text": "Speaking Italian should work in his favour.",
+          "contextForm": "work in somebody’s favour"
+        },
+        {
+          "text": "You can make your youth work to your advantage."
+        },
+        {
+          "text": "There were a number of factors that worked against them in the last election."
+        },
+        {
+          "text": "The fact that you are experienced should work in your favour."
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to manage or operate something to gain benefit from it",
+      "sensetop": "work something",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "to **work the land ***(= grow crops on it, etc.)*"
+        },
+        {
+          "text": "Boys who didn't go to school worked the land with their fathers."
+        },
+        {
+          "text": "He works a large area *(= selling a company's goods, etc.)*."
+        },
+        {
+          "text": "You have to learn how to **work the system** if you want to succeed."
+        },
+        {
+          "text": "She was a skilful speaker who knew how to **work a crowd** *(= to excite them or make them feel something strongly)*."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to make a material into a particular shape or form by pressing, stretching, hitting it, etc.",
+      "sensetop": "work somethingwork something into something",
+      "examples": [
+        {
+          "text": "to work clay",
+          "contextForm": "work something"
+        },
+        {
+          "text": "to work gold"
+        },
+        {
+          "text": "to work the mixture into a paste",
+          "contextForm": "work something into something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to use a particular material to produce a picture or other item",
+      "sensetop": "work in/with something",
+      "cefr": "a2",
+      "examples": [
+        {
+          "text": "an artist working in oils"
+        },
+        {
+          "text": "a craftsman working with wool"
+        }
+      ],
+      "topics": ["Art"]
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to move violently",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "He stared at me in horror, his mouth working."
+        }
+      ]
+    },
+    {
+      "senseNumber": "13",
+      "definition": "to move or pass to a particular place or state, usually gradually",
+      "sensetop": "+ adv./prep.work your way + adv./prep.work yourself/something + adj.+ adj.",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "It will take a while for the drug to work out of your system.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "He worked his way to the top of his profession."
+        },
+        {
+          "text": "I was tied up, but managed to work myself free.",
+          "contextForm": "work yourself/something + adj."
+        },
+        {
+          "text": "The screw had **worked loose**.",
+          "contextForm": "+ adj."
+        }
+      ]
+    },
+    {
+      "definition": "to arrange something in a particular way, especially by being clever",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Can you work it so that we get free tickets?"
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English weorc (noun), wyrcan (verb), of Germanic origin; related to Dutch werk and German Werk, from an Indo-European root shared by Greek ergon."
+}

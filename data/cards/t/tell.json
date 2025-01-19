@@ -1,0 +1,525 @@
+{
+  "word": "tell",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/tel/",
+        "audio": "data/audio/t/tell/tell__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/telz/",
+        "audio": "data/audio/t/tell/tells__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/təʊld/",
+        "audio": "data/audio/t/tell/told__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈtelɪŋ/",
+        "audio": "data/audio/t/tell/telling__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/tel/",
+        "audio": "data/audio/t/tell/tell__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/telz/",
+        "audio": "data/audio/t/tell/tells__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/təʊld/",
+        "audio": "data/audio/t/tell/told__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈtelɪŋ/",
+        "audio": "data/audio/t/tell/telling__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "tell",
+      "heSheIt": "tells"
+    },
+    "pastSimple": "told",
+    "pastParticiple": "told",
+    "ingForm": "telling"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to give information to somebody by speaking or writing",
+      "sensetop": "tell something to somebodytell somebody somethingtell somebody about somethingtell somebody/yourself (that)…tell somebody where, what, etc…tell somebody + speech",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He told the news to everybody he saw.",
+          "contextForm": "tell something to somebody"
+        },
+        {
+          "text": "He told everybody he saw the news.",
+          "contextForm": "tell somebody something"
+        },
+        {
+          "text": "Did she tell you her name?"
+        },
+        {
+          "text": "**What did I tell you**? *(= you should have listened to my advice)*"
+        },
+        {
+          "text": "‘Come closer,’ she said, ‘I want to **tell you something**’."
+        },
+        {
+          "text": "Why wasn't I told about the accident?",
+          "contextForm": "tell somebody about something"
+        },
+        {
+          "text": "They’ve told us (that) they’re not coming.",
+          "contextForm": "tell somebody/yourself (that)…"
+        },
+        {
+          "text": "I **told** him **straight** *(= in a direct way)* that I wasn't voting for him."
+        },
+        {
+          "text": "He later told the court that he had returned the money."
+        },
+        {
+          "text": "I **kept telling myself** (that) everything was OK."
+        },
+        {
+          "text": "Are you telling me you didn't have any help with this? *(= I don't believe what you have said)*"
+        },
+        {
+          "text": "Tell me where you live.",
+          "contextForm": "tell somebody where, what, etc…"
+        },
+        {
+          "text": "‘I'm ready to go now,’ he told her.",
+          "contextForm": "tell somebody + speech"
+        },
+        {
+          "text": "'We hope that there will be some progress,' he told reporters."
+        },
+        {
+          "text": "I tried to tell them but they wouldn't let me."
+        },
+        {
+          "text": "I was going to tell you—I just didn't get around to it."
+        },
+        {
+          "text": "I hate to tell you this but I've broken your phone."
+        },
+        {
+          "text": "I never told him about the money."
+        },
+        {
+          "text": "No one had told her of the dangers."
+        },
+        {
+          "text": "She told me bluntly it was my own fault."
+        },
+        {
+          "text": "Did anyone tell you what happened?"
+        },
+        {
+          "text": "The government refused to tell them anything about its investigation."
+        }
+      ],
+      "collocations": {
+        "adverb": ["bluntly", "curtly", "flatly"],
+        "verb + tell": ["want to", "be going to", "try to"],
+        "preposition": ["about", "of", "to"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to give information about something",
+      "sensetop": "tell somebody somethingtell somebody how, where, etc…tell somebody (that)…",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The advertisement told us very little about the product.",
+          "contextForm": "tell somebody something"
+        },
+        {
+          "text": "This gauge tells you how much fuel you have left.",
+          "contextForm": "tell somebody how, where, etc…"
+        },
+        {
+          "text": "The sound of his breathing told her (that) he was asleep.",
+          "contextForm": "tell somebody (that)…"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to express something in words",
+      "sensetop": "tell somethingtell somebody how, what, etc…tell somebody something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **tell stories/jokes/lies**",
+          "contextForm": "tell something"
+        },
+        {
+          "text": "Are you sure you're **telling the truth**?"
+        },
+        {
+          "text": "**I can't tell you** how happy I am.",
+          "contextForm": "tell somebody how, what, etc…"
+        },
+        {
+          "text": "We'd go fishing and she'd tell me stories.",
+          "contextForm": "tell somebody something"
+        },
+        {
+          "text": "All of them had an interesting story to tell."
+        },
+        {
+          "text": "He told the story to all his friends."
+        },
+        {
+          "text": "She is always telling lies."
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to let somebody know a secret",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Promise you won't tell."
+        },
+        {
+          "text": "‘Who are you going out with tonight?’ ‘**That would be telling**!’ *(= it's a secret)*"
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to order or advise somebody to do something",
+      "sensetop": "tell somebody/yourself to do somethingtell somebody somethingtell somebodytell somebody what, when, etc…tell somebody (that)…",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He was told to sit down and wait.",
+          "contextForm": "tell somebody/yourself to do something"
+        },
+        {
+          "text": "There was a sign telling motorists to slow down."
+        },
+        {
+          "text": "I kept telling myself to keep calm."
+        },
+        {
+          "text": "I specifically told you to be here on time."
+        },
+        {
+          "text": "Do what I tell you.",
+          "contextForm": "tell somebody something"
+        },
+        {
+          "text": "Children must **do as they're told**.",
+          "contextForm": "tell somebody"
+        },
+        {
+          "text": "Don't tell me what to do!",
+          "contextForm": "tell somebody what, when, etc…"
+        },
+        {
+          "text": "The doctor told me (that) I should eat less fat.",
+          "contextForm": "tell somebody (that)…"
+        }
+      ],
+      "collocations": {
+        "adverb": ["firmly", "sternly"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to know, see or judge something correctly",
+      "sensetop": "tell (that)…tell how, if, etc…",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I think he's happy. **It's hard to tell**."
+        },
+        {
+          "text": "**As far as I can tell**, she's enjoying the course."
+        },
+        {
+          "text": "‘That's not an original.’ ‘How can you tell?’"
+        },
+        {
+          "text": "I could tell (that) he was angry from his expression.",
+          "contextForm": "tell (that)…"
+        },
+        {
+          "text": "The only way to tell if you like something is by trying it.",
+          "contextForm": "tell how, if, etc…"
+        },
+        {
+          "text": "**It's too early to tell** how popular this service will be."
+        },
+        {
+          "text": "It's impossible to tell exactly where the problem is."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to recognize the difference between one thing or person and another",
+      "sensetop": "tell somethingtell A from Btell A and B aparttell which, what, etc…",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "It was hard to **tell the difference between** the two versions.",
+          "contextForm": "tell something"
+        },
+        {
+          "text": "Can you tell Tom from his twin brother?",
+          "contextForm": "tell A from B"
+        },
+        {
+          "text": "Can you tell this copy from the original?"
+        },
+        {
+          "text": "It's difficult to **tell them apart**.",
+          "contextForm": "tell A and B apart"
+        },
+        {
+          "text": "The kittens look exactly alike—how can you **tell which is which**?",
+          "contextForm": "tell which, what, etc…"
+        },
+        {
+          "text": "I couldn't tell who was meant to be the chairman."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to have an effect on somebody/something, especially a bad one",
+      "sensetop": "tell (on somebody)",
+      "examples": [
+        {
+          "text": "The strain was beginning to tell on the rescue team."
+        }
+      ]
+    },
+    {
+      "definition": "with all people, etc. counted and included",
+      "examples": [
+        {
+          "text": "There are 52 people coming, all told."
+        }
+      ]
+    },
+    {
+      "definition": "used to say that you know or can guess what somebody is going to say, especially because it is typical of them",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Don't tell me you were late again!"
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"]
+    },
+    {
+      "definition": "to hear people talking about something",
+      "labels": "(old-fashioned or formal)",
+      "examples": [
+        {
+          "text": "I've often heard tell of such things."
+        }
+      ]
+    },
+    {
+      "definition": "used to tell somebody the true facts about a situation, especially when these are not known by other people",
+      "examples": [
+        {
+          "text": "If the truth be known, I was afraid to tell anyone."
+        }
+      ]
+    },
+    {
+      "definition": "used to say that something you have just said is not true or correct",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "We first met in 2006, no, I tell a lie, it was 2007."
+        }
+      ]
+    },
+    {
+      "definition": "used to emphasize what you are saying, especially when it is surprising or difficult to believe",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "It isn't cheap, I can tell you!"
+        },
+        {
+          "text": "I'm telling you, that's exactly what she said."
+        }
+      ]
+    },
+    {
+      "definition": "used to introduce a suggestion",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "I'll tell you what—let's stay in instead."
+        }
+      ],
+      "topics": ["Suggestions and advice"]
+    },
+    {
+      "definition": "used when something bad has happened, to remind somebody that you warned them about it and they did not listen to you",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "a way of referring to somebody talking publicly, usually for money, about a past sexual relationship with somebody famous",
+      "examples": []
+    },
+    {
+      "definition": "used to say that somebody told you something but you do not want to say who it was",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to survive a difficult or dangerous experience so that you can tell others what really happened",
+      "examples": [],
+      "topics": ["Danger"]
+    },
+    {
+      "definition": "to give some information that is different from what you expect or have been told",
+      "examples": [
+        {
+          "text": "These drugs are widely believed to be effective medications. The data, however, tell a different story."
+        }
+      ]
+    },
+    {
+      "definition": "used to introduce a question",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Tell me, have you had lunch yet?"
+        }
+      ]
+    },
+    {
+      "definition": "used to say that you understand what somebody is talking about and have had the same experience",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "‘I get so annoyed with Steve!’ ‘Tell me about it. He drives me crazy.’"
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "definition": "used to tell somebody that you do not believe what they have said",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to explain itself, without needing any further explanation or comment",
+      "examples": [
+        {
+          "text": "Her face told its own story."
+        }
+      ]
+    },
+    {
+      "definition": "to tell somebody about something that another person has done wrong",
+      "examples": []
+    },
+    {
+      "definition": "to tell somebody/know some useful, interesting or surprising information about somebody/something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "After winning several Oscars, Nick Park can tell you a thing or two about making animated films."
+        }
+      ]
+    },
+    {
+      "definition": "to read the time from a clock, etc.",
+      "examples": [
+        {
+          "text": "She's only five—she hasn't learnt to tell the time yet."
+        }
+      ]
+    },
+    {
+      "definition": "to make it clear to somebody that you will no longer accept their bad behaviour",
+      "labels": "(British English, informal)",
+      "examples": []
+    },
+    {
+      "definition": "to make it clear to somebody that you are angry and are rejecting what they are offering you",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "used to say that it is impossible to know what happened or will happen",
+      "examples": [
+        {
+          "text": "There's no telling how they'll react."
+        }
+      ]
+    },
+    {
+      "definition": "used to say that you will have to wait for some time to find out the result of a situation",
+      "labels": "(saying)",
+      "examples": [
+        {
+          "text": "Only time will tell if the treatment has been successful."
+        }
+      ]
+    },
+    {
+      "definition": "used when admitting something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "To tell the truth, I fell asleep in the middle of her talk."
+        }
+      ]
+    },
+    {
+      "definition": "you can never be sure, for example because things are not always what they appear to be",
+      "labels": "(saying)",
+      "examples": [],
+      "topics": ["Doubt, guessing and certainty"]
+    },
+    {
+      "definition": "I completely agree with you",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Opinion and argument"]
+    }
+  ],
+  "wordOrigin": "Old English tellan ‘relate, count, estimate’, of Germanic origin; related to German zählen ‘reckon, count’, erzählen ‘recount, relate’, also to tale."
+}

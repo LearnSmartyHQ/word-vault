@@ -1,0 +1,98 @@
+{
+  "word": "collaborate",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəˈlæbəreɪt/",
+        "audio": "data/audio/c/collaborate/collaborate__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəˈlæbəreɪts/",
+        "audio": "data/audio/c/collaborate/collaborates__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəˈlæbəreɪtɪd/",
+        "audio": "data/audio/c/collaborate/collaborated__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/kəˈlæbəreɪtɪŋ/",
+        "audio": "data/audio/c/collaborate/collaborating__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəˈlæbəreɪt/",
+        "audio": "data/audio/c/collaborate/collaborate__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəˈlæbəreɪts/",
+        "audio": "data/audio/c/collaborate/collaborates__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəˈlæbəreɪtɪd/",
+        "audio": "data/audio/c/collaborate/collaborated__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/kəˈlæbəreɪtɪŋ/",
+        "audio": "data/audio/c/collaborate/collaborating__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "collaborate",
+      "heSheIt": "collaborates"
+    },
+    "pastSimple": "collaborated",
+    "pastParticiple": "collaborated",
+    "ingForm": "collaborating"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to work together with somebody in order to produce or achieve something",
+      "sensetop": "collaborate (with somebody) (on something)collaborate (with somebody) (in something/in doing something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Researchers around the world are collaborating to develop a new vaccine."
+        },
+        {
+          "text": "We have collaborated on many projects over the years.",
+          "contextForm": "collaborate (with somebody) (on something)"
+        },
+        {
+          "text": "She agreed to collaborate with him in writing the biography of her grandmother.",
+          "contextForm": "collaborate (with somebody) (in something/in doing something)"
+        }
+      ],
+      "topics": ["Discussion and agreement"],
+      "collocations": {
+        "adverb": ["actively", "closely"],
+        "preposition": ["on", "with"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to help the enemy who has taken control of your country during a war",
+      "sensetop": "collaborate (with somebody)",
+      "labels": "(disapproving)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He was accused of collaborating with the enemy."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late 19th cent.: from Latin collaborat- ‘worked with’, from the verb collaborare, from col- ‘together’ + laborare ‘to work’."
+}

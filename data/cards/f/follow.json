@@ -1,0 +1,570 @@
+{
+  "word": "follow",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfɒləʊ/",
+        "audio": "data/audio/f/follow/follow__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfɒləʊz/",
+        "audio": "data/audio/f/follow/follows__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfɒləʊd/",
+        "audio": "data/audio/f/follow/followed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈfɒləʊɪŋ/",
+        "audio": "data/audio/f/follow/following__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfɑːləʊ/",
+        "audio": "data/audio/f/follow/follow__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfɑːləʊz/",
+        "audio": "data/audio/f/follow/follows__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfɑːləʊd/",
+        "audio": "data/audio/f/follow/followed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈfɑːləʊɪŋ/",
+        "audio": "data/audio/f/follow/following__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "follow",
+      "heSheIt": "follows"
+    },
+    "pastSimple": "followed",
+    "pastParticiple": "followed",
+    "ingForm": "following"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to come or go after or behind somebody/something",
+      "sensetop": "follow somebody/somethingfollow somebody + adv./prep.",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Follow me please.",
+          "contextForm": "follow somebody/something"
+        },
+        {
+          "text": "He followed her into the house.",
+          "contextForm": "follow somebody + adv./prep."
+        },
+        {
+          "text": "They were followed down the street by a bunch of photographers."
+        },
+        {
+          "text": "Wherever she led, they followed."
+        },
+        {
+          "text": "Sam walked in, with the rest of the boys **following closely** behind."
+        },
+        {
+          "text": "The dog followed obediently at her heels."
+        },
+        {
+          "text": "Follow me please. I'll show you the way."
+        },
+        {
+          "text": "She followed blindly, stumbling over stones in her path."
+        },
+        {
+          "text": "She beckoned him to follow her."
+        },
+        {
+          "text": "Johnson finished first, closely followed by Stevens and Higgins."
+        },
+        {
+          "text": "As Jackie walked up the aisle, her mother followed close behind."
+        }
+      ],
+      "collocations": {
+        "adverb": ["closely", "reluctantly", "dutifully"],
+        "verb + follow": ["beckon somebody to", "beckon to somebody to"],
+        "phrases": [
+          "being followed",
+          "follow close behind (somebody)",
+          "follow right behind (somebody)"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to come or go after or behind somebody in order to watch where they go and what they do",
+      "sensetop": "follow somebody/something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I think we're being followed."
+        },
+        {
+          "text": "Police followed the car along Station Road where it mounted the kerb again."
+        },
+        {
+          "text": "As she walked home, she had the feeling she was being followed."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to come after something/somebody else in time or order; to happen as a result of something else",
+      "sensetop": "follow (something/somebody)to followThere follows…as follows… follow on from something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I remember little of the days that followed the accident.",
+          "contextForm": "follow (something/somebody)"
+        },
+        {
+          "text": "A period of unrest followed the president's resignation."
+        },
+        {
+          "text": "The first two classes are followed by a break of ten minutes."
+        },
+        {
+          "text": "The main course was followed by fresh fruit."
+        },
+        {
+          "text": "I'll have soup and fish to follow.",
+          "contextForm": "to follow"
+        },
+        {
+          "text": "A detailed news report will follow shortly."
+        },
+        {
+          "text": "There followed a short silence.",
+          "contextForm": "There follows…"
+        },
+        {
+          "text": "The opening hours are as follows…",
+          "contextForm": "as follows…"
+        },
+        {
+          "text": "A new proposal followed on from the discussions.",
+          "contextForm": "follow on from something"
+        },
+        {
+          "text": "the workers' revolts that **followed in the wake of **the student uprising"
+        },
+        {
+          "text": "The first email was followed by a reminder to all who received the survey."
+        },
+        {
+          "text": "Periods of great creativity were followed by years in which he composed nothing."
+        },
+        {
+          "text": "Edward was followed in 1553 by Elizabeth's Catholic half-sister Mary."
+        }
+      ],
+      "topics": ["Change, cause and effect"],
+      "collocations": {
+        "adverb": ["closely", "quickly", "shortly"],
+        "phrases": [
+          "(be) followed by something",
+          "follow in the wake of something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to do something after something else",
+      "sensetop": "follow something with somethingfollow something up with something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Give your contact details and follow this with a brief profile of yourself.",
+          "contextForm": "follow something with something"
+        },
+        {
+          "text": "They follow up their March show with four UK dates next month.",
+          "contextForm": "follow something up with something"
+        },
+        {
+          "text": "Follow your treatment with plenty of rest."
+        },
+        {
+          "text": "He followed these novels with three volumes of autobiography."
+        }
+      ],
+      "collocations": {
+        "adverb": ["closely", "quickly", "shortly"],
+        "phrases": [
+          "(be) followed by something",
+          "follow in the wake of something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to accept advice, instructions, etc. and do what you have been told or shown to do",
+      "sensetop": "follow something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to follow **rules/procedures/guidelines**"
+        },
+        {
+          "text": "They said they were just **following orders**."
+        },
+        {
+          "text": "**Follow the instructions** very carefully."
+        },
+        {
+          "text": "Why didn't you **follow** my **advice**?"
+        },
+        {
+          "text": "Turn right and follow signs to Dundee."
+        },
+        {
+          "text": "I never follow a recipe completely."
+        },
+        {
+          "text": "He followed a strict diet."
+        },
+        {
+          "text": "I didn't really follow the recipe."
+        },
+        {
+          "text": "Read the label and follow the directions for use."
+        },
+        {
+          "text": "Leave the M4 at junction 11, then follow the signs."
+        },
+        {
+          "text": "When we tried to follow a sign directing us right into Greater Bridgewater Street, we found the road was closed."
+        }
+      ],
+      "topics": ["Suggestions and advice"],
+      "collocations": {
+        "adverb": ["carefully", "to the letter", "dutifully"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to accept somebody/something as a guide, a leader or an example; to copy somebody/something",
+      "sensetop": "follow (somebody/something)follow somebody into something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I encourage others to **follow our example**.",
+          "contextForm": "follow (somebody/something)"
+        },
+        {
+          "text": "The Senate is expected to **follow the lead** of the House."
+        },
+        {
+          "text": "We believe it is in our best interests to **follow the path** of economic openness and growth."
+        },
+        {
+          "text": "The movie follows the book faithfully."
+        },
+        {
+          "text": "They followed the teachings of Buddha."
+        },
+        {
+          "text": "He always followed the latest fashions *(= dressed in fashionable clothes)*."
+        },
+        {
+          "text": "Where one airline leads, others follow."
+        },
+        {
+          "text": "Laura followed her mother into the medical profession *(= became a doctor like her mother)*.",
+          "contextForm": "follow somebody into something"
+        },
+        {
+          "text": "Banks are expected to follow the building societies in raising mortgage rates."
+        },
+        {
+          "text": "It wasn't in his nature to follow blindly."
+        },
+        {
+          "text": "How do your feel your writing follows in the tradition of the South?"
+        },
+        {
+          "text": "slavishly following the views of his teachers"
+        },
+        {
+          "text": "I don't want you to follow my example and rush into marriage."
+        },
+        {
+          "text": "Following the example of Barcelona, greater emphasis is now given to public spaces."
+        },
+        {
+          "text": "He ordered a glass of champagne, and we followed his lead."
+        },
+        {
+          "text": "He leads by example and the others follow."
+        },
+        {
+          "text": "Marc is following a path laid down by his father."
+        }
+      ],
+      "collocations": {
+        "adverb": ["faithfully", "blindly", "slavishly"],
+        "verb + follow": ["be expected to", "be likely to"],
+        "phrases": [
+          "follow in somebody’s footsteps",
+          "follow in the tradition of somebody/​something",
+          "follow suit"
+        ]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to click on a link in a website",
+      "sensetop": "follow something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**Follow the links** to sign up for the webinar."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to go along a road, path, etc.",
+      "sensetop": "follow something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Follow this road until you get to the school, then turn left."
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to go in the same direction as something or parallel to something",
+      "sensetop": "follow something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The lane follows the edge of a wood for about a mile."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to be the logical result of something",
+      "sensetop": "follow from somethingfollow on from somethingit follows that…",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I don't see how that follows from what you've just said.",
+          "contextForm": "follow from something"
+        },
+        {
+          "text": "Several conclusions follow on from his statement.",
+          "contextForm": "follow on from something"
+        },
+        {
+          "text": "If a = b and b = c it follows that a = c.",
+          "contextForm": "it follows that…"
+        },
+        {
+          "text": "It does not necessarily follow that sleep loss would cause these symptoms."
+        }
+      ],
+      "topics": ["Change, cause and effect"],
+      "collocations": {
+        "adverb": ["not necessarily", "logically", "naturally"],
+        "preposition": ["(on) from"]
+      }
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to understand an explanation or the meaning of something",
+      "sensetop": "follow somebodyfollow something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Sorry, I don't follow."
+        },
+        {
+          "text": "Do you follow me?",
+          "contextForm": "follow somebody"
+        },
+        {
+          "text": "I couldn't really follow his argument.",
+          "contextForm": "follow something"
+        },
+        {
+          "text": "The plot is almost impossible to follow."
+        },
+        {
+          "text": "to be easy/difficult/hard to follow"
+        },
+        {
+          "text": "Sorry, I don't follow you."
+        },
+        {
+          "text": "His argument was difficult to follow."
+        }
+      ],
+      "collocations": {
+        "adverb": ["not quite"],
+        "verb + follow": ["be easy to", "be difficult to", "be hard to"]
+      }
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to watch or listen to somebody/something very carefully",
+      "sensetop": "follow somebody/something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The children were following every word of the story intently."
+        },
+        {
+          "text": "Her eyes followed him everywhere *(= she was looking at him all the time)*."
+        }
+      ]
+    },
+    {
+      "senseNumber": "13",
+      "definition": "to take an active interest in something and be aware of what is happening; to support a sports team",
+      "sensetop": "follow something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We've been **following this story** for months."
+        },
+        {
+          "text": "Have you been following the basketball championships?"
+        },
+        {
+          "text": "Millions of people followed the trial on TV."
+        },
+        {
+          "text": "In his leisure time he follows West Ham United."
+        },
+        {
+          "text": "They say it takes dedication to follow a football team week-in, week-out for eight months of the season."
+        },
+        {
+          "text": "Will this be a big shock to people who follow events closely in Washington?"
+        }
+      ]
+    },
+    {
+      "senseNumber": "14",
+      "definition": "to choose to regularly see content from a person, company, etc. using a social media service",
+      "sensetop": "follow somebody",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "I don’t follow many celebrities on Instagram any more."
+        }
+      ],
+      "topics": ["Phones, email and the internet"]
+    },
+    {
+      "senseNumber": "15",
+      "definition": "to be about the life or development of somebody/something",
+      "sensetop": "follow something",
+      "examples": [
+        {
+          "text": "The novel follows the fortunes of a village community in Scotland."
+        }
+      ]
+    },
+    {
+      "senseNumber": "16",
+      "definition": "to develop or happen in a particular way",
+      "sensetop": "follow something",
+      "examples": [
+        {
+          "text": "The day followed the usual pattern."
+        }
+      ]
+    },
+    {
+      "definition": "to do the same job, have the same style of life, etc. as somebody else, especially somebody in your family",
+      "examples": [
+        {
+          "text": "She works in television, following in her father's footsteps."
+        },
+        {
+          "text": "He wanted to follow in his mother's footsteps and be a ballroom dancer."
+        }
+      ]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to be guided by your sense of smell",
+      "examples": []
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to go straight forward",
+      "examples": [
+        {
+          "text": "The garage is a mile ahead up the hill—just follow your nose."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to act according to what seems right or reasonable, rather than following any particular rules",
+      "examples": []
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to play a card of the same suit that has just been played",
+      "examples": []
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to act or behave in the way that somebody else has just done",
+      "examples": []
+    },
+    {
+      "definition": "a person or event that is so good or successful at something that it will be difficult for anyone/anything else coming after them to be as good or successful",
+      "examples": [
+        {
+          "text": "She has been an excellent principal and will be a hard act to follow."
+        },
+        {
+          "text": "Their contribution will prove a tough act to follow."
+        }
+      ],
+      "topics": ["Success"]
+    }
+  ],
+  "wordOrigin": "Old English folgian, of Germanic origin; related to Dutch volgen and German folgen."
+}

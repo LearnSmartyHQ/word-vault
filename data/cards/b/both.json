@@ -1,0 +1,78 @@
+{
+  "word": "both",
+  "partOfSpeech": "determiner, pronoun",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bəʊθ/",
+        "audio": "data/audio/b/both/both__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bəʊθ/",
+        "audio": "data/audio/b/both/both__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "used with plural nouns to mean ‘the two’ or ‘the one as well as the other’",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Both women were French."
+        },
+        {
+          "text": "Both the women were French."
+        },
+        {
+          "text": "Both of the women were French."
+        },
+        {
+          "text": "I talked to the women. Both of them were French/They were both French."
+        },
+        {
+          "text": "I liked them both."
+        },
+        {
+          "text": "We were both tired."
+        },
+        {
+          "text": "Both of us were tired."
+        },
+        {
+          "text": "We have both seen the movie."
+        },
+        {
+          "text": "I have two sisters. Both of them live in London/They both live in London."
+        },
+        {
+          "text": "Both (my) sisters live in London."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "not only… but also…",
+      "sensetop": "both… and…",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Both his mother and his father will be there."
+        },
+        {
+          "text": "For this job you will need a good knowledge of both Italian and Spanish."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Middle English: from Old Norse báthir."
+}

@@ -1,0 +1,193 @@
+{
+  "word": "wonder",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈwʌndə(r)/",
+        "audio": "data/audio/w/wonder/wonder__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈwʌndəz/",
+        "audio": "data/audio/w/wonder/wonders__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈwʌndəd/",
+        "audio": "data/audio/w/wonder/wondered__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈwʌndərɪŋ/",
+        "audio": "data/audio/w/wonder/wondering__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈwʌndər/",
+        "audio": "data/audio/w/wonder/wonder__us_2.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈwʌndərz/",
+        "audio": "data/audio/w/wonder/wonders__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈwʌndərd/",
+        "audio": "data/audio/w/wonder/wondered__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈwʌndərɪŋ/",
+        "audio": "data/audio/w/wonder/wondering__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "wonder",
+      "heSheIt": "wonders"
+    },
+    "pastSimple": "wondered",
+    "pastParticiple": "wondered",
+    "ingForm": "wondering"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to think about something and try to decide what is true, what will happen, what you should do, etc.",
+      "sensetop": "wonder who, where, etc…wonder about somebody/something+ speech",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "‘Why do you want to know?’ ‘No particular reason. I was **just wondering**.’"
+        },
+        {
+          "text": "I wonder who she is.",
+          "contextForm": "wonder who, where, etc…"
+        },
+        {
+          "text": "I was just **beginning to wonder** where you were."
+        },
+        {
+          "text": "You **have to wonder** just what he sees in her."
+        },
+        {
+          "text": "I **can't help wondering** whether I'm missing something here."
+        },
+        {
+          "text": "Have you **ever wondered** what your cat really thinks of you?"
+        },
+        {
+          "text": "I **always wondered** why you never got married."
+        },
+        {
+          "text": "I'm still wondering how that could have happened."
+        },
+        {
+          "text": "I sometimes wonder where all this is going to end."
+        },
+        {
+          "text": "I often wonder what became of him."
+        },
+        {
+          "text": "We were wondering about next April for the wedding.",
+          "contextForm": "wonder about somebody/something"
+        },
+        {
+          "text": "‘Where's Natasha?’ he **wondered aloud**.",
+          "contextForm": "+ speech"
+        },
+        {
+          "text": "‘Why do you ask?’ ‘I just wondered.’"
+        },
+        {
+          "text": "I wonder why he left his job."
+        },
+        {
+          "text": "‘What should I do now?’ she wondered."
+        },
+        {
+          "text": "He's behaving so strangely. It makes you wonder whether he's in trouble somehow."
+        },
+        {
+          "text": "His obvious hunger made her wonder how long he had been up and about."
+        },
+        {
+          "text": "I can't help wondering if he lost on purpose."
+        },
+        {
+          "text": "I couldn't help but wonder what he was thinking."
+        },
+        {
+          "text": "I sometimes wonder who's crazier, him or me."
+        },
+        {
+          "text": "I wondered uneasily if anything had happened to the children."
+        },
+        {
+          "text": "I wondered vaguely whether Robert could be the murderer."
+        },
+        {
+          "text": "You're probably wondering what all the fuss is about."
+        },
+        {
+          "text": "By the end you are left wondering what on earth the film is trying to say."
+        },
+        {
+          "text": "We'd wondered about you as a possible team member."
+        }
+      ],
+      "collocations": {
+        "adverb": ["idly", "vaguely", "briefly"],
+        "verb + wonder": ["begin to", "start to", "cannot help but"],
+        "preposition": ["about"],
+        "phrases": ["can’t help wondering", "keep wondering"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "used as a polite way of asking a question or asking somebody to do something",
+      "sensetop": "wonder if, whether…",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I wonder if you can help me."
+        },
+        {
+          "text": "I was wondering whether you'd like to come to a party."
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to be very surprised by something",
+      "sensetop": "wonder (at something)wonder (that)…",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "She wondered at her own stupidity.",
+          "contextForm": "wonder (at something)"
+        },
+        {
+          "text": "He's gone and left us to do all the work, **I shouldn't wonder** *(= I wouldn't be surprised if he had)*."
+        },
+        {
+          "text": "I wonder (that) he didn’t hurt himself jumping over that wall.",
+          "contextForm": "wonder (that)…"
+        },
+        {
+          "text": "**I don't wonder** you're tired. You've had a busy day."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English wundor (noun), wundrian (verb), of Germanic origin; related to Dutch wonder and German Wunder, of unknown ultimate origin."
+}

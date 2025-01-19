@@ -1,0 +1,85 @@
+{
+  "word": "heed",
+  "partOfSpeech": "verb",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/hiːd/",
+        "audio": "data/audio/h/heed/heed__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/hiːdz/",
+        "audio": "data/audio/h/heed/heeds__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈhiːdɪd/",
+        "audio": "data/audio/h/heed/heeded__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈhiːdɪŋ/",
+        "audio": "data/audio/h/heed/heeding__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/hiːd/",
+        "audio": "data/audio/h/heed/heed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/hiːdz/",
+        "audio": "data/audio/h/heed/heeds__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈhiːdɪd/",
+        "audio": "data/audio/h/heed/heeded__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈhiːdɪŋ/",
+        "audio": "data/audio/h/heed/heeding__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "heed",
+      "heSheIt": "heeds"
+    },
+    "pastSimple": "heeded",
+    "pastParticiple": "heeded",
+    "ingForm": "heeding"
+  },
+  "definitions": [
+    {
+      "definition": "to pay careful attention to somebody’s advice or warning",
+      "sensetop": "heed somebody/something",
+      "examples": [
+        {
+          "text": "They failed to heed the lessons of history."
+        },
+        {
+          "text": "If only they had heeded his warnings!"
+        },
+        {
+          "text": "Calls for more legislation to protect tenants were not heeded."
+        },
+        {
+          "text": "He failed to heed our warnings."
+        },
+        {
+          "text": "The government would do well to heed this advice."
+        }
+      ],
+      "synonyms": "notice",
+      "topics": ["Suggestions and advice"]
+    }
+  ],
+  "wordOrigin": "Old English hēdan, of West Germanic origin; related to Dutch hoeden and German hüten."
+}

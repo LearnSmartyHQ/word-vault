@@ -1,0 +1,150 @@
+{
+  "word": "insist",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈsɪst/",
+        "audio": "data/audio/i/insist/insist__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈsɪsts/",
+        "audio": "data/audio/i/insist/insists__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈsɪstɪd/",
+        "audio": "data/audio/i/insist/insisted__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ɪnˈsɪstɪŋ/",
+        "audio": "data/audio/i/insist/insisting__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈsɪst/",
+        "audio": "data/audio/i/insist/insist__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈsɪsts/",
+        "audio": "data/audio/i/insist/insists__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈsɪstɪd/",
+        "audio": "data/audio/i/insist/insisted__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ɪnˈsɪstɪŋ/",
+        "audio": "data/audio/i/insist/insisting__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "insist",
+      "heSheIt": "insists"
+    },
+    "pastSimple": "insisted",
+    "pastParticiple": "insisted",
+    "ingForm": "insisting"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to demand that something happen or that somebody agree to do something",
+      "sensetop": "insist on somebody/something doing somethinginsist on somebody's/something's doing somethinginsist that…",
+      "labels": "(formal)(British English also)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I didn't really want to go but he insisted."
+        },
+        {
+          "text": "Stay and have lunch. I insist!"
+        },
+        {
+          "text": "‘Please come with us.’ ‘Very well then, **if you insist**.’"
+        },
+        {
+          "text": "She insisted on him wearing a suit.",
+          "contextForm": "insist on somebody/something doing something"
+        },
+        {
+          "text": "She insisted on his wearing a suit.",
+          "contextForm": "insist on somebody's/something's doing something"
+        },
+        {
+          "text": "He insists that she come.",
+          "contextForm": "insist that…"
+        },
+        {
+          "text": "He insists that she should come."
+        },
+        {
+          "text": "He quietly but firmly insisted."
+        },
+        {
+          "text": "I'm paying for this—no, I absolutely insist."
+        },
+        {
+          "text": "The company insisted that the money be paid immediately."
+        }
+      ],
+      "collocations": {
+        "adverb": ["firmly", "strongly", "vehemently"],
+        "verb + insist": ["continue to", "try to"],
+        "preposition": ["on", "upon"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to state clearly that something is true, especially when other people do not believe you",
+      "sensetop": "insist on somethinginsist (that)…+ speech",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He insisted on his innocence.",
+          "contextForm": "insist on something"
+        },
+        {
+          "text": "He insisted (that) he was innocent.",
+          "contextForm": "insist (that)…"
+        },
+        {
+          "text": "The government has always insisted that this was not the case."
+        },
+        {
+          "text": "‘It's true,’ she insisted.",
+          "contextForm": "+ speech"
+        },
+        {
+          "text": "He loudly insisted that he had a right to stay."
+        },
+        {
+          "text": "She still insists her critics are wrong."
+        },
+        {
+          "text": "Jackson has repeatedly insisted that the allegations were false."
+        }
+      ],
+      "collocations": {
+        "adverb": ["firmly", "strongly", "vehemently"],
+        "verb + insist": ["continue to", "try to"],
+        "preposition": ["on", "upon"]
+      }
+    }
+  ],
+  "wordOrigin": "late 16th cent. (in the sense ‘persist, persevere’): from Latin insistere ‘persist’, from in- ‘upon’ + sistere ‘stand’."
+}

@@ -1,0 +1,160 @@
+{
+  "word": "council",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkaʊnsl/",
+        "audio": "data/audio/c/council/council__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkaʊnsl/",
+        "audio": "data/audio/c/council/council__us_3.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "a group of people who are elected to govern an area such as a city or county",
+      "sensetop": "on the council",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **town council**"
+        },
+        {
+          "text": "The decision still has to be ratified by the **full council**."
+        },
+        {
+          "text": "The council is/are voting on the proposals today."
+        },
+        {
+          "text": "She's on the **local council**.",
+          "contextForm": "on the council"
+        },
+        {
+          "text": "He won a seat on the council in a by-election."
+        },
+        {
+          "text": "She has served on the council for four years."
+        },
+        {
+          "text": "a **member/meeting of the council**"
+        },
+        {
+          "text": "the **leader of the council**"
+        },
+        {
+          "text": "a **council member/leader**"
+        },
+        {
+          "text": "a **council meeting/chamber**"
+        }
+      ],
+      "topics": ["Politics"],
+      "collocations": {
+        "adjective": ["executive", "governing", "ruling"],
+        "verb + council": ["elect", "control", "gain control of"],
+        "council + verb": ["meet", "vote", "adopt something"],
+        "council + noun": ["elections", "member", "representative"],
+        "preposition": ["on a/​the council"],
+        "phrases": ["a seat on a council"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "the organization that provides services in a city or county, for example education, houses, libraries, etc.",
+      "labels": "(British English)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Residents have complained to the council about the noise."
+        },
+        {
+          "text": "She has been working for the council since March."
+        },
+        {
+          "text": "Students should apply to their local council for a grant."
+        },
+        {
+          "text": "The council needs/need to address the traffic problem."
+        },
+        {
+          "text": "**council workers/staff/officials/officers**"
+        },
+        {
+          "text": "cuts to council services"
+        }
+      ],
+      "collocations": {
+        "verb + council": ["apply to"],
+        "council + verb": ["provide", "spend"],
+        "council + noun": ["employee", "staff", "worker"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "a group of people chosen to give advice, make rules, do research, provide money, etc.",
+      "examples": [
+        {
+          "text": "the Medical Research Council"
+        },
+        {
+          "text": "In Britain, the Arts Council gives grants to theatres."
+        },
+        {
+          "text": "He'll have to appear before the professional conduct committee of the General Medical Council."
+        },
+        {
+          "text": "There are plans to establish a funding council for higher education."
+        },
+        {
+          "text": "the governing council of the church"
+        },
+        {
+          "text": "They are setting up a new council for the arts."
+        },
+        {
+          "text": "The Arts Council gives grants for local projects."
+        },
+        {
+          "text": "As a struggling young composer, she applied to the California Arts Council for grant money."
+        },
+        {
+          "text": "You should visit your local training and enterprise council."
+        }
+      ],
+      "collocations": {
+        "adjective": ["advisory", "funding", "governing"],
+        "verb + council": ["create", "establish", "form"],
+        "council + verb": [
+          "award somebody something",
+          "give somebody something"
+        ],
+        "council + noun": ["member"],
+        "preposition": ["council for"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "(especially in the past) a formal meeting to discuss what action to take in a particular situation",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The king held a council at Nottingham from 14 to 19 October 1330."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "Old English (in the sense ‘ecclesiastical assembly’): from Anglo-Norman French cuncile, from Latin concilium ‘convocation, assembly’, from con- ‘together’ + calare ‘summon’. Compare with counsel."
+}

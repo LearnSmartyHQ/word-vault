@@ -1,0 +1,224 @@
+{
+  "word": "avoid",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈvɔɪd/",
+        "audio": "data/audio/a/avoid/avoid__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈvɔɪdz/",
+        "audio": "data/audio/a/avoid/avoids__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈvɔɪdɪd/",
+        "audio": "data/audio/a/avoid/avoided__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/əˈvɔɪdɪŋ/",
+        "audio": "data/audio/a/avoid/avoiding__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈvɔɪd/",
+        "audio": "data/audio/a/avoid/avoid__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈvɔɪdz/",
+        "audio": "data/audio/a/avoid/avoids__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈvɔɪdɪd/",
+        "audio": "data/audio/a/avoid/avoided__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/əˈvɔɪdɪŋ/",
+        "audio": "data/audio/a/avoid/avoiding__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "avoid",
+      "heSheIt": "avoids"
+    },
+    "pastSimple": "avoided",
+    "pastParticiple": "avoided",
+    "ingForm": "avoiding"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to prevent something bad from happening",
+      "sensetop": "avoid somethingavoid doing something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to avoid conflict/confrontation",
+          "contextForm": "avoid something"
+        },
+        {
+          "text": "We must find a way to **avoid** similar **problems** in future."
+        },
+        {
+          "text": "They **narrowly avoided** defeat."
+        },
+        {
+          "text": "The name was changed to avoid confusion with another firm."
+        },
+        {
+          "text": "The accident could have been avoided."
+        },
+        {
+          "text": "Efforts are being made to **avoid** war **at all costs**."
+        },
+        {
+          "text": "They built a wall to avoid soil being washed away.",
+          "contextForm": "avoid doing something"
+        },
+        {
+          "text": "It is sometimes impossible to avoid conflict altogether."
+        },
+        {
+          "text": "They are anxious to avoid any further misunderstandings."
+        },
+        {
+          "text": "Most of these problems could have been easily avoided."
+        },
+        {
+          "text": "The authorities are eager to avoid bad publicity."
+        }
+      ],
+      "collocations": {
+        "adverb": ["altogether", "actively", "assiduously"],
+        "verb + avoid": ["be anxious to", "want to", "wish to"],
+        "phrases": [
+          "an attempt to avoid something",
+          "an effort to avoid something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to keep away from somebody/something; to try not to do something",
+      "sensetop": "avoid somebody/somethingavoid doing something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He's been avoiding me all week.",
+          "contextForm": "avoid somebody/something"
+        },
+        {
+          "text": "She kept avoiding my eyes *(= avoided looking at me)*."
+        },
+        {
+          "text": "By staying at home he manages to avoid all contact with strangers."
+        },
+        {
+          "text": "Certain foods should be avoided during pregnancy."
+        },
+        {
+          "text": "I left early to avoid the rush hour."
+        },
+        {
+          "text": "He tried to avoid paying his taxes and was taken to court.",
+          "contextForm": "avoid doing something"
+        },
+        {
+          "text": "I've been avoiding getting down to work all day."
+        },
+        {
+          "text": "You should avoid mentioning his divorce."
+        },
+        {
+          "text": "The two men carefully avoided one another."
+        },
+        {
+          "text": "I scrupulously avoid artificial additives when I buy food."
+        },
+        {
+          "text": "He was careful to avoid any sentimentality in his speech."
+        },
+        {
+          "text": "She pointedly avoided looking at him when she spoke."
+        },
+        {
+          "text": "Getting involved in a court case is something to be avoided at all costs."
+        },
+        {
+          "text": "He deftly avoided answering the question."
+        },
+        {
+          "text": "He failed in his attempt to avoid having to pay."
+        }
+      ],
+      "collocations": {
+        "adverb": ["altogether", "actively", "assiduously"],
+        "verb + avoid": ["be anxious to", "want to", "wish to"],
+        "phrases": [
+          "an attempt to avoid something",
+          "an effort to avoid something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to prevent yourself from hitting something",
+      "sensetop": "avoid something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The car swerved to avoid a cat."
+        },
+        {
+          "text": "He braked hard and narrowly avoided a parked van."
+        },
+        {
+          "text": "They ducked to avoid a low branch."
+        }
+      ],
+      "collocations": {
+        "adverb": ["narrowly"],
+        "verb + avoid": ["brake to", "slow to", "slow down to"]
+      }
+    },
+    {
+      "definition": "to try very hard not to meet somebody, do something, etc.",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "She's been avoiding me like the plague since the party last Saturday."
+        },
+        {
+          "text": "I hate office parties—I avoid them like the plague."
+        }
+      ]
+    },
+    {
+      "definition": "to do/avoid doing something that is a mistake but that seems at first to be a good idea",
+      "examples": [
+        {
+          "text": "Parents often fall into the trap of trying to do everything for their children."
+        },
+        {
+          "text": "The movie avoids the trap of spending too much time explaining things."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "late Middle English: from Old French evuider ‘clear out, get rid of’, from vuide ‘empty’, related to Latin vacare ‘vacate’."
+}

@@ -1,0 +1,546 @@
+{
+  "word": "pull",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pʊl/",
+        "audio": "data/audio/p/pull/pull__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pʊlz/",
+        "audio": "data/audio/p/pull/pulls__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/pʊld/",
+        "audio": "data/audio/p/pull/pulled__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/ˈpʊlɪŋ/",
+        "audio": "data/audio/p/pull/pulling__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pʊl/",
+        "audio": "data/audio/p/pull/pull__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pʊlz/",
+        "audio": "data/audio/p/pull/pulls__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/pʊld/",
+        "audio": "data/audio/p/pull/pulled__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/ˈpʊlɪŋ/",
+        "audio": "data/audio/p/pull/pulling__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "pull",
+      "heSheIt": "pulls"
+    },
+    "pastSimple": "pulled",
+    "pastParticiple": "pulled",
+    "ingForm": "pulling"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to take hold of something and use force in order to move it or try to move it towards yourself",
+      "sensetop": "pull on somethingpull at somethingpull somethingpull somebody/something + adv./prep.pull something + adj.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You push and I'll pull."
+        },
+        {
+          "text": "Don't pull so hard or the handle will come off."
+        },
+        {
+          "text": "He got hold of the end and pulled."
+        },
+        {
+          "text": "I pulled on the rope to see if it was secure.",
+          "contextForm": "pull on something"
+        },
+        {
+          "text": "He pulled at her coat sleeve.",
+          "contextForm": "pull at something"
+        },
+        {
+          "text": "Stop **pulling her hair**!",
+          "contextForm": "pull something"
+        },
+        {
+          "text": "She pulled the cord and the parachute opened."
+        },
+        {
+          "text": "She pulled him gently towards her.",
+          "contextForm": "pull somebody/something + adv./prep."
+        },
+        {
+          "text": "He smiled and pulled her closer."
+        },
+        {
+          "text": "Pull the door shut.",
+          "contextForm": "pull something + adj."
+        },
+        {
+          "text": "She pulled the straps tight."
+        }
+      ],
+      "collocations": {
+        "adverb": ["gently", "hard", "quickly"],
+        "verb + pull": ["try to", "manage to"],
+        "preposition": ["at", "on", "towards/​toward"],
+        "phrases": ["pull (yourself) free", "pull yourself to your feet"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to remove something from a place by pulling",
+      "sensetop": "pull somethingpull something + adv./prep.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "If these weeds are not pulled, they will spread rapidly .",
+          "contextForm": "pull something"
+        },
+        {
+          "text": "He pulled a knife and stabbed the man."
+        },
+        {
+          "text": "Pull the plug out.",
+          "contextForm": "pull something + adv./prep."
+        },
+        {
+          "text": "to pull out a gun/knife"
+        },
+        {
+          "text": "She pulled off her boots."
+        },
+        {
+          "text": "James pulled his shirt over his head, letting it fall to the floor."
+        },
+        {
+          "text": "They were still pulling bodies from the rubble."
+        },
+        {
+          "text": "She was spotted in the water and pulled to safety."
+        },
+        {
+          "text": "He pulled a gun on me *(= took out a gun and aimed it at me)*."
+        },
+        {
+          "text": "Alison pulled the little dog out of the water."
+        },
+        {
+          "text": "I pulled the letter out of my pocket."
+        }
+      ],
+      "collocations": {
+        "adverb": ["gently", "hard", "quickly"],
+        "verb + pull": ["try to", "manage to"],
+        "preposition": ["at", "on", "towards/​toward"],
+        "phrases": ["pull (yourself) free", "pull yourself to your feet"]
+      }
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to move somebody/something in a particular direction by pulling",
+      "sensetop": "pull somebody/something + adv./prep.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Pull your chair nearer the table."
+        },
+        {
+          "text": "I pulled up a seat next to her."
+        },
+        {
+          "text": "He pulled on his sweater."
+        },
+        {
+          "text": "She took his arm and pulled him along."
+        },
+        {
+          "text": "The sun was too bright so I pulled the blinds down."
+        },
+        {
+          "text": "Mary pulled the blanket up over her head."
+        },
+        {
+          "text": "He was the only living person pulled from the rubble that night ."
+        },
+        {
+          "text": "She pulled on her boots and hurried off."
+        }
+      ],
+      "collocations": {
+        "adverb": ["gently", "hard", "quickly"],
+        "verb + pull": ["try to", "manage to"],
+        "preposition": ["at", "on", "towards/​toward"],
+        "phrases": ["pull (yourself) free", "pull yourself to your feet"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to hold or be attached to something and move it along behind you",
+      "sensetop": "pull something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "In this area oxen are used to pull carts."
+        },
+        {
+          "text": "a car pulling a trailer"
+        },
+        {
+          "text": "The horses pulling the wagon stopped suddenly."
+        },
+        {
+          "text": "Ponies were used to pull the coal trucks."
+        }
+      ]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to move your body or a part of your body in a particular direction, especially using force",
+      "sensetop": "+ adv./prep.pull something/yourself + adv./prep.pull something/yourself + adj.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He tried to kiss her but she pulled away.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "The dog snapped at her and she quickly pulled back her hand.",
+          "contextForm": "pull something/yourself + adv./prep."
+        },
+        {
+          "text": "John **pulled** himself **free** and ran off.",
+          "contextForm": "pull something/yourself + adj."
+        }
+      ],
+      "collocations": {
+        "adverb": ["gently", "hard", "quickly"],
+        "verb + pull": ["try to", "manage to"],
+        "preposition": ["at", "on", "towards/​toward"],
+        "phrases": ["pull (yourself) free", "pull yourself to your feet"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to open or close curtains, etc.",
+      "sensetop": "pull something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Pull the curtains—it's dark outside."
+        }
+      ],
+      "synonyms": "draw"
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to damage a muscle, etc. by using too much force",
+      "sensetop": "pull something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to pull a muscle/ligament/tendon"
+        },
+        {
+          "text": "He pulled a hamstring in training."
+        },
+        {
+          "text": "He pulled a muscle in his back."
+        },
+        {
+          "text": "She has pulled her Achilles tendon."
+        }
+      ],
+      "topics": ["Health problems"]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to move a switch, etc. towards yourself or down in order to operate a machine or piece of equipment",
+      "sensetop": "pull something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Pull the lever to start the motor."
+        },
+        {
+          "text": "Don't **pull the trigger**!"
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to move or make a vehicle move to the side",
+      "sensetop": "pull (something) to the right/the left/one side",
+      "examples": [
+        {
+          "text": "The wheel is pulling to the left."
+        },
+        {
+          "text": "She pulled the car to the right to avoid the dog."
+        }
+      ]
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to work hard and use a lot of power",
+      "examples": [
+        {
+          "text": "The old car pulled hard as we drove slowly up the hill."
+        }
+      ]
+    },
+    {
+      "senseNumber": "11",
+      "definition": "to use oars to move a boat along",
+      "sensetop": "pull (something) (+ adv./prep.)",
+      "examples": [
+        {
+          "text": "They pulled towards the shore."
+        }
+      ]
+    },
+    {
+      "senseNumber": "12",
+      "definition": "to attract the interest or support of somebody/something",
+      "sensetop": "pull somebody/something (in)",
+      "examples": [
+        {
+          "text": "They pulled in huge crowds on their latest tour."
+        }
+      ]
+    },
+    {
+      "senseNumber": "13",
+      "definition": "to attract somebody sexually and get them to spend the evening with you",
+      "sensetop": "pull (somebody)",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "He can still pull the girls."
+        },
+        {
+          "text": "She's hoping to pull tonight."
+        }
+      ]
+    },
+    {
+      "senseNumber": "14",
+      "definition": "to succeed in playing a trick on somebody, committing a crime, etc.",
+      "sensetop": "pull something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "He's pulling some sort of trick on you."
+        }
+      ]
+    },
+    {
+      "senseNumber": "15",
+      "definition": "to cancel an event; to stop showing an advertisement, etc.",
+      "sensetop": "pull something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The gig was pulled at the last moment."
+        }
+      ]
+    },
+    {
+      "definition": "to perform two roles or functions at the same time",
+      "examples": [
+        {
+          "text": "This device can pull double duty as a decent laptop and an adequate tablet."
+        },
+        {
+          "text": "She deserves credit for serving double duty as a host and performer."
+        }
+      ]
+    },
+    {
+      "definition": "to start being more careful in your behaviour, especially by spending less money than before",
+      "examples": [
+        {
+          "text": "Small businesses have had to pull their horns in during the recession."
+        }
+      ]
+    },
+    {
+      "definition": "used to say that it is very difficult to make somebody do something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "It's like pulling teeth trying to get him to talk."
+        }
+      ]
+    },
+    {
+      "definition": "to criticize somebody, or their work or ideas, very severely",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to improve your situation yourself, without help from other people",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to produce an expression on your face to show that you do not like somebody/something or in order to make somebody laugh",
+      "examples": [
+        {
+          "text": "What are you pulling a face at now?"
+        },
+        {
+          "text": "Do you think it’s funny to make faces behind my back?"
+        },
+        {
+          "text": "She made a disgusted face at that and walked away."
+        },
+        {
+          "text": "She made a funny face and gave a snorting sort of laugh."
+        }
+      ],
+      "topics": ["Appearance"]
+    },
+    {
+      "definition": "to trick somebody",
+      "labels": "(slang)",
+      "examples": []
+    },
+    {
+      "definition": "to have different aims that cannot be achieved together without causing problems",
+      "examples": [
+        {
+          "text": "There are different considerations, often pulling in different directions."
+        }
+      ]
+    },
+    {
+      "definition": "to succeed in doing something difficult by making an extra effort or doing something clever or surprising",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "We managed to pull it out of the bag despite not being at our best for most of the game."
+        }
+      ]
+    },
+    {
+      "definition": "to play a joke on somebody, usually by making them believe something that is not true",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "used to show that you do not believe what somebody has just said",
+      "labels": "(British English, informal)",
+      "examples": []
+    },
+    {
+      "definition": "to make the greatest effort possible to achieve something",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to put an end to somebody’s project, a plan, etc.",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The television company pulled the plug on the series after only five episodes."
+        },
+        {
+          "text": "They decided to pull the plug on the project."
+        }
+      ],
+      "topics": ["Business"]
+    },
+    {
+      "definition": "to express something less strongly than you are able to, for example to avoid upsetting or shocking somebody",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Her articles certainly don't pull any punches."
+        }
+      ]
+    },
+    {
+      "definition": "to suddenly produce something as a solution to a problem",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to make use of your place or status in society or at work to make somebody do what you want",
+      "examples": []
+    },
+    {
+      "definition": "to take help or support away from somebody suddenly",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to try to improve your performance, work, behaviour, etc.",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "You're going to have to pull your socks up."
+        }
+      ]
+    },
+    {
+      "definition": "to use your influence in order to get an advantage for somebody",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "definition": "to control events or the actions of other people",
+      "examples": []
+    },
+    {
+      "definition": "to suddenly move from your house and go to live somewhere else",
+      "examples": [
+        {
+          "text": "He pulled up stakes and went back to France."
+        }
+      ]
+    },
+    {
+      "definition": "to work as hard as everyone else in a job, an activity, etc.",
+      "examples": []
+    },
+    {
+      "definition": "to hide your real actions or intentions from somebody by making them believe something that is not true",
+      "labels": "(informal)",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "Old English pullian ‘pluck, snatch’; origin uncertain; the sense has developed from expressing a short sharp action to one of sustained force."
+}

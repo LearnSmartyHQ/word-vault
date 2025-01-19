@@ -1,0 +1,684 @@
+{
+  "word": "ground",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɡraʊnd/",
+        "audio": "data/audio/g/ground/ground__gb_2.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡraʊnd/",
+        "audio": "data/audio/g/ground/ground__us_2.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": null,
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "the solid surface of the earth",
+      "sensetop": "on the groundto the groundabove (the) groundbelow (the) ground",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I found her lying on the ground.",
+          "contextForm": "on the ground"
+        },
+        {
+          "text": "He **fell to the ground**, crying out in pain.",
+          "contextForm": "to the ground"
+        },
+        {
+          "text": "The adult insects live above ground.",
+          "contextForm": "above (the) ground"
+        },
+        {
+          "text": "The helicopter hovered a couple of hundred metres above the ground."
+        },
+        {
+          "text": "The library has four levels below ground and seven above.",
+          "contextForm": "below (the) ground"
+        },
+        {
+          "text": "Most of the monkey's food is found at **ground level**."
+        },
+        {
+          "text": "He sat down on the ground."
+        },
+        {
+          "text": "Her eyes searched the ground."
+        },
+        {
+          "text": "The helicopter burst into flames when it hit the ground."
+        },
+        {
+          "text": "The plane was so overloaded it couldn't leave the ground."
+        },
+        {
+          "text": "The horse pawed the ground impatiently."
+        },
+        {
+          "text": "The roots may spread as far below ground as does the foliage above ground."
+        },
+        {
+          "text": "The town stands on high ground and is not prone to flooding."
+        },
+        {
+          "text": "The tunnel goes deep under the ground."
+        },
+        {
+          "text": "The window is just above ground level."
+        },
+        {
+          "text": "Thunder shook the ground."
+        },
+        {
+          "text": "a hole in the ground"
+        },
+        {
+          "text": "the broken branches which littered the ground"
+        },
+        {
+          "text": "It was buried three metres below ground."
+        },
+        {
+          "text": "Her feet don't reach the ground when she sits down."
+        },
+        {
+          "text": "The rope barely reached the ground below."
+        },
+        {
+          "text": "The rocket crashed a few seconds after it left the ground."
+        },
+        {
+          "text": "The plant grows to about two feet above ground."
+        },
+        {
+          "text": "The ground fell away to the left of the road."
+        }
+      ],
+      "topics": ["Geography"],
+      "collocations": {
+        "adjective": ["firm", "hard", "solid"],
+        "verb + ground": ["fall to", "hit", "strike"],
+        "ground + noun": ["level", "forces", "troops"],
+        "phrases": ["the ground beneath somebody’s feet"],
+        "preposition": ["above ground", "below ground", "in the ground"]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "used to describe activities that take place on the ground, not in the air or at sea",
+      "sensetop": "on the ground",
+      "examples": [
+        {
+          "text": "**Ground forces** were deployed in the area."
+        },
+        {
+          "text": "the deployment of **ground troops**"
+        },
+        {
+          "text": "a ground and air attack"
+        },
+        {
+          "text": "He called for more **troops on the ground**.",
+          "contextForm": "on the ground"
+        }
+      ]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "an area of open land",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The kids were playing on waste ground behind the school."
+        },
+        {
+          "text": "We found a patch of open ground in the middle of the woods."
+        },
+        {
+          "text": "There was a small patch of ground at the side of the cottage."
+        },
+        {
+          "text": "They drove across miles of rough, stony ground."
+        }
+      ],
+      "collocations": {
+        "adjective": ["high", "low", "open"],
+        "… of ground": ["patch", "piece"]
+      }
+    },
+    {
+      "senseNumber": "4",
+      "definition": "an area of land that is used for a particular purpose, activity or sport",
+      "labels": "(North American English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a football/cricket ground"
+        },
+        {
+          "text": "The atmosphere inside the ground was electric."
+        }
+      ],
+      "collocations": {
+        "adjective": ["cricket", "football", "rugby"],
+        "preposition": ["at a/​the ground", "inside a/​the ground"]
+      }
+    },
+    {
+      "senseNumber": "5",
+      "definition": "a large area of land or sea that is used for a particular purpose",
+      "examples": [
+        {
+          "text": "fishing grounds"
+        },
+        {
+          "text": "feeding grounds for birds"
+        }
+      ],
+      "collocations": {
+        "adjective": ["burial", "dumping", "camp"],
+        "preposition": ["at a/​the ground", "in a/​the ground"]
+      }
+    },
+    {
+      "senseNumber": "6",
+      "definition": "soil on the surface of the earth",
+      "sensetop": "in/into the ground",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "fertile ground for planting crops"
+        },
+        {
+          "text": "Prepare the ground before you plant anything."
+        },
+        {
+          "text": "You can sow the seeds directly into the ground.",
+          "contextForm": "in/into the ground"
+        },
+        {
+          "text": "The car got stuck in the muddy ground."
+        }
+      ],
+      "collocations": {
+        "adjective": ["firm", "hard", "solid"],
+        "verb + ground": ["fall to", "hit", "strike"],
+        "ground + noun": ["level", "forces", "troops"],
+        "phrases": ["the ground beneath somebody’s feet"],
+        "preposition": ["above ground", "below ground", "in the ground"]
+      }
+    },
+    {
+      "senseNumber": "7",
+      "definition": "the land or gardens around a large building",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the hospital grounds"
+        },
+        {
+          "text": "We had a guided tour of the house and grounds."
+        },
+        {
+          "text": "The house has extensive grounds."
+        },
+        {
+          "text": "Many estate workers lived in cottages in the grounds of the castle."
+        },
+        {
+          "text": "The doctor's office is on the grounds of the hospital."
+        },
+        {
+          "text": "The palace is set in extensive grounds."
+        },
+        {
+          "text": "The boys were playing in the school grounds after hours."
+        }
+      ],
+      "collocations": {
+        "adjective": ["extensive", "large", "castle"],
+        "verb + grounds": ["be set in", "have", "cross"],
+        "preposition": ["in the grounds (of)", "on the grounds (of)"]
+      }
+    },
+    {
+      "senseNumber": "8",
+      "definition": "an area of interest, knowledge or ideas",
+      "sensetop": "on… groundground for something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He managed to **cover a lot of ground** in a short talk."
+        },
+        {
+          "text": "We had to **go over the same ground** *(= talk about the same things again)* in class the next day."
+        },
+        {
+          "text": "I thought I was on **safe ground ***(= not likely to offend or upset somebody)* talking about music.",
+          "contextForm": "on… ground"
+        },
+        {
+          "text": "You're on **dangerous ground** *(= likely to offend or upset somebody)* if you criticize his family."
+        },
+        {
+          "text": "Legal scholars say the president is on **shaky ground**."
+        },
+        {
+          "text": "He felt he was back on **familiar ground**."
+        },
+        {
+          "text": "Paris in the 1920s was **fertile ground **for artistic experimentation.",
+          "contextForm": "ground for something"
+        },
+        {
+          "text": "He knew he was on dangerous ground talking about money."
+        },
+        {
+          "text": "I was on more familiar ground now that we were talking about our own system."
+        },
+        {
+          "text": "I apologize if I'm going over old ground."
+        },
+        {
+          "text": "Legally, we're on very shaky ground."
+        },
+        {
+          "text": "Several researchers have published articles covering this ground."
+        },
+        {
+          "text": "We just seem to be going over the same ground that we covered last year."
+        }
+      ],
+      "collocations": {
+        "adjective": ["familiar", "home", "old"],
+        "verb + ground": ["cover", "go over", "tread"],
+        "preposition": ["on… ground"],
+        "phrases": ["break new ground", "hold your ground", "stand your ground"]
+      }
+    },
+    {
+      "senseNumber": "9",
+      "definition": "a good or true reason for saying, doing or believing something",
+      "sensetop": "ground(s) for somethingground(s) for doing somethingground(s) to do somethingon the ground(s) that…on grounds of something on… groundswithout grounds",
+      "labels": "(law)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You have no grounds for complaint.",
+          "contextForm": "ground(s) for something"
+        },
+        {
+          "text": "What were his grounds for wanting a divorce?",
+          "contextForm": "ground(s) for doing something"
+        },
+        {
+          "text": "There are **reasonable grounds** to believe that a crime has been committed.",
+          "contextForm": "ground(s) to do something"
+        },
+        {
+          "text": "The case was dismissed on the ground that there was insufficient evidence.",
+          "contextForm": "on the ground(s) that…"
+        },
+        {
+          "text": "Employers cannot discriminate on grounds of age.",
+          "contextForm": "on grounds of something"
+        },
+        {
+          "text": "He retired early on health grounds.",
+          "contextForm": "on… grounds"
+        },
+        {
+          "text": "She was released on compassionate grounds."
+        },
+        {
+          "text": "What are the **grounds of appeal**?"
+        },
+        {
+          "text": "Their caution was not without grounds.",
+          "contextForm": "without grounds"
+        },
+        {
+          "text": "Drunkenness at work was sufficient grounds for instant dismissal."
+        },
+        {
+          "text": "He resigned from his post on the grounds of ill health."
+        },
+        {
+          "text": "His evasiveness gave grounds for the suspicion that he knew more than he was saying."
+        },
+        {
+          "text": "Permission to open a mine was denied on environmental grounds."
+        },
+        {
+          "text": "The constable had reasonable grounds for arresting her."
+        }
+      ],
+      "collocations": {
+        "adjective": ["good", "reasonable", "strong"],
+        "verb + grounds": ["have", "be", "give (somebody)"],
+        "preposition": ["on… grounds", "on the grounds of", "ground for"]
+      }
+    },
+    {
+      "senseNumber": "10",
+      "definition": "the small pieces of solid matter in a liquid that have fallen to the bottom",
+      "examples": [
+        {
+          "text": "coffee grounds"
+        }
+      ],
+      "collocations": {
+        "adjective": ["burial", "dumping", "camp"],
+        "preposition": ["at a/​the ground", "in a/​the ground"]
+      }
+    },
+    {
+      "senseNumber": "11",
+      "definition": "a wire that connects an electric circuit with the ground and makes it safe",
+      "labels": "(North American English)British English",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Don't forget to connect the ground wire."
+        }
+      ],
+      "topics": ["Engineering"]
+    },
+    {
+      "senseNumber": "12",
+      "definition": "a background that a design is painted or printed on",
+      "examples": [
+        {
+          "text": "pink roses on a white ground"
+        }
+      ]
+    },
+    {
+      "definition": "to be in a strong position in an argument, etc. because you know the facts",
+      "examples": [
+        {
+          "text": "Everyone agreed with me, so I knew I was on firm ground."
+        },
+        {
+          "text": "He is probably on solid ground when he says we need more training."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to start digging for a new building project",
+      "examples": [
+        {
+          "text": "They broke ground for the new highway this month."
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to make a new discovery or do something that has not been done before",
+      "labels": "British and North American English",
+      "examples": [
+        {
+          "text": "Her architectural designs have broken new ground."
+        },
+        {
+          "text": "She broke ground by being the first Black woman to win the award."
+        }
+      ]
+    },
+    {
+      "definition": "to make a new discovery or do something that has not been done before",
+      "examples": [
+        {
+          "text": "Her architectural designs have broken new ground."
+        }
+      ]
+    },
+    {
+      "definition": "to suddenly cause somebody’s idea or plan to fail by doing something to stop them from continuing with it",
+      "examples": []
+    },
+    {
+      "definition": "to fail to produce the result or the effect that you hope for; to have little success",
+      "examples": [
+        {
+          "text": "His charming smile fell on stony ground with her."
+        },
+        {
+          "text": "The peace initiatives have already fallen on stony ground."
+        }
+      ],
+      "topics": ["Difficulty and failure"]
+    },
+    {
+      "definition": "completely, or including everything, starting with the most basic things",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "We need to rebuild the system from the ground up."
+        },
+        {
+          "text": "He learned about the business from the ground up."
+        }
+      ]
+    },
+    {
+      "definition": "to become more powerful or successful",
+      "examples": [
+        {
+          "text": "Sterling continues to gain ground against the dollar."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to gradually get closer to somebody/something that is moving or making progress in an activity",
+      "examples": [
+        {
+          "text": "The police car was gaining ground on the suspects."
+        },
+        {
+          "text": "They needed to make up ground on their competitors."
+        }
+      ]
+    },
+    {
+      "definition": "to start happening successfully; to make something start happening successfully",
+      "examples": [
+        {
+          "text": "Without more money, the movie is unlikely to get off the ground."
+        },
+        {
+          "text": "to get a new company off the ground"
+        },
+        {
+          "text": "His plan is too costly to ever get off the ground."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "definition": "to allow somebody/something to have an advantage; to lose an advantage for yourself",
+      "examples": [
+        {
+          "text": "They are not prepared to give ground on tax cuts."
+        },
+        {
+          "text": "The Conservatives lost a lot of ground to the Liberal Democrats at the election."
+        }
+      ]
+    },
+    {
+      "definition": "to hide, especially to escape from somebody",
+      "labels": "(British English)",
+      "examples": []
+    },
+    {
+      "definition": "to have a sensible and realistic attitude to life",
+      "examples": [
+        {
+          "text": "In spite of his overnight stardom he still manages to keep his feet on the ground."
+        }
+      ]
+    },
+    {
+      "definition": "to start doing something and continue very quickly and successfully",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Success"]
+    },
+    {
+      "senseNumber": "1",
+      "definition": "to continue with your opinions or intentions when somebody is opposing you and wants you to change",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Don't let him persuade you—stand your ground."
+        },
+        {
+          "text": "She held her ground in the debate."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to face a situation and refuse to run away",
+      "examples": [
+        {
+          "text": "It is not easy to hold your ground in front of someone with a gun."
+        }
+      ]
+    },
+    {
+      "definition": "to make sure that you always find out about the most recent developments in a particular situation",
+      "examples": [
+        {
+          "text": "The agent had no suitable properties on his books but promised to keep an ear to the ground for us."
+        }
+      ]
+    },
+    {
+      "definition": "in the place where something is happening and among the people who are in the situation, especially a war",
+      "examples": [
+        {
+          "text": "On the ground, there are hopes that the fighting will soon stop."
+        },
+        {
+          "text": "There's a lot of support for the policy on the ground."
+        }
+      ]
+    },
+    {
+      "definition": "in a place that has no connection with either of the people or sides who are meeting and so does not give an advantage to either of them",
+      "examples": [
+        {
+          "text": "We decided to meet on neutral ground."
+        }
+      ]
+    },
+    {
+      "definition": "in an area where somebody has a lot of power, knowledge or experience",
+      "examples": [
+        {
+          "text": "They are fighting the Conservatives on their own ground."
+        },
+        {
+          "text": "When it comes to music I'm on my own ground."
+        }
+      ]
+    },
+    {
+      "definition": "to make it possible or easier for something to be achieved",
+      "examples": [
+        {
+          "text": "The committee will prepare the ground for next month's meeting."
+        },
+        {
+          "text": "Early experiments with rockets prepared the ground for space travel."
+        }
+      ]
+    },
+    {
+      "definition": "to make somebody work so hard that they are no longer able to work; to use something so much that it is broken",
+      "examples": []
+    },
+    {
+      "definition": "to work so hard that you become extremely tired",
+      "examples": []
+    },
+    {
+      "definition": "to change your opinion about a subject, especially during a discussion",
+      "labels": "(usually disapproving)",
+      "examples": [
+        {
+          "text": "Each time he seemed to be losing the argument, he just shifted his ground."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "definition": "to be very convenient or acceptable for somebody",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "This job suits me down to the ground."
+        },
+        {
+          "text": "Country life suits me down to the ground!"
+        }
+      ]
+    },
+    {
+      "definition": "to claim that your side of an argument is morally better than your opponents’ side; to argue in a way that makes your side seem morally better",
+      "examples": [
+        {
+          "text": "I was angry with his blatant attempt to take the moral high ground."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "definition": "if people or things are thick/thin on the ground, there are a lot/not many of them in a place",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "Customers are thin on the ground at this time of year."
+        },
+        {
+          "text": "Security officers were thick on the ground during the King’s visit."
+        }
+      ]
+    },
+    {
+      "definition": "completely, so that there is nothing left",
+      "examples": [
+        {
+          "text": "The hotel **burned to the ground**."
+        },
+        {
+          "text": "The city **was razed to the ground** *(= completely destroyed)*."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "noun Old English grund, of Germanic origin; related to Dutch grond and German Grund."
+}

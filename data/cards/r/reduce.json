@@ -1,0 +1,184 @@
+{
+  "word": "reduce",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈdjuːs/",
+        "audio": "data/audio/r/reduce/reduce__gb_2.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈdjuːsɪz/",
+        "audio": "data/audio/r/reduce/reduces__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈdjuːst/",
+        "audio": "data/audio/r/reduce/reduced__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/rɪˈdjuːsɪŋ/",
+        "audio": "data/audio/r/reduce/reducing__gb_1.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈduːs/",
+        "audio": "data/audio/r/reduce/reduce__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈduːsɪz/",
+        "audio": "data/audio/r/reduce/reduces__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈduːst/",
+        "audio": "data/audio/r/reduce/reduced__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/rɪˈduːsɪŋ/",
+        "audio": "data/audio/r/reduce/reducing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "reduce",
+      "heSheIt": "reduces"
+    },
+    "pastSimple": "reduced",
+    "pastParticiple": "reduced",
+    "ingForm": "reducing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to make something less or smaller in size, quantity, price, etc.; to become less or smaller in size, quantity, etc.",
+      "sensetop": "reduce somethingreduce something by somethingreduce something from something to somethingreduce something to somethingreduce in something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Reduce speed now *(= on a sign)*.",
+          "contextForm": "reduce something"
+        },
+        {
+          "text": "Giving up smoking **reduces the risk** of heart disease."
+        },
+        {
+          "text": "to **reduce costs/numbers**"
+        },
+        {
+          "text": "a **reduced rate/price**"
+        },
+        {
+          "text": "They will require car makers to **reduce emissions** of carbon dioxide by 30%."
+        },
+        {
+          "text": "Costs have been reduced by 20% over the past year.",
+          "contextForm": "reduce something by something"
+        },
+        {
+          "text": "The number of employees was reduced from 40 to 25.",
+          "contextForm": "reduce something from something to something"
+        },
+        {
+          "text": "The skirt was reduced to £10 in the sale.",
+          "contextForm": "reduce something to something"
+        },
+        {
+          "text": "Towards the coast, the hills gradually reduce in size.",
+          "contextForm": "reduce in something"
+        },
+        {
+          "text": "The number of search engines has reduced substantially over the last few years."
+        },
+        {
+          "text": "Legislation progressively reduced the number of situations in which industrial action could be taken."
+        },
+        {
+          "text": "Pollution from the works has been reduced by 70 per cent."
+        },
+        {
+          "text": "The price is reduced from 99 cents to 85 cents."
+        },
+        {
+          "text": "The risks must be reduced to the absolute minimum."
+        },
+        {
+          "text": "We need to reduce the speed slightly."
+        },
+        {
+          "text": "The program aims to reduce or eliminate pesticides."
+        },
+        {
+          "text": "This could greatly reduce the number of injuries suffered."
+        },
+        {
+          "text": "She is trying to reduce the amount of time she spends away from home."
+        },
+        {
+          "text": "Regulating traffic will reduce the accident rate significantly."
+        },
+        {
+          "text": "Many studios sell ten cards for a reduced rate."
+        },
+        {
+          "text": "Yoga can help reduce stress levels."
+        },
+        {
+          "text": "It was a tough decision to reduce the size of the workforce."
+        },
+        {
+          "text": "The police will be given more resources to reduce violent crime."
+        }
+      ],
+      "topics": ["Change, cause and effect", "Shopping", "Money"],
+      "collocations": {
+        "adverb": ["considerably", "dramatically", "drastically"],
+        "verb + reduce": ["aim to", "attempt to", "seek to"],
+        "preposition": ["by", "in", "from"],
+        "phrases": [
+          "an attempt to reduce something",
+          "an effort to reduce something",
+          "measures to reduce something"
+        ]
+      }
+    },
+    {
+      "senseNumber": "2",
+      "definition": "if you reduce a liquid or a liquid reduces, you boil it so that it becomes less in quantity",
+      "sensetop": "reduce (something)",
+      "examples": []
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to lose weight by limiting the amount and type of food that you eat",
+      "labels": "(North American English, informal)",
+      "examples": [
+        {
+          "text": "a reducing plan"
+        }
+      ]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to add one or more electrons to a substance or to remove oxygen from a substance",
+      "sensetop": "reduce something",
+      "labels": "(chemistry)",
+      "examples": []
+    },
+    {
+      "definition": "the state of being poorer than you were before. People say ‘living in reduced circumstances’ to avoid saying ‘poor’.",
+      "examples": []
+    }
+  ],
+  "wordOrigin": "late Middle English: from Latin reducere, from re- ‘back, again’ + ducere ‘bring, lead’. The original sense was ‘bring back’ ; this led to ‘bring to a different state’, then ‘bring to a simpler or lower state’ (hence sense (2)); and finally ‘diminish in size or amount’ (sense (1), dating from the late 18th cent.)."
+}

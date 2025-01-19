@@ -1,0 +1,284 @@
+{
+  "word": "develop",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈveləp/",
+        "audio": "data/audio/d/develop/develop__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈveləps/",
+        "audio": "data/audio/d/develop/develops__gb_1.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈveləpt/",
+        "audio": "data/audio/d/develop/developed__gb_3.mp3",
+        "region": "br"
+      },
+      {
+        "pronunciation": "/dɪˈveləpɪŋ/",
+        "audio": "data/audio/d/develop/developing__gb_3.mp3",
+        "region": "br"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈveləp/",
+        "audio": "data/audio/d/develop/develop__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈveləps/",
+        "audio": "data/audio/d/develop/develops__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈveləpt/",
+        "audio": "data/audio/d/develop/developed__us_1.mp3",
+        "region": "n_am"
+      },
+      {
+        "pronunciation": "/dɪˈveləpɪŋ/",
+        "audio": "data/audio/d/develop/developing__us_1.mp3",
+        "region": "n_am"
+      }
+    ]
+  },
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "develop",
+      "heSheIt": "develops"
+    },
+    "pastSimple": "developed",
+    "pastParticiple": "developed",
+    "ingForm": "developing"
+  },
+  "definitions": [
+    {
+      "senseNumber": "1",
+      "definition": "to gradually grow or become bigger, more advanced, stronger, etc.; to make something do this",
+      "sensetop": "develop into somethingdevelop from somethingdevelop from something into somethingdevelop somethingdevelop something from somethingdevelop something into something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "From birth to age 5, a child's brain develops rapidly."
+        },
+        {
+          "text": "Some children develop more slowly than others."
+        },
+        {
+          "text": "Gradually these settlements developed into cities.",
+          "contextForm": "develop into something"
+        },
+        {
+          "text": "Human beings developed from earlier species of animals.",
+          "contextForm": "develop from something"
+        },
+        {
+          "text": "The place has rapidly developed from a small fishing community into a thriving tourist resort.",
+          "contextForm": "develop from something into something"
+        },
+        {
+          "text": "The aim is to **develop** your personal **skills**.",
+          "contextForm": "develop something"
+        },
+        {
+          "text": "She developed the company from nothing.",
+          "contextForm": "develop something from something"
+        },
+        {
+          "text": "The competition helps entrants develop ideas into business concepts.",
+          "contextForm": "develop something into something"
+        }
+      ]
+    },
+    {
+      "senseNumber": "2",
+      "definition": "to start to have a skill, ability, quality, etc. that becomes better and stronger; to become better and stronger",
+      "sensetop": "develop (something)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He's developed a real flair for management."
+        },
+        {
+          "text": "Their relationship has developed over a number of years."
+        },
+        {
+          "text": "He is trying hard to develop a loving relationship with his daughter."
+        },
+        {
+          "text": "Physicians need to develop a better understanding of this issue when providing care for older patients."
+        }
+      ],
+      "topics": ["Change, cause and effect"]
+    },
+    {
+      "senseNumber": "3",
+      "definition": "to think of or produce a new idea, product, etc. and make it successful",
+      "sensetop": "develop something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The company develops and markets new software."
+        },
+        {
+          "text": "It takes time to **develop** new **technology**."
+        },
+        {
+          "text": "We are **developing products **for different parts of the industry."
+        },
+        {
+          "text": "to **develop a strategy/system/programme**"
+        },
+        {
+          "text": "to **develop a method/model/technique**"
+        },
+        {
+          "text": "A new type of painkilling drug has recently been developed."
+        },
+        {
+          "text": "We are gradually developing better treatments for these conditions."
+        },
+        {
+          "text": "A coherent strategy for getting more people back to work needs to be developed."
+        },
+        {
+          "text": "The purpose of this project was to develop a systematic teaching method that would foster self-directed learning."
+        },
+        {
+          "text": "The aim is to develop a system which will cost under $10 000."
+        }
+      ],
+      "topics": ["Scientific research"]
+    },
+    {
+      "senseNumber": "4",
+      "definition": "to begin to have something such as a disease or a problem; to start to affect somebody/something",
+      "sensetop": "develop (something)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She developed lung cancer at the age of sixty."
+        },
+        {
+          "text": "Her son developed asthma when he was two."
+        },
+        {
+          "text": "The car developed engine trouble and we had to stop."
+        },
+        {
+          "text": "If symptoms develop, seek help quickly."
+        },
+        {
+          "text": "Problems can develop unexpectedly."
+        }
+      ],
+      "topics": ["Health problems"]
+    },
+    {
+      "senseNumber": "5",
+      "definition": "to start to happen or change, especially in a bad way",
+      "sensetop": "develop into something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "A crisis was rapidly developing in the Gulf."
+        },
+        {
+          "text": "We need more time to see how things develop before we take action."
+        },
+        {
+          "text": "The conflict quickly developed into full-scale war.",
+          "contextForm": "develop into something"
+        },
+        {
+          "text": "The situation is developing into a crisis."
+        }
+      ],
+      "topics": ["Change, cause and effect"]
+    },
+    {
+      "senseNumber": "6",
+      "definition": "to build new houses, factories, etc. on an area of land, especially land that was not being used effectively before",
+      "sensetop": "develop something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The site is being developed by a French company."
+        },
+        {
+          "text": "A lot of residents in town feel that it would be tragic if the land were developed for residential use."
+        },
+        {
+          "text": "They have not yet received any applications for planning permission to develop the site."
+        }
+      ]
+    },
+    {
+      "senseNumber": "7",
+      "definition": "to build or improve a building or other facilities",
+      "sensetop": "develop something",
+      "examples": [
+        {
+          "text": "The company is developing a chain of hotels."
+        },
+        {
+          "text": "He is enthusiastic about plans to develop the leisure facilities at the site."
+        }
+      ]
+    },
+    {
+      "senseNumber": "8",
+      "definition": "to become economically and socially more advanced",
+      "labels": "(economics)",
+      "examples": [
+        {
+          "text": "For a country to develop, a good road network is essential."
+        },
+        {
+          "text": "Their economy was developing at an incredible pace."
+        }
+      ]
+    },
+    {
+      "senseNumber": "9",
+      "definition": "to add further explanation or details to an idea, story or musical theme",
+      "sensetop": "develop something",
+      "examples": [
+        {
+          "text": "She develops the theme more fully in her later books."
+        },
+        {
+          "text": "The piano then takes up the melody and develops it."
+        },
+        {
+          "text": "He began to develop these ideas in a series of paintings."
+        }
+      ],
+      "synonyms": "elaborate (1)"
+    },
+    {
+      "senseNumber": "10",
+      "definition": "to treat film that has been used to take photographs with chemicals so that the pictures can be seen",
+      "sensetop": "develop something",
+      "examples": [
+        {
+          "text": "When Lewis developed the film, he was astonished by what he saw."
+        }
+      ]
+    }
+  ],
+  "wordOrigin": "mid 17th cent. (in the sense ‘unfold, unfurl’): from French développer, based on Latin dis- ‘un-’ + a second element of unknown origin found also in envelop."
+}
