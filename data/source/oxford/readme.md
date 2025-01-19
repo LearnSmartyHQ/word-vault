@@ -6,7 +6,7 @@ Our word lists are designed to help English language learners at any level focus
 
 These word lists are available on this site:
 
-## [Oxford 3000](./oxford-3000.md)
+## [Oxford 3000](./the-oxford-3000/)
 A revised and updated version of the existing core word list. The Oxford 3000 is defined as ‘the most important words to know in English’ for learners at A1 to B2 levels on the CEFR. All the words on the updated list are aligned to the CEFR.
 
 ## [Oxford 5000](./the-oxford-5000/)
