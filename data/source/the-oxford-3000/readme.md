@@ -6,6 +6,12 @@ The words have been chosen based on their frequency in the Oxford English Corpus
 
 
 ## Download The Oxford 3000 Wordlist
+
+#### British English
+- [the-oxford-3000.txt](./the-oxford-3000.txt) (Text)
+- [the-oxford-3000.json](./the-oxford-3000.json) (JSON)
+
+#### American English
 - [the-oxford-3000-american-english.txt](./the-oxford-3000-american-english.txt) (Text)
 - [the-oxford-3000-american-english.json](./the-oxford-3000-american-english.json) (JSON)
 
