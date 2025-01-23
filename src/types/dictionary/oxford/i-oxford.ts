@@ -1,14 +1,19 @@
 import { IIdiom } from "../i-idiom";
-import { ITranslation } from "../i-translation";
 import { LevelA2CTypes } from "../level-a2c-types";
 
 export interface IOxford {
+  word: string;
+  partOfSpeech?: string;
   pronunciations: IOxfordPronunciations;
   verbForms?: IOxfordVerbForms;
   level: LevelA2CTypes;
+  cefr?: LevelA2CTypes;
+  academic?: boolean;
+  ox3000?: boolean;
+  ox5000?: boolean;
   definitions: IOxfordDefinition[];
-  wordOrigin: string;
-  idioms: IIdiom[];
+  wordOrigin?: string;
+  idioms?: IIdiom[];
 }
 
 export interface IOxfordPronunciations {
@@ -16,33 +21,28 @@ export interface IOxfordPronunciations {
   us: IOxfordPronunciation[];
 }
 
-export type IOxfordPronunciationRegion = 'uk' | 'us';
-
 export interface IOxfordPronunciation {
   pronunciation: string;
   audio: string;
-  region: IOxfordPronunciationRegion;
 }
 
 export interface IOxfordDefinitionExample {
   text: string;
   contextForm?: string;
-  translations: ITranslation;
 }
 
 export interface IOxfordDefinition {
-  senseNumber: number;
-  partOfSpeech: string;
+  senseNumber?: number;
+  partOfSpeech?: string;
   cefr: LevelA2CTypes;
-  oxford3000: boolean;
-  oxford5000: boolean;
+  oxford3000?: boolean;
+  oxford5000?: boolean;
   definition: string;
-  translations: ITranslation;
-  sensetop: string;
-  labels: string;
+  sensetop?: string;
+  labels?: string;
   examples: IOxfordDefinitionExample[];
-  synonyms: string[];
-  antonyms: string[];
+  synonyms?: string[];
+  antonyms?: string[];
   collocations?: IOxfordCollocations;
 }
 
