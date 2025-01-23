@@ -2,16 +2,16 @@ import { IIdiom } from "../i-idiom";
 import { LevelA2CTypes } from "../level-a2c-types";
 
 export interface IOxford {
-  word: string;
+  term: string;
   partOfSpeech?: string;
-  pronunciations: IOxfordPronunciations;
-  verbForms?: IOxfordVerbForms;
-  level: LevelA2CTypes;
+  image?: string;
   cefr?: LevelA2CTypes;
   academic?: boolean;
   ox3000?: boolean;
   ox5000?: boolean;
+  verbForms?: IOxfordVerbForms;
   definitions: IOxfordDefinition[];
+  pronunciations: IOxfordPronunciations;
   wordOrigin?: string;
   idioms?: IIdiom[];
 }
