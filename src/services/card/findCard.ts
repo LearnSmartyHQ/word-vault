@@ -8,6 +8,8 @@ export function findCard(id: string): IOxford | null {
   const fileName = id + '.json';
   const filePath = join(baseCardPath, firstTwoDigits, fileName);
 
+  console.log('filePath', filePath);
+
   if (!existsSync(filePath)) {
     console.error(`Word with slug "${id}" does not exist.`);
     return null;
