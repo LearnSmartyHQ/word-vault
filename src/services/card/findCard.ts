@@ -11,7 +11,7 @@ export function findCard(id: string): IOxford | null {
   console.log('filePath', filePath);
 
   if (!existsSync(filePath)) {
-    console.error(`Word with slug "${id}" does not exist.`);
+    console.debug(`Word with slug "${id}" does not exist.`);
     return null;
   }
 
@@ -19,7 +19,7 @@ export function findCard(id: string): IOxford | null {
     const data = readFileSync(filePath, 'utf-8');
     return JSON.parse(data) as IOxford;
   } catch (error) {
-    console.error(`Error reading file for ID: ${id}`, error);
+    console.debug(`Error reading file for ID: ${id}`, error);
     return null;
   }
 }

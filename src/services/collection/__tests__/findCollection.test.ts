@@ -11,21 +11,55 @@ describe('findCollection', () => {
     const result = findCollection('504');
 
     expect(result).not.toBeNull();
-    expect(result).toMatchObject({
-      id: expect.any(Number),
-      title: expect.any(String),
-      description: expect.any(String),
-      categories: expect.any(Array),
-      slug: '504',
-      totalCards: expect.any(Number),
-      status: 'published',
-      createdAt: expect.any(String),
-      updatedAt: expect.any(String),
-      difficulty: expect.any(String),
-      image: expect.any(String),
-      subject: expect.any(String),
-      category: expect.any(String),
-      totalCardsByDifficulty: expect.any(Object),
+    expect(result).toEqual({
+      id: 1,
+      title: "504 Essential Words",
+      slug: "504",
+      subject: "English",
+      category: "Vocabulary",
+      description: "A collection of essential English words to improve your vocabulary.",
+      difficulty: "Intermediate",
+      totalCards: 504,
+      totalCardsByDifficulty: {
+        A1: 10,
+        A2: 20,
+        B1: 30,
+        B2: 40,
+        C1: 50,
+        C2: 60
+      },
+      status: "published",
+      createdAt: "2024-09-07T12:00:00Z",
+      updatedAt: expect.any(String), // This may be generated
+      categories: expect.arrayContaining([
+        expect.objectContaining({
+          id: 1,
+          title: "Lesson 1",
+          description: "The first lesson of the 504 Essential Words collection.",
+          cards: [
+            "abandon", "keen", "jealous", "tact", "oath",
+            "vacant", "hardship", "gallant", "data", "unaccustomed",
+            "bachelor", "qualify"
+          ]
+        }),
+        expect.objectContaining({
+          id: 42,
+          title: "Lesson 42",
+          cards: [
+            "maintain", "snub", "endure", "wrath", "expose",
+            "legend", "ponder", "resign", "drastic", "wharf",
+            "amend", "ballot"
+          ]
+        })
+      ]),
+    });
+
+    // Verify the total number of categories
+    expect(result?.categories).toHaveLength(42);
+
+    // Verify each category has exactly 12 cards
+    result?.categories.forEach(category => {
+      expect(category.cards).toHaveLength(12);
     });
   });
 

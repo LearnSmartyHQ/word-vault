@@ -7,7 +7,7 @@
     "description": "The Oxford 5000 is an expanded core word list for advanced learners of English. It includes an additional 2,000 words at B2 and C1 level.",
     "difficulty": "Intermediate",
     "totalCards": 2066,
-    "cardDifficulties": {
+    "totalCardsByDifficulty": {
         "A1": 10,
         "A2": 20,
         "B1": 30,
@@ -17,6 +17,7 @@
     },
     "status": "published",
     "createdAt": "2025-01-19T21:36:00Z",
+    "updatedAt": "2025-02-01T23:44:00Z",
     "categories": [
         {
             "id": 1,

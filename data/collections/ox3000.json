@@ -7,7 +7,7 @@
     "description": "The Oxford 3000 is a list of the 3,000 core words that every learner of English needs to know at A1-B2 level.",
     "difficulty": "Beginner",
     "totalCards": 3048,
-    "cardDifficulties": {
+    "totalCardsByDifficulty": {
         "A1": 10,
         "A2": 20,
         "B1": 30,
@@ -17,6 +17,7 @@
     },
     "status": "published",
     "createdAt": "2025-01-19T21:31:00Z",
+    "updatedAt": "2025-02-01T23:44:00Z",
     "categories": [
         {
             "id": 1,
