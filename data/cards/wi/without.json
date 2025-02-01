@@ -1,0 +1,88 @@
+{
+  "term": "without",
+  "partOfSpeech": "preposition",
+  "ox3000": true,
+  "cefr": "a1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "not having, experiencing or showing something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They had gone two days without food."
+        },
+        {
+          "text": "He found the place without difficulty."
+        },
+        {
+          "text": "She spoke without much enthusiasm."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "not in the company of somebody",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Don't go without me."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "not using or taking something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Can you see without your glasses?"
+        },
+        {
+          "text": "Don't go out without your coat."
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "not doing the action mentioned",
+      "sensetop": "without doing somethingwithout somebody doing something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He left without saying goodbye.",
+          "contextForm": "without doing something"
+        },
+        {
+          "text": "You can't make an omelette without breaking eggs."
+        },
+        {
+          "text": "**Without wanting to** criticize, I think you could have done better. *(= used before you make a critical comment)*"
+        },
+        {
+          "text": "The party was organized without her knowing anything about it.",
+          "contextForm": "without somebody doing something"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/wɪˈðaʊt/",
+        "audio": "wi/without/without__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/wɪˈðaʊt/",
+        "audio": "wi/without/without__us_1_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English withūtan ‘on the outside’."
+}

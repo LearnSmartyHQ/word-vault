@@ -1,0 +1,55 @@
+{
+  "term": "homeless",
+  "partOfSpeech": "adjectivenoun",
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "having no home, and therefore typically living on the streets",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The scheme has been set up to help homeless people."
+        },
+        {
+          "text": "The local authority ruled that he had made himself intentionally homeless and was therefore not entitled to be rehoused."
+        },
+        {
+          "text": "Three hundred people were left homeless by the earthquake."
+        }
+      ],
+      "topics": ["Social issues"],
+      "collocations": {
+        "verbs": ["be", "become", "end up"],
+        "adverb": ["intentionally", "unintentionally", "chronically"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "people who have no home",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "helping the homeless"
+        }
+      ],
+      "topics": ["People in society"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈhəʊmləs/",
+        "audio": "ho/homeless/homeless__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈhəʊmləs/",
+        "audio": "ho/homeless/homeless__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

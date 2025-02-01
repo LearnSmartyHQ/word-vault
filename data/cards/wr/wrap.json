@@ -1,0 +1,197 @@
+{
+  "term": "wrap",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "wrap",
+      "heSheIt": "wraps"
+    },
+    "pastSimple": "wrapped",
+    "pastParticiple": "wrapped",
+    "ingForm": "wrapping"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to cover something completely in paper or other material, for example when you are giving it as a present",
+      "sensetop": "wrap something upwrap somethingwrap something in somethingwrap something up in something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He spent the evening wrapping up the Christmas presents.",
+          "contextForm": "wrap something up"
+        },
+        {
+          "text": "individually wrapped chocolates",
+          "contextForm": "wrap something"
+        },
+        {
+          "text": "Each apple was wrapped in paper.",
+          "contextForm": "wrap something in something"
+        },
+        {
+          "text": "The cheese is cut and wrapped in plastic."
+        },
+        {
+          "text": "fish and chips wrapped up in newspaper",
+          "contextForm": "wrap something up in something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["warm", "warmly", "well"],
+        "preposition": ["against", "in"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to cover something/somebody in material, for example in order to protect it/them",
+      "sensetop": "wrap A in Bwrap A up in Bwrap yourself in somethingwrap yourself up in somethingwrap B round/around A",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Wrap the meat in foil before you cook it.",
+          "contextForm": "wrap A in B"
+        },
+        {
+          "text": "I wrapped the baby up in a blanket.",
+          "contextForm": "wrap A up in B"
+        },
+        {
+          "text": "He tossed her a towel. ‘Wrap yourself in that.’",
+          "contextForm": "wrap yourself in something"
+        },
+        {
+          "text": "She wrapped herself up in a long shawl.",
+          "contextForm": "wrap yourself up in something"
+        },
+        {
+          "text": "I wrapped a blanket around the baby.",
+          "contextForm": "wrap B round/around A"
+        },
+        {
+          "text": "Christine was wrapped up in one of the blankets."
+        },
+        {
+          "text": "She wrapped the child carefully in a blanket."
+        }
+      ],
+      "collocations": {
+        "adverb": ["warm", "warmly", "well"],
+        "preposition": ["against", "in"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to put something around something/somebody",
+      "sensetop": "wrap something around/round something/somebody",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "A scarf was wrapped around his neck."
+        },
+        {
+          "text": "The nurse wrapped a bandage tightly around my ankle."
+        },
+        {
+          "text": "His **arms were wrapped around** her waist."
+        },
+        {
+          "text": "He **wrapped his arms** tightly **around** her waist."
+        },
+        {
+          "text": "He wrapped his hands around my neck and tried to strangle me."
+        },
+        {
+          "text": "She's got a towel wrapped around her head."
+        }
+      ],
+      "collocations": {
+        "adverb": ["warm", "warmly", "well"],
+        "preposition": ["against", "in"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to cause a word or text to be carried over to a new line as the end of the previous line is reached by the writer; to be carried over in this way",
+      "sensetop": "wrap something (around/round)wrap (around/round)",
+      "labels": "(computing)",
+      "examples": [
+        {
+          "text": "How can I wrap the text around?",
+          "contextForm": "wrap something (around/round)"
+        },
+        {
+          "text": "The text wraps around if it is too long to fit the screen.",
+          "contextForm": "wrap (around/round)"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be so involved with somebody/something that you do not pay enough attention to other people or things",
+      "examples": [
+        {
+          "text": "They are completely wrapped up in their children."
+        },
+        {
+          "text": "She was so wrapped up in her work that she didn’t realize how late it was."
+        }
+      ],
+      "synonyms": "absorbed, engrossed"
+    },
+    {
+      "senseNumber": null,
+      "definition": "to persuade somebody to do anything that you want",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "She has always been able to wrap her parents around her little finger."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ræp/",
+        "audio": "wr/wrap/wrap__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ræps/",
+        "audio": "wr/wrap/wraps__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ræpt/",
+        "audio": "wr/wrap/wrapped__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈræpɪŋ/",
+        "audio": "wr/wrap/wrapping__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ræp/",
+        "audio": "wr/wrap/wrap__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ræps/",
+        "audio": "wr/wrap/wraps__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ræpt/",
+        "audio": "wr/wrap/wrapped__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈræpɪŋ/",
+        "audio": "wr/wrap/wrapping__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: of unknown origin."
+}

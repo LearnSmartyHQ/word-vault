@@ -1,0 +1,120 @@
+{
+  "term": "migrate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "migrate",
+      "heSheIt": "migrates"
+    },
+    "pastSimple": "migrated",
+    "pastParticiple": "migrated",
+    "ingForm": "migrating"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to move from one part of the world to another according to the season",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Swallows migrate south in winter."
+        },
+        {
+          "text": "Migrating birds often rest and feed in the marshes here."
+        }
+      ],
+      "topics": ["Birds"],
+      "collocations": {
+        "adverb": ["north", "northwards", "etc."],
+        "preposition": ["from", "into", "to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to move from one town, country, etc. to go and live and/or work in another",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Thousands were forced to migrate from rural to urban areas in search of work."
+        },
+        {
+          "text": "Several thousand years ago whole populations migrated to north-west Europe."
+        }
+      ],
+      "synonyms": "emigrate",
+      "topics": ["Social issues"],
+      "collocations": {
+        "adverb": ["north", "northwards", "etc."],
+        "preposition": ["from", "into", "to"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to move from one place to another",
+      "labels": "(specialist)",
+      "examples": [
+        {
+          "text": "The infected cells then migrate to other areas of the body."
+        }
+      ],
+      "collocations": {
+        "adverb": ["north", "northwards", "etc."],
+        "preposition": ["from", "into", "to"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to change, or cause somebody to change, from one computer system to another",
+      "sensetop": "migrate (somebody)",
+      "labels": "(computing)",
+      "examples": []
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to move programs or hardware from one computer system to another",
+      "sensetop": "migrate something",
+      "labels": "(computing)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/maɪˈɡreɪt/",
+        "audio": "mi/migrate/migrate__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/maɪˈɡreɪts/",
+        "audio": "mi/migrate/migrates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/maɪˈɡreɪtɪd/",
+        "audio": "mi/migrate/migrated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/maɪˈɡreɪtɪŋ/",
+        "audio": "mi/migrate/migrating__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmaɪɡreɪt/",
+        "audio": "mi/migrate/migrate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmaɪɡreɪts/",
+        "audio": "mi/migrate/migrates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmaɪɡreɪtɪd/",
+        "audio": "mi/migrate/migrated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmaɪɡreɪtɪŋ/",
+        "audio": "mi/migrate/migrating__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 17th cent. (in the general sense ‘move from one place to another’): from Latin migrat- ‘moved, shifted’, from the verb migrare."
+}

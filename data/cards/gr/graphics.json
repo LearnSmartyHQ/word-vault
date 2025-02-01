@@ -1,0 +1,56 @@
+{
+  "term": "graphics",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "designs, drawings or pictures that are used especially in the production of books, magazines, websites, etc.",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Text and graphics are prepared separately and then combined."
+        },
+        {
+          "text": "The program can produce and manipulate text and graphics."
+        },
+        {
+          "text": "The screen can display simple graphics as well as text."
+        }
+      ],
+      "topics": ["Computers", "Art"],
+      "collocations": {
+        "adjective": ["computer", "computer-generated", "basic"],
+        "verb + graphics": ["create", "produce", "display"],
+        "graphics + noun": ["application", "package", "program"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the activity of making these designs, drawings or pictures or the use of these images",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "expertise in computer graphics"
+        }
+      ],
+      "topics": ["Computers", "Art"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɡræfɪks/",
+        "audio": "gr/graphics/graphics__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɡræfɪks/",
+        "audio": "gr/graphics/graphics__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

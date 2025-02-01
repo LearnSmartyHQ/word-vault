@@ -1,0 +1,57 @@
+{
+  "term": "theology",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the study of religion and beliefs",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a degree in theology"
+        },
+        {
+          "text": "a theology student"
+        },
+        {
+          "text": "the rarefied world of academic theology"
+        }
+      ],
+      "topics": ["Religion and festivals", "Education"],
+      "collocations": {
+        "adjective": ["dogmatic", "liberal", "traditional"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a set of religious beliefs",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the theologies of the East"
+        }
+      ],
+      "topics": ["Religion and festivals"],
+      "collocations": {
+        "adjective": ["dogmatic", "liberal", "traditional"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/θiˈɒlədʒi/",
+        "audio": "th/theology/theology__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/θiˈɑːlədʒi/",
+        "audio": "th/theology/theology__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (originally applying only to Christianity): from French théologie, from Latin theologia, from Greek, from theos ‘god’ + -logia (see -logy)."
+}

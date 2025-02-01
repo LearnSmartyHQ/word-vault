@@ -1,0 +1,65 @@
+{
+  "term": "skull",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "image": "data/images/bo/body_skeleton.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the bone structure that forms the head and surrounds and protects the brain",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "a fractured skull"
+        },
+        {
+          "text": "the angel of death with his grinning skull"
+        }
+      ],
+      "topics": ["Body"],
+      "collocations": {
+        "adjective": ["human", "thick", "thin"],
+        "verb + skull": ["crack", "fracture", "crush"],
+        "skull + noun": ["fracture"],
+        "phrases": [
+          "a fracture of the skull",
+          "a fracture to the skull",
+          "suffer a fractured skull"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the head or the brain",
+      "labels": "(informal)(informal)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Her skull was crammed with too many thoughts."
+        },
+        {
+          "text": "When will he **get it into his thick skull** that I never want to see him again!"
+        },
+        {
+          "text": "The soldiers' hair was cropped close to the skull."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/skʌl/",
+        "audio": "sk/skull/skull__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/skʌl/",
+        "audio": "sk/skull/skull__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English scolle; of unknown origin; compare with Old Norse skoltr."
+}

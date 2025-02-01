@@ -1,0 +1,73 @@
+{
+  "term": "shrug",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "shrug",
+      "heSheIt": "shrugs"
+    },
+    "pastSimple": "shrugged",
+    "pastParticiple": "shrugged",
+    "ingForm": "shrugging"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to raise your shoulders and then drop them to show that you do not know or care about something",
+      "sensetop": "shrug something",
+      "examples": [
+        {
+          "text": "Sam shrugged and said nothing."
+        },
+        {
+          "text": "‘I don't know,’ Anna replied, **shrugging her shoulders**.",
+          "contextForm": "shrug something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["lightly", "slightly", "carelessly"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ʃrʌɡ/",
+        "audio": "sh/shrug/shrug__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃrʌɡz/",
+        "audio": "sh/shrug/shrugs__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃrʌɡd/",
+        "audio": "sh/shrug/shrugged__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈʃrʌɡɪŋ/",
+        "audio": "sh/shrug/shrugging__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ʃrʌɡ/",
+        "audio": "sh/shrug/shrug__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃrʌɡz/",
+        "audio": "sh/shrug/shrugs__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃrʌɡd/",
+        "audio": "sh/shrug/shrugged__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈʃrʌɡɪŋ/",
+        "audio": "sh/shrug/shrugging__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the sense ‘fidget’): of unknown origin."
+}

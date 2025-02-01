@@ -1,0 +1,144 @@
+{
+  "term": "sample",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a number of people or things taken from a larger group and used in tests to provide information about the group",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The interviews were given to a **random sample** of students."
+        },
+        {
+          "text": "The survey covers a **representative sample** of schools."
+        },
+        {
+          "text": "a sample survey"
+        },
+        {
+          "text": "The current study has a larger **sample size** than earlier studies."
+        },
+        {
+          "text": "We studied a large population sample."
+        },
+        {
+          "text": "Our sample comprised 250 catering workers."
+        },
+        {
+          "text": "The research was based on samples from 29 populations."
+        },
+        {
+          "text": "a random sample drawn from men aged 35–40"
+        },
+        {
+          "text": "The results are based on a sample of 100 people drawn from different areas and social classes."
+        }
+      ],
+      "collocations": {
+        "adjective": ["large", "small", "total"],
+        "verb + sample": ["draw", "select"],
+        "sample + verb": ["comprise something", "consist of something"],
+        "sample + noun": ["size", "survey", "group"],
+        "preposition": ["sample from", "sample of"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a small amount of a substance taken from a larger amount and tested in order to obtain information about the substance",
+      "sensetop": "sample of something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **blood/urine/tissue/DNA sample**"
+        },
+        {
+          "text": "Samples of the water contained pesticide.",
+          "contextForm": "sample of something"
+        },
+        {
+          "text": "A small sample of blood must be tested by a doctor."
+        },
+        {
+          "text": "to **collect/obtain/take a sample**"
+        },
+        {
+          "text": "We analyzed samples from more than a dozen common tree species."
+        },
+        {
+          "text": "Her sample contained traces of the banned steroid."
+        },
+        {
+          "text": "All the athletes had to provide a urine sample."
+        },
+        {
+          "text": "samples of tissue"
+        }
+      ],
+      "topics": ["Healthcare"],
+      "collocations": {
+        "adjective": ["blood", "faecal/​fecal", "serum"],
+        "verb + sample": ["collect", "obtain", "take"],
+        "sample + verb": ["contain", "show"],
+        "preposition": ["sample of"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a small amount or example of something that can be looked at or tried to see what it is like",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "‘I'd like to see a sample of your work,’ said the manager."
+        },
+        {
+          "text": "a **free sample** of shampoo"
+        },
+        {
+          "text": "Would you like a sample of the fabric to take home?"
+        },
+        {
+          "text": "We looked at sample books to choose the fabric."
+        }
+      ],
+      "topics": ["Shopping", "Scientific research"],
+      "collocations": {
+        "adjective": ["free"],
+        "sample + noun": ["book"],
+        "preposition": ["sample of"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a piece of recorded music or sound that is used in a new piece of music",
+      "labels": "(specialist)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "‘Candy’ includes a swirling sample from a Walker Brothers song."
+        }
+      ],
+      "topics": ["Music"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsɑːmpl/",
+        "audio": "sa/sample/sample__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsæmpl/",
+        "audio": "sa/sample/sample__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (as a noun): from an Anglo-Norman French variant of Old French essample ‘example’. Current senses of the verb date from the mid 18th cent."
+}

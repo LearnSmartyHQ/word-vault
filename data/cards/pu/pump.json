@@ -1,0 +1,164 @@
+{
+  "term": "pump",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "pump",
+      "heSheIt": "pumps"
+    },
+    "pastSimple": "pumped",
+    "pastParticiple": "pumped",
+    "ingForm": "pumping"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to make water, air, gas, etc. flow in a particular direction by using a pump or something that works like a pump",
+      "sensetop": "pump something (+ adv./prep.)pump something + adj.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The engine is used for pumping water out of the mine.",
+          "contextForm": "pump something (+ adv./prep.)"
+        },
+        {
+          "text": "The heart pumps blood around the body."
+        },
+        {
+          "text": "It took ages to pump out the cellar *(= pump the water out of it)* after the flood."
+        },
+        {
+          "text": "The lake had been pumped dry.",
+          "contextForm": "pump something + adj."
+        },
+        {
+          "text": "His heart pumped harder as he held his breath."
+        },
+        {
+          "text": "The lungs pump oxygen into the bloodstream."
+        }
+      ],
+      "topics": ["Engineering"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to flow in a particular direction as if it is being forced by a pump",
+      "sensetop": "+ adv./prep.",
+      "examples": [
+        {
+          "text": "Blood was pumping out of his wound."
+        },
+        {
+          "text": "The shock sent adrenalin pumping through her veins."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to move something quickly up and down or in and out",
+      "sensetop": "pump something (+ adv./prep.)",
+      "examples": [
+        {
+          "text": "He kept pumping my hand up and down."
+        },
+        {
+          "text": "I pumped the handle like crazy."
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to move quickly up and down or in and out",
+      "examples": [
+        {
+          "text": "She sprinted for the line, legs pumping."
+        },
+        {
+          "text": "My heart was pumping with excitement."
+        }
+      ]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to try to get information from somebody by asking them a lot of questions",
+      "sensetop": "pump somebody (for something)",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "See if you can pump him for more details."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to fire a lot of bullets into somebody",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to fill somebody with something, especially drugs",
+      "examples": [
+        {
+          "text": "They pumped her full of painkillers."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to do exercises in which you lift heavy weights in order to make your muscles stronger",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Health and Fitness"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to remove the contents of somebody’s stomach using a pump, because they have swallowed something harmful",
+      "examples": [
+        {
+          "text": "He had his stomach pumped after taking an overdose."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pʌmp/",
+        "audio": "pu/pump/pump__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/pʌmps/",
+        "audio": "pu/pump/pumps__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/pʌmpt/",
+        "audio": "pu/pump/pumped__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈpʌmpɪŋ/",
+        "audio": "pu/pump/pumping__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pʌmp/",
+        "audio": "pu/pump/pump__us_1.mp3"
+      },
+      {
+        "pronunciation": "/pʌmps/",
+        "audio": "pu/pump/pumps__us_1.mp3"
+      },
+      {
+        "pronunciation": "/pʌmpt/",
+        "audio": "pu/pump/pumped__us_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈpʌmpɪŋ/",
+        "audio": "pu/pump/pumping__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "verb late Middle English (originally in nautical use): related to Dutch pomp ‘ship's pump’ (earlier in the sense ‘wooden or metal conduit’), probably partly of imitative origin."
+}

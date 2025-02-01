@@ -1,0 +1,128 @@
+{
+  "term": "frequency",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the rate at which something happens or is repeated",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Fatal road accidents have decreased in frequency over recent years."
+        },
+        {
+          "text": "Dawn was then visiting New York **with increasing frequency**."
+        },
+        {
+          "text": "a society with a **high/low frequency** *(= happening often/not very often)* of stable marriages"
+        },
+        {
+          "text": "Users will be able to rearrange their icons by frequency of use."
+        },
+        {
+          "text": "The program can show us **word frequency** *(= how often words occur in a language)*."
+        },
+        {
+          "text": "Crime can increase in frequency in less settled neighbourhoods."
+        },
+        {
+          "text": "The drug can reduce the frequency and severity of attacks."
+        },
+        {
+          "text": "These incidents have increased in frequency."
+        }
+      ],
+      "collocations": {
+        "adjective": ["great", "increased", "increasing"],
+        "verb + frequency": ["decrease in", "increase in", "decrease"],
+        "preposition": ["with frequency"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the fact of something happening often",
+      "sensetop": "with… frequency",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the alarming frequency of computer errors"
+        },
+        {
+          "text": "The relative frequency of this illness in the area is of concern to all doctors."
+        },
+        {
+          "text": "Objects like this turn up at sales with surprising frequency.",
+          "contextForm": "with… frequency"
+        },
+        {
+          "text": "Bullets bounced off the rock with alarming frequency."
+        }
+      ],
+      "collocations": {
+        "adjective": ["great", "increased", "increasing"],
+        "verb + frequency": ["decrease in", "increase in", "decrease"],
+        "preposition": ["with frequency"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the rate at which a sound or electromagnetic wave vibrates (= moves up and down)",
+      "labels": "(specialist)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a **high/low frequency**"
+        },
+        {
+          "text": "Electromagnetic waves of **radio frequency** can make molecules vibrate and heat up."
+        }
+      ],
+      "topics": ["Physics and chemistry"],
+      "collocations": {
+        "adjective": ["high", "low", "microwave"],
+        "frequency + noun": ["range", "spectrum", "band"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "the number of radio waves for every second of a radio signal",
+      "labels": "(specialist)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a frequency band"
+        },
+        {
+          "text": "an FM **radio frequency**"
+        },
+        {
+          "text": "There are only a limited number of broadcasting frequencies."
+        }
+      ],
+      "topics": ["TV, radio and news"],
+      "collocations": {
+        "adjective": ["high", "low", "microwave"],
+        "frequency + noun": ["range", "spectrum", "band"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfriːkwənsi/",
+        "audio": "fr/frequency/frequency__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfriːkwənsi/",
+        "audio": "fr/frequency/frequency__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 16th cent. (gradually superseding late Middle English frequence; originally denoting a gathering of people): from Latin frequentia, from frequens, frequent- ‘crowded, frequent’."
+}

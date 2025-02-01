@@ -1,0 +1,273 @@
+{
+  "term": "wing",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b1",
+  "image": "data/images/bi/birds.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "one of the parts of the body of a bird, insect or bat that it uses for flying",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The swan **flapped its wings** noisily."
+        },
+        {
+          "text": "wing feathers"
+        },
+        {
+          "text": "I wish I could sprout wings and fly away."
+        },
+        {
+          "text": "It flapped its wings and flew off."
+        },
+        {
+          "text": "It had white markings on its wings."
+        },
+        {
+          "text": "The beetle's fore wings are small and are not used in flight."
+        },
+        {
+          "text": "The young birds were under the mother bird's wing."
+        },
+        {
+          "text": "a bird with a broken wing"
+        },
+        {
+          "text": "the patterns on butterfly wings"
+        }
+      ],
+      "topics": ["Birds"],
+      "collocations": {
+        "adjective": ["left", "right", "front"],
+        "… of wings": ["pair"],
+        "verb + wing": ["extend", "flex", "open"],
+        "wing + verb": ["beat", "flap", "flutter"],
+        "wing + noun": ["tip", "feathers", "span"],
+        "preposition": ["on a/​the wing", "under a/​the wing"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the wing of a chicken, etc. eaten as food",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We ordered the fried chicken wings."
+        },
+        {
+          "text": "First, fry the chicken wings in the oil until they begin to brown."
+        }
+      ],
+      "topics": ["Food"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "one of the large flat parts that stick out from the side of a plane and help to keep it in the air when it is flying",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Salvage teams have been able to recover part of the wing of the plane."
+        },
+        {
+          "text": "The right wing grazed the runway on landing."
+        }
+      ],
+      "topics": ["Transport by air"],
+      "collocations": {
+        "adjective": ["aircraft", "left", "port"],
+        "wing + noun": ["tip"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a part of a large building that sticks out from the main part",
+      "examples": [
+        {
+          "text": "the east wing"
+        },
+        {
+          "text": "the new wing of the hospital"
+        },
+        {
+          "text": "Our rooms were in the west wing."
+        }
+      ],
+      "collocations": {
+        "adjective": ["north", "south", "etc."],
+        "verb + wing": ["add", "build"],
+        "preposition": ["in a/​the wing"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "a part of a car that is above a wheel",
+      "labels": "(British English)North American English",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "There was a dent in the nearside wing."
+        },
+        {
+          "text": "There was a dent in one wing."
+        },
+        {
+          "text": "The nearside wing was damaged in the accident."
+        }
+      ],
+      "topics": ["Transport by car or lorry"],
+      "collocations": {
+        "adjective": ["nearside", "offside", "front"],
+        "verb + wing": ["damage", "dent", "mend"],
+        "wing + noun": ["mirror"],
+        "preposition": ["in a/​the wing"]
+      }
+    },
+    {
+      "senseNumber": 6,
+      "definition": "one section of an organization that has a particular function or whose members share the same opinions",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The radical wing of the party was dissatisfied with the policies."
+        },
+        {
+          "text": "The political wing of the National Resistance Army entered into negotiations with the government."
+        },
+        {
+          "text": "They're on the left wing of the Labour Party."
+        }
+      ],
+      "topics": ["Politics"],
+      "collocations": {
+        "adjective": ["left", "right", "conservative"],
+        "preposition": ["on a/​the wing"]
+      }
+    },
+    {
+      "senseNumber": 7,
+      "definition": "either of the attacking players who play towards the side of the playing area in sports such as football (soccer) or hockey",
+      "labels": "(sport)",
+      "examples": []
+    },
+    {
+      "senseNumber": 8,
+      "definition": "the far left or right side of the sports field",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "He plays on the wing."
+        },
+        {
+          "text": "He was playing on the right wing."
+        },
+        {
+          "text": "The ball went down the right wing."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"]
+    },
+    {
+      "senseNumber": 9,
+      "definition": "the area at either side of the stage that cannot be seen by the audience",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "She watched every performance from the wings."
+        },
+        {
+          "text": "We watched from the wings."
+        },
+        {
+          "text": "She was waiting in the wings, ready to go on stage when her turn came."
+        }
+      ],
+      "topics": ["Film and theatre"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to limit a person’s freedom or power",
+      "examples": [
+        {
+          "text": "Having a new baby to take care of has clipped her wings."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to pass the exams that mean you are allowed to fly a plane",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "ready to take over a particular job or be used in a particular situation when needed",
+      "examples": [
+        {
+          "text": "She was aware of a whole host of ambitious young managers waiting in the wings."
+        },
+        {
+          "text": "There's a wealth of talent waiting in the wings of British theatre."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "flying",
+      "labels": "(literary)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "with only a very slight chance of success",
+      "examples": [],
+      "topics": ["Success"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to become more independent and confident and try new activities, etc.",
+      "examples": [
+        {
+          "text": "Going to college gave her the chance to spread her wings."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to take care of and help somebody who has less experience of something than you",
+      "examples": [
+        {
+          "text": "Simon's uncle had taken him under his wing."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to fly away",
+      "labels": "(literary)(figurative)",
+      "examples": [
+        {
+          "text": "Her imagination took wing."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/wɪŋ/",
+        "audio": "wi/wing/wing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/wɪŋ/",
+        "audio": "wi/wing/wing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (originally in the plural): from Old Norse vængir, plural of vængr."
+}

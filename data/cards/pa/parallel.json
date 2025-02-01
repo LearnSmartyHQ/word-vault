@@ -1,0 +1,78 @@
+{
+  "term": "parallel",
+  "partOfSpeech": "adjective",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "image": "data/images/li/lines.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "two or more lines that are parallel to each other are the same distance apart at every point",
+      "sensetop": "parallel to/with something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "parallel lines"
+        },
+        {
+          "text": "The road and the canal are parallel to each other.",
+          "contextForm": "parallel to/with something"
+        },
+        {
+          "text": "The lane is roughly parallel to the main road."
+        },
+        {
+          "text": "The road runs parallel with the coast."
+        }
+      ],
+      "topics": ["Colours and Shapes", "Maths and measurement"],
+      "collocations": {
+        "verbs": ["be", "run"],
+        "adverb": ["exactly", "almost", "nearly"],
+        "preposition": ["to", "with"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "very similar or taking place at the same time",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "parallel trends"
+        },
+        {
+          "text": "Though still a committed painter, in 1978 she launched a parallel career as a photographer."
+        },
+        {
+          "text": "Two poisonings have been reported recently in London and now there has been a parallel case in the Netherlands."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "involving several computer operations at the same time",
+      "labels": "(computing)",
+      "examples": [
+        {
+          "text": "parallel processing"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈpærəlel/",
+        "audio": "pa/parallel/parallel__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈpærəlel/",
+        "audio": "pa/parallel/parallel__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 16th cent.: from French parallèle, via Latin from Greek parallēlos, from para- ‘alongside’ + allēlos ‘one another’."
+}

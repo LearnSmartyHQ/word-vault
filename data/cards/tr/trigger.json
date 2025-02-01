@@ -1,0 +1,108 @@
+{
+  "term": "trigger",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "trigger",
+      "heSheIt": "triggers"
+    },
+    "pastSimple": "triggered",
+    "pastParticiple": "triggered",
+    "ingForm": "triggering"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to make something happen suddenly",
+      "sensetop": "trigger something (off)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Nuts can trigger off a violent allergic reaction."
+        },
+        {
+          "text": "The incident triggered protests across the country."
+        },
+        {
+          "text": "A wide range of emotionally stressful events may trigger a relapse."
+        },
+        {
+          "text": "Her case triggered a wave of support around the world."
+        },
+        {
+          "text": "Even the smell of oranges can trigger her migraine."
+        },
+        {
+          "text": "He has a brain disorder that can trigger off convulsive fits."
+        }
+      ],
+      "synonyms": "set off, set something  off",
+      "topics": ["Change, cause and effect"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to cause a device to start functioning",
+      "sensetop": "trigger something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "to trigger an alarm"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to make somebody feel very upset or anxious by reminding them of a trauma or bad experience",
+      "sensetop": "trigger somebody",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Sometimes, the slightest things trigger me because they remind me of my mum."
+        }
+      ],
+      "topics": ["Feelings"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtrɪɡə(r)/",
+        "audio": "tr/trigger/trigger__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈtrɪɡəz/",
+        "audio": "tr/trigger/triggers__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtrɪɡəd/",
+        "audio": "tr/trigger/triggered__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtrɪɡərɪŋ/",
+        "audio": "tr/trigger/triggering__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtrɪɡər/",
+        "audio": "tr/trigger/trigger__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtrɪɡərz/",
+        "audio": "tr/trigger/triggers__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtrɪɡərd/",
+        "audio": "tr/trigger/triggered__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtrɪɡərɪŋ/",
+        "audio": "tr/trigger/triggering__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

@@ -1,0 +1,81 @@
+{
+  "term": "compile",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "compile",
+      "heSheIt": "compiles"
+    },
+    "pastSimple": "compiled",
+    "pastParticiple": "compiled",
+    "ingForm": "compiling"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to produce a book, list, report, etc. by bringing together different items, articles, songs, etc.; to collect information in order to produce a book, list, etc.",
+      "sensetop": "compile something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "We are trying to compile a list of suitable people for the job."
+        },
+        {
+          "text": "The album was compiled from live recordings from last year's tour."
+        },
+        {
+          "text": "The figures were compiled from a survey of 2  000 schoolchildren."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to translate instructions from one computer language into another so that a particular computer can understand them",
+      "sensetop": "compile something",
+      "labels": "(computing)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəmˈpaɪl/",
+        "audio": "co/compile/compile__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/kəmˈpaɪlz/",
+        "audio": "co/compile/compiles__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kəmˈpaɪld/",
+        "audio": "co/compile/compiled__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kəmˈpaɪlɪŋ/",
+        "audio": "co/compile/compiling__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəmˈpaɪl/",
+        "audio": "co/compile/compile__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəmˈpaɪlz/",
+        "audio": "co/compile/compiles__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəmˈpaɪld/",
+        "audio": "co/compile/compiled__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəmˈpaɪlɪŋ/",
+        "audio": "co/compile/compiling__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French compiler or its apparent source, Latin compilare ‘plunder or plagiarize’."
+}

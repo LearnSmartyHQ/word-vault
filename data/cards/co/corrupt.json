@@ -1,0 +1,74 @@
+{
+  "term": "corrupt",
+  "partOfSpeech": "adjective",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "willing to use their power to do dishonest or illegal things in return for money or to get an advantage",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "It was seen as the only way to overthrow a corrupt regime."
+        },
+        {
+          "text": "They promised to seek out the corrupt officials who had accepted the bribes."
+        },
+        {
+          "text": "one of the most notoriously corrupt city councils"
+        }
+      ],
+      "topics": ["Personal qualities", "Crime and punishment"],
+      "collocations": {
+        "verbs": ["be", "become"],
+        "adverb": ["hopelessly", "thoroughly", "totally"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "not honest or moral",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They had been engaged in corrupt practices."
+        },
+        {
+          "text": "The whole system is inefficient and corrupt."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "become"],
+        "adverb": ["hopelessly", "thoroughly", "totally"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "containing changes or faults, and no longer in the original state",
+      "labels": "(computing)",
+      "examples": [
+        {
+          "text": "corrupt software"
+        },
+        {
+          "text": "The file on the disk seems to be corrupt."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəˈrʌpt/",
+        "audio": "co/corrupt/corrupt__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəˈrʌpt/",
+        "audio": "co/corrupt/corrupt__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Latin corruptus, past participle of corrumpere ‘mar, bribe, destroy’, from cor- ‘altogether’ + rumpere ‘to break’."
+}

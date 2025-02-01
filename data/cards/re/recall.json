@@ -1,0 +1,186 @@
+{
+  "term": "recall",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "recall",
+      "heSheIt": "recalls"
+    },
+    "pastSimple": "recalled",
+    "pastParticiple": "recalled",
+    "ingForm": "recalling"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to remember something",
+      "sensetop": "recall somethingrecall doing somethingrecall somebody/something doing somethingrecall that…recall what, when, etc.recall + speech",
+      "labels": "(formal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She could not recall his name.",
+          "contextForm": "recall something"
+        },
+        {
+          "text": "Many years later Muir recalled his days at Glasgow University."
+        },
+        {
+          "text": "I cannot recall a time when the country faced such serious problems."
+        },
+        {
+          "text": "‘I may have; I don't recall,’ she said."
+        },
+        {
+          "text": "If I recall correctly, he lives in Luton."
+        },
+        {
+          "text": "I can't recall meeting her before.",
+          "contextForm": "recall doing something"
+        },
+        {
+          "text": "I vaguely recall seeing the film."
+        },
+        {
+          "text": "I seem to recall receiving an email from a reader a while ago."
+        },
+        {
+          "text": "I seem to recall him mentioning a brother once.",
+          "contextForm": "recall somebody/something doing something"
+        },
+        {
+          "text": "He recalled that she always came home late on Wednesdays.",
+          "contextForm": "recall that…"
+        },
+        {
+          "text": "She later recalled that she had met him once."
+        },
+        {
+          "text": "Can you recall exactly what happened?",
+          "contextForm": "recall what, when, etc."
+        },
+        {
+          "text": "I can vividly recall where and when I saw them."
+        },
+        {
+          "text": "‘It was on a Thursday in March,’ he recalled.",
+          "contextForm": "recall + speech"
+        },
+        {
+          "text": "Becky could still recall that first meeting clearly."
+        },
+        {
+          "text": "I am old enough now to wistfully recall moments of my youth."
+        },
+        {
+          "text": "I couldn't quite recall the date."
+        },
+        {
+          "text": "I recall reading in an interview that he loved to cook."
+        },
+        {
+          "text": "I seem to recall that she said she was going away."
+        },
+        {
+          "text": "I well recall walking the five miles to school every morning."
+        },
+        {
+          "text": "He could easily recall the smell of the orange groves."
+        },
+        {
+          "text": "She recalled how she would go for walks along the beach late at night."
+        }
+      ],
+      "synonyms": "recollect",
+      "collocations": {
+        "adverb": ["clearly", "distinctly", "vividly"],
+        "verb + recall": ["seem to", "be able to", "can"],
+        "phrases": [
+          "recall how…",
+          "recall seeing, reading, hearing, etc. something"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to make somebody think of something",
+      "sensetop": "recall something",
+      "examples": [
+        {
+          "text": "The poem recalls Eliot's ‘The Waste Land’."
+        }
+      ],
+      "synonyms": "evoke"
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to order somebody to return",
+      "sensetop": "recall somebodyrecall somebody to something",
+      "examples": [
+        {
+          "text": "Both countries recalled their ambassadors.",
+          "contextForm": "recall somebody"
+        },
+        {
+          "text": "He was recalled to military duty.",
+          "contextForm": "recall somebody to something"
+        },
+        {
+          "text": "They have both been recalled to the Welsh squad *(= selected as members of the team after a time when they were not selected)*."
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to ask for something to be returned, often because there is something wrong with it",
+      "sensetop": "recall something",
+      "examples": [
+        {
+          "text": "The company has recalled all the faulty hairdryers."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈkɔːl/",
+        "audio": "re/recall/recall__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈkɔːlz/",
+        "audio": "re/recall/recalls__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈkɔːld/",
+        "audio": "re/recall/recalled__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈkɔːlɪŋ/",
+        "audio": "re/recall/recalling__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈkɔːl/",
+        "audio": "re/recall/recall__us_1_rr.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈkɔːlz/",
+        "audio": "re/recall/recalls__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈkɔːld/",
+        "audio": "re/recall/recalled__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈkɔːlɪŋ/",
+        "audio": "re/recall/recalling__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 16th cent. (as a verb): from re- ‘again’ + call, suggested by Latin revocare or French rappeler ‘call back’."
+}

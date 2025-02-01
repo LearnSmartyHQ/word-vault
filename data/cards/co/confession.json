@@ -1,0 +1,127 @@
+{
+  "term": "confession",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a statement that a person makes, admitting that they are guilty of a crime; the act of making such a statement",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "After hours of questioning by police, she made a full confession."
+        },
+        {
+          "text": "His confession was extracted under torture."
+        },
+        {
+          "text": "It's difficult to believe it's a true confession after all her lies."
+        },
+        {
+          "text": "She made a false confession during the trial which she later retracted."
+        },
+        {
+          "text": "The court excluded the confession wrongly obtained by the police."
+        },
+        {
+          "text": "The police forced a confession out of him."
+        },
+        {
+          "text": "a confession from the prisoner"
+        },
+        {
+          "text": "a confession to murder"
+        },
+        {
+          "text": "a true confession of a terrible crime"
+        },
+        {
+          "text": "an alleged confession by the defendant"
+        }
+      ],
+      "topics": ["Crime and punishment"],
+      "collocations": {
+        "adjective": ["full", "public", "true"],
+        "verb + confession": ["make", "sign", "write"],
+        "preposition": ["confession by", "confession from", "confession of"],
+        "phrases": [
+          "force a confession out of somebody",
+          "get a confession out of somebody"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a statement admitting something that you are ashamed or embarrassed about; the act of making such a statement",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I've a confession to make—I lied about my age."
+        },
+        {
+          "text": "I have a confession to make. I read your private emails."
+        },
+        {
+          "text": "The government made open confession of its inability to cope with the crisis."
+        },
+        {
+          "text": "her shy confession of love"
+        }
+      ],
+      "synonyms": "admission",
+      "topics": ["Feelings"],
+      "collocations": {
+        "adjective": ["full", "public", "true"],
+        "verb + confession": ["make", "sign", "write"],
+        "preposition": ["confession by", "confession from", "confession of"],
+        "phrases": [
+          "force a confession out of somebody",
+          "get a confession out of somebody"
+        ]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a private statement to a priest about the bad things that you have done; an occasion when you make such a statement",
+      "examples": [
+        {
+          "text": "The priest heard her confession and granted absolution."
+        },
+        {
+          "text": "I used to go to confession every Saturday as a child."
+        }
+      ],
+      "collocations": {
+        "verb + confession": ["go to", "hear"],
+        "confession + noun": ["booth", "box"],
+        "phrases": ["an act of confession"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a statement of your religious beliefs, principles, etc.",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "a confession of faith"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kənˈfeʃn/",
+        "audio": "xc/confession/xconfession__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kənˈfeʃn/",
+        "audio": "xc/confession/xconfession__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: via Old French from Latin confessio(n-), from confiteri ‘acknowledge’, from con- (expressing intensive force) + fateri ‘declare, avow’."
+}

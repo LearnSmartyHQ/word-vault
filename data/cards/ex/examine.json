@@ -1,0 +1,190 @@
+{
+  "term": "examine",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "examine",
+      "heSheIt": "examines"
+    },
+    "pastSimple": "examined",
+    "pastParticiple": "examined",
+    "ingForm": "examining"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to consider or study an idea, a subject, etc. very carefully",
+      "sensetop": "examine somethingexamine how, what, etc…",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "This study sets out to **examine in detail** the possible effects of climate change.",
+          "contextForm": "examine something"
+        },
+        {
+          "text": "Her new show **critically examines** the relationship between the arts and popular culture."
+        },
+        {
+          "text": "This important issue must be **carefully examined**."
+        },
+        {
+          "text": "Only recently have historians begun to examine the impact and influence of these changes."
+        },
+        {
+          "text": "It is necessary to examine how the proposals can be carried out.",
+          "contextForm": "examine how, what, etc…"
+        },
+        {
+          "text": "The weather gave researchers an opportunity to examine what happens to insect numbers when temperatures rise."
+        },
+        {
+          "text": "These ideas will be examined in more detail in Chapter 10."
+        },
+        {
+          "text": "Critically examine your work as if you were looking at someone else's efforts."
+        },
+        {
+          "text": "He didn't even bother to examine the note."
+        },
+        {
+          "text": "She fails to examine the implications of such a development."
+        },
+        {
+          "text": "It is instructive to examine the data we have so far."
+        },
+        {
+          "text": "Let us examine the implications of this theory."
+        },
+        {
+          "text": "This claim needs to be examined separately."
+        },
+        {
+          "text": "We continue to examine new ways of doing business."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adverb": ["carefully", "closely", "in detail"],
+        "verb + examine": ["aim to", "attempt to", "be designed to"],
+        "preposition": ["for"],
+        "phrases": ["let us examine…"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to look at somebody/something closely, to see if there is anything wrong or to find the cause of a problem",
+      "sensetop": "examine somebody/somethingexamine yourselfexamine something/somebody for something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The doctor examined her carefully but could find nothing wrong.",
+          "contextForm": "examine somebody/something"
+        },
+        {
+          "text": "to be examined by a doctor/psychiatrist/specialist/vet"
+        },
+        {
+          "text": "She examined herself closely in the mirror.",
+          "contextForm": "examine yourself"
+        },
+        {
+          "text": "The samples were examined under the microscope for the presence of damaged cells.",
+          "contextForm": "examine something/somebody for something"
+        },
+        {
+          "text": "The goods were examined for damage on arrival."
+        },
+        {
+          "text": "Investigators examined the room minutely for clues."
+        }
+      ],
+      "topics": ["Healthcare"],
+      "collocations": {
+        "adverb": ["carefully", "closely", "in detail"],
+        "verb + examine": ["aim to", "attempt to", "be designed to"],
+        "preposition": ["for"],
+        "phrases": ["let us examine…"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to give somebody a test to see how much they know about a subject or what they can do",
+      "sensetop": "be examined in somethingbe examined on somethingbe examined",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The students will be examined in all subjects at the end of term.",
+          "contextForm": "be examined in something"
+        },
+        {
+          "text": "You are only being examined on this semester's work.",
+          "contextForm": "be examined on something"
+        },
+        {
+          "text": "The course is externally examined *(= arranged and marked by somebody from outside a school, a university or an organization)*.",
+          "contextForm": "be examined"
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to ask somebody questions formally, especially in court",
+      "sensetop": "examine somebody",
+      "labels": "(law)",
+      "examples": [
+        {
+          "text": "The prosecution examined 20 witnesses."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be crazy",
+      "labels": "(informal)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪɡˈzæmɪn/",
+        "audio": "ex/examine/examine__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪɡˈzæmɪnz/",
+        "audio": "ex/examine/examines__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪɡˈzæmɪnd/",
+        "audio": "ex/examine/examined__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪɡˈzæmɪnɪŋ/",
+        "audio": "ex/examine/examining__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪɡˈzæmɪn/",
+        "audio": "ex/examine/examine__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪɡˈzæmɪnz/",
+        "audio": "ex/examine/examines__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪɡˈzæmɪnd/",
+        "audio": "ex/examine/examined__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪɡˈzæmɪnɪŋ/",
+        "audio": "ex/examine/examining__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French examiner, from Latin examinare ‘weigh, test’, from examen ‘examination’."
+}

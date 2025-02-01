@@ -1,0 +1,128 @@
+{
+  "term": "evade",
+  "partOfSpeech": "verb",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "evade",
+      "heSheIt": "evades"
+    },
+    "pastSimple": "evaded",
+    "pastParticiple": "evaded",
+    "ingForm": "evading"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to escape from somebody/something or avoid meeting somebody",
+      "sensetop": "evade (doing) something",
+      "examples": [
+        {
+          "text": "For two weeks they evaded the press."
+        },
+        {
+          "text": "He managed to **evade capture**."
+        },
+        {
+          "text": "They narrowly evaded a police car which was approaching."
+        }
+      ],
+      "collocations": {
+        "adverb": ["narrowly", "successfully"],
+        "verb + evade": ["attempt to", "try to", "manage to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to find a way of not doing something, especially something that legally or morally you should do",
+      "sensetop": "evade (doing) something",
+      "examples": [
+        {
+          "text": "The defendant had tried to evade payment of taxes."
+        },
+        {
+          "text": "She is trying to **evade all responsibility** for her behaviour."
+        },
+        {
+          "text": "He never sought to evade his responsibilities."
+        }
+      ],
+      "collocations": {
+        "adverb": ["simply", "carefully", "neatly"],
+        "verb + evade": ["attempt to", "seek to", "try to"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to avoid dealing with or talking about something",
+      "sensetop": "evade somethingevade doing something",
+      "examples": [
+        {
+          "text": "Come on, don't you think you're **evading the issue**?",
+          "contextForm": "evade something"
+        },
+        {
+          "text": "to evade answering a question",
+          "contextForm": "evade doing something"
+        },
+        {
+          "text": "Her response was simply to evade the problem altogether."
+        }
+      ],
+      "collocations": {
+        "adverb": ["simply", "carefully", "neatly"],
+        "verb + evade": ["attempt to", "seek to", "try to"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to not come or happen to somebody",
+      "sensetop": "evade somebody",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The answer evaded him *(= he could not think of it)*."
+        }
+      ],
+      "synonyms": "elude"
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪˈveɪd/",
+        "audio": "ev/evade/evade__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈveɪdz/",
+        "audio": "ev/evade/evades__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈveɪdɪd/",
+        "audio": "ev/evade/evaded__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈveɪdɪŋ/",
+        "audio": "ev/evade/evading__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪˈveɪd/",
+        "audio": "ev/evade/evade__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈveɪdz/",
+        "audio": "ev/evade/evades__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈveɪdɪd/",
+        "audio": "ev/evade/evaded__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈveɪdɪŋ/",
+        "audio": "ev/evade/evading__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 15th cent.: from French évader, from Latin evadere from e- (variant of ex-) ‘out of’ + vadere ‘go’."
+}

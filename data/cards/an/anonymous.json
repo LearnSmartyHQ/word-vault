@@ -1,0 +1,66 @@
+{
+  "term": "anonymous",
+  "partOfSpeech": "adjective",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "with a name that is not known or that is not made public",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "an anonymous donor"
+        },
+        {
+          "text": "The money was donated by a local businessman who wishes to **remain anonymous**."
+        },
+        {
+          "text": "the largely anonymous perpetrators of terrorist acts"
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "become", "remain"],
+        "adverb": ["completely", "entirely", "totally"],
+        "phrases": ["prefer to remain anonymous", "wish to remain anonymous"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "written, given, made, etc. by somebody who does not want their name to be known or made public",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "an anonymous letter"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "without any unusual or interesting features",
+      "examples": [
+        {
+          "text": "long stretches of dull and anonymous countryside"
+        },
+        {
+          "text": "new housing estates with their anonymous tower blocks and large barren spaces"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈnɒnɪməs/",
+        "audio": "an/anonymous/anonymous__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈnɑːnɪməs/",
+        "audio": "an/anonymous/anonymous__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 16th cent.: via late Latin from Greek anōnumos ‘nameless’ (from an- ‘without’ + onoma ‘name’) + -ous."
+}

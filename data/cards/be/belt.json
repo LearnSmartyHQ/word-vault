@@ -1,0 +1,140 @@
+{
+  "term": "belt",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "image": "data/images/cl/clothes.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a long narrow piece of leather, cloth, etc. that you wear around the middle part of your body",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **do up/fasten/tighten a belt**"
+        },
+        {
+          "text": "a belt buckle"
+        },
+        {
+          "text": "a studded leather belt"
+        },
+        {
+          "text": "Around his waist he wore a belt."
+        }
+      ],
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adjective": ["narrow", "wide", "thick"],
+        "verb + belt": ["buckle", "do up", "fasten"],
+        "belt + noun": ["buckle", "loop", "holster"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a continuous band of material that moves round and is used to carry things along or to drive a machine",
+      "cefr": "c1",
+      "examples": [],
+      "topics": ["Engineering"],
+      "collocations": {
+        "adjective": ["conveyor", "drive", "fan"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a narrow area or an area around the edge of something that has particular characteristics",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "the country’s **corn/industrial belt**"
+        },
+        {
+          "text": "We live in the **commuter belt**."
+        },
+        {
+          "text": "a narrow belt of trees"
+        },
+        {
+          "text": "a belt of rain moving across the country"
+        },
+        {
+          "text": "Towns in the country's industrial belt were particularly affected by the recession."
+        }
+      ],
+      "topics": ["Geography"],
+      "collocations": {
+        "adjective": ["broad", "wide", "narrow"],
+        "preposition": ["belt of"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "an act of hitting something/somebody hard",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "She gave the ball a terrific belt."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "unfair or cruel",
+      "examples": [
+        {
+          "text": "That was distinctly below the belt!"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "taking more actions than are really necessary to make sure that something succeeds or works as it should",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "a belt-and-braces policy"
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to have already achieved or obtained something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "She already has a couple of good wins under her belt."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to spend less money because there is less available",
+      "examples": [
+        {
+          "text": "With price increases on most goods, everyone is having to tighten their belt."
+        },
+        {
+          "text": "There is a need for further belt-tightening."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/belt/",
+        "audio": "be/belt/belt__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/belt/",
+        "audio": "be/belt/belt__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English, of Germanic origin, from Latin balteus ‘girdle’."
+}

@@ -1,0 +1,79 @@
+{
+  "term": "slave",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a person who is owned by another person and is forced to work for and obey them",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "A **former slave**, he graduated from Claflin University in South Carolina."
+        },
+        {
+          "text": "She treated her daughter like a slave."
+        },
+        {
+          "text": "the slave trader Edward Colston"
+        },
+        {
+          "text": "freed slaves"
+        },
+        {
+          "text": "Prisoners of war were regularly sold as slaves."
+        }
+      ],
+      "collocations": {
+        "adjective": ["escaped", "fugitive", "runaway"],
+        "verb + slave": ["become", "have", "keep"],
+        "slave + noun": ["labour/​labor", "labourer/​laborer", "master"],
+        "preposition": ["slave of", "slave to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a person who is so strongly influenced by something that they cannot live without it, or cannot make their own decisions",
+      "sensetop": "slave of somethingslave to something",
+      "examples": [
+        {
+          "text": "We are slaves of the motor car.",
+          "contextForm": "slave of something"
+        },
+        {
+          "text": "Sue's a slave to fashion.",
+          "contextForm": "slave to something"
+        }
+      ],
+      "collocations": {
+        "adjective": ["escaped", "fugitive", "runaway"],
+        "verb + slave": ["become", "have", "keep"],
+        "slave + noun": ["labour/​labor", "labourer/​laborer", "master"],
+        "preposition": ["slave of", "slave to"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a device that is directly controlled by another one",
+      "labels": "(specialist)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/sleɪv/",
+        "audio": "sl/slave/slave__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/sleɪv/",
+        "audio": "sl/slave/slave__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: shortening of Old French esclave, equivalent of medieval Latin sclava (feminine) ‘Slavonic (captive)’: the Slavonic peoples had been reduced to a servile state by conquest in the 9th cent."
+}

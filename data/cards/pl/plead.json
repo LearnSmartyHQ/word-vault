@@ -1,0 +1,170 @@
+{
+  "term": "plead",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "plead",
+      "heSheIt": "pleads"
+    },
+    "pastSimple": "pleaded",
+    "pastParticiple": "pleaded",
+    "ingForm": "pleading"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to ask somebody for something in a very strong and serious way",
+      "sensetop": "plead (with somebody) (to do something)plead (with somebody) (for something)plead to do something+ speech",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She pleaded with him not to go.",
+          "contextForm": "plead (with somebody) (to do something)"
+        },
+        {
+          "text": "I was forced to plead for my child's life.",
+          "contextForm": "plead (with somebody) (for something)"
+        },
+        {
+          "text": "pleading eyes"
+        },
+        {
+          "text": "He pleaded to be allowed to see his mother one more time.",
+          "contextForm": "plead to do something"
+        },
+        {
+          "text": "‘Do something!’ she pleaded.",
+          "contextForm": "+ speech"
+        },
+        {
+          "text": "His eyes silently pleaded with her."
+        },
+        {
+          "text": "The teacher was today desperately pleading for news of her son who has disappeared."
+        },
+        {
+          "text": "They pleaded for mercy."
+        }
+      ],
+      "synonyms": "beg",
+      "collocations": {
+        "adverb": ["almost", "silently", "successfully"],
+        "preposition": ["for", "with"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to state in court that you are guilty or not guilty of a crime",
+      "sensetop": "(+ adj.)plead something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "to **plead guilty/not guilty**",
+          "contextForm": "(+ adj.)"
+        },
+        {
+          "text": "How do you plead? *(= said by the judge at the start of the trial)*"
+        },
+        {
+          "text": "The accused was deemed unfit to plead."
+        },
+        {
+          "text": "He tried to plead insanity *(= say that he was seriously mentally ill and therefore not responsible for his actions)* but the court convicted him.",
+          "contextForm": "plead something"
+        }
+      ],
+      "topics": ["Law and justice"],
+      "collocations": {
+        "phrases": ["plead guilty", "plead not guilty"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to present a case to a court",
+      "sensetop": "plead something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "They hired a top lawyer to plead their case."
+        }
+      ],
+      "topics": ["Law and justice"]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to argue in support of somebody/something",
+      "sensetop": "plead somethingplead for somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She appeared on television to plead the cause of political prisoners everywhere.",
+          "contextForm": "plead something"
+        },
+        {
+          "text": "The United Nations has pleaded for a halt to the bombing.",
+          "contextForm": "plead for somebody/something"
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to give something as an explanation or excuse for something",
+      "sensetop": "plead something (for something)plead that…",
+      "examples": [
+        {
+          "text": "He pleaded family problems for his lack of concentration."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pliːd/",
+        "audio": "pl/plead/plead__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/pliːdz/",
+        "audio": "pl/plead/pleads__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈpliːdɪd/",
+        "audio": "pl/plead/pleaded__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/pled/",
+        "audio": "pl/plead/pled__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈpliːdɪŋ/",
+        "audio": "pl/plead/pleading__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pliːd/",
+        "audio": "pl/plead/plead__us_1.mp3"
+      },
+      {
+        "pronunciation": "/pliːdz/",
+        "audio": "pl/plead/pleads__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈpliːdɪd/",
+        "audio": "pl/plead/pleaded__us_1.mp3"
+      },
+      {
+        "pronunciation": "/pled/",
+        "audio": "pl/plead/pled__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈpliːdɪŋ/",
+        "audio": "pl/plead/pleading__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (in the sense ‘to wrangle’): from Old French plaidier ‘go to law’, from plaid ‘discussion’, from Latin placitum ‘a decree’, neuter past participle of placere ‘to please’."
+}

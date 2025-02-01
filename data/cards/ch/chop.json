@@ -1,0 +1,134 @@
+{
+  "term": "chop",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "b2",
+  "image": "data/images/fo/food_preparation.png",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "chop",
+      "heSheIt": "chops"
+    },
+    "pastSimple": "chopped",
+    "pastParticiple": "chopped",
+    "ingForm": "chopping"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to cut something into pieces with a sharp tool such as a knife",
+      "sensetop": "chop somethingchop something (up) (into something)",
+      "labels": "(figurative)(British English)(North American English)(British English)(North American English)(especially North American English)(British English)(British English)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "He was chopping logs for firewood.",
+          "contextForm": "chop something"
+        },
+        {
+          "text": "Add the finely chopped onions."
+        },
+        {
+          "text": "Chop the carrots up into small pieces.",
+          "contextForm": "chop something (up) (into something)"
+        },
+        {
+          "text": "The country was chopped up into small administrative areas."
+        },
+        {
+          "text": "Add finely chopped parsley."
+        },
+        {
+          "text": "Chop the meat into small cubes."
+        },
+        {
+          "text": "I spent the day chopping up vegetables."
+        },
+        {
+          "text": "Roughly chop the cabbage."
+        },
+        {
+          "text": "The furniture had been chopped to pieces."
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adverb": ["finely", "coarsely", "roughly"],
+        "preposition": ["into"],
+        "phrases": ["chop something to pieces"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to suddenly stop providing or allowing something; to suddenly reduce something by a large amount",
+      "sensetop": "be choppedbe chopped from something to something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Their training courses are to be chopped.",
+          "contextForm": "be chopped"
+        },
+        {
+          "text": "The share price was chopped from 50 pence to 20 pence.",
+          "contextForm": "be chopped from something to something"
+        }
+      ],
+      "synonyms": "cut"
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to hit somebody/something downwards with a quick, short movement",
+      "sensetop": "chop somebody/something",
+      "examples": [
+        {
+          "text": "Guzman tried to chop the ball on the ground and use his speed."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to keep changing your mind or what you are doing",
+      "labels": "(British English, informal)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/tʃɒp/",
+        "audio": "ch/chop/chop__gb_6.mp3"
+      },
+      {
+        "pronunciation": "/tʃɒps/",
+        "audio": "ch/chop/chops__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/tʃɒpt/",
+        "audio": "ch/chop/chopped__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtʃɒpɪŋ/",
+        "audio": "ch/chop/chopping__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/tʃɑːp/",
+        "audio": "ch/chop/chop__us_1.mp3"
+      },
+      {
+        "pronunciation": "/tʃɑːps/",
+        "audio": "ch/chop/chops__us_2.mp3"
+      },
+      {
+        "pronunciation": "/tʃɑːpt/",
+        "audio": "ch/chop/chopped__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtʃɑːpɪŋ/",
+        "audio": "ch/chop/chopping__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "verb late Middle English: variant of chap. chop and change. late Middle English (in the sense ‘barter, exchange’): perhaps related to Old English cēap ‘bargaining, trade’; compare with chap- in chapman, pedlar."
+}

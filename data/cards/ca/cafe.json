@@ -1,0 +1,60 @@
+{
+  "term": "cafe",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/ci/city.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a place where you can buy drinks and simple meals. Alcohol is not usually served in British or American cafes.",
+      "sensetop": "at a cafein a cafe",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "There are small shops and pavement cafes around every corner."
+        },
+        {
+          "text": "an outdoor cafe serving drinks and light meals"
+        },
+        {
+          "text": "They were having lunch at a cafe near the station.",
+          "contextForm": "at a cafe"
+        },
+        {
+          "text": "We stopped for a coffee in our favourite cafe.",
+          "contextForm": "in a cafe"
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adjective": ["pavement", "sidewalk", "transport"],
+        "verb + cafe": ["eat at", "frequent", "go to"],
+        "cafe + verb": ["serve something"],
+        "preposition": ["in a/​the cafe"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a small shop that sells sweets, newspapers, food, etc. and usually stays open later than other shops",
+      "labels": "(South African English)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkæfeɪ/",
+        "audio": "ca/cafe/cafe__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kæˈfeɪ/",
+        "audio": "ca/cafe/cafe__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 19th cent.: from French café ‘coffee or coffee house’."
+}

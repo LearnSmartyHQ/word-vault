@@ -1,0 +1,85 @@
+{
+  "term": "excel",
+  "partOfSpeech": "verb",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "excel",
+      "heSheIt": "excels"
+    },
+    "pastSimple": "excelled",
+    "pastParticiple": "excelled",
+    "ingForm": "excelling"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to be very good at doing something",
+      "sensetop": "excel (in/at something)excel (at doing something)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "She has always excelled in foreign languages.",
+          "contextForm": "excel (in/at something)"
+        },
+        {
+          "text": "As a child he excelled at music and art."
+        },
+        {
+          "text": "The team excels at turning defence into attack.",
+          "contextForm": "excel (at doing something)"
+        }
+      ],
+      "topics": ["Personal qualities"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to do extremely well and even better than you usually do",
+      "sensetop": "excel yourself",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "Rick's cooking was always good, but this time he really excelled himself."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪkˈsel/",
+        "audio": "ex/excel/excel__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪkˈselz/",
+        "audio": "ex/excel/excels__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪkˈseld/",
+        "audio": "ex/excel/excelled__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪkˈselɪŋ/",
+        "audio": "ex/excel/excelling__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪkˈsel/",
+        "audio": "ex/excel/excel__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪkˈselz/",
+        "audio": "ex/excel/excels__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪkˈseld/",
+        "audio": "ex/excel/excelled__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪkˈselɪŋ/",
+        "audio": "ex/excel/excelling__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin excellere, from ex- ‘out, beyond’ + celsus ‘lofty’."
+}

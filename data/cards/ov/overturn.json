@@ -1,0 +1,106 @@
+{
+  "term": "overturn",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "overturn",
+      "heSheIt": "overturns"
+    },
+    "pastSimple": "overturned",
+    "pastParticiple": "overturned",
+    "ingForm": "overturning"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "if something overturns, or if somebody overturns it, it turns into a position in which the top of it is where the bottom of it normally is or on its side",
+      "sensetop": "overturn something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The car skidded and overturned."
+        },
+        {
+          "text": "He stood up quickly, overturning his chair.",
+          "contextForm": "overturn something"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to officially decide that a legal decision, etc. is not correct, and to make it no longer legally recognized",
+      "sensetop": "overturn something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "to **overturn a decision/conviction/verdict**"
+        },
+        {
+          "text": "His sentence was overturned by the appeal court."
+        },
+        {
+          "text": "He hopes that councillors will overturn the decision."
+        }
+      ],
+      "topics": ["Preferences and decisions", "Law and justice"],
+      "collocations": {
+        "adverb": ["completely"],
+        "verb + overturn": ["seek to", "try to", "fail to"],
+        "phrases": ["be easily overturned"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to show that a belief or an idea is not correct",
+      "examples": [
+        {
+          "text": "She completely overturned my preconceptions about film stars."
+        },
+        {
+          "text": "This argument seems convincing, but is easily overturned."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌəʊvəˈtɜːn/",
+        "audio": "ov/overturn/overturn__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌəʊvəˈtɜːnz/",
+        "audio": "ov/overturn/overturns__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌəʊvəˈtɜːnd/",
+        "audio": "ov/overturn/overturned__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌəʊvəˈtɜːnɪŋ/",
+        "audio": "ov/overturn/overturning__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌəʊvərˈtɜːrn/",
+        "audio": "ov/overturn/overturn__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌəʊvərˈtɜːrnz/",
+        "audio": "ov/overturn/overturns__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌəʊvərˈtɜːrnd/",
+        "audio": "ov/overturn/overturned__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌəʊvərˈtɜːrnɪŋ/",
+        "audio": "ov/overturn/overturning__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

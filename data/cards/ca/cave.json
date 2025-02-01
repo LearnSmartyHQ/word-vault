@@ -1,0 +1,58 @@
+{
+  "term": "cave",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "image": "data/images/co/coast.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a large hole in the side of a hill or cliff or under the ground",
+      "examples": [
+        {
+          "text": "the mouth *(= the entrance)* of the cave"
+        },
+        {
+          "text": "The area contains vast underground cave systems."
+        },
+        {
+          "text": "a **cave-dweller** *(= a person who lives in a )"
+        },
+        {
+          "text": "We took shelter in a dark cave."
+        },
+        {
+          "text": "a collapsed limestone cave"
+        }
+      ],
+      "topics": ["Geography"],
+      "collocations": {
+        "adjective": ["deep", "large", "shallow"],
+        "verb + cave": ["explore"],
+        "cave + verb": ["collapse"],
+        "cave + noun": ["ceiling", "entrance", "floor"],
+        "preposition": ["in a/​the cave"],
+        "phrases": [
+          "the ceiling of a cave",
+          "the floor of a cave",
+          "the roof of a cave"
+        ]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/keɪv/",
+        "audio": "ca/cave/cave__gb_4.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/keɪv/",
+        "audio": "ca/cave/cave__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French, from Latin cava, from cavus ‘hollow’ (compare with cavern). The usage cave in may be from the synonymous dialect expression calve in, influenced by obsolete cave ‘excavate, hollow out’."
+}

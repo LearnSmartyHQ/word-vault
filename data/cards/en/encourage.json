@@ -1,0 +1,188 @@
+{
+  "term": "encourage",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "encourage",
+      "heSheIt": "encourages"
+    },
+    "pastSimple": "encouraged",
+    "pastParticiple": "encouraged",
+    "ingForm": "encouraging"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to give somebody support, courage or hope",
+      "sensetop": "encourage somebodyencourage somebody in something+ speech",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We were greatly encouraged by the positive response of the public.",
+          "contextForm": "encourage somebody"
+        },
+        {
+          "text": "She encouraged many young writers and artists."
+        },
+        {
+          "text": "My parents have always encouraged me in my choice of career.",
+          "contextForm": "encourage somebody in something"
+        },
+        {
+          "text": "‘You're doing fine,’ he encouraged them.",
+          "contextForm": "+ speech"
+        },
+        {
+          "text": "She especially encouraged young scientists."
+        },
+        {
+          "text": "We were greatly encouraged by the support we received."
+        }
+      ],
+      "collocations": {
+        "adverb": ["greatly", "highly", "strongly"],
+        "verb + encourage": ["aim to", "try to", "want to"],
+        "preposition": ["in"],
+        "phrases": [
+          "an attempt to encourage something",
+          "an effort to encourage something"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to persuade somebody to do something by making it easier for them and making them believe it is a good thing to do",
+      "sensetop": "encourage somebody to do somethingencourage (doing) something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Banks **actively encouraged** people to borrow money.",
+          "contextForm": "encourage somebody to do something"
+        },
+        {
+          "text": "I **strongly encourage** everyone to go and see this important film."
+        },
+        {
+          "text": "Speaking your mind is highly encouraged at these sessions.",
+          "contextForm": "encourage (doing) something"
+        },
+        {
+          "text": "The aim of the campaign is to encourage youngsters to become involved in grassroots sport."
+        },
+        {
+          "text": "The new measures are designed to encourage more people to cycle."
+        }
+      ],
+      "topics": ["Discussion and agreement"],
+      "collocations": {
+        "adverb": ["greatly", "highly", "strongly"],
+        "verb + encourage": ["aim to", "try to", "want to"],
+        "preposition": ["in"],
+        "phrases": [
+          "an attempt to encourage something",
+          "an effort to encourage something"
+        ]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to make something more likely to happen or develop",
+      "sensetop": "encourage somethingencourage something in somebody/somethingencourage somebody to do something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "There is a clear case for spending public money on **encouraging participation** in sport.",
+          "contextForm": "encourage something"
+        },
+        {
+          "text": "to **encourage development/investment/growth**"
+        },
+        {
+          "text": "The government should **encourage the use** of renewable energy sources."
+        },
+        {
+          "text": "They claim that some computer games encourage violent behaviour in young children.",
+          "contextForm": "encourage something in somebody/something"
+        },
+        {
+          "text": "Music and lighting are used to encourage shoppers to buy more.",
+          "contextForm": "encourage somebody to do something"
+        },
+        {
+          "text": "The government must actively encourage investment in these areas."
+        },
+        {
+          "text": "We want a company culture that welcomes ideas and encourages innovation."
+        },
+        {
+          "text": "These questions are designed to encourage debate."
+        },
+        {
+          "text": "Do toy guns encourage aggression?"
+        },
+        {
+          "text": "Programmes like this just encourage stereotyping."
+        },
+        {
+          "text": "The treaty is aimed at encouraging cooperation between Member States."
+        },
+        {
+          "text": "We're looking at ways to encourage recycling."
+        }
+      ],
+      "collocations": {
+        "adverb": ["greatly", "highly", "strongly"],
+        "verb + encourage": ["aim to", "try to", "want to"],
+        "preposition": ["in"],
+        "phrases": [
+          "an attempt to encourage something",
+          "an effort to encourage something"
+        ]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈkʌrɪdʒ/",
+        "audio": "en/encourage/encourage__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkʌrɪdʒɪz/",
+        "audio": "en/encourage/encourages__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkʌrɪdʒd/",
+        "audio": "en/encourage/encouraged__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkʌrɪdʒɪŋ/",
+        "audio": "en/encourage/encouraging__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈkɜːrɪdʒ/",
+        "audio": "en/encourage/encourage__us_4.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkɜːrɪdʒɪz/",
+        "audio": "en/encourage/encourages__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkɜːrɪdʒd/",
+        "audio": "en/encourage/encouraged__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkɜːrɪdʒɪŋ/",
+        "audio": "en/encourage/encouraging__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (formerly also as incourage): from French encourager, from en- ‘in’ + corage ‘courage’."
+}

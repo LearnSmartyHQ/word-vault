@@ -1,0 +1,204 @@
+{
+  "term": "arrival",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "an act of coming or being brought to a place",
+      "sensetop": "on/upon arrival",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We apologize for the late arrival of the train."
+        },
+        {
+          "text": "the arrival of the mail in the morning"
+        },
+        {
+          "text": "Our estimated time of arrival is 7.15."
+        },
+        {
+          "text": "I need to check our arrival time."
+        },
+        {
+          "text": "Guests receive dinner on arrival at the hotel.",
+          "contextForm": "on/upon arrival"
+        },
+        {
+          "text": "She was declared dead on arrival at the hospital."
+        },
+        {
+          "text": "There are 120 **arrivals and departures** every day."
+        },
+        {
+          "text": "daily arrivals of new patients"
+        },
+        {
+          "text": "They are eagerly **awaiting the arrival** of their new computer."
+        },
+        {
+          "text": "Security escorts will ensure their safe arrival."
+        },
+        {
+          "text": "The staff greeted the arrival of the new boss with excitement."
+        },
+        {
+          "text": "The timely arrival of the police put an end to the argument before it could become violent."
+        },
+        {
+          "text": "They were saved by the arrival on the scene of another boat."
+        },
+        {
+          "text": "With the arrival of John's friends, the party became really enjoyable."
+        },
+        {
+          "text": "A frost in the air marked the arrival of winter."
+        },
+        {
+          "text": "A rainstorm greeted our arrival."
+        },
+        {
+          "text": "He met her soon after his arrival in Scotland."
+        },
+        {
+          "text": "Her arrival was a complete surprise."
+        },
+        {
+          "text": "News spread of the imminent arrival of the detective."
+        },
+        {
+          "text": "The princess's unexpected arrival threw catering staff into a panic."
+        },
+        {
+          "text": "The sound of the doorbell announced her arrival."
+        }
+      ],
+      "topics": ["Transport by air"],
+      "collocations": {
+        "adjective": ["early", "late", "on-time"],
+        "verb + arrival": ["make", "announce", "herald"],
+        "arrival + noun": ["date", "time"],
+        "preposition": [
+          "on (somebody’s) arrival",
+          "upon (somebody’s) arrival",
+          "with the arrival"
+        ],
+        "phrases": [
+          "arrival on the scene",
+          "arrivals and departures",
+          "time of arrival"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the part of an airport that you go through when you arrive on a plane",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I made my way through arrivals."
+        }
+      ],
+      "topics": ["Transport by air"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a person or thing that comes to a place",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The first arrivals at the concert got the best seats."
+        },
+        {
+          "text": "**early/late/new arrivals**"
+        },
+        {
+          "text": "We're expecting **a new arrival** *(= a baby)* in the family soon."
+        },
+        {
+          "text": "We are delighted to welcome two new arrivals to the firm this month."
+        },
+        {
+          "text": "I was a new arrival in the country then."
+        },
+        {
+          "text": "There were plenty of jobs for arrivals from other areas."
+        },
+        {
+          "text": "The first arrivals are going through immigration control now."
+        },
+        {
+          "text": "The family are recent arrivals from South Africa."
+        },
+        {
+          "text": "Somebody needs to be here to greet the late arrivals."
+        }
+      ],
+      "collocations": {
+        "adjective": ["early", "first", "late"],
+        "verb + arrival": ["meet", "welcome"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "the time when a new technology or idea is introduced",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the arrival of pay TV"
+        }
+      ]
+    },
+    {
+      "senseNumber": 1,
+      "definition": "(of an accident victim or other patient) already dead when arriving at a hospital",
+      "examples": [
+        {
+          "text": "She was pronounced dead on arrival."
+        },
+        {
+          "text": "He didn’t even make it to hospital: DOA."
+        },
+        {
+          "text": "Many of the casualties were dead on arrival."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "very unlikely to be successful; not working when it is delivered",
+      "labels": "(North American English, informal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The bill was dead on arrival in the Senate."
+        },
+        {
+          "text": "The software was DOA."
+        }
+      ],
+      "topics": ["Difficulty and failure"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈraɪvl/",
+        "audio": "ar/arrival/arrival__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈraɪvl/",
+        "audio": "ar/arrival/arrival__us_3.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Anglo-Norman French arrivaille, from Old French arriver, based on Latin ad- ‘to’ + ripa ‘shore’."
+}

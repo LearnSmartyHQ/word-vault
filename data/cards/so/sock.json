@@ -1,0 +1,97 @@
+{
+  "term": "sock",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "image": "data/images/cl/clothes_misc.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a piece of clothing that is worn over the foot, ankle and lower part of the leg, especially inside a shoe",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **pair of socks**"
+        },
+        {
+          "text": "I never **wear socks**."
+        },
+        {
+          "text": "He had odd socks on, one red and one yellow."
+        },
+        {
+          "text": "John sat down and took off his shoes and socks."
+        },
+        {
+          "text": "Wear cotton socks indoors to protect your feet from the cold."
+        },
+        {
+          "text": "The children all wore white knee socks."
+        },
+        {
+          "text": "tube socks (= socks without a shaped heel)"
+        }
+      ],
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adjective": ["knee", "knee-high", "long"],
+        "… of socks": ["pair"],
+        "verb + sock": ["pull on", "pull up", "pull off"],
+        "sock + noun": ["drawer", "puppet"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a hard hit, especially with the fist",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "He gave him a sock on the jaw."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to surprise or impress somebody very much",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Feelings"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to try to improve your performance, work, behaviour, etc.",
+      "labels": "(British English, informal)",
+      "examples": [
+        {
+          "text": "You're going to have to pull your socks up."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to tell somebody to stop talking or making a noise",
+      "labels": "(old-fashioned, British English, informal)",
+      "examples": [
+        {
+          "text": "Can't you put a sock in it? I'm trying to work."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/sɒk/",
+        "audio": "so/sock/sock__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/sɑːk/",
+        "audio": "so/sock/sock__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English socc ‘light shoe’, of Germanic origin, from Latin soccus ‘comic actor's shoe, light low-heeled slipper’, from Greek sukkhos."
+}

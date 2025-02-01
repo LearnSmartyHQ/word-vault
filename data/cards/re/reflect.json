@@ -1,0 +1,237 @@
+{
+  "term": "reflect",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "reflect",
+      "heSheIt": "reflects"
+    },
+    "pastSimple": "reflected",
+    "pastParticiple": "reflected",
+    "ingForm": "reflecting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to show the image of somebody/something on the surface of something such as a mirror, water or glass",
+      "sensetop": "be reflected (in something)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "His face was reflected in the mirror.",
+          "contextForm": "be reflected (in something)"
+        },
+        {
+          "text": "She looked into the water and saw her face reflected there."
+        },
+        {
+          "text": "She could see herself reflected in his eyes."
+        }
+      ],
+      "collocations": {
+        "adverb": ["dimly", "dully", "directly"],
+        "preposition": ["from", "off"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to throw back light, heat, sound, etc. from a surface",
+      "sensetop": "reflect somethingreflect something + adv./prep.reflect + adv./prep.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The windows reflected the bright afternoon sunlight.",
+          "contextForm": "reflect something"
+        },
+        {
+          "text": "This material absorbs the sound, and doesn’t reflect it."
+        },
+        {
+          "text": "When the sun's rays hit the earth, a lot of the heat is reflected back into space.",
+          "contextForm": "reflect something + adv./prep."
+        },
+        {
+          "text": "The sun reflected dully off the stone walls.",
+          "contextForm": "reflect + adv./prep."
+        },
+        {
+          "text": "Light reflects directly off a face of a crystal."
+        },
+        {
+          "text": "The screen reflects light from the sun."
+        }
+      ],
+      "topics": ["Physics and chemistry"],
+      "collocations": {
+        "adverb": ["dimly", "dully", "directly"],
+        "preposition": ["from", "off"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to show or be a sign of the nature of something or of somebody’s attitude or feeling",
+      "sensetop": "reflect something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Our newspaper aims to **reflect the views** of the local community."
+        },
+        {
+          "text": "His music reflects his interest in African culture."
+        },
+        {
+          "text": "This year's figures simply **reflect the fact** that we have fewer people out of work."
+        },
+        {
+          "text": "Does popular culture **reflect reality** or distort it?"
+        },
+        {
+          "text": "They are constantly revising the dictionary to **reflect changes** in language."
+        },
+        {
+          "text": "Her remarks **accurately reflect** the views of most of us."
+        },
+        {
+          "text": "Senegalese culture strongly reflects influences from Islamic rulers."
+        },
+        {
+          "text": "The condition of the house is reflected in its low price."
+        },
+        {
+          "text": "The exhibition is designed to reflect the diversity of the nation and its regions."
+        },
+        {
+          "text": "The punishment should adequately reflect the revulsion felt by most people for this appalling crime."
+        },
+        {
+          "text": "The views expressed in this article do not necessarily reflect those of the editor."
+        },
+        {
+          "text": "Her face reflected the power of her feelings."
+        },
+        {
+          "text": "The story reflects very modern concerns and issues."
+        },
+        {
+          "text": "Schools need to reflect the increasing cultural diversity of modern society."
+        }
+      ],
+      "collocations": {
+        "adverb": ["clearly", "directly", "accurately"],
+        "verb + reflect": ["be designed to"],
+        "preposition": ["in"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to think carefully and deeply about something",
+      "sensetop": "reflect on/upon somethingreflect that…reflect how, what, etc…+ speech",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Before I decide, I need time to reflect."
+        },
+        {
+          "text": "She was left to reflect on the implications of her decision.",
+          "contextForm": "reflect on/upon something"
+        },
+        {
+          "text": "William had little time to reflect upon these episodes."
+        },
+        {
+          "text": "On the way home he reflected that the interview had gone well.",
+          "contextForm": "reflect that…"
+        },
+        {
+          "text": "She reflected how different it could have been.",
+          "contextForm": "reflect how, what, etc…"
+        },
+        {
+          "text": "‘It could all have been so different,’ she reflected.",
+          "contextForm": "+ speech"
+        },
+        {
+          "text": "He reflected ruefully that his money didn't buy as much as it used to"
+        },
+        {
+          "text": "One good thing, he reflected wryly, was that none of his colleagues would find out."
+        },
+        {
+          "text": "She paused to reflect on what she had achieved."
+        },
+        {
+          "text": "an opportune time to reflect critically on the city's past"
+        },
+        {
+          "text": "I paused to reflect how I would answer that question."
+        }
+      ],
+      "collocations": {
+        "adverb": ["bitterly", "ruefully", "wryly"],
+        "verb + reflect": ["pause to", "leave somebody to"],
+        "preposition": ["on", "upon"],
+        "phrases": ["time to reflect"]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "to make somebody/something appear to be good, bad, etc. to other people",
+      "examples": [
+        {
+          "text": "This incident reflects badly on everyone involved."
+        },
+        {
+          "text": "This kind of conduct reflects very poorly on you."
+        },
+        {
+          "text": "information that may reflect negatively on research participants"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈflekt/",
+        "audio": "re/reflect/reflect__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈflekts/",
+        "audio": "re/reflect/reflects__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈflektɪd/",
+        "audio": "re/reflect/reflected__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈflektɪŋ/",
+        "audio": "re/reflect/reflecting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈflekt/",
+        "audio": "re/reflect/reflect__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈflekts/",
+        "audio": "re/reflect/reflects__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈflektɪd/",
+        "audio": "re/reflect/reflected__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈflektɪŋ/",
+        "audio": "re/reflect/reflecting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French reflecter or Latin reflectere, from re- ‘back’ + flectere ‘to bend’."
+}

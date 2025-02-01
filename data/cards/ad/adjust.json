@@ -1,0 +1,156 @@
+{
+  "term": "adjust",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "adjust",
+      "heSheIt": "adjusts"
+    },
+    "pastSimple": "adjusted",
+    "pastParticiple": "adjusted",
+    "ingForm": "adjusting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to change something slightly to make it more suitable for a new set of conditions or to make it work better",
+      "sensetop": "adjust somethingadjust something to something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Watch out for sharp bends and adjust your speed accordingly.",
+          "contextForm": "adjust something"
+        },
+        {
+          "text": "This button is for adjusting the volume."
+        },
+        {
+          "text": "The brakes need to be adjusted."
+        },
+        {
+          "text": "Adjust your language to the age of your audience.",
+          "contextForm": "adjust something to something"
+        },
+        {
+          "text": "It is important to have equipment that can be finely adjusted."
+        },
+        {
+          "text": "This estimate may have to be adjusted downwards."
+        },
+        {
+          "text": "Salaries are adjusted for inflation."
+        },
+        {
+          "text": "Children are sensitive to family attitudes and adjust their attitudes accordingly."
+        }
+      ],
+      "collocations": {
+        "adverb": ["slightly", "finely", "automatically"],
+        "preposition": ["for"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to get used to a new situation by changing the way you behave and/or think",
+      "sensetop": "adjust to somethingadjust to doing somethingadjust yourself to something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "They'll be fine—they just need time to adjust."
+        },
+        {
+          "text": "After a while his eyes adjusted to the dark.",
+          "contextForm": "adjust to something"
+        },
+        {
+          "text": "It took her a while to adjust to living alone.",
+          "contextForm": "adjust to doing something"
+        },
+        {
+          "text": "It can be difficult to adjust to being a parent."
+        },
+        {
+          "text": "You'll quickly adjust yourself to student life.",
+          "contextForm": "adjust yourself to something"
+        },
+        {
+          "text": "My eyes were still trying to adjust themselves to the strong sunlight."
+        },
+        {
+          "text": "She will gradually adjust to her new role."
+        },
+        {
+          "text": "It may take a little time to adjust to the climate here."
+        }
+      ],
+      "synonyms": "adapt",
+      "collocations": {
+        "adverb": ["quickly", "rapidly", "gradually"],
+        "verb + adjust": ["be difficult to", "be hard to", "need time to"],
+        "preposition": ["to"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to move something slightly so that it looks neater or feels more comfortable",
+      "sensetop": "adjust something",
+      "examples": [
+        {
+          "text": "He smoothed his hair and adjusted his tie."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to acknowledge and apologize for something that causes problems or difficulties and ask people to accept and adapt to the situation",
+      "labels": "(Indian English)",
+      "examples": [
+        {
+          "text": "The store will be closed this afternoon due to staffing shortages. Kindly adjust."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈdʒʌst/",
+        "audio": "ad/adjust/adjust__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/əˈdʒʌsts/",
+        "audio": "ad/adjust/adjusts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈdʒʌstɪd/",
+        "audio": "ad/adjust/adjusted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈdʒʌstɪŋ/",
+        "audio": "ad/adjust/adjusting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈdʒʌst/",
+        "audio": "ad/adjust/adjust__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈdʒʌsts/",
+        "audio": "ad/adjust/adjusts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈdʒʌstɪd/",
+        "audio": "ad/adjust/adjusted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈdʒʌstɪŋ/",
+        "audio": "ad/adjust/adjusting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 17th cent. (in the senses ‘harmonize discrepancies’ and ‘assess loss or damages’): from obsolete French adjuster, from Old French ajoster ‘to approximate’, based on Latin ad- ‘to’ + juxta ‘near’."
+}

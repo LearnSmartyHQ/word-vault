@@ -1,0 +1,106 @@
+{
+  "term": "pause",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "pause",
+      "heSheIt": "pauses"
+    },
+    "pastSimple": "paused",
+    "pastParticiple": "paused",
+    "ingForm": "pausing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to stop talking or doing something for a short time before continuing",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Anita paused for a moment, then said: ‘All right’."
+        },
+        {
+          "text": "The woman spoke almost without **pausing for breath** *(= very quickly)*."
+        },
+        {
+          "text": "I paused at the door and looked back."
+        },
+        {
+          "text": "**Pausing only to** pull on a sweater, he ran out of the house."
+        },
+        {
+          "text": "Just pause to think before giving me your answer."
+        },
+        {
+          "text": "She paused a moment and then walked away."
+        },
+        {
+          "text": "She paused occasionally to smell the flowers."
+        },
+        {
+          "text": "Without pausing to knock, she opened the door."
+        }
+      ],
+      "collocations": {
+        "adverb": ["briefly", "(for) a moment", "momentarily"],
+        "phrases": [
+          "pause for breath",
+          "pause for thought",
+          "pause only long enough to do something"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to stop a video, etc. for a short time using the pause button",
+      "sensetop": "pause something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "She paused the movie to go and answer the door."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pɔːz/",
+        "audio": "pa/pause/pause__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈpɔːzɪz/",
+        "audio": "pa/pause/pauses__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/pɔːzd/",
+        "audio": "pa/pause/paused__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈpɔːzɪŋ/",
+        "audio": "pa/pause/pausing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pɔːz/",
+        "audio": "pa/pause/pause__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈpɔːzɪz/",
+        "audio": "pa/pause/pauses__us_1.mp3"
+      },
+      {
+        "pronunciation": "/pɔːzd/",
+        "audio": "pa/pause/paused__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈpɔːzɪŋ/",
+        "audio": "pa/pause/pausing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French, from Latin pausa, from Greek pausis, from pausein ‘to stop’."
+}

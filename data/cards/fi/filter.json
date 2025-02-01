@@ -1,0 +1,87 @@
+{
+  "term": "filter",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "image": "data/images/fi/filters.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a device containing paper, sand, chemicals, etc. that a liquid or gas is passed through in order to remove any materials that are not wanted",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "an **air/oil filter**"
+        },
+        {
+          "text": "a **coffee/water filter**"
+        },
+        {
+          "text": "**filter paper** for the coffee machine"
+        }
+      ],
+      "topics": ["Scientific research"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a device that allows only particular types of light or sound to pass through it",
+      "examples": [
+        {
+          "text": "The camera has an anti-glare filter."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a program that processes information to leave out the types that are not wanted, or that stops particular types of electronic information, email, etc. from being sent to a computer",
+      "labels": "(computing)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "When you do a search, there are filters for size and brand."
+        },
+        {
+          "text": "**Spam filters** block out almost all threats."
+        }
+      ],
+      "topics": ["Phones, email and the internet"]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a tool on digital cameras, photo apps, etc. that allows you to change the appearance of an image",
+      "labels": "(computing)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The software allows you to apply filters, remove blemishes and add text to your images."
+        }
+      ],
+      "topics": ["Computers"]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "a light on a set of traffic lights showing that traffic can turn left (or right) while traffic that wants to go straight ahead or turn right (or left) must wait",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "a filter lane"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfɪltə(r)/",
+        "audio": "fi/filter/filter__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfɪltər/",
+        "audio": "fi/filter/filter__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (denoting a piece of felt): from French filtre, from medieval Latin filtrum ‘felt used as a filter’, of West Germanic origin and related to felt."
+}

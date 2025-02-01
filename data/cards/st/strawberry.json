@@ -1,0 +1,43 @@
+{
+  "term": "strawberry",
+  "partOfSpeech": "noun",
+  "image": "data/images/fr/fruit_berries.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a soft red fruit with very small yellow seeds on the surface, that grows on a low plant",
+      "examples": [
+        {
+          "text": "strawberries and cream"
+        },
+        {
+          "text": "strawberry plants"
+        },
+        {
+          "text": "I bought a carton/punnet of strawberries."
+        }
+      ],
+      "topics": ["Food"],
+      "collocations": {
+        "adjective": ["fresh", "juicy", "wild"],
+        "… of strawberries": ["carton", "punnet"],
+        "strawberry + noun": ["bed", "plant"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈstrɔːbəri/",
+        "audio": "st/strawberry/strawberry__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈstrɔːberi/",
+        "audio": "st/strawberry/strawberry__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English strēa(w)berige, strēowberige (see straw, berry)."
+}

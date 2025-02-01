@@ -1,0 +1,131 @@
+{
+  "term": "ocean",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "image": "data/images/co/coast.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the mass of salt water that covers most of the earth’s surface",
+      "labels": "(especially North American English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The ship was dredged from the depths of the ocean."
+        },
+        {
+          "text": "People were swimming in the ocean despite the hurricane warning."
+        },
+        {
+          "text": "The plane hit the ocean several miles offshore."
+        },
+        {
+          "text": "Our beach house is just a couple of miles from the ocean."
+        },
+        {
+          "text": "ships large enough to sail the open ocean"
+        },
+        {
+          "text": "an ocean liner"
+        },
+        {
+          "text": "a species of fish that lives on the ocean floor"
+        },
+        {
+          "text": "El Nino is a warm ocean current that appears off the coast of Peru during the winter."
+        },
+        {
+          "text": "Ocean levels are rising."
+        },
+        {
+          "text": "Before him lay the vast, endless ocean."
+        },
+        {
+          "text": "Various toxic substances have been dumped in the ocean."
+        }
+      ],
+      "topics": ["Geography"],
+      "collocations": {
+        "adjective": ["deep", "vast", "great"],
+        "verb + ocean": ["cross", "sail", "explore"],
+        "ocean + noun": ["depths", "surface", "bed"],
+        "preposition": ["across the ocean", "in the ocean"],
+        "phrases": [
+          "the bottom of the ocean",
+          "the depths of the ocean",
+          "the middle of the ocean"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "one of the five large areas that the ocean is divided into",
+      "labels": "British EnglishNorth American EnglishNorth American English",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the **Antarctic/Arctic/Atlantic/Indian/Pacific Ocean**"
+        },
+        {
+          "text": "They travelled across oceans in search of a new life."
+        },
+        {
+          "text": "a vessel which can explore the depths of the great oceans"
+        },
+        {
+          "text": "great ships that sailed the oceans of the world"
+        },
+        {
+          "text": "penguins of the southern oceans"
+        },
+        {
+          "text": "trade across the Atlantic Ocean"
+        }
+      ],
+      "collocations": {
+        "adjective": ["deep", "vast", "great"],
+        "verb + ocean": ["cross", "sail", "explore"],
+        "ocean + noun": ["depths", "surface", "bed"],
+        "preposition": ["across the ocean", "in the ocean"],
+        "phrases": [
+          "the bottom of the ocean",
+          "the depths of the ocean",
+          "the middle of the ocean"
+        ]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "an amount of something that is too small or unimportant to make any real difference to a situation",
+      "examples": [
+        {
+          "text": "The amount of money raised was a drop in the ocean compared to what we needed."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "a large amount of something",
+      "labels": "(informal)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈəʊʃn/",
+        "audio": "oc/ocean/ocean__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈəʊʃn/",
+        "audio": "oc/ocean/ocean__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French occean, via Latin from Greek ōkeanos ‘great stream encircling the earth's disc’. “The ocean” originally referred to the whole body of water thought to encompass the earth's single land mass."
+}

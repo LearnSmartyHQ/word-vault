@@ -1,0 +1,185 @@
+{
+  "term": "attend",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "attend",
+      "heSheIt": "attends"
+    },
+    "pastSimple": "attended",
+    "pastParticiple": "attended",
+    "ingForm": "attending"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to be present at an event",
+      "sensetop": "attend something",
+      "labels": "(rather formal)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We'd like as many people as possible to attend."
+        },
+        {
+          "text": "The **meeting was attended** by 90% of shareholders.",
+          "contextForm": "attend something"
+        },
+        {
+          "text": "to attend a wedding/funeral/service/ceremony"
+        },
+        {
+          "text": "Everyone is **welcome to attend** the free event."
+        },
+        {
+          "text": "All members are **requested to attend** this meeting."
+        },
+        {
+          "text": "5,000 people from around the world were **invited to attend** the conference."
+        },
+        {
+          "text": "He was invited to attend a seminar in Paris."
+        },
+        {
+          "text": "Her lectures were generally rather sparsely attended."
+        },
+        {
+          "text": "The event was well attended."
+        },
+        {
+          "text": "Over 600 people attended the conference."
+        },
+        {
+          "text": "She flew home to attend her father's funeral."
+        },
+        {
+          "text": "Several members were unable to attend."
+        },
+        {
+          "text": "The Senator was invited to attend, but he declined."
+        }
+      ],
+      "topics": ["Working life"],
+      "collocations": {
+        "adverb": ["regularly"],
+        "verb + attend": ["be able to", "be unable to", "be asked to"],
+        "phrases": ["sparsely attended", "well attended"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to go regularly to a place",
+      "sensetop": "attend something",
+      "labels": "(formal)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Our children **attend** the same **school**."
+        },
+        {
+          "text": "Students are expected to **attend class** regularly."
+        },
+        {
+          "text": "How many people attend church every Sunday?"
+        },
+        {
+          "text": "Your dentist will ask you to attend for regular check-ups."
+        },
+        {
+          "text": "The child was failing to attend regularly at the school."
+        },
+        {
+          "text": "The patients all attend the clinic monthly."
+        },
+        {
+          "text": "She attended the college one day a week."
+        },
+        {
+          "text": "He regularly attends the local mosque."
+        }
+      ],
+      "topics": ["Education"],
+      "collocations": {
+        "adverb": ["regularly"],
+        "verb + attend": ["be able to", "be unable to", "be asked to"],
+        "phrases": ["sparsely attended", "well attended"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to pay attention to what somebody is saying or to what you are doing",
+      "sensetop": "attend (to somebody/something)",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "She hadn't been attending during the lesson."
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to happen at the same time as something",
+      "sensetop": "attend something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "She dislikes the loss of privacy that attends TV celebrity."
+        }
+      ]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to be with somebody and help them",
+      "sensetop": "attend somebody",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The president was attended by several members of his staff."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈtend/",
+        "audio": "at/attend/attend__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈtendz/",
+        "audio": "at/attend/attends__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈtendɪd/",
+        "audio": "at/attend/attended__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈtendɪŋ/",
+        "audio": "at/attend/attending__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈtend/",
+        "audio": "at/attend/attend__us_2.mp3"
+      },
+      {
+        "pronunciation": "/əˈtendz/",
+        "audio": "at/attend/attends__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈtendɪd/",
+        "audio": "at/attend/attended__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈtendɪŋ/",
+        "audio": "at/attend/attending__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (in the sense ‘apply one's mind or energies to’): from Old French atendre, from Latin attendere, from ad- ‘to’ + tendere ‘stretch’."
+}

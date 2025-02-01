@@ -1,0 +1,87 @@
+{
+  "term": "adaptation",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the action or process of changing something, or of being changed, to suit a new purpose or situation",
+      "sensetop": "adaptation to something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the adaptation of buildings for military purposes"
+        },
+        {
+          "text": "The process of adaptation to a new school is difficult for some children.",
+          "contextForm": "adaptation to something"
+        },
+        {
+          "text": "making adaptations to your home"
+        }
+      ],
+      "collocations": {
+        "adjective": ["successful", "special", "evolutionary"],
+        "verb + adaptation": ["make"],
+        "adaptation + verb": ["occur"],
+        "preposition": ["adaptation for", "adaptation of", "adaptation to"],
+        "phrases": ["a process of adaptation"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a film, television drama or play that is based on a particular book or play but has been changed to suit the new medium",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a screen adaptation of Shakespeare’s ‘Macbeth’"
+        }
+      ],
+      "topics": ["Film and theatre"],
+      "collocations": {
+        "adjective": ["cinematic", "film", "movie"],
+        "verb + adaptation": ["develop", "direct", "film"],
+        "preposition": ["adaptation of"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the process of change by which a species becomes better suited to its environment",
+      "sensetop": "adaptation (of something) (to something)",
+      "labels": "(biology)",
+      "examples": [
+        {
+          "text": "the adaptation of desert species to the hot conditions"
+        },
+        {
+          "text": "Adaptations in plants occur over thousands of years."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌædæpˈteɪʃn/",
+        "audio": "ad/adaptation/adaptation__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈdæpʃn/",
+        "audio": "ad/adaptation/adaption__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌædæpˈteɪʃn/",
+        "audio": "ad/adaptation/adaptation__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈdæpʃn/",
+        "audio": "ad/adaptation/adaption__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 17th cent.: from French, from late Latin adaptatio(n-), from Latin adaptare, from ad- ‘to’ + aptare(from aptus ‘fit’)."
+}

@@ -1,0 +1,87 @@
+{
+  "term": "enquire",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "enquire",
+      "heSheIt": "enquires"
+    },
+    "pastSimple": "enquired",
+    "pastParticiple": "enquired",
+    "ingForm": "enquiring"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to ask somebody for some information",
+      "sensetop": "enquire about somebody/somethingenquire as to somebody/somethingenquire why, where, etc…enquire something+ speech",
+      "examples": [
+        {
+          "text": "I called the garage to enquire about progress on the repairs.",
+          "contextForm": "enquire about somebody/something"
+        },
+        {
+          "text": "She enquired as to your whereabouts.",
+          "contextForm": "enquire as to somebody/something"
+        },
+        {
+          "text": "Might I enquire why you have not mentioned this until now?",
+          "contextForm": "enquire why, where, etc…"
+        },
+        {
+          "text": "He enquired her name.",
+          "contextForm": "enquire something"
+        },
+        {
+          "text": "‘What is your name?’ he enquired.",
+          "contextForm": "+ speech"
+        }
+      ],
+      "collocations": {
+        "adverb": ["further", "pleasantly", "politely"],
+        "preposition": ["about", "after", "as to"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈkwaɪə(r)/",
+        "audio": "en/enquire/enquire__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkwaɪəz/",
+        "audio": "en/enquire/enquires__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkwaɪəd/",
+        "audio": "en/enquire/enquired__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkwaɪərɪŋ/",
+        "audio": "en/enquire/enquiring__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈkwaɪər/",
+        "audio": "en/enquire/enquire__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkwaɪərz/",
+        "audio": "en/enquire/enquires__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkwaɪərd/",
+        "audio": "en/enquire/enquired__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkwaɪərɪŋ/",
+        "audio": "en/enquire/enquiring__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

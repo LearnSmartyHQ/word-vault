@@ -1,0 +1,850 @@
+{
+  "term": "point",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/ki/kitchen_cutting.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a thing that somebody says or writes giving their opinion or stating a fact",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She **made** several interesting **points** in the article."
+        },
+        {
+          "text": "I **take your point** *(= understand and accept what you are saying)*."
+        },
+        {
+          "text": "He's just saying that to **prove a point** *(= to show his idea is right)*."
+        },
+        {
+          "text": "OK, you've **made your point**!"
+        },
+        {
+          "text": "He had trouble getting his point across."
+        },
+        {
+          "text": "I do agree with her final point."
+        },
+        {
+          "text": "She banged on the table to emphasize her point."
+        },
+        {
+          "text": "They argued the point for hours."
+        },
+        {
+          "text": "She had clearly won her point."
+        },
+        {
+          "text": "There are many important points made throughout the book."
+        },
+        {
+          "text": "There are two key points to remember."
+        },
+        {
+          "text": "We have three main points of concern."
+        },
+        {
+          "text": "The author makes a similar point about American farmers."
+        },
+        {
+          "text": "Cost was another important point raised at the meeting."
+        },
+        {
+          "text": "She gave further examples to illustrate her point."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adjective": ["excellent", "good", "interesting"],
+        "verb + point": ["have", "see", "take"],
+        "phrases": [
+          "a case in point",
+          "the point at issue",
+          "a point of agreement"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the main or most important idea in something that is said or done",
+      "sensetop": "point behind something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**The point is** you shouldn't have to wait so long to see a doctor."
+        },
+        {
+          "text": "I wish he would **get to the point** *(= say it quickly)*."
+        },
+        {
+          "text": "I'll **come straight to the point**: we need more money."
+        },
+        {
+          "text": "Do you **see my point** *(= understand)*?"
+        },
+        {
+          "text": "I think I **missed the point** *(= did not understand)*."
+        },
+        {
+          "text": "You **have a point** *(= your idea is right)*—it would be better to wait till this evening."
+        },
+        {
+          "text": "‘There won’t be anywhere to park.’ ‘Oh, **that’s a (good) point**.’ *(= I had not thought of that)*"
+        },
+        {
+          "text": "It just isn't true. That's **the whole point** *(= the only important fact)*."
+        },
+        {
+          "text": "I thought the whole point was getting the same amount done with less effort."
+        },
+        {
+          "text": "‘He's been married before.’ ‘**That's beside the point** *(= not important)*.’"
+        },
+        {
+          "text": "I know it won't cost very much but **that's not the point** *(= not the important thing)*."
+        },
+        {
+          "text": "The point behind the film was to help people understand the motivations of the criminals.",
+          "contextForm": "point behind something"
+        }
+      ],
+      "collocations": {
+        "adjective": ["basic"],
+        "verb + the point": ["come to", "get to", "get"],
+        "preposition": ["beside the point", "to the point"],
+        "phrases": ["more to the point"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the purpose or aim of something",
+      "sensetop": "point of doing somethingpoint in doing something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "What's the point of all this violence?"
+        },
+        {
+          "text": "‘Why don't you try again?’ ‘**What's the point**?’"
+        },
+        {
+          "text": "The point of the lesson is to compare the two countries."
+        },
+        {
+          "text": "I **don't see the point of** doing it all again.",
+          "contextForm": "point of doing something"
+        },
+        {
+          "text": "There's **no point** in getting angry.",
+          "contextForm": "point in doing something"
+        },
+        {
+          "text": "I didn't get the point of the story."
+        },
+        {
+          "text": "I don't see the point in arguing."
+        },
+        {
+          "text": "It doesn't have any point to it."
+        },
+        {
+          "text": "There's absolutely no point in complaining now."
+        },
+        {
+          "text": "What's the point of worrying?"
+        }
+      ],
+      "collocations": {
+        "adjective": ["whole"],
+        "verb + point": ["have", "see", "get"],
+        "preposition": ["point in", "point of"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a particular detail or fact",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Can you explain that point again?"
+        },
+        {
+          "text": "Summarize the **main points** of the argument."
+        },
+        {
+          "text": "I should like to highlight the **key points**."
+        },
+        {
+          "text": "An **important point** has been missed out."
+        },
+        {
+          "text": "You **raise** an interesting **point**."
+        },
+        {
+          "text": "There are one or two points that aren't yet clear."
+        },
+        {
+          "text": "He summarized all the salient points of the case."
+        },
+        {
+          "text": "the major selling point of the line"
+        },
+        {
+          "text": "There is only one point of difference between the two models."
+        },
+        {
+          "text": "The committee recommended a number of action points to avoid such problems in the future."
+        },
+        {
+          "text": "The book's main point of interest is the insight into her early life."
+        }
+      ],
+      "collocations": {
+        "adjective": ["finer", "good", "strong"],
+        "phrases": ["a point of difference", "a point of interest"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "a particular quality or feature that somebody/something has",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Tact is not one of her **strong points**."
+        },
+        {
+          "text": "Read the manual to learn the program's **finer points** *(= small details)*."
+        },
+        {
+          "text": "Living in Scotland **has its good points** but the weather is not one of them."
+        },
+        {
+          "text": "One of the hotel's **plus points** *(= good features)* is that it is very central."
+        },
+        {
+          "text": "There is not a single weak point in his essay."
+        }
+      ],
+      "collocations": {
+        "adjective": ["finer", "good", "strong"],
+        "phrases": ["a point of difference", "a point of interest"]
+      }
+    },
+    {
+      "senseNumber": 6,
+      "definition": "a particular time or stage of development",
+      "sensetop": "at/on the point of somethingat one, some, this, etc. pointup to/until that point",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We had **reached the point** when there was no money left."
+        },
+        {
+          "text": "The climber was at the point of death when they found him.",
+          "contextForm": "at/on the point of something"
+        },
+        {
+          "text": "**At one point** he looked like winning.",
+          "contextForm": "at one, some, this, etc. point"
+        },
+        {
+          "text": "Many people experience anxiety **at some point** in their lives."
+        },
+        {
+          "text": "**At this point in time** we just have to wait."
+        },
+        {
+          "text": "**At this point** I don't care what you decide to do."
+        },
+        {
+          "text": "Up to that point we were living in London.",
+          "contextForm": "up to/until that point"
+        },
+        {
+          "text": "I've reached the point (= in a book, etc.) where his father is dying."
+        },
+        {
+          "text": "There comes a point in most people's lives when they want to settle down."
+        },
+        {
+          "text": "by the time the movie has reached its halfway point"
+        },
+        {
+          "text": "We worked all night to the point of collapse."
+        },
+        {
+          "text": "to fill a bag to bursting point"
+        },
+        {
+          "text": "well below its financial break-even point"
+        },
+        {
+          "text": "At that point in time, I didn't have children, so was free to travel."
+        },
+        {
+          "text": "This is definitely a critical point in my life right now."
+        },
+        {
+          "text": "One in eight American women will develop breast cancer at some point in her life."
+        },
+        {
+          "text": "I shall save some money each month from this point onwards."
+        },
+        {
+          "text": "At some point, the children are going to be hungry."
+        },
+        {
+          "text": "Let me know if you want to talk at any point."
+        },
+        {
+          "text": "Beyond a certain point, personal wealth should be used to make a difference to society."
+        },
+        {
+          "text": "Up until that point, he had never left the village."
+        },
+        {
+          "text": "I understand her feelings up to a certain point."
+        },
+        {
+          "text": "When it came to the point where they were not satisfied, they left."
+        }
+      ],
+      "collocations": {
+        "adjective": ["high", "low", "halfway"],
+        "verb + point": ["get to", "reach"],
+        "point + verb": ["come"],
+        "preposition": [
+          "at a/​the point",
+          "on the point of",
+          "to the point of"
+        ],
+        "phrases": ["a point in time", "the point of no return"]
+      }
+    },
+    {
+      "senseNumber": 7,
+      "definition": "a particular place or area",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I'll wait for you at the **meeting point** in the arrivals hall."
+        },
+        {
+          "text": "the point at which the river divides"
+        },
+        {
+          "text": "Draw a line from point A to point B."
+        },
+        {
+          "text": "No parking beyond this point."
+        },
+        {
+          "text": "This website is an excellent beginning point for any pianist."
+        },
+        {
+          "text": "There are clear signposts at all beach access points."
+        },
+        {
+          "text": "a convenient midway point between Memphis and St. Louis"
+        },
+        {
+          "text": "an excellent entrance point into Glacier National Park"
+        },
+        {
+          "text": "one stopping point on their tour of the shrines"
+        },
+        {
+          "text": "pressures points on the foot"
+        },
+        {
+          "text": "the starting and ending point for most safaris"
+        },
+        {
+          "text": "We were past the halfway point of the race."
+        }
+      ],
+      "collocations": {
+        "adjective": ["central", "focal", "fixed"],
+        "verb + point": ["arrive at", "reach", "provide"],
+        "phrases": ["a point of contact", "a point of reference"]
+      }
+    },
+    {
+      "senseNumber": 8,
+      "definition": "one of the marks of direction around a compass",
+      "examples": [
+        {
+          "text": "the points of the compass *(= N, S, E, W, etc.)*"
+        }
+      ]
+    },
+    {
+      "senseNumber": 9,
+      "definition": "an individual unit that adds to a score in a game or sports competition",
+      "sensetop": "point for (doing) somethingon points",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **win/lose a point**"
+        },
+        {
+          "text": "Australia finished 20 points ahead."
+        },
+        {
+          "text": "Players **score points** for finding words not found by any other player.",
+          "contextForm": "point for (doing) something"
+        },
+        {
+          "text": "You get **bonus points** for answering the mystery question."
+        },
+        {
+          "text": "They won on points *(= by scoring more points rather than by completely defeating their opponents)*.",
+          "contextForm": "on points"
+        },
+        {
+          "text": "I'm deducting a point from the total score."
+        },
+        {
+          "text": "It's set point to Zverev."
+        },
+        {
+          "text": "Name the film and, for a bonus point, name the actress."
+        },
+        {
+          "text": "Points are awarded to the winner of each round."
+        },
+        {
+          "text": "She's averaged 19 points per game in her last seven games."
+        },
+        {
+          "text": "a personal tally of 28 points"
+        },
+        {
+          "text": "Last season he scored 27 goals and 24 points."
+        },
+        {
+          "text": "You get 20 points every time you collect a set of cards."
+        },
+        {
+          "text": "The team won with a two point lead 8-6."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"],
+      "collocations": {
+        "adjective": ["match", "set", "bonus"],
+        "… of point": ["tally"],
+        "verb + point": ["accumulate", "earn", "gain"],
+        "phrases": ["beat somebody on points", "win on points"]
+      }
+    },
+    {
+      "senseNumber": 10,
+      "definition": "a mark or unit on a scale of measurement",
+      "examples": [
+        {
+          "text": "The party's share of the vote fell by ten **percentage points**."
+        },
+        {
+          "text": "His popularity rose by 18 points in public opinion polls."
+        },
+        {
+          "text": "The Nikkei index rose 710 points to 14894."
+        },
+        {
+          "text": "The index was down only 4.6 points at the close."
+        },
+        {
+          "text": "The product sold at about a $100 price point."
+        }
+      ],
+      "collocations": {
+        "adjective": ["basis", "percentage"],
+        "verb + point": ["be up", "go up", "improve"],
+        "phrases": [
+          "about five, ten, etc. points",
+          "around five, ten, etc. points",
+          "only five, ten, etc. points"
+        ]
+      }
+    },
+    {
+      "senseNumber": 11,
+      "definition": "a unit of credit towards an award or benefit",
+      "examples": [
+        {
+          "text": "Applicants are awarded points on criteria such as education, skills and knowledge of English."
+        },
+        {
+          "text": "Let children trade their earned points for privileges, like extra playtime."
+        }
+      ]
+    },
+    {
+      "senseNumber": 12,
+      "definition": "the sharp, thin end of something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the point of a pencil/knife/pin"
+        },
+        {
+          "text": "She pressed so hard that the point of the pencil made a hole in the paper."
+        },
+        {
+          "text": "Use the point of a knife to remove the seeds."
+        },
+        {
+          "text": "They are so small that several of them could easily fit on the point of a pin."
+        }
+      ],
+      "collocations": {
+        "adjective": ["fine", "sharp"]
+      }
+    },
+    {
+      "senseNumber": 13,
+      "definition": "a narrow piece of land that stretches into the sea",
+      "examples": [
+        {
+          "text": "The ship sailed around the point."
+        },
+        {
+          "text": "Pagoda Point"
+        }
+      ]
+    },
+    {
+      "senseNumber": 14,
+      "definition": "a small round mark used in writing, especially the mark that separates a whole number from the part that comes after it",
+      "cefr": "b1",
+      "examples": [
+        {
+          "text": "two point six (2.6)"
+        },
+        {
+          "text": "a decimal point"
+        },
+        {
+          "text": "We broadcast on ninety-five point nine (95.9) FM."
+        }
+      ],
+      "topics": ["Language", "Maths and measurement"],
+      "collocations": {
+        "adjective": ["decimal", "exclamation", "bullet"]
+      }
+    },
+    {
+      "senseNumber": 15,
+      "definition": "a very small dot of light or colour",
+      "examples": [
+        {
+          "text": "The stars were points of light in the sky."
+        }
+      ]
+    },
+    {
+      "senseNumber": 16,
+      "definition": "a place in a wall, etc. where a piece of equipment can be connected to electricity",
+      "labels": "(British English)",
+      "examples": [
+        {
+          "text": "a power/shaver/telephone point"
+        }
+      ]
+    },
+    {
+      "senseNumber": 17,
+      "definition": "the hard tops of the toes of a kind of shoe that a ballet dancer balances on",
+      "examples": []
+    },
+    {
+      "senseNumber": 18,
+      "definition": "a piece of track at a place where a railway line divides that can be moved to allow a train to change tracks",
+      "labels": "(British English)North American English",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Transport by bus and train"]
+    },
+    {
+      "senseNumber": 19,
+      "definition": "a unit of measurement for the size of letters in printing or on a computer screen, etc.",
+      "examples": [
+        {
+          "text": "Change the text to 10 point."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to repeat an idea, argument, etc. many times to emphasize it, especially when it has already been mentioned or understood",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "I don’t want to belabour the point, but it’s vital you understand how important this is."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "a clear example of the problem, situation, etc. that is being discussed",
+      "examples": [
+        {
+          "text": "Many professions feel they deserve higher pay, and nurses are a case in point."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "the more complicated or detailed aspects of something",
+      "examples": [
+        {
+          "text": "She seems at ease discussing the finer points of foreign policy."
+        },
+        {
+          "text": "He learnt the finer points of cricket during a trip to London."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used when you have to decide something or say what you really think",
+      "examples": [
+        {
+          "text": "When it comes to the point, he always changes his mind."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to say what is true in a situation",
+      "examples": [
+        {
+          "text": "In point of fact, she is their adopted daughter."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to continue to repeat or explain something that has already been said and understood",
+      "examples": [
+        {
+          "text": "I understand what you’re saying—there’s no need to labour the point."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be or make sure you do something because it is important or necessary",
+      "examples": [
+        {
+          "text": "I made a point of closing all the windows before leaving the house."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "a matter about which there may be difference of opinion or a lack of understanding",
+      "labels": "(British English, North American English)",
+      "examples": [
+        {
+          "text": "Whether this should be enforced by law or not is a moot point."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to say that something is more important than something else",
+      "examples": [
+        {
+          "text": "I couldn't do the job—I've never been to Spain and, more to the point, I don't speak Spanish."
+        },
+        {
+          "text": "More to the point, did they get away?"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to emphasize something that is expressed clearly and directly, especially a criticism",
+      "examples": [
+        {
+          "text": "Not to put too fine a point on it, I think you are lying."
+        }
+      ]
+    },
+    {
+      "senseNumber": 1,
+      "definition": "appropriate or relevant to the situation",
+      "examples": [
+        {
+          "text": "The quotation was directly on point."
+        },
+        {
+          "text": "Let's stay on point."
+        },
+        {
+          "text": "None of the replies was on point."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "perfect; exactly right for the occasion",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The music here is totally on point."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be close to doing something; to be going to do something very soon",
+      "examples": [
+        {
+          "text": "I was just on the point of calling you."
+        },
+        {
+          "text": "We were on the point of giving up."
+        }
+      ],
+      "synonyms": "be about to do something"
+    },
+    {
+      "senseNumber": null,
+      "definition": "a place where you go or a person that you speak to when you are dealing with an organization",
+      "examples": [
+        {
+          "text": "The receptionist is the first point of contact most people have with the clinic."
+        }
+      ]
+    },
+    {
+      "senseNumber": 1,
+      "definition": "a place where a journey starts",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "definition": "an idea, a theory or an event that is used to start a discussion, an activity, etc.",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The author takes Freud's dream theories as the point of departure for his essay."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "a thing that somebody considers to be very important for their honour or reputation",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "the time when you must continue with what you have decided to do, because it is not possible to get back to an earlier situation",
+      "examples": [
+        {
+          "text": "We have passed the point of no return."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to say that you accept that somebody else is right when they have disagreed with you or criticized you",
+      "examples": [
+        {
+          "text": "Point taken. Let's drop the subject."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to show that you are better than somebody, especially by making clever remarks, for example in an argument",
+      "examples": [
+        {
+          "text": "He was always trying to score points off his teachers."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "a subject that makes you feel angry or upset when it is mentioned",
+      "examples": [
+        {
+          "text": "It's a sore point with Sue's parents that the children have not been baptized yet."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to allow or do something that is not usually acceptable, especially because of a particular situation",
+      "examples": [
+        {
+          "text": "I was hoping they would stretch a point and let me stay on for a while."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "expressed in a simple, clear way without any extra information or feelings",
+      "examples": [
+        {
+          "text": "The letter was short and to the point."
+        },
+        {
+          "text": "His remarks were brief and to the point."
+        }
+      ],
+      "synonyms": "pertinent"
+    },
+    {
+      "senseNumber": null,
+      "definition": "to a degree that can be described as something",
+      "examples": [
+        {
+          "text": "He was rude to the point of being aggressive."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to some extent; to some degree but not completely",
+      "examples": [
+        {
+          "text": "I agree with you up to a point."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pɔɪnt/",
+        "audio": "po/point/point__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pɔɪnt/",
+        "audio": "po/point/point__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: the noun partly from Old French point, from Latin punctum ‘something that is pricked’, giving rise to the senses ‘unit, mark, point in space or time’; partly from Old French pointe, from Latin puncta ‘pricking’, giving rise to the senses ‘sharp tip, promontory’. The verb is from Old French pointer, and in some senses from the English noun."
+}

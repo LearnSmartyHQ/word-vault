@@ -1,0 +1,221 @@
+{
+  "term": "suppose",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "suppose",
+      "heSheIt": "supposes"
+    },
+    "pastSimple": "supposed",
+    "pastParticiple": "supposed",
+    "ingForm": "supposing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to think or believe that something is true or possible (based on the knowledge that you have)",
+      "sensetop": "suppose (that)…suppose somebody/something (to be/have) something",
+      "labels": "(formal)(formal)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Getting a visa isn't as simple as you might suppose."
+        },
+        {
+          "text": "Prices will go up, **I suppose**."
+        },
+        {
+          "text": "I don't suppose for a minute that he'll agree *(= I'm sure that he won't)*.",
+          "contextForm": "suppose (that)…"
+        },
+        {
+          "text": "It's reasonable to suppose that he left the note after he tried to call her."
+        },
+        {
+          "text": "**Why do you suppose** he resigned?"
+        },
+        {
+          "text": "I suppose all the tickets have been sold now, have they?"
+        },
+        {
+          "text": "**There is no reason to suppose** she's lying."
+        },
+        {
+          "text": "I suppose you think it's funny, do you *(= showing anger)*?"
+        },
+        {
+          "text": "She had supposed him (to be) very rich.",
+          "contextForm": "suppose somebody/something (to be/have) something"
+        },
+        {
+          "text": "I had supposed him a younger man."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adverb": ["mistakenly", "wrongly", "commonly"],
+        "verb + suppose": [
+          "be plausible to",
+          "be reasonable to",
+          "be absurd to"
+        ],
+        "phrases": ["reason to suppose something"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "used to make a statement, request or suggestion less direct or less strong",
+      "sensetop": "suppose (that)…",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I could take you in the car, **I suppose** *(= but I don't really want to)*."
+        },
+        {
+          "text": "‘Can I borrow the car?’ ‘I **suppose so** *(= Yes, but I'm not happy about it)*.’"
+        },
+        {
+          "text": "What I’m saying, I suppose, is that she’s not really suitable for the job."
+        },
+        {
+          "text": "**I don’t suppose (that)** I could have a look at your newspaper, could I?",
+          "contextForm": "suppose (that)…"
+        },
+        {
+          "text": "Suppose we take a later train?"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to pretend that something is true; to imagine what would happen if something were true",
+      "sensetop": "suppose (that)…suppose somethingsuppose somebody/something (to be/have) something",
+      "labels": "(formal)(formal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Suppose flights are fully booked on that day—which other day could we go?",
+          "contextForm": "suppose (that)…"
+        },
+        {
+          "text": "Let us suppose, for example, that you are married with two children."
+        },
+        {
+          "text": "Let's suppose for a moment that these four points are correct."
+        },
+        {
+          "text": "The theory supposes the existence of life on other planets.",
+          "contextForm": "suppose something"
+        },
+        {
+          "text": "Suppose him (to be) dead—what then?",
+          "contextForm": "suppose somebody/something (to be/have) something"
+        }
+      ]
+    },
+    {
+      "senseNumber": 1,
+      "definition": "to be expected or required to do/be something according to a rule, a custom, an arrangement, etc.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "What am I **supposed to do**?"
+        },
+        {
+          "text": "You're supposed to buy a ticket, but not many people do."
+        },
+        {
+          "text": "I thought we were supposed to be paid today."
+        },
+        {
+          "text": "The engine doesn't sound like it's supposed to."
+        },
+        {
+          "text": "You were supposed to be here an hour ago!"
+        },
+        {
+          "text": "Oops—that wasn't supposed to happen."
+        },
+        {
+          "text": "How was I supposed to know you were waiting for me?"
+        },
+        {
+          "text": "‘Yes and no.’ ‘**What is that supposed to mean**?’ *(= showing that you are annoyed)*"
+        }
+      ],
+      "topics": ["Permission and obligation"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to be generally believed or expected to be/do something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I haven't seen it myself, but it's supposed to be a great movie."
+        },
+        {
+          "text": "This combination of qualities is **generally supposed** to be extremely rare."
+        },
+        {
+          "text": "She's supposed to have had hundreds of lovers."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to not be allowed to do something",
+      "examples": [
+        {
+          "text": "You're not supposed to walk on the grass."
+        }
+      ],
+      "topics": ["Permission and obligation"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/səˈpəʊz/",
+        "audio": "su/suppose/suppose__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/səˈpəʊzɪz/",
+        "audio": "su/suppose/supposes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/səˈpəʊzd/",
+        "audio": "su/suppose/supposed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/səˈpəʊzɪŋ/",
+        "audio": "su/suppose/supposing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/səˈpəʊz/",
+        "audio": "su/suppose/suppose__us_1.mp3"
+      },
+      {
+        "pronunciation": "/səˈpəʊzɪz/",
+        "audio": "su/suppose/supposes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/səˈpəʊzd/",
+        "audio": "su/suppose/supposed__us_2_rr.mp3"
+      },
+      {
+        "pronunciation": "/səˈpəʊzɪŋ/",
+        "audio": "su/suppose/supposing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French supposer, from Latin supponere (from sub- ‘from below’ + ponere ‘to place’), but influenced by Latin suppositus ‘set under’ and Old French poser ‘to place’."
+}

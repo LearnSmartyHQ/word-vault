@@ -1,0 +1,47 @@
+{
+  "term": "predator",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "an animal that kills and eats other animals",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Some animals have no natural predators."
+        },
+        {
+          "text": "the relationship between predator and prey"
+        }
+      ],
+      "topics": ["Animals"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a person or an organization that uses weaker people for their own advantage",
+      "labels": "(disapproving)",
+      "examples": [
+        {
+          "text": "to protect domestic industry from foreign predators"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈpredətə(r)/",
+        "audio": "pr/predator/predator__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈpredətər/",
+        "audio": "pr/predator/predator__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "1920s: from Latin praedator ‘plunderer’, from praedat- ‘seized as plunder’, from the verb praedari ‘seize as plunder’, from praeda ‘booty’."
+}

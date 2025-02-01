@@ -1,0 +1,94 @@
+{
+  "term": "thesis",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a long piece of writing completed by a student as part of a university degree, based on their own research",
+      "sensetop": "thesis (on something)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Students must submit a thesis on an agreed subject within four years."
+        },
+        {
+          "text": "He presented this thesis for his PhD."
+        },
+        {
+          "text": "a thesis for a master's degree"
+        },
+        {
+          "text": "He's doing a doctoral thesis on the early works of Shostakovich."
+        },
+        {
+          "text": "Many departments require their students to do a thesis defense."
+        },
+        {
+          "text": "She completed an MSc by thesis."
+        },
+        {
+          "text": "her thesis adviser at MIT"
+        }
+      ],
+      "topics": ["Education"],
+      "collocations": {
+        "adjective": ["doctoral", "honors", "MA"],
+        "verb + thesis": ["do", "work on", "write"],
+        "thesis + noun": ["project", "research", "topic"],
+        "preposition": ["in a/​the thesis", "thesis about", "thesis on"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a statement or an opinion that is discussed in a logical way and presented with evidence in order to prove that it is true",
+      "sensetop": "thesis (that…)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The basic thesis of the book is fairly simple."
+        },
+        {
+          "text": "These latest findings support the thesis that sexuality is determined by nature rather than choice."
+        },
+        {
+          "text": "The results of the experiment support his central thesis."
+        },
+        {
+          "text": "Most people rejected this thesis at the time because it presumed evolution rather than creation."
+        }
+      ],
+      "topics": ["Opinion and argument", "Scientific research"],
+      "collocations": {
+        "adjective": ["basic", "central", "fundamental"],
+        "verb + thesis": ["prove", "support", "disprove"],
+        "preposition": ["thesis about"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈθiːsɪs/",
+        "audio": "th/thesis/thesis__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈθiːsiːz/",
+        "audio": "th/thesis/theses__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈθiːsɪs/",
+        "audio": "th/thesis/thesis__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈθiːsiːz/",
+        "audio": "th/thesis/theses__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (originally referring to an unstressed syllable in Greek or Latin verse): via late Latin from Greek, literally ‘placing, a proposition’, from the root of tithenai ‘to place’."
+}

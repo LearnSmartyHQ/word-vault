@@ -1,0 +1,134 @@
+{
+  "term": "testify",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "testify",
+      "heSheIt": "testifies"
+    },
+    "pastSimple": "testified",
+    "pastParticiple": "testified",
+    "ingForm": "testifying"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to make a statement that something happened or that something is true, especially as a witness in court",
+      "sensetop": "testify against somebody/somethingtestify for somebody/somethingtestify about somethingtestify to something/to doing somethingtestify (that)…+ speech",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She refused to testify against her husband.",
+          "contextForm": "testify against somebody/something"
+        },
+        {
+          "text": "There are several witnesses who will testify for the defence.",
+          "contextForm": "testify for somebody/something"
+        },
+        {
+          "text": "He was summoned to testify before a grand jury about his role in the affair.",
+          "contextForm": "testify about something"
+        },
+        {
+          "text": "Evans testified to receiving $200 000 in bribes.",
+          "contextForm": "testify to something/to doing something"
+        },
+        {
+          "text": "He testified (that) he was at the theatre at the time of the murder.",
+          "contextForm": "testify (that)…"
+        },
+        {
+          "text": "‘I was approached by a man I did not recognize,’ she testified.",
+          "contextForm": "+ speech"
+        },
+        {
+          "text": "a Mafia member who was prepared to testify for the authorities"
+        },
+        {
+          "text": "Several witnesses have come forward to testify against her."
+        },
+        {
+          "text": "She was unwilling to testify before Congress."
+        },
+        {
+          "text": "The president's former aides were called to testify at his trial."
+        },
+        {
+          "text": "The basis for the perjury conviction was he had testified falsely under oath."
+        },
+        {
+          "text": "A senior officer testified to the existence of police hit squads."
+        }
+      ],
+      "topics": ["Law and justice"],
+      "collocations": {
+        "adverb": ["falsely", "truthfully", "publicly"],
+        "verb + testify": [
+          "ask somebody to",
+          "call somebody to",
+          "call upon somebody to"
+        ],
+        "preposition": ["against", "before", "for"],
+        "phrases": ["testify in court", "testify under oath"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to say that you believe something is true because you have evidence of it",
+      "sensetop": "testify (that)…",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Too many young people are unable to write or spell well, as employers will testify."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to express your belief in God publicly",
+      "labels": "(especially North American English)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtestɪfaɪ/",
+        "audio": "te/testify/testify__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtestɪfaɪz/",
+        "audio": "te/testify/testifies__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtestɪfaɪd/",
+        "audio": "te/testify/testified__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtestɪfaɪɪŋ/",
+        "audio": "te/testify/testifying__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtestɪfaɪ/",
+        "audio": "te/testify/testify__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtestɪfaɪz/",
+        "audio": "te/testify/testifies__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtestɪfaɪd/",
+        "audio": "te/testify/testified__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtestɪfaɪɪŋ/",
+        "audio": "te/testify/testifying__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin testificari, from testis ‘a witness’."
+}

@@ -1,0 +1,385 @@
+{
+  "term": "touch",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "touch",
+      "heSheIt": "touches"
+    },
+    "pastSimple": "touched",
+    "pastParticiple": "touched",
+    "ingForm": "touching"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to put your hand or another part of your body onto somebody/something",
+      "sensetop": "touch somebody/somethingtouch somebody on somethingtouch somebody/something with something",
+      "labels": "(figurative)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Don't touch that plate—it's hot!"
+        },
+        {
+          "text": "Can you touch your toes? *(= bend and reach them with your hands)*"
+        },
+        {
+          "text": "I touched him lightly on the arm.",
+          "contextForm": "touch somebody on something"
+        },
+        {
+          "text": "Do not touch anything with your bare hands.",
+          "contextForm": "touch somebody/something with something"
+        },
+        {
+          "text": "He has hardly touched the ball all game."
+        },
+        {
+          "text": "I must do some more work on that article—I haven't touched it all week."
+        },
+        {
+          "text": "Don't you dare touch me!"
+        },
+        {
+          "text": "He accidentally touched a live wire attached to overhead power cables."
+        },
+        {
+          "text": "He did not actually touch the substance, but may have inhaled it."
+        },
+        {
+          "text": "He was close enough to touch her."
+        },
+        {
+          "text": "He wouldn't let me touch the wound."
+        },
+        {
+          "text": "Her hand reached out to touch his cheek."
+        },
+        {
+          "text": "His fingers briefly touched hers."
+        },
+        {
+          "text": "She hugged him, being careful not to touch his broken wrist."
+        },
+        {
+          "text": "In social groups, dolphins often touch each other with their pectoral fins."
+        }
+      ],
+      "collocations": {
+        "adverb": ["(not) actually", "not even", "not quite"],
+        "verb + touch": [
+          "want to",
+          "(not) dare (to)",
+          "reach out, over, up, etc. to"
+        ],
+        "preposition": ["on", "with"],
+        "phrases": [
+          "(be) careful not to touch something",
+          "close enough to touch somebody/​something"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to be or come so close together that there is no space between",
+      "sensetop": "touch something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Make sure the wires don't touch."
+        },
+        {
+          "text": "Their faces were almost touching."
+        },
+        {
+          "text": "Don't let your coat touch the wet paint.",
+          "contextForm": "touch something"
+        },
+        {
+          "text": "His coat was so long it was almost touching the floor."
+        },
+        {
+          "text": "The dancer’s feet hardly seemed to touch the ground."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to move something, especially in such a way that you damage it; to hit or harm somebody",
+      "sensetop": "touch something/somebody",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I told you not to touch my things."
+        },
+        {
+          "text": "He said I kicked him, but I never touched him!"
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to make somebody feel upset or emotional",
+      "sensetop": "touch somebody/somethingtouch somebody/something to do something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Her story touched us all deeply.",
+          "contextForm": "touch somebody/something"
+        },
+        {
+          "text": "What he said really **touched my heart**."
+        },
+        {
+          "text": "I had been touched by his kindness to my aunts."
+        },
+        {
+          "text": "It truly touches me to know that I am holding in my hand a piece of paper used by someone who lived in 1745.",
+          "contextForm": "touch somebody/something to do something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["deeply"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to affect somebody/something",
+      "sensetop": "touch somebody/something",
+      "labels": "(old-fashioned or formal)",
+      "examples": [
+        {
+          "text": "These are issues that touch us all."
+        },
+        {
+          "text": "The life of a shepherd has been only marginally touched by technological change."
+        },
+        {
+          "text": "Even the most remote areas are now directly touched by political, educational and medical advances."
+        }
+      ]
+    },
+    {
+      "senseNumber": 6,
+      "definition": "to eat, drink or use something",
+      "sensetop": "touch something",
+      "examples": [
+        {
+          "text": "You've hardly touched your food."
+        },
+        {
+          "text": "He hasn't touched the money his aunt left him."
+        }
+      ]
+    },
+    {
+      "senseNumber": 7,
+      "definition": "to be as good as somebody in skill, quality, etc.",
+      "sensetop": "touch somebody",
+      "examples": [
+        {
+          "text": "No one can touch him when it comes to interior design."
+        }
+      ]
+    },
+    {
+      "senseNumber": 8,
+      "definition": "to reach a particular level, etc.",
+      "sensetop": "touch something",
+      "examples": [
+        {
+          "text": "The speedometer was touching 90."
+        }
+      ]
+    },
+    {
+      "senseNumber": 9,
+      "definition": "to become connected with or work with a situation or person",
+      "sensetop": "touch something/somebody",
+      "examples": [
+        {
+          "text": "Everything she touches turns to disaster."
+        },
+        {
+          "text": "His last two movies have been complete flops and now no studio will touch him."
+        }
+      ]
+    },
+    {
+      "senseNumber": 10,
+      "definition": "to be seen on somebody’s face for a short time",
+      "sensetop": "touch something",
+      "examples": [
+        {
+          "text": "A smile touched the corners of his mouth."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to have a small amount of a particular quality",
+      "examples": [
+        {
+          "text": "His hair was touched with grey."
+        },
+        {
+          "text": "Some of her poems are touched with real genius."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to upset somebody by reminding them of something they are particularly sensitive about",
+      "labels": "(British English)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to mention a subject that makes somebody feel angry, upset, embarrassed, etc.",
+      "examples": [
+        {
+          "text": "You touched a raw nerve when you mentioned his first wife."
+        },
+        {
+          "text": "My remarks about divorce had unwittingly touched a raw nerve."
+        },
+        {
+          "text": "The article struck a raw nerve as it revived unpleasant memories."
+        }
+      ],
+      "topics": ["Feelings"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to not hurt somebody physically in any way",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to refuse to get involved with somebody/something or in a particular situation",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Personally, I wouldn’t touch him or his business with a bargepole."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to say or do something that makes people feel sympathy or enthusiasm",
+      "examples": [
+        {
+          "text": "The speaker had obviously struck a chord with his audience."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to make contact with somebody again",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "senseNumber": 1,
+      "definition": "to reach the ground at the bottom of an area of water",
+      "examples": [
+        {
+          "text": "I put my feet down and touched bottom."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to reach the worst possible state or condition",
+      "examples": [
+        {
+          "text": "Her career really touched bottom with that movie."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to say or do something that makes people feel sympathy or enthusiasm",
+      "examples": [
+        {
+          "text": "The speaker had obviously touched a chord with his audience."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to show too much respect for somebody of a higher class, especially because you are anxious about what they think of you",
+      "labels": "(British English, disapproving)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "used when talking about your previous good luck or your hopes for the future, to avoid bringing bad luck",
+      "labels": "(saying)",
+      "examples": [
+        {
+          "text": "I've been driving for over 20 years and never had an accident—touch wood!"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "very close",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "We came within touching distance of winning the cup."
+        },
+        {
+          "text": "We live within spitting distance of the bus station."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/tʌtʃ/",
+        "audio": "to/touch/touch__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtʌtʃɪz/",
+        "audio": "to/touch/touches__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/tʌtʃt/",
+        "audio": "to/touch/touched__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtʌtʃɪŋ/",
+        "audio": "to/touch/touching__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/tʌtʃ/",
+        "audio": "to/touch/touch__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtʌtʃɪz/",
+        "audio": "to/touch/touches__us_1.mp3"
+      },
+      {
+        "pronunciation": "/tʌtʃt/",
+        "audio": "to/touch/touched__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtʌtʃɪŋ/",
+        "audio": "to/touch/touching__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: the verb from Old French tochier, probably from a Romance word of imitative origin; the noun originally from Old French touche, later (in certain senses) directly from the verb."
+}

@@ -1,0 +1,103 @@
+{
+  "term": "north",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/co/compasses.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the direction that is on your left when you watch the sun rise; one of the four main points of the compass",
+      "sensetop": "to the north (of…)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Which way is north?"
+        },
+        {
+          "text": "cold winds coming from the north"
+        },
+        {
+          "text": "a north-facing wall"
+        },
+        {
+          "text": "Mount Kenya is to the north of *(= further north than)* Nairobi.",
+          "contextForm": "to the north (of…)"
+        },
+        {
+          "text": "views of distant mountains to north and south"
+        }
+      ],
+      "topics": ["Geography"],
+      "collocations": {
+        "adjective": ["magnetic", "true", "frozen"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the northern part of a country, a region or the world",
+      "sensetop": "in the north",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "birds migrating from the north"
+        },
+        {
+          "text": "Houses are less expensive in the North *(= of England)* than in the South.",
+          "contextForm": "in the north"
+        },
+        {
+          "text": "They wanted to escape the cold of the north."
+        },
+        {
+          "text": "The main road ran across the north of the island."
+        },
+        {
+          "text": "There's been a severe earthquake in the north of the country."
+        },
+        {
+          "text": "Edinburgh was called the Athens of the North."
+        }
+      ],
+      "topics": ["Geography"],
+      "collocations": {
+        "adjective": ["magnetic", "true", "frozen"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the north-east states of the US which fought against the South in the American Civil War",
+      "examples": [
+        {
+          "text": "Some delegates from Virginia voted to join the North."
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "the richer and more developed countries of the world, especially in Europe and North America",
+      "examples": [
+        {
+          "text": "The North refused to commit itself to safeguarding species diversity."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/nɔːθ/",
+        "audio": "no/north/north__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/nɔːrθ/",
+        "audio": "no/north/north__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English, of Germanic origin; related to Dutch noord and German nord."
+}

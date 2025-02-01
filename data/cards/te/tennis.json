@@ -1,0 +1,55 @@
+{
+  "term": "tennis",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/sp/sports_racket.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a game in which two or four players use rackets to hit a ball backwards and forwards across a net on a specially marked court",
+      "examples": [
+        {
+          "text": "to **play tennis**"
+        },
+        {
+          "text": "a **tennis player/court/ball**"
+        },
+        {
+          "text": "I met a friend for a quick game of tennis after work."
+        },
+        {
+          "text": "a tennis match/tournament"
+        },
+        {
+          "text": "She is a popular figure on the international tennis circuit."
+        },
+        {
+          "text": "He retired from competitive tennis at the age of 34."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"],
+      "collocations": {
+        "adjective": ["men’s", "women’s", "junior"],
+        "… of tennis": ["game"],
+        "verb + tennis": ["play", "watch"],
+        "tennis + noun": ["ball", "racket", "dress"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtenɪs/",
+        "audio": "te/tennis/tennis__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtenɪs/",
+        "audio": "te/tennis/tennis__us_3.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English tenetz, tenes ‘real tennis’, apparently from Old French tenez ‘take, receive’ (called by the server to an opponent), imperative of tenir."
+}

@@ -1,0 +1,66 @@
+{
+  "term": "tile",
+  "partOfSpeech": "noun",
+  "image": "data/images/ho/house_2.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a flat, usually square, piece of baked clay, carpet or other material that is used in rows for covering walls and floors",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "ceramic floor tiles"
+        },
+        {
+          "text": "carpet tiles"
+        }
+      ],
+      "topics": ["Houses and homes", "Buildings"],
+      "collocations": {
+        "adjective": ["broken", "cracked", "damaged"],
+        "verb + tile": ["cover something with", "fit", "lay"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a piece of baked clay that is used in rows for covering roofs",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "We lost a few tiles in the storm."
+        }
+      ],
+      "topics": ["Buildings"],
+      "collocations": {
+        "adjective": ["broken", "cracked", "damaged"],
+        "verb + tile": ["cover something with", "fit", "lay"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "any of the small flat pieces that are used in particular board games",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to stay out late enjoying yourself",
+      "labels": "(British English, informal)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/taɪl/",
+        "audio": "ti/tile/tile__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/taɪl/",
+        "audio": "ti/tile/tile__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English tigele, from Latin tegula, from an Indo-European root meaning ‘cover’."
+}

@@ -1,0 +1,69 @@
+{
+  "term": "corporation",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a large business company",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "multinational corporations"
+        },
+        {
+          "text": "the Chrysler corporation"
+        }
+      ],
+      "topics": ["Business"],
+      "collocations": {
+        "adjective": ["big", "giant", "huge"],
+        "corporation + noun": ["tax"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "an organization or a group of organizations that is recognized by law as a single unit",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "urban development corporations"
+        }
+      ],
+      "topics": ["Business"],
+      "collocations": {
+        "adjective": ["big", "giant", "huge"],
+        "corporation + noun": ["tax"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a group of people elected to govern a large town or city and provide public services",
+      "labels": "(British English)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "the Lord Mayor and Corporation of the City of London"
+        }
+      ],
+      "topics": ["Politics"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌkɔːpəˈreɪʃn/",
+        "audio": "co/corporation/corporation__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌkɔːrpəˈreɪʃn/",
+        "audio": "co/corporation/corporation__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from late Latin corporatio(n-), from Latin corporare ‘combine in one body’, from corpus, corpor- ‘body’."
+}

@@ -1,0 +1,58 @@
+{
+  "term": "potato",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/ve/vegetables_misc.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a round white vegetable with a brown or red skin that grows underground as part of a plant also called a potato",
+      "examples": [
+        {
+          "text": "Will you peel the potatoes for me?"
+        },
+        {
+          "text": "**roast/fried potatoes**"
+        },
+        {
+          "text": "potato salad"
+        },
+        {
+          "text": "leek and potato soup"
+        },
+        {
+          "text": "a plate of fried potato skins"
+        },
+        {
+          "text": "boiled potatoes with sour cream and chives"
+        },
+        {
+          "text": "potatoes baked in their jackets"
+        }
+      ],
+      "topics": ["Food"],
+      "collocations": {
+        "adjective": ["baking", "new", "sweet"],
+        "… of potatoes": ["sack"],
+        "verb + potato": ["eat", "have", "peel"],
+        "potato + noun": ["chip", "crisp", "pancake"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pəˈteɪtəʊ/",
+        "audio": "po/potato/potato__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pəˈteɪtəʊ/",
+        "audio": "po/potato/potato__us_2_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 16th cent.: from Spanish patata, variant of Taino batata ‘sweet potato’. The English word originally denoted the sweet potato and gained its current sense in the late 16th cent."
+}

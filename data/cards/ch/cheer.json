@@ -1,0 +1,110 @@
+{
+  "term": "cheer",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "cheer",
+      "heSheIt": "cheers"
+    },
+    "pastSimple": "cheered",
+    "pastParticiple": "cheered",
+    "ingForm": "cheering"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to shout loudly, in order to show support or praise for somebody, or to encourage them",
+      "sensetop": "cheer for somebody/somethingcheer somebody",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "We all cheered as the team came onto the field."
+        },
+        {
+          "text": "Cheering crowds greeted their arrival."
+        },
+        {
+          "text": "The fans cheered for their team.",
+          "contextForm": "cheer for somebody/something"
+        },
+        {
+          "text": "The crowd cheered the president as he drove slowly by.",
+          "contextForm": "cheer somebody"
+        },
+        {
+          "text": "The crowd cheered loudly as he came on stage."
+        },
+        {
+          "text": "The crowd cheered loudly as the goalkeeper made a brilliant save."
+        }
+      ],
+      "collocations": {
+        "adverb": ["loudly", "wildly"],
+        "preposition": ["for"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to encourage somebody or to give them hope or comfort",
+      "sensetop": "be cheered (by something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She was cheered by the news from home.",
+          "contextForm": "be cheered (by something)"
+        },
+        {
+          "text": "He was cheered by the thought of seeing them again."
+        },
+        {
+          "text": "I was greatly cheered by this news."
+        }
+      ],
+      "collocations": {
+        "adverb": ["greatly", "a lot", "a bit"],
+        "preposition": ["with"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/tʃɪə(r)/",
+        "audio": "ch/cheer/cheer__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/tʃɪəz/",
+        "audio": "ch/cheer/cheers__gb_5.mp3"
+      },
+      {
+        "pronunciation": "/tʃɪəd/",
+        "audio": "ch/cheer/cheered__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtʃɪərɪŋ/",
+        "audio": "ch/cheer/cheering__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/tʃɪr/",
+        "audio": "ch/cheer/cheer__us_1.mp3"
+      },
+      {
+        "pronunciation": "/tʃɪrz/",
+        "audio": "ch/cheer/cheers__us_1.mp3"
+      },
+      {
+        "pronunciation": "/tʃɪrd/",
+        "audio": "ch/cheer/cheered__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtʃɪrɪŋ/",
+        "audio": "ch/cheer/cheering__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

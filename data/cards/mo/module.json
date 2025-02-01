@@ -1,0 +1,93 @@
+{
+  "term": "module",
+  "partOfSpeech": "noun",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a unit that can form part of a course of study, especially at a college or university in the UK",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The course consists of ten core modules and five optional modules."
+        },
+        {
+          "text": "Participants who complete 10 online modules will receive their certificates in June."
+        },
+        {
+          "text": "The course material is divided into four modules."
+        },
+        {
+          "text": "Each student takes five modules."
+        }
+      ],
+      "topics": ["Education"],
+      "collocations": {
+        "adjective": ["individual", "compulsory", "optional"],
+        "verb + module": ["do", "study", "complete"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a unit of a computer system or program that has a particular function",
+      "labels": "(computing)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "You can buy memory modules to increase storage capacity."
+        },
+        {
+          "text": "New software modules include a virtual memory tool."
+        }
+      ],
+      "topics": ["Computers"],
+      "collocations": {
+        "adjective": ["command", "lunar", "memory"],
+        "verb + module": ["add", "configure", "install"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "one of a set of separate parts or units that can be joined together to make a machine, a piece of furniture, a building, etc.",
+      "examples": [
+        {
+          "text": "Ships are now built in modules rather than built in a whole from the base up."
+        }
+      ],
+      "collocations": {
+        "adjective": ["command", "lunar", "memory"],
+        "verb + module": ["add", "configure", "install"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a unit of a spacecraft that can function independently of the main part",
+      "examples": [
+        {
+          "text": "Photographs were taken from a lunar module"
+        },
+        {
+          "text": "the tiny command module of the spaceship"
+        }
+      ],
+      "collocations": {
+        "adjective": ["command", "lunar", "memory"],
+        "verb + module": ["add", "configure", "install"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmɒdjuːl/",
+        "audio": "mo/module/module__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmɑːdʒuːl/",
+        "audio": "mo/module/module__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 16th cent. (in the senses ‘allotted scale’ and ‘plan, model’): from French, or from Latin modulus ‘measure’, diminutive of modus. Current senses date from the 1950s."
+}

@@ -1,0 +1,128 @@
+{
+  "term": "violate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "violate",
+      "heSheIt": "violates"
+    },
+    "pastSimple": "violated",
+    "pastParticiple": "violated",
+    "ingForm": "violating"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to go against or refuse to obey a law, an agreement, etc.",
+      "sensetop": "violate something",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "to violate international law"
+        },
+        {
+          "text": "They have flagrantly violated the treaty."
+        },
+        {
+          "text": "The directive violates fundamental human rights."
+        }
+      ],
+      "synonyms": "flout",
+      "topics": ["Discussion and agreement", "Law and justice"],
+      "collocations": {
+        "adverb": ["blatantly", "flagrantly", "clearly"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to upset or not respect somebody’s peace, privacy, etc.",
+      "sensetop": "violate something",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She accused the press photographers of violating her privacy."
+        },
+        {
+          "text": "The peace of the island community had been brutally violated."
+        },
+        {
+          "text": "The peace of this island community has been repeatedly violated."
+        },
+        {
+          "text": "Their voices sounded shrill and incongruous, violating the silence."
+        }
+      ],
+      "collocations": {
+        "adverb": ["blatantly", "flagrantly", "clearly"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to damage or destroy a holy or special place",
+      "sensetop": "violate something",
+      "examples": [
+        {
+          "text": "to violate a grave"
+        }
+      ],
+      "collocations": {
+        "adverb": ["blatantly", "flagrantly", "clearly"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to force somebody to have sex",
+      "sensetop": "violate somebody",
+      "labels": "(literary or old-fashioned)",
+      "examples": [
+        {
+          "text": "He had drugged her and then violated her."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈvaɪəleɪt/",
+        "audio": "vi/violate/violate__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈvaɪəleɪts/",
+        "audio": "vi/violate/violates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈvaɪəleɪtɪd/",
+        "audio": "vi/violate/violated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈvaɪəleɪtɪŋ/",
+        "audio": "vi/violate/violating__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈvaɪəleɪt/",
+        "audio": "vi/violate/violate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈvaɪəleɪts/",
+        "audio": "vi/violate/violates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈvaɪəleɪtɪd/",
+        "audio": "vi/violate/violated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈvaɪəleɪtɪŋ/",
+        "audio": "vi/violate/violating__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin violat- ‘treated violently’, from the verb violare."
+}

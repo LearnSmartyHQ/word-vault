@@ -1,0 +1,131 @@
+{
+  "term": "label",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b1",
+  "image": "data/images/la/label_tag_ticket.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a piece of paper, etc. that is attached to something and that gives information about it",
+      "sensetop": "on a label",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Always **read the label** carefully."
+        },
+        {
+          "text": "price/address labels"
+        },
+        {
+          "text": "The washing instructions are on the label.",
+          "contextForm": "on a label"
+        },
+        {
+          "text": "The label on the bottle listed the ingredients."
+        },
+        {
+          "text": "It doesn't have a price label on it."
+        },
+        {
+          "text": "She stuck labels on all the jars."
+        },
+        {
+          "text": "The care label says ‘dry-clean only’."
+        },
+        {
+          "text": "What does it say on the label?"
+        },
+        {
+          "text": "This program produces address labels from your database."
+        }
+      ],
+      "synonyms": "tag, ticket",
+      "collocations": {
+        "adjective": ["adhesive", "sticky", "package"],
+        "verb + label": ["bear", "carry", "have"],
+        "preposition": ["on a/​the label", "label on"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a word or phrase that is used to describe somebody/something in a way that seems too general, unfair or not correct",
+      "labels": "(disapproving)",
+      "examples": [
+        {
+          "text": "I hate the label ‘millennial’."
+        },
+        {
+          "text": "One sometimes feels that the label ‘classic’ is applied to any book that is dull."
+        },
+        {
+          "text": "Why do we need to attach a label to these feelings?"
+        },
+        {
+          "text": "He was cruelly given the label ‘Mr Zero’ by the press."
+        }
+      ],
+      "collocations": {
+        "adjective": ["ideological", "party"],
+        "verb + label": ["apply", "assign", "attach"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the name or trademark of a fashion company",
+      "cefr": "b1",
+      "examples": [
+        {
+          "text": "today's major fashion labels"
+        },
+        {
+          "text": "She plans to launch her own designer clothes label."
+        },
+        {
+          "text": "He's really fashion-conscious and will only wear labels *(= clothes with a designer label)*."
+        }
+      ],
+      "topics": ["Clothes and Fashion"]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a company that produces and sells music, CDs, etc.",
+      "examples": [
+        {
+          "text": "an independent record label"
+        },
+        {
+          "text": "It's his first release for a major label."
+        },
+        {
+          "text": "The band is hoping to sign with a major label."
+        },
+        {
+          "text": "The record was produced under the Virgin label."
+        }
+      ],
+      "collocations": {
+        "adjective": ["music", "record", "major"],
+        "verb + label": ["launch", "sign to", "sign with"],
+        "preposition": ["under a/​the label"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈleɪbl/",
+        "audio": "la/label/label__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈleɪbl/",
+        "audio": "la/label/label__us_4.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (denoting a narrow strip): from Old French, ‘ribbon’."
+}

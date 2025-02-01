@@ -1,0 +1,143 @@
+{
+  "term": "greet",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "greet",
+      "heSheIt": "greets"
+    },
+    "pastSimple": "greeted",
+    "pastParticiple": "greeted",
+    "ingForm": "greeting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to say hello to somebody or to welcome them",
+      "sensetop": "greet somebodygreet somebody with something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He greeted all the guests warmly as they arrived.",
+          "contextForm": "greet somebody"
+        },
+        {
+          "text": "The winning team was greeted by cheering crowds."
+        },
+        {
+          "text": "She greeted us with a smile.",
+          "contextForm": "greet somebody with something"
+        },
+        {
+          "text": "She greeted him with a quick kiss."
+        },
+        {
+          "text": "Stella greeted her mother coolly."
+        },
+        {
+          "text": "The head teacher greeted all the pupils by name."
+        },
+        {
+          "text": "The president rose to greet his guests."
+        },
+        {
+          "text": "The two men greeted one another warmly."
+        },
+        {
+          "text": "You must be there to greet your guests."
+        }
+      ],
+      "collocations": {
+        "adverb": ["cheerfully", "enthusiastically", "warmly"],
+        "verb + greet": ["be there to", "be waiting to", "come to"],
+        "preposition": ["with"],
+        "phrases": ["greet somebody by name"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to react to somebody/something in a particular way",
+      "sensetop": "greet somebody/somethingbe greeted with somethingbe greeted as something",
+      "examples": [
+        {
+          "text": "Loud cheers greeted the news.",
+          "contextForm": "greet somebody/something"
+        },
+        {
+          "text": "The changes were greeted with suspicion.",
+          "contextForm": "be greeted with something"
+        },
+        {
+          "text": "The team's win was greeted as a major triumph.",
+          "contextForm": "be greeted as something"
+        },
+        {
+          "text": "The news was greeted with astonishment."
+        },
+        {
+          "text": "The announcement was greeted angrily by the workers."
+        },
+        {
+          "text": "Loud cheers greeted the athletes."
+        }
+      ],
+      "collocations": {
+        "adverb": ["enthusiastically", "coolly"],
+        "preposition": ["with"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to be the first thing that you see, hear or smell at a particular time",
+      "sensetop": "be greeted by something",
+      "examples": [
+        {
+          "text": "When she opened the door she was greeted by a scene of utter confusion.",
+          "contextForm": "be greeted by something"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɡriːt/",
+        "audio": "gr/greet/greet__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɡriːts/",
+        "audio": "gr/greet/greets__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɡriːtɪd/",
+        "audio": "gr/greet/greeted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɡriːtɪŋ/",
+        "audio": "gr/greet/greeting__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡriːt/",
+        "audio": "gr/greet/greet__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɡriːts/",
+        "audio": "gr/greet/greets__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɡriːtɪd/",
+        "audio": "gr/greet/greeted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɡriːtɪŋ/",
+        "audio": "gr/greet/greeting__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English grētan ‘approach, attack, or salute’, of West Germanic origin; related to Dutch groeten and German grüssen ‘greet’."
+}

@@ -1,0 +1,264 @@
+{
+  "term": "suggest",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "suggest",
+      "heSheIt": "suggests"
+    },
+    "pastSimple": "suggested",
+    "pastParticiple": "suggested",
+    "ingForm": "suggesting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to put forward an idea or a plan for other people to think about",
+      "sensetop": "suggest somethingsuggest something to somebodysuggest itselfsuggest itself to somebodysuggest (that)…suggest doing somethingit is suggested that…+ speech",
+      "labels": "(British English also)(British English or formal, North American English)(especially North American English)(British English or formal, North American English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I'd like to suggest a different explanation for the company's decline.",
+          "contextForm": "suggest something"
+        },
+        {
+          "text": "The designer is known for suggesting innovative ideas to her clients.",
+          "contextForm": "suggest something to somebody"
+        },
+        {
+          "text": "He thought long and hard, but no answer suggested itself.",
+          "contextForm": "suggest itself"
+        },
+        {
+          "text": "A solution immediately suggested itself to me *(= I immediately thought of a solution)*.",
+          "contextForm": "suggest itself to somebody"
+        },
+        {
+          "text": "I **strongly suggest **(that) you don't get involved.",
+          "contextForm": "suggest (that)…"
+        },
+        {
+          "text": "I suggested going in my car.",
+          "contextForm": "suggest doing something"
+        },
+        {
+          "text": "It has been suggested that bright children take their exams early.",
+          "contextForm": "it is suggested that…"
+        },
+        {
+          "text": "It has been suggested that bright children should take their exams early."
+        },
+        {
+          "text": "‘We could go for a drive,’ Nate suggested hopefully.",
+          "contextForm": "+ speech"
+        },
+        {
+          "text": "I suggest (that) we go out to eat."
+        },
+        {
+          "text": "She suggested using white text on a black background."
+        },
+        {
+          "text": "The report suggested a two-stage process."
+        },
+        {
+          "text": "‘Shall I tell them you're unwell?’ Alice suggested helpfully."
+        },
+        {
+          "text": "He suggested to the committee that they delay making a decision."
+        },
+        {
+          "text": "I tentatively suggested that she might be happier working somewhere else."
+        },
+        {
+          "text": "I strongly suggest keeping personal and business accounts separate."
+        },
+        {
+          "text": "I would suggest that you see your doctor about this."
+        },
+        {
+          "text": "It seems reasonable to suggest that all life forms on earth share a common origin."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adverb": ["highly", "strongly", "tentatively"],
+        "verb + suggest": [
+          "seem reasonable to",
+          "be far-fetched to",
+          "seem far-fetched to"
+        ],
+        "preposition": ["as", "for", "to"],
+        "phrases": ["can I suggest…", "I suggest…", "I would suggest…"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to tell somebody about a suitable person, thing, method, etc. for a particular job or purpose",
+      "sensetop": "suggest somebody/something for somethingsuggest somebody/something as somethingsuggest somebody/somethingsuggest how, what, etc…",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Who would you suggest for the job?",
+          "contextForm": "suggest somebody/something for something"
+        },
+        {
+          "text": "She suggested Paris as a good place for the conference.",
+          "contextForm": "suggest somebody/something as something"
+        },
+        {
+          "text": "She suggested John as chairman."
+        },
+        {
+          "text": "Can you suggest a better way of doing it?",
+          "contextForm": "suggest somebody/something"
+        },
+        {
+          "text": "May I suggest a white wine with this dish, Sir?"
+        },
+        {
+          "text": "There is a **suggested donation** of $5 to attend the show."
+        },
+        {
+          "text": "Can you suggest how I might contact him?",
+          "contextForm": "suggest how, what, etc…"
+        }
+      ],
+      "synonyms": "recommend",
+      "topics": ["Suggestions and advice"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to put an idea into somebody’s mind; to make somebody think that something is true",
+      "sensetop": "suggest (that)…suggest somethingsuggest something to somebody",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "All the **evidence suggests** (that) he stole the money.",
+          "contextForm": "suggest (that)…"
+        },
+        {
+          "text": "Recent **studies suggest** the possibility of a cure for the disease.",
+          "contextForm": "suggest something"
+        },
+        {
+          "text": "Some believe that organic foods offer no health benefits, but this research **suggests otherwise**."
+        },
+        {
+          "text": "The symptoms suggest a minor heart attack."
+        },
+        {
+          "text": "The stage lighting was used to suggest a beach scene."
+        },
+        {
+          "text": "What do these results suggest to you?",
+          "contextForm": "suggest something to somebody"
+        },
+        {
+          "text": "There is no evidence to suggest the presence of infection."
+        },
+        {
+          "text": "The novel implicitly suggests that racism can explain the murder."
+        },
+        {
+          "text": "The evidence suggests quite strongly that the fire was caused by an explosion."
+        },
+        {
+          "text": "The ending is meant to suggest a form of redemption."
+        }
+      ],
+      "synonyms": "indicate",
+      "collocations": {
+        "adverb": ["certainly", "clearly", "strongly"],
+        "verb + suggest": ["seem to", "be meant to"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to state something indirectly",
+      "sensetop": "suggest (that)…suggest something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Are you suggesting (that) I’m lazy?",
+          "contextForm": "suggest (that)…"
+        },
+        {
+          "text": "I’m not suggesting (that) she was responsible for the accident."
+        },
+        {
+          "text": "I would never suggest such a thing.",
+          "contextForm": "suggest something"
+        },
+        {
+          "text": "It is not far-fetched to suggest a connection between them."
+        },
+        {
+          "text": "You're not seriously suggesting that is a plausible explanation?"
+        },
+        {
+          "text": "I do not mean to suggest that the poem is purely biographical."
+        },
+        {
+          "text": "I am merely suggesting that there is more than one way to view this matter."
+        }
+      ],
+      "collocations": {
+        "adverb": ["highly", "strongly", "tentatively"],
+        "verb + suggest": [
+          "seem reasonable to",
+          "be far-fetched to",
+          "seem far-fetched to"
+        ],
+        "preposition": ["as", "for", "to"],
+        "phrases": ["can I suggest…", "I suggest…", "I would suggest…"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/səˈdʒest/",
+        "audio": "su/suggest/suggest__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/səˈdʒests/",
+        "audio": "su/suggest/suggests__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/səˈdʒestɪd/",
+        "audio": "su/suggest/suggested__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/səˈdʒestɪŋ/",
+        "audio": "su/suggest/suggesting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/səˈdʒest//səɡˈdʒest/",
+        "audio": "su/suggest/suggest__us_1_rr.mp3"
+      },
+      {
+        "pronunciation": "/səˈdʒests//səɡˈdʒests/",
+        "audio": "su/suggest/suggests__us_1.mp3"
+      },
+      {
+        "pronunciation": "/səˈdʒestɪd//səɡˈdʒestɪd/",
+        "audio": "su/suggest/suggested__us_1.mp3"
+      },
+      {
+        "pronunciation": "/səˈdʒestɪŋ//səɡˈdʒestɪŋ/",
+        "audio": "su/suggest/suggesting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 16th cent.: from Latin suggest- ‘suggested, prompted’, from the verb suggerere, from sub- ‘from below’ + gerere ‘bring’."
+}

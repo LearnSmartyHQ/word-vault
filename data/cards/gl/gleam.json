@@ -1,0 +1,119 @@
+{
+  "term": "gleam",
+  "partOfSpeech": "verb",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "gleam",
+      "heSheIt": "gleams"
+    },
+    "pastSimple": "gleamed",
+    "pastParticiple": "gleamed",
+    "ingForm": "gleaming"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to shine with a pale clear light",
+      "examples": [
+        {
+          "text": "The moonlight gleamed on the water."
+        },
+        {
+          "text": "Her eyes gleamed in the dark."
+        },
+        {
+          "text": "The knife's blade gleamed dully in the dark."
+        },
+        {
+          "text": "A light gleamed faintly from a first floor window."
+        },
+        {
+          "text": "The evening light gleamed softly through the window."
+        }
+      ],
+      "collocations": {
+        "adverb": ["dully", "faintly", "softly"],
+        "preposition": ["with"],
+        "phrases": ["gleam golden, white, etc."]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to look very clean or bright",
+      "sensetop": "gleam (with something)+ adj.",
+      "examples": [
+        {
+          "text": "The house was gleaming with fresh white paint.",
+          "contextForm": "gleam (with something)"
+        },
+        {
+          "text": "Her teeth gleamed white against the tanned skin of her face.",
+          "contextForm": "+ adj."
+        },
+        {
+          "text": "The long oak table gleamed with polish."
+        },
+        {
+          "text": "The pebble beach gleamed white in the moonlight."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "if a person’s eyes gleam with a particular emotion, or an emotion gleams in a person’s eyes, the person shows that emotion",
+      "sensetop": "gleam (with something)gleam (in something)",
+      "examples": [
+        {
+          "text": "His eyes gleamed with amusement.",
+          "contextForm": "gleam (with something)"
+        },
+        {
+          "text": "Amusement gleamed in his eyes.",
+          "contextForm": "gleam (in something)"
+        },
+        {
+          "text": "Laughter gleamed in his eyes."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɡliːm/",
+        "audio": "gl/gleam/gleam__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ɡliːmz/",
+        "audio": "gl/gleam/gleams__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɡliːmd/",
+        "audio": "gl/gleam/gleamed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɡliːmɪŋ/",
+        "audio": "gl/gleam/gleaming__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡliːm/",
+        "audio": "gl/gleam/gleam__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɡliːmz/",
+        "audio": "gl/gleam/gleams__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɡliːmd/",
+        "audio": "gl/gleam/gleamed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɡliːmɪŋ/",
+        "audio": "gl/gleam/gleaming__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English glǣm ‘brilliant light’, of Germanic origin."
+}

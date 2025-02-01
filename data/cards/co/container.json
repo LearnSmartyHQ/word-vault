@@ -1,0 +1,112 @@
+{
+  "term": "container",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b1",
+  "image": "data/images/ve/vehicles_boats_ships_2.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a box, bottle, etc. in which something can be stored or transported",
+      "sensetop": "in a containercontainer of somethingcontainer for something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **plastic container**"
+        },
+        {
+          "text": "Food will last longer if kept in an airtight container.",
+          "contextForm": "in a container"
+        },
+        {
+          "text": "These women carry heavy containers of water over long distances.",
+          "contextForm": "container of something"
+        },
+        {
+          "text": "containers for nuclear materials",
+          "contextForm": "container for something"
+        },
+        {
+          "text": "Fill the container with water."
+        },
+        {
+          "text": "Keep the seeds in an airtight container."
+        },
+        {
+          "text": "Store food in durable containers with lids."
+        },
+        {
+          "text": "Tubes are the ideal container for paint as air is excluded."
+        },
+        {
+          "text": "a container holding five gallons"
+        },
+        {
+          "text": "a container of milk"
+        },
+        {
+          "text": "childproof containers for dangerous substances"
+        }
+      ],
+      "collocations": {
+        "adjective": ["airtight", "closed", "sealed"],
+        "verb + container": ["fill", "store something in"],
+        "container + verb": ["contain something", "hold something"],
+        "container + noun": ["garden", "plant"],
+        "preposition": ["in a/​the container", "container for", "container of"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a large metal or wooden box of a standard size in which goods are packed so that they can easily be lifted onto a ship, train, etc. to be transported",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a **shipping container**"
+        },
+        {
+          "text": "a **container ship** *(= one designed to transport such containers)*"
+        },
+        {
+          "text": "It's a thirty thousand tonne container ship."
+        },
+        {
+          "text": "containers holding shipments of bananas"
+        }
+      ],
+      "topics": ["Transport by bus and train", "Transport by water"],
+      "collocations": {
+        "adjective": ["empty", "full", "bulk"],
+        "container + verb": ["contain something", "hold something"],
+        "container + noun": ["lorry", "ship", "port"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a box or pot made of wood, clay, plastic, etc. for growing plants in",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Planting bulbs in containers is a great alternative if you don't have a garden."
+        }
+      ],
+      "topics": ["Gardens"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kənˈteɪnə(r)/",
+        "audio": "xc/container/xcontainer__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kənˈteɪnər/",
+        "audio": "xc/container/xcontainer__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

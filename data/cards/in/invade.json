@@ -1,0 +1,103 @@
+{
+  "term": "invade",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "invade",
+      "heSheIt": "invades"
+    },
+    "pastSimple": "invaded",
+    "pastParticiple": "invaded",
+    "ingForm": "invading"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to enter a country, town, etc. using military force in order to take control of it",
+      "sensetop": "invade something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Troops invaded on August 9th that year."
+        },
+        {
+          "text": "When did the Romans invade Britain?",
+          "contextForm": "invade something"
+        }
+      ],
+      "topics": ["War and conflict"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to enter a place in large numbers, especially in a way that causes damage or problems",
+      "sensetop": "invade something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Demonstrators invaded the government buildings."
+        },
+        {
+          "text": "As the final whistle blew, fans began invading the pitch."
+        },
+        {
+          "text": "The cancer cells may invade other parts of the body."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to affect something in an unpleasant or annoying way",
+      "sensetop": "invade something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Do the press have the right to **invade her privacy** in this way?"
+        },
+        {
+          "text": "You feel tense with worrying thoughts constantly invading your sleep."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈveɪd/",
+        "audio": "in/invade/invade__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈveɪdz/",
+        "audio": "in/invade/invades__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈveɪdɪd/",
+        "audio": "in/invade/invaded__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈveɪdɪŋ/",
+        "audio": "in/invade/invading__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈveɪd/",
+        "audio": "in/invade/invade__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈveɪdz/",
+        "audio": "in/invade/invades__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈveɪdɪd/",
+        "audio": "in/invade/invaded__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈveɪdɪŋ/",
+        "audio": "in/invade/invading__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the sense ‘attack or assault (a person)’): from Latin invadere, from in- ‘into’ + vadere ‘go’."
+}

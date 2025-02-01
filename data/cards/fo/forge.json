@@ -1,0 +1,120 @@
+{
+  "term": "forge",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "forge",
+      "heSheIt": "forges"
+    },
+    "pastSimple": "forged",
+    "pastParticiple": "forged",
+    "ingForm": "forging"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to put a lot of effort into making something successful or strong so that it will last",
+      "sensetop": "forge something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a move to forge new links between management and workers"
+        },
+        {
+          "text": "Strategic alliances are being forged with major European companies."
+        },
+        {
+          "text": "She forged a new career in the music business."
+        },
+        {
+          "text": "They forged a lead in the first 30 minutes of the game."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to make an illegal copy of something in order to cheat people",
+      "sensetop": "forge something",
+      "labels": "(British English)(North American English)(British English)(North American English)(especially British English)(especially British English)(especially North American English)(especially British English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "to forge a passport/banknote/document"
+        },
+        {
+          "text": "He's getting good at forging his mother's signature."
+        },
+        {
+          "text": "New digital techniques can spot paintings that have been forged."
+        }
+      ],
+      "topics": ["Crime and punishment"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to shape metal by heating it in a fire and hitting it with a hammer; to make an object in this way",
+      "sensetop": "forge something (from something)",
+      "examples": [
+        {
+          "text": "swords forged from steel"
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to move forward in a steady but powerful way",
+      "sensetop": "+ adv./prep.",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "He forged through the crowds to the front of the stage."
+        },
+        {
+          "text": "She forged into the lead *(= in a competition, race, etc.)*."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/fɔːdʒ/",
+        "audio": "fo/forge/forge__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈfɔːdʒɪz/",
+        "audio": "fo/forge/forges__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/fɔːdʒd/",
+        "audio": "fo/forge/forged__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈfɔːdʒɪŋ/",
+        "audio": "fo/forge/forging__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/fɔːrdʒ/",
+        "audio": "fo/forge/forge__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈfɔːrdʒɪz/",
+        "audio": "fo/forge/forges__us_1.mp3"
+      },
+      {
+        "pronunciation": "/fɔːrdʒd/",
+        "audio": "fo/forge/forged__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈfɔːrdʒɪŋ/",
+        "audio": "fo/forge/forging__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "verb senses 1 to 3 Middle English (also in the general sense ‘make, construct’): from Old French forger, from Latin fabricare ‘fabricate’, from fabrica ‘manufactured object, workshop’. The noun is via Old French from Latin fabrica. verb sense 4 mid 18th cent.: perhaps an aberrant pronunciation of force."
+}

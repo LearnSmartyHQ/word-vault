@@ -1,0 +1,794 @@
+{
+  "term": "speak",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "speak",
+      "heSheIt": "speaks"
+    },
+    "pastSimple": "spoke",
+    "pastParticiple": "spoken",
+    "ingForm": "speaking"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to talk to somebody about something; to have a conversation with somebody",
+      "sensetop": "speak to somebodyspeak about somethingspeak to somebody about something/somebodyspeak with somebody (about something/somebody)",
+      "labels": "(especially North American English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The President refused to speak to reporters.",
+          "contextForm": "speak to somebody"
+        },
+        {
+          "text": "We never spoke about her illness.",
+          "contextForm": "speak about something"
+        },
+        {
+          "text": "The confidential setting allowed us to **speak freely** about our concerns."
+        },
+        {
+          "text": "I've spoken to the manager about it.",
+          "contextForm": "speak to somebody about something/somebody"
+        },
+        {
+          "text": "Can I speak with you for a minute?",
+          "contextForm": "speak with somebody (about something/somebody)"
+        },
+        {
+          "text": "‘Do you know him?’ ‘Not to speak to.’ *(= I recognize him but do not really know him)*"
+        },
+        {
+          "text": "‘Can I speak to Susan?’ ‘Speaking.’ *(= at the beginning of a phone conversation)*"
+        },
+        {
+          "text": "I saw her in the street but we didn't speak."
+        },
+        {
+          "text": "I'm speaking from experience."
+        },
+        {
+          "text": "I didn't get a chance to speak to him."
+        },
+        {
+          "text": "No one had ever dared speak to him like that before."
+        },
+        {
+          "text": "Employees have to get permission to speak to the media."
+        },
+        {
+          "text": "We're not speaking to each other at the moment."
+        },
+        {
+          "text": "Police would like to speak to anyone who saw the incident."
+        },
+        {
+          "text": "Speaking to journalists before the premiere, the actor praised the film."
+        },
+        {
+          "text": "I've spoken to a number of people and they all agreed with me."
+        },
+        {
+          "text": "Speak to friends and family first, before making any major decisions."
+        },
+        {
+          "text": "It's better to speak directly to the patient."
+        },
+        {
+          "text": "I need to speak to Joseph about this matter."
+        },
+        {
+          "text": "I need to speak with your parents."
+        },
+        {
+          "text": "You should speak with someone who knows more about the subject."
+        },
+        {
+          "text": "I had the opportunity to speak with the president alone."
+        },
+        {
+          "text": "I spoke at length with him last week."
+        },
+        {
+          "text": "I need colleagues with whom I can speak frankly."
+        },
+        {
+          "text": "He spoke on condition of anonymity."
+        },
+        {
+          "text": "I could guess what he wanted to speak about, but I let him broach the subject."
+        },
+        {
+          "text": "We've spoken about this many times before."
+        },
+        {
+          "text": "We spoke briefly on the phone."
+        },
+        {
+          "text": "I know who she is, but we've never spoken."
+        },
+        {
+          "text": "The brothers have fallen out and barely speak."
+        }
+      ],
+      "collocations": {
+        "adverb": ["briefly", "at length", "hardly"],
+        "verb + speak": ["want to", "refuse to", "dare (to)"],
+        "preposition": ["about", "to", "with"],
+        "phrases": [
+          "be on speaking terms (with somebody)",
+          "a/​the chance to speak",
+          "a/​the opportunity to speak"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to use your voice to say something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The illness left him unable to speak."
+        },
+        {
+          "text": "Please speak more slowly."
+        },
+        {
+          "text": "Without speaking, she stood up and went out."
+        },
+        {
+          "text": "He **speaks with a** Scottish **accent**."
+        },
+        {
+          "text": "She **speaks in a** husky **voice**."
+        },
+        {
+          "text": "She has a beautiful speaking voice."
+        },
+        {
+          "text": "She was so moved she could hardly speak."
+        },
+        {
+          "text": "Nancy spoke softly."
+        },
+        {
+          "text": "You must speak loudly and clearly on the stage."
+        },
+        {
+          "text": "He lost his ability to speak."
+        },
+        {
+          "text": "the sounds made by a baby as it's learning to speak"
+        },
+        {
+          "text": "He was so afraid of breaking down he couldn't trust himself to speak."
+        },
+        {
+          "text": "The main character speaks directly into the camera."
+        },
+        {
+          "text": "She opened her mouth to speak and found she couldn't."
+        },
+        {
+          "text": "He nodded, not trusting himself to speak."
+        },
+        {
+          "text": "I nodded, afraid to speak."
+        },
+        {
+          "text": "For a while nobody spoke."
+        },
+        {
+          "text": "Raise your hand if you want to speak."
+        },
+        {
+          "text": "They take it in turns to speak."
+        },
+        {
+          "text": "Look at me while I'm speaking."
+        },
+        {
+          "text": "He always tends to speak first in any situation."
+        },
+        {
+          "text": "Do you feel shy about speaking in meetings?"
+        },
+        {
+          "text": "The children are never given a chance to speak."
+        },
+        {
+          "text": "They were speaking in hushed tones."
+        },
+        {
+          "text": "The characters speak in Cockney accents."
+        },
+        {
+          "text": "The whistle blower spoke anonymously on the radio."
+        },
+        {
+          "text": "I'm speaking from experience, having been there often."
+        },
+        {
+          "text": "I'm speaking from a teacher's perspective."
+        },
+        {
+          "text": "She's speaking from a position of authority."
+        }
+      ],
+      "collocations": {
+        "adverb": ["loudly", "quietly", "softly"],
+        "verb + speak": ["be able to", "be unable to", "can (hardly)"],
+        "preposition": ["about", "on", "against"],
+        "phrases": [
+          "the ability to speak",
+          "have the courage to speak",
+          "the right to speak"
+        ]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to be able to use a particular language",
+      "sensetop": "speak something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to speak several languages"
+        },
+        {
+          "text": "to speak a little Urdu"
+        },
+        {
+          "text": "Do you speak English?"
+        },
+        {
+          "text": "learning to speak a foreign language"
+        },
+        {
+          "text": "Peter was learning to speak French."
+        },
+        {
+          "text": "How many languages do you speak?"
+        },
+        {
+          "text": "None of them speak English."
+        },
+        {
+          "text": "None of them can speak English."
+        },
+        {
+          "text": "The ability to speak another language is a valued skill."
+        },
+        {
+          "text": "She speaks an unusual dialect."
+        },
+        {
+          "text": "He speaks German fluently."
+        },
+        {
+          "text": "He speaks fluent German."
+        },
+        {
+          "text": "I'm sorry, I don't speak any Russian."
+        },
+        {
+          "text": "She speaks a few words of Japanese."
+        },
+        {
+          "text": "It's difficult if you don't speak the language."
+        }
+      ],
+      "collocations": {
+        "adverb": ["fluently", "well"],
+        "verb + speak": ["be able to", "can", "be unable to"],
+        "preposition": ["in"],
+        "phrases": ["the ability to speak something"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to use a particular language to express yourself",
+      "sensetop": "speak somethingspeak in something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "What language is it they're speaking?",
+          "contextForm": "speak something"
+        },
+        {
+          "text": "Would you prefer it if we spoke in German?",
+          "contextForm": "speak in something"
+        },
+        {
+          "text": "What language are they speaking in?"
+        },
+        {
+          "text": "They were speaking in a language I didn't understand."
+        },
+        {
+          "text": "They were speaking a language I didn't understand."
+        },
+        {
+          "text": "What language do you speak at home?"
+        },
+        {
+          "text": "Only English is spoken in the classroom."
+        },
+        {
+          "text": "You can hear many different languages being spoken in these streets."
+        },
+        {
+          "text": "She speaks German to her kids and Italian to her husband."
+        },
+        {
+          "text": "We spoke half in Spanish and half in English."
+        },
+        {
+          "text": "I speak in my own language and she speaks in hers, and we get along fine."
+        }
+      ],
+      "collocations": {
+        "adverb": ["fluently", "well"],
+        "verb + speak": ["be able to", "can", "be unable to"],
+        "preposition": ["in"],
+        "phrases": ["the ability to speak something"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "speaking the language mentioned",
+      "examples": [
+        {
+          "text": "French-speaking Canada"
+        },
+        {
+          "text": "non-English-speaking students"
+        }
+      ]
+    },
+    {
+      "senseNumber": 6,
+      "definition": "to mention or describe something/somebody",
+      "sensetop": "speak of/about something/somebody",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She still speaks about him with great affection."
+        },
+        {
+          "text": "He was **speaking publicly** for the first time about the incident."
+        },
+        {
+          "text": "Witnesses spoke of a great ball of flame."
+        },
+        {
+          "text": "Her students **speak** very **highly** of her *(= they say very good things about her)*."
+        },
+        {
+          "text": "Speaking of travelling, *(= referring back to a subject just mentioned)* are you going anywhere exciting this year?"
+        },
+        {
+          "text": "The brochure speaks of beautiful secluded grounds."
+        },
+        {
+          "text": "He spoke of the need for patience."
+        },
+        {
+          "text": "He speaks of the experience as one of the highlights of his career."
+        },
+        {
+          "text": "They're speaking of things they don't understand."
+        },
+        {
+          "text": "He speaks frankly about his own shortcomings."
+        },
+        {
+          "text": "She has never spoken openly about her early life."
+        },
+        {
+          "text": "You can speak freely about anything you like."
+        },
+        {
+          "text": "one of the rare instances in which the sculptor spoke directly about the issue of race in art"
+        },
+        {
+          "text": "They are willing to speak candidly about their pain and loss."
+        },
+        {
+          "text": "He spoke passionately about his novel."
+        },
+        {
+          "text": "He speaks very warmly of you."
+        },
+        {
+          "text": "They speak nostalgically of those days."
+        },
+        {
+          "text": "Speaking of Brett, why isn't he here?"
+        },
+        {
+          "text": "“Speaking of that,” I interrupted, “how much is this going to cost?”"
+        },
+        {
+          "text": "I had lunch with her the other day. Speaking of which, let's stop for something to eat."
+        }
+      ],
+      "collocations": {
+        "adverb": ["loudly", "quietly", "softly"],
+        "verb + speak": ["be able to", "be unable to", "can (hardly)"],
+        "preposition": ["about", "on", "against"],
+        "phrases": [
+          "the ability to speak",
+          "have the courage to speak",
+          "the right to speak"
+        ]
+      }
+    },
+    {
+      "senseNumber": 7,
+      "definition": "to make a speech to an audience",
+      "sensetop": "+ adv./prep.speak (to somebody) (about something)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Hundreds of people came to hear her speak."
+        },
+        {
+          "text": "I hate **speaking in public**.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "He was **invited to speak** at a conference."
+        },
+        {
+          "text": "to speak on the radio"
+        },
+        {
+          "text": "Professor Todd spoke to the group about her research.",
+          "contextForm": "speak (to somebody) (about something)"
+        },
+        {
+          "text": "She **spoke in favour of** the new tax."
+        },
+        {
+          "text": "He has a number of **speaking engagements** this week."
+        },
+        {
+          "text": "I heard him speak at the debating society."
+        },
+        {
+          "text": "She speaks on health issues."
+        },
+        {
+          "text": "He said he was not authorized to speak on the matter."
+        },
+        {
+          "text": "She was invited to speak at a Harvard conference."
+        },
+        {
+          "text": "She is scheduled to speak today to the Economic Roundtable of Jacksonville."
+        },
+        {
+          "text": "He was speaking at a Democratic Party rally."
+        },
+        {
+          "text": "I visualized myself speaking in front of a large crowd."
+        },
+        {
+          "text": "He spoke in support of the bill on the senate floor."
+        },
+        {
+          "text": "In the past he has spoken against gay marriage."
+        },
+        {
+          "text": "I speak on behalf of many thousands of women."
+        },
+        {
+          "text": "She spoke eloquently about the need for action."
+        },
+        {
+          "text": "He will be speaking to history students about the causes of war."
+        },
+        {
+          "text": "He spoke at length about socialism."
+        },
+        {
+          "text": "First I'll speak briefly about the background to the project."
+        },
+        {
+          "text": "She spoke clearly and engagingly about her work."
+        }
+      ],
+      "collocations": {
+        "adverb": ["loudly", "quietly", "softly"],
+        "verb + speak": ["be able to", "be unable to", "can (hardly)"],
+        "preposition": ["about", "on", "against"],
+        "phrases": [
+          "the ability to speak",
+          "have the courage to speak",
+          "the right to speak"
+        ]
+      }
+    },
+    {
+      "senseNumber": 8,
+      "definition": "to say or state something",
+      "sensetop": "speak something",
+      "examples": [
+        {
+          "text": "She was clearly **speaking the truth**."
+        },
+        {
+          "text": "He spoke the final words of the play."
+        },
+        {
+          "text": "They had the courage to speak the truth."
+        }
+      ],
+      "collocations": {
+        "adverb": ["loudly", "quietly", "softly"],
+        "verb + speak": ["be able to", "be unable to", "can (hardly)"],
+        "preposition": ["about", "on", "against"],
+        "phrases": [
+          "the ability to speak",
+          "have the courage to speak",
+          "the right to speak"
+        ]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "what a person actually does means more than what they say they will do",
+      "labels": "(saying)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be willing to be polite or friendly towards somebody, especially after an argument",
+      "examples": [
+        {
+          "text": "She's not been on speaking terms with her uncle for years."
+        },
+        {
+          "text": "Are they speaking to each other again yet?"
+        },
+        {
+          "text": "We are still on speaking terms after the argument."
+        },
+        {
+          "text": "Ed and Dave aren't speaking at the moment."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "it is not necessary to give any further explanation about something because the information that is available already proves that it is true",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to show that what you are saying is true in a general, etc. way",
+      "examples": [
+        {
+          "text": "Generally speaking, the more you pay, the more you get."
+        },
+        {
+          "text": "There are, broadly speaking, two ways of doing this."
+        },
+        {
+          "text": "Personally speaking, I've always preferred Italian food."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "if you think about it in a particular way; true in some but not all ways",
+      "examples": [
+        {
+          "text": "All these points of view are related, in a manner of speaking."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "such a small amount that it is not worth mentioning",
+      "examples": [
+        {
+          "text": "They've got no friends to speak of."
+        },
+        {
+          "text": "She's saved a little money but nothing to speak of."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to emphasize that you are expressing something in an unusual or humorous way",
+      "examples": [
+        {
+          "text": "They were all very similar. All cut from the same cloth, so to speak."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be so easy to see and understand that you do not need to say anything else about it/them",
+      "examples": [
+        {
+          "text": "Her success speaks for itself."
+        },
+        {
+          "text": "Recent events speak for themselves."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to express what you think or want yourself, rather than somebody else doing it for you",
+      "examples": [
+        {
+          "text": "I'm quite capable of speaking for myself, thank you!"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to tell somebody that a general statement they have just made is not true of you",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "‘We didn't play very well.’ ‘Speak for yourself!’ *(= I think that I played well.)*"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to say or think bad things about somebody",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Don't speak ill of the dead."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to say that you are the type of person mentioned and are expressing your opinion from that point of view",
+      "examples": [
+        {
+          "text": "Speaking as a parent, I'm very concerned about standards in education."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to say exactly what you think, in a very direct way",
+      "examples": [
+        {
+          "text": "She’s never hesitated about speaking her mind."
+        },
+        {
+          "text": "Everyone should have the right to speak their mind."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "people say speak/talk of the devil when somebody they have been talking about appears unexpectedly",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Well, speak of the devil—here's Alice now!"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to say something when you should not, for example because it is not the right time or you are not the right person to say it",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to say something that you should not because it is the wrong situation or because it offends somebody",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be able to communicate easily with another person because you share similar opinions and experience",
+      "examples": [],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to tell you a lot about something/somebody, without the need for words",
+      "examples": [
+        {
+          "text": "His achievement speaks volumes for his determination."
+        },
+        {
+          "text": "What you wear speaks volumes about you."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to say good or bad things about somebody",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "She never speaks ill of anyone."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "if you are using words or rules in their exact or correct sense",
+      "examples": [
+        {
+          "text": "Strictly speaking, the book is not a novel, but a short story."
+        },
+        {
+          "text": "Using the word in that context is not, strictly speaking, correct."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/spiːk/",
+        "audio": "sp/speak/speak__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/spiːks/",
+        "audio": "sp/speak/speaks__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/spəʊk/",
+        "audio": "sp/speak/spoke__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈspəʊkən/",
+        "audio": "sp/speak/spoken__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈspiːkɪŋ/",
+        "audio": "sp/speak/speaking__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/spiːk/",
+        "audio": "sp/speak/speak__us_1.mp3"
+      },
+      {
+        "pronunciation": "/spiːks/",
+        "audio": "sp/speak/speaks__us_1.mp3"
+      },
+      {
+        "pronunciation": "/spəʊk/",
+        "audio": "sp/speak/spoke__us_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈspəʊkən/",
+        "audio": "sp/speak/spoken__us_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈspiːkɪŋ/",
+        "audio": "sp/speak/speaking__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English sprecan, later specan, of West Germanic origin; related to Dutch spreken and German sprechen."
+}

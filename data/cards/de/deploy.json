@@ -1,0 +1,96 @@
+{
+  "term": "deploy",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "deploy",
+      "heSheIt": "deploys"
+    },
+    "pastSimple": "deployed",
+    "pastParticiple": "deployed",
+    "ingForm": "deploying"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to move soldiers or weapons into a position where they are ready for military action",
+      "sensetop": "deploy somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "2 000 troops were deployed in the area."
+        },
+        {
+          "text": "At least 5 000 missiles were deployed along the border."
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adverb": ["effectively", "successfully", "widely"],
+        "preposition": ["against"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to use something effectively",
+      "sensetop": "deploy something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "to **deploy arguments/resources**"
+        },
+        {
+          "text": "She rejected the arguments that had been deployed against her."
+        },
+        {
+          "text": "Tanks were deployed effectively during the long campaign."
+        }
+      ],
+      "collocations": {
+        "adverb": ["effectively", "successfully", "widely"],
+        "preposition": ["against"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈplɔɪ/",
+        "audio": "de/deploy/deploy__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈplɔɪz/",
+        "audio": "de/deploy/deploys__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈplɔɪd/",
+        "audio": "de/deploy/deployed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈplɔɪɪŋ/",
+        "audio": "de/deploy/deploying__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈplɔɪ/",
+        "audio": "de/deploy/deploy__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈplɔɪz/",
+        "audio": "de/deploy/deploys__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈplɔɪd/",
+        "audio": "de/deploy/deployed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈplɔɪɪŋ/",
+        "audio": "de/deploy/deploying__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 18th cent.: from French déployer, from Latin displicare and late Latin deplicare ‘unfold or explain’, from dis-, de- ‘un-’ + plicare ‘to fold’. Compare with display."
+}

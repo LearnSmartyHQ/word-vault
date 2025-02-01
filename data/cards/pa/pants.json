@@ -1,0 +1,135 @@
+{
+  "term": "pants",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "image": "data/images/cl/clothes.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "underpants or knickers",
+      "labels": "(British English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **pair of pants**"
+        }
+      ],
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "… of pants": ["pair"],
+        "verb + pants": ["pull on", "pull up", "drop"],
+        "phrases": ["bra and pants"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "trousers",
+      "labels": "(especially North American English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a new pair of pants"
+        },
+        {
+          "text": "ski/sweat/dress pants"
+        },
+        {
+          "text": "a brown vest with matching pants"
+        },
+        {
+          "text": "I start patting at my pants pockets."
+        },
+        {
+          "text": "She rolled up her pant legs."
+        },
+        {
+          "text": "She wore a pair of baggy khaki pants and a black t-shirt."
+        }
+      ],
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adjective": ["long", "short", "corduroy"],
+        "… of pants": ["pair"],
+        "verb + pants": ["unbutton", "undo", "unzip"],
+        "pant + noun": ["leg", "pocket", "suit"],
+        "preposition": ["in pants"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "something you think is of poor quality",
+      "labels": "(British English, slang)",
+      "examples": [
+        {
+          "text": "Their new album is absolute pants!"
+        },
+        {
+          "text": "Do we have to watch this pants programme?"
+        }
+      ],
+      "synonyms": "rubbish"
+    },
+    {
+      "senseNumber": null,
+      "definition": "to make somebody extremely bored, frightened, etc.",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to act without careful thought and without a plan that you have made in advance, hoping that you will be lucky and be successful",
+      "labels": "(informal)",
+      "examples": [],
+      "synonyms": "wing it"
+    },
+    {
+      "senseNumber": null,
+      "definition": "to arrive or do something when somebody is not expecting it and not ready, especially when they are in an embarrassing situation",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be very excited or impatient about something and unable to stay still",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be the person in a marriage or other relationship who makes most of the decisions",
+      "labels": "(becoming old-fashioned, often disapproving)",
+      "examples": [
+        {
+          "text": "It's obvious who wears the pants in that family!"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to urinate in your underwear by accident",
+      "examples": [
+        {
+          "text": "He was so frightened that he wet his pants."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pænts/",
+        "audio": "pa/pants/pants__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pænts/",
+        "audio": "pa/pants/pants__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 19th cent.: abbreviation of pantaloons."
+}

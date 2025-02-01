@@ -1,0 +1,86 @@
+{
+  "term": "characterize",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "characterize",
+      "heSheIt": "characterizes"
+    },
+    "pastSimple": "characterized",
+    "pastParticiple": "characterized",
+    "ingForm": "characterizing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to be typical of a person, place or thing",
+      "sensetop": "characterize somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the rolling hills that characterize this part of England"
+        },
+        {
+          "text": "The city is characterized by tall modern buildings in steel and glass."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to describe or show the qualities of somebody/something in a particular way",
+      "sensetop": "characterize somebody/somethingcharacterize somebody/something as something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "How would you characterize the mood of the 1990s?",
+          "contextForm": "characterize somebody/something"
+        },
+        {
+          "text": "Her political views have been characterized as ‘extreme’.",
+          "contextForm": "characterize somebody/something as something"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkærəktəraɪz/",
+        "audio": "ch/characterize/characterize__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈkærəktəraɪzɪz/",
+        "audio": "ch/characterize/characterizes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkærəktəraɪzd/",
+        "audio": "ch/characterize/characterized__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkærəktəraɪzɪŋ/",
+        "audio": "ch/characterize/characterizing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkærəktəraɪz/",
+        "audio": "ch/characterize/characterize__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkærəktəraɪzɪz/",
+        "audio": "ch/characterize/characterizes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkærəktəraɪzd/",
+        "audio": "ch/characterize/characterized__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkærəktəraɪzɪŋ/",
+        "audio": "ch/characterize/characterizing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 16th cent. (in the sense ‘engrave, inscribe’): from French caractériser or medieval Latin characterizare, from Greek kharaktērizein, from kharaktēr ‘a stamping tool’."
+}

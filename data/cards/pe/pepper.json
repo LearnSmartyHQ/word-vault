@@ -1,0 +1,73 @@
+{
+  "term": "pepper",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/ve/vegetables_salad.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a powder made from dried berries (called peppercorns), used to give a hot, spicy taste to food",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Season with **salt and pepper**"
+        },
+        {
+          "text": "freshly **ground pepper**"
+        },
+        {
+          "text": "sirloin steak with a pepper sauce"
+        },
+        {
+          "text": "Add salt and pepper to taste."
+        },
+        {
+          "text": "He put some pepper on his steak."
+        }
+      ],
+      "collocations": {
+        "adjective": ["crushed", "ground", "cracked"],
+        "verb + pepper": ["add", "put in", "put on"],
+        "pepper + noun": ["grinder", "mill", "pot"],
+        "phrases": ["salt and pepper"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a hollow fruit, usually red, green or yellow, eaten as a vegetable either raw or cooked",
+      "labels": "(British English)British English, North American EnglishNorth American English",
+      "cefr": "a1",
+      "examples": [
+        {
+          "text": "He gave me a great recipe for stuffed peppers."
+        },
+        {
+          "text": "peppers stuffed with meat and rice"
+        }
+      ],
+      "topics": ["Food"],
+      "collocations": {
+        "adjective": ["bell", "sweet", "chilli/​chili"],
+        "verb + pepper": ["chop", "cut", "slice"],
+        "pepper + noun": ["sauce", "plant", "tree"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈpepə(r)/",
+        "audio": "pe/pepper/pepper__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈpepər/",
+        "audio": "pe/pepper/pepper__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English piper, pipor, of West Germanic origin; related to Dutch peper and German Pfeffer; via Latin from Greek peperi, from Sanskrit pippalī ‘berry, peppercorn’."
+}

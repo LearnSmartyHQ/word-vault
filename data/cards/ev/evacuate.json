@@ -1,0 +1,120 @@
+{
+  "term": "evacuate",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "evacuate",
+      "heSheIt": "evacuates"
+    },
+    "pastSimple": "evacuated",
+    "pastParticiple": "evacuated",
+    "ingForm": "evacuating"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to move people from a place of danger to a safer place",
+      "sensetop": "evacuate somethingevacuate somebody (from…) (to…)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Police evacuated nearby buildings.",
+          "contextForm": "evacuate something"
+        },
+        {
+          "text": "Children were evacuated from London to escape the bombing.",
+          "contextForm": "evacuate somebody (from…) (to…)"
+        },
+        {
+          "text": "Families were evacuated to safer parts of the city."
+        },
+        {
+          "text": "Every police unit has been ordered to evacuate all civilians."
+        },
+        {
+          "text": "Helicopters were used to evacuate people from their homes."
+        },
+        {
+          "text": "The man has now been safely evacuated to the mainland."
+        },
+        {
+          "text": "to provide aircraft to help evacuate refugees"
+        }
+      ],
+      "topics": ["Danger", "War and conflict"],
+      "collocations": {
+        "adverb": ["immediately", "safely", "successfully"],
+        "verb + evacuate": ["help (to)", "need to", "order somebody to"],
+        "preposition": ["from", "to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to move out of a place because of danger, and leave the place empty",
+      "sensetop": "evacuate (something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Employees were urged to evacuate their offices immediately."
+        },
+        {
+          "text": "Locals were told to evacuate."
+        }
+      ],
+      "topics": ["Danger", "War and conflict"],
+      "collocations": {
+        "adverb": ["immediately", "safely", "successfully"],
+        "verb + evacuate": ["help (to)", "need to", "order somebody to"],
+        "preposition": ["from", "to"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to empty your bowels",
+      "sensetop": "evacuate something",
+      "labels": "(formal)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪˈvækjueɪt/",
+        "audio": "ev/evacuate/evacuate__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈvækjueɪts/",
+        "audio": "ev/evacuate/evacuates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈvækjueɪtɪd/",
+        "audio": "ev/evacuate/evacuated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈvækjueɪtɪŋ/",
+        "audio": "ev/evacuate/evacuating__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪˈvækjueɪt/",
+        "audio": "ev/evacuate/evacuate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈvækjueɪts/",
+        "audio": "ev/evacuate/evacuates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈvækjueɪtɪd/",
+        "audio": "ev/evacuate/evacuated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈvækjueɪtɪŋ/",
+        "audio": "ev/evacuate/evacuating__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the sense ‘clear the contents of’): from Latin evacuat- ‘(of the bowels) emptied’, from the verb evacuare, from e- (variant of ex-) ‘out of’ + vacuus ‘empty’."
+}

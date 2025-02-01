@@ -1,0 +1,123 @@
+{
+  "term": "prevail",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "prevail",
+      "heSheIt": "prevails"
+    },
+    "pastSimple": "prevailed",
+    "pastParticiple": "prevailed",
+    "ingForm": "prevailing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to exist or be very common at a particular time or in a particular place",
+      "sensetop": "prevail in somethingprevail among somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "We were horrified at the conditions prevailing in local prisons.",
+          "contextForm": "prevail in something"
+        },
+        {
+          "text": "Those beliefs still prevail among certain social groups.",
+          "contextForm": "prevail among somebody"
+        }
+      ],
+      "collocations": {
+        "adverb": ["always", "usually", "eventually"],
+        "verb + prevail": ["be likely to", "must", "should"],
+        "preposition": ["against", "over"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to be accepted, especially after a struggle or an argument",
+      "sensetop": "prevail (against/over something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Justice will prevail over tyranny."
+        },
+        {
+          "text": "Fortunately, common sense prevailed."
+        },
+        {
+          "text": "Her happy outlook always prevailed."
+        },
+        {
+          "text": "His view eventually prevailed over theirs."
+        },
+        {
+          "text": "The wishes of 20 million people ought to prevail against those of 200 thousand."
+        },
+        {
+          "text": "The Act requires the will of the Commons ultimately to prevail over that of the upper house."
+        }
+      ],
+      "synonyms": "triumph",
+      "topics": ["Success"],
+      "collocations": {
+        "adverb": ["always", "usually", "eventually"],
+        "verb + prevail": ["be likely to", "must", "should"],
+        "preposition": ["against", "over"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to defeat an opponent, especially after a long struggle",
+      "sensetop": "prevail (against/over somebody)",
+      "examples": [
+        {
+          "text": "In a one-sided final, Spain prevailed against title-holder Croatia 40–34."
+        },
+        {
+          "text": "They wasted two penalties but still prevailed 2–1."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/prɪˈveɪl/",
+        "audio": "pr/prevail/prevail__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈveɪlz/",
+        "audio": "pr/prevail/prevails__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈveɪld/",
+        "audio": "pr/prevail/prevailed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈveɪlɪŋ/",
+        "audio": "pr/prevail/prevailing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/prɪˈveɪl/",
+        "audio": "pr/prevail/prevail__us_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈveɪlz/",
+        "audio": "pr/prevail/prevails__us_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈveɪld/",
+        "audio": "pr/prevail/prevailed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈveɪlɪŋ/",
+        "audio": "pr/prevail/prevailing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin praevalere ‘have greater power’, from prae ‘before’ + valere ‘have power’."
+}

@@ -1,0 +1,113 @@
+{
+  "term": "haunt",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "haunt",
+      "heSheIt": "haunts"
+    },
+    "pastSimple": "haunted",
+    "pastParticiple": "haunted",
+    "ingForm": "haunting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "if the ghost of a dead person haunts a place, people say that they have seen it there",
+      "sensetop": "haunt something/somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "A headless rider haunts the country lanes."
+        },
+        {
+          "text": "I’ll come back to haunt you!"
+        }
+      ],
+      "collocations": {
+        "adverb": ["reputedly", "supposedly"],
+        "verb + haunt": ["come back to", "return to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "if something unpleasant haunts you, it keeps coming to your mind so that you cannot forget it",
+      "sensetop": "haunt somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The memory of that day still haunts me."
+        },
+        {
+          "text": "For years she was haunted by guilt."
+        },
+        {
+          "text": "He will be haunted forever by his failed attempt to rescue the children."
+        },
+        {
+          "text": "These visions continued to haunt her for many years."
+        }
+      ],
+      "collocations": {
+        "adverb": ["still", "forever"],
+        "verb + haunt": ["continue to"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to continue to cause problems for somebody for a long time",
+      "sensetop": "haunt somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "That decision **came back to haunt him**."
+        },
+        {
+          "text": "She has been haunted by her past during her career."
+        }
+      ],
+      "topics": ["Difficulty and failure"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/hɔːnt/",
+        "audio": "ha/haunt/haunt__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/hɔːnts/",
+        "audio": "ha/haunt/haunts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈhɔːntɪd/",
+        "audio": "ha/haunt/haunted__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈhɔːntɪŋ/",
+        "audio": "ha/haunt/haunting__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/hɔːnt/",
+        "audio": "ha/haunt/haunt__us_1_rr.mp3"
+      },
+      {
+        "pronunciation": "/hɔːnts/",
+        "audio": "ha/haunt/haunts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈhɔːntɪd/",
+        "audio": "ha/haunt/haunted__us_1_rr.mp3"
+      },
+      {
+        "pronunciation": "/ˈhɔːntɪŋ/",
+        "audio": "ha/haunt/haunting__us_1_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (in the sense ‘frequent (a place)’): from Old French hanter, of Germanic origin; distantly related to home."
+}

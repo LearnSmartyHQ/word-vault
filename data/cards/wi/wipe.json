@@ -1,0 +1,190 @@
+{
+  "term": "wipe",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "wipe",
+      "heSheIt": "wipes"
+    },
+    "pastSimple": "wiped",
+    "pastParticiple": "wiped",
+    "ingForm": "wiping"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to rub something against a surface, in order to remove dirt or liquid from it; to rub a surface with a cloth, etc. in order to clean it",
+      "sensetop": "wipe something (on something)wipe something with somethingwipe something + adj.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Please wipe your feet on the mat.",
+          "contextForm": "wipe something (on something)"
+        },
+        {
+          "text": "He wiped his hands on a clean towel."
+        },
+        {
+          "text": "She was sniffing and wiping her eyes with a tissue.",
+          "contextForm": "wipe something with something"
+        },
+        {
+          "text": "He wiped his plate clean with a piece of bread.",
+          "contextForm": "wipe something + adj."
+        },
+        {
+          "text": "The plastic surface can be easily wiped."
+        },
+        {
+          "text": "When you've finished with it, simply wipe it clean with a damp cloth."
+        }
+      ],
+      "collocations": {
+        "adverb": ["completely", "totally", "almost"],
+        "preposition": ["from", "off", "on"],
+        "phrases": ["wipe something clean"],
+        "verb + wipe out": ["threaten to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to remove dirt, liquid, etc. from something by using a cloth, your hand, etc.",
+      "sensetop": "wipe something (from/off something)wipe something away/off/up",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He wiped the sweat from his forehead.",
+          "contextForm": "wipe something (from/off something)"
+        },
+        {
+          "text": "She wiped off her make-up.",
+          "contextForm": "wipe something away/off/up"
+        },
+        {
+          "text": "Use that cloth to wipe up the mess."
+        },
+        {
+          "text": "She gently wiped the tears from her eyes."
+        },
+        {
+          "text": "I wiped up the spilled wine."
+        },
+        {
+          "text": "He wiped the marks off the wall."
+        },
+        {
+          "text": "He paused to wipe the sweat from his forehead."
+        }
+      ],
+      "collocations": {
+        "adverb": ["completely", "totally", "almost"],
+        "preposition": ["from", "off", "on"],
+        "phrases": ["wipe something clean"],
+        "verb + wipe out": ["threaten to"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to remove information, sound, images, etc. from a computer, video, etc.",
+      "sensetop": "wipe something off (something)wipe something",
+      "examples": [
+        {
+          "text": "You must have wiped off that programme I recorded.",
+          "contextForm": "wipe something off (something)"
+        },
+        {
+          "text": "Somebody had wiped all the tapes.",
+          "contextForm": "wipe something"
+        }
+      ],
+      "synonyms": "erase"
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to deliberately forget an experience because it was unpleasant or embarrassing",
+      "sensetop": "wipe something from somethingwipe something out",
+      "examples": [
+        {
+          "text": "I tried to wipe the whole episode from my mind.",
+          "contextForm": "wipe something from something"
+        },
+        {
+          "text": "You can never wipe out the past.",
+          "contextForm": "wipe something out"
+        }
+      ],
+      "synonyms": "erase"
+    },
+    {
+      "senseNumber": null,
+      "definition": "to defeat somebody completely in an argument or a competition",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to stop smiling, especially because somebody else is annoyed and does not think the situation is funny",
+      "examples": [
+        {
+          "text": "Wipe that grin off your face and get back to work."
+        },
+        {
+          "text": "Wipe that stupid smile off your face."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to destroy or remove somebody/something completely",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to agree to forget about past mistakes or arguments and start again with a relationship",
+      "examples": [],
+      "topics": ["Discussion and agreement"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/waɪp/",
+        "audio": "wi/wipe/wipe__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/waɪps/",
+        "audio": "wi/wipe/wipes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/waɪpt/",
+        "audio": "wi/wipe/wiped__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈwaɪpɪŋ/",
+        "audio": "wi/wipe/wiping__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/waɪp/",
+        "audio": "wi/wipe/wipe__us_1.mp3"
+      },
+      {
+        "pronunciation": "/waɪps/",
+        "audio": "wi/wipe/wipes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/waɪpt/",
+        "audio": "wi/wipe/wiped__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈwaɪpɪŋ/",
+        "audio": "wi/wipe/wiping__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English wīpian, of Germanic origin; related to whip."
+}

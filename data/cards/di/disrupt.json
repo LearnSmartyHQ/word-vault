@@ -1,0 +1,106 @@
+{
+  "term": "disrupt",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "disrupt",
+      "heSheIt": "disrupts"
+    },
+    "pastSimple": "disrupted",
+    "pastParticiple": "disrupted",
+    "ingForm": "disrupting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to make it difficult for something to continue in the normal way",
+      "sensetop": "disrupt something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Demonstrators succeeded in disrupting the meeting."
+        },
+        {
+          "text": "Bus services will be disrupted tomorrow because of the bridge closure."
+        },
+        {
+          "text": "The bad weather has seriously disrupted supplies of food."
+        },
+        {
+          "text": "They warned that climate change could potentially disrupt economic activity."
+        },
+        {
+          "text": "I'm not going to let him disrupt my life any longer."
+        },
+        {
+          "text": "Public transport services are likely to be severely disrupted tomorrow."
+        },
+        {
+          "text": "The award ceremony was completely disrupted by a technicians' strike."
+        },
+        {
+          "text": "The refusal of the US to participate threatened to disrupt the negotiations."
+        }
+      ],
+      "collocations": {
+        "adverb": ["badly", "seriously", "severely"],
+        "verb + disrupt": ["threaten to", "attempt to", "be designed to"],
+        "phrases": ["an attempt to disrupt something"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to cause significant change in an industry or market by means of innovation (= new ideas or methods)",
+      "sensetop": "disrupt something",
+      "labels": "(business)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Our radical new printing technology is disrupting traditional manufacturing."
+        }
+      ],
+      "topics": ["Business"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪsˈrʌpt/",
+        "audio": "di/disrupt/disrupt__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/dɪsˈrʌpts/",
+        "audio": "di/disrupt/disrupts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪsˈrʌptɪd/",
+        "audio": "di/disrupt/disrupted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪsˈrʌptɪŋ/",
+        "audio": "di/disrupt/disrupting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪsˈrʌpt/",
+        "audio": "di/disrupt/disrupt__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪsˈrʌpts/",
+        "audio": "di/disrupt/disrupts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪsˈrʌptɪd/",
+        "audio": "di/disrupt/disrupted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪsˈrʌptɪŋ/",
+        "audio": "di/disrupt/disrupting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin disrupt- ‘broken apart’, from the verb disrumpere."
+}

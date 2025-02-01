@@ -1,0 +1,41 @@
+{
+  "term": "calculator",
+  "partOfSpeech": "noun",
+  "image": "data/images/of/office.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a small electronic device or piece of software for calculating with numbers",
+      "examples": [
+        {
+          "text": "a pocket calculator"
+        },
+        {
+          "text": "I used the calculator app on my phone."
+        },
+        {
+          "text": "Exam candidates are not allowed to use advanced calculators with database capability."
+        }
+      ],
+      "topics": ["Maths and measurement", "Education"],
+      "collocations": {
+        "adjective": ["desk", "hand-held", "pocket"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkælkjuleɪtə(r)/",
+        "audio": "ca/calculator/calculator__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkælkjuleɪtər/",
+        "audio": "ca/calculator/calculator__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin, from the verb calculare, from calculus ‘a small pebble ’(as used on an abacus)."
+}

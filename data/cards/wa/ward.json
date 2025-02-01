@@ -1,0 +1,65 @@
+{
+  "term": "ward",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a separate room or area in a hospital for people with the same type of medical condition",
+      "sensetop": "on the ward",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a **maternity/surgical/psychiatric/children’s ward**"
+        },
+        {
+          "text": "He worked as a nurse on the children's ward.",
+          "contextForm": "on the ward"
+        },
+        {
+          "text": "How many midwives are on the ward?"
+        },
+        {
+          "text": "She spent five days in the maternity ward."
+        },
+        {
+          "text": "The doctor was doing her morning ward round."
+        }
+      ],
+      "topics": ["Healthcare"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "(in the UK and some other countries) one of the areas into which a city or town is divided and which elects and is represented by a member of the local council",
+      "examples": []
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a person, especially a child, who is under the legal protection of a court or another person (called a guardian)",
+      "labels": "(law)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The child was made a **ward of court**."
+        }
+      ],
+      "topics": ["Life stages"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/wɔːd/",
+        "audio": "wa/ward/ward__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/wɔːrd/",
+        "audio": "wa/ward/ward__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English weard (originally referring to ‘the action of keeping a lookout for danger’, also ‘body of guards’), weardian ‘keep safe, guard’, of Germanic origin; reinforced in Middle English by Old Northern French warde (noun), warder (verb) ‘guard’."
+}

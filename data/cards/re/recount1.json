@@ -1,0 +1,81 @@
+{
+  "term": "recount",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "recount",
+      "heSheIt": "recounts"
+    },
+    "pastSimple": "recounted",
+    "pastParticiple": "recounted",
+    "ingForm": "recounting"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to tell somebody about something, especially something that you have experienced",
+      "sensetop": "recount something (to somebody)recount what, how, etc…+ speech",
+      "examples": [
+        {
+          "text": "She was asked to recount the details of the conversation to the court.",
+          "contextForm": "recount something (to somebody)"
+        },
+        {
+          "text": "They recounted what had happened during those years.",
+          "contextForm": "recount what, how, etc…"
+        },
+        {
+          "text": "‘It was before the war,’ he recounted.",
+          "contextForm": "+ speech"
+        },
+        {
+          "text": "The murders are recounted in gruesome detail."
+        },
+        {
+          "text": "The story of his life is vividly recounted in this new book."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈkaʊnt/",
+        "audio": "re/recount/recount__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈkaʊnts/",
+        "audio": "re/recount/recounts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈkaʊntɪd/",
+        "audio": "re/recount/recounted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈkaʊntɪŋ/",
+        "audio": "re/recount/recounting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈkaʊnt/",
+        "audio": "re/recount/recount__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈkaʊnts/",
+        "audio": "re/recount/recounts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈkaʊntɪd/",
+        "audio": "re/recount/recounted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈkaʊntɪŋ/",
+        "audio": "re/recount/recounting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old Northern French reconter ‘tell again’, based on Old French counter, from the verb computare ‘calculate’, from com- ‘together’ + putare ‘to settle (an account)’."
+}

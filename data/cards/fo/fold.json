@@ -1,0 +1,205 @@
+{
+  "term": "fold",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "fold",
+      "heSheIt": "folds"
+    },
+    "pastSimple": "folded",
+    "pastParticiple": "folded",
+    "ingForm": "folding"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to bend something, especially paper or cloth, so that one part lies on top of another part",
+      "sensetop": "fold somethingfold something upfold something downfold something backfold something over",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "First, **fold** the paper **in half/in two**.",
+          "contextForm": "fold something"
+        },
+        {
+          "text": "The bird folded its wings."
+        },
+        {
+          "text": "a pile of neatly folded clothes"
+        },
+        {
+          "text": "He folded the map up and put it in his pocket.",
+          "contextForm": "fold something up"
+        },
+        {
+          "text": "The blankets had been folded down.",
+          "contextForm": "fold something down"
+        },
+        {
+          "text": "Don't fold back pages to mark your place in a book.",
+          "contextForm": "fold something back"
+        },
+        {
+          "text": "Fold the dough over on top of itself.",
+          "contextForm": "fold something over"
+        },
+        {
+          "text": "He carefully folded the typed sheets and replaced them in the envelope."
+        },
+        {
+          "text": "I folded up the clothes and put them away."
+        }
+      ],
+      "collocations": {
+        "adverb": ["carefully", "neatly", "gently"],
+        "preposition": ["into"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to bend something so that it becomes smaller or flatter and can be stored or carried more easily; to bend or be able to bend in this way",
+      "sensetop": "fold something awayfold something downfold something upfold upfold awayfold downfold out+ adj.",
+      "labels": "(figurative)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The bed can be folded away during the day.",
+          "contextForm": "fold something away"
+        },
+        {
+          "text": "The central back seat can be folded down to provide a useful tray.",
+          "contextForm": "fold something down"
+        },
+        {
+          "text": "She folds up the wheelchair and stows it in the trunk.",
+          "contextForm": "fold something up"
+        },
+        {
+          "text": "The table folds up when not in use.",
+          "contextForm": "fold up"
+        },
+        {
+          "text": "The table folds away when not in use.",
+          "contextForm": "fold away"
+        },
+        {
+          "text": "a TV screen that folds down from the ceiling",
+          "contextForm": "fold down"
+        },
+        {
+          "text": "The settee folds out into a comfortable bed.",
+          "contextForm": "fold out"
+        },
+        {
+          "text": "The ironing board folds flat for easy storage.",
+          "contextForm": "+ adj."
+        },
+        {
+          "text": "When she heard the news, her legs just folded under her *(= she fell)*."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to wrap something around somebody/something",
+      "sensetop": "fold A in Bfold B around/round/over A",
+      "examples": [
+        {
+          "text": "She gently folded the baby in a blanket.",
+          "contextForm": "fold A in B"
+        },
+        {
+          "text": "She folded a blanket around the baby.",
+          "contextForm": "fold B around/round/over A"
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to close because it is not successful",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The new musical folded after only twenty performances."
+        },
+        {
+          "text": "Her fan club has folded."
+        },
+        {
+          "text": "His business folded when his partner left."
+        }
+      ],
+      "topics": ["Business"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to put one of your arms over the other one and hold them against your body",
+      "examples": [
+        {
+          "text": "He stood watching her with his arms folded across his chest."
+        },
+        {
+          "text": "She folded her arms and stared at him."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to bring or hold your hands together",
+      "examples": [
+        {
+          "text": "She kept her hands folded in her lap."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to put your arms around somebody and hold them against your body",
+      "labels": "(literary)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/fəʊld/",
+        "audio": "fo/fold/fold__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/fəʊldz/",
+        "audio": "fo/fold/folds__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈfəʊldɪd/",
+        "audio": "fo/fold/folded__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈfəʊldɪŋ/",
+        "audio": "fo/fold/folding__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/fəʊld/",
+        "audio": "fo/fold/fold__us_1.mp3"
+      },
+      {
+        "pronunciation": "/fəʊldz/",
+        "audio": "fo/fold/folds__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈfəʊldɪd/",
+        "audio": "fo/fold/folded__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈfəʊldɪŋ/",
+        "audio": "fo/fold/folding__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "verb Old English falden, fealden, of Germanic origin; related to Dutch vouwen and German falten."
+}

@@ -1,0 +1,108 @@
+{
+  "term": "retrieve",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "retrieve",
+      "heSheIt": "retrieves"
+    },
+    "pastSimple": "retrieved",
+    "pastParticiple": "retrieved",
+    "ingForm": "retrieving"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to bring or get something back, especially from a place where it should not be",
+      "sensetop": "retrieve something from somebody/somethingretrieve something",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She bent to retrieve her comb from the floor.",
+          "contextForm": "retrieve something from somebody/something"
+        },
+        {
+          "text": "The dog retrieved the ball from the water."
+        },
+        {
+          "text": "The police have managed to retrieve some of the stolen money.",
+          "contextForm": "retrieve something"
+        }
+      ],
+      "synonyms": "recover"
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to find and get back data or information that has been stored in the memory of a computer",
+      "sensetop": "retrieve something from somebody/somethingretrieve something",
+      "labels": "(computing)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "to retrieve information from the database",
+          "contextForm": "retrieve something from somebody/something"
+        },
+        {
+          "text": "The program allows you to retrieve items quickly by searching under a keyword.",
+          "contextForm": "retrieve something"
+        }
+      ],
+      "topics": ["Computers"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to make a bad situation better; to get back something that was lost",
+      "sensetop": "retrieve something",
+      "examples": [
+        {
+          "text": "You can only **retrieve the situation** by apologizing."
+        },
+        {
+          "text": "Employers are anxious to retrieve the investment they have made in training their employees."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈtriːv/",
+        "audio": "re/retrieve/retrieve__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈtriːvz/",
+        "audio": "re/retrieve/retrieves__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈtriːvd/",
+        "audio": "re/retrieve/retrieved__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈtriːvɪŋ/",
+        "audio": "re/retrieve/retrieving__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈtriːv/",
+        "audio": "re/retrieve/retrieve__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈtriːvz/",
+        "audio": "re/retrieve/retrieves__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈtriːvd/",
+        "audio": "re/retrieve/retrieved__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈtriːvɪŋ/",
+        "audio": "re/retrieve/retrieving__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the sense ‘find lost game’): from Old French retroeve-, stressed stem of retrover ‘find again’."
+}

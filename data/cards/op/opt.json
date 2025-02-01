@@ -1,0 +1,74 @@
+{
+  "term": "opt",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "opt",
+      "heSheIt": "opts"
+    },
+    "pastSimple": "opted",
+    "pastParticiple": "opted",
+    "ingForm": "opting"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to choose to take or not to take a particular course of action",
+      "sensetop": "opt for/against somethingopt to do something",
+      "examples": [
+        {
+          "text": "After graduating she opted for a career in music.",
+          "contextForm": "opt for/against something"
+        },
+        {
+          "text": "After a lot of thought, I opted against buying a motorbike."
+        },
+        {
+          "text": "Many workers opted to leave their jobs rather than take a pay cut.",
+          "contextForm": "opt to do something"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɒpt/",
+        "audio": "op/opt/opt__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɒpts/",
+        "audio": "op/opt/opts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɒptɪd/",
+        "audio": "op/opt/opted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɒptɪŋ/",
+        "audio": "op/opt/opting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɑːpt/",
+        "audio": "op/opt/opt__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɑːpts/",
+        "audio": "op/opt/opts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɑːptɪd/",
+        "audio": "op/opt/opted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɑːptɪŋ/",
+        "audio": "op/opt/opting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 19th cent.: from French opter, from Latin optare ‘choose, wish’."
+}

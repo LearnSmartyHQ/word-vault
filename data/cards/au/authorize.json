@@ -1,0 +1,89 @@
+{
+  "term": "authorize",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "authorize",
+      "heSheIt": "authorizes"
+    },
+    "pastSimple": "authorized",
+    "pastParticiple": "authorized",
+    "ingForm": "authorizing"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to give official permission for something, or for somebody to do something",
+      "sensetop": "authorize somethingauthorize somebody to do something",
+      "examples": [
+        {
+          "text": "I can authorize payments up to £5 000.",
+          "contextForm": "authorize something"
+        },
+        {
+          "text": "I have authorized him to act for me while I am away.",
+          "contextForm": "authorize somebody to do something"
+        },
+        {
+          "text": "The soldiers were authorized to shoot at will."
+        },
+        {
+          "text": "Taxes must be authorized by an Act of Parliament."
+        },
+        {
+          "text": "The manager had expressly authorized the goods to be removed."
+        },
+        {
+          "text": "She tried to break into a security file for which she was not authorized."
+        },
+        {
+          "text": "The King authorized his press secretary to demand an apology."
+        },
+        {
+          "text": "The police were authorized to record his phone conversations."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɔːθəraɪz/",
+        "audio": "au/authorize/authorize__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɔːθəraɪzɪz/",
+        "audio": "au/authorize/authorizes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɔːθəraɪzd/",
+        "audio": "au/authorize/authorized__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɔːθəraɪzɪŋ/",
+        "audio": "au/authorize/authorizing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɔːθəraɪz/",
+        "audio": "au/authorize/authorize__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɔːθəraɪzɪz/",
+        "audio": "au/authorize/authorizes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɔːθəraɪzd/",
+        "audio": "au/authorize/authorized__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɔːθəraɪzɪŋ/",
+        "audio": "au/authorize/authorizing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French autoriser, from medieval Latin auctorizare, from auctor, from augere ‘increase, originate, promote’."
+}

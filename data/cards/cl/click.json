@@ -1,0 +1,159 @@
+{
+  "term": "click",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "click",
+      "heSheIt": "clicks"
+    },
+    "pastSimple": "clicked",
+    "pastParticiple": "clicked",
+    "ingForm": "clicking"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to choose a particular function or item on a computer screen, etc., by pressing one of the buttons on a mouse or touchpad",
+      "sensetop": "click somethingclick on somethingclick for something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**Click here** to add your opinion to the survey."
+        },
+        {
+          "text": "**Click the** OK **button** to start.",
+          "contextForm": "click something"
+        },
+        {
+          "text": "Just **click the link** below."
+        },
+        {
+          "text": "I **clicked on the link** to the next page of the website.",
+          "contextForm": "click on something"
+        },
+        {
+          "text": "Click for more images.",
+          "contextForm": "click for something"
+        }
+      ],
+      "topics": ["Computers"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to make or cause something to make a short sharp sound",
+      "sensetop": "(+ adv./prep.)+ adj.click something",
+      "examples": [
+        {
+          "text": "The cameras clicked away.",
+          "contextForm": "(+ adv./prep.)"
+        },
+        {
+          "text": "The bolt clicked into place."
+        },
+        {
+          "text": "The door **clicked shut**.",
+          "contextForm": "+ adj."
+        },
+        {
+          "text": "He **clicked his fingers** at the waiter.",
+          "contextForm": "click something"
+        },
+        {
+          "text": "Polly **clicked her tongue** in annoyance."
+        },
+        {
+          "text": "The corporal clicked his heels."
+        },
+        {
+          "text": "The police officer clicked a pair of handcuffs around his wrists."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to suddenly become clear or understood",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Suddenly **it clicked**—we'd been talking about different people."
+        },
+        {
+          "text": "It all **clicked into place**."
+        },
+        {
+          "text": "Pieces of the puzzle suddenly clicked together."
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to become friends with somebody at once; to become popular with somebody",
+      "sensetop": "click with somebody",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "We met at a party and clicked immediately."
+        },
+        {
+          "text": "He's never really clicked with his students.",
+          "contextForm": "click with somebody"
+        }
+      ]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to work well together",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The team don't seem to have clicked yet."
+        },
+        {
+          "text": "We have clicked well together recently."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/klɪk/",
+        "audio": "cl/click/click__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/klɪks/",
+        "audio": "cl/click/clicks__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/klɪkt/",
+        "audio": "cl/click/clicked__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈklɪkɪŋ/",
+        "audio": "cl/click/clicking__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/klɪk/",
+        "audio": "cl/click/click__us_1.mp3"
+      },
+      {
+        "pronunciation": "/klɪks/",
+        "audio": "cl/click/clicks__us_1.mp3"
+      },
+      {
+        "pronunciation": "/klɪkt/",
+        "audio": "cl/click/clicked__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈklɪkɪŋ/",
+        "audio": "cl/click/clicking__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 16th cent. (as a verb): imitative."
+}

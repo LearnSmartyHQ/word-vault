@@ -1,0 +1,94 @@
+{
+  "term": "tower",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "image": "data/images/ar/architecture.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a tall narrow building or part of a building, especially of a church or castle",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **bell tower**"
+        },
+        {
+          "text": "the Eiffel Tower"
+        },
+        {
+          "text": "a 19-storey office tower"
+        },
+        {
+          "text": "The castle is rectangular in shape, with a tower at each corner."
+        },
+        {
+          "text": "Armed guards manned the lookout towers."
+        },
+        {
+          "text": "They lived in a ten-storey tower in the town centre."
+        },
+        {
+          "text": "Twin towers flanked the castle gateway."
+        },
+        {
+          "text": "the spot where the towers once stood"
+        },
+        {
+          "text": "The brick tower was built in around four months."
+        }
+      ],
+      "topics": ["Buildings", "Religion and festivals"],
+      "collocations": {
+        "adjective": ["high", "high-rise", "lofty"],
+        "tower + verb": ["collapse", "fall", "stand"],
+        "tower + noun": ["block"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a tall structure used for sending television or radio signals",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "a television tower"
+        }
+      ],
+      "topics": ["TV, radio and news"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a tall piece of furniture used for storing things",
+      "examples": [
+        {
+          "text": "a CD tower"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "a person that you can rely on to help, protect and comfort you when you are in trouble",
+      "examples": [
+        {
+          "text": "He was a tower of strength to his sisters when their father died."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtaʊə(r)/",
+        "audio": "to/tower/tower__gb_4.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtaʊər/",
+        "audio": "to/tower/tower__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English torr, reinforced in Middle English by Old French tour, from Latin turris, from Greek."
+}

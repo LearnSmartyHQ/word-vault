@@ -1,0 +1,214 @@
+{
+  "term": "button",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "image": "data/images/cl/clothes_fasteners.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a small round piece of metal, plastic, etc. that is sewn onto a piece of clothing and used for fastening two parts together",
+      "labels": "(British English)(North American English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to do up/undo your buttons"
+        },
+        {
+          "text": "to button/unbutton your buttons"
+        },
+        {
+          "text": "to sew on a button"
+        },
+        {
+          "text": "shirt buttons"
+        },
+        {
+          "text": "a row of gilt buttons"
+        },
+        {
+          "text": "One of the buttons on his jacket was missing."
+        },
+        {
+          "text": "My coat has lost a button."
+        },
+        {
+          "text": "The top button of his shirt was undone."
+        },
+        {
+          "text": "There was a button missing from his shirt."
+        },
+        {
+          "text": "His fingers fumbled to do up/​button the small buttons on his shirt."
+        },
+        {
+          "text": "I need to sew this button back on."
+        }
+      ],
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adjective": ["bottom", "top", "coat"],
+        "verb + button": ["button", "do up", "fasten"],
+        "button + verb": ["be missing", "come off"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a small part of a machine that you press to make it work",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the start/stop/pause button"
+        },
+        {
+          "text": "Adam **pressed a button** and waited for the lift."
+        },
+        {
+          "text": "Choose ‘printer’ from the menu and click with the right mouse button."
+        },
+        {
+          "text": "She **pushed a button** on the control panel."
+        },
+        {
+          "text": "I **hit** the play **button** on the remote."
+        },
+        {
+          "text": "The windows slide down **at the touch of a button**."
+        },
+        {
+          "text": "With a push of a button, I can print out everything I need."
+        },
+        {
+          "text": "She hit the alarm button as fast as she could."
+        },
+        {
+          "text": "The remote control allows you to change channel at the touch of a button."
+        }
+      ],
+      "topics": ["Engineering"],
+      "collocations": {
+        "adjective": ["on", "start", "off"],
+        "verb + button": ["click", "depress", "hit"],
+        "phrases": [
+          "at the touch of a button",
+          "have your finger on",
+          "keep your finger on"
+        ]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a small area on a computer screen that you click on to make it do something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**Click on** the back **button** to go back to the previous screen."
+        },
+        {
+          "text": "Click the ‘Finish’ button in the top right-hand corner of the screen."
+        },
+        {
+          "text": "I **hit** the ‘Reply’ **button** in the mail toolbar."
+        }
+      ],
+      "topics": ["Computers"],
+      "collocations": {
+        "adjective": ["on", "start", "off"],
+        "verb + button": ["click", "depress", "hit"],
+        "phrases": [
+          "at the touch of a button",
+          "have your finger on",
+          "keep your finger on"
+        ]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a badge, especially one with a message printed on it",
+      "labels": "(especially North American English)",
+      "examples": [
+        {
+          "text": "He wore a button saying ‘Life begins at 40!’"
+        },
+        {
+          "text": "She wore a ‘Vote Yes’ lapel button."
+        },
+        {
+          "text": "The candidates all distributed campaign buttons and bumper stickers."
+        },
+        {
+          "text": "They all wore buttons saying ‘Stop the war’."
+        },
+        {
+          "text": "He carries around an old backpack with peace buttons on it."
+        }
+      ],
+      "collocations": {
+        "adjective": ["lapel", "campaign", "peace"],
+        "verb + button": ["wear"]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "intelligent and quick to understand",
+      "labels": "(British English, informal)",
+      "examples": []
+    },
+    {
+      "senseNumber": 1,
+      "definition": "at exactly the right time or at the exact time mentioned",
+      "examples": [
+        {
+          "text": "We arrived at 4 o'clock on the button."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "exactly right",
+      "examples": [
+        {
+          "text": "You're on the button there!"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to do exactly the right things to please somebody",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "a new satirical comedy show that pushes all the right buttons"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to make somebody react in either a positive or a negative way",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "I've known him for years, but I still don't know what pushes his buttons."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈbʌtn/",
+        "audio": "bu/button/button__gb_4.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈbʌtn/",
+        "audio": "bu/button/button__us_4.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French bouton, of Germanic origin and related to the verb butt."
+}

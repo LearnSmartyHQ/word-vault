@@ -1,0 +1,117 @@
+{
+  "term": "detain",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "detain",
+      "heSheIt": "detains"
+    },
+    "pastSimple": "detained",
+    "pastParticiple": "detained",
+    "ingForm": "detaining"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to keep somebody in an official place, such as a police station, a prison or a hospital, and prevent them from leaving",
+      "sensetop": "detain somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "One man has been detained for questioning."
+        },
+        {
+          "text": "He has been detained without trial for nearly two years now."
+        },
+        {
+          "text": "She was kidnapped and briefly detained by a terrorist group."
+        },
+        {
+          "text": "Over 60 people have been detained in connection with the coup attempt."
+        },
+        {
+          "text": "Prisoners cannot be detained indefinitely without charge."
+        },
+        {
+          "text": "She was arrested and detained for distributing pro-democracy leaflets."
+        },
+        {
+          "text": "The law allows police to detain suspects for questioning for up to 48 hours."
+        },
+        {
+          "text": "Two people were detained in hospital following the crash."
+        },
+        {
+          "text": "Two men have been detained in custody."
+        }
+      ],
+      "topics": ["Law and justice", "Crime and punishment"],
+      "collocations": {
+        "adverb": ["briefly", "indefinitely", "illegally"],
+        "verb + detain": ["need not"],
+        "preposition": ["for", "in connection with"],
+        "phrases": [
+          "be detained in custody",
+          "be detained in hospital",
+          "detain somebody without charge"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to delay somebody or prevent them from going somewhere",
+      "sensetop": "detain somebody",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I'm sorry—he'll be late; he's been detained at a meeting."
+        },
+        {
+          "text": "The minister was unavoidably detained in Lisbon on affairs of state."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈteɪn/",
+        "audio": "de/detain/detain__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈteɪnz/",
+        "audio": "de/detain/detains__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈteɪnd/",
+        "audio": "de/detain/detained__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈteɪnɪŋ/",
+        "audio": "de/detain/detaining__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈteɪn/",
+        "audio": "de/detain/detain__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈteɪnz/",
+        "audio": "de/detain/detains__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈteɪnd/",
+        "audio": "de/detain/detained__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈteɪnɪŋ/",
+        "audio": "de/detain/detaining__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the sense ‘be afflicted with sickness or infirmity’): from Old French detenir, from a variant of Latin detinere, from de- ‘away, aside’ + tenere ‘to hold’."
+}

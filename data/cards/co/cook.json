@@ -1,0 +1,172 @@
+{
+  "term": "cook",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/co/cooking.png",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "cook",
+      "heSheIt": "cooks"
+    },
+    "pastSimple": "cooked",
+    "pastParticiple": "cooked",
+    "ingForm": "cooking"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to prepare food by heating it, for example by boiling, baking or frying it",
+      "sensetop": "cook somethingcook something for somebodycook somebody something",
+      "labels": "(especially British English)(British English)(North American English)(British English)(North American English)(especially North American English)(British English)(British English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Where did you learn to cook?"
+        },
+        {
+          "text": "Add the onion and cook for three minutes."
+        },
+        {
+          "text": "to **cook a meal**",
+          "contextForm": "cook something"
+        },
+        {
+          "text": "to **cook food/dinner**"
+        },
+        {
+          "text": "What's the best way to cook trout?"
+        },
+        {
+          "text": "I always have a **cooked breakfast** *(= consisting of cooked food)*"
+        },
+        {
+          "text": "He cooked lunch for me.",
+          "contextForm": "cook something for somebody"
+        },
+        {
+          "text": "He cooked me lunch.",
+          "contextForm": "cook somebody something"
+        },
+        {
+          "text": "I'll cook you a special meal for your birthday."
+        },
+        {
+          "text": "Make sure you cook the meat well."
+        },
+        {
+          "text": "Ensure that the meat is cooked through."
+        },
+        {
+          "text": "The vegetables were cooked perfectly."
+        },
+        {
+          "text": "the smell of freshly cooked bacon"
+        },
+        {
+          "text": "Who's going to cook supper?"
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adverb": ["fully", "thoroughly", "well"],
+        "phrases": ["be cooked through", "freshly cooked"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to be prepared by boiling, baking, frying, etc.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "While the pasta is cooking, prepare the sauce."
+        },
+        {
+          "text": "Turn the fish over so that it cooks evenly."
+        }
+      ],
+      "collocations": {
+        "adverb": ["fully", "thoroughly", "well"],
+        "phrases": ["be cooked through", "freshly cooked"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to be happening or planned",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Everyone is being very secretive—there's something cooking."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be doing something very well and successfully",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Success"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to change facts or figures dishonestly or illegally",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "His accountant had been cooking the books for years."
+        },
+        {
+          "text": "Someone was cooking the books."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to destroy somebody’s chances of success",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Difficulty and failure"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kʊk/",
+        "audio": "co/cook/cook__gb_3.mp3"
+      },
+      {
+        "pronunciation": "/kʊks/",
+        "audio": "co/cook/cooks__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kʊkt/",
+        "audio": "co/cook/cooked__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkʊkɪŋ/",
+        "audio": "co/cook/cooking__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kʊk/",
+        "audio": "co/cook/cook__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kʊks/",
+        "audio": "co/cook/cooks__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kʊkt/",
+        "audio": "co/cook/cooked__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkʊkɪŋ/",
+        "audio": "co/cook/cooking__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English cōc (noun), from popular Latin cocus, from Latin coquus."
+}

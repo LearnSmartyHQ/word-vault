@@ -1,0 +1,92 @@
+{
+  "term": "depend",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "depend",
+      "heSheIt": "depends"
+    },
+    "pastSimple": "depended",
+    "pastParticiple": "depended",
+    "ingForm": "depending"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "according to",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Starting salary varies from £26 000 to £30 500, depending on experience."
+        },
+        {
+          "text": "He either resigned or was sacked, depending on who you talk to."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to say that you are not certain about something because other things have to be considered",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "‘Is he coming?’ ‘That depends. He may not have the time.’"
+        },
+        {
+          "text": "I don't know if we can help—it all depends."
+        },
+        {
+          "text": "I might not go. It depends how tired I am."
+        },
+        {
+          "text": "‘Your job sounds fun.’ ‘It depends what you mean by “fun”.’"
+        },
+        {
+          "text": "I shouldn't be too late. But it depends if the traffic's bad."
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈpend/",
+        "audio": "de/depend/depend__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpendz/",
+        "audio": "de/depend/depends__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpendɪd/",
+        "audio": "de/depend/depended__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpendɪŋ/",
+        "audio": "de/depend/depending__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈpend/",
+        "audio": "de/depend/depend__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpendz/",
+        "audio": "de/depend/depends__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpendɪd/",
+        "audio": "de/depend/depended__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpendɪŋ/",
+        "audio": "de/depend/depending__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English originally meaning ‘to hang down’; (also in the sense ‘wait or be in suspense’): from Old French dependre, from Latin dependere, from de- ‘down’ + pendere ‘hang’."
+}

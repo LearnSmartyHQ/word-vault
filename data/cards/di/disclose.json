@@ -1,0 +1,122 @@
+{
+  "term": "disclose",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "disclose",
+      "heSheIt": "discloses"
+    },
+    "pastSimple": "disclosed",
+    "pastParticiple": "disclosed",
+    "ingForm": "disclosing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to give somebody information about something, especially something that was previously secret",
+      "sensetop": "disclose something (to somebody)disclose that…it is disclosed that…disclose what, whether, etc…",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The spokesman refused to disclose details of the takeover to the press.",
+          "contextForm": "disclose something (to somebody)"
+        },
+        {
+          "text": "The report discloses that human error was to blame for the accident.",
+          "contextForm": "disclose that…"
+        },
+        {
+          "text": "It was disclosed that two women were being interviewed by the police.",
+          "contextForm": "it is disclosed that…"
+        },
+        {
+          "text": "I cannot disclose what we discussed.",
+          "contextForm": "disclose what, whether, etc…"
+        },
+        {
+          "text": "He had not fully disclosed all his business dealings."
+        },
+        {
+          "text": "Members of Parliament are required to disclose all their financial interests."
+        },
+        {
+          "text": "She refused to disclose the source of her information"
+        },
+        {
+          "text": "She was accused of disclosing confidential material to a competitor."
+        },
+        {
+          "text": "He was ordered to disclose all the relevant documents."
+        },
+        {
+          "text": "State law requires unions to disclose financial information."
+        },
+        {
+          "text": "The amounts of money were higher than previously disclosed."
+        },
+        {
+          "text": "The company has disclosed details of new plans to expand."
+        }
+      ],
+      "synonyms": "reveal",
+      "collocations": {
+        "adverb": ["fully", "publicly", "voluntarily"],
+        "verb + disclose": ["be obliged to", "be required to", "must"],
+        "preposition": ["to"],
+        "phrases": ["previously disclosed"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to allow something that was hidden to be seen",
+      "sensetop": "disclose something",
+      "examples": [
+        {
+          "text": "The door swung open, disclosing a long dark passage."
+        }
+      ],
+      "synonyms": "reveal"
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪsˈkləʊz/",
+        "audio": "di/disclose/disclose__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪsˈkləʊzɪz/",
+        "audio": "di/disclose/discloses__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪsˈkləʊzd/",
+        "audio": "di/disclose/disclosed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪsˈkləʊzɪŋ/",
+        "audio": "di/disclose/disclosing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪsˈkləʊz/",
+        "audio": "di/disclose/disclose__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪsˈkləʊzɪz/",
+        "audio": "di/disclose/discloses__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪsˈkləʊzd/",
+        "audio": "di/disclose/disclosed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪsˈkləʊzɪŋ/",
+        "audio": "di/disclose/disclosing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French desclos-, stem of desclore, based on Latin claudere ‘to close’."
+}

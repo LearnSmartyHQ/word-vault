@@ -1,0 +1,180 @@
+{
+  "term": "angle",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "image": "data/images/an/angles.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the space between two lines or surfaces that join, measured in degrees",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a 45° angle"
+        },
+        {
+          "text": "the rocket’s angle of descent"
+        },
+        {
+          "text": "Draw a 130° angle in your notebooks."
+        },
+        {
+          "text": "Each joint can move through an angle of 90°."
+        },
+        {
+          "text": "The vertical line makes an angle with the horizontal line."
+        },
+        {
+          "text": "the angle between these two lines"
+        }
+      ],
+      "topics": ["Colours and Shapes", "Maths and measurement"],
+      "collocations": {
+        "adjective": ["acute", "oblique", "obtuse"],
+        "verb + angle": ["form", "make", "draw"],
+        "preposition": ["at an angle", "angle between"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a corner on the outside or inside of something",
+      "examples": [
+        {
+          "text": "It's a modern building, all brick and glass and **sharp angles**."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the direction that something is leaning or pointing in when it does not go straight up and down or straight across from side to side",
+      "sensetop": "at an angleat an angle to something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The Tower of Pisa leans at an angle.",
+          "contextForm": "at an angle"
+        },
+        {
+          "text": "The plane was coming in at a steep angle."
+        },
+        {
+          "text": "His hair was sticking up at all angles."
+        },
+        {
+          "text": "His shoulder was bent at an odd angle so it must be broken."
+        },
+        {
+          "text": "Venus and the Earth orbit the Sun at a slight angle to each other.",
+          "contextForm": "at an angle to something"
+        },
+        {
+          "text": "He wore his hat at a jaunty angle."
+        },
+        {
+          "text": "She adjusted the angle of the legs to make the table stand more firmly."
+        },
+        {
+          "text": "The calf's legs were splayed out at awkward angles."
+        }
+      ],
+      "collocations": {
+        "adjective": ["acute", "oblique", "obtuse"],
+        "verb + angle": ["form", "make", "draw"],
+        "preposition": ["at an angle", "angle between"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a position from which you look at something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The photo was taken from an unusual angle."
+        },
+        {
+          "text": "The painting changes slightly when seen from different angles."
+        },
+        {
+          "text": "The variety of **camera angles** gives her photographs interest."
+        },
+        {
+          "text": "How you see the building depends on your angle of vision."
+        },
+        {
+          "text": "Seeing herself from this angle, she realized how like her mother she looked."
+        }
+      ],
+      "collocations": {
+        "adjective": ["interesting", "strange", "unusual"],
+        "verb + angle": ["take"],
+        "preposition": ["from an angle"],
+        "phrases": [
+          "angle of vision",
+          "from all angles",
+          "from every conceivable angle"
+        ]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "a particular way of presenting or thinking about a situation, problem, etc.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We need a new angle for our next advertising campaign."
+        },
+        {
+          "text": "You can look at the issue from many **different angles**."
+        },
+        {
+          "text": "You start seeing some solutions when you view something **from all angles**."
+        },
+        {
+          "text": "The article concentrates on the human angle *(= the part that concerns people's emotions)* of the story."
+        },
+        {
+          "text": "You need to consider the question from all angles."
+        },
+        {
+          "text": "The subject is considered from an unusual angle."
+        },
+        {
+          "text": "We've looked at the problem from every possible angle but still haven't found a solution."
+        },
+        {
+          "text": "He took a different angle on the story."
+        }
+      ],
+      "collocations": {
+        "adjective": ["interesting", "strange", "unusual"],
+        "verb + angle": ["take"],
+        "preposition": ["from an angle"],
+        "phrases": [
+          "angle of vision",
+          "from all angles",
+          "from every conceivable angle"
+        ]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈæŋɡl/",
+        "audio": "an/angle/angle__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈæŋɡl/",
+        "audio": "an/angle/angle__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "noun late Middle English: from Old French, from Latin angulus ‘corner’."
+}

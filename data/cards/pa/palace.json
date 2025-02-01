@@ -1,0 +1,108 @@
+{
+  "term": "palace",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "image": "data/images/bu/buildings.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the official home of a king, queen, president, etc.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Buckingham Palace"
+        },
+        {
+          "text": "the **royal/presidential palace**"
+        },
+        {
+          "text": "He spent his early days at the Palace of Versailles."
+        },
+        {
+          "text": "the palace gates/grounds/walls"
+        },
+        {
+          "text": "She found it hard to adjust to palace life."
+        },
+        {
+          "text": "The king was deposed by his son in a palace coup."
+        }
+      ],
+      "topics": ["History", "Buildings"],
+      "collocations": {
+        "adjective": ["ancient", "14th-century", "etc."],
+        "verb + palace": ["build", "live in"],
+        "palace + verb": ["stand"],
+        "palace + noun": ["complex", "compound", "courtyard"],
+        "preposition": ["at a/​the palace", "in a/​the palace"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a way of referring to the people who live or work in a palace, especially the British royal family and their advisers",
+      "examples": [
+        {
+          "text": "The Palace last night refused to comment on the reports."
+        },
+        {
+          "text": "a Palace spokesman"
+        }
+      ],
+      "collocations": {
+        "adjective": ["ancient", "14th-century", "etc."],
+        "verb + palace": ["build", "live in"],
+        "palace + verb": ["stand"],
+        "palace + noun": ["complex", "compound", "courtyard"],
+        "preposition": ["at a/​the palace", "in a/​the palace"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "any large impressive house",
+      "cefr": "a2",
+      "examples": [
+        {
+          "text": "The Old Town has a whole collection of churches, palaces and mosques."
+        },
+        {
+          "text": "Even this small house was a veritable palace compared to his tent."
+        }
+      ],
+      "topics": ["Houses and homes", "Buildings"],
+      "collocations": {
+        "adjective": ["ancient", "14th-century", "etc."],
+        "verb + palace": ["build", "live in"],
+        "palace + verb": ["stand"],
+        "palace + noun": ["complex", "compound", "courtyard"],
+        "preposition": ["at a/​the palace", "in a/​the palace"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a large public building, such as a hotel or cinema",
+      "labels": "(old-fashioned)",
+      "examples": [
+        {
+          "text": "the Strand Palace Hotel"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈpæləs/",
+        "audio": "pa/palace/palace__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈpæləs/",
+        "audio": "pa/palace/palace__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French paleis, from Latin Palatium, the name of the Palatine hill in Rome, where the house of the emperor was situated."
+}

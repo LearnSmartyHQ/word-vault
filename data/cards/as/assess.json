@@ -1,0 +1,162 @@
+{
+  "term": "assess",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "assess",
+      "heSheIt": "assesses"
+    },
+    "pastSimple": "assessed",
+    "pastParticiple": "assessed",
+    "ingForm": "assessing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to make a judgement about the nature or quality of somebody/something",
+      "sensetop": "assess somebody/somethingassess somebody/something as somethingassess whether, how, etc…",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Accurately assessing environmental impacts is very complex.",
+          "contextForm": "assess somebody/something"
+        },
+        {
+          "text": "to assess a patient’s needs"
+        },
+        {
+          "text": "It's difficult to assess the effects of these changes."
+        },
+        {
+          "text": "Interviews allow you to assess the suitability of candidates."
+        },
+        {
+          "text": "She engaged a safety consultant to assess the risks."
+        },
+        {
+          "text": "Quality of life was assessed using a questionnaire."
+        },
+        {
+          "text": "The young men were assessed as either safe or unsafe drivers.",
+          "contextForm": "assess somebody/something as something"
+        },
+        {
+          "text": "I'd assess your chances as low."
+        },
+        {
+          "text": "The committee assesses whether a building is worth preserving.",
+          "contextForm": "assess whether, how, etc…"
+        },
+        {
+          "text": "We are trying to assess how well the system works."
+        },
+        {
+          "text": "She carefully assessed the situation."
+        },
+        {
+          "text": "The new patient is assessed by the nursing staff."
+        },
+        {
+          "text": "The company has put great effort into assessing the needs of its customers."
+        },
+        {
+          "text": "The national curriculum involves assessing pupils at ages 7, 11, 14 and 16."
+        },
+        {
+          "text": "The tests are used to assess individual students' ability and knowledge."
+        },
+        {
+          "text": "The studies were independently assessed by several researchers."
+        },
+        {
+          "text": "She decided to get her daughter assessed for dyslexia."
+        },
+        {
+          "text": "A mountain guide is trained and assessed on five gruelling courses."
+        }
+      ],
+      "topics": ["Opinion and argument", "Education"],
+      "collocations": {
+        "adverb": ["fully", "accurately", "correctly"],
+        "verb + assess": ["attempt to", "try to", "help to"],
+        "preposition": ["for"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to calculate the amount or value of something",
+      "sensetop": "assess somethingassess something at something",
+      "examples": [
+        {
+          "text": "They have assessed the amount of compensation to be paid.",
+          "contextForm": "assess something"
+        },
+        {
+          "text": "Damage to the building was assessed at £40 000.",
+          "contextForm": "assess something at something"
+        },
+        {
+          "text": "The Inland Revenue assessed the value of the paintings at £8 million."
+        },
+        {
+          "text": "It is very difficult to assess accurately the costs of corporate crime."
+        },
+        {
+          "text": "The legal costs have been assessed at $75 000."
+        },
+        {
+          "text": "It is difficult to assess the building's value properly without seeing it."
+        }
+      ],
+      "synonyms": "estimate",
+      "collocations": {
+        "adverb": ["accurately", "correctly", "properly"],
+        "verb + assess": ["attempt to", "try to", "be difficult to"],
+        "preposition": ["at"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈses/",
+        "audio": "as/assess/assess__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/əˈsesɪz/",
+        "audio": "as/assess/assesses__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsest/",
+        "audio": "as/assess/assessed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsesɪŋ/",
+        "audio": "as/assess/assessing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈses/",
+        "audio": "as/assess/assess__us_2.mp3"
+      },
+      {
+        "pronunciation": "/əˈsesɪz/",
+        "audio": "as/assess/assesses__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsest/",
+        "audio": "as/assess/assessed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsesɪŋ/",
+        "audio": "as/assess/assessing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French assesser, based on Latin assidere ‘sit by’ (in medieval Latin ‘levy tax’), from ad- ‘to, at’ + sedere ‘sit’. Compare with assizes."
+}

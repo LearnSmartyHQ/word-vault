@@ -1,0 +1,130 @@
+{
+  "term": "equip",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "equip",
+      "heSheIt": "equips"
+    },
+    "pastSimple": "equipped",
+    "pastParticiple": "equipped",
+    "ingForm": "equipping"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to provide yourself/somebody/something with the things that are needed for a particular purpose or activity",
+      "sensetop": "equip somethingequip yourself/somebody/something (with something) (for something)be equipped for/with something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "to be **fully/poorly equipped**",
+          "contextForm": "equip something"
+        },
+        {
+          "text": "She got a bank loan to rent and equip a small workshop."
+        },
+        {
+          "text": "He equipped himself with a street plan.",
+          "contextForm": "equip yourself/somebody/something (with something) (for something)"
+        },
+        {
+          "text": "The centre is **well equipped** for canoeing and mountaineering.",
+          "contextForm": "be equipped for/with something"
+        },
+        {
+          "text": "Rooms vary in size and **come equipped** with hairdryers, television and telephone."
+        },
+        {
+          "text": "The car is fully equipped with all the latest gadgets."
+        },
+        {
+          "text": "The flat is fully equipped with a cooker and fridge."
+        },
+        {
+          "text": "The hostel is specially equipped for wheelchair access."
+        },
+        {
+          "text": "We travelled in a specially equipped medical jeep."
+        }
+      ],
+      "synonyms": "kit out/up",
+      "collocations": {
+        "adverb": ["lavishly", "splendidly", "superbly"],
+        "verb + equip": ["seek to", "try to"],
+        "preposition": ["for", "with"],
+        "phrases": [
+          "be equipped to deal with",
+          "be equipped to handle something",
+          "come equipped with"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to prepare somebody for an activity or task, especially by teaching them what they need to know",
+      "sensetop": "equip somebody (for something)equip somebody (to do something)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The course is designed to equip students for a career in nursing."
+        },
+        {
+          "text": "Here he received the education that would equip him to take his place in society."
+        }
+      ],
+      "collocations": {
+        "adverb": ["lavishly", "splendidly", "superbly"],
+        "verb + equip": ["seek to", "try to"],
+        "preposition": ["for", "with"],
+        "phrases": [
+          "be equipped to deal with",
+          "be equipped to handle something",
+          "come equipped with"
+        ]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪˈkwɪp/",
+        "audio": "eq/equip/equip__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈkwɪps/",
+        "audio": "eq/equip/equips__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈkwɪpt/",
+        "audio": "eq/equip/equipped__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈkwɪpɪŋ/",
+        "audio": "eq/equip/equipping__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪˈkwɪp/",
+        "audio": "eq/equip/equip__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈkwɪps/",
+        "audio": "eq/equip/equips__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈkwɪpt/",
+        "audio": "eq/equip/equipped__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈkwɪpɪŋ/",
+        "audio": "eq/equip/equipping__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 16th cent.: from French équiper, probably from Old Norse skipa ‘to man (a ship)’, from skip ‘ship’."
+}

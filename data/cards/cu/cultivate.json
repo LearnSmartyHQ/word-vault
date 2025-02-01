@@ -1,0 +1,126 @@
+{
+  "term": "cultivate",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "cultivate",
+      "heSheIt": "cultivates"
+    },
+    "pastSimple": "cultivated",
+    "pastParticiple": "cultivated",
+    "ingForm": "cultivating"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to prepare and use land for growing plants or crops",
+      "sensetop": "cultivate something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The land around here has never been cultivated."
+        },
+        {
+          "text": "The land here has been intensively cultivated for generations."
+        }
+      ],
+      "topics": ["Farming"],
+      "collocations": {
+        "adverb": ["intensively"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to grow plants or crops",
+      "sensetop": "cultivate something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The people cultivate mainly rice and beans."
+        },
+        {
+          "text": "Olives have been cultivated successfully in southern Australia."
+        }
+      ],
+      "synonyms": "grow",
+      "topics": ["Farming"],
+      "collocations": {
+        "adverb": ["widely", "successfully"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to try to get somebody’s friendship or support",
+      "sensetop": "cultivate somebody/something",
+      "labels": "(sometimes disapproving)",
+      "examples": [
+        {
+          "text": "He purposely tried to cultivate good relations with the press."
+        },
+        {
+          "text": "It helps if you go out of your way to cultivate the local people."
+        }
+      ],
+      "collocations": {
+        "adverb": ["actively", "assiduously", "carefully"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to develop an attitude, a way of talking or behaving, etc.",
+      "sensetop": "cultivate something",
+      "examples": [
+        {
+          "text": "She cultivated an air of sophistication."
+        },
+        {
+          "text": "This modern image is actively cultivated by the company."
+        }
+      ],
+      "collocations": {
+        "adverb": ["actively", "assiduously", "carefully"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkʌltɪveɪt/",
+        "audio": "cu/cultivate/cultivate__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkʌltɪveɪts/",
+        "audio": "cu/cultivate/cultivates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkʌltɪveɪtɪd/",
+        "audio": "cu/cultivate/cultivated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkʌltɪveɪtɪŋ/",
+        "audio": "cu/cultivate/cultivating__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkʌltɪveɪt/",
+        "audio": "cu/cultivate/cultivate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkʌltɪveɪts/",
+        "audio": "cu/cultivate/cultivates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkʌltɪveɪtɪd/",
+        "audio": "cu/cultivate/cultivated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkʌltɪveɪtɪŋ/",
+        "audio": "cu/cultivate/cultivating__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 17th cent.: from medieval Latin cultivat- ‘prepared for crops’, from the verb cultivare, from cultiva (terra) ‘arable (land)’, from colere ‘cultivate, inhabit’."
+}

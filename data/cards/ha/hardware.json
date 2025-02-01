@@ -1,0 +1,78 @@
+{
+  "term": "hardware",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the machines and electronic parts in a computer or other electronic system",
+      "labels": "(computing)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "We supply computer hardware to businesses."
+        },
+        {
+          "text": "The laptop drawing tablet is a very useful piece of hardware."
+        },
+        {
+          "text": "This application runs on a wide variety of hardware platforms."
+        },
+        {
+          "text": "It seems you've got a hardware problem; the disk drive is stuck."
+        }
+      ],
+      "topics": ["Computers"],
+      "collocations": {
+        "adjective": ["computer", "military", "new"],
+        "… of hardware": ["piece"],
+        "verb + hardware": ["design", "develop", "provide"],
+        "hardware + noun": ["component", "device", "product"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "tools and equipment that are used in the house and garden",
+      "labels": "also British English, old-fashioned",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a hardware shop/store"
+        }
+      ],
+      "topics": ["Shopping"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the equipment, machines and vehicles used to do something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "tanks and other military hardware"
+        }
+      ],
+      "collocations": {
+        "adjective": ["computer", "military", "new"],
+        "… of hardware": ["piece"],
+        "verb + hardware": ["design", "develop", "provide"],
+        "hardware + noun": ["component", "device", "product"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈhɑːdweə(r)/",
+        "audio": "ha/hardware/hardware__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈhɑːrdwer/",
+        "audio": "ha/hardware/hardware__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

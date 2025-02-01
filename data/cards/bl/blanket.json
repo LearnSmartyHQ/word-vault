@@ -1,0 +1,75 @@
+{
+  "term": "blanket",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "image": "data/images/be/beds.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a large cover, often made of wool, used especially on beds to keep people warm",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "It’s cold tonight—can I have another blanket?"
+        },
+        {
+          "text": "The baby was wrapped in a blanket."
+        },
+        {
+          "text": "She pulled the blanket up and went to sleep."
+        },
+        {
+          "text": "They shivered under their thin blankets."
+        }
+      ],
+      "collocations": {
+        "adjective": ["heavy", "thick", "thin"],
+        "verb + blanket": [
+          "cover somebody with",
+          "drape over somebody/​something",
+          "tuck around somebody"
+        ],
+        "preposition": ["beneath a/​the blanket", "under a/​the blanket"],
+        "phrases": ["a wet blanket"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a thick layer or mass of something",
+      "sensetop": "blanket of something",
+      "labels": "(figurative)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a **blanket of fog/snow/cloud**"
+        },
+        {
+          "text": "The trial was conducted under a blanket of secrecy."
+        },
+        {
+          "text": "The sun was breaking through the blanket of mist."
+        },
+        {
+          "text": "The walls were covered in blankets of ivy."
+        }
+      ],
+      "topics": ["Weather"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈblæŋkɪt/",
+        "audio": "bl/blanket/blanket__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈblæŋkɪt/",
+        "audio": "bl/blanket/blanket__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (denoting undyed woollen cloth): via Old Northern French from Old French blanc ‘white’, ultimately of Germanic origin."
+}

@@ -1,0 +1,127 @@
+{
+  "term": "tempt",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "tempt",
+      "heSheIt": "tempts"
+    },
+    "pastSimple": "tempted",
+    "pastParticiple": "tempted",
+    "ingForm": "tempting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to attract somebody or make somebody want to do or have something, even if they know it is wrong",
+      "sensetop": "tempt somebodytempt somebody into (doing) somethingtempt somebody to do something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I was tempted by the dessert menu.",
+          "contextForm": "tempt somebody"
+        },
+        {
+          "text": "Don't tempt thieves by leaving valuables clearly visible."
+        },
+        {
+          "text": "He was tempted into a life of crime.",
+          "contextForm": "tempt somebody into (doing) something"
+        },
+        {
+          "text": "I was tempted to take the day off.",
+          "contextForm": "tempt somebody to do something"
+        },
+        {
+          "text": "Did you ever feel tempted to cheat?"
+        },
+        {
+          "text": "I was almost tempted to strip off and plunge straight into the pool."
+        },
+        {
+          "text": "She was sorely tempted to tell him what she really thought."
+        }
+      ],
+      "collocations": {
+        "verb + tempt": ["could", "may", "might"],
+        "preposition": ["into", "with"],
+        "phrases": ["be almost tempted", "be half tempted", "be tempted"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to persuade or try to persuade somebody to do something that you want them to do, for example by offering them something",
+      "sensetop": "tempt somebody (into something/into doing something)tempt somebody to do something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "How can we tempt young people into engineering?",
+          "contextForm": "tempt somebody (into something/into doing something)"
+        },
+        {
+          "text": "Nothing would tempt me to live here.",
+          "contextForm": "tempt somebody to do something"
+        }
+      ],
+      "topics": ["Discussion and agreement"],
+      "collocations": {
+        "verb + tempt": ["could", "may", "might"],
+        "preposition": ["into", "with"],
+        "phrases": ["be almost tempted", "be half tempted", "be tempted"]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "to do something too confidently in a way that might mean that your good luck will come to an end",
+      "examples": [
+        {
+          "text": "She felt it would be tempting fate to try the difficult climb a second time."
+        },
+        {
+          "text": "It would be tempting fate to say that we will definitely win the game."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/tempt/",
+        "audio": "te/tempt/tempt__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/tempts/",
+        "audio": "te/tempt/tempts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtemptɪd/",
+        "audio": "te/tempt/tempted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtemptɪŋ/",
+        "audio": "te/tempt/tempting__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/tempt/",
+        "audio": "te/tempt/tempt__us_1.mp3"
+      },
+      {
+        "pronunciation": "/tempts/",
+        "audio": "te/tempt/tempts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtemptɪd/",
+        "audio": "te/tempt/tempted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈtemptɪŋ/",
+        "audio": "te/tempt/tempting__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French tempter ‘to test’, from Latin temptare ‘handle, test, try’."
+}

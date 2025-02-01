@@ -1,0 +1,60 @@
+{
+  "term": "tomato",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/ve/vegetables_salad.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a soft fruit with a lot of juice and shiny red skin that is eaten as a vegetable either raw or cooked",
+      "examples": [
+        {
+          "text": "a bacon, lettuce, and tomato sandwich"
+        },
+        {
+          "text": "sliced/chopped tomatoes"
+        },
+        {
+          "text": "tomato plants"
+        },
+        {
+          "text": "tomato sauce/soup/juice"
+        },
+        {
+          "text": "tomato paste/puree"
+        },
+        {
+          "text": "sun-dried tomatoes"
+        },
+        {
+          "text": "Demonstrators threw rotten tomatoes at the car."
+        },
+        {
+          "text": "It smells great, like ripe tomatoes."
+        }
+      ],
+      "topics": ["Food"],
+      "collocations": {
+        "adjective": ["fresh", "ripe", "rotten"],
+        "verb + tomato": ["eat", "have", "chop"],
+        "tomato + noun": ["juice", "ketchup", "paste"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/təˈmɑːtəʊ/",
+        "audio": "to/tomato/tomato__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/təˈmeɪtəʊ/",
+        "audio": "to/tomato/tomato__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 17th cent.: from French, Spanish, or Portuguese tomate, from Nahuatl tomatl."
+}

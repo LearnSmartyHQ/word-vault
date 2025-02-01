@@ -1,0 +1,163 @@
+{
+  "term": "occupation",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a job or profession",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Please state your name, age and occupation below."
+        },
+        {
+          "text": "He gave up his occupation as a farmer and became a teacher."
+        },
+        {
+          "text": "He left the army in 2020 and chose a civilian occupation."
+        },
+        {
+          "text": "Her occupation is listed as editor."
+        },
+        {
+          "text": "The college provides training in a wide range of occupations."
+        },
+        {
+          "text": "The people interviewed followed a variety of occupations"
+        },
+        {
+          "text": "service occupations such as cleaning and catering"
+        },
+        {
+          "text": "Is your occupation full-time or part-time?"
+        },
+        {
+          "text": "It's harder to lose weight when you have a sedentary occupation."
+        },
+        {
+          "text": "Why is nursing still seen as a female occupation?"
+        }
+      ],
+      "topics": ["Jobs"],
+      "collocations": {
+        "adjective": ["full-time", "current", "main"],
+        "verb + occupation": ["choose", "find", "follow"],
+        "phrases": [
+          "list somebody’s occupation as something",
+          "a range of occupations"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the way in which you spend your time, especially when you are not working",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Her main occupation seems to be shopping."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the act of moving into a country, town, etc. and taking control of it using military force; the period of time during which a country, town, etc. is controlled in this way",
+      "sensetop": "under occupation",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the Roman occupation of Britain"
+        },
+        {
+          "text": "The zones under occupation contained major industrial areas.",
+          "contextForm": "under occupation"
+        },
+        {
+          "text": "occupation forces"
+        },
+        {
+          "text": "During the occupation, the church was used as a mosque."
+        },
+        {
+          "text": "The invaders have ended their occupation of large parts of the territories."
+        },
+        {
+          "text": "It is the duty of the occupation force to maintain civil order."
+        },
+        {
+          "text": "The military occupation has created anger and resentment."
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adjective": ["foreign", "continued", "continuing"],
+        "verb + occupation": ["begin", "end", "maintain"],
+        "occupation + verb": ["begin", "end", "continue"],
+        "occupation + noun": ["force"],
+        "preposition": [
+          "during the occupation",
+          "under occupation",
+          "occupation of"
+        ]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "the act of living in or using a building, room, piece of land, etc.",
+      "sensetop": "in occupation",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The offices will be ready for occupation in June."
+        },
+        {
+          "text": "The following applies only to tenants in occupation after January 1 this year.",
+          "contextForm": "in occupation"
+        },
+        {
+          "text": "The level of **owner occupation** *(= people owning their homes)* has increased rapidly in the last 30 years."
+        },
+        {
+          "text": "He intends to remain in occupation of the building for as long as possible."
+        },
+        {
+          "text": "The houses were judged to be unfit for human occupation."
+        },
+        {
+          "text": "You can only take up occupation once the tenancy has been signed."
+        },
+        {
+          "text": "illegal occupation of the building"
+        },
+        {
+          "text": "the conversion of big old buildings to multiple occupation"
+        }
+      ],
+      "topics": ["Houses and homes"],
+      "collocations": {
+        "adjective": ["land", "illegal", "unlawful"],
+        "verb + occupation": ["take up"],
+        "preposition": ["in occupation of"],
+        "phrases": ["ready for occupation"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌɒkjuˈpeɪʃn/",
+        "audio": "oc/occupation/occupation__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌɑːkjuˈpeɪʃn/",
+        "audio": "oc/occupation/occupation__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: via Old French from Latin occupatio(n-), from the verb occupare ‘seize’. Sense (3) dates from the mid 16th cent."
+}

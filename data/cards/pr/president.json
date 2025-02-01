@@ -1,0 +1,147 @@
+{
+  "term": "president",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the leader of a republic, for example the US",
+      "sensetop": "as president",
+      "labels": "(especially North American English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Several presidents attended the funeral."
+        },
+        {
+          "text": "the President of the United States"
+        },
+        {
+          "text": "President Biden visited the country twice."
+        },
+        {
+          "text": "Do you have any comment, Mr President?"
+        },
+        {
+          "text": "France **elected a** new **president** in 2017."
+        },
+        {
+          "text": "Ford **became president** following Nixon's resignation."
+        },
+        {
+          "text": "She should **run for president**."
+        },
+        {
+          "text": "the **former** South African **president**, Nelson Mandela"
+        },
+        {
+          "text": "He was sworn in as President on August 31.",
+          "contextForm": "as president"
+        },
+        {
+          "text": "She is expected to have a meeting with the French president in Paris tomorrow."
+        },
+        {
+          "text": "The new constitution provides for a directly elected president."
+        },
+        {
+          "text": "The term of the outgoing president expires in March."
+        },
+        {
+          "text": "There have been moves to impeach the president."
+        }
+      ],
+      "topics": ["People in society", "Politics"],
+      "collocations": {
+        "adjective": ["American", "French", "etc."],
+        "verb + president": ["elect", "elect somebody (as)", "re-elect"],
+        "president + verb": [
+          "appoint somebody",
+          "nominate somebody",
+          "authorize something"
+        ],
+        "preposition": ["president of"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the person in charge of some organizations, clubs, colleges, etc.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to be made president of the students’ union"
+        },
+        {
+          "text": "She travels extensively in her role as President of the World Wide Fund for Nature."
+        },
+        {
+          "text": "In 2007 Raymonds was appointed (as) president of PSWA."
+        },
+        {
+          "text": "She is president of the Irish Olympic Council."
+        }
+      ],
+      "topics": ["Education", "People in society"],
+      "collocations": {
+        "adjective": ["acting", "honorary", "interim"],
+        "verb + president": [
+          "appoint",
+          "appoint somebody (as)",
+          "name somebody (as)"
+        ],
+        "president + verb": ["resign"],
+        "preposition": ["president of"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the person in charge of a bank or a commercial organization",
+      "labels": "(especially North American English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the bank president"
+        },
+        {
+          "text": "the president of Columbia Pictures"
+        },
+        {
+          "text": "He was presented with an award by the local branch president."
+        },
+        {
+          "text": "The figures were announced by the Central Bank president."
+        }
+      ],
+      "topics": ["Jobs"],
+      "collocations": {
+        "adjective": ["acting", "honorary", "interim"],
+        "verb + president": [
+          "appoint",
+          "appoint somebody (as)",
+          "name somebody (as)"
+        ],
+        "president + verb": ["resign"],
+        "preposition": ["president of"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈprezɪdənt/",
+        "audio": "pr/president/president__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈprezɪdənt/",
+        "audio": "pr/president/president__us_1_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: via Old French from Latin praesident- ‘sitting before’, from praesidere ‘sit before’, from prae ‘before’ + sedere ‘sit’."
+}

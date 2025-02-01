@@ -1,0 +1,58 @@
+{
+  "term": "blonde",
+  "partOfSpeech": "adjective",
+  "ox3000": true,
+  "cefr": "a1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "pale gold in colour",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She had long blonde hair."
+        },
+        {
+          "text": "The child had short blond curls and large blue eyes."
+        }
+      ],
+      "topics": ["Appearance", "Colours and Shapes"],
+      "collocations": {
+        "verbs": ["be", "look", "go"],
+        "adverb": ["very", "quite"],
+        "adjective": ["ash", "dark", "dirty"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "having blonde hair",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a small, blond boy"
+        },
+        {
+          "text": "A blonde-haired girl walked in."
+        }
+      ],
+      "topics": ["Appearance"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/blɒnd/",
+        "audio": "bl/blonde/blonde__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/blɑːnd/",
+        "audio": "bl/blonde/blonde__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 17th cent. (earlier as blond): from French, feminine of blond, from medieval Latin blundus ‘yellow’, perhaps from Germanic."
+}

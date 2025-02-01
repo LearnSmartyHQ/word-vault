@@ -1,0 +1,88 @@
+{
+  "term": "unveil",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "unveil",
+      "heSheIt": "unveils"
+    },
+    "pastSimple": "unveiled",
+    "pastParticiple": "unveiled",
+    "ingForm": "unveiling"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to remove a cover or curtain from a painting, statue, etc. so that it can be seen in public for the first time",
+      "sensetop": "unveil something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The Queen unveiled a plaque to mark the official opening of the hospital."
+        }
+      ],
+      "collocations": {
+        "adverb": ["formally", "officially", "just"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to show or introduce a new plan, product, etc. to the public for the first time",
+      "sensetop": "unveil something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They will be unveiling their new models at the Motor Show."
+        },
+        {
+          "text": "The government has unveiled plans for new energy legislation."
+        }
+      ],
+      "synonyms": "reveal",
+      "collocations": {
+        "adverb": ["formally", "officially", "just"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌʌnˈveɪl/",
+        "audio": "un/unveil/unveil__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌʌnˈveɪlz/",
+        "audio": "un/unveil/unveils__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌʌnˈveɪld/",
+        "audio": "un/unveil/unveiled__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌʌnˈveɪlɪŋ/",
+        "audio": "un/unveil/unveiling__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌʌnˈveɪl/",
+        "audio": "un/unveil/unveil__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌʌnˈveɪlz/",
+        "audio": "un/unveil/unveils__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌʌnˈveɪld/",
+        "audio": "un/unveil/unveiled__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌʌnˈveɪlɪŋ/",
+        "audio": "un/unveil/unveiling__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

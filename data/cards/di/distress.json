@@ -1,0 +1,108 @@
+{
+  "term": "distress",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a feeling of great worry or unhappiness; great mental pain",
+      "sensetop": "in distress",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The newspaper article caused the actor considerable distress."
+        },
+        {
+          "text": "She sensed his deep emotional distress."
+        },
+        {
+          "text": "She was obviously in distress after the attack.",
+          "contextForm": "in distress"
+        }
+      ],
+      "topics": ["Feelings"],
+      "collocations": {
+        "adjective": ["acute", "considerable", "deep"],
+        "verb + distress": ["cause (somebody)", "experience", "feel"],
+        "distress + noun": ["call", "signal"],
+        "preposition": ["in distress", "to somebody’s distress", "distress at"],
+        "phrases": ["a damsel in distress", "a source of distress"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "severe problems caused by not having enough money, food, etc.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "**economic/financial distress**"
+        },
+        {
+          "text": "The charity aims to relieve poverty and distress caused by natural disasters."
+        }
+      ],
+      "synonyms": "hardship",
+      "topics": ["Social issues"],
+      "collocations": {
+        "adjective": ["acute", "considerable", "deep"],
+        "verb + distress": ["cause (somebody)", "experience", "feel"],
+        "distress + noun": ["call", "signal"],
+        "preposition": ["in distress", "to somebody’s distress", "distress at"],
+        "phrases": ["a damsel in distress", "a source of distress"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a situation in which a ship, plane, etc. is in danger or difficulty and needs help",
+      "sensetop": "in distress",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "**a distress signal** *(= a message asking for help)*"
+        },
+        {
+          "text": "It is a rule of the sea to help another boat in distress.",
+          "contextForm": "in distress"
+        }
+      ],
+      "topics": ["Danger", "Transport by water", "Transport by air"]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a state of physical pain and effort, especially difficulty in breathing",
+      "sensetop": "in distress",
+      "labels": "(medical)",
+      "examples": [
+        {
+          "text": "The patient was suffering serious **respiratory distress**."
+        },
+        {
+          "text": "The baby was clearly in distress.",
+          "contextForm": "in distress"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "a young woman who needs help",
+      "labels": "(humorous, sometimes offensive)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈstres/",
+        "audio": "di/distress/distress__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈstres/",
+        "audio": "di/distress/distress__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French destresce (noun), destrecier (verb), based on Latin distringere ‘stretch apart’."
+}

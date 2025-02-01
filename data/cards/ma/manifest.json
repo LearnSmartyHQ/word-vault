@@ -1,0 +1,79 @@
+{
+  "term": "manifest",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "manifest",
+      "heSheIt": "manifests"
+    },
+    "pastSimple": "manifested",
+    "pastParticiple": "manifested",
+    "ingForm": "manifesting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to show something clearly, especially a feeling, an attitude or a quality",
+      "sensetop": "manifest something (in something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Social tensions were manifested in the recent political crisis."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to appear or become easy to notice",
+      "sensetop": "manifest itself (in something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The symptoms of the disease manifested themselves ten days later."
+        }
+      ],
+      "synonyms": "appear"
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmænɪfest/",
+        "audio": "ma/manifest/manifest__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmænɪfests/",
+        "audio": "ma/manifest/manifests__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmænɪfestɪd/",
+        "audio": "ma/manifest/manifested__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmænɪfestɪŋ/",
+        "audio": "ma/manifest/manifesting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmænɪfest/",
+        "audio": "ma/manifest/manifest__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmænɪfests/",
+        "audio": "ma/manifest/manifests__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmænɪfestɪd/",
+        "audio": "ma/manifest/manifested__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmænɪfestɪŋ/",
+        "audio": "ma/manifest/manifesting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "verb late Middle English: via Old French from Latin manifestus."
+}

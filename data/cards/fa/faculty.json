@@ -1,0 +1,178 @@
+{
+  "term": "faculty",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a department or group of related departments in a college or university",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the Faculty of Law"
+        },
+        {
+          "text": "students who are doing degrees in the Arts Faculty"
+        },
+        {
+          "text": "the Faculty of Arts"
+        }
+      ],
+      "topics": ["Education"],
+      "collocations": {
+        "adjective": ["Arts", "English", "law"],
+        "faculty + noun": ["member"],
+        "preposition": ["in a/​the faculty", "faculty of"],
+        "phrases": [
+          "a member of the faculty",
+          "the dean of (the) faculty",
+          "the head of (the) faculty"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "all the teachers in a faculty of a college or university",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the Law School faculty"
+        },
+        {
+          "text": "a faculty meeting"
+        },
+        {
+          "text": "faculty members"
+        },
+        {
+          "text": "The faculty is/are meeting to discuss the issue."
+        },
+        {
+          "text": "Larger grants may ensure more funding for faculty development."
+        },
+        {
+          "text": "My faculty adviser made an effort to contact me."
+        },
+        {
+          "text": "a hearing before a faculty committee"
+        },
+        {
+          "text": "collaboration across faculties"
+        }
+      ],
+      "topics": ["Education"],
+      "collocations": {
+        "adjective": ["college", "departmental", "university"],
+        "verb + faculty": ["hire", "recruit", "retain"],
+        "faculty + noun": ["appointment", "position", "development"],
+        "preposition": ["on the faculty", "faculty at", "faculty of"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "all the teachers of a particular university or college",
+      "labels": "(North American English)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "faculty members"
+        },
+        {
+          "text": "She joined the faculty of the University of Maryland."
+        },
+        {
+          "text": "the faculty at public institutions"
+        },
+        {
+          "text": "her colleagues on the faculty"
+        },
+        {
+          "text": "The degree of job security for tenured faculty is high relative to most other jobs."
+        },
+        {
+          "text": "Teachers are typically part-timers and adjunct faculty."
+        },
+        {
+          "text": "I was fortunate to receive a faculty appointment at Ohio State."
+        }
+      ],
+      "topics": ["Education"],
+      "collocations": {
+        "adjective": ["college", "departmental", "university"],
+        "verb + faculty": ["hire", "recruit", "retain"],
+        "faculty + noun": ["appointment", "position", "development"],
+        "preposition": ["on the faculty", "faculty at", "faculty of"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "any of the physical or mental abilities that a person is born with",
+      "examples": [
+        {
+          "text": "the faculty of sight"
+        },
+        {
+          "text": "She retained her mental faculties *(= the ability to think and understand)* until the day she died."
+        },
+        {
+          "text": "to be **in full possession of your faculties** *(= be able to speak, hear, see, understand, etc.)*"
+        },
+        {
+          "text": "intellectual/critical/artistic faculties"
+        },
+        {
+          "text": "He is not in full possession of all his mental faculties."
+        },
+        {
+          "text": "We try to develop the student's critical faculties."
+        },
+        {
+          "text": "the evolution of man's higher faculties"
+        }
+      ],
+      "collocations": {
+        "adjective": ["higher", "cognitive", "intellectual"],
+        "verb + faculty": ["be in possession of", "have", "lose"],
+        "preposition": ["faculty for"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "a particular ability for doing something",
+      "sensetop": "faculty of/for (doing) something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "the faculty of understanding complex issues"
+        },
+        {
+          "text": "He had a faculty for seeing his own mistakes."
+        },
+        {
+          "text": "our faculty for picking up speech even in noisy environments"
+        }
+      ],
+      "collocations": {
+        "adjective": ["higher", "cognitive", "intellectual"],
+        "verb + faculty": ["be in possession of", "have", "lose"],
+        "preposition": ["faculty for"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfæklti/",
+        "audio": "fa/faculty/faculty__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfæklti/",
+        "audio": "fa/faculty/faculty__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French faculte, from Latin facultas, from facilis ‘easy’, from facere ‘make, do’."
+}

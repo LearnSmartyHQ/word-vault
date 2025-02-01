@@ -1,0 +1,105 @@
+{
+  "term": "depict",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "depict",
+      "heSheIt": "depicts"
+    },
+    "pastSimple": "depicted",
+    "pastParticiple": "depicted",
+    "ingForm": "depicting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to show an image of somebody/something in a picture",
+      "sensetop": "depict somebody/something (as somebody/something)depict somebody/something doing something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a painting depicting the Virgin and Child",
+          "contextForm": "depict somebody/something (as somebody/something)"
+        },
+        {
+          "text": "The artist had depicted her lying on a bed.",
+          "contextForm": "depict somebody/something doing something"
+        },
+        {
+          "text": "The carving clearly depicts a dragon inside a circle."
+        },
+        {
+          "text": "paintings depicting scenes from mythology"
+        },
+        {
+          "text": "The panels depict scenes from the life of St Ursula."
+        }
+      ],
+      "topics": ["Art"],
+      "collocations": {
+        "adverb": ["graphically", "vividly", "accurately"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to describe something in words, or give an impression of something in words or with a picture",
+      "sensetop": "depict somebody/somethingdepict somebody/something as somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The novel depicts French society in the 1930s.",
+          "contextForm": "depict somebody/something"
+        },
+        {
+          "text": "The advertisements depicted the city as glamorous and exciting.",
+          "contextForm": "depict somebody/something as somebody/something"
+        }
+      ],
+      "topics": ["Literature and writing"],
+      "collocations": {
+        "adverb": ["graphically", "vividly", "accurately"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈpɪkt/",
+        "audio": "de/depict/depict__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpɪkts/",
+        "audio": "de/depict/depicts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpɪktɪd/",
+        "audio": "de/depict/depicted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpɪktɪŋ/",
+        "audio": "de/depict/depicting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈpɪkt/",
+        "audio": "de/depict/depict__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpɪkts/",
+        "audio": "de/depict/depicts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpɪktɪd/",
+        "audio": "de/depict/depicted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpɪktɪŋ/",
+        "audio": "de/depict/depicting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin depict- ‘portrayed’, from the verb depingere, from de- ‘completely’ + pingere ‘to paint’."
+}

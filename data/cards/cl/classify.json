@@ -1,0 +1,117 @@
+{
+  "term": "classify",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "classify",
+      "heSheIt": "classifies"
+    },
+    "pastSimple": "classified",
+    "pastParticiple": "classified",
+    "ingForm": "classifying"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to arrange something in groups according to features that they have in common",
+      "sensetop": "classify something (+ adv./prep.)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The books in the library **are classified according to** subject."
+        },
+        {
+          "text": "Patients **are classified into** three categories."
+        },
+        {
+          "text": "These can be classified under five headings."
+        },
+        {
+          "text": "We can classify machines in terms of their function."
+        },
+        {
+          "text": "All rural settlements were classified according to their size."
+        },
+        {
+          "text": "Antiques can be classified according to a number of criteria."
+        },
+        {
+          "text": "The books are all classified by subject."
+        },
+        {
+          "text": "Soils can be classified under two main headings."
+        },
+        {
+          "text": "The study recorded and classified accidents over a period of a year."
+        }
+      ],
+      "topics": ["Scientific research"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to decide which type or group somebody/something belongs to",
+      "sensetop": "classify somebody/something as something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Only eleven of these accidents were classified as major."
+        },
+        {
+          "text": "It was classified as a sports car, which meant a $3 000 annual insurance bill."
+        }
+      ],
+      "topics": ["Scientific research"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to state that information is officially secret",
+      "sensetop": "classify something",
+      "examples": [
+        {
+          "text": "All the documents relating to the case have been classified."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈklæsɪfaɪ/",
+        "audio": "cl/classify/classify__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈklæsɪfaɪz/",
+        "audio": "cl/classify/classifies__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈklæsɪfaɪd/",
+        "audio": "cl/classify/classified__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈklæsɪfaɪɪŋ/",
+        "audio": "cl/classify/classifying__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈklæsɪfaɪ/",
+        "audio": "cl/classify/classify__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈklæsɪfaɪz/",
+        "audio": "cl/classify/classifies__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈklæsɪfaɪd/",
+        "audio": "cl/classify/classified__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈklæsɪfaɪɪŋ/",
+        "audio": "cl/classify/classifying__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 18th cent.: back-formation from classification, from French, from classe ‘class’, from Latin classis ‘division’."
+}

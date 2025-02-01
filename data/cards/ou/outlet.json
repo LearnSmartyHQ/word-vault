@@ -1,0 +1,111 @@
+{
+  "term": "outlet",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a shop or an organization that sells goods made by a particular company or of a particular type",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The business has 34 retail outlets in this state alone."
+        },
+        {
+          "text": "a retail outlet for exotic plants"
+        },
+        {
+          "text": "The vouchers can be spent at any fast-food outlet across the UK."
+        }
+      ],
+      "topics": ["Shopping", "Business"],
+      "collocations": {
+        "adjective": ["specialist", "high-street", "local"],
+        "outlet + noun": ["mall", "store"],
+        "preposition": ["outlet for"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a shop that sells goods of a particular make at reduced prices",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the Nike outlet in the outlet mall"
+        },
+        {
+          "text": "Here you'll find factory outlets that sell to the public directly."
+        }
+      ],
+      "topics": ["Shopping"],
+      "collocations": {
+        "adjective": ["specialist", "high-street", "local"],
+        "outlet + noun": ["mall", "store"],
+        "preposition": ["outlet for"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a way of expressing or making good use of strong feelings, ideas or energy",
+      "sensetop": "outlet (for something)",
+      "examples": [
+        {
+          "text": "She needed to find an outlet for her many talents and interests."
+        },
+        {
+          "text": "Sport became the perfect outlet for his aggression."
+        }
+      ],
+      "collocations": {
+        "adjective": ["emotional", "creative"],
+        "verb + outlet": ["have", "find", "provide (somebody with)"],
+        "preposition": ["outlet for"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a pipe or hole through which liquid or gas can flow out",
+      "examples": [
+        {
+          "text": "a sewage outlet"
+        },
+        {
+          "text": "an outlet pipe"
+        }
+      ],
+      "collocations": {
+        "adjective": ["sewage", "water"],
+        "outlet + noun": ["pipe"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "a device in a wall that you put a plug (= a small plastic object with two or three metal pins) into in order to connect electrical equipment to the power supply of a building",
+      "labels": "(both North American English)British and North American EnglishBritish English also",
+      "examples": [
+        {
+          "text": "The appliance can be connected to any standard outlet."
+        }
+      ],
+      "collocations": {
+        "adjective": ["AC", "electric", "electrical"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈaʊtlet/",
+        "audio": "ou/outlet/outlet__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈaʊtlet/",
+        "audio": "ou/outlet/outlet__us_1_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from out- + the verb let."
+}

@@ -1,0 +1,55 @@
+{
+  "term": "backup",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "extra help or support that you can get if necessary",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The police had backup from the army."
+        },
+        {
+          "text": "We can use him as a backup if one of the other players drops out."
+        },
+        {
+          "text": "The hospital has a backup power supply."
+        }
+      ],
+      "topics": ["Crime and punishment"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a copy of a file, etc. that can be used if the original is lost or damaged",
+      "labels": "(computing)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Always make a backup of your work."
+        },
+        {
+          "text": "a backup copy"
+        }
+      ],
+      "topics": ["Computers"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈbækʌp/",
+        "audio": "ba/backup/backup__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈbækʌp/",
+        "audio": "ba/backup/backup__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

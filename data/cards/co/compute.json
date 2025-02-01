@@ -1,0 +1,82 @@
+{
+  "term": "compute",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "compute",
+      "heSheIt": "computes"
+    },
+    "pastSimple": "computed",
+    "pastParticiple": "computed",
+    "ingForm": "computing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to calculate something",
+      "sensetop": "compute something",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The losses were computed at £5 million."
+        },
+        {
+          "text": "These measurements can be used to compute the average size."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to make sense",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "That just doesn't compute."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəmˈpjuːt/",
+        "audio": "co/compute/compute__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kəmˈpjuːts/",
+        "audio": "co/compute/computes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kəmˈpjuːtɪd/",
+        "audio": "co/compute/computed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kəmˈpjuːtɪŋ/",
+        "audio": "co/compute/computing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəmˈpjuːt/",
+        "audio": "co/compute/compute__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəmˈpjuːts/",
+        "audio": "co/compute/computes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəmˈpjuːtɪd/",
+        "audio": "co/compute/computed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəmˈpjuːtɪŋ/",
+        "audio": "co/compute/computing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 17th cent.: from French computer or Latin computare, from com- ‘together’ + putare ‘to settle (an account)’."
+}

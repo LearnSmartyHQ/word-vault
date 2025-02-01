@@ -1,0 +1,70 @@
+{
+  "term": "ensue",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "ensue",
+      "heSheIt": "ensues"
+    },
+    "pastSimple": "ensued",
+    "pastParticiple": "ensued",
+    "ingForm": "ensuing"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to happen after or as a result of another event",
+      "examples": [
+        {
+          "text": "An argument ensued."
+        },
+        {
+          "text": "The riot police swooped in and chaos ensued."
+        }
+      ],
+      "synonyms": "follow",
+      "topics": ["Change, cause and effect"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈsjuː/",
+        "audio": "en/ensue/ensue__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈsjuːz/",
+        "audio": "en/ensue/ensues__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈsjuːd/",
+        "audio": "en/ensue/ensued__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈsjuːɪŋ/",
+        "audio": "en/ensue/ensuing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈsuː/",
+        "audio": "en/ensue/ensue__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈsuːz/",
+        "audio": "en/ensue/ensues__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈsuːd/",
+        "audio": "en/ensue/ensued__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈsuːɪŋ/",
+        "audio": "en/ensue/ensuing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (formerly also as insue): from Old French ensivre, from Latin insequi, based on sequi ‘follow’."
+}

@@ -1,0 +1,125 @@
+{
+  "term": "bow",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "image": "data/images/bo/bows_1.png",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "bow",
+      "heSheIt": "bows"
+    },
+    "pastSimple": "bowed",
+    "pastParticiple": "bowed",
+    "ingForm": "bowing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to move your head or the top half of your body forwards and downwards as a sign of respect or to say hello or goodbye",
+      "sensetop": "bow (to/before somebody/something)bow down (to/before somebody/something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He bowed low to the assembled crowd.",
+          "contextForm": "bow (to/before somebody/something)"
+        },
+        {
+          "text": "The people all bowed down before the emperor.",
+          "contextForm": "bow down (to/before somebody/something)"
+        },
+        {
+          "text": "He swept off his hat and bowed deeply to the queen."
+        },
+        {
+          "text": "The emperor's subjects bowed down before him."
+        },
+        {
+          "text": "The pianist stood up and bowed to the audience."
+        }
+      ],
+      "collocations": {
+        "adverb": ["deeply", "low", "slightly"],
+        "preposition": ["before", "to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to move your head forwards and downwards",
+      "sensetop": "bow your head",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She bowed her head in shame."
+        },
+        {
+          "text": "They stood in silence with their heads bowed."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to bend or make something bend",
+      "sensetop": "(+ adv./prep)bow something (+ adv./prep)",
+      "examples": [
+        {
+          "text": "The pines bowed in the wind.",
+          "contextForm": "(+ adv./prep)"
+        },
+        {
+          "text": "Their backs were bowed under the weight of their packs.",
+          "contextForm": "bow something (+ adv./prep)"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be too polite to an important person in order to gain their approval",
+      "labels": "(disapproving)",
+      "examples": [
+        {
+          "text": "She was beginning to tire of all their bowing and scraping."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/baʊ/",
+        "audio": "bo/bow/bow__gb_3.mp3"
+      },
+      {
+        "pronunciation": "/baʊz/",
+        "audio": "bo/bow/bows__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/baʊd/",
+        "audio": "bo/bow/bowed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈbaʊɪŋ/",
+        "audio": "bo/bow/bowing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/baʊ/",
+        "audio": "bo/bow/bow__us_1.mp3"
+      },
+      {
+        "pronunciation": "/baʊz/",
+        "audio": "bo/bow/bows__us_1.mp3"
+      },
+      {
+        "pronunciation": "/baʊd/",
+        "audio": "bo/bow/bowed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈbaʊɪŋ/",
+        "audio": "bo/bow/bowing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English būgan ‘bend, stoop’, of Germanic origin; related to German biegen, also to bow2. Bow of a boat/​ship is late Middle English: from Low German boog, Dutch boeg, ‘shoulder or ship's bow’; related to bough."
+}

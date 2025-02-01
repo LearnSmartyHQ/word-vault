@@ -1,0 +1,193 @@
+{
+  "term": "capacity",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the number of things or people that a container or space can hold",
+      "sensetop": "to capacity",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a fuel tank with a maximum capacity of 50 litres"
+        },
+        {
+          "text": "The theatre has a seating capacity of 2 000."
+        },
+        {
+          "text": "a hard disk **storage capacity **of 1 000 gigabytes"
+        },
+        {
+          "text": "large-capacity disk drives"
+        },
+        {
+          "text": "The hall was **filled to capacity** *(= was completely full)*.",
+          "contextForm": "to capacity"
+        },
+        {
+          "text": "They played to a **capacity crowd** *(= one that filled all the space or seats)*."
+        }
+      ],
+      "collocations": {
+        "adjective": ["high", "large", "limited"],
+        "verb + capacity": ["have", "expand", "increase"],
+        "capacity + noun": ["audience", "crowd"],
+        "preposition": ["at capacity"],
+        "phrases": [
+          "be filled to capacity",
+          "be packed to capacity",
+          "operate at full capacity"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the ability to understand or to do something",
+      "sensetop": "capacity for somethingcapacity for doing somethingcapacity to do somethingbeyond/within somebody's capacity",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "mental/intellectual capacity"
+        },
+        {
+          "text": "She has an enormous capacity for hard work.",
+          "contextForm": "capacity for something"
+        },
+        {
+          "text": "Limited resources are restricting our capacity for developing new products.",
+          "contextForm": "capacity for doing something"
+        },
+        {
+          "text": "A habit becomes an addiction when it reduces your capacity to enjoy life.",
+          "contextForm": "capacity to do something"
+        },
+        {
+          "text": "The mountain walk is well within the capacity of most fit people.",
+          "contextForm": "beyond/within somebody's capacity"
+        },
+        {
+          "text": "His capacity for learning languages astonished me."
+        },
+        {
+          "text": "She seems to have lost the capacity to enjoy herself."
+        },
+        {
+          "text": "These questions are beyond the capacity of most students."
+        },
+        {
+          "text": "The qualification should increase my earning capacity."
+        }
+      ],
+      "collocations": {
+        "adjective": ["amazing", "enormous", "great"],
+        "verb + capacity": ["demonstrate", "have", "possess"],
+        "preposition": [
+          "beyond somebody’s capacity",
+          "within somebody’s capacity",
+          "capacity for"
+        ]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the official position or function that somebody has",
+      "sensetop": "in a… capacityin your capacity as something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "We are simply involved in an **advisory capacity** on the project.",
+          "contextForm": "in a… capacity"
+        },
+        {
+          "text": "to do something in a business/judicial/professional/voluntary capacity"
+        },
+        {
+          "text": "She was acting **in her capacity as** manager.",
+          "contextForm": "in your capacity as something"
+        },
+        {
+          "text": "In my capacity as president, I would like to thank Jack for his hard work."
+        }
+      ],
+      "synonyms": "role",
+      "topics": ["Business"],
+      "collocations": {
+        "adjective": ["official", "personal", "private"],
+        "verb + capacity": ["act in", "work in"],
+        "preposition": ["in your capacity"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "the quantity that a factory, machine, etc. can produce",
+      "sensetop": "at capacity",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The downturn in the business cycle left the plant with **excess capacity**."
+        },
+        {
+          "text": "Spare oil **production capacity** will probably remain low."
+        },
+        {
+          "text": "The factory is working **at (full) capacity**.",
+          "contextForm": "at capacity"
+        }
+      ],
+      "topics": ["Business"],
+      "collocations": {
+        "adjective": ["high", "large", "limited"],
+        "verb + capacity": ["have", "expand", "increase"],
+        "capacity + noun": ["audience", "crowd"],
+        "preposition": ["at capacity"],
+        "phrases": [
+          "be filled to capacity",
+          "be packed to capacity",
+          "operate at full capacity"
+        ]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "the size or power of a piece of equipment, especially the engine of a vehicle",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "an engine with a capacity of 1 600 cc"
+        }
+      ],
+      "topics": ["Engineering"],
+      "collocations": {
+        "adjective": ["high", "large", "limited"],
+        "verb + capacity": ["have", "expand", "increase"],
+        "capacity + noun": ["audience", "crowd"],
+        "preposition": ["at capacity"],
+        "phrases": [
+          "be filled to capacity",
+          "be packed to capacity",
+          "operate at full capacity"
+        ]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəˈpæsəti/",
+        "audio": "ca/capacity/capacity__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəˈpæsəti/",
+        "audio": "ca/capacity/capacity__us_3.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from French capacité, from Latin capacitas, from capax, capac- ‘that can contain’, from capere ‘take or hold’."
+}

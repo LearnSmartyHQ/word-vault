@@ -1,0 +1,108 @@
+{
+  "term": "sector",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "image": "data/images/ci/circles.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a part of an area of activity, especially of a country’s economy",
+      "sensetop": "in a sector",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the **service/banking/manufacturing/financial sector**"
+        },
+        {
+          "text": "jobs in the agricultural sector",
+          "contextForm": "in a sector"
+        },
+        {
+          "text": "She works in the **voluntary sector** *(= organizations that do not make a profit)*."
+        },
+        {
+          "text": "We have seen rapid growth in the **services sector**."
+        },
+        {
+          "text": "the privileged sectors of society"
+        },
+        {
+          "text": "The survey covers a wide range of industry sectors."
+        },
+        {
+          "text": "the chronic underfunding of the education sector"
+        },
+        {
+          "text": "Increased state investment will lead to more job opportunities in the manufacturing sector."
+        },
+        {
+          "text": "The largest growth has been in the service sector."
+        }
+      ],
+      "collocations": {
+        "adjective": ["important", "key", "growing"],
+        "preposition": ["in a/​the sector"],
+        "phrases": [
+          "a sector of the economy",
+          "a sector of the industry",
+          "a sector of the market"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a part of a particular area, especially an area under military control",
+      "sensetop": "in a sector",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "each sector of the war zone"
+        },
+        {
+          "text": "The partition of the city meant that members of the same family were living in different sectors.",
+          "contextForm": "in a sector"
+        },
+        {
+          "text": "Berlin was divided into four sectors after the war."
+        },
+        {
+          "text": "Most of the gas will come from the Norwegian sector of the North Sea."
+        }
+      ],
+      "collocations": {
+        "adjective": ["rural", "urban", "northern"],
+        "verb + sector": ["divide something into"],
+        "phrases": [
+          "a sector of the city",
+          "a sector of society",
+          "a sector of the population"
+        ]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a part of a circle lying between two straight lines drawn from the centre to the edge",
+      "labels": "(geometry)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsektə(r)/",
+        "audio": "se/sector/sector__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsektər/",
+        "audio": "se/sector/sector__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 16th cent. (in sense (3)): from late Latin, a technical use of Latin sector ‘cutter’, from sect- ‘cut off’, from the verb secare."
+}

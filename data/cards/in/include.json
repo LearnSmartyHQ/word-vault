@@ -1,0 +1,127 @@
+{
+  "term": "include",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "include",
+      "heSheIt": "includes"
+    },
+    "pastSimple": "included",
+    "pastParticiple": "included",
+    "ingForm": "including"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "if one thing includes another, it has the second thing as one of its parts",
+      "sensetop": "include somethinginclude doing something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The tour included a visit to the Science Museum.",
+          "contextForm": "include something"
+        },
+        {
+          "text": "Does the price include tax?"
+        },
+        {
+          "text": "The report includes a number of recommendations."
+        },
+        {
+          "text": "Your duties will include greeting visitors and directing them to the appropriate department.",
+          "contextForm": "include doing something"
+        },
+        {
+          "text": "Helpers at the event included students from a local school, as well as their parents."
+        },
+        {
+          "text": "The festival is expanding to include more fringe events."
+        },
+        {
+          "text": "The guide includes general information for instructors as well as answers to specific questions."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to make somebody/something part of something",
+      "sensetop": "include somebody/something in somethinginclude somebody/something as somethinginclude somebody/something/yourself among somebody/something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You should include some examples in your essay.",
+          "contextForm": "include somebody/something in something"
+        },
+        {
+          "text": "We need to include children in our study."
+        },
+        {
+          "text": "Representatives from the country were included as observers at the conference.",
+          "contextForm": "include somebody/something as something"
+        },
+        {
+          "text": "Quite a few members are worried and I include myself among them.",
+          "contextForm": "include somebody/something/yourself among somebody/something"
+        },
+        {
+          "text": "Include in your answer clear definitions where appropriate."
+        },
+        {
+          "text": "It would be simple to include such data as part of any risk calculation."
+        },
+        {
+          "text": "Three factor variables were included in the analysis."
+        },
+        {
+          "text": "Not included in this list are those countries that are minor in importance."
+        },
+        {
+          "text": "Filters allow you to either include or exclude specific types of activity from generated reports."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈkluːd/",
+        "audio": "in/include/include__gb_3.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkluːdz/",
+        "audio": "in/include/includes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkluːdɪd/",
+        "audio": "in/include/included__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkluːdɪŋ/",
+        "audio": "in/include/including__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈkluːd/",
+        "audio": "in/include/include__us_4.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkluːdz/",
+        "audio": "in/include/includes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkluːdɪd/",
+        "audio": "in/include/included__us_5.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈkluːdɪŋ/",
+        "audio": "in/include/including__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (also in the sense ‘shut in’): from Latin includere, from in- ‘into’ + claudere ‘to shut’."
+}

@@ -1,0 +1,94 @@
+{
+  "term": "foster",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "foster",
+      "heSheIt": "fosters"
+    },
+    "pastSimple": "fostered",
+    "pastParticiple": "fostered",
+    "ingForm": "fostering"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to encourage something to develop",
+      "sensetop": "foster something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The club's aim is to foster better relations within the community."
+        },
+        {
+          "text": "The school has carefully fostered its progressive image."
+        },
+        {
+          "text": "Such organizations need to foster innovation."
+        }
+      ],
+      "synonyms": "encourage, promote",
+      "collocations": {
+        "adverb": ["carefully", "deliberately"],
+        "verb + foster": ["help (to)", "be designed to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to take another person’s child into your home for a period of time, without becoming his or her legal parents",
+      "sensetop": "foster (somebody)",
+      "labels": "(especially British English)(especially US English)(especially North American English)(especially British English)(British English)(North American English)(especially British English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They have fostered over 60 children during the past ten years."
+        },
+        {
+          "text": "We couldn't adopt a child, so we decided to foster."
+        }
+      ],
+      "topics": ["Life stages", "Family and relationships"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfɒstə(r)/",
+        "audio": "fo/foster/foster__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈfɒstəz/",
+        "audio": "fo/foster/fosters__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈfɒstəd/",
+        "audio": "fo/foster/fostered__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈfɒstərɪŋ/",
+        "audio": "fo/foster/fostering__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfɑːstər/",
+        "audio": "fo/foster/foster__us_2_rr.mp3"
+      },
+      {
+        "pronunciation": "/ˈfɑːstərz/",
+        "audio": "fo/foster/fosters__us_4.mp3"
+      },
+      {
+        "pronunciation": "/ˈfɑːstərd/",
+        "audio": "fo/foster/fostered__us_4.mp3"
+      },
+      {
+        "pronunciation": "/ˈfɑːstərɪŋ/",
+        "audio": "fo/foster/fostering__us_5.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English fōstrian ‘feed, nourish’, from fōster ‘food, nourishment’, of Germanic origin; related to food. The sense ‘bring up another's (originally also one's own) child’ dates from Middle English."
+}

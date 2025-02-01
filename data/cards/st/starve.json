@@ -1,0 +1,123 @@
+{
+  "term": "starve",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "starve",
+      "heSheIt": "starves"
+    },
+    "pastSimple": "starved",
+    "pastParticiple": "starved",
+    "ingForm": "starving"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to suffer or die because you do not have enough food to eat; to make somebody suffer or die in this way",
+      "sensetop": "starve somebody/yourself",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The animals were left to **starve to death**."
+        },
+        {
+          "text": "pictures of starving children"
+        },
+        {
+          "text": "The new job doesn't pay as much but we won't starve!"
+        },
+        {
+          "text": "She's starving herself to try to lose weight.",
+          "contextForm": "starve somebody/yourself"
+        },
+        {
+          "text": "Many of the prisoners looked half starved."
+        },
+        {
+          "text": "He locked them in a room and left them to starve."
+        },
+        {
+          "text": "She refused food and literally starved herself to death."
+        },
+        {
+          "text": "The poor cat was half starved."
+        },
+        {
+          "text": "Their policies will leave innocent children starving in the streets."
+        }
+      ],
+      "topics": ["Social issues"],
+      "collocations": {
+        "adverb": ["slowly", "literally"],
+        "verb + starve": ["leave somebody to"],
+        "preposition": ["for", "of"],
+        "phrases": [
+          "be half starved",
+          "keep somebody from starving",
+          "starve in the streets"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "not having something that you need",
+      "examples": [
+        {
+          "text": "supply-starved rebels"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to feel very hungry",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "When's the food coming? I'm starving!"
+        }
+      ],
+      "topics": ["Feelings", "Cooking and eating"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/stɑːv/",
+        "audio": "st/starve/starve__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/stɑːvz/",
+        "audio": "st/starve/starves__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/stɑːvd/",
+        "audio": "st/starve/starved__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈstɑːvɪŋ/",
+        "audio": "st/starve/starving__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/stɑːrv/",
+        "audio": "st/starve/starve__us_1.mp3"
+      },
+      {
+        "pronunciation": "/stɑːrvz/",
+        "audio": "st/starve/starves__us_1.mp3"
+      },
+      {
+        "pronunciation": "/stɑːrvd/",
+        "audio": "st/starve/starved__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈstɑːrvɪŋ/",
+        "audio": "st/starve/starving__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English steorfan ‘to die’, of Germanic origin, probably from a base meaning ‘be rigid’ (compare with stare); related to Dutch sterven and German sterben."
+}

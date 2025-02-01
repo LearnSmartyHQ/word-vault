@@ -1,0 +1,141 @@
+{
+  "term": "bath",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/ba/bathroom.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a large, long container that you put water in and then get into to wash your whole body",
+      "labels": "(British English)informalNorth American English, British English",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I'm in the bath!"
+        },
+        {
+          "text": "bath taps"
+        },
+        {
+          "text": "a bath with shower attachment"
+        }
+      ],
+      "topics": ["Houses and homes"],
+      "collocations": {
+        "adjective": ["free-standing", "sunken", "cast-iron"],
+        "verb + bath/​bathtub": ["fill", "lie in", "soak in"],
+        "bath/​bathtub + noun": ["faucet", "tap"],
+        "preposition": ["in the bath"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "an act of washing your whole body by sitting or lying in water",
+      "labels": "(British English)(especially North American English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I think I'll **have a bath** and go to bed."
+        },
+        {
+          "text": "to **take a bath**"
+        },
+        {
+          "text": "She took the baby upstairs to give him a bath."
+        },
+        {
+          "text": "It's the children's bath time."
+        },
+        {
+          "text": "When she got home she decided she needed a bath."
+        }
+      ],
+      "collocations": {
+        "adjective": ["hot", "warm", "cold"],
+        "verb + bath": ["draw", "prepare", "run"],
+        "bath + noun": ["mat", "towel", "oil"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the water in a bath ready to use",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a long soak in a hot bath"
+        },
+        {
+          "text": "Please **run a bath** for me *(= fill the bath with water)*."
+        },
+        {
+          "text": "I lay soaking in a hot bubble bath."
+        }
+      ],
+      "collocations": {
+        "adjective": ["hot", "warm", "cold"],
+        "verb + bath": ["draw", "prepare", "run"],
+        "bath + noun": ["mat", "towel", "oil"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a public building where you can go to swim",
+      "labels": "(British English, old-fashioned)",
+      "examples": [
+        {
+          "text": "My father took me to the baths every Sunday."
+        }
+      ]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "a public place where people went in the past to wash or have a bath",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Roman villas and baths"
+        }
+      ],
+      "topics": ["History"]
+    },
+    {
+      "senseNumber": 6,
+      "definition": "a container with a liquid such as water or a dye in it, in which something is washed or placed for a period of time. Baths are used in industrial, chemical and medical processes.",
+      "labels": "(specialist)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to lose money on a business agreement",
+      "labels": "(North American English)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bɑːθ/",
+        "audio": "ba/bath/bath__gb_5.mp3"
+      },
+      {
+        "pronunciation": "/bɑːðz/",
+        "audio": "ba/bath/baths__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bæθ/",
+        "audio": "ba/bath/bath__us_1.mp3"
+      },
+      {
+        "pronunciation": "/bæðz/",
+        "audio": "ba/bath/baths__us_1_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English bæth, of Germanic origin; related to Dutch bad and German Bad."
+}

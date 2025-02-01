@@ -1,0 +1,114 @@
+{
+  "term": "erect",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "erect",
+      "heSheIt": "erects"
+    },
+    "pastSimple": "erected",
+    "pastParticiple": "erected",
+    "ingForm": "erecting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to build something",
+      "sensetop": "erect something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The church was erected in 1582."
+        },
+        {
+          "text": "A large monument was erected on the battlefield."
+        },
+        {
+          "text": "the newly erected station buildings"
+        }
+      ],
+      "topics": ["Buildings"],
+      "collocations": {
+        "adverb": ["hastily", "quickly", "specially"],
+        "preposition": ["around", "on"],
+        "phrases": ["newly erected", "recently erected"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to put something in position so that it stands upright",
+      "sensetop": "erect something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Police had to erect barriers to keep crowds back."
+        },
+        {
+          "text": "to erect a tent"
+        },
+        {
+          "text": "The event will take place in a specially erected marquee."
+        },
+        {
+          "text": "An electric fence was erected around the campus."
+        }
+      ],
+      "collocations": {
+        "adverb": ["hastily", "quickly", "specially"],
+        "preposition": ["around", "on"],
+        "phrases": ["newly erected", "recently erected"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to create or establish something",
+      "sensetop": "erect something",
+      "examples": [
+        {
+          "text": "to erect trade barriers"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪˈrekt/",
+        "audio": "er/erect/erect__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈrekts/",
+        "audio": "er/erect/erects__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈrektɪd/",
+        "audio": "er/erect/erected__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈrektɪŋ/",
+        "audio": "er/erect/erecting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪˈrekt/",
+        "audio": "er/erect/erect__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈrekts/",
+        "audio": "er/erect/erects__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈrektɪd/",
+        "audio": "er/erect/erected__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪˈrektɪŋ/",
+        "audio": "er/erect/erecting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

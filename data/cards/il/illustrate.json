@@ -1,0 +1,153 @@
+{
+  "term": "illustrate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "illustrate",
+      "heSheIt": "illustrates"
+    },
+    "pastSimple": "illustrated",
+    "pastParticiple": "illustrated",
+    "ingForm": "illustrating"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to use pictures, photographs, diagrams, etc. in a book, etc.",
+      "sensetop": "illustrate somethingillustrate something with something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She illustrated her own books.",
+          "contextForm": "illustrate something"
+        },
+        {
+          "text": "His lecture was illustrated with photos taken during the expedition.",
+          "contextForm": "illustrate something with something"
+        },
+        {
+          "text": "The new edition is heavily illustrated with photographs of aircraft."
+        },
+        {
+          "text": "Quentin Blake was tasked with illustrating the novels of Evelyn Waugh."
+        },
+        {
+          "text": "The volume is lavishly illustrated with drawings and photographs."
+        }
+      ],
+      "topics": ["Literature and writing"],
+      "collocations": {
+        "adverb": ["copiously", "generously", "heavily"],
+        "preposition": ["by", "with"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to make the meaning of something clearer by using examples, pictures, etc.",
+      "sensetop": "illustrate somethingillustrate something with somethingillustrate how, what, etc…",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**To illustrate my point**, let me tell you a little story.",
+          "contextForm": "illustrate something"
+        },
+        {
+          "text": "Last year's sales figures are illustrated in Figure 2."
+        },
+        {
+          "text": "He is showing these silent films to help illustrate his story of survival."
+        },
+        {
+          "text": "Each topic is illustrated with concrete examples of economic practice.",
+          "contextForm": "illustrate something with something"
+        },
+        {
+          "text": "Here's an example to illustrate what I mean.",
+          "contextForm": "illustrate how, what, etc…"
+        }
+      ],
+      "collocations": {
+        "adverb": ["amply", "aptly", "brilliantly"],
+        "verb + illustrate": ["serve to", "attempt to", "seek to"],
+        "preposition": ["by", "to"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to show that something is true or that a situation exists",
+      "sensetop": "illustrate somethingillustrate how, what, etc…illustrate that…",
+      "examples": [
+        {
+          "text": "The incident illustrates the need for better security measures.",
+          "contextForm": "illustrate something"
+        },
+        {
+          "text": "This story illustrates how little has changed.",
+          "contextForm": "illustrate how, what, etc…"
+        },
+        {
+          "text": "These data illustrate that many parents are not aware of the risks.",
+          "contextForm": "illustrate that…"
+        },
+        {
+          "text": "His question merely illustrates his ignorance of the subject."
+        },
+        {
+          "text": "The case tragically illustrates the dangers of fireworks."
+        },
+        {
+          "text": "The dire consequences of chronic underfunding are nowhere better illustrated than in the nation's schools."
+        }
+      ],
+      "collocations": {
+        "adverb": ["amply", "aptly", "brilliantly"],
+        "verb + illustrate": ["serve to", "attempt to", "seek to"],
+        "preposition": ["by", "to"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɪləstreɪt/",
+        "audio": "il/illustrate/illustrate__gb_3.mp3"
+      },
+      {
+        "pronunciation": "/ˈɪləstreɪts/",
+        "audio": "il/illustrate/illustrates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɪləstreɪtɪd/",
+        "audio": "il/illustrate/illustrated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɪləstreɪtɪŋ/",
+        "audio": "il/illustrate/illustrating__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɪləstreɪt/",
+        "audio": "il/illustrate/illustrate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɪləstreɪts/",
+        "audio": "il/illustrate/illustrates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɪləstreɪtɪd/",
+        "audio": "il/illustrate/illustrated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɪləstreɪtɪŋ/",
+        "audio": "il/illustrate/illustrating__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 16th cent. (in the sense ‘illuminate, shed light on’): from Latin illustrat- ‘lit up’, from the verb illustrare, from in- ‘upon’ + lustrare ‘illuminate’."
+}

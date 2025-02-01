@@ -1,0 +1,100 @@
+{
+  "term": "limb",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "image": "data/images/tr/tree.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "an arm or a leg; a similar part of an animal, such as a wing",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "an artificial limb"
+        },
+        {
+          "text": "For a while, she lost the use of her limbs."
+        },
+        {
+          "text": "I stretched my limbs lazily as I sat up."
+        },
+        {
+          "text": "The animal is able to stand up on its hind limbs."
+        },
+        {
+          "text": "The missing limb did not lessen the quality of the cat's life."
+        },
+        {
+          "text": "Two arms reached around her flailing limbs."
+        }
+      ],
+      "topics": ["Body"],
+      "collocations": {
+        "adjective": ["long", "short", "slender"],
+        "verb + limb": ["amputate", "sever", "lose"],
+        "limb + noun": ["development", "growth", "amputation"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "having the type of limbs mentioned",
+      "examples": [
+        {
+          "text": "long-limbed"
+        },
+        {
+          "text": "loose-limbed"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a large branch of a tree",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "not supported by other people",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Are you prepared to **go out on a limb** *(= risk doing something that other people are not prepared to do)* and make your suspicions public?"
+        },
+        {
+          "text": "His controversial stance has left him out on a limb."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to risk being killed or injured in order to do something",
+      "examples": [
+        {
+          "text": "She risked life and limb to save her children from the fire."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to attack somebody very violently",
+      "labels": "(often humorous)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/lɪm/",
+        "audio": "li/limb/limb__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/lɪm/",
+        "audio": "li/limb/limb__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English lim (also in the sense ‘organ or part of the body’), of Germanic origin."
+}

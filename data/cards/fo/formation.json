@@ -1,0 +1,89 @@
+{
+  "term": "formation",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the action of forming something; the process of being formed",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "the formation of a new government"
+        },
+        {
+          "text": "evidence of recent star formation in the galaxy"
+        },
+        {
+          "text": "This dispute led to the formation of a new breakaway group."
+        },
+        {
+          "text": "the top civil servants who are responsible for policy formation"
+        }
+      ],
+      "topics": ["Geography"],
+      "collocations": {
+        "adjective": ["policy"],
+        "verb + formation": ["lead to", "result in", "prevent"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a thing that has been formed, especially in a particular place or in a particular way",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Massive rock formations rise abruptly some 1 500 feet above the canyon floor."
+        }
+      ],
+      "topics": ["Geography"],
+      "collocations": {
+        "adjective": ["cloud", "geological", "rock"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a particular arrangement or pattern",
+      "sensetop": "in formation",
+      "examples": [
+        {
+          "text": "formation flying"
+        },
+        {
+          "text": "aircraft flying in formation",
+          "contextForm": "in formation"
+        },
+        {
+          "text": "The team usually plays in a 4-4-2 formation."
+        },
+        {
+          "text": "The troops advanced in battle formation."
+        },
+        {
+          "text": "changing patterns of marriage and family formation"
+        }
+      ],
+      "collocations": {
+        "adjective": ["close", "tight", "battle"],
+        "formation + noun": ["flying"],
+        "preposition": ["in a… formation", "in formation"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/fɔːˈmeɪʃn/",
+        "audio": "fo/formation/formation__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/fɔːrˈmeɪʃn/",
+        "audio": "fo/formation/formation__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin formatio(n-), from formare ‘to form’, based on Latin forma ‘a mould or form’."
+}

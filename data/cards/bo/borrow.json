@@ -1,0 +1,177 @@
+{
+  "term": "borrow",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "borrow",
+      "heSheIt": "borrows"
+    },
+    "pastSimple": "borrowed",
+    "pastParticiple": "borrowed",
+    "ingForm": "borrowing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to take and use something that belongs to somebody else, and return it to them at a later time",
+      "sensetop": "borrow somethingborrow something from somebody/somethingborrow something off somebody",
+      "labels": "(British English, informal)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Can I borrow your umbrella?",
+          "contextForm": "borrow something"
+        },
+        {
+          "text": "Members can borrow up to ten books from the library at any one time.",
+          "contextForm": "borrow something from somebody/something"
+        },
+        {
+          "text": "I borrowed the tools I needed off my brother.",
+          "contextForm": "borrow something off somebody"
+        },
+        {
+          "text": "I'll borrow some coffee off the neighbours."
+        },
+        {
+          "text": "I'm borrowing my mum's car for the weekend."
+        },
+        {
+          "text": "You can borrow the book from the local library."
+        }
+      ],
+      "collocations": {
+        "adverb": ["heavily"],
+        "preposition": ["from", "off"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to take money from a person or bank and agree to pay it back to them at a later time",
+      "sensetop": "borrow somethingborrow something from somebody/somethingborrow from somebody/somethingborrow something off somebody",
+      "labels": "(informal)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "How much did you have to borrow to pay for this?",
+          "contextForm": "borrow something"
+        },
+        {
+          "text": "The goal is to borrow funds at a low interest rate."
+        },
+        {
+          "text": "She borrowed £2 000 from her parents.",
+          "contextForm": "borrow something from somebody/something"
+        },
+        {
+          "text": "I don't like to borrow from friends.",
+          "contextForm": "borrow from somebody/something"
+        },
+        {
+          "text": "The company had borrowed heavily from state-owned banks."
+        },
+        {
+          "text": "I had to borrow the money off a friend.",
+          "contextForm": "borrow something off somebody"
+        },
+        {
+          "text": "She borrowed £50 from her mother."
+        },
+        {
+          "text": "I borrowed £50 off my mum."
+        }
+      ],
+      "topics": ["Money", "Houses and homes"],
+      "collocations": {
+        "adverb": ["heavily"],
+        "preposition": ["from", "off"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to take words, ideas, etc. from another language, person, etc. and use them as your own",
+      "sensetop": "borrow (from somebody/something)borrow something (from somebody/something)",
+      "examples": [
+        {
+          "text": "The author borrows heavily from Henry James.",
+          "contextForm": "borrow (from somebody/something)"
+        },
+        {
+          "text": "His designs borrow freely from the architecture of ancient Egypt."
+        },
+        {
+          "text": "Some musical terms are borrowed from Italian.",
+          "contextForm": "borrow something (from somebody/something)"
+        },
+        {
+          "text": "The villain was—**to borrow a phrase** from Alex—‘all bark and no bite’."
+        }
+      ],
+      "collocations": {
+        "adverb": ["freely"],
+        "preposition": ["from"]
+      }
+    },
+    {
+      "senseNumber": 1,
+      "definition": "to still be alive after the time when you were expected to die",
+      "examples": [
+        {
+          "text": "He’s been living on borrowed time ever since his last heart attack."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to be doing something that other people are likely to soon stop you from doing",
+      "examples": [
+        {
+          "text": "According to the latest opinion polls, the government is living on borrowed time."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈbɒrəʊ/",
+        "audio": "bo/borrow/borrow__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈbɒrəʊz/",
+        "audio": "bo/borrow/borrows__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈbɒrəʊd/",
+        "audio": "bo/borrow/borrowed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈbɒrəʊɪŋ/",
+        "audio": "bo/borrow/borrowing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈbɔːrəʊ/",
+        "audio": "bo/borrow/borrow__us_2_rr.mp3"
+      },
+      {
+        "pronunciation": "/ˈbɔːrəʊz/",
+        "audio": "bo/borrow/borrows__us_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈbɔːrəʊd/",
+        "audio": "bo/borrow/borrowed__us_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈbɔːrəʊɪŋ/",
+        "audio": "bo/borrow/borrowing__us_2_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English borgian ‘borrow against security’, of Germanic origin; related to Dutch and German borgen."
+}

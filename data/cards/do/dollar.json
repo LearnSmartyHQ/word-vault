@@ -1,0 +1,88 @@
+{
+  "term": "dollar",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the unit of money in the US, Canada, Australia and several other countries",
+      "sensetop": "per dollar",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You will be paid in American dollars."
+        },
+        {
+          "text": "Do you have a dollar?"
+        },
+        {
+          "text": "a **dollar bill**"
+        },
+        {
+          "text": "He sold the company in a **multimillion-dollar** deal."
+        },
+        {
+          "text": "American taxpayers ought to have more say in how their **tax dollars** are spent."
+        },
+        {
+          "text": "China produces billions of dollars worth of exports."
+        },
+        {
+          "text": "The company generates an additional $4 in sales per dollar spent on ads.",
+          "contextForm": "per dollar"
+        }
+      ],
+      "topics": ["Money"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the value of the US dollar compared with the value of the money of other countries",
+      "labels": "(finance)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The dollar closed two cents down."
+        }
+      ],
+      "topics": ["Money"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to look/feel extremely good",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Wow, you look like a million dollars."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to say that you are certain that something will happen",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "You can bet your bottom dollar that he'll be late."
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdɒlə(r)/",
+        "audio": "do/dollar/dollar__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdɑːlər/",
+        "audio": "do/dollar/dollar__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "from early Flemish or Low German daler, from German T(h)aler, short for Joachimsthaler, a coin from the silver mine of Joachimsthal (‘Joachim's valley’), now Jáchymov in the Czech Republic. The term was later applied to a coin used in the Spanish-American colonies, which was also widely used in the British North American colonies at the time of the American War of Independence, hence adopted as the name of the US monetary unit in the late 18th cent."
+}

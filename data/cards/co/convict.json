@@ -1,0 +1,95 @@
+{
+  "term": "convict",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "convict",
+      "heSheIt": "convicts"
+    },
+    "pastSimple": "convicted",
+    "pastParticiple": "convicted",
+    "ingForm": "convicting"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to decide and state officially in court that somebody is guilty of a crime",
+      "sensetop": "be convicted (of something)convict somebody (of something)",
+      "labels": "(especially North American English)(especially US English)(especially North American English)(British English)(North American English)",
+      "examples": [
+        {
+          "text": "He was convicted of fraud.",
+          "contextForm": "be convicted (of something)"
+        },
+        {
+          "text": "a convicted murderer"
+        },
+        {
+          "text": "There wasn’t enough evidence to convict her.",
+          "contextForm": "convict somebody (of something)"
+        },
+        {
+          "text": "She was convicted of a serious driving offence."
+        },
+        {
+          "text": "They were convicted of the murder of two teenagers."
+        },
+        {
+          "text": "He was convicted on a drug charge."
+        },
+        {
+          "text": "She was convicted for her part in the crime."
+        },
+        {
+          "text": "They were convicted on all 13 counts."
+        }
+      ],
+      "topics": ["Law and justice"],
+      "collocations": {
+        "adverb": ["wrongfully", "wrongly", "rightly"],
+        "preposition": ["for", "of", "on"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kənˈvɪkt/",
+        "audio": "xc/convict/xconvict__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈvɪkts/",
+        "audio": "xc/convict/xconvicts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈvɪktɪd/",
+        "audio": "xc/convict/xconvicted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈvɪktɪŋ/",
+        "audio": "xc/convict/xconvicting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kənˈvɪkt/",
+        "audio": "xc/convict/xconvict__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈvɪkts/",
+        "audio": "xc/convict/xconvicts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈvɪktɪd/",
+        "audio": "xc/convict/xconvicted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈvɪktɪŋ/",
+        "audio": "xc/convict/xconvicting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Latin convict- ‘demonstrated, refuted, convicted’, from the verb convincere, from con- ‘with’ + vincere ‘conquer’. The noun is from obsolete convict ‘convicted’."
+}

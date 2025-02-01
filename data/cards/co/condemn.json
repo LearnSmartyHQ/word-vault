@@ -1,0 +1,148 @@
+{
+  "term": "condemn",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "condemn",
+      "heSheIt": "condemns"
+    },
+    "pastSimple": "condemned",
+    "pastParticiple": "condemned",
+    "ingForm": "condemning"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to say very strongly that you think something is bad, usually for moral reasons",
+      "sensetop": "condemn somebody/somethingcondemn somebody/something for/as something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The government issued a statement condemning the killings.",
+          "contextForm": "condemn somebody/something"
+        },
+        {
+          "text": "The editor of the newspaper was condemned as lacking integrity.",
+          "contextForm": "condemn somebody/something for/as something"
+        },
+        {
+          "text": "She publicly condemned the deal."
+        },
+        {
+          "text": "He publicly condemned the opposition leader."
+        },
+        {
+          "text": "The President specifically condemned the ads."
+        },
+        {
+          "text": "The action has been widely condemned by human rights groups."
+        },
+        {
+          "text": "They rightly condemn such opinions as racist."
+        }
+      ],
+      "collocations": {
+        "adverb": ["roundly", "strongly", "vehemently"],
+        "preposition": ["for"],
+        "phrases": ["be widely condemned"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to say what somebody’s punishment will be",
+      "sensetop": "be condemned (to something)be condemned to do something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He was condemned to death for murder and later hanged.",
+          "contextForm": "be condemned (to something)"
+        },
+        {
+          "text": "She was condemned to hang for killing her husband.",
+          "contextForm": "be condemned to do something"
+        }
+      ],
+      "topics": ["Crime and punishment"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to force somebody to accept a difficult or unpleasant situation",
+      "sensetop": "be condemned to somethingbe condemned to do something",
+      "examples": [
+        {
+          "text": "He was condemned to a life of hardship.",
+          "contextForm": "be condemned to something"
+        },
+        {
+          "text": "They were condemned to spend every holiday on a rainy campsite.",
+          "contextForm": "be condemned to do something"
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to say officially that something is not safe enough to be used",
+      "sensetop": "be condemned (as something)",
+      "examples": [
+        {
+          "text": "The meat was condemned as unfit to eat.",
+          "contextForm": "be condemned (as something)"
+        },
+        {
+          "text": "a condemned building"
+        }
+      ]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to show or suggest that somebody is guilty of something",
+      "sensetop": "condemn somebody",
+      "examples": [
+        {
+          "text": "She is condemned out of her own mouth *(= her own words show that she is guilty)*."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kənˈdem/",
+        "audio": "xc/condemn/xcondemn__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈdemz/",
+        "audio": "xc/condemn/xcondemns__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈdemd/",
+        "audio": "xc/condemn/xcondemned__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈdemɪŋ/",
+        "audio": "xc/condemn/xcondemning__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kənˈdem/",
+        "audio": "xc/condemn/xcondemn__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈdemz/",
+        "audio": "xc/condemn/xcondemns__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈdemd/",
+        "audio": "xc/condemn/xcondemned__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈdemɪŋ/",
+        "audio": "xc/condemn/xcondemning__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (in senses (2) and (3)): from Old French condemner, from Latin condemnare, from con- (expressing intensive force) + damnare ‘inflict loss on’, from damnum ‘loss, damage’."
+}

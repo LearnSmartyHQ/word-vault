@@ -1,0 +1,74 @@
+{
+  "term": "lorry",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "image": "data/images/ve/vehicles_trucks.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a large vehicle for carrying heavy loads by road",
+      "sensetop": "by lorry",
+      "examples": [
+        {
+          "text": "a lorry driver"
+        },
+        {
+          "text": "a lorry load of frozen fish"
+        },
+        {
+          "text": "Emergency food supplies were brought in by lorry.",
+          "contextForm": "by lorry"
+        },
+        {
+          "text": "A dozen people suffered minor injuries after a lorry jackknifed on an icy M62."
+        },
+        {
+          "text": "Her husband was a long-distance lorry driver."
+        },
+        {
+          "text": "The lorry had shed its load under the bridge."
+        },
+        {
+          "text": "The motorway was closed by an overturned lorry."
+        },
+        {
+          "text": "a refrigerated lorry carrying frozen fish"
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "heavy", "huge"],
+        "… of lorries": ["convoy"],
+        "verb + lorry": ["drive"],
+        "lorry + verb": [
+          "be laden with something",
+          "carry something",
+          "travel"
+        ],
+        "lorry + noun": ["driver", "load"],
+        "phrases": ["a lorry sheds its load"]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "goods that fell off the back of a lorry were probably stolen. People say or accept that they came ‘off the back of a lorry’ to avoid saying or asking where they really came from.",
+      "labels": "(British English, informal, humorous)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈlɒri/",
+        "audio": "lo/lorry/lorry__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈlɔːri/",
+        "audio": "lo/lorry/lorry__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 19th cent.: perhaps from the given name Laurie."
+}

@@ -1,0 +1,76 @@
+{
+  "term": "complement",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "complement",
+      "heSheIt": "complements"
+    },
+    "pastSimple": "complemented",
+    "pastParticiple": "complemented",
+    "ingForm": "complementing"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to add to something in a way that improves it or makes it more attractive",
+      "sensetop": "complement something",
+      "examples": [
+        {
+          "text": "The excellent menu is complemented by a good wine list."
+        },
+        {
+          "text": "The team needs players who **complement each other**."
+        },
+        {
+          "text": "The flavours in the dish complement each other perfectly."
+        }
+      ],
+      "collocations": {
+        "adverb": ["nicely", "well", "perfectly"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkɒmplɪment/",
+        "audio": "co/complement/complement__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkɒmplɪments/",
+        "audio": "co/complement/complements__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkɒmplɪmentɪd/",
+        "audio": "co/complement/complemented__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkɒmplɪmentɪŋ/",
+        "audio": "co/complement/complementing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkɑːmplɪment/",
+        "audio": "co/complement/complement__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkɑːmplɪments/",
+        "audio": "co/complement/complements__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkɑːmplɪmentɪd/",
+        "audio": "co/complement/complemented__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkɑːmplɪmentɪŋ/",
+        "audio": "co/complement/complementing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the sense ‘completion’): from Latin complementum, from complere ‘fill up’, from com- (expressing intensive force) + plere ‘fill’. Compare with compliment."
+}

@@ -1,0 +1,67 @@
+{
+  "term": "helicopter",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b1",
+  "image": "data/images/ve/vehicles_aircraft.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "an aircraft without wings that has large blades (= long flat parts) on top that go round. It can fly straight up from the ground and can also stay in one position in the air.",
+      "sensetop": "by helicopter",
+      "examples": [
+        {
+          "text": "a **police/rescue helicopter**"
+        },
+        {
+          "text": "an **attack helicopter**"
+        },
+        {
+          "text": "He was rushed to the hospital by helicopter.",
+          "contextForm": "by helicopter"
+        },
+        {
+          "text": "a **helicopter pilot**"
+        },
+        {
+          "text": "a **helicopter gunship**"
+        },
+        {
+          "text": "An air ambulance helicopter came to the rescue."
+        },
+        {
+          "text": "He flew helicopters during the Gulf War."
+        },
+        {
+          "text": "Helicopters buzzed overhead."
+        },
+        {
+          "text": "We're going to take a helicopter tour of the island."
+        }
+      ],
+      "topics": ["Transport by air"],
+      "collocations": {
+        "adjective": ["air-force", "army", "coastguard"],
+        "verb + helicopter": ["fly", "pilot", "board"],
+        "helicopter + verb": ["fly", "circle", "hover"],
+        "helicopter + noun": ["flight", "ride", "trip"],
+        "preposition": ["by helicopter", "in a/​the helicopter"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈhelɪkɒptə(r)/",
+        "audio": "he/helicopter/helicopter__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈhelɪkɑːptər/",
+        "audio": "he/helicopter/helicopter__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 19th cent.: from French hélicoptère, from Greek helix ‘spiral’ + pteron ‘wing’."
+}

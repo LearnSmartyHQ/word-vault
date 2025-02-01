@@ -1,0 +1,52 @@
+{
+  "term": "residential",
+  "partOfSpeech": "adjective",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "suitable for living in; consisting of houses rather than factories or offices",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a quiet residential area"
+        }
+      ],
+      "topics": ["Houses and homes", "Buildings"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "requiring a person to live at a particular place; offering living accommodation",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a residential language course"
+        },
+        {
+          "text": "a residential home for the elderly"
+        },
+        {
+          "text": "residential care for children"
+        }
+      ],
+      "topics": ["Education"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌrezɪˈdenʃl/",
+        "audio": "re/residential/residential__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌrezɪˈdenʃl/",
+        "audio": "re/residential/residential__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

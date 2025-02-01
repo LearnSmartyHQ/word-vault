@@ -1,0 +1,178 @@
+{
+  "term": "tube",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b1",
+  "image": "data/images/pa/packaging.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a long, hollow pipe made of metal, plastic, rubber, etc., through which liquids or gases move from one place to another",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He had to be fed through a feeding tube for several months."
+        },
+        {
+          "text": "She poured the liquid down the tube."
+        }
+      ],
+      "collocations": {
+        "adjective": ["fine", "narrow", "thin"],
+        "preposition": [
+          "down a/​the tube",
+          "in a/​the tube",
+          "into a/​the tube"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a hollow object in the shape of a pipe or tube",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the cardboard tube from the centre of a toilet roll"
+        },
+        {
+          "text": "I put the poster back into its tube."
+        }
+      ],
+      "collocations": {
+        "adjective": ["fine", "narrow", "thin"],
+        "preposition": [
+          "down a/​the tube",
+          "in a/​the tube",
+          "into a/​the tube"
+        ]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a long, narrow container made of soft metal or plastic, with a lid (= cover), used for holding thick liquids that can be forced out of it by pressing",
+      "sensetop": "tube (of something)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a tube of toothpaste",
+          "contextForm": "tube (of something)"
+        },
+        {
+          "text": "a tube of glue"
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a can of beer",
+      "labels": "(Australian English, informal)",
+      "examples": [
+        {
+          "text": "a tube of lager"
+        }
+      ]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "a part inside the body that is like a tube in shape and through which air, liquid, etc. passes",
+      "examples": [
+        {
+          "text": "bronchial tubes"
+        },
+        {
+          "text": "The oesophagus is the tube leading from the throat to the stomach."
+        }
+      ],
+      "collocations": {
+        "adjective": ["fine", "narrow", "thin"],
+        "preposition": [
+          "down a/​the tube",
+          "in a/​the tube",
+          "into a/​the tube"
+        ]
+      }
+    },
+    {
+      "senseNumber": 6,
+      "definition": "the underground railway system in London",
+      "sensetop": "on the tubeby tube",
+      "labels": "(British English)British EnglishNorth American EnglishBritish English",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "I often travel on the tube",
+          "contextForm": "on the tube"
+        },
+        {
+          "text": "We came by tube.",
+          "contextForm": "by tube"
+        },
+        {
+          "text": "a **tube station/train**"
+        },
+        {
+          "text": "She caught the wrong tube *(= tube train)*."
+        },
+        {
+          "text": "I bumped into him on the tube."
+        },
+        {
+          "text": "I had to cram myself into a packed tube carriage."
+        },
+        {
+          "text": "my tube journey to work"
+        }
+      ],
+      "topics": ["Transport by bus and train"],
+      "collocations": {
+        "adjective": ["London"],
+        "verb + tube": ["catch", "go on", "take"],
+        "tube + noun": ["line", "network", "station"],
+        "preposition": ["by tube", "on the tube"]
+      }
+    },
+    {
+      "senseNumber": 7,
+      "definition": "the television",
+      "labels": "(North American English, informal)",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["TV, radio and news"]
+    },
+    {
+      "senseNumber": 8,
+      "definition": "a small tube placed in a child’s ear in order to drain liquid from it when there is an infection",
+      "labels": "(North American English)British English",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to fail",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The education system is going down the tubes."
+        }
+      ],
+      "topics": ["Difficulty and failure"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/tjuːb/",
+        "audio": "tu/tube/tube__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/tuːb/",
+        "audio": "tu/tube/tube__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 17th cent.: from French tube or Latin tubus."
+}

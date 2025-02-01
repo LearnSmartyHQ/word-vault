@@ -1,0 +1,138 @@
+{
+  "term": "content",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the things that are contained in something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He tipped the contents of the bag onto the table."
+        },
+        {
+          "text": "Fire has caused severe damage to the contents of the building."
+        },
+        {
+          "text": "She hadn't read the letter and so was unaware of its contents."
+        },
+        {
+          "text": "She picked up the glass and drank the contents."
+        }
+      ],
+      "collocations": {
+        "verb + contents": ["dump", "empty", "pour"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the different sections that are contained in a book",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **table of contents** *(= the list at the front of a book)*"
+        },
+        {
+          "text": "a contents page"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the subject matter of a book, speech, programme, etc.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Her poetry has a good deal of political content."
+        },
+        {
+          "text": "Your tone of voice is as important as the content of what you have to say."
+        },
+        {
+          "text": "The content of the course depends on what the students would like to study."
+        },
+        {
+          "text": "This study is based on a content analysis of press coverage of the president during his time in office."
+        }
+      ],
+      "collocations": {
+        "adjective": ["original", "quality", "rich"],
+        "verb + content": ["create", "deliver", "provide"],
+        "content + noun": ["provider"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "the amount of a substance that is contained in something else",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "food with a high **fat content**"
+        },
+        {
+          "text": "**water/moisture/protein/DNA content**"
+        },
+        {
+          "text": "the alcohol content of a drink"
+        }
+      ],
+      "collocations": {
+        "adjective": ["high", "low", "alcohol"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "the information or other material contained on a website or other digital media",
+      "labels": "(computing)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**digital/video/online content**"
+        },
+        {
+          "text": "We plan to spend more on **creating content** for the website."
+        },
+        {
+          "text": "**delivering** premium **content** to users"
+        },
+        {
+          "text": "a method of **sharing content** over the internet"
+        },
+        {
+          "text": "to **stream/access/consume/view content**"
+        },
+        {
+          "text": "**content management**"
+        },
+        {
+          "text": "The way people are accessing their Web content is changing."
+        },
+        {
+          "text": "They haven't updated the content of their site."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkɒntent/",
+        "audio": "xc/content/xcontent__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkɑːntent/",
+        "audio": "xc/content/xcontent__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from medieval Latin contentum (plural contenta ‘things contained’), neuter past participle of continere from con- ‘altogether’ + tenere ‘to hold’."
+}

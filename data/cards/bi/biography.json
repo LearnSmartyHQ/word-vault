@@ -1,0 +1,44 @@
+{
+  "term": "biography",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "the story of a person’s life written by somebody else; this type of writing",
+      "examples": [
+        {
+          "text": "Boswell’s biography of Johnson"
+        },
+        {
+          "text": "a biography by Antonia Fraser"
+        },
+        {
+          "text": "The book gives potted biographies of all the major painters."
+        }
+      ],
+      "topics": ["Literature and writing"],
+      "collocations": {
+        "adjective": ["authorized", "official", "unauthorized"],
+        "verb + biography": ["work on", "write", "produce"],
+        "preposition": ["biography by", "biography of"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/baɪˈɒɡrəfi/",
+        "audio": "bi/biography/biography__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/baɪˈɑːɡrəfi/",
+        "audio": "bi/biography/biography__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 17th cent.: from French biographie or modern Latin biographia, from medieval Greek, from bios ‘life’ + -graphia ‘writing’."
+}

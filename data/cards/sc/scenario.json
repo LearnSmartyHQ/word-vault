@@ -1,0 +1,63 @@
+{
+  "term": "scenario",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a description of how things might happen in the future",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Let me suggest a **possible scenario**."
+        },
+        {
+          "text": "The **worst-case scenario** *(= the worst possible thing that could happen)* would be for the factory to be closed down."
+        },
+        {
+          "text": "a **nightmare scenario**"
+        },
+        {
+          "text": "Similar scenarios are playing out across the country."
+        },
+        {
+          "text": "The more likely scenario is that interest rates will rise."
+        },
+        {
+          "text": "Under any of these scenarios, the company will run into debt."
+        }
+      ],
+      "collocations": {
+        "adjective": ["likely", "plausible", "possible"],
+        "verb + scenario": ["consider", "imagine", "construct"],
+        "scenario + verb": ["play out", "unfold"],
+        "preposition": ["in a/​the scenario", "under a/​the scenario"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a written outline of what happens in a film or play",
+      "cefr": "b2",
+      "examples": [],
+      "synonyms": "synopsis",
+      "topics": ["Film and theatre"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/səˈnɑːriəʊ/",
+        "audio": "sc/scenario/scenario__gb_5.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/səˈnæriəʊ/",
+        "audio": "sc/scenario/scenario__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 19th cent.: from Italian, from Latin scena ‘scene’."
+}

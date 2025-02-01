@@ -1,0 +1,184 @@
+{
+  "term": "payment",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the act of paying somebody/something or of being paid",
+      "sensetop": "payment for somethingon payment of something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "What method of payment do you prefer?"
+        },
+        {
+          "text": "payment in cash/by cheque"
+        },
+        {
+          "text": "They asked for payment in advance."
+        },
+        {
+          "text": "There will be a penalty for late payment of bills."
+        },
+        {
+          "text": "to receive/accept/demand/withhold payment"
+        },
+        {
+          "text": "payment for goods/services",
+          "contextForm": "payment for something"
+        },
+        {
+          "text": "The public has right of access, on payment of a fee.",
+          "contextForm": "on payment of something"
+        },
+        {
+          "text": "Do you accept payment by credit card?"
+        },
+        {
+          "text": "How do you want to make payment—by card or in cash?"
+        },
+        {
+          "text": "The builders demanded payment in advance."
+        },
+        {
+          "text": "He demanded payment in full of the $300 000 owed to him."
+        },
+        {
+          "text": "I enclose $65.50, in full payment of the bill."
+        },
+        {
+          "text": "He requested $8 000 in payment."
+        },
+        {
+          "text": "He was released on payment of the ransom."
+        },
+        {
+          "text": "I have authorized the bank to stop payment of the cheque."
+        },
+        {
+          "text": "The buyer is required to enter a code to authorize payment."
+        },
+        {
+          "text": "The only way to guarantee payment is to sign a contract."
+        },
+        {
+          "text": "We may have to defer payment for a week."
+        }
+      ],
+      "topics": ["Money", "Shopping"],
+      "collocations": {
+        "adjective": ["immediate", "prompt", "late"],
+        "verb + payment": ["make", "authorize", "arrange for"],
+        "payment + verb": ["be due"],
+        "payment + noun": ["option", "plan", "schedule"],
+        "preposition": ["in payment", "in payment for", "in payment of"],
+        "phrases": [
+          "a method of payment",
+          "payment in advance",
+          "payment in full"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a sum of money paid or expected to be paid",
+      "sensetop": "payment on something",
+      "labels": "(British English)(informal)(informal)(British English)(North American English)(informal)(informal)(informal)(British English)(US English)(formal)(especially North American English)(British English)(especially British English)(especially British English)(North American English usually)(informal)(informal)especially North American English",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **cash payment**"
+        },
+        {
+          "text": "It's important to **make the payments** on time."
+        },
+        {
+          "text": "to receive/accept/demand/withhold a payment"
+        },
+        {
+          "text": "**interest payments**"
+        },
+        {
+          "text": "They've never missed a **mortgage payment**."
+        },
+        {
+          "text": "He agreed to make ten **monthly payments** of £50."
+        },
+        {
+          "text": "They are finding it difficult to meet the payments on their car.",
+          "contextForm": "payment on something"
+        },
+        {
+          "text": "All families of the victims will receive a one-off payment of $100 000."
+        },
+        {
+          "text": "Companies deduct interest payments from their taxable income."
+        },
+        {
+          "text": "She was finding it difficult to make even the minimum payment on her credit card."
+        },
+        {
+          "text": "The company guaranteed royalty payments of at least $590 million."
+        },
+        {
+          "text": "The department makes payments to farmers for providing improvement to water quality."
+        },
+        {
+          "text": "You could lower your monthly mortgage payments by $160."
+        }
+      ],
+      "topics": ["Money", "Shopping"],
+      "collocations": {
+        "adjective": ["annual", "monthly", "etc."],
+        "verb + payment": ["afford", "keep up", "meet"],
+        "preposition": ["in payments", "payment for", "payment from"],
+        "phrases": ["the balance of payments"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a reward or an act of thanks for something you have done",
+      "sensetop": "payment (for something)in payment for something",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Is this all the payment I get for my efforts?",
+          "contextForm": "payment (for something)"
+        },
+        {
+          "text": "We'd like you to accept this gift in payment for your kindness.",
+          "contextForm": "in payment for something"
+        }
+      ],
+      "synonyms": "recompense"
+    },
+    {
+      "senseNumber": null,
+      "definition": "after something has been paid",
+      "examples": [
+        {
+          "text": "Entry is only allowed on payment of the full registration fee."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈpeɪmənt/",
+        "audio": "pa/payment/payment__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈpeɪmənt/",
+        "audio": "pa/payment/payment__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French paiement, from payer ‘to pay’."
+}

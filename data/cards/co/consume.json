@@ -1,0 +1,131 @@
+{
+  "term": "consume",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "consume",
+      "heSheIt": "consumes"
+    },
+    "pastSimple": "consumed",
+    "pastParticiple": "consumed",
+    "ingForm": "consuming"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to use something, especially fuel, energy or time",
+      "sensetop": "consume something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The electricity industry consumes large amounts of fossil fuels."
+        },
+        {
+          "text": "25 per cent of the world’s population consumes 80 per cent of the planet’s resources."
+        },
+        {
+          "text": "Bureaucracy consumes money that could have been spent on public services."
+        },
+        {
+          "text": "My new car consumes much less fuel."
+        },
+        {
+          "text": "Paperwork consumes time which could be better used getting on with the job itself."
+        },
+        {
+          "text": "The production of new paper from wood pulp consumes vast amounts of energy."
+        }
+      ],
+      "topics": ["The environment"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to eat or drink something",
+      "sensetop": "consume something",
+      "labels": "(formal)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Before he died, he had **consumed** a large quantity of **alcohol**."
+        },
+        {
+          "text": "a half-consumed loaf of bread"
+        },
+        {
+          "text": "Red meat should be consumed in moderation."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to fill somebody with a strong feeling",
+      "sensetop": "be consumed with somethingconsume somebody",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Carolyn was consumed with guilt.",
+          "contextForm": "be consumed with something"
+        },
+        {
+          "text": "Rage consumed him.",
+          "contextForm": "consume somebody"
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to completely destroy something",
+      "sensetop": "consume something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The hotel was quickly consumed by fire."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kənˈsjuːm/",
+        "audio": "xc/consume/xconsume__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈsjuːmz/",
+        "audio": "xc/consume/xconsumes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈsjuːmd/",
+        "audio": "xc/consume/xconsumed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈsjuːmɪŋ/",
+        "audio": "xc/consume/xconsuming__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kənˈsuːm/",
+        "audio": "xc/consume/xconsume__us_2.mp3"
+      },
+      {
+        "pronunciation": "/kənˈsuːmz/",
+        "audio": "xc/consume/xconsumes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈsuːmd/",
+        "audio": "xc/consume/xconsumed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈsuːmɪŋ/",
+        "audio": "xc/consume/xconsuming__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin consumere, from con- ‘altogether’ + sumere ‘take up’; reinforced by French consumer."
+}

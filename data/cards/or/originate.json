@@ -1,0 +1,105 @@
+{
+  "term": "originate",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "originate",
+      "heSheIt": "originates"
+    },
+    "pastSimple": "originated",
+    "pastParticiple": "originated",
+    "ingForm": "originating"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to happen or appear for the first time in a particular place or situation",
+      "sensetop": "(+ adv./prep.)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The disease is thought to have originated in the tropics."
+        },
+        {
+          "text": "The word originated as a marketing term."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to create something new",
+      "sensetop": "originate something",
+      "examples": [
+        {
+          "text": "Locke originated this theory in the 17th century."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to start in a particular place",
+      "sensetop": "originate in…originate from/out of…originate at…originate from…",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "His flight originated in Japan.",
+          "contextForm": "originate in…"
+        },
+        {
+          "text": "Flights originating out of Toronto should reach Edmonton without much problem.",
+          "contextForm": "originate from/out of…"
+        },
+        {
+          "text": "28 trains now originate and terminate at Tambaram.",
+          "contextForm": "originate at…"
+        },
+        {
+          "text": "The call had originated from Jamaica/a cell phone.",
+          "contextForm": "originate from…"
+        }
+      ],
+      "topics": ["Transport by air"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈrɪdʒɪneɪt/",
+        "audio": "or/originate/originate__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈrɪdʒɪneɪts/",
+        "audio": "or/originate/originates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈrɪdʒɪneɪtɪd/",
+        "audio": "or/originate/originated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈrɪdʒɪneɪtɪŋ/",
+        "audio": "or/originate/originating__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈrɪdʒɪneɪt/",
+        "audio": "or/originate/originate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈrɪdʒɪneɪts/",
+        "audio": "or/originate/originates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈrɪdʒɪneɪtɪd/",
+        "audio": "or/originate/originated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈrɪdʒɪneɪtɪŋ/",
+        "audio": "or/originate/originating__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 17th cent.: from medieval Latin originat- ‘caused to begin’, from Latin origo, origin- ‘source, origin’."
+}

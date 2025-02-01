@@ -1,0 +1,43 @@
+{
+  "term": "sneaker",
+  "partOfSpeech": "noun",
+  "image": "data/images/cl/clothes_shoes.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a shoe that you wear for sports or as informal clothing",
+      "examples": [
+        {
+          "text": "He wore old jeans and a pair of sneakers."
+        },
+        {
+          "text": "I pulled on my sneakers and headed out for a run."
+        },
+        {
+          "text": "a pair of worn canvas sneakers"
+        }
+      ],
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adjective": ["new", "beaten-up", "old"],
+        "… of sneakers": ["pair"],
+        "verb + sneaker": ["pull on", "slip on", "kick off"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsniːkə(r)/",
+        "audio": "sn/sneaker/sneaker__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsniːkər/",
+        "audio": "sn/sneaker/sneaker__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

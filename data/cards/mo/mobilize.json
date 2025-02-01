@@ -1,0 +1,112 @@
+{
+  "term": "mobilize",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "mobilize",
+      "heSheIt": "mobilizes"
+    },
+    "pastSimple": "mobilized",
+    "pastParticiple": "mobilized",
+    "ingForm": "mobilizing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to work together in order to achieve a particular aim; to organize a group of people to do this",
+      "sensetop": "mobilize (somebody)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The unions mobilized thousands of workers in a protest against the cuts."
+        },
+        {
+          "text": "They successfully mobilized public opinion against him."
+        }
+      ],
+      "synonyms": "rally",
+      "collocations": {
+        "adverb": ["effectively", "successfully", "quickly"],
+        "verb + mobilize": ["be able to", "can be mobilized"],
+        "preposition": ["against", "for"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to find and start to use something that is needed for a particular purpose",
+      "sensetop": "mobilize something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They were unable to mobilize the resources they needed."
+        }
+      ],
+      "collocations": {
+        "adverb": ["effectively", "successfully", "quickly"],
+        "verb + mobilize": ["be able to", "can be mobilized"],
+        "preposition": ["against", "for"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "if a country mobilizes its army, or if a country or army mobilizes, it makes itself ready to fight in a war",
+      "sensetop": "mobilize (somebody/something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The troops were ordered to mobilize."
+        },
+        {
+          "text": "The military is able to mobilize rapidly."
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adverb": ["effectively", "successfully", "quickly"],
+        "verb + mobilize": ["be able to", "can be mobilized"],
+        "preposition": ["against", "for"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈməʊbəlaɪz/",
+        "audio": "mo/mobilize/mobilize__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈməʊbəlaɪzɪz/",
+        "audio": "mo/mobilize/mobilizes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈməʊbəlaɪzd/",
+        "audio": "mo/mobilize/mobilized__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈməʊbəlaɪzɪŋ/",
+        "audio": "mo/mobilize/mobilizing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈməʊbəlaɪz/",
+        "audio": "mo/mobilize/mobilize__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈməʊbəlaɪzɪz/",
+        "audio": "mo/mobilize/mobilizes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈməʊbəlaɪzd/",
+        "audio": "mo/mobilize/mobilized__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈməʊbəlaɪzɪŋ/",
+        "audio": "mo/mobilize/mobilizing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 19th cent.: from French mobiliser, from mobile, from Latin mobilis, from movere ‘to move’."
+}

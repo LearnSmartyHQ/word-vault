@@ -1,0 +1,113 @@
+{
+  "term": "clause",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a group of words that includes a subject and a verb, and forms a sentence or part of a sentence",
+      "sensetop": "in a clause",
+      "labels": "(grammar)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The verb in the clause is in the past simple tense.",
+          "contextForm": "in a clause"
+        },
+        {
+          "text": "It is the object of the verb of the clause."
+        },
+        {
+          "text": "Commas are used to separate clauses of sentences."
+        },
+        {
+          "text": "the second clause in the sentence"
+        },
+        {
+          "text": "A simple sentence consists of only one clause."
+        },
+        {
+          "text": "a restrictive relative clause"
+        }
+      ],
+      "topics": ["Language"],
+      "collocations": {
+        "adjective": ["main", "subordinate", "conditional"],
+        "preposition": ["in a/​the clause"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "an item in a legal document that says that a particular thing must or must not be done",
+      "sensetop": "in a clause",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a confidentiality clause"
+        },
+        {
+          "text": "a key clause of the US Constitution"
+        },
+        {
+          "text": "There is a clause in the contract forbidding tenants to sublet."
+        },
+        {
+          "text": "the requirements set out in clauses 174 to 176",
+          "contextForm": "in a clause"
+        },
+        {
+          "text": "The contract contains a confidentiality clause."
+        },
+        {
+          "text": "The penalty clause specifies that late delivery will be fined."
+        },
+        {
+          "text": "Under Clause 5.8, the company is responsible for the health of its employees."
+        },
+        {
+          "text": "We added an opt-out clause to the agreement."
+        },
+        {
+          "text": "a clause on pollution"
+        },
+        {
+          "text": "Clause 2.7.3 should be studied carefully."
+        },
+        {
+          "text": "Many of the clauses will have to be amended."
+        },
+        {
+          "text": "The agreement contained a clause stipulating that there was no admission of guilt on the part of the company."
+        },
+        {
+          "text": "The clause allows the minister to repeal or alter legislation without obtaining approval from Parliament."
+        }
+      ],
+      "topics": ["Law and justice"],
+      "collocations": {
+        "adjective": ["confidentiality", "indemnity", "penalty"],
+        "verb + clause": ["contain", "have", "add"],
+        "preposition": ["in a/​the clause", "under a/​the clause", "clause on"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/klɔːz/",
+        "audio": "cl/clause/clause__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/klɔːz/",
+        "audio": "cl/clause/clause__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: via Old French clause, based on Latin claus- ‘shut, closed’, from the verb claudere."
+}

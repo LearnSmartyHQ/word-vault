@@ -1,0 +1,84 @@
+{
+  "term": "lung",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "image": "data/images/in/internal_organs.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "either of the two organs in the chest that you use for breathing",
+      "labels": "(humorous)",
+      "examples": [
+        {
+          "text": "Her father died of **lung cancer**."
+        },
+        {
+          "text": "Obesity can raise the risk of **lung disease**."
+        },
+        {
+          "text": "He will need a **lung transplant** if he is going to survive."
+        },
+        {
+          "text": "Some of these substances are known to damage lung tissue."
+        },
+        {
+          "text": "Coughing clears the lungs of mucus."
+        },
+        {
+          "text": "She felt the sun on her skin and fresh air in her lungs."
+        },
+        {
+          "text": "He's been hospitalized for a blood clot in his lung."
+        },
+        {
+          "text": "She has a fine pair of lungs! *(= she can sing or shout loudly)*"
+        },
+        {
+          "text": "Her lungs ached from the exertion."
+        },
+        {
+          "text": "I opened the window and filled my lungs with cool fresh air."
+        },
+        {
+          "text": "Lungs bursting, she flew across the finish line."
+        },
+        {
+          "text": "The smoke was burning his lungs."
+        },
+        {
+          "text": "These particles are breathed into the lungs."
+        },
+        {
+          "text": "Your heart and lungs have to work harder if you're overweight."
+        },
+        {
+          "text": "Eliminating certain foods shown to provoke asthma can lead to improved lung function."
+        }
+      ],
+      "topics": ["Body"],
+      "collocations": {
+        "adjective": ["collapsed", "diseased", "injured"],
+        "verb + lung": ["fill", "clear", "empty"],
+        "lung + verb": ["work", "heave", "fill"],
+        "lung + noun": ["capacity", "power", "ailment"],
+        "preposition": ["in the lung", "into the lung", "on the lung"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/lʌŋ/",
+        "audio": "lu/lung/lung__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/lʌŋ/",
+        "audio": "lu/lung/lung__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English lungen, of Germanic origin; related to Dutch long and German Lunge, from an Indo-European root shared by light ‘not heavy’."
+}

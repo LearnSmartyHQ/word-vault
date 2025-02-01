@@ -1,0 +1,155 @@
+{
+  "term": "submit",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "submit",
+      "heSheIt": "submits"
+    },
+    "pastSimple": "submitted",
+    "pastParticiple": "submitted",
+    "ingForm": "submitting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to give a document, proposal, etc. to somebody in authority so that they can study or consider it",
+      "sensetop": "submit somethingsubmit something to somebody/something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **submit an application/a claim/a proposal**",
+          "contextForm": "submit something"
+        },
+        {
+          "text": "Completed projects must be submitted by 10 March."
+        },
+        {
+          "text": "She **submitted her report** to the committee.",
+          "contextForm": "submit something to somebody/something"
+        },
+        {
+          "text": "Articles should be **submitted electronically **as email attachments."
+        },
+        {
+          "text": "Candidates for the degree are required to submit a 30 000-word thesis."
+        },
+        {
+          "text": "He formally submitted his resignation."
+        },
+        {
+          "text": "Six groups were invited to submit proposals for the research."
+        },
+        {
+          "text": "They have submitted plans for our approval."
+        },
+        {
+          "text": "They have submitted an application for planning permission to build an extension."
+        }
+      ],
+      "collocations": {
+        "adverb": ["formally", "respectfully", "humbly"],
+        "verb + submit": [
+          "ask somebody to",
+          "invite somebody to",
+          "require somebody to"
+        ],
+        "preposition": ["for", "to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to accept the authority, control or greater strength of somebody/something; to agree to something because of this",
+      "sensetop": "submit to somebody/somethingsubmit yourself to somebody/something",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She refused to submit to threats.",
+          "contextForm": "submit to somebody/something"
+        },
+        {
+          "text": "He submitted himself to a search by the guards.",
+          "contextForm": "submit yourself to somebody/something"
+        },
+        {
+          "text": "He submitted voluntarily to arrest."
+        },
+        {
+          "text": "They abandoned their town rather than submit to the Persians."
+        },
+        {
+          "text": "They were forced to submit to Bulgarian rule."
+        }
+      ],
+      "topics": ["Discussion and agreement"],
+      "collocations": {
+        "adverb": ["voluntarily", "willingly", "meekly"],
+        "verb + submit": ["refuse to", "agree to", "be prepared to"],
+        "preposition": ["to"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to say or suggest something",
+      "sensetop": "submit that…",
+      "labels": "(law or formal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Counsel for the defence submitted that the evidence was inadmissible."
+        },
+        {
+          "text": "May I respectfully submit that this is not the right thing to do?"
+        },
+        {
+          "text": "She submitted that the local authority should bear the cost."
+        }
+      ],
+      "topics": ["Suggestions and advice"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/səbˈmɪt/",
+        "audio": "su/submit/submit__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/səbˈmɪts/",
+        "audio": "su/submit/submits__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/səbˈmɪtɪd/",
+        "audio": "su/submit/submitted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/səbˈmɪtɪŋ/",
+        "audio": "su/submit/submitting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/səbˈmɪt/",
+        "audio": "su/submit/submit__us_1.mp3"
+      },
+      {
+        "pronunciation": "/səbˈmɪts/",
+        "audio": "su/submit/submits__us_1.mp3"
+      },
+      {
+        "pronunciation": "/səbˈmɪtɪd/",
+        "audio": "su/submit/submitted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/səbˈmɪtɪŋ/",
+        "audio": "su/submit/submitting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin submittere, from sub- ‘under’ + mittere ‘send, put’. Sense (1) ‘present for judgement’ dates from the mid 16th cent."
+}

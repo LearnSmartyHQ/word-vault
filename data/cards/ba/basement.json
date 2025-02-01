@@ -1,0 +1,45 @@
+{
+  "term": "basement",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "image": "data/images/ho/house_2.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a room or rooms in a building, partly or completely below the level of the ground",
+      "examples": [
+        {
+          "text": "Kitchen goods are sold in the basement."
+        },
+        {
+          "text": "a **basement flat/apartment**"
+        },
+        {
+          "text": "She lives in a two-room basement flat."
+        }
+      ],
+      "topics": ["Houses and homes", "Buildings"],
+      "collocations": {
+        "adjective": ["dark", "unlit", "windowless"],
+        "basement + noun": ["apartment", "bar", "flat"],
+        "preposition": ["in a/​the basement"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈbeɪsmənt/",
+        "audio": "ba/basement/basement__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈbeɪsmənt/",
+        "audio": "ba/basement/basement__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 18th cent.: probably from archaic Dutch basement ‘foundation’, perhaps from Italian basamento ‘column base’."
+}

@@ -1,0 +1,80 @@
+{
+  "term": "preside",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "preside",
+      "heSheIt": "presides"
+    },
+    "pastSimple": "presided",
+    "pastParticiple": "presided",
+    "ingForm": "presiding"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to lead or be in charge of a meeting, ceremony, etc.",
+      "sensetop": "preside at/over something",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "the presiding judge"
+        },
+        {
+          "text": "They asked if I would preside at the committee meeting.",
+          "contextForm": "preside at/over something"
+        },
+        {
+          "text": "The party presided over one of the worst economic declines in the country's history *(= it was in power when the decline happened)*."
+        },
+        {
+          "text": "Judge Charles Watkins presided over the appeal hearing."
+        },
+        {
+          "text": "The Archbishop presided at a special mass in the city's cathedral."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/prɪˈzaɪd/",
+        "audio": "pr/preside/preside__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈzaɪdz/",
+        "audio": "pr/preside/presides__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈzaɪdɪd/",
+        "audio": "pr/preside/presided__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈzaɪdɪŋ/",
+        "audio": "pr/preside/presiding__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/prɪˈzaɪd/",
+        "audio": "pr/preside/preside__us_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈzaɪdz/",
+        "audio": "pr/preside/presides__us_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈzaɪdɪd/",
+        "audio": "pr/preside/presided__us_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈzaɪdɪŋ/",
+        "audio": "pr/preside/presiding__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 17th cent.: from French présider, from Latin praesidere, from prae ‘before’ + sedere ‘sit’."
+}

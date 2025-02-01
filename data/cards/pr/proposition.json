@@ -1,0 +1,113 @@
+{
+  "term": "proposition",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "an idea or a plan of action that is suggested, especially in business",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I'd like to put a business proposition to you."
+        },
+        {
+          "text": "He was trying to make it look like an **attractive proposition**."
+        },
+        {
+          "text": "Ring up your agent in New York and put your proposition to him."
+        },
+        {
+          "text": "Is that a viable proposition?"
+        },
+        {
+          "text": "We have a proposition to make."
+        }
+      ],
+      "topics": ["Suggestions and advice"],
+      "collocations": {
+        "adjective": ["attractive", "tempting", "win-win"],
+        "verb + proposition": ["put to somebody", "consider", "accept"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a thing that you intend to do; a problem, task or person to be dealt with",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Getting a work permit in the UK is not always a simple proposition."
+        },
+        {
+          "text": "Running the business was one thing. Getting it to make a profit was a different proposition altogether."
+        },
+        {
+          "text": "He's a different proposition from his father—much less tolerant."
+        }
+      ],
+      "synonyms": "matter",
+      "collocations": {
+        "adjective": ["difficult", "tough", "tricky"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "(in the US) a suggested change to the law that people can vote on",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "How did you vote on Proposition 8?"
+        }
+      ],
+      "topics": ["Politics"]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a statement that expresses an opinion",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Her assessment is based on the proposition that power corrupts."
+        },
+        {
+          "text": "The book puts forward a number of extreme propositions about the nature of language."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adjective": ["basic", "central", "fundamental"],
+        "… of propositions": ["set"],
+        "verb + proposition": ["advance", "express", "put forward"],
+        "proposition + verb": ["concern something", "relate to something"],
+        "preposition": ["proposition about"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "a statement of a theorem, and an explanation of how it can be proved",
+      "labels": "(mathematics)",
+      "examples": [
+        {
+          "text": "First of all we need to examine whether this proposition is true."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌprɒpəˈzɪʃn/",
+        "audio": "pr/proposition/proposition__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌprɑːpəˈzɪʃn/",
+        "audio": "pr/proposition/proposition__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French, from Latin propositio(n-), from the verb proponere ‘set forth’, from pro- ‘forward’ + ponere ‘put’."
+}

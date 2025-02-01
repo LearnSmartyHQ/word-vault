@@ -1,0 +1,83 @@
+{
+  "term": "distract",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "distract",
+      "heSheIt": "distracts"
+    },
+    "pastSimple": "distracted",
+    "pastParticiple": "distracted",
+    "ingForm": "distracting"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to take somebody’s attention away from what they are trying to do",
+      "sensetop": "distract somebody/something (from something)",
+      "examples": [
+        {
+          "text": "You're distracting me from my work."
+        },
+        {
+          "text": "Don't talk to her—she's very easily distracted."
+        },
+        {
+          "text": "It was another attempt to **distract attention** from the truth."
+        },
+        {
+          "text": "He’s easily distracted from his work"
+        },
+        {
+          "text": "an attempt to distract attention away from the real problems in the country"
+        }
+      ],
+      "synonyms": "divert",
+      "collocations": {
+        "adverb": ["easily", "momentarily", "temporarily"],
+        "preposition": ["(away) from"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈstrækt/",
+        "audio": "di/distract/distract__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈstrækts/",
+        "audio": "di/distract/distracts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈstræktɪd/",
+        "audio": "di/distract/distracted__gb_3.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈstræktɪŋ/",
+        "audio": "di/distract/distracting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈstrækt/",
+        "audio": "di/distract/distract__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈstrækts/",
+        "audio": "di/distract/distracts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈstræktɪd/",
+        "audio": "di/distract/distracted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈstræktɪŋ/",
+        "audio": "di/distract/distracting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (also in the sense ‘pull in different directions’): from Latin distract- ‘drawn apart’, from the verb distrahere, from dis- ‘apart’ + trahere ‘to draw, drag’."
+}

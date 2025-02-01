@@ -1,0 +1,93 @@
+{
+  "term": "geography",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the scientific study of the earth’s surface, physical features, divisions, products, population, etc.",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "recent work in **economic geography**"
+        },
+        {
+          "text": "cultural/historical/political geography"
+        },
+        {
+          "text": "a geography lesson/class/teacher"
+        },
+        {
+          "text": "a degree in geography"
+        }
+      ],
+      "topics": ["Education", "Geography"],
+      "collocations": {
+        "adjective": ["economic", "historical", "human"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the way in which the physical features of a place are arranged",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "These streets had a very particular geography."
+        },
+        {
+          "text": "the geography of New York City"
+        },
+        {
+          "text": "Kim knew the geography of the building and strode along the corridor."
+        },
+        {
+          "text": "The geography of the area makes travel very difficult."
+        },
+        {
+          "text": "The island's geography is very simple."
+        },
+        {
+          "text": "I wasn't familiar with the geography of the town."
+        }
+      ],
+      "topics": ["Geography"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the way in which a particular aspect of life or society is influenced by geography or varies according to geography",
+      "examples": [
+        {
+          "text": "The geography of poverty and the geography of voting are connected."
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a country, area or region",
+      "labels": "(business)",
+      "examples": [
+        {
+          "text": "We are now operational across multiple geographies."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dʒiˈɒɡrəfi/",
+        "audio": "ge/geography/geography__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dʒiˈɑːɡrəfi/",
+        "audio": "ge/geography/geography__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 15th cent.: from French géographie or Latin geographia, from Greek geōgraphia, from gē ‘earth’ + -graphia ‘writing’."
+}

@@ -1,0 +1,101 @@
+{
+  "term": "prosecute",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "prosecute",
+      "heSheIt": "prosecutes"
+    },
+    "pastSimple": "prosecuted",
+    "pastParticiple": "prosecuted",
+    "ingForm": "prosecuting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to officially charge somebody with a crime in court",
+      "sensetop": "prosecute somebody/somethingprosecute somebody/something for (doing) something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The police decided not to prosecute."
+        },
+        {
+          "text": "Trespassers will be prosecuted *(= a notice telling people to keep out of a particular area)*.",
+          "contextForm": "prosecute somebody/something"
+        },
+        {
+          "text": "The company was prosecuted for breaching the Health and Safety Act.",
+          "contextForm": "prosecute somebody/something for (doing) something"
+        }
+      ],
+      "topics": ["Law and justice"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to be a lawyer in a court case for a person or an organization that is charging somebody with a crime",
+      "sensetop": "prosecute (somebody)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the **prosecuting counsel/lawyer/attorney**"
+        },
+        {
+          "text": "James Spencer, prosecuting, claimed that the witness was lying."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to continue taking part in or doing something",
+      "sensetop": "prosecute something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "They had overwhelming public support to prosecute the war."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈprɒsɪkjuːt/",
+        "audio": "pr/prosecute/prosecute__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈprɒsɪkjuːts/",
+        "audio": "pr/prosecute/prosecutes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈprɒsɪkjuːtɪd/",
+        "audio": "pr/prosecute/prosecuted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈprɒsɪkjuːtɪŋ/",
+        "audio": "pr/prosecute/prosecuting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈprɑːsɪkjuːt/",
+        "audio": "pr/prosecute/prosecute__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈprɑːsɪkjuːts/",
+        "audio": "pr/prosecute/prosecutes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈprɑːsɪkjuːtɪd/",
+        "audio": "pr/prosecute/prosecuted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈprɑːsɪkjuːtɪŋ/",
+        "audio": "pr/prosecute/prosecuting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in sense (3)): from Latin prosecut- ‘pursued, accompanied’, from the verb prosequi, from pro- ‘onward’ + sequi ‘follow’."
+}

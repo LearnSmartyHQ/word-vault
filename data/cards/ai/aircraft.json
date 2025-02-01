@@ -1,0 +1,76 @@
+{
+  "term": "aircraft",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "image": "data/images/ve/vehicles_aircraft.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "any vehicle that can fly and carry goods or passengers",
+      "examples": [
+        {
+          "text": "**fighter/transport/military aircraft**"
+        },
+        {
+          "text": "The **aircraft was flown by** a young American pilot."
+        },
+        {
+          "text": "We operate a fleet of six aircraft."
+        },
+        {
+          "text": "The systems are built for jet aircraft."
+        },
+        {
+          "text": "The aircraft is due to take off at midnight."
+        },
+        {
+          "text": "The aircraft taxied along the runway."
+        },
+        {
+          "text": "The army is using unmanned aircraft to survey the area."
+        },
+        {
+          "text": "The passengers boarded the aircraft."
+        },
+        {
+          "text": "The pilot overshot the runway and crashed his aircraft."
+        },
+        {
+          "text": "There are approximately 6 700 commercial aircraft operating in the United States."
+        },
+        {
+          "text": "attacks by helicopters and fixed-wing aircraft"
+        },
+        {
+          "text": "His passion is making model aircraft."
+        },
+        {
+          "text": "Significant progress has been made in reducing aircraft noise."
+        }
+      ],
+      "topics": ["Transport by air"],
+      "collocations": {
+        "adjective": ["fixed-wing", "jet", "light"],
+        "verb + aircraft": ["fly", "operate", "pilot"],
+        "aircraft + verb": ["fly", "operate", "land"],
+        "aircraft + noun": ["industry", "production", "manufacturer"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈeəkrɑːft/",
+        "audio": "ai/aircraft/aircraft__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈerkræft/",
+        "audio": "ai/aircraft/aircraft__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

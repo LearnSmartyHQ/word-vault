@@ -1,0 +1,88 @@
+{
+  "term": "refer",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "refer",
+      "heSheIt": "refers"
+    },
+    "pastSimple": "referred",
+    "pastParticiple": "referred",
+    "ingForm": "referring"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to send somebody/something to somebody/something for help, advice or a decision",
+      "sensetop": "refer somebody/something to somebody/somethingrefer somebodyrefer somebody for something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "My doctor referred me to a specialist.",
+          "contextForm": "refer somebody/something to somebody/something"
+        },
+        {
+          "text": "The company says it has **referred the matter** to its lawyers."
+        },
+        {
+          "text": "The **case was referred** to the Court of Appeal."
+        },
+        {
+          "text": "May I refer you to my letter of 14 May?"
+        },
+        {
+          "text": "**Patients** should be **referred** to a specialist pain clinic."
+        },
+        {
+          "text": "If you are referred urgently by your GP, a specialist should see you within two weeks.",
+          "contextForm": "refer somebody"
+        },
+        {
+          "text": "She was referred for evaluation and treatment.",
+          "contextForm": "refer somebody for something"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈfɜː(r)/",
+        "audio": "re/refer/refer__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈfɜːz/",
+        "audio": "re/refer/refers__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈfɜːd/",
+        "audio": "re/refer/referred__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈfɜːrɪŋ/",
+        "audio": "re/refer/referring__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈfɜːr/",
+        "audio": "re/refer/refer__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈfɜːrz/",
+        "audio": "re/refer/refers__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈfɜːrd/",
+        "audio": "re/refer/referred__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈfɜːrɪŋ/",
+        "audio": "re/refer/referring__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French referer or Latin referre ‘carry back’, from re- ‘back’ + ferre ‘bring’."
+}

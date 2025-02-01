@@ -1,0 +1,188 @@
+{
+  "term": "bind",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "bind",
+      "heSheIt": "binds"
+    },
+    "pastSimple": "bound",
+    "pastParticiple": "bound",
+    "ingForm": "binding"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to tie somebody/something with rope, string, etc. so that they/it cannot move or are held together strongly",
+      "sensetop": "bind somebody/something to somethingbind somebody/something togetherbind somebody/something",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The sails are bound to the mast with cord.",
+          "contextForm": "bind somebody/something to something"
+        },
+        {
+          "text": "They bound his hands together.",
+          "contextForm": "bind somebody/something together"
+        },
+        {
+          "text": "He was left **bound and gagged** *(= tied up and with a piece of cloth tied over his mouth)*.",
+          "contextForm": "bind somebody/something"
+        },
+        {
+          "text": "She found herself bound hand and foot."
+        },
+        {
+          "text": "She was bound to a chair."
+        }
+      ],
+      "collocations": {
+        "adverb": ["tightly", "loosely", "together"],
+        "preposition": ["to", "with"],
+        "phrases": ["bind and gag somebody", "bind somebody hand and foot"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to tie a long thin piece of cloth around something",
+      "sensetop": "bind something (up)",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "She bound up his wounds."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to make people, organizations, etc. feel united so that they live or work together more happily or effectively",
+      "sensetop": "bind A (and B) (together)bind A to B",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Organizations such as schools and clubs bind a community together.",
+          "contextForm": "bind A (and B) (together)"
+        },
+        {
+          "text": "She thought that having his child would bind him to her forever.",
+          "contextForm": "bind A to B"
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to force somebody to do something by making them promise to do it or by making it their duty to do it",
+      "sensetop": "bind somebody (to something)bind somebody to do something",
+      "examples": [
+        {
+          "text": "He had been bound to secrecy *(= made to promise not to tell people about something)*.",
+          "contextForm": "bind somebody (to something)"
+        },
+        {
+          "text": "The agreement binds her to repay the debt within six months.",
+          "contextForm": "bind somebody to do something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["contractually", "legally", "morally"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to stick together or to make things stick together in a solid mass",
+      "sensetop": "bind (together)bind something (together)",
+      "examples": [
+        {
+          "text": "Add an egg yolk to make the mixture bind.",
+          "contextForm": "bind (together)"
+        },
+        {
+          "text": "Add an egg yolk to bind the mixture together.",
+          "contextForm": "bind something (together)"
+        }
+      ]
+    },
+    {
+      "senseNumber": 6,
+      "definition": "to fasten the pages of a book together and put them inside a cover",
+      "sensetop": "bind something (in something)",
+      "examples": [
+        {
+          "text": "two volumes bound in leather"
+        }
+      ],
+      "collocations": {
+        "phrases": [
+          "be beautifully bound",
+          "be handsomely bound",
+          "be richly bound"
+        ]
+      }
+    },
+    {
+      "senseNumber": 7,
+      "definition": "to sew a piece of material to the edge of something to decorate it or to make it stronger",
+      "sensetop": "bind something (with something)",
+      "examples": [
+        {
+          "text": "The blankets were bound with satin."
+        }
+      ],
+      "collocations": {
+        "adverb": ["contractually", "legally", "morally"]
+      }
+    },
+    {
+      "senseNumber": 1,
+      "definition": "to tie somebody’s hands and feet together so that they cannot move or escape",
+      "examples": []
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to prevent somebody from doing what they want by creating rules, limits, etc.",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/baɪnd/",
+        "audio": "bi/bind/bind__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/baɪndz/",
+        "audio": "bi/bind/binds__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/baʊnd/",
+        "audio": "bo/bind/bound__gb_3.mp3"
+      },
+      {
+        "pronunciation": "/ˈbaɪndɪŋ/",
+        "audio": "bi/bind/binding__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/baɪnd/",
+        "audio": "bi/bind/bind__us_1.mp3"
+      },
+      {
+        "pronunciation": "/baɪndz/",
+        "audio": "bi/bind/binds__us_1.mp3"
+      },
+      {
+        "pronunciation": "/baʊnd/",
+        "audio": "bo/bind/bound__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈbaɪndɪŋ/",
+        "audio": "bi/bind/binding__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English bindan, of Germanic origin; related to Dutch and German binden, from an Indo-European root shared by Sanskrit bandh."
+}

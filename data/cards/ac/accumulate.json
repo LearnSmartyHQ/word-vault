@@ -1,0 +1,118 @@
+{
+  "term": "accumulate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "accumulate",
+      "heSheIt": "accumulates"
+    },
+    "pastSimple": "accumulated",
+    "pastParticiple": "accumulated",
+    "ingForm": "accumulating"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to gradually get more and more of something over a period of time",
+      "sensetop": "accumulate something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I seem to have accumulated a lot of books."
+        },
+        {
+          "text": "By investing wisely she accumulated a fortune."
+        },
+        {
+          "text": "We have accumulated a great amount of evidence."
+        },
+        {
+          "text": "Children gradually accumulate knowledge as they grow up."
+        },
+        {
+          "text": "the wealth he had accumulated over the years"
+        }
+      ],
+      "synonyms": "amass",
+      "topics": ["Change, cause and effect"],
+      "collocations": {
+        "adverb": ["gradually", "slowly", "steadily"],
+        "verb + accumulate": ["begin to", "be allowed to", "tend to"],
+        "phrases": ["accumulate over the years", "accumulate over time"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to gradually increase in number or quantity over a period of time",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Debts began to accumulate."
+        },
+        {
+          "text": "Dust and dirt soon accumulate if a house is not cleaned regularly."
+        },
+        {
+          "text": "Dirt must not be allowed to accumulate."
+        },
+        {
+          "text": "Evidence began to accumulate, suggesting that the drug had harmful side-effects."
+        },
+        {
+          "text": "Toxic chemicals tend to accumulate in the body."
+        },
+        {
+          "text": "seas and lakes where sedimentary deposits are slowly accumulating"
+        }
+      ],
+      "topics": ["Change, cause and effect"],
+      "collocations": {
+        "adverb": ["gradually", "slowly", "steadily"],
+        "verb + accumulate": ["begin to", "be allowed to", "tend to"],
+        "phrases": ["accumulate over the years", "accumulate over time"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈkjuːmjəleɪt/",
+        "audio": "ac/accumulate/accumulate__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/əˈkjuːmjəleɪts/",
+        "audio": "ac/accumulate/accumulates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈkjuːmjəleɪtɪd/",
+        "audio": "ac/accumulate/accumulated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈkjuːmjəleɪtɪŋ/",
+        "audio": "ac/accumulate/accumulating__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈkjuːmjəleɪt/",
+        "audio": "ac/accumulate/accumulate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈkjuːmjəleɪts/",
+        "audio": "ac/accumulate/accumulates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈkjuːmjəleɪtɪd/",
+        "audio": "ac/accumulate/accumulated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈkjuːmjəleɪtɪŋ/",
+        "audio": "ac/accumulate/accumulating__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 15th cent.: from Latin accumulat- ‘heaped up’, from the verb accumulare, from ad- ‘to’ + cumulus ‘a heap’."
+}

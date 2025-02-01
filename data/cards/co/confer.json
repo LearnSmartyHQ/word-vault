@@ -1,0 +1,81 @@
+{
+  "term": "confer",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "confer",
+      "heSheIt": "confers"
+    },
+    "pastSimple": "conferred",
+    "pastParticiple": "conferred",
+    "ingForm": "conferring"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to discuss something with somebody, in order to exchange opinions or get advice",
+      "sensetop": "confer (with somebody) (on/about something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He wanted to confer with his colleagues before reaching a decision."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to give somebody an award, a university degree or a particular honour or right",
+      "sensetop": "confer something (on/upon somebody)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "An honorary degree was conferred on him by Oxford University in 2019."
+        }
+      ],
+      "topics": ["Education"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kənˈfɜː(r)/",
+        "audio": "xc/confer/xconfer__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈfɜːz/",
+        "audio": "xc/confer/xconfers__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈfɜːd/",
+        "audio": "xc/confer/xconferred__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈfɜːrɪŋ/",
+        "audio": "xc/confer/xconferring__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kənˈfɜːr/",
+        "audio": "xc/confer/xconfer__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈfɜːrz/",
+        "audio": "xc/confer/xconfers__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈfɜːrd/",
+        "audio": "xc/confer/xconferred__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈfɜːrɪŋ/",
+        "audio": "xc/confer/xconferring__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the general sense ‘bring together’, also in sense (1)): from Latin conferre, from con- ‘together’ + ferre ‘bring’."
+}

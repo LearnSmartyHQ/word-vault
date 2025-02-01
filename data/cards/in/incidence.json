@@ -1,0 +1,70 @@
+{
+  "term": "incidence",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the extent to which something happens or has an effect",
+      "sensetop": "incidence of something",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "an area with a **high incidence** of crime"
+        },
+        {
+          "text": "The country had the lowest incidence of Covid cases proportional to its population."
+        },
+        {
+          "text": "The lack of vitamins may explain the higher incidence of heart disease."
+        },
+        {
+          "text": "There is a greater incidence of cancer in the families of radiation workers."
+        },
+        {
+          "text": "the highest recorded incidence of air pollution"
+        }
+      ],
+      "collocations": {
+        "adjective": ["great", "high", "peak"],
+        "verb + incidence": ["have", "show", "increase"],
+        "incidence + verb": ["increase", "decrease", "fall"],
+        "incidence + noun": ["rate"],
+        "preposition": ["incidence among", "incidence in"],
+        "phrases": [
+          "a decrease in the incidence of something",
+          "an increase in the incidence of something",
+          "a variation in the incidence of something"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the way in which light meets a surface",
+      "labels": "(physics)",
+      "examples": [
+        {
+          "text": "the angle of incidence"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɪnsɪdəns/",
+        "audio": "in/incidence/incidence__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɪnsɪdəns/",
+        "audio": "in/incidence/incidence__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (denoting a casual or subordinate event): from Old French, or from medieval Latin incidentia, from Latin incidere ‘fall upon, happen to’, from in- ‘upon’ + cadere ‘to fall’. Sense (1) dates from the early 19th cent."
+}

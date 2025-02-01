@@ -1,0 +1,104 @@
+{
+  "term": "transit",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the process of being moved or carried from one place to another",
+      "sensetop": "in transit",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The cost includes transit."
+        },
+        {
+          "text": "goods damaged in transit",
+          "contextForm": "in transit"
+        },
+        {
+          "text": "transit times"
+        },
+        {
+          "text": "goods in transit between factory and store"
+        },
+        {
+          "text": "Your insurance should cover transit by air, sea or rail."
+        }
+      ],
+      "collocations": {
+        "transit + noun": ["point", "camp", "lounge"],
+        "preposition": ["in transit", "transit between", "transit from"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the act of going through a place on the way to somewhere else",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the transit lounge at Vienna airport"
+        },
+        {
+          "text": "a **transit visa** *(= one that allows a person to pass through a country but not to stay there)*"
+        },
+        {
+          "text": "The port has become a transit point in the drug trade."
+        },
+        {
+          "text": "The goods were still in a transit shed on the quay."
+        },
+        {
+          "text": "Transit passengers are not allowed to leave the airport."
+        },
+        {
+          "text": "If you are catching a connecting flight please wait in the transit lounge."
+        }
+      ],
+      "topics": ["Transport by air"],
+      "collocations": {
+        "transit + noun": ["point", "camp", "lounge"],
+        "preposition": ["in transit", "transit between", "transit from"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the system of buses, trains, etc. that people use to travel from one place to another",
+      "labels": "(North American English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the city’s **mass/public transit** system"
+        },
+        {
+          "text": "The New York transit strike is in its second day."
+        },
+        {
+          "text": "The city has acquired a light rail transit system."
+        }
+      ],
+      "topics": ["Transport by bus and train"],
+      "collocations": {
+        "adjective": ["mass", "public", "rapid"],
+        "transit + noun": ["system", "hub", "station"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtrænzɪt/",
+        "audio": "tr/transit/transit__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtrænzɪt/",
+        "audio": "tr/transit/transit__us_1_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (denoting passage from one place to another): from Latin transitus, from transire ‘go across’."
+}

@@ -1,0 +1,81 @@
+{
+  "term": "analogy",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a comparison of one thing with another thing that has similar features; a feature that is similar",
+      "sensetop": "analogy (between A and B)analogy (with something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The teacher **drew an analogy** between the human heart and a pump.",
+          "contextForm": "analogy (between A and B)"
+        },
+        {
+          "text": "There are no analogies with any previous legal cases.",
+          "contextForm": "analogy (with something)"
+        },
+        {
+          "text": "She suggested an analogy between the human heart and a pump."
+        },
+        {
+          "text": "The Wild West analogy does not fit here."
+        },
+        {
+          "text": "There is an analogy here with the way an engine works."
+        },
+        {
+          "text": "The computer is a useful analogy for the brain."
+        }
+      ],
+      "topics": ["Language"],
+      "collocations": {
+        "adjective": ["appropriate", "apt", "good"],
+        "verb + analogy": ["draw", "make", "suggest"],
+        "analogy + verb": ["fit", "hold"],
+        "preposition": ["by analogy", "by analogy to", "by analogy with"],
+        "phrases": ["argument by analogy", "argument from analogy"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the process of comparing one thing with another thing that has similar features in order to explain it",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "learning **by analogy**"
+        },
+        {
+          "text": "We can understand this theory by analogy with human beings."
+        }
+      ],
+      "topics": ["Language"],
+      "collocations": {
+        "adjective": ["appropriate", "apt", "good"],
+        "verb + analogy": ["draw", "make", "suggest"],
+        "analogy + verb": ["fit", "hold"],
+        "preposition": ["by analogy", "by analogy to", "by analogy with"],
+        "phrases": ["argument by analogy", "argument from analogy"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈnælədʒi/",
+        "audio": "an/analogy/analogy__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈnælədʒi/",
+        "audio": "an/analogy/analogy__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the sense ‘appropriateness, correspondence’): from French analogie, Latin analogia ‘proportion’, from Greek, from analogos ‘proportionate’."
+}

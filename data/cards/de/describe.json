@@ -1,0 +1,153 @@
+{
+  "term": "describe",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "describe",
+      "heSheIt": "describes"
+    },
+    "pastSimple": "described",
+    "pastParticiple": "described",
+    "ingForm": "describing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to say what somebody/something is like",
+      "sensetop": "describe somebody/somethingdescribe somebody/something to somebodydescribe somebody/something for somebodydescribe somebody/something as somethingdescribe yourself as somethingdescribe how, what, etc…describe doing something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The next section **describes** our findings **in detail**.",
+          "contextForm": "describe somebody/something"
+        },
+        {
+          "text": "to describe a method/process/situation"
+        },
+        {
+          "text": "Can you describe him to me?",
+          "contextForm": "describe somebody/something to somebody"
+        },
+        {
+          "text": "They described for us exactly what happened.",
+          "contextForm": "describe somebody/something for somebody"
+        },
+        {
+          "text": "The man was described as tall and dark, and aged about 20.",
+          "contextForm": "describe somebody/something as something"
+        },
+        {
+          "text": "She describes herself as an artist.",
+          "contextForm": "describe yourself as something"
+        },
+        {
+          "text": "Describe how you did it.",
+          "contextForm": "describe how, what, etc…"
+        },
+        {
+          "text": "**Words cannot describe** what I felt at that moment."
+        },
+        {
+          "text": "Witnesses described seeing strange lights in the sky.",
+          "contextForm": "describe doing something"
+        },
+        {
+          "text": "The area I grew up in is described as semi-rural."
+        },
+        {
+          "text": "She described briefly what happened."
+        },
+        {
+          "text": "He goes on to describe very vividly how Caesar was stabbed to death."
+        },
+        {
+          "text": "He goes on to describe vividly how Lincoln was assassinated."
+        },
+        {
+          "text": "Observers have described the situation in the country as ‘serious’."
+        },
+        {
+          "text": "The shirt was variously described as ‘pink’, ‘salmon’ and ‘rose’."
+        },
+        {
+          "text": "Their daily lives are described in detail."
+        },
+        {
+          "text": "This process is fully described in section three of the book."
+        },
+        {
+          "text": "Words cannot describe our feelings at that moment."
+        },
+        {
+          "text": "Jim was described by his colleagues as ‘unusual’."
+        },
+        {
+          "text": "The current political situation in Vietnam is described in chapter 8."
+        },
+        {
+          "text": "Production data were collected and analysed by methods previously described for Trial 1."
+        }
+      ],
+      "collocations": {
+        "adverb": ["accurately", "exactly", "in detail"],
+        "verb + describe": ["cannot", "be difficult to", "be hard to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to make a movement that has a particular shape; to form a particular shape",
+      "sensetop": "describe something",
+      "labels": "(formal or specialist)",
+      "examples": [
+        {
+          "text": "The shark described a circle around the shoal of fish."
+        },
+        {
+          "text": "The road describes a long loop around the town."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈskraɪb/",
+        "audio": "de/describe/describe__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈskraɪbz/",
+        "audio": "de/describe/describes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈskraɪbd/",
+        "audio": "de/describe/described__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈskraɪbɪŋ/",
+        "audio": "de/describe/describing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈskraɪb/",
+        "audio": "de/describe/describe__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈskraɪbz/",
+        "audio": "de/describe/describes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈskraɪbd/",
+        "audio": "de/describe/described__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈskraɪbɪŋ/",
+        "audio": "de/describe/describing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin describere, from de- ‘down’ + scribere ‘write’."
+}

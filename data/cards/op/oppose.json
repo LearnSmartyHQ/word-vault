@@ -1,0 +1,125 @@
+{
+  "term": "oppose",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "oppose",
+      "heSheIt": "opposes"
+    },
+    "pastSimple": "opposed",
+    "pastParticiple": "opposed",
+    "ingForm": "opposing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to disagree strongly with somebody’s plan, policy, etc. and try to change it or prevent it from succeeding",
+      "sensetop": "oppose somebody/somethingoppose doing somethingoppose somebody/something doing something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "This party would bitterly oppose the re-introduction of the death penalty.",
+          "contextForm": "oppose somebody/something"
+        },
+        {
+          "text": "He threw all those that opposed him into prison."
+        },
+        {
+          "text": "to **oppose a war/bill/plan**"
+        },
+        {
+          "text": "Do you support or oppose this proposal?"
+        },
+        {
+          "text": "The children **strongly opposed** the idea."
+        },
+        {
+          "text": "He **vehemently opposed **the War of 1812."
+        },
+        {
+          "text": "She is adamantly opposed to the war."
+        },
+        {
+          "text": "I would oppose changing the law.",
+          "contextForm": "oppose doing something"
+        },
+        {
+          "text": "Her father opposed her becoming a missionary.",
+          "contextForm": "oppose somebody/something doing something"
+        },
+        {
+          "text": "The ban was initially opposed by the US."
+        },
+        {
+          "text": "The minister has consistently opposed any relaxation in the law."
+        },
+        {
+          "text": "We totally oppose the use of gas to kill any animal."
+        },
+        {
+          "text": "We would vigorously oppose such a policy."
+        },
+        {
+          "text": "He found himself opposed by his own deputy."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adverb": ["adamantly", "bitterly", "fiercely"],
+        "verb + oppose": ["vote to", "continue to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to compete with somebody in a contest",
+      "sensetop": "oppose somebody",
+      "examples": [
+        {
+          "text": "He intends to oppose the prime minister in the leadership election."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈpəʊz/",
+        "audio": "op/oppose/oppose__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈpəʊzɪz/",
+        "audio": "op/oppose/opposes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈpəʊzd/",
+        "audio": "op/oppose/opposed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈpəʊzɪŋ/",
+        "audio": "op/oppose/opposing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈpəʊz/",
+        "audio": "op/oppose/oppose__us_2.mp3"
+      },
+      {
+        "pronunciation": "/əˈpəʊzɪz/",
+        "audio": "op/oppose/opposes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈpəʊzd/",
+        "audio": "op/oppose/opposed__us_3.mp3"
+      },
+      {
+        "pronunciation": "/əˈpəʊzɪŋ/",
+        "audio": "op/oppose/opposing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French opposer, from Latin opponere (from ob- ‘against’ + ponere ‘place’), but influenced by Latin oppositus ‘set or placed against’ and Old French poser ‘to place’."
+}

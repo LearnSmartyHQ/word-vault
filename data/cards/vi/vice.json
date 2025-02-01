@@ -1,0 +1,86 @@
+{
+  "term": "vice",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "image": "data/images/vi/vice.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "criminal activities that involve sex or drugs",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "At the door were two plain-clothes detectives from the vice squad."
+        },
+        {
+          "text": "The bright 21-year-old turned to a secret life of vice after getting bored with her studies at college."
+        }
+      ],
+      "topics": ["Crime and punishment"],
+      "collocations": {
+        "adjective": ["secret"],
+        "verb + vice": ["have", "indulge", "indulge in"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "behaviour that is evil or immoral; a quality in somebody’s character that is evil or immoral",
+      "labels": "(humorous)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The film ended most satisfactorily: vice punished and virtue rewarded."
+        },
+        {
+          "text": "Greed is a terrible vice."
+        },
+        {
+          "text": "Chocolate brownies are my only vice."
+        },
+        {
+          "text": "He used his inheritance to indulge his vices of drinking and gambling."
+        },
+        {
+          "text": "Of his many vices, his cruelty was the worst."
+        },
+        {
+          "text": "She often spends a fortune on clothes—it's her greatest vice."
+        },
+        {
+          "text": "The occasional cigar is my only vice."
+        }
+      ],
+      "topics": ["Personal qualities"],
+      "collocations": {
+        "adjective": ["secret"],
+        "verb + vice": ["have", "indulge", "indulge in"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a tool with two metal blocks that can be moved together by turning a screw. The vice is used to hold an object in place while work is done on it.",
+      "labels": "(especially British English)North American English usually",
+      "examples": [
+        {
+          "text": "He held my arm in a **vice-like** *(= very firm)* **grip**."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/vaɪs/",
+        "audio": "vi/vice/vice__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/vaɪs/",
+        "audio": "vi/vice/vice__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "senses 1 to 2 Middle English: via Old French from Latin vitium.sense 3 Middle English (denoting a screw or winch): from Old French vis, from Latin vitis ‘vine’."
+}

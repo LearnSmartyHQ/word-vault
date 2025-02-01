@@ -1,0 +1,458 @@
+{
+  "term": "shoot",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "shoot",
+      "heSheIt": "shoots"
+    },
+    "pastSimple": "shot",
+    "pastParticiple": "shot",
+    "ingForm": "shooting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to fire a gun or other weapon; to fire something from a weapon",
+      "sensetop": "shoot at somebody/somethingshoot somethingshoot something at somebody/somethingshoot something from something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Don't shoot—I surrender."
+        },
+        {
+          "text": "The police rarely **shoot to kill** *(= try to kill the people they shoot at)*."
+        },
+        {
+          "text": "The soldiers were given orders to shoot on sight *(= as soon as they saw somebody)*."
+        },
+        {
+          "text": "troops shooting at the enemy",
+          "contextForm": "shoot at somebody/something"
+        },
+        {
+          "text": "Have you ever shot a gun before?",
+          "contextForm": "shoot something"
+        },
+        {
+          "text": "They shot the lock off *(= removed it by shooting)*."
+        },
+        {
+          "text": "She shot a bullet right at me but missed.",
+          "contextForm": "shoot something at somebody/something"
+        },
+        {
+          "text": "He shot an arrow from his bow.",
+          "contextForm": "shoot something from something"
+        },
+        {
+          "text": "I thought for a moment that he was going to shoot."
+        },
+        {
+          "text": "She practised for days until she could shoot straight."
+        },
+        {
+          "text": "If they shoot, we shoot back."
+        },
+        {
+          "text": "The soldiers shot back at invading planes with rifles."
+        },
+        {
+          "text": "The soldiers were shooting at a target."
+        },
+        {
+          "text": "They began shooting at the enemy."
+        },
+        {
+          "text": "Troops shot into the air to stop the rioting."
+        },
+        {
+          "text": "a shoot-to-kill policy"
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adverb": ["accurately", "straight", "accidentally"],
+        "verb + shoot": ["want to", "threaten to", "be about to"],
+        "preposition": ["at", "in", "into"],
+        "phrases": [
+          "shoot (somebody) on sight",
+          "shoot somebody dead",
+          "shoot to kill"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to kill or wound a person or an animal with a bullet, etc.",
+      "sensetop": "shoot somebody/something/yourselfshoot somebody/something/yourself in somethingshoot somebody/something/yourself with something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He shot himself during a fit of depression.",
+          "contextForm": "shoot somebody/something/yourself"
+        },
+        {
+          "text": "He was left brain-damaged after being **shot in the head**.",
+          "contextForm": "shoot somebody/something/yourself in something"
+        },
+        {
+          "text": "They were **shot in the back** while trying to escape."
+        },
+        {
+          "text": "A man was shot in the leg."
+        },
+        {
+          "text": "In the struggle the burglar was shot with his own gun.",
+          "contextForm": "shoot somebody/something/yourself with something"
+        },
+        {
+          "text": "Four policemen were **fatally shot** during the incident."
+        },
+        {
+          "text": "Three people were **shot dead** during the robbery."
+        },
+        {
+          "text": "Forty people a day are **shot and killed** in this country."
+        },
+        {
+          "text": "She was **shot to death** for a crime she did not commit."
+        },
+        {
+          "text": "Any intruders will be shot on sight."
+        },
+        {
+          "text": "He accidentally shot himself in the foot."
+        },
+        {
+          "text": "If caught, the men could be summarily shot as spies."
+        },
+        {
+          "text": "He was shot at close range."
+        }
+      ],
+      "topics": ["Crime and punishment"],
+      "collocations": {
+        "adverb": ["accurately", "straight", "accidentally"],
+        "verb + shoot": ["want to", "threaten to", "be about to"],
+        "preposition": ["at", "in", "into"],
+        "phrases": [
+          "shoot (somebody) on sight",
+          "shoot somebody dead",
+          "shoot to kill"
+        ]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to fire bullets, etc.",
+      "sensetop": "shoot something",
+      "examples": [
+        {
+          "text": "Does this gun actually shoot?"
+        },
+        {
+          "text": "This is just a toy gun—it doesn't shoot real bullets.",
+          "contextForm": "shoot something"
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to hunt and kill birds and animals with a gun as a sport",
+      "sensetop": "shoot (something)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to shoot pheasants"
+        },
+        {
+          "text": "They go shooting in Scotland."
+        }
+      ]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to make a film or photograph of something",
+      "sensetop": "shoot somethingshoot something + adv./prep.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Cameras ready? OK, shoot!"
+        },
+        {
+          "text": "to **shoot a film/video/scene**",
+          "contextForm": "shoot something"
+        },
+        {
+          "text": "The film crew returned to the area to shoot more footage."
+        },
+        {
+          "text": "I managed to shoot a photo of the elephants before they disappeared into the trees."
+        },
+        {
+          "text": "Where was the movie shot?",
+          "contextForm": "shoot something + adv./prep."
+        },
+        {
+          "text": "The movie was shot in black and white."
+        },
+        {
+          "text": "The film is beautifully shot and edited."
+        },
+        {
+          "text": "The film was shot on location in Death Valley."
+        }
+      ],
+      "topics": ["Film and theatre"]
+    },
+    {
+      "senseNumber": 6,
+      "definition": "to move suddenly or quickly in one direction; to make somebody/something move in this way",
+      "sensetop": "+ adv./prep.shoot something + adv./prep.",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "A plane shot across the sky.",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "Her hand shot out to grab my wrist."
+        },
+        {
+          "text": "Flames were shooting up through the roof."
+        },
+        {
+          "text": "The band's last single shot straight to number one in the charts."
+        },
+        {
+          "text": "She shot out her hand to grab my wrist.",
+          "contextForm": "shoot something + adv./prep."
+        },
+        {
+          "text": "A cat shot out into the road in front of him."
+        },
+        {
+          "text": "I saw someone shooting past the window."
+        }
+      ]
+    },
+    {
+      "senseNumber": 7,
+      "definition": "to move suddenly and quickly and be very sharp",
+      "sensetop": "+ adv./prep.",
+      "examples": [
+        {
+          "text": "a shooting pain in the back"
+        },
+        {
+          "text": "The pain shot up her arm.",
+          "contextForm": "+ adv./prep."
+        }
+      ]
+    },
+    {
+      "senseNumber": 8,
+      "definition": "to direct something at somebody suddenly or quickly",
+      "sensetop": "shoot something at somebodyshoot somebody something",
+      "examples": [
+        {
+          "text": "Journalists were shooting questions at the candidates.",
+          "contextForm": "shoot something at somebody"
+        },
+        {
+          "text": "She shot an angry glance at him."
+        },
+        {
+          "text": "She shot him an angry glance.",
+          "contextForm": "shoot somebody something"
+        },
+        {
+          "text": "Darren shot her a filthy look."
+        }
+      ]
+    },
+    {
+      "senseNumber": 9,
+      "definition": "to try to kick, hit or throw the ball into a goal or to score a point",
+      "sensetop": "shoot something",
+      "labels": "(especially North American English)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "He should have shot instead of passing."
+        },
+        {
+          "text": "Marta **shot wide** *(= missed the goal)*, but scored minutes later."
+        },
+        {
+          "text": "After school we'd be on the driveway **shooting hoops** *(= playing basketball)*.",
+          "contextForm": "shoot something"
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"]
+    },
+    {
+      "senseNumber": 10,
+      "definition": "to make a particular score in a complete round or competition",
+      "sensetop": "shoot something",
+      "labels": "(informal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "She shot a 75 in the first round."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"]
+    },
+    {
+      "senseNumber": 11,
+      "definition": "to play particular games",
+      "sensetop": "shoot something",
+      "labels": "(especially North American English)",
+      "examples": [
+        {
+          "text": "to shoot pool"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to emphasize how easy it is to do something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "What do you mean you can't do it? It'll be like shooting fish in a barrel!"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to look at somebody in a way that shows you are annoyed with them",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to have used all your power, money or supplies",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to have a conversation in an informal way",
+      "labels": "(North American English, informal)",
+      "examples": [
+        {
+          "text": "We sat around in the bar, shooting the breeze."
+        }
+      ],
+      "synonyms": "chat"
+    },
+    {
+      "senseNumber": null,
+      "definition": "to react quickly without thinking carefully first",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to fight against somebody with guns, especially until one side is killed or defeated",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The gang decided to shoot it out with the police."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to blame the person who gives the news that something bad has happened, instead of the person who is really responsible",
+      "examples": [
+        {
+          "text": "Don't shoot the messenger!"
+        }
+      ]
+    },
+    {
+      "senseNumber": 1,
+      "definition": "to talk about something in a way that shows that you are too proud of it",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Personal qualities"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to talk about something that is private or secret",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to go in a boat over part of a river where the water flows very fast",
+      "examples": [],
+      "topics": ["Transport by water"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to suddenly become famous, especially as a singer or actor",
+      "examples": [
+        {
+          "text": "He shot to fame almost overnight."
+        },
+        {
+          "text": "She shot to stardom in a Broadway musical."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to do or say something that will cause you a lot of trouble or harm, especially when you are trying to get an advantage for yourself",
+      "labels": "(informal)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ʃuːt/",
+        "audio": "sh/shoot/shoot__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃuːts/",
+        "audio": "sh/shoot/shoots__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃɒt/",
+        "audio": "sh/shoot/shot__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈʃuːtɪŋ/",
+        "audio": "sh/shoot/shooting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ʃuːt/",
+        "audio": "sh/shoot/shoot__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃuːts/",
+        "audio": "sh/shoot/shoots__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃɑːt/",
+        "audio": "sh/shoot/shot__us_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈʃuːtɪŋ/",
+        "audio": "sh/shoot/shooting__us_3.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English scēotan, of Germanic origin; related to Dutch scieten and German sciessen, also to sheet, the noun shot, and shut."
+}

@@ -1,0 +1,62 @@
+{
+  "term": "torrent",
+  "partOfSpeech": "noun",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a large amount of water moving very quickly",
+      "sensetop": "in torrents",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "After the winter rains, the stream becomes a **raging torrent**."
+        },
+        {
+          "text": "The rain was coming down in torrents.",
+          "contextForm": "in torrents"
+        }
+      ],
+      "topics": ["Weather"],
+      "collocations": {
+        "adjective": ["raging", "rushing"],
+        "preposition": ["in torrents"],
+        "phrases": ["a torrent of rain", "a torrent of water"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a large amount of something that comes suddenly and violently",
+      "examples": [
+        {
+          "text": "a **torrent of abuse/criticism**"
+        },
+        {
+          "text": "His torrent of words finally slowed as he calmed down."
+        },
+        {
+          "text": "The sight of her father unleashed a torrent of emotions."
+        }
+      ],
+      "synonyms": "deluge",
+      "collocations": {
+        "verb + torrent": ["let loose", "release", "unleash"],
+        "preposition": ["in a torrent", "torrent of"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtɒrənt/",
+        "audio": "to/torrent/torrent__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtɔːrənt/",
+        "audio": "to/torrent/torrent__us_1_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 16th cent.: from French, from Italian torrente, from Latin torrent- ‘boiling, roaring’, from torrere ‘parch, scorch’."
+}

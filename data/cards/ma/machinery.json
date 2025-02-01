@@ -1,0 +1,91 @@
+{
+  "term": "machinery",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "machines as a group, especially large ones",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "**agricultural/industrial machinery**"
+        },
+        {
+          "text": "a piece of machinery"
+        },
+        {
+          "text": "machinery for grinding wheat"
+        },
+        {
+          "text": "These workshops were built to house heavy machinery."
+        },
+        {
+          "text": "This car is a pretty sophisticated piece of machinery."
+        }
+      ],
+      "topics": ["Business", "Engineering"],
+      "collocations": {
+        "adjective": ["heavy", "complex", "complicated"],
+        "… of machinery": ["piece"],
+        "verb + machinery": ["maintain", "repair", "manufacture"],
+        "preposition": ["machinery for"],
+        "phrases": ["the hum of machinery"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the parts of a machine that make it work",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a clock with all its machinery hanging out"
+        }
+      ],
+      "topics": ["Business", "Engineering"],
+      "collocations": {
+        "adjective": ["heavy", "complex", "complicated"],
+        "… of machinery": ["piece"],
+        "verb + machinery": ["maintain", "repair", "manufacture"],
+        "preposition": ["machinery for"],
+        "phrases": ["the hum of machinery"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the organization or structure of something; the system for doing something",
+      "sensetop": "machinery for doing something",
+      "examples": [
+        {
+          "text": "the machinery of government"
+        },
+        {
+          "text": "They are faced with the task of dismantling the state machinery in order to create more democratic structures."
+        },
+        {
+          "text": "There is no machinery for resolving disputes.",
+          "contextForm": "machinery for doing something"
+        },
+        {
+          "text": "The bumblebee has developed complex machinery for collecting pollen."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/məˈʃiːnəri/",
+        "audio": "ma/machinery/machinery__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/məˈʃiːnəri/",
+        "audio": "ma/machinery/machinery__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

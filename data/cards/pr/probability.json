@@ -1,0 +1,115 @@
+{
+  "term": "probability",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "how likely something is to happen",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The probability is that prices will rise rapidly."
+        },
+        {
+          "text": "There seemed to be a high probability of success."
+        },
+        {
+          "text": "We can say with a high degree of probability that the poem was written by Shakespeare."
+        },
+        {
+          "text": "genetic factors that influence the probability of developing cancer"
+        },
+        {
+          "text": "measures to increase the probability for a sustained recovery"
+        }
+      ],
+      "synonyms": "likelihood",
+      "topics": ["Doubt, guessing and certainty"],
+      "collocations": {
+        "adjective": ["high", "real", "strong"],
+        "… of probability": ["degree"],
+        "verb + probability": ["have", "increase", "decrease"],
+        "preposition": ["probability for", "probability of"],
+        "phrases": ["in all probability", "on a/​the balance of probabilities"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a thing that is likely to happen",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "A fall in interest rates is a **strong probability** in the present economic climate."
+        },
+        {
+          "text": "It now seems a probability rather than just a possibility."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a ratio showing the chances that a particular thing will happen",
+      "labels": "(mathematics)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "There is a 60 per cent probability that the population will be infected with the disease."
+        }
+      ],
+      "topics": ["Maths and measurement"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "(considering) the evidence on both sides of an argument, to find the most likely reason for or result of something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The balance of evidence suggests the Liberal party's decline began before the First World War."
+        },
+        {
+          "text": "The coroner thought that on the balance of probabilities, the pilot had suffered a stroke just before the crash."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "(considering) the evidence on both sides of an argument, to find the most likely reason for or result of something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "The coroner thought that on the balance of probabilities, the pilot had suffered a stroke just before the crash."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "it is very likely that",
+      "examples": [
+        {
+          "text": "In all probability he failed to understand the consequences of his actions."
+        },
+        {
+          "text": "In all probability she wouldn't come even if we invited her."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌprɒbəˈbɪləti/",
+        "audio": "pr/probability/probability__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌprɑːbəˈbɪləti/",
+        "audio": "pr/probability/probability__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin probabilitas, from probabilis ‘provable, credible’, from probare ‘to test, demonstrate’."
+}

@@ -1,0 +1,136 @@
+{
+  "term": "depart",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "depart",
+      "heSheIt": "departs"
+    },
+    "pastSimple": "departed",
+    "pastParticiple": "departed",
+    "ingForm": "departing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to leave a place, especially to start a trip",
+      "sensetop": "depart (for…) (from…)depart something",
+      "labels": "(North American English)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Flights for Rome depart from Terminal 3.",
+          "contextForm": "depart (for…) (from…)"
+        },
+        {
+          "text": "She waited until the last of the guests had departed."
+        },
+        {
+          "text": "The train departed Amritsar at 6.15 p.m.",
+          "contextForm": "depart something"
+        },
+        {
+          "text": "He departs for New York tomorrow morning."
+        },
+        {
+          "text": "The plane was scheduled to depart at 8.30."
+        },
+        {
+          "text": "The flight was scheduled to depart later that day."
+        },
+        {
+          "text": "They shook hands all round and prepared to depart."
+        },
+        {
+          "text": "We depart from Heathrow at ten o'clock tonight."
+        },
+        {
+          "text": "Most of the tourists had departed the area."
+        },
+        {
+          "text": "This train will depart in three minutes."
+        },
+        {
+          "text": "You must depart for England immediately."
+        }
+      ],
+      "collocations": {
+        "verb + depart": ["be due to", "be scheduled to", "be waiting to"],
+        "preposition": ["for", "from"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to leave your job",
+      "sensetop": "depart something",
+      "labels": "(North American English)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "the departing president"
+        },
+        {
+          "text": "He departed his job December 16.",
+          "contextForm": "depart something"
+        },
+        {
+          "text": "He departed the troubled firm after less than a year in the post."
+        },
+        {
+          "text": "Giving a large pay-off to a departing executive may be seen as rewarding failure."
+        }
+      ],
+      "collocations": {
+        "verb + depart": ["be due to", "be scheduled to", "be waiting to"],
+        "preposition": ["for", "from"]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "to die. People say ‘depart this life’ to avoid saying ‘die’.",
+      "examples": [],
+      "topics": ["Life stages"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈpɑːt/",
+        "audio": "de/depart/depart__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpɑːts/",
+        "audio": "de/depart/departs__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpɑːtɪd/",
+        "audio": "de/depart/departed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpɑːtɪŋ/",
+        "audio": "de/depart/departing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈpɑːrt/",
+        "audio": "de/depart/depart__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpɑːrts/",
+        "audio": "de/depart/departs__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpɑːrtɪd/",
+        "audio": "de/depart/departed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈpɑːrtɪŋ/",
+        "audio": "de/depart/departing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French departir, based on Latin dispertire ‘to divide’. The original sense was ‘separate’, also ‘take leave of each other’, hence ‘go away’."
+}

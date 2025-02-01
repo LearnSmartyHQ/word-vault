@@ -1,0 +1,137 @@
+{
+  "term": "assist",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "assist",
+      "heSheIt": "assists"
+    },
+    "pastSimple": "assisted",
+    "pastParticiple": "assisted",
+    "ingForm": "assisting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to help somebody to do something",
+      "sensetop": "assist in/with somethingassist somebodyassist somebody in doing somethingassist somebody in/with somethingassist somebody to do something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Anyone willing to assist can contact this number."
+        },
+        {
+          "text": "He assisted in the development of the business strategy.",
+          "contextForm": "assist in/with something"
+        },
+        {
+          "text": "We are looking for people who would be willing to assist in the group's work."
+        },
+        {
+          "text": "We'll do all we can to assist you.",
+          "contextForm": "assist somebody"
+        },
+        {
+          "text": "They will be **ably assisted** by our remarkable staff."
+        },
+        {
+          "text": "The play was directed by Mike Johnson, assisted by Sharon Gale."
+        },
+        {
+          "text": "His task is to advise and assist his colleagues."
+        },
+        {
+          "text": "We will assist you in finding somewhere to live.",
+          "contextForm": "assist somebody in doing something"
+        },
+        {
+          "text": "Two men **are assisting the police with their enquiries** *(= are being questioned by the police)*.",
+          "contextForm": "assist somebody in/with something"
+        },
+        {
+          "text": "The driver has been assisting police with their investigation."
+        },
+        {
+          "text": "a course to assist adults to return to the labour market",
+          "contextForm": "assist somebody to do something"
+        },
+        {
+          "text": "She offered to assist with the marketing of the product."
+        },
+        {
+          "text": "She was ably assisted by a team of volunteers."
+        },
+        {
+          "text": "We have been greatly assisted by individuals and organizations."
+        }
+      ],
+      "topics": ["Social issues"],
+      "collocations": {
+        "adverb": ["greatly", "materially", "ably"],
+        "verb + assist": ["be designed to"],
+        "preposition": ["in", "with"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to help something to happen more easily",
+      "sensetop": "assist something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "activities that will assist the decision-making process"
+        },
+        {
+          "text": "Volcanic eruptions like this probably assisted the development of life on this planet."
+        },
+        {
+          "text": "Day hospitals have sprung up to assist the process of rehabilitation."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈsɪst/",
+        "audio": "as/assist/assist__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsɪsts/",
+        "audio": "as/assist/assists__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsɪstɪd/",
+        "audio": "as/assist/assisted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsɪstɪŋ/",
+        "audio": "as/assist/assisting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈsɪst/",
+        "audio": "as/assist/assist__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsɪsts/",
+        "audio": "as/assist/assists__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsɪstɪd/",
+        "audio": "as/assist/assisted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsɪstɪŋ/",
+        "audio": "as/assist/assisting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French assister, from Latin assistere ‘take one's stand by’, from ad- ‘to, at’ + sistere ‘take one's stand’."
+}

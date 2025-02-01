@@ -1,0 +1,87 @@
+{
+  "term": "lamp",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a device that uses electricity, oil or gas to produce light",
+      "labels": "(British English)(especially North American English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a desk/bedside lamp"
+        },
+        {
+          "text": "a street lamp"
+        },
+        {
+          "text": "an oil lamp"
+        },
+        {
+          "text": "a paraffin lamp"
+        },
+        {
+          "text": "a kerosene lamp"
+        },
+        {
+          "text": "a fluorescent/halogen lamp"
+        },
+        {
+          "text": "to switch on/turn off a lamp"
+        },
+        {
+          "text": "An oil lamp burned in the darkness."
+        },
+        {
+          "text": "The study was lit only by a small lamp."
+        },
+        {
+          "text": "He got into bed and switched off the bedside lamp."
+        },
+        {
+          "text": "She could see the rain in the light of the street lamps."
+        },
+        {
+          "text": "There were oil lamps hanging over the veranda."
+        }
+      ],
+      "topics": ["Houses and homes"],
+      "collocations": {
+        "adjective": ["bedside", "desk", "floor"],
+        "verb + lamp": ["light", "switch on", "turn on"],
+        "lamp + verb": ["illuminate something", "light something", "burn"],
+        "lamp + noun": ["shade"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "an electrical device that produces rays of heat and that is used for medical or scientific purposes",
+      "examples": [
+        {
+          "text": "an infrared/ultraviolet lamp"
+        },
+        {
+          "text": "The specimen was viewed under an ultraviolet lamp."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/læmp/",
+        "audio": "la/lamp/lamp__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/læmp/",
+        "audio": "la/lamp/lamp__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: via Old French from late Latin lampada, from Latin lampas, lampad- ‘torch’, from Greek."
+}

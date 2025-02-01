@@ -1,0 +1,56 @@
+{
+  "term": "insufficient",
+  "partOfSpeech": "adjective",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "not large, strong or important enough for a particular purpose",
+      "sensetop": "insufficient to do somethinginsufficient for something",
+      "examples": [
+        {
+          "text": "insufficient time"
+        },
+        {
+          "text": "The management paid insufficient attention to working conditions."
+        },
+        {
+          "text": "There are fears that the existing flood barrier may prove insufficient."
+        },
+        {
+          "text": "I’m afraid we have insufficient evidence."
+        },
+        {
+          "text": "His salary is insufficient to meet his needs.",
+          "contextForm": "insufficient to do something"
+        },
+        {
+          "text": "The plan was to refurbish the whole building but the funds raised were insufficient for the purpose.",
+          "contextForm": "insufficient for something"
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "prove"],
+        "adverb": ["quite", "wholly", "simply"],
+        "preposition": ["for"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌɪnsəˈfɪʃnt/",
+        "audio": "in/insufficient/insufficient__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌɪnsəˈfɪʃnt/",
+        "audio": "in/insufficient/insufficient__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the sense ‘incapable, incompetent’): via Old French from late Latin insufficient- ‘not sufficing’, from in- ‘not’ + Latin sufficere ‘put under, meet the need of’ (from sub- ‘under’ + facere ‘make’)."
+}

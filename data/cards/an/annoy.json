@@ -1,0 +1,106 @@
+{
+  "term": "annoy",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "annoy",
+      "heSheIt": "annoys"
+    },
+    "pastSimple": "annoyed",
+    "pastParticiple": "annoyed",
+    "ingForm": "annoying"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to make somebody slightly angry",
+      "sensetop": "annoy somebodyit annoys somebody when…it annoys somebody to do something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "His constant joking was beginning to annoy her.",
+          "contextForm": "annoy somebody"
+        },
+        {
+          "text": "I’m sure she does it just to annoy me."
+        },
+        {
+          "text": "I only stay out late to annoy my parents."
+        },
+        {
+          "text": "It really annoys me when people forget to say thank you.",
+          "contextForm": "it annoys somebody when…"
+        },
+        {
+          "text": "It annoys me to see him getting ahead of me.",
+          "contextForm": "it annoys somebody to do something"
+        }
+      ],
+      "synonyms": "irritate",
+      "topics": ["Feelings"],
+      "collocations": {
+        "adverb": ["intensely", "really"],
+        "verb + annoy": ["be beginning to", "be starting to"],
+        "phrases": [
+          "do something just to annoy somebody",
+          "do something only to annoy somebody"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to make somebody uncomfortable or unable to relax",
+      "sensetop": "annoy somebody",
+      "examples": [
+        {
+          "text": "He swatted a fly that was annoying him."
+        },
+        {
+          "text": "The wasps were beginning to annoy me."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈnɔɪ/",
+        "audio": "an/annoy/annoy__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈnɔɪz/",
+        "audio": "an/annoy/annoys__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈnɔɪd/",
+        "audio": "an/annoy/annoyed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈnɔɪɪŋ/",
+        "audio": "an/annoy/annoying__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈnɔɪ/",
+        "audio": "an/annoy/annoy__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈnɔɪz/",
+        "audio": "an/annoy/annoys__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈnɔɪd/",
+        "audio": "an/annoy/annoyed__us_3.mp3"
+      },
+      {
+        "pronunciation": "/əˈnɔɪɪŋ/",
+        "audio": "an/annoy/annoying__us_3.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (in the sense ‘be hateful to’): from Old French anoier (verb), anoi (noun), based on Latin in odio in the phrase mihi in odio est ‘it is hateful to me’."
+}

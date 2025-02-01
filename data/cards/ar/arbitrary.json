@@ -1,0 +1,51 @@
+{
+  "term": "arbitrary",
+  "partOfSpeech": "adjective",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "not seeming to be based on a reason, system or plan and sometimes seeming unfair",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The choice of players for the team seemed completely arbitrary."
+        },
+        {
+          "text": "He makes unpredictable, arbitrary decisions."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "seem"],
+        "adverb": ["completely", "entirely", "purely"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "using power without limits and without considering other people",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "the arbitrary powers of officials"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɑːbɪtrəri//ˈɑːbɪtri/",
+        "audio": "ar/arbitrary/arbitrary__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɑːrbɪtreri/",
+        "audio": "ar/arbitrary/arbitrary__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the sense ‘dependent on one's will or pleasure, discretionary’): from Latin arbitrarius, from arbiter ‘judge, supreme ruler’, perhaps influenced by French arbitraire."
+}

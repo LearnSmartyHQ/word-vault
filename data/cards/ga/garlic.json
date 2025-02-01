@@ -1,0 +1,41 @@
+{
+  "term": "garlic",
+  "partOfSpeech": "noun",
+  "image": "data/images/ve/vegetables_misc.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a vegetable of the onion family with a very strong taste and smell, used in cooking to add taste to food",
+      "examples": [
+        {
+          "text": "a **clove of garlic** *(= one section of it)*"
+        },
+        {
+          "text": "Fry the chopped onion and crushed garlic for 3 minutes."
+        }
+      ],
+      "topics": ["Food"],
+      "collocations": {
+        "adjective": ["fresh", "raw", "wild"],
+        "… of garlic": ["clove"],
+        "verb + garlic": ["peel", "chop", "crush"],
+        "garlic + noun": ["bulb", "clove", "bread"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɡɑːlɪk/",
+        "audio": "ga/garlic/garlic__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɡɑːrlɪk/",
+        "audio": "ga/garlic/garlic__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English gārlēac, from gār ‘spear’ (because the shape of a clove resembles the head of a spear) + lēac ‘leek’."
+}

@@ -1,0 +1,78 @@
+{
+  "term": "booking",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "an arrangement that you make in advance to buy a ticket to travel somewhere, go to the theatre, etc.",
+      "labels": "(especially British English)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "a **booking form/hall/clerk**"
+        },
+        {
+          "text": "Can I **make a booking** for Friday?"
+        },
+        {
+          "text": "**Early booking** is recommended."
+        },
+        {
+          "text": "No **advance booking** is necessary."
+        },
+        {
+          "text": "We can't take any more bookings."
+        },
+        {
+          "text": "I made the booking through a travel agent."
+        },
+        {
+          "text": "I use an app to make bookings."
+        },
+        {
+          "text": "a booking for the Saturday performance"
+        }
+      ],
+      "topics": ["Transport by bus and train", "Holidays", "Film and theatre"],
+      "collocations": {
+        "adjective": ["advance", "early", "late"],
+        "verb + booking": ["make", "cancel", "confirm"],
+        "booking + noun": ["fee", "form", "system"],
+        "preposition": ["booking for"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "an arrangement for somebody to perform at a theatre, in a concert, etc.",
+      "examples": []
+    },
+    {
+      "senseNumber": 3,
+      "definition": "an act of the referee writing a player’s name in a book, as a punishment because an offence has been committed",
+      "labels": "(British English)",
+      "cefr": "c1",
+      "examples": [],
+      "topics": ["Sports: ball and racket sports"],
+      "collocations": {
+        "verb + booking": ["collect", "earn", "pick up"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈbʊkɪŋ/",
+        "audio": "bo/booking/booking__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈbʊkɪŋ/",
+        "audio": "bo/booking/booking__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

@@ -1,0 +1,41 @@
+{
+  "term": "processor",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a machine, person or company that processes things",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The company is Ireland's largest dairy processor."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a part of a computer that controls all the other parts of the system",
+      "labels": "(computing)",
+      "cefr": "c1",
+      "examples": [],
+      "topics": ["Computers"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈprəʊsesə(r)/",
+        "audio": "pr/processor/processor__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈprɑːsesər/",
+        "audio": "pr/processor/processor__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

@@ -1,0 +1,73 @@
+{
+  "term": "chemical",
+  "partOfSpeech": "adjective",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "connected with chemistry",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "changes in the **chemical composition** of the atmosphere"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "produced by or using processes that involve changes to atoms or molecules",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**chemical reactions/compounds**"
+        },
+        {
+          "text": "chemical processes"
+        }
+      ],
+      "topics": ["Physics and chemistry"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "using or connected with chemicals",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **chemical plant** *(= a factory producing chemicals)*"
+        },
+        {
+          "text": "**chemical agents ***(= substances)*"
+        },
+        {
+          "text": "the **chemical industry**"
+        },
+        {
+          "text": "a **chemical attack**"
+        },
+        {
+          "text": "Chemical treatment with chlorine provides some protection against contamination."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkemɪkl/",
+        "audio": "ch/chemical/chemical__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkemɪkl/",
+        "audio": "ch/chemical/chemical__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 16th cent.: from French chimique or modern Latin chimicus, chymicus, from medieval Latin alchymicus, from alchimia, from Arabic al-kīmiyā', from al ‘the’ + kīmiyā' (from Greek khēmia, khēmeia ‘art of transmuting metals’)."
+}

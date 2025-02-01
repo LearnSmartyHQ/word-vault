@@ -1,0 +1,93 @@
+{
+  "term": "collide",
+  "partOfSpeech": "verb",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "collide",
+      "heSheIt": "collides"
+    },
+    "pastSimple": "collided",
+    "pastParticiple": "collided",
+    "ingForm": "colliding"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "if two people, vehicles, etc. collide, they crash into each other; if a person, vehicle, etc. collides with another, or with something that is not moving, they crash into it",
+      "sensetop": "collide with something/somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The car and the van collided head-on in thick fog."
+        },
+        {
+          "text": "Two trains collided head-on."
+        },
+        {
+          "text": "The car collided head-on with the van.",
+          "contextForm": "collide with something/somebody"
+        },
+        {
+          "text": "As he fell, his head collided with the table."
+        }
+      ],
+      "topics": ["Transport by car or lorry"],
+      "collocations": {
+        "adverb": ["almost", "nearly", "head-on"],
+        "preposition": ["with"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to disagree strongly",
+      "sensetop": "collide (with somebody) (over something)",
+      "labels": "(formal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "They regularly collide over policy decisions."
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəˈlaɪd/",
+        "audio": "co/collide/collide__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈlaɪdz/",
+        "audio": "co/collide/collides__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈlaɪdɪd/",
+        "audio": "co/collide/collided__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈlaɪdɪŋ/",
+        "audio": "co/collide/colliding__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəˈlaɪd/",
+        "audio": "co/collide/collide__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈlaɪdz/",
+        "audio": "co/collide/collides__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈlaɪdɪd/",
+        "audio": "co/collide/collided__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈlaɪdɪŋ/",
+        "audio": "co/collide/colliding__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 17th cent. (in the sense ‘cause to collide’): from Latin collidere, from col- ‘together’ + laedere ‘to strike’."
+}

@@ -1,0 +1,57 @@
+{
+  "term": "nor",
+  "partOfSpeech": "conjunction, adverb",
+  "ox3000": true,
+  "cefr": "b1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "and not",
+      "sensetop": "neither… nor…not… nor…",
+      "labels": "(formal)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She seemed neither surprised nor worried."
+        },
+        {
+          "text": "He wasn't there on Monday. Nor on Tuesday, for that matter."
+        },
+        {
+          "text": "Not a building nor a tree was left standing."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "used before a positive verb to agree with something negative that has just been said",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She doesn't like them and nor does Jeff."
+        },
+        {
+          "text": "‘I'm not going.’ ‘Nor am I.’"
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/nɔː(r)/",
+        "audio": "no/nor/nor__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/nɔːr/",
+        "audio": "no/nor/nor__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: contraction of Old English nother ‘neither’."
+}

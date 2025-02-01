@@ -1,0 +1,119 @@
+{
+  "term": "valid",
+  "partOfSpeech": "adjective",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "that is legally or officially acceptable",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Do you have a valid passport?"
+        },
+        {
+          "text": "He bought a bus pass valid for one month."
+        },
+        {
+          "text": "They have a valid claim to compensation."
+        },
+        {
+          "text": "Is your passport still valid?"
+        },
+        {
+          "text": "The agreement is not necessarily valid in other countries."
+        },
+        {
+          "text": "The original written contract was held valid."
+        },
+        {
+          "text": "These discounts are valid for travel within the continental United States."
+        },
+        {
+          "text": "Vouchers are only valid for races taking place before 31 December."
+        }
+      ],
+      "topics": ["Law and justice"],
+      "collocations": {
+        "verbs": ["be", "become", "remain"],
+        "adverb": ["still", "no longer", "legally"],
+        "preposition": ["for"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "based on what is logical or true",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "She had valid reasons for not supporting the proposals."
+        },
+        {
+          "text": "The point you make is perfectly valid."
+        },
+        {
+          "text": "That argument is not strictly valid in this case."
+        },
+        {
+          "text": "The old assumptions are no longer valid."
+        },
+        {
+          "text": "This is a perfectly valid question to raise."
+        },
+        {
+          "text": "We accepted several different approaches as valid."
+        },
+        {
+          "text": "We use a different, but equally valid, technique."
+        },
+        {
+          "text": "a logically valid deduction"
+        },
+        {
+          "text": "a universally valid set of moral principles"
+        },
+        {
+          "text": "Accepting valid criticism is an important part of the learning process."
+        },
+        {
+          "text": "I'm afraid that's not a valid excuse for missing the deadline."
+        },
+        {
+          "text": "Of course we'll listen to your complaints, as long as they're valid."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "seem", "become"],
+        "adverb": ["extremely", "fairly", "very"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "that is accepted by the system",
+      "labels": "(computing)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "a valid password"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈvælɪd/",
+        "audio": "va/valid/valid__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈvælɪd/",
+        "audio": "va/valid/valid__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 16th cent.: from French valide or Latin validus ‘strong’, from valere ‘be strong’."
+}

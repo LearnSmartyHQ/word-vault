@@ -1,0 +1,111 @@
+{
+  "term": "welfare",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the general health, happiness and safety of a person, an animal or a group",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "We are concerned about the child's welfare."
+        },
+        {
+          "text": "The government's policies will promote the welfare of all citizens."
+        },
+        {
+          "text": "people concerned about child welfare"
+        },
+        {
+          "text": "Animal welfare groups want this practice banned altogether."
+        }
+      ],
+      "collocations": {
+        "adjective": ["animal", "child", "community"],
+        "verb + welfare": ["improve", "promote"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "practical or financial help that is provided, often by the government, for people or animals that need it",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The state is still the main provider of welfare."
+        },
+        {
+          "text": "child welfare"
+        },
+        {
+          "text": "a social welfare programme"
+        },
+        {
+          "text": "**welfare provision/services/work**"
+        },
+        {
+          "text": "There must be adequate welfare provision for people who are unable to work."
+        }
+      ],
+      "topics": ["Social issues"],
+      "collocations": {
+        "adjective": ["state", "social"],
+        "verb + welfare": ["collect", "receive", "leave"],
+        "welfare + noun": ["state", "agency", "authorities"],
+        "preposition": ["on welfare"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "money that the government pays regularly to people who are poor, unemployed, sick, etc.",
+      "sensetop": "on welfare",
+      "labels": "(especially North American English)British English usually(British English)(British English)(British English)(especially British English)(Australian English, New Zealand English, South African English)(British English)(both British English)(British English, informal)(British English, informal)(North American English)(North American English)(North American English)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "They would rather work than live on welfare.",
+          "contextForm": "on welfare"
+        },
+        {
+          "text": "financial incentives to leave welfare"
+        },
+        {
+          "text": "The new government promised to clamp down on welfare fraud."
+        },
+        {
+          "text": "The welfare check never went far enough."
+        },
+        {
+          "text": "lone parents living on welfare benefits"
+        },
+        {
+          "text": "the number of families on welfare"
+        }
+      ],
+      "topics": ["Social issues", "Money"],
+      "collocations": {
+        "adjective": ["state", "social"],
+        "verb + welfare": ["collect", "receive", "leave"],
+        "welfare + noun": ["state", "agency", "authorities"],
+        "preposition": ["on welfare"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈwelfeə(r)/",
+        "audio": "we/welfare/welfare__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈwelfer/",
+        "audio": "we/welfare/welfare__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from the adverb well + the verb fare."
+}

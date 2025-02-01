@@ -1,0 +1,107 @@
+{
+  "term": "cue",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "image": "data/images/ho/hobbies_darts_pool.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "an action or event that is a signal for somebody to do something",
+      "sensetop": "cue (for something)cue to do something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Jon's arrival was a cue for more champagne.",
+          "contextForm": "cue (for something)"
+        },
+        {
+          "text": "I think that's my cue to explain why I'm here.",
+          "contextForm": "cue to do something"
+        },
+        {
+          "text": "Her husband took his cue, and said that it was time for them to leave."
+        },
+        {
+          "text": "This remark provided the cue for the crowd to start jeering."
+        },
+        {
+          "text": "This was the cue for her to come into the room."
+        }
+      ],
+      "collocations": {
+        "adjective": ["visual"],
+        "verb + cue": ["wait for", "follow", "take"],
+        "preposition": ["on cue", "cue for"],
+        "phrases": ["right on cue", "take your cue from somebody/​something"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a few words or an action in a play that is a signal for another actor to do something",
+      "sensetop": "cue (to do something)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "She stood in the wings and waited for her cue to go on."
+        },
+        {
+          "text": "He had not yet been given the cue to go on to the stage."
+        }
+      ],
+      "topics": ["Film and theatre"],
+      "collocations": {
+        "adjective": ["visual"],
+        "verb + cue": ["wait for", "follow", "take"],
+        "preposition": ["on cue", "cue for"],
+        "phrases": ["right on cue", "take your cue from somebody/​something"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a long wooden stick with a leather tip, used for hitting the ball in the games of billiards, pool and snooker",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Sports: other sports"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "at exactly the moment you expect or that is appropriate",
+      "examples": [
+        {
+          "text": "‘Where is that boy?’ As if on cue, Simon appeared in the doorway."
+        },
+        {
+          "text": "I can't just cry on cue!"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to copy what somebody else does as an example of how to behave or what to do",
+      "examples": [
+        {
+          "text": "Investors are taking their cue from the big banks and selling dollars."
+        },
+        {
+          "text": "They all took their cue from their leader."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kjuː/",
+        "audio": "cu/cue/cue__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kjuː/",
+        "audio": "cu/cue/cue__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "noun senses 1 to 2 mid 16th cent.: of unknown origin. noun sense 3 mid 18th cent. (denoting a long plait or pigtail): variant of queue."
+}

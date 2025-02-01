@@ -1,0 +1,67 @@
+{
+  "term": "operational",
+  "partOfSpeech": "adjective",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "connected with the way in which a business, machine, system, etc. works",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "operational activities/costs/difficulties"
+        }
+      ],
+      "topics": ["Business"],
+      "collocations": {
+        "verbs": ["be", "become", "remain"],
+        "adverb": ["fully"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "ready or available to be used",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The new airport is now **fully operational**."
+        },
+        {
+          "text": "The weapon system was declared operational in June."
+        },
+        {
+          "text": "They plan to keep the telescope operational until the end of the decade."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be", "become", "remain"],
+        "adverb": ["fully"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "connected with a military operation",
+      "examples": [
+        {
+          "text": "operational headquarters"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌɒpəˈreɪʃənl/",
+        "audio": "op/operational/operational__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌɑːpəˈreɪʃənl/",
+        "audio": "op/operational/operational__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

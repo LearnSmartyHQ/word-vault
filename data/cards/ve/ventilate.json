@@ -1,0 +1,85 @@
+{
+  "term": "ventilate",
+  "partOfSpeech": "verb",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "ventilate",
+      "heSheIt": "ventilates"
+    },
+    "pastSimple": "ventilated",
+    "pastParticiple": "ventilated",
+    "ingForm": "ventilating"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to allow fresh air to enter and move around a room, building, etc.",
+      "sensetop": "be ventilated (by something)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The bathroom is ventilated by means of an extractor fan.",
+          "contextForm": "be ventilated (by something)"
+        },
+        {
+          "text": "The building is naturally ventilated."
+        },
+        {
+          "text": "a well-ventilated room"
+        }
+      ],
+      "topics": ["Buildings"],
+      "collocations": {
+        "adverb": ["adequately", "properly", "well"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to express your feelings or opinions publicly",
+      "sensetop": "ventilate something",
+      "labels": "(formal)",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Opinion and argument"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈventɪleɪt/",
+        "audio": "ve/ventilate/ventilate__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈventɪleɪts/",
+        "audio": "ve/ventilate/ventilates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈventɪleɪtɪd/",
+        "audio": "ve/ventilate/ventilated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈventɪleɪtɪŋ/",
+        "audio": "ve/ventilate/ventilating__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈventɪleɪt/",
+        "audio": "ve/ventilate/ventilate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈventɪleɪts/",
+        "audio": "ve/ventilate/ventilates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈventɪleɪtɪd/",
+        "audio": "ve/ventilate/ventilated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈventɪleɪtɪŋ/",
+        "audio": "ve/ventilate/ventilating__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the sense ‘winnow, scatter’): from Latin ventilat- ‘blown, winnowed’, from the verb ventilare, from ventus ‘wind’. Sense 1 dates from the mid 18th cent."
+}

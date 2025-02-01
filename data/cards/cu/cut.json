@@ -1,0 +1,539 @@
+{
+  "term": "cut",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "cut",
+      "heSheIt": "cuts"
+    },
+    "pastSimple": "cut",
+    "pastParticiple": "cut",
+    "ingForm": "cutting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to make an opening or a wound in something, especially with a sharp tool such as a knife or scissors",
+      "sensetop": "cut somethingcut somebody/yourselfcut something + adj.cut into somethingcut through something",
+      "labels": "(figurative)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She cut her finger on a piece of glass.",
+          "contextForm": "cut something"
+        },
+        {
+          "text": "He cut himself *(= his face)* shaving.",
+          "contextForm": "cut somebody/yourself"
+        },
+        {
+          "text": "Sometimes people experiencing distress cut themselves *(= deliberately)*."
+        },
+        {
+          "text": "She had fallen and **cut** her head **open**.",
+          "contextForm": "cut something + adj."
+        },
+        {
+          "text": "She picked up the knife and cut into the meat.",
+          "contextForm": "cut into something"
+        },
+        {
+          "text": "You need a powerful saw to cut through metal.",
+          "contextForm": "cut through something"
+        },
+        {
+          "text": "The canoe cut through the water."
+        }
+      ],
+      "topics": ["Health problems"],
+      "collocations": {
+        "adverb": ["thick", "thinly", "cleanly"],
+        "preposition": ["from", "into", "off"],
+        "phrases": [
+          "cut and paste",
+          "cut somebody/​something free",
+          "cut somebody/​something loose"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to divide something into two or more pieces with a knife, etc.",
+      "sensetop": "cut somethingcut something into something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Don't cut the string—untie the knots.",
+          "contextForm": "cut something"
+        },
+        {
+          "text": "The bus **was cut in two** by the train."
+        },
+        {
+          "text": "Now **cut** the tomatoes **in half**."
+        },
+        {
+          "text": "He cut the loaf into thick slices.",
+          "contextForm": "cut something into something"
+        },
+        {
+          "text": "She cut the loaf in two and gave me one of the halves."
+        },
+        {
+          "text": "Make sure you cut the bread nice and thick."
+        },
+        {
+          "text": "I'll cut the apple in half."
+        },
+        {
+          "text": "He cut the bread into thin slices."
+        },
+        {
+          "text": "She cut the cake into six pieces."
+        },
+        {
+          "text": "Cut the carrots in half lengthwise."
+        },
+        {
+          "text": "Cut the courgette in half lengthways."
+        },
+        {
+          "text": "Cut the stem cleanly, just beneath a leaf joint."
+        }
+      ],
+      "collocations": {
+        "adverb": ["thick", "thinly", "cleanly"],
+        "preposition": ["from", "into", "off"],
+        "phrases": [
+          "cut and paste",
+          "cut somebody/​something free",
+          "cut somebody/​something loose"
+        ]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to make something shorter by cutting",
+      "sensetop": "cut somethingcut something + adj.",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She **cuts hair** for a living.",
+          "contextForm": "cut something"
+        },
+        {
+          "text": "to cut the grass/lawn/hedge"
+        },
+        {
+          "text": "the smell of freshly cut grass"
+        },
+        {
+          "text": "He's **had his hair cut** really short.",
+          "contextForm": "cut something + adj."
+        },
+        {
+          "text": "I'm going to get/​have my hair cut really short."
+        },
+        {
+          "text": "Her hair had been very well cut."
+        },
+        {
+          "text": "I told the stylist I wanted my hair cut short."
+        }
+      ],
+      "collocations": {
+        "adverb": ["thick", "thinly", "cleanly"],
+        "preposition": ["from", "into", "off"],
+        "phrases": [
+          "cut and paste",
+          "cut somebody/​something free",
+          "cut somebody/​something loose"
+        ]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to remove something or a part of something, using a knife, etc.",
+      "sensetop": "cut somethingcut something from somethingcut somebody somethingcut something for somebody",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "First, cut a long piece of string.",
+          "contextForm": "cut something"
+        },
+        {
+          "text": "He cut four thick slices from the loaf.",
+          "contextForm": "cut something from something"
+        },
+        {
+          "text": "a bunch of cut flowers"
+        },
+        {
+          "text": "I cut them all a piece of birthday cake.",
+          "contextForm": "cut somebody something"
+        },
+        {
+          "text": "I cut a piece of birthday cake for them all.",
+          "contextForm": "cut something for somebody"
+        },
+        {
+          "text": "freshly cut flowers"
+        },
+        {
+          "text": "Shall I cut you a piece of cake?"
+        }
+      ],
+      "collocations": {
+        "adverb": ["thick", "thinly", "cleanly"],
+        "preposition": ["from", "into", "off"],
+        "phrases": [
+          "cut and paste",
+          "cut somebody/​something free",
+          "cut somebody/​something loose"
+        ]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to make or form something by removing material with a knife, etc.",
+      "sensetop": "cut something in somethingcut something into somethingcut something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Workmen **cut a hole** in the pipe.",
+          "contextForm": "cut something in something"
+        },
+        {
+          "text": "The climbers cut steps in the ice."
+        },
+        {
+          "text": "home-made biscuits cut into heart shapes",
+          "contextForm": "cut something into something"
+        },
+        {
+          "text": "Cut a circle of waxed paper to fit the bottom of the pan.",
+          "contextForm": "cut something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["thick", "thinly", "cleanly"],
+        "preposition": ["from", "into", "off"],
+        "phrases": [
+          "cut and paste",
+          "cut somebody/​something free",
+          "cut somebody/​something loose"
+        ]
+      }
+    },
+    {
+      "senseNumber": 6,
+      "definition": "to be capable of cutting",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "This knife won't cut."
+        }
+      ]
+    },
+    {
+      "senseNumber": 7,
+      "definition": "to be capable of being cut",
+      "examples": [
+        {
+          "text": "Sandstone cuts easily."
+        }
+      ]
+    },
+    {
+      "senseNumber": 8,
+      "definition": "to reduce something by removing a part of it",
+      "sensetop": "cut somethingcut something by…cut something to…cut something from… to…",
+      "labels": "especially North American EnglishBritish English",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **cut costs/prices/spending/taxes**",
+          "contextForm": "cut something"
+        },
+        {
+          "text": "Buyers will bargain hard to **cut the cost of** the house they want."
+        },
+        {
+          "text": "a plan to drastically **cut emissions**"
+        },
+        {
+          "text": "His salary has been cut by ten per cent.",
+          "contextForm": "cut something by…"
+        },
+        {
+          "text": "The Bank of England has **cut interest rates** to 1.5 per cent.",
+          "contextForm": "cut something to…"
+        },
+        {
+          "text": "Could you cut your essay from 5 000 to 3 000 words?",
+          "contextForm": "cut something from… to…"
+        },
+        {
+          "text": "We have managed to cut our costs drastically."
+        },
+        {
+          "text": "The department has to cut its spending by 30 per cent."
+        },
+        {
+          "text": "The price has been cut from €250 to €175."
+        },
+        {
+          "text": "The President has promised to cut taxes significantly."
+        }
+      ],
+      "topics": ["Money"],
+      "collocations": {
+        "adverb": ["considerably", "dramatically", "drastically"],
+        "verb + cut": ["try to", "manage to", "be forced to"],
+        "preposition": ["by", "from", "to"]
+      }
+    },
+    {
+      "senseNumber": 9,
+      "definition": "to allow somebody to escape from somewhere by cutting the rope, object, etc. that is holding them",
+      "sensetop": "cut somebody (from something)cut somebody + adj.",
+      "examples": [
+        {
+          "text": "The injured driver had to be cut from the wreckage.",
+          "contextForm": "cut somebody (from something)"
+        },
+        {
+          "text": "Two survivors were **cut free** after being trapped for twenty minutes.",
+          "contextForm": "cut somebody + adj."
+        }
+      ],
+      "collocations": {
+        "adverb": ["thick", "thinly", "cleanly"],
+        "preposition": ["from", "into", "off"],
+        "phrases": [
+          "cut and paste",
+          "cut somebody/​something free",
+          "cut somebody/​something loose"
+        ]
+      }
+    },
+    {
+      "senseNumber": 10,
+      "definition": "to design and make a piece of clothing in a particular way",
+      "sensetop": "be cut + adj.",
+      "examples": [
+        {
+          "text": "The swimsuit was cut high in the leg.",
+          "contextForm": "be cut + adj."
+        }
+      ],
+      "collocations": {
+        "adverb": ["thick", "thinly", "cleanly"],
+        "preposition": ["from", "into", "off"],
+        "phrases": [
+          "cut and paste",
+          "cut somebody/​something free",
+          "cut somebody/​something loose"
+        ]
+      }
+    },
+    {
+      "senseNumber": 11,
+      "definition": "to remove something from something",
+      "sensetop": "cut something (from something)",
+      "examples": [
+        {
+          "text": "This scene was cut from the final version of the movie."
+        }
+      ]
+    },
+    {
+      "senseNumber": 12,
+      "definition": "to delete (= remove) part of a text on a computer screen in order to place it somewhere else",
+      "sensetop": "cut (something)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "You can **cut and paste** between different programs."
+        }
+      ],
+      "topics": ["Computers"]
+    },
+    {
+      "senseNumber": 13,
+      "definition": "used to tell somebody to stop doing something",
+      "sensetop": "cut something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Cut the chatter and get on with your work!"
+        }
+      ]
+    },
+    {
+      "senseNumber": 14,
+      "definition": "to completely end a relationship or all communication with somebody",
+      "sensetop": "cut something",
+      "examples": [
+        {
+          "text": "She has cut all ties with her family."
+        },
+        {
+          "text": "He has refused to cut links with these companies."
+        }
+      ]
+    },
+    {
+      "senseNumber": 15,
+      "definition": "to prepare a film or tape by removing parts of it or putting them in a different order",
+      "sensetop": "cut something",
+      "cefr": "c1",
+      "examples": [],
+      "topics": ["Film and theatre"]
+    },
+    {
+      "senseNumber": 16,
+      "definition": "to stop filming or recording",
+      "examples": [
+        {
+          "text": "The director shouted ‘Cut!’"
+        }
+      ]
+    },
+    {
+      "senseNumber": 17,
+      "definition": "to move quickly from one scene to another",
+      "sensetop": "cut (from something) to something",
+      "examples": [
+        {
+          "text": "The scene cuts from the bedroom to the street."
+        }
+      ]
+    },
+    {
+      "senseNumber": 18,
+      "definition": "to stay away from a class that you should go to",
+      "sensetop": "cut something",
+      "labels": "(informal, especially North American English)",
+      "examples": [
+        {
+          "text": "He's always **cutting class**."
+        }
+      ]
+    },
+    {
+      "senseNumber": 19,
+      "definition": "to hurt somebody emotionally",
+      "sensetop": "cut somebody",
+      "examples": [
+        {
+          "text": "His cruel remarks cut her deeply."
+        }
+      ]
+    },
+    {
+      "senseNumber": 20,
+      "definition": "to divide a pack of playing cards by lifting a section from the top, in order to reveal a card to decide who is to play first, etc.",
+      "sensetop": "cut (something)",
+      "examples": [
+        {
+          "text": "Let's cut for dealer."
+        }
+      ]
+    },
+    {
+      "senseNumber": 21,
+      "definition": "to cross another line",
+      "sensetop": "cut something",
+      "examples": [
+        {
+          "text": "The line cuts the circle at two points."
+        }
+      ]
+    },
+    {
+      "senseNumber": 22,
+      "definition": "to have a new tooth beginning to appear through the gum",
+      "sensetop": "cut a tooth",
+      "examples": [
+        {
+          "text": "When did she cut her first tooth?"
+        }
+      ]
+    },
+    {
+      "senseNumber": 23,
+      "definition": "to make a sound recording on a record, CD, etc.",
+      "sensetop": "cut a disc, etc.",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The Beatles cut their first disc in 1962."
+        }
+      ],
+      "topics": ["Music"]
+    },
+    {
+      "senseNumber": 24,
+      "definition": "to mix an illegal drug such as heroin with another substance",
+      "sensetop": "cut something (with something)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to make a quick or sudden escape",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to (not) be as good as is expected or needed",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "He won't cut it as a professional singer."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kʌt/",
+        "audio": "cu/cut/cut__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kʌts/",
+        "audio": "cu/cut/cuts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkʌtɪŋ/",
+        "audio": "cu/cut/cutting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kʌt/",
+        "audio": "cu/cut/cut__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kʌts/",
+        "audio": "cu/cut/cuts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkʌtɪŋ/",
+        "audio": "cu/cut/cutting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (probably existing, although not recorded, in Old English); probably of Germanic origin and related to Norwegian kutte and Icelandic kuta ‘cut with a small knife’, kuti ‘small blunt knife’."
+}

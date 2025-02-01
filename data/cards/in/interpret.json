@@ -1,0 +1,185 @@
+{
+  "term": "interpret",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "interpret",
+      "heSheIt": "interprets"
+    },
+    "pastSimple": "interpreted",
+    "pastParticiple": "interpreted",
+    "ingForm": "interpreting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to explain the meaning of something",
+      "sensetop": "interpret something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The students were asked to interpret the poem."
+        },
+        {
+          "text": "The **data** can be **interpreted** in many different ways."
+        },
+        {
+          "text": "These **results** must be **interpreted** cautiously."
+        },
+        {
+          "text": "judges who will faithfully interpret the Constitution"
+        },
+        {
+          "text": "These figures cannot be easily interpreted."
+        },
+        {
+          "text": "We all seek to interpret what we hear and what we read."
+        },
+        {
+          "text": "The figure of the Ancient Mariner has been variously interpreted."
+        }
+      ],
+      "collocations": {
+        "adverb": ["accurately", "correctly", "properly"],
+        "verb + interpret": ["be difficult to", "be hard to", "be able to"],
+        "preposition": ["as"],
+        "phrases": [
+          "be interpreted to mean something",
+          "be variously interpreted (as something)",
+          "be widely interpreted as something"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to decide that something has a particular meaning and to understand it in this way",
+      "sensetop": "interpret something as somethinginterpret something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I didn't know whether to interpret her silence as acceptance or refusal.",
+          "contextForm": "interpret something as something"
+        },
+        {
+          "text": "The research focused on how parents interpret the behaviour of their toddlers.",
+          "contextForm": "interpret something"
+        },
+        {
+          "text": "Different people might interpret events differently."
+        },
+        {
+          "text": "The title could be interpreted to mean ‘human intelligence’."
+        },
+        {
+          "text": "The term ‘business’ is here interpreted broadly to include all types of organization in the public and private sectors."
+        },
+        {
+          "text": "Her message was interpreted as a warning to the general."
+        },
+        {
+          "text": "His resignation has been widely interpreted as an admission of his guilt."
+        },
+        {
+          "text": "The strictness of the rules, even when liberally interpreted, has the effect of restricting innovation."
+        },
+        {
+          "text": "It is context and convention that determine whether a term will be interpreted literally or metaphorically."
+        }
+      ],
+      "collocations": {
+        "adverb": ["accurately", "correctly", "properly"],
+        "verb + interpret": ["be difficult to", "be hard to", "be able to"],
+        "preposition": ["as"],
+        "phrases": [
+          "be interpreted to mean something",
+          "be variously interpreted (as something)",
+          "be widely interpreted as something"
+        ]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to translate one language into another as it is spoken",
+      "sensetop": "interpret for somebodyinterpret something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He took me with him to interpret in case no one spoke English."
+        },
+        {
+          "text": "She couldn't speak much English so her children had to interpret for her.",
+          "contextForm": "interpret for somebody"
+        },
+        {
+          "text": "Interpreters must interpret everything that is said in the interaction.",
+          "contextForm": "interpret something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["accurately", "correctly", "properly"],
+        "verb + interpret": ["be difficult to", "be hard to", "be able to"],
+        "preposition": ["as"],
+        "phrases": [
+          "be interpreted to mean something",
+          "be variously interpreted (as something)",
+          "be widely interpreted as something"
+        ]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to perform a piece of music, a role in a play, etc. in a way that shows your feelings about its meaning",
+      "sensetop": "interpret something",
+      "examples": [
+        {
+          "text": "He interpreted the role with a lot of humour."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈtɜːprət/",
+        "audio": "in/interpret/interpret__gb_3.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtɜːprəts/",
+        "audio": "in/interpret/interprets__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtɜːprətɪd/",
+        "audio": "in/interpret/interpreted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtɜːprətɪŋ/",
+        "audio": "in/interpret/interpreting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈtɜːrprət/",
+        "audio": "in/interpret/interpret__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtɜːrprəts/",
+        "audio": "in/interpret/interprets__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtɜːrprətɪd/",
+        "audio": "in/interpret/interpreted__us_2.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtɜːrprətɪŋ/",
+        "audio": "in/interpret/interpreting__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French interpreter or Latin interpretari ‘explain, translate’, from interpres, interpret- ‘agent, translator, interpreter’."
+}

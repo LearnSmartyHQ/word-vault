@@ -1,0 +1,186 @@
+{
+  "term": "resolve",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "resolve",
+      "heSheIt": "resolves"
+    },
+    "pastSimple": "resolved",
+    "pastParticiple": "resolved",
+    "ingForm": "resolving"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to find an acceptable solution to a problem or difficulty",
+      "sensetop": "resolve somethingresolve itself",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **resolve an issue/a dispute/a conflict/a crisis**",
+          "contextForm": "resolve something"
+        },
+        {
+          "text": "Attempts are being made to **resolve the problem** of security in schools."
+        },
+        {
+          "text": "Both sides met in order to try to **resolve their differences**."
+        },
+        {
+          "text": "We hope to **resolve the matter** as soon as possible."
+        },
+        {
+          "text": "Everything is being done to **resolve the situation**."
+        },
+        {
+          "text": "The dispute has not been **fully resolved**."
+        },
+        {
+          "text": "Be patient and the situation may resolve itself.",
+          "contextForm": "resolve itself"
+        },
+        {
+          "text": "The crisis was finally resolved through high-level negotiations."
+        },
+        {
+          "text": "The family feuding could resolve itself."
+        },
+        {
+          "text": "The matter is not yet fully resolved."
+        },
+        {
+          "text": "The two countries have failed to resolve their differences on this."
+        },
+        {
+          "text": "They met in a last-ditch attempt to resolve their differences."
+        },
+        {
+          "text": "We hope that the dispute can be resolved peacefully."
+        },
+        {
+          "text": "Fortunately, the issue has now been amicably resolved."
+        },
+        {
+          "text": "The UN was supposed to be a forum for resolving disputes by peaceful means."
+        },
+        {
+          "text": "The matter has never really been satisfactorily resolved."
+        },
+        {
+          "text": "The prime minister flew home immediately to try to resolve the crisis."
+        },
+        {
+          "text": "Where can ordinary people get help with resolving family problems?"
+        }
+      ],
+      "synonyms": "settle",
+      "topics": ["Discussion and agreement"],
+      "collocations": {
+        "adverb": ["completely", "fully", "partially"],
+        "verb + resolve": ["attempt to", "take steps to", "try to"],
+        "preposition": ["by", "through"],
+        "phrases": [
+          "an attempt to resolve something",
+          "an effort to resolve something",
+          "a means of resolving something"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to make a definite decision to do something",
+      "sensetop": "resolve to do somethingresolve (that)…resolve on doing something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "He resolved not to tell her the truth.",
+          "contextForm": "resolve to do something"
+        },
+        {
+          "text": "He resolved to do something to help the children he had met."
+        },
+        {
+          "text": "She resolved that she would never see him again.",
+          "contextForm": "resolve (that)…"
+        },
+        {
+          "text": "We had resolved on making an early start.",
+          "contextForm": "resolve on doing something"
+        }
+      ],
+      "topics": ["Preferences and decisions"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to reach a decision by means of a formal vote",
+      "sensetop": "it is resolved that…resolve that…resolve to do somethingresolve on something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "It was resolved that the matter be referred to a higher authority.",
+          "contextForm": "it is resolved that…"
+        },
+        {
+          "text": "They resolved that the matter be referred to a higher authority.",
+          "contextForm": "resolve that…"
+        },
+        {
+          "text": "The committee unanimously resolved that the party chairman should step down."
+        },
+        {
+          "text": "The Supreme Council resolved to resume control over the national press.",
+          "contextForm": "resolve to do something"
+        },
+        {
+          "text": "The board of directors has called a meeting to resolve on the merger.",
+          "contextForm": "resolve on something"
+        }
+      ],
+      "topics": ["Preferences and decisions"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈzɒlv/",
+        "audio": "re/resolve/resolve__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈzɒlvz/",
+        "audio": "re/resolve/resolves__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈzɒlvd/",
+        "audio": "re/resolve/resolved__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈzɒlvɪŋ/",
+        "audio": "re/resolve/resolving__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈzɑːlv/",
+        "audio": "re/resolve/resolve__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈzɑːlvz/",
+        "audio": "re/resolve/resolves__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈzɑːlvd/",
+        "audio": "re/resolve/resolved__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈzɑːlvɪŋ/",
+        "audio": "re/resolve/resolving__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the senses ‘dissolve, disintegrate’ and ‘solve (a problem)’): from Latin resolvere, from re- (expressing intensive force) + solvere ‘loosen’."
+}

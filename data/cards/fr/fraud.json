@@ -1,0 +1,63 @@
+{
+  "term": "fraud",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the crime of cheating somebody in order to get money or goods illegally",
+      "labels": "(British English)(North American English)(British English)(North American English)(especially British English)(especially British English)(especially North American English)(especially British English)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "She was charged with credit card fraud."
+        },
+        {
+          "text": "It was said that the property had been obtained by fraud."
+        },
+        {
+          "text": "He helped prevent a $100 million fraud."
+        }
+      ],
+      "topics": ["Crime and punishment"],
+      "collocations": {
+        "adjective": ["massive", "serious", "complex"],
+        "fraud + noun": ["squad", "case", "charge"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a person who pretends to have qualities, abilities, etc. that they do not really have in order to cheat other people",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "He's nothing but a liar and a fraud."
+        },
+        {
+          "text": "She felt a fraud accepting their sympathy *(= because she was not really sad)*."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "something that is not as good, useful, etc. as people claim it is",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/frɔːd/",
+        "audio": "fr/fraud/fraud__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/frɔːd/",
+        "audio": "fr/fraud/fraud__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French fraude, from Latin fraus, fraud- ‘deceit, injury’."
+}

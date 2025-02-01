@@ -1,0 +1,91 @@
+{
+  "term": "resume",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "resume",
+      "heSheIt": "resumes"
+    },
+    "pastSimple": "resumed",
+    "pastParticiple": "resumed",
+    "ingForm": "resuming"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "if you resume an activity, or if it resumes, it begins again or continues after being interrupted",
+      "sensetop": "resume (something)resume doing something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "to **resume talks/negotiations**",
+          "contextForm": "resume (something)"
+        },
+        {
+          "text": "She resumed her career after an interval of six years."
+        },
+        {
+          "text": "The noise resumed, louder than before."
+        },
+        {
+          "text": "There is no sign of the peace talks resuming."
+        },
+        {
+          "text": "He got back in the car and resumed driving.",
+          "contextForm": "resume doing something"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to go back to the seat or place that you had before",
+      "sensetop": "resume your seat/place/position",
+      "examples": [
+        {
+          "text": "He resumed his seat opposite her."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/rɪˈzjuːm/",
+        "audio": "re/resume/resume__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈzjuːmz/",
+        "audio": "re/resume/resumes__gb_3.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈzjuːmd/",
+        "audio": "re/resume/resumed__gb_3.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈzjuːmɪŋ/",
+        "audio": "re/resume/resuming__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/rɪˈzuːm/",
+        "audio": "re/resume/resume__us_1.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈzuːmz/",
+        "audio": "re/resume/resumes__us_2.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈzuːmd/",
+        "audio": "re/resume/resumed__us_2.mp3"
+      },
+      {
+        "pronunciation": "/rɪˈzuːmɪŋ/",
+        "audio": "re/resume/resuming__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

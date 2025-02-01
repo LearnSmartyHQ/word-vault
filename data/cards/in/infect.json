@@ -1,0 +1,106 @@
+{
+  "term": "infect",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "infect",
+      "heSheIt": "infects"
+    },
+    "pastSimple": "infected",
+    "pastParticiple": "infected",
+    "ingForm": "infecting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to make a disease or an illness spread to a person, an animal or a plant",
+      "sensetop": "infect somebody/something (with something)(be) infected with something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "It is not possible to infect another person through kissing.",
+          "contextForm": "infect somebody/something (with something)"
+        },
+        {
+          "text": "people infected with the virus",
+          "contextForm": "(be) infected with something"
+        }
+      ],
+      "topics": ["Health problems"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to make a substance contain harmful bacteria that can spread disease",
+      "sensetop": "be infected (with something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The eggs were infected with salmonella.",
+          "contextForm": "be infected (with something)"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to make a computer virus spread to another computer or program",
+      "sensetop": "infect something (with something)",
+      "cefr": "c1",
+      "examples": [],
+      "topics": ["Computers"]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to make somebody share a particular feeling",
+      "sensetop": "infect somebody (with something)",
+      "examples": [
+        {
+          "text": "She infected the children with her enthusiasm for music."
+        },
+        {
+          "text": "The whole room was soon infected by his laughter."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈfekt/",
+        "audio": "in/infect/infect__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈfekts/",
+        "audio": "in/infect/infects__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈfektɪd/",
+        "audio": "in/infect/infected__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈfektɪŋ/",
+        "audio": "in/infect/infecting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈfekt/",
+        "audio": "in/infect/infect__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈfekts/",
+        "audio": "in/infect/infects__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈfektɪd/",
+        "audio": "in/infect/infected__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈfektɪŋ/",
+        "audio": "in/infect/infecting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin infect- ‘tainted’, from the verb inficere, from in- ‘into’ + facere ‘put, do’."
+}

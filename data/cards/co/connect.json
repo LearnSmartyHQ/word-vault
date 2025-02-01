@@ -1,0 +1,240 @@
+{
+  "term": "connect",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "connect",
+      "heSheIt": "connects"
+    },
+    "pastSimple": "connected",
+    "pastParticiple": "connected",
+    "ingForm": "connecting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to join together two or more things; to be joined together",
+      "sensetop": "connect A and Bconnect A to Bconnect A with B",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The towns are connected by train and bus services.",
+          "contextForm": "connect A and B"
+        },
+        {
+          "text": "The island is connected to the mainland by a bridge.",
+          "contextForm": "connect A to B"
+        },
+        {
+          "text": "The canal was built to connect Sheffield with the Humber estuary.",
+          "contextForm": "connect A with B"
+        },
+        {
+          "text": "The rooms on this floor connect."
+        },
+        {
+          "text": "a connecting door *(= one that connects two rooms)*"
+        },
+        {
+          "text": "A corridor connects his office with the main building."
+        },
+        {
+          "text": "The canal was built to connect the city with the port."
+        },
+        {
+          "text": "The two bedrooms connect."
+        },
+        {
+          "text": "There is a connecting door between the two bedrooms."
+        },
+        {
+          "text": "There were buses that connected the two villages not only to each other but also with the city."
+        }
+      ],
+      "collocations": {
+        "adverb": ["directly", "physically", "remotely"],
+        "preposition": ["to", "with"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to join something to the main supply of electricity, gas, water, etc. or to another piece of equipment",
+      "sensetop": "connect somethingconnect something to something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We're waiting for the broadband to be connected.",
+          "contextForm": "connect something"
+        },
+        {
+          "text": "First connect the printer to the computer.",
+          "contextForm": "connect something to something"
+        },
+        {
+          "text": "Connect the machine to the power supply."
+        },
+        {
+          "text": "Downstairs toilets were connected directly to the drains."
+        }
+      ],
+      "topics": ["Engineering"],
+      "collocations": {
+        "adverb": ["directly", "physically", "remotely"],
+        "preposition": ["to", "with"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to join a computer or a mobile device to the internet or to a computer network",
+      "sensetop": "connect to somethingconnect somethingconnect something to something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The device can be hooked up to a mobile phone to connect wirelessly."
+        },
+        {
+          "text": "Click ‘Continue’ to **connect to the internet**.",
+          "contextForm": "connect to something"
+        },
+        {
+          "text": "My phone keeps refusing to connect to the Wi-Fi."
+        },
+        {
+          "text": "The system harnesses the processing power of many computers connected by a high-speed network.",
+          "contextForm": "connect something"
+        },
+        {
+          "text": "Simply connect your device to the camera's Wi-Fi signal.",
+          "contextForm": "connect something to something"
+        },
+        {
+          "text": "Many guests leave their laptops **connected to the** hotel **network** when they're not in their rooms."
+        }
+      ],
+      "topics": ["Phones, email and the internet", "Computers"],
+      "collocations": {
+        "adverb": ["directly", "physically", "remotely"],
+        "preposition": ["to", "with"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to notice or make a link between people, things, events, etc.",
+      "sensetop": "connect A and Bconnect A with/to B",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I was surprised to hear them mentioned together: I had never connected them before.",
+          "contextForm": "connect A and B"
+        },
+        {
+          "text": "I found it hard to connect the two ideas in my mind."
+        },
+        {
+          "text": "There was nothing to connect him with the crime.",
+          "contextForm": "connect A with/to B"
+        },
+        {
+          "text": "He made a statement connecting the terrorist group to the attack."
+        }
+      ],
+      "collocations": {
+        "adverb": ["closely", "inextricably", "intimately"],
+        "preposition": ["to", "with"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to arrive just before another one leaves so that passengers can change from one to the other",
+      "sensetop": "connect (with something)",
+      "examples": [
+        {
+          "text": "His flight to Amsterdam connects with an afternoon flight to New York."
+        },
+        {
+          "text": "There's a connecting flight at noon."
+        }
+      ]
+    },
+    {
+      "senseNumber": 6,
+      "definition": "to put somebody in contact by phone",
+      "sensetop": "connect somebody (to somebody/something)",
+      "examples": [
+        {
+          "text": "After a long wait I was connected to customer services."
+        }
+      ],
+      "collocations": {
+        "adverb": ["directly", "physically", "remotely"],
+        "preposition": ["to", "with"]
+      }
+    },
+    {
+      "senseNumber": 7,
+      "definition": "to form a good relationship with somebody so that you like and understand each other",
+      "sensetop": "connect (with somebody)",
+      "examples": [
+        {
+          "text": "They met a couple of times but they didn't really connect."
+        }
+      ]
+    },
+    {
+      "senseNumber": 8,
+      "definition": "to hit somebody/something",
+      "sensetop": "connect (with somebody/something)",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The blow connected and she felt a surge of pain."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəˈnekt/",
+        "audio": "xc/connect/xconnect__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈnekts/",
+        "audio": "xc/connect/xconnects__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈnektɪd/",
+        "audio": "xc/connect/xconnected__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/kəˈnektɪŋ/",
+        "audio": "xc/connect/xconnecting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəˈnekt/",
+        "audio": "xc/connect/xconnect__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈnekts/",
+        "audio": "xc/connect/xconnects__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈnektɪd/",
+        "audio": "xc/connect/xconnected__us_2.mp3"
+      },
+      {
+        "pronunciation": "/kəˈnektɪŋ/",
+        "audio": "xc/connect/xconnecting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the sense ‘be united physically’; rare before the 18th cent.): from Latin connectere, from con- ‘together’ + nectere ‘bind’."
+}

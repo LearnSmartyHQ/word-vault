@@ -1,0 +1,198 @@
+{
+  "term": "needle",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b1",
+  "image": "data/images/ro/rope_thread_string.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a small thin piece of steel that you use for sewing, with a point at one end and a hole for the thread at the other",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **needle and thread**"
+        },
+        {
+          "text": "the eye *(= hole)* of a needle"
+        },
+        {
+          "text": "Can you thread this needle?"
+        },
+        {
+          "text": "a packet of fine needles"
+        },
+        {
+          "text": "She sewed it on with needle and thread."
+        },
+        {
+          "text": "The needle went in easily."
+        },
+        {
+          "text": "Thread the needle with a different coloured silk."
+        }
+      ],
+      "collocations": {
+        "adjective": ["long", "blunt", "sharp"],
+        "verb + needle": ["use", "thread"],
+        "needle + verb": ["prick somebody/​something"],
+        "phrases": [
+          "the eye of a needle",
+          "needle and thread",
+          "a needle in a haystack"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a long thin piece of plastic or metal with a point at one end that you use for knitting. You usually use two together.",
+      "examples": [
+        {
+          "text": "Vera's knitting needles clicked away."
+        },
+        {
+          "text": "a circular needle"
+        },
+        {
+          "text": "a needle holding two stitches"
+        }
+      ],
+      "collocations": {
+        "adjective": ["long", "blunt", "sharp"],
+        "verb + needle": ["use", "thread"],
+        "needle + verb": ["prick somebody/​something"],
+        "phrases": [
+          "the eye of a needle",
+          "needle and thread",
+          "a needle in a haystack"
+        ]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a very thin, pointed piece of steel used on the end of a syringe for putting a drug into somebody’s body, or for taking blood out of it",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **hypodermic needle**"
+        },
+        {
+          "text": "a needle inserted into the abdomen"
+        },
+        {
+          "text": "Using dirty needles was a significant factor in the spread of the disease."
+        },
+        {
+          "text": "He believes that needle exchange schemes encourage drug addiction."
+        },
+        {
+          "text": "He saw her stick a needle into her arm."
+        },
+        {
+          "text": "She winced when she felt the needle pierce her skin."
+        },
+        {
+          "text": "needle exchange programs"
+        },
+        {
+          "text": "the dangers of sharing needles"
+        },
+        {
+          "text": "A long needle is used to take a sample of the tumour."
+        }
+      ],
+      "topics": ["Healthcare"],
+      "collocations": {
+        "adjective": ["hypodermic", "syringe", "injection"],
+        "verb + needle": ["inject", "insert", "jab (somebody with)"],
+        "needle + verb": ["go in", "pierce something"],
+        "needle + noun": ["tip", "exchange", "biopsy"],
+        "phrases": ["the prick of a needle"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a thin piece of metal on a scientific instrument that moves to point to the correct measurement or direction",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The compass needle was pointing north."
+        },
+        {
+          "text": "The needle moved away from the wind."
+        },
+        {
+          "text": "Wait until the needle settles and is pointing in one direction."
+        }
+      ],
+      "collocations": {
+        "adjective": ["magnetic", "compass"],
+        "needle + verb": ["move", "point"],
+        "phrases": ["the needle of a compass"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "the thin, hard, pointed leaf of a pine tree",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "A soft blanket of **pine needles** covered the forest floor."
+        }
+      ],
+      "topics": ["Plants and trees"],
+      "collocations": {
+        "adjective": ["conifer", "pine"],
+        "verb + needle": ["drop", "lose"]
+      }
+    },
+    {
+      "senseNumber": 6,
+      "definition": "the very small pointed piece of metal that touches a record that is being played in order to produce the sound",
+      "examples": [
+        {
+          "text": "She lowered the needle onto the record."
+        },
+        {
+          "text": "The gramophone needle stuck in a groove."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "(to be) very anxious or excited while you are waiting to find out something or see what will happen",
+      "examples": [
+        {
+          "text": "I've been on pins and needles all week waiting for the results."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "a thing that is almost impossible to find",
+      "examples": [
+        {
+          "text": "Searching for one man in this city is like looking for a needle in a haystack."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈniːdl/",
+        "audio": "ne/needle/needle__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈniːdl/",
+        "audio": "ne/needle/needle__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English nǣdl, of Germanic origin; related to Dutch naald and German Nadel, from an Indo-European root shared by Latin nere ‘to spin’ and Greek nēma ‘thread’."
+}

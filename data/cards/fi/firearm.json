@@ -1,0 +1,47 @@
+{
+  "term": "firearm",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a gun that can be carried",
+      "examples": [
+        {
+          "text": "The police were issued with firearms."
+        },
+        {
+          "text": "The police charged her with possessing a firearm with intent to endanger life."
+        },
+        {
+          "text": "The police charged her with possessing an illegal firearm."
+        },
+        {
+          "text": "new army recruits learning how to handle firearms"
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adjective": ["imitation", "replica", "unlicensed"],
+        "verb + firearm": ["be in possession of", "own", "possess"],
+        "firearms + noun": ["training", "enthusiast", "expert"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfaɪərɑːm/",
+        "audio": "fi/firearm/firearm__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfaɪərɑːrm/",
+        "audio": "fi/firearm/firearm__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

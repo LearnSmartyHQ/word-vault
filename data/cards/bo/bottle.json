@@ -1,0 +1,156 @@
+{
+  "term": "bottle",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/pa/packaging.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a glass or plastic container, usually round with straight sides and a narrow neck, used especially for storing liquids",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **wine/beer/milk/water bottle**"
+        },
+        {
+          "text": "Put the top back on the bottle."
+        },
+        {
+          "text": "a plastic/glass bottle"
+        },
+        {
+          "text": "To open the bottle, you twist and pull out the stopper."
+        },
+        {
+          "text": "He threw his **message in a bottle** into the North Sea."
+        },
+        {
+          "text": "She filled the bottle with water."
+        },
+        {
+          "text": "a crowd of youths throwing bottles and stones"
+        },
+        {
+          "text": "Several bags of broken glass bottles were collected."
+        },
+        {
+          "text": "He threw his empty bottle in the recycling bin."
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adjective": ["full", "empty", "broken"],
+        "verb + bottle": ["fill", "empty", "open"],
+        "bottle + noun": ["cap", "top", "opener"],
+        "preposition": ["over a/​the bottle", "bottle of"],
+        "phrases": ["be on the bottle", "hit the bottle", "take to the bottle"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the amount contained in a bottle",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We drank a whole bottle of wine."
+        },
+        {
+          "text": "She handed me a bottle of water."
+        },
+        {
+          "text": "We discussed the problem over a bottle of wine."
+        },
+        {
+          "text": "We washed the food down with a bottle of cheap red wine."
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adjective": ["full", "empty", "broken"],
+        "verb + bottle": ["fill", "empty", "open"],
+        "bottle + noun": ["cap", "top", "opener"],
+        "preposition": ["over a/​the bottle", "bottle of"],
+        "phrases": ["be on the bottle", "hit the bottle", "take to the bottle"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "alcoholic drink",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "After his wife died, he really **hit the bottle** *(= started drinking heavily)*."
+        }
+      ],
+      "collocations": {
+        "adjective": ["full", "empty", "broken"],
+        "verb + bottle": ["fill", "empty", "open"],
+        "bottle + noun": ["cap", "top", "opener"],
+        "preposition": ["over a/​the bottle", "bottle of"],
+        "phrases": ["be on the bottle", "hit the bottle", "take to the bottle"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a bottle used to give milk to a baby; the milk from such a bottle (used instead of mother’s milk)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "It's time for her bottle."
+        }
+      ],
+      "topics": ["Life stages"]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "courage or confidence, for example to do something that is dangerous or unpleasant",
+      "labels": "(British English, informal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "It took a lot of bottle to do that."
+        },
+        {
+          "text": "I didn’t think she’d have the bottle to ask him."
+        }
+      ],
+      "synonyms": "nerve",
+      "topics": ["Personal qualities"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to do something that has a big effect and after which it is very difficult or impossible to go back to how things were before",
+      "examples": [
+        {
+          "text": "When guns were invented, the genie was let out of the bottle."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈbɒtl/",
+        "audio": "bo/bottle/bottle__gb_3.mp3"
+      },
+      {
+        "pronunciation": "/ˈbɒtlfʊl/",
+        "audio": "bo/bottle/bottleful__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈbɑːtl/",
+        "audio": "bo/bottle/bottle__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈbɑːtlfʊl/",
+        "audio": "bo/bottle/bottleful__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French boteille, from medieval Latin butticula, diminutive of late Latin buttis ‘cask’."
+}

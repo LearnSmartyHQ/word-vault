@@ -1,0 +1,90 @@
+{
+  "term": "contradiction",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a lack of agreement between facts, opinions, actions, etc.",
+      "sensetop": "contradiction (between A and B)in contradiction to something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "There is a contradiction between the two sets of figures.",
+          "contextForm": "contradiction (between A and B)"
+        },
+        {
+          "text": "How can we resolve this apparent contradiction?"
+        },
+        {
+          "text": "His public speeches are **in direct contradiction to** his personal lifestyle.",
+          "contextForm": "in contradiction to something"
+        },
+        {
+          "text": "That's in direct contradiction to what he said yesterday."
+        },
+        {
+          "text": "There is an apparent contradiction between the needs of workers and those of employers."
+        },
+        {
+          "text": "There's a basic contradiction in the whole idea of paying for justice."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adjective": ["complete", "direct", "flat"],
+        "preposition": [
+          "in contradiction to",
+          "in contradiction with",
+          "contradiction between"
+        ],
+        "phrases": ["a contradiction in terms"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the act of saying that something that somebody else has said is wrong or not true; an example of this",
+      "sensetop": "contradiction of something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I think I can say, **without fear of contradiction**, that…"
+        },
+        {
+          "text": "Now you say you both left at ten—that's a contradiction of your last statement.",
+          "contextForm": "contradiction of something"
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "a statement containing two words that contradict each other’s meaning",
+      "examples": [
+        {
+          "text": "A ‘nomad settlement’ is a contradiction in terms."
+        },
+        {
+          "text": "The idea is almost a contradiction in terms."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌkɒntrəˈdɪkʃn/",
+        "audio": "xc/contradiction/xcontradiction__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌkɑːntrəˈdɪkʃn/",
+        "audio": "xc/contradiction/xcontradiction__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: via Old French from Latin contradictio(n-), from the verb contradicere, originally contra dicere ‘speak against’."
+}

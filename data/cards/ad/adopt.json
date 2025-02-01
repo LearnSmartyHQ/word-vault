@@ -1,0 +1,205 @@
+{
+  "term": "adopt",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "adopt",
+      "heSheIt": "adopts"
+    },
+    "pastSimple": "adopted",
+    "pastParticiple": "adopted",
+    "ingForm": "adopting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to take somebody else’s child into your family and become its legal parent(s)",
+      "sensetop": "adopt somebody",
+      "labels": "(especially US English)(especially North American English)(especially British English)(British English)(North American English)(especially British English)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a campaign to encourage childless couples to adopt"
+        },
+        {
+          "text": "to adopt a child",
+          "contextForm": "adopt somebody"
+        },
+        {
+          "text": "She was forced to have her baby adopted."
+        },
+        {
+          "text": "She adopted three children from the orphanage."
+        },
+        {
+          "text": "We would like to adopt a child."
+        },
+        {
+          "text": "The child has now been legally adopted."
+        },
+        {
+          "text": "The couple adopted two children."
+        }
+      ],
+      "topics": ["Life stages", "Law and justice", "Family and relationships"],
+      "collocations": {
+        "adverb": ["legally"],
+        "phrases": ["have somebody adopted"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to start to use a particular method or to show a particular attitude towards somebody/something",
+      "sensetop": "adopt something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "All three teams **adopted** different **approaches** to the problem."
+        },
+        {
+          "text": "Our study examined the **strategies adopted** by patients for seeking information."
+        },
+        {
+          "text": "The police adopted tighter security measures."
+        },
+        {
+          "text": "to adopt an attitude/stance/position"
+        },
+        {
+          "text": "We could not agree on the best methods to adopt."
+        },
+        {
+          "text": "He smiled and adopted a more casual tone of voice."
+        },
+        {
+          "text": "The new manager adopted a very autocratic style."
+        }
+      ],
+      "collocations": {
+        "adverb": ["formally", "officially"],
+        "verb + adopt": ["tend to", "decide to", "be forced to"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to formally accept a suggestion or policy by voting",
+      "sensetop": "adopt something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The government **adopted a resolution** on disarmament."
+        },
+        {
+          "text": "The council is expected to **adopt** the new **policy** at its next meeting."
+        },
+        {
+          "text": "The UN Security Council unanimously adopted the resolution."
+        },
+        {
+          "text": "The policy has not yet been formally adopted."
+        },
+        {
+          "text": "What position do you adopt on this issue?"
+        },
+        {
+          "text": "the policies employers adopt towards the labour force"
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to choose a new name, a country, a custom, etc. and begin to use it as your own",
+      "sensetop": "adopt something",
+      "examples": [
+        {
+          "text": "to **adopt a name/title/language**"
+        },
+        {
+          "text": "Early Christians in Europe adopted many of the practices of the older, pagan religions."
+        },
+        {
+          "text": "The royal family adopted the name of Windsor early in the last century."
+        },
+        {
+          "text": "He adopted the dress and manners of an Englishman."
+        },
+        {
+          "text": "The party adopted its current name in 1965."
+        }
+      ],
+      "collocations": {
+        "adverb": ["formally", "officially"],
+        "verb + adopt": ["tend to", "decide to", "be forced to"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to use a particular manner, way of speaking, expression, etc.",
+      "sensetop": "adopt something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "He adopted an air of indifference."
+        }
+      ]
+    },
+    {
+      "senseNumber": 6,
+      "definition": "to choose somebody as a candidate in an election; to choose somebody as your representative",
+      "sensetop": "adopt somebody (as something)",
+      "labels": "(British English, politics)",
+      "examples": [
+        {
+          "text": "She was adopted as parliamentary candidate for Wood Green."
+        },
+        {
+          "text": "The people adopted him as their patron saint."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈdɒpt/",
+        "audio": "ad/adopt/adopt__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈdɒpts/",
+        "audio": "ad/adopt/adopts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈdɒptɪd/",
+        "audio": "ad/adopt/adopted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈdɒptɪŋ/",
+        "audio": "ad/adopt/adopting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈdɑːpt/",
+        "audio": "ad/adopt/adopt__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈdɑːpts/",
+        "audio": "ad/adopt/adopts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈdɑːptɪd/",
+        "audio": "ad/adopt/adopted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈdɑːptɪŋ/",
+        "audio": "ad/adopt/adopting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 15th cent.: via French from Latin adoptare, from ad- ‘to’ + optare ‘choose’."
+}

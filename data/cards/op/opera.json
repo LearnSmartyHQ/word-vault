@@ -1,0 +1,63 @@
+{
+  "term": "opera",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a dramatic work in which all or most of the words are sung to music; works of this type as an art form or entertainment",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Puccini’s operas"
+        },
+        {
+          "text": "to go to the opera"
+        },
+        {
+          "text": "an opera singer"
+        },
+        {
+          "text": "**light/grand opera**"
+        }
+      ],
+      "topics": ["Music"],
+      "collocations": {
+        "adjective": ["comic", "grand", "light"],
+        "verb + opera": ["compose", "write", "sing"],
+        "opera + noun": ["singer", "star", "composer"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a company that performs opera; a building in which operas are performed",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the Vienna State Opera"
+        }
+      ],
+      "collocations": {
+        "adjective": ["comic", "grand", "light"],
+        "verb + opera": ["compose", "write", "sing"],
+        "opera + noun": ["singer", "star", "composer"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɒprə/",
+        "audio": "op/opera/opera__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɑːprə/",
+        "audio": "op/opera/opera__us_1_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 17th cent.: from Italian, from Latin, literally ‘labour, work’."
+}

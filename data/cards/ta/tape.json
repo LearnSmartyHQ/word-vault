@@ -1,0 +1,151 @@
+{
+  "term": "tape",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b1",
+  "image": "data/images/st/stationery.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a long, narrow piece of material with a sticky substance on one side that is used for sticking things together",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "adhesive/sticky tape"
+        },
+        {
+          "text": "Fit the carpet using double-sided tape."
+        }
+      ],
+      "collocations": {
+        "adjective": ["adhesive", "Scotch™", "sticky"],
+        "… of tape": ["piece", "strip", "roll"],
+        "verb + tape": ["seal something (up) with", "use", "apply"],
+        "tape + noun": ["measure", "dispenser"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a long, thin piece of magnetic material, used for recording sounds, pictures or information, especially before digital technology became available",
+      "sensetop": "on tape",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Twenty years ago he was **caught on tape** in a very embarrassing situation.",
+          "contextForm": "on tape"
+        },
+        {
+          "text": "I have all my school concert performances recorded on tape."
+        }
+      ],
+      "collocations": {
+        "adjective": ["magnetic", "audio", "computer"],
+        "verb + tape": [
+          "store something on",
+          "capture something on",
+          "get something on"
+        ],
+        "tape + noun": ["recording", "loop", "machine"],
+        "preposition": ["on tape"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a cassette that contains sounds, or sounds and pictures, that have been recorded",
+      "cefr": "b1",
+      "examples": [
+        {
+          "text": "a **blank tape** *(= a tape with nothing recorded on it)*"
+        },
+        {
+          "text": "Someone had deliberately erased the tapes."
+        },
+        {
+          "text": "The singer was miming to a pre-recorded tape."
+        },
+        {
+          "text": "The tape contained damning evidence."
+        },
+        {
+          "text": "What does this tape have on it?"
+        },
+        {
+          "text": "Police seized various books and tapes."
+        }
+      ],
+      "topics": ["Music"],
+      "collocations": {
+        "adjective": ["cassette", "audio", "music"],
+        "verb + tape": ["make", "play", "play back"],
+        "tape + verb": [
+          "contain something",
+          "have something",
+          "show something"
+        ],
+        "tape + noun": ["deck", "player", "recorder"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a narrow piece of material that is used for tying things together or as a label",
+      "examples": [
+        {
+          "text": "The papers were in a pile, tied together with a tape."
+        }
+      ],
+      "collocations": {
+        "adjective": ["adhesive", "Scotch™", "sticky"],
+        "… of tape": ["piece", "strip", "roll"],
+        "verb + tape": ["seal something (up) with", "use", "apply"],
+        "tape + noun": ["measure", "dispenser"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "a long, thin piece of material that is stretched across the place where a race will finish or used to mark off an area",
+      "examples": [
+        {
+          "text": "the finishing tape"
+        },
+        {
+          "text": "Police tape cordoned off the street in front of the house."
+        }
+      ],
+      "collocations": {
+        "adjective": ["adhesive", "Scotch™", "sticky"],
+        "… of tape": ["piece", "strip", "roll"],
+        "verb + tape": ["seal something (up) with", "use", "apply"],
+        "tape + noun": ["measure", "dispenser"]
+      }
+    },
+    {
+      "senseNumber": 6,
+      "definition": "a long thin piece of plastic, cloth or flexible metal that has measurements marked on it and is used for measuring the length or height of something",
+      "examples": [],
+      "collocations": {
+        "adjective": ["adhesive", "Scotch™", "sticky"],
+        "… of tape": ["piece", "strip", "roll"],
+        "verb + tape": ["seal something (up) with", "use", "apply"],
+        "tape + noun": ["measure", "dispenser"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/teɪp/",
+        "audio": "ta/tape/tape__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/teɪp/",
+        "audio": "ta/tape/tape__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English tæppa, tæppe; perhaps related to Middle Low German teppen ‘pluck, tear’."
+}

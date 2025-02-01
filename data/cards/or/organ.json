@@ -1,0 +1,148 @@
+{
+  "term": "organ",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "image": "data/images/in/internal_organs.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a part of the body that has a particular purpose, such as the heart or the brain; part of a plant with a particular purpose",
+      "labels": "(British English)(informal)(British English)(North American English)(British English)(British English)(British English)(British English)(North American English)(British English)(North American English)(British English)(British English)(British English)(North American English)(British English)(British English)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the **internal organs**"
+        },
+        {
+          "text": "the **sense organs** *(= the eyes, ears, nose, etc.)*"
+        },
+        {
+          "text": "the **sexual/reproductive organs**"
+        },
+        {
+          "text": "an **organ transplant/donor**"
+        },
+        {
+          "text": "the **vital organs** *(= the brain, heart, lungs, etc.)*"
+        },
+        {
+          "text": "organ donation/transplantation"
+        },
+        {
+          "text": "He died of multiple organ failure."
+        },
+        {
+          "text": "He is waiting for a suitable donor organ."
+        },
+        {
+          "text": "The colon is an important organ for the absorption of nutrients."
+        },
+        {
+          "text": "The eyes are an important organ of balance."
+        },
+        {
+          "text": "They were trying to preserve blood flow to the brain and the other vital organs."
+        }
+      ],
+      "topics": ["Body"],
+      "collocations": {
+        "adjective": ["internal", "bodily", "important"],
+        "verb + organ": ["donate", "transplant", "harvest"],
+        "organ + noun": ["donation", "donor", "transplant"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a penis",
+      "labels": "(especially humorous)",
+      "examples": [
+        {
+          "text": "the male organ"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a large musical instrument with keys like a piano. Sounds are produced by air forced through pipes.",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She plays the organ in church."
+        },
+        {
+          "text": "organ music"
+        },
+        {
+          "text": "an organ recital"
+        }
+      ],
+      "topics": ["Music"],
+      "collocations": {
+        "adjective": ["pipe", "electric", "Hammond™"],
+        "organ + noun": ["pedal", "pipe", "stop"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a musical instrument similar to a pipe organ, but without pipes",
+      "examples": [
+        {
+          "text": "an electric organ"
+        }
+      ],
+      "collocations": {
+        "adjective": ["pipe", "electric", "Hammond™"],
+        "organ + noun": ["pedal", "pipe", "stop"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "an official organization that is part of a larger organization and has a special purpose",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "the organs of government"
+        },
+        {
+          "text": "the central organs of state"
+        }
+      ],
+      "collocations": {
+        "adjective": ["central", "major", "administrative"]
+      }
+    },
+    {
+      "senseNumber": 6,
+      "definition": "a newspaper or magazine that gives information about a particular group or organization; a means of communicating the views of a particular group",
+      "labels": "(formal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The People's Daily is the official organ of the Chinese Communist Party."
+        },
+        {
+          "text": "the organs of public opinion *(= for example, newspapers, television, radio)*"
+        }
+      ],
+      "topics": ["TV, radio and news"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɔːɡən/",
+        "audio": "or/organ/organ__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɔːrɡən/",
+        "audio": "or/organ/organ__us_5.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Old English, via Latin from Greek organon ‘tool, instrument, sense organ’, reinforced in Middle English by Old French organe."
+}

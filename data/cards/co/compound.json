@@ -1,0 +1,102 @@
+{
+  "term": "compound",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a thing consisting of two or more separate things combined together",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "compounds derived from rainforest plants"
+        },
+        {
+          "text": "The air smelled like a compound of diesel and petrol fumes."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a substance formed by a chemical reaction of two or more elements in fixed amounts relative to each other",
+      "labels": "(chemistry)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Common salt is a compound of sodium and chlorine."
+        },
+        {
+          "text": "Dalton believed that the simplest compound of two elements must have one atom of each."
+        },
+        {
+          "text": "Scientists have produced a new chemical compound."
+        },
+        {
+          "text": "a compound of oxygen and hydrogen"
+        },
+        {
+          "text": "Proteins and fats are organic compounds."
+        }
+      ],
+      "topics": ["Physics and chemistry"],
+      "collocations": {
+        "adjective": ["chemical", "inorganic", "organic"],
+        "verb + compound": ["form", "make", "produce"],
+        "compound + verb": [
+          "contain something",
+          "be derived from something",
+          "be found in something"
+        ],
+        "preposition": ["compound of"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a noun, an adjective or a verb made of two or more words or parts of words, written as one or more words, or joined by a hyphen. Travel agent, dark-haired and bathroom are all compounds.",
+      "labels": "(grammar)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Most **compound nouns** form their plurals in the usual way."
+        }
+      ],
+      "topics": ["Language"]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "an area surrounded by a fence or wall in which a factory or other group of buildings stands",
+      "examples": [
+        {
+          "text": "life inside the prison compound"
+        },
+        {
+          "text": "Police are investigating a raid on a secure compound."
+        },
+        {
+          "text": "Angry crowds stormed the presidential palace compound."
+        }
+      ],
+      "collocations": {
+        "adjective": ["military", "palace", "prison"],
+        "preposition": ["in a/​the compound", "inside a/​the compound"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkɒmpaʊnd/",
+        "audio": "co/compound/compound__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkɑːmpaʊnd/",
+        "audio": "co/compound/compound__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "noun senses 1 to 3 late Middle English compoune (verb), from Old French compoun-, present tense stem of compondre, from Latin componere ‘put together’. The final -d was added in the 16th cent. on the pattern of expound and propound. noun sense 4 late 17th cent. (referring to such an area in SE Asia): from Portuguese campon or Dutch kampoeng, from Malay kampong ‘enclosure, hamlet’."
+}

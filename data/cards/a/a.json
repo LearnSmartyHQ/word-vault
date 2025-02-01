@@ -1,37 +1,11 @@
 {
-  "word": "a",
+  "term": "a",
   "partOfSpeech": "indefinite article",
   "ox3000": true,
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ə//eɪ/",
-        "audio": "a/a/a__gb_2.mp3",
-        "region": "br"
-      },
-      {
-        "pronunciation": "/ən//æn/",
-        "audio": "a/a/an__gb_1.mp3",
-        "region": "br"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ə//eɪ/",
-        "audio": "a/a/a__us_2_rr.mp3",
-        "region": "n_am"
-      },
-      {
-        "pronunciation": "/ən//æn/",
-        "audio": "a/a/an__us_3_rr.mp3",
-        "region": "n_am"
-      }
-    ]
-  },
-  "verbForms": null,
+  "cefr": "a1",
   "definitions": [
     {
-      "senseNumber": "1",
+      "senseNumber": 1,
       "definition": "used before countable or singular nouns referring to people or things that have not already been mentioned",
       "cefr": "a1",
       "ox3000": true,
@@ -54,7 +28,7 @@
       ]
     },
     {
-      "senseNumber": "2",
+      "senseNumber": 2,
       "definition": "used to show that somebody/something is a member of a group or profession",
       "cefr": "a1",
       "ox3000": true,
@@ -74,7 +48,7 @@
       ]
     },
     {
-      "senseNumber": "3",
+      "senseNumber": 3,
       "definition": "any; every",
       "cefr": "a1",
       "ox3000": true,
@@ -85,7 +59,7 @@
       ]
     },
     {
-      "senseNumber": "4",
+      "senseNumber": 4,
       "definition": "used before uncountable nouns when these have an adjective in front of them, or phrase following them",
       "cefr": "b1",
       "ox3000": true,
@@ -99,7 +73,7 @@
       ]
     },
     {
-      "senseNumber": "5",
+      "senseNumber": 5,
       "definition": "used in front of two nouns that are seen as a single unit",
       "examples": [
         {
@@ -108,7 +82,7 @@
       ]
     },
     {
-      "senseNumber": "6",
+      "senseNumber": 6,
       "definition": "used instead of one before some numbers",
       "examples": [
         {
@@ -117,7 +91,7 @@
       ]
     },
     {
-      "senseNumber": "7",
+      "senseNumber": 7,
       "definition": "used when talking about prices, quantities and rates",
       "examples": [
         {
@@ -133,7 +107,7 @@
       "synonyms": "per"
     },
     {
-      "senseNumber": "8",
+      "senseNumber": 8,
       "definition": "a person like somebody",
       "examples": [
         {
@@ -142,7 +116,7 @@
       ]
     },
     {
-      "senseNumber": "9",
+      "senseNumber": 9,
       "definition": "used before somebody’s name to show that the speaker does not know the person",
       "examples": [
         {
@@ -151,7 +125,7 @@
       ]
     },
     {
-      "senseNumber": "10",
+      "senseNumber": 10,
       "definition": "used before the names of days of the week to talk about one particular day",
       "examples": [
         {
@@ -160,5 +134,27 @@
       ]
     }
   ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ə//eɪ/",
+        "audio": "a/a/a__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ən//æn/",
+        "audio": "an/a/an__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ə//eɪ/",
+        "audio": "a/a/a__us_2_rr.mp3"
+      },
+      {
+        "pronunciation": "/ən//æn/",
+        "audio": "an/a/an__us_3_rr.mp3"
+      }
+    ]
+  },
   "wordOrigin": "Middle English: weak form of Old English ān ‘one’."
 }

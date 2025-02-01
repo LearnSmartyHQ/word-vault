@@ -1,0 +1,192 @@
+{
+  "term": "mention",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "mention",
+      "heSheIt": "mentions"
+    },
+    "pastSimple": "mentioned",
+    "pastParticiple": "mentioned",
+    "ingForm": "mentioning"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to write or speak about something/somebody, especially without giving much information",
+      "sensetop": "mention something/somebodymention something/somebody to somebodymention where, why, etc…mention that…mention doing somethingmention something/somebody in something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Sorry, I won't mention it again.",
+          "contextForm": "mention something/somebody"
+        },
+        {
+          "text": "The news report failed to mention a word of the prime minister's speech."
+        },
+        {
+          "text": "The doctor mentioned the possibility of going to Nairobi for special treatment."
+        },
+        {
+          "text": "The disease is rarely mentioned by Western media."
+        },
+        {
+          "text": "**Now that you mention it**, she did seem to be in a strange mood."
+        },
+        {
+          "text": "Nobody mentioned anything to me about it.",
+          "contextForm": "mention something/somebody to somebody"
+        },
+        {
+          "text": "Did she mention where she was going?",
+          "contextForm": "mention where, why, etc…"
+        },
+        {
+          "text": "You mentioned in your letter that you might be moving abroad.",
+          "contextForm": "mention that…"
+        },
+        {
+          "text": "He failed to mention that he was the one who started the fight."
+        },
+        {
+          "text": "Did I mention going to see Vicky on Sunday?",
+          "contextForm": "mention doing something"
+        },
+        {
+          "text": "The cruise visits most places mentioned in the article.",
+          "contextForm": "mention something/somebody in something"
+        },
+        {
+          "text": "Although she didn't actually mention the move, I am sure that was in her mind."
+        },
+        {
+          "text": "Incidents like those mentioned above are becoming more common."
+        },
+        {
+          "text": "Did I mention the fact that I'm now single?"
+        },
+        {
+          "text": "He avoided mentioning his family."
+        },
+        {
+          "text": "In the example mentioned above, either method of construction could have been used."
+        },
+        {
+          "text": "He only mentioned his work in passing."
+        },
+        {
+          "text": "She didn't mention the economy in her speech."
+        },
+        {
+          "text": "He was the first to publicly mention this."
+        },
+        {
+          "text": "My name wasn't mentioned at all."
+        },
+        {
+          "text": "Wounded in action, he was twice mentioned in dispatches."
+        },
+        {
+          "text": "I just never thought to mention it to you."
+        },
+        {
+          "text": "Please don't mention this to Sally."
+        },
+        {
+          "text": "Next spring has been mentioned as a possible time for the event."
+        },
+        {
+          "text": "I casually mentioned that I might be interested in working abroad."
+        },
+        {
+          "text": "Did he happen to mention putting you in his will?"
+        }
+      ],
+      "collocations": {
+        "adverb": ["already", "earlier", "just"],
+        "verb + mention": ["not bother to", "fail to", "forget to"],
+        "preposition": ["as", "in", "in connection with"],
+        "phrases": [
+          "avoid mentioning somebody/​something",
+          "be worth mentioning something",
+          "mentioned above"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to refer to somebody/something as being interesting, especially as a possible candidate for a job or position",
+      "sensetop": "mention something/somebody (as something/somebody)",
+      "examples": [
+        {
+          "text": "His name has been mentioned as a future MP."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used as a polite answer when somebody has thanked you for something",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "‘Thanks for all your help.’ ‘Don't mention it.’"
+        }
+      ],
+      "synonyms": "you’re welcome"
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to introduce extra information and emphasize what you are saying",
+      "examples": [
+        {
+          "text": "He has two big houses in this country, not to mention his villa in France."
+        },
+        {
+          "text": "I admired her confidence, not to mention the fact that she was intelligent and well spoken."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmenʃn/",
+        "audio": "me/mention/mention__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmenʃnz/",
+        "audio": "me/mention/mentions__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmenʃnd/",
+        "audio": "me/mention/mentioned__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmenʃənɪŋ/",
+        "audio": "me/mention/mentioning__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmenʃn/",
+        "audio": "me/mention/mention__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmenʃnz/",
+        "audio": "me/mention/mentions__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmenʃnd/",
+        "audio": "me/mention/mentioned__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈmenʃənɪŋ/",
+        "audio": "me/mention/mentioning__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (originally in make mention of): via Old French from Latin mentio(n-); related to mind."
+}

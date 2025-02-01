@@ -1,0 +1,109 @@
+{
+  "term": "sue",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "sue",
+      "heSheIt": "sues"
+    },
+    "pastSimple": "sued",
+    "pastParticiple": "sued",
+    "ingForm": "suing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to make a claim against a person or an organization in court about something that they have said or done to harm you",
+      "sensetop": "sue (somebody/something) for somethingsue somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They threatened to sue if the work was not completed."
+        },
+        {
+          "text": "to sue somebody for breach of contract",
+          "contextForm": "sue (somebody/something) for something"
+        },
+        {
+          "text": "to sue somebody for $10 million *(= in order to get money from somebody)*"
+        },
+        {
+          "text": "to **sue somebody for damages**"
+        },
+        {
+          "text": "He threatened to sue the company for negligence."
+        },
+        {
+          "text": "The water authority was successfully sued over his illness.",
+          "contextForm": "sue somebody/something"
+        }
+      ],
+      "topics": ["Law and justice"],
+      "collocations": {
+        "adverb": ["successfully", "unsuccessfully", "promptly"],
+        "verb + sue": ["be able to", "be entitled to", "have the right to"],
+        "preposition": ["for", "over"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to formally ask for something, especially in court",
+      "sensetop": "sue for something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "to sue for divorce"
+        },
+        {
+          "text": "The rebels were forced to sue for peace."
+        }
+      ],
+      "collocations": {
+        "adverb": ["successfully", "unsuccessfully", "promptly"],
+        "verb + sue": ["be able to", "be entitled to", "have the right to"],
+        "preposition": ["for", "over"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/suː/",
+        "audio": "su/sue/sue__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/suːz/",
+        "audio": "su/sue/sues__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/suːd/",
+        "audio": "su/sue/sued__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈsuːɪŋ/",
+        "audio": "su/sue/suing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/suː/",
+        "audio": "su/sue/sue__us_1.mp3"
+      },
+      {
+        "pronunciation": "/suːz/",
+        "audio": "su/sue/sues__us_1.mp3"
+      },
+      {
+        "pronunciation": "/suːd/",
+        "audio": "su/sue/sued__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈsuːɪŋ/",
+        "audio": "su/sue/suing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Anglo-Norman French suer, based on Latin sequi ‘follow’. Early senses were very similar to those of the verb follow."
+}

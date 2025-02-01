@@ -1,0 +1,108 @@
+{
+  "term": "applaud",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "applaud",
+      "heSheIt": "applauds"
+    },
+    "pastSimple": "applauded",
+    "pastParticiple": "applauded",
+    "ingForm": "applauding"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to show your approval of somebody/something by clapping your hands (= hitting your open hands together several times)",
+      "sensetop": "applaud somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He started to applaud and the others joined in."
+        },
+        {
+          "text": "They rose to applaud the speaker.",
+          "contextForm": "applaud somebody"
+        },
+        {
+          "text": "She was applauded as she came on stage."
+        },
+        {
+          "text": "The audience applauded loudly."
+        }
+      ],
+      "synonyms": "clap",
+      "collocations": {
+        "adverb": ["enthusiastically", "heartily", "loudly"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to express praise for somebody/something because you approve of them or it",
+      "sensetop": "applaud somethingapplaud somebody (for something)",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "We applaud her decision.",
+          "contextForm": "applaud something"
+        },
+        {
+          "text": "His efforts to improve the situation are to be applauded."
+        },
+        {
+          "text": "The decision to save the company has been warmly applauded."
+        },
+        {
+          "text": "I applaud her for having the courage to refuse.",
+          "contextForm": "applaud somebody (for something)"
+        }
+      ],
+      "collocations": {
+        "adverb": ["warmly", "widely"],
+        "phrases": ["is to be applauded", "should be applauded"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈplɔːd/",
+        "audio": "ap/applaud/applaud__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈplɔːdz/",
+        "audio": "ap/applaud/applauds__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈplɔːdɪd/",
+        "audio": "ap/applaud/applauded__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈplɔːdɪŋ/",
+        "audio": "ap/applaud/applauding__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈplɔːd/",
+        "audio": "ap/applaud/applaud__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈplɔːdz/",
+        "audio": "ap/applaud/applauds__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈplɔːdɪd/",
+        "audio": "ap/applaud/applauded__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈplɔːdɪŋ/",
+        "audio": "ap/applaud/applauding__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 15th cent.: from Latin applaudere, from ad- ‘to’ + plaudere ‘to clap’, reinforced by French applaudir."
+}

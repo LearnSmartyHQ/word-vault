@@ -1,0 +1,116 @@
+{
+  "term": "insert",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "insert",
+      "heSheIt": "inserts"
+    },
+    "pastSimple": "inserted",
+    "pastParticiple": "inserted",
+    "ingForm": "inserting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to put something into something else or between two things",
+      "sensetop": "insert something (in/into something)insert something between A and B",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Insert coins into the slot and press for a ticket.",
+          "contextForm": "insert something (in/into something)"
+        },
+        {
+          "text": "They inserted a tube in his mouth to help him breathe."
+        },
+        {
+          "text": "She picked up a knife and inserted it between the top of the drawer and the desk.",
+          "contextForm": "insert something between A and B"
+        },
+        {
+          "text": "Fine needles are gently inserted into the patient's skin."
+        },
+        {
+          "text": "The artist digitally inserted himself into the picture."
+        },
+        {
+          "text": "He winced as the doctor inserted the needle."
+        }
+      ],
+      "collocations": {
+        "adverb": ["carefully", "gently", "digitally"],
+        "preposition": ["between", "in", "into"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to add something to a piece of writing",
+      "sensetop": "insert somethinginsert something into somethinginsert something between A and B",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Position the cursor where you want to insert a word.",
+          "contextForm": "insert something"
+        },
+        {
+          "text": "The program will automatically insert the replacement text."
+        },
+        {
+          "text": "Later, he inserted another paragraph into his will.",
+          "contextForm": "insert something into something"
+        },
+        {
+          "text": "The English translation is inserted between the lines of text.",
+          "contextForm": "insert something between A and B"
+        }
+      ],
+      "collocations": {
+        "adverb": ["carefully", "gently", "digitally"],
+        "preposition": ["between", "in", "into"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈsɜːt/",
+        "audio": "in/insert/insert__gb_3.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈsɜːts/",
+        "audio": "in/insert/inserts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈsɜːtɪd/",
+        "audio": "in/insert/inserted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈsɜːtɪŋ/",
+        "audio": "in/insert/inserting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈsɜːrt/",
+        "audio": "in/insert/insert__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈsɜːrts/",
+        "audio": "in/insert/inserts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈsɜːrtɪd/",
+        "audio": "in/insert/inserted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈsɜːrtɪŋ/",
+        "audio": "in/insert/inserting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 15th cent. (in the sense ‘include (text) in a piece of writing’): from Latin insert- ‘put in’, from the verb inserere, from in- ‘into’ + serere ‘to join’."
+}

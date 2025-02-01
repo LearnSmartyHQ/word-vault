@@ -1,0 +1,173 @@
+{
+  "term": "administration",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the activities that are done in order to plan, organize and run a business, school or other institution",
+      "labels": "informal",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Administration costs are passed on to the customer."
+        },
+        {
+          "text": "the day-to-day administration of a company"
+        },
+        {
+          "text": "I work in the Sales Administration department."
+        },
+        {
+          "text": "The college loses a lot of money through poor administration."
+        },
+        {
+          "text": "A large part of his job involves routine administration."
+        },
+        {
+          "text": "They are gradually doing away with centralized bureaucratic administration."
+        },
+        {
+          "text": "Until now, she has been entirely responsible for the administration of the school."
+        }
+      ],
+      "topics": ["Business"],
+      "collocations": {
+        "adjective": ["effective", "efficient", "good"],
+        "verb + administration": ["be in charge of", "be responsible for"],
+        "administration + noun": ["costs"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the government of a country, especially the US",
+      "sensetop": "during/under the… administration",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "under the Trump administration",
+          "contextForm": "during/under the… administration"
+        },
+        {
+          "text": "Successive administrations have failed to solve the country's economic problems."
+        },
+        {
+          "text": "A senior **administration official** has decided to step down."
+        },
+        {
+          "text": "He was Secretary of Education in Bush's first administration."
+        },
+        {
+          "text": "Her resignation is the second of a senior member of the administration within a month."
+        },
+        {
+          "text": "The current administration will remain in office until elections in November."
+        },
+        {
+          "text": "He continued as head of a caretaker administration."
+        },
+        {
+          "text": "the handover of sovereignty by the British colonial administration"
+        },
+        {
+          "text": "the role of the UN in the setting-up of an interim administration"
+        }
+      ],
+      "collocations": {
+        "adjective": ["colonial", "federal", "local"],
+        "verb + administration": ["form"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the management of public affairs",
+      "sensetop": "under… administration",
+      "examples": [
+        {
+          "text": "The inhabitants of the island voted to remain under French administration.",
+          "contextForm": "under… administration"
+        }
+      ],
+      "synonyms": "government (2)"
+    },
+    {
+      "senseNumber": 4,
+      "definition": "the process or act of organizing the way that something is done",
+      "examples": [
+        {
+          "text": "the **administration of justice**"
+        }
+      ],
+      "collocations": {
+        "adjective": ["effective", "efficient", "good"],
+        "verb + administration": ["be in charge of", "be responsible for"],
+        "administration + noun": ["costs"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "the people who plan, organize and run a business, an institution, etc.",
+      "examples": [
+        {
+          "text": "university administrations"
+        },
+        {
+          "text": "The hospital administration can refuse patients' access to their own records."
+        },
+        {
+          "text": "The prison administration is working hard to improve the service."
+        },
+        {
+          "text": "He has been in dispute with the New Zealand cricket administration."
+        }
+      ],
+      "collocations": {
+        "adjective": ["college", "hospital", "prison"]
+      }
+    },
+    {
+      "senseNumber": 6,
+      "definition": "the act of giving a drug to somebody",
+      "labels": "(formal)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "the administration of antibiotics"
+        }
+      ],
+      "topics": ["Healthcare"],
+      "collocations": {
+        "adjective": ["intravenous", "oral", "drug"]
+      }
+    },
+    {
+      "senseNumber": 7,
+      "definition": "a situation in which the financial affairs of a business that cannot pay its debts are managed by an independent administrator",
+      "labels": "(British English, Australian English, law)",
+      "examples": [
+        {
+          "text": "If it cannot find extra funds, the company will **go into administration**."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ədˌmɪnɪˈstreɪʃn/",
+        "audio": "ad/administration/administration__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ədˌmɪnɪˈstreɪʃn/",
+        "audio": "ad/administration/administration__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Latin administratio(n-), from the verb administrare , from ad- ‘to’ + ministrare ‘wait upon’, from minister ‘servant’, from minus ‘less’."
+}

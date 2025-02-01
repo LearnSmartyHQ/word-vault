@@ -1,0 +1,98 @@
+{
+  "term": "running",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "image": "data/images/ho/hobbies_yoga_running.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the action or sport of running",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **go running**"
+        },
+        {
+          "text": "long-distance/cross-country running"
+        },
+        {
+          "text": "running shoes"
+        }
+      ],
+      "topics": ["Sports: other sports"],
+      "collocations": {
+        "adjective": ["cross-country", "fell", "distance"],
+        "running + noun": ["event", "race", "gear"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the activity of managing or operating something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the **day-to-day running** of a business"
+        },
+        {
+          "text": "the **running costs** of a car *(= for example of fuel, repairs, insurance)*"
+        },
+        {
+          "text": "Mr Matengu was overseeing the smooth running of the exhibition."
+        },
+        {
+          "text": "She took over the running of the organization."
+        },
+        {
+          "text": "They are there to ensure the safe running of the event."
+        }
+      ],
+      "collocations": {
+        "adjective": ["efficient", "smooth", "day-to-day"],
+        "verb + running": ["be involved in", "be responsible for"],
+        "running + noun": ["costs", "expenses"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the activity of bringing something such as drugs, guns, etc. into a country secretly and illegally",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "drug-running"
+        }
+      ],
+      "topics": ["Crime and punishment"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "having some/no chance of succeeding or achieving something",
+      "labels": "(informal)",
+      "examples": [],
+      "topics": ["Success", "Difficulty and failure"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to set the speed at which something is done; to take the lead in doing something",
+      "labels": "(British English, informal)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈrʌnɪŋ/",
+        "audio": "ru/running/running__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈrʌnɪŋ/",
+        "audio": "ru/running/running__us_3.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

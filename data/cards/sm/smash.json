@@ -1,0 +1,187 @@
+{
+  "term": "smash",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "smash",
+      "heSheIt": "smashes"
+    },
+    "pastSimple": "smashed",
+    "pastParticiple": "smashed",
+    "ingForm": "smashing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to break something, or to be broken, violently and noisily into many pieces",
+      "sensetop": "smash (something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Several windows had been smashed."
+        },
+        {
+          "text": "He smashed the radio to pieces."
+        },
+        {
+          "text": "The glass bowl smashed into a thousand pieces."
+        },
+        {
+          "text": "She flew into one of her rages and started smashing crockery."
+        },
+        {
+          "text": "His right hand was smashed and his shoulder dislocated."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to move with a lot of force against something solid; to make something do this",
+      "sensetop": "+ adv./prep.smash something + adv./prep.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the sound of waves smashing against the rocks",
+          "contextForm": "+ adv./prep."
+        },
+        {
+          "text": "The car smashed into a tree."
+        },
+        {
+          "text": "Mark smashed his fist down on the desk.",
+          "contextForm": "smash something + adv./prep."
+        },
+        {
+          "text": "A bullet smashed into the wall behind them."
+        },
+        {
+          "text": "Ram-raiders smashed a stolen car through the shop window."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to hit something very hard and break it, in order to get through it",
+      "sensetop": "smash something + adv./prep.smash something + adj.+ adv./prep.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They had to smash holes in the ice.",
+          "contextForm": "smash something + adv./prep."
+        },
+        {
+          "text": "The elephant smashed its way through the trees."
+        },
+        {
+          "text": "We had to smash the door open.",
+          "contextForm": "smash something + adj."
+        },
+        {
+          "text": "They had smashed through a glass door to get in.",
+          "contextForm": "+ adv./prep."
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to hit something/somebody very hard",
+      "sensetop": "smash something/somebody (+ adv./prep.)",
+      "examples": [
+        {
+          "text": "He smashed the ball into the goal."
+        }
+      ],
+      "synonyms": "slam"
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to break a record by a large amount",
+      "sensetop": "smash a record",
+      "examples": [
+        {
+          "text": "She has smashed the world record."
+        }
+      ]
+    },
+    {
+      "senseNumber": 6,
+      "definition": "to destroy, defeat or put an end to something/somebody",
+      "sensetop": "smash something/somebody",
+      "examples": [
+        {
+          "text": "Police say they have smashed a major drugs ring."
+        }
+      ]
+    },
+    {
+      "senseNumber": 7,
+      "definition": "to crash a vehicle",
+      "sensetop": "smash something (up)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He’s smashed (up) his new car."
+        }
+      ],
+      "topics": ["Transport by car or lorry"]
+    },
+    {
+      "senseNumber": 8,
+      "definition": "to hit a high ball downwards and very hard over the net",
+      "sensetop": "smash something",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to do something very well or be very successful",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "After all that training, I’m sure he’ll smash it in the competition tonight."
+        }
+      ],
+      "synonyms": "crush it"
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/smæʃ/",
+        "audio": "sm/smash/smash__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈsmæʃɪz/",
+        "audio": "sm/smash/smashes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/smæʃt/",
+        "audio": "sm/smash/smashed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈsmæʃɪŋ/",
+        "audio": "sm/smash/smashing__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/smæʃ/",
+        "audio": "sm/smash/smash__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈsmæʃɪz/",
+        "audio": "sm/smash/smashes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/smæʃt/",
+        "audio": "sm/smash/smashed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈsmæʃɪŋ/",
+        "audio": "sm/smash/smashing__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 18th cent. (as a noun): probably imitative, representing a blend of words such as smack, smite with bash, mash, etc."
+}

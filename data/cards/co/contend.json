@@ -1,0 +1,81 @@
+{
+  "term": "contend",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "contend",
+      "heSheIt": "contends"
+    },
+    "pastSimple": "contended",
+    "pastParticiple": "contended",
+    "ingForm": "contending"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to say that something is true, especially in an argument",
+      "sensetop": "contend that…",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I would contend that the minister's thinking is flawed on this point."
+        }
+      ],
+      "synonyms": "maintain",
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to compete against somebody in order to gain something",
+      "sensetop": "contend (for something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Three armed groups were contending for power."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kənˈtend/",
+        "audio": "xc/contend/xcontend__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈtendz/",
+        "audio": "xc/contend/xcontends__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈtendɪd/",
+        "audio": "xc/contend/xcontended__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈtendɪŋ/",
+        "audio": "xc/contend/xcontending__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kənˈtend/",
+        "audio": "xc/contend/xcontend__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈtendz/",
+        "audio": "xc/contend/xcontends__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈtendɪd/",
+        "audio": "xc/contend/xcontended__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kənˈtendɪŋ/",
+        "audio": "xc/contend/xcontending__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the sense ‘compete for (something)’): from Old French contendre or Latin contendere, from con- ‘with’ + tendere ‘stretch, strive’."
+}

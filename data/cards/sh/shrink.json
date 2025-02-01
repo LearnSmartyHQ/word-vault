@@ -1,0 +1,140 @@
+{
+  "term": "shrink",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "shrink",
+      "heSheIt": "shrinks"
+    },
+    "pastSimple": "shrank",
+    "pastParticiple": "shrunk",
+    "ingForm": "shrinking"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to become smaller, especially when washed in water that is too hot; to make clothes, cloth, etc. smaller in this way",
+      "sensetop": "shrink (something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "My sweater shrank in the wash."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to become or to make something smaller in size or amount",
+      "sensetop": "shrink something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The tumour had shrunk to the size of a pea."
+        },
+        {
+          "text": "The market for their products is shrinking."
+        },
+        {
+          "text": "The internet in a sense has shrunk the world.",
+          "contextForm": "shrink something"
+        },
+        {
+          "text": "Households have been shrinking in size but increasing in number."
+        },
+        {
+          "text": "Their profits shrank by 4% last year."
+        },
+        {
+          "text": "Their share of the market has shrunk from 14% to 5%."
+        }
+      ],
+      "collocations": {
+        "adverb": ["considerably", "dramatically", "significantly"],
+        "preposition": ["by", "from", "to"],
+        "phrases": ["shrink in size"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to move back or away from something because you are frightened or shocked",
+      "sensetop": "+ adv./prep.",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "He shrank back against the wall as he heard them approaching."
+        },
+        {
+          "text": "I shrank back into the shadows."
+        },
+        {
+          "text": "She shrank back in terror."
+        },
+        {
+          "text": "She shrank from his touch."
+        }
+      ],
+      "synonyms": "cower",
+      "topics": ["Feelings"],
+      "collocations": {
+        "adverb": ["a little", "visibly", "instinctively"],
+        "verb + shrink": ["try to"],
+        "preposition": ["against", "in", "into"]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "a very shy person",
+      "labels": "(humorous)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ʃrɪŋk/",
+        "audio": "sh/shrink/shrink__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃrɪŋks/",
+        "audio": "sh/shrink/shrinks__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃræŋk/",
+        "audio": "sh/shrink/shrank__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃrʌŋk/",
+        "audio": "sh/shrink/shrunk__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈʃrɪŋkɪŋ/",
+        "audio": "sh/shrink/shrinking__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ʃrɪŋk/",
+        "audio": "sh/shrink/shrink__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃrɪŋks/",
+        "audio": "sh/shrink/shrinks__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃræŋk/",
+        "audio": "sh/shrink/shrank__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ʃrʌŋk/",
+        "audio": "sh/shrink/shrunk__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈʃrɪŋkɪŋ/",
+        "audio": "sh/shrink/shrinking__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English scrincan, of Germanic origin; related to Swedish skrynka ‘to wrinkle’."
+}

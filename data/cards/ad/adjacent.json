@@ -1,0 +1,53 @@
+{
+  "term": "adjacent",
+  "partOfSpeech": "adjective",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "next to something",
+      "sensetop": "adjacent to something",
+      "examples": [
+        {
+          "text": "The planes landed on adjacent runways."
+        },
+        {
+          "text": "numbers that are adjacent in the sequence"
+        },
+        {
+          "text": "Our farm land was adjacent to the river.",
+          "contextForm": "adjacent to something"
+        },
+        {
+          "text": "The vineyards of Verzy lie adjacent to those of Verzenay."
+        },
+        {
+          "text": "There is a row of houses immediately adjacent to the factory."
+        }
+      ],
+      "topics": ["Buildings"],
+      "collocations": {
+        "verbs": ["be", "be situated", "lie"],
+        "adverb": ["directly", "immediately"],
+        "preposition": ["to"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈdʒeɪsnt/",
+        "audio": "ad/adjacent/adjacent__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈdʒeɪsnt/",
+        "audio": "ad/adjacent/adjacent__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin adjacent- ‘lying near to’, from adjacere, from ad- ‘to’ + jacere ‘lie down’."
+}

@@ -1,0 +1,61 @@
+{
+  "term": "onion",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/ve/vegetables_misc.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a round vegetable with many layers inside each other and a brown, red or white skin. Onions have a strong smell and taste.",
+      "examples": [
+        {
+          "text": "Chop the onions finely."
+        },
+        {
+          "text": "French onion soup"
+        },
+        {
+          "text": "slice/fry/peel an onion"
+        },
+        {
+          "text": "Pile golden caramelized onions on top of mashed potatoes."
+        },
+        {
+          "text": "Garnish with a little chopped onion."
+        },
+        {
+          "text": "a jar of pickled onions"
+        },
+        {
+          "text": "cheese and onion flavoured crisps"
+        },
+        {
+          "text": "sage and onion stuffing"
+        }
+      ],
+      "topics": ["Food"],
+      "collocations": {
+        "adjective": ["raw", "caramelized", "pickled"],
+        "verb + onion": ["chop", "peel", "slice"],
+        "onion + noun": ["ring", "soup", "dip"],
+        "phrases": ["cheese and onion", "sage and onion"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈʌnjən/",
+        "audio": "on/onion/onion__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈʌnjən/",
+        "audio": "on/onion/onion__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French oignon, based on Latin unio(n-), denoting a kind of onion."
+}

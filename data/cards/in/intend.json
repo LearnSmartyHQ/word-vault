@@ -1,0 +1,148 @@
+{
+  "term": "intend",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "intend",
+      "heSheIt": "intends"
+    },
+    "pastSimple": "intended",
+    "pastParticiple": "intended",
+    "ingForm": "intending"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to have a plan, result or purpose in your mind when you do something",
+      "sensetop": "intend to do somethingintend somebody/something to do somethingintend doing somethingintend somethingintend somebody somethingit is intended that…intend that…",
+      "labels": "(British English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We finished later than we had intended."
+        },
+        {
+          "text": "I **fully intended** *(= definitely intended)* to pay for the damage.",
+          "contextForm": "intend to do something"
+        },
+        {
+          "text": "I **never intended** to hurt you."
+        },
+        {
+          "text": "The train we had **originally intended** to catch had already left."
+        },
+        {
+          "text": "The writer clearly intends his readers to identify with the main character.",
+          "contextForm": "intend somebody/something to do something"
+        },
+        {
+          "text": "I don't intend staying long.",
+          "contextForm": "intend doing something"
+        },
+        {
+          "text": "The company intends a slowdown in expansion.",
+          "contextForm": "intend something"
+        },
+        {
+          "text": "He intended her no harm *(= it was not his plan to harm her)*.",
+          "contextForm": "intend somebody something"
+        },
+        {
+          "text": "It is intended that production will start next month.",
+          "contextForm": "it is intended that…"
+        },
+        {
+          "text": "We intend that production will start next month.",
+          "contextForm": "intend that…"
+        },
+        {
+          "text": "She fully intends to continue her sporting career once she has recovered from her injuries."
+        },
+        {
+          "text": "He intends to retire at the end of this year."
+        },
+        {
+          "text": "I don't intend to make the same mistake again."
+        },
+        {
+          "text": "She didn't intend to kill him."
+        },
+        {
+          "text": "They stayed much longer than they'd originally intended."
+        },
+        {
+          "text": "What do you intend to do now?"
+        }
+      ],
+      "collocations": {
+        "adverb": ["fully", "clearly", "originally"],
+        "preposition": ["for"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to plan that something should have a particular meaning",
+      "sensetop": "intend something by somethingintend something as something",
+      "labels": "(rather formal)",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "What exactly did you intend by that remark?",
+          "contextForm": "intend something by something"
+        },
+        {
+          "text": "He intended it as a joke.",
+          "contextForm": "intend something as something"
+        }
+      ],
+      "synonyms": "mean",
+      "collocations": {
+        "adverb": ["fully", "clearly", "originally"],
+        "preposition": ["for"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈtend/",
+        "audio": "in/intend/intend__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtendz/",
+        "audio": "in/intend/intends__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtendɪd/",
+        "audio": "in/intend/intended__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtendɪŋ/",
+        "audio": "in/intend/intending__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈtend/",
+        "audio": "in/intend/intend__us_3.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtendz/",
+        "audio": "in/intend/intends__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtendɪd/",
+        "audio": "in/intend/intended__us_3.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtendɪŋ/",
+        "audio": "in/intend/intending__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English entend (in the sense ‘direct the attention to’), from Old French entendre, from Latin intendere ‘intend, extend, direct’, from in- ‘towards’ + tendere ‘stretch, tend’."
+}

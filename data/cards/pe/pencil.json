@@ -1,0 +1,64 @@
+{
+  "term": "pencil",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/st/stationery.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a narrow piece of wood, or a metal or plastic case, containing a black or coloured substance, used for drawing or writing",
+      "sensetop": "in pencil",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I'll get a pencil and paper."
+        },
+        {
+          "text": "coloured pencils"
+        },
+        {
+          "text": "I need to sharpen my pencil."
+        },
+        {
+          "text": "She scribbled a note in pencil.",
+          "contextForm": "in pencil"
+        },
+        {
+          "text": "margin notes in pencil"
+        },
+        {
+          "text": "Each picture was carefully drawn with pencil and then colour was added."
+        },
+        {
+          "text": "a pencil drawing/sketch"
+        }
+      ],
+      "collocations": {
+        "adjective": ["blunt", "sharp", "soft"],
+        "verb + pencil": [
+          "draw (something) with",
+          "use",
+          "write (something) with"
+        ],
+        "pencil + noun": ["lead", "sharpener", "eraser"],
+        "preposition": ["in pencil"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈpensl/",
+        "audio": "pe/pencil/pencil__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈpensl/",
+        "audio": "pe/pencil/pencil__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (denoting a fine paintbrush): from Old French pincel, from a diminutive of Latin peniculus ‘brush’, diminutive of penis ‘tail’. The verb was originally (early 16th cent.) in the sense ‘paint with a fine brush’."
+}

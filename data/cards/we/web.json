@@ -1,0 +1,126 @@
+{
+  "term": "web",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "image": "data/images/ar/arachnids.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a system for finding information on the internet, in which documents are connected to other documents",
+      "sensetop": "on the Web",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to **surf/browse/search the web**"
+        },
+        {
+          "text": "The service is available to anyone with access to the web."
+        },
+        {
+          "text": "I found the information on the Web.",
+          "contextForm": "on the Web"
+        },
+        {
+          "text": "I did a Web search to find the best price."
+        },
+        {
+          "text": "a **web browser/server**"
+        },
+        {
+          "text": "A Web search brought up 900 hits."
+        },
+        {
+          "text": "I found this survey on the Web."
+        },
+        {
+          "text": "Many people use the Web to make their travel plans."
+        },
+        {
+          "text": "a broadband Web connection"
+        }
+      ],
+      "collocations": {
+        "verb + the Web": ["access", "browse", "search"],
+        "web + noun": ["page", "address", "link"],
+        "preposition": ["on the web"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a fine net of thread made by a spider to catch insects",
+      "labels": "especially in British Englishespecially in North American English",
+      "cefr": "a2",
+      "examples": [
+        {
+          "text": "A spider had spun a perfect web outside the window."
+        }
+      ],
+      "topics": ["Insects, worms, etc."],
+      "collocations": {
+        "adjective": ["spider", "spider’s"],
+        "verb + web": ["build", "make", "spin"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a complicated pattern of things that are closely connected to each other",
+      "examples": [
+        {
+          "text": "a web of streets"
+        },
+        {
+          "text": "We were caught in a **tangled web** of relationships."
+        },
+        {
+          "text": "She discovered a web of intrigue in the company."
+        },
+        {
+          "text": "More and more people were drawn into his web of deceit."
+        },
+        {
+          "text": "The mass media form a web of communications."
+        },
+        {
+          "text": "An increasingly complex web of legislation has been considered."
+        },
+        {
+          "text": "Investigations have begun into a web of corruption within the government."
+        },
+        {
+          "text": "a web of deceit/​lies"
+        }
+      ],
+      "collocations": {
+        "adjective": ["complex", "complicated", "dense"],
+        "verb + web": ["create", "form", "weave"],
+        "phrases": [
+          "a web of deceit",
+          "a web of deception",
+          "a web of intrigue"
+        ]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a piece of skin that joins the toes of some birds and animals that swim, for example ducks and frogs",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/web/",
+        "audio": "we/web/web__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/web/",
+        "audio": "we/web/web__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English web(b) ‘woven fabric’, of Germanic origin; related to Dutch web, also to weave."
+}

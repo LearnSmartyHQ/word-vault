@@ -1,0 +1,99 @@
+{
+  "term": "married",
+  "partOfSpeech": "adjective",
+  "ox3000": true,
+  "cefr": "a1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "having a husband or wife",
+      "sensetop": "married to somebody",
+      "labels": "(especially North American English)(informal)(informal)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a married man/woman"
+        },
+        {
+          "text": "Is he married?"
+        },
+        {
+          "text": "a happily/an unhappily married couple"
+        },
+        {
+          "text": "She's married to John.",
+          "contextForm": "married to somebody"
+        },
+        {
+          "text": "Sam and Chris are **getting married** on Saturday."
+        },
+        {
+          "text": "How long have you been married?"
+        },
+        {
+          "text": "We've been married for 25 years."
+        },
+        {
+          "text": "The newly married couple left for their honeymoon in Spain."
+        },
+        {
+          "text": "The married father of four had been reported missing."
+        }
+      ],
+      "topics": ["Life stages"],
+      "collocations": {
+        "verbs": ["be", "feel", "get"],
+        "adverb": ["newly", "recently", "previously"],
+        "preposition": ["to"],
+        "phrases": ["married with children"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "connected with marriage",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Are you enjoying married life?"
+        },
+        {
+          "text": "Her married name *(= the family name of her husband)* is Jones."
+        },
+        {
+          "text": "The officer was stationed at Netley, where he and his wife lived in married quarters (= accommodation)."
+        },
+        {
+          "text": "The poem is a celebration of married love."
+        }
+      ],
+      "topics": ["Life stages"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "very involved in something so that you have no time for other activities or interests",
+      "sensetop": "married to something",
+      "examples": [
+        {
+          "text": "My brother is married to his job."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmærid/",
+        "audio": "ma/married/married__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmærid/",
+        "audio": "ma/married/married__us_4.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

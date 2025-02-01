@@ -1,0 +1,56 @@
+{
+  "term": "bishop",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "image": "data/images/ga/games.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a senior priest in charge of the work of the Church in a city or district",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the Bishop of Oxford"
+        },
+        {
+          "text": "Bishop Pritchard"
+        },
+        {
+          "text": "He was appointed Bishop of Ely."
+        },
+        {
+          "text": "He’s the diocesan bishop and he has three suffragan bishops to help him."
+        }
+      ],
+      "topics": ["Religion and festivals", "Jobs"],
+      "collocations": {
+        "adjective": ["Anglican", "Catholic", "Orthodox"],
+        "verb + bishop": ["appoint", "appoint somebody (as)", "be elected"],
+        "preposition": ["bishop of"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a piece used in the game of chess that is like a bishop’s hat in shape and can move any number of squares in a diagonal line",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Games and toys"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈbɪʃəp/",
+        "audio": "bi/bishop/bishop__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈbɪʃəp/",
+        "audio": "bi/bishop/bishop__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English biscop, bisceop, based on Greek episkopos ‘overseer’, from epi ‘above’ + -skopos ‘-looking’."
+}

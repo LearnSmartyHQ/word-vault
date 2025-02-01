@@ -1,0 +1,54 @@
+{
+  "term": "jeans",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/cl/clothes.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "trousers made of denim (= a type of strong cotton)",
+      "sensetop": "in jeans",
+      "examples": [
+        {
+          "text": "I always **wear jeans**."
+        },
+        {
+          "text": "a **pair of** designer **jeans**"
+        },
+        {
+          "text": "**skinny/baggy jeans**"
+        },
+        {
+          "text": "**ripped/faded jeans**"
+        },
+        {
+          "text": "a young man in jeans and a T-shirt",
+          "contextForm": "in jeans"
+        }
+      ],
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adjective": ["skintight", "stretch", "tight"],
+        "… of jeans": ["pair"],
+        "verb + jeans": ["pull on", "pull up", "pull off"],
+        "jeans + noun": ["pocket"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dʒiːnz/",
+        "audio": "je/jeans/jeans__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dʒiːnz/",
+        "audio": "je/jeans/jeans__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "From Janne, the Old French name for Genoa, where the heavy cotton now used for jeans was first made."
+}

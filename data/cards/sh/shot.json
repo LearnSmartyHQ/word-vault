@@ -1,0 +1,419 @@
+{
+  "term": "shot",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the act of firing a gun; the sound this makes",
+      "sensetop": "shot at somebody/somethingshot to something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We **heard** some **shots** in the distance."
+        },
+        {
+          "text": "Someone **took a shot at** the car.",
+          "contextForm": "shot at somebody/something"
+        },
+        {
+          "text": "She was killed by a single shot to the head.",
+          "contextForm": "shot to something"
+        },
+        {
+          "text": "The man **fired** several **shots** from his pistol."
+        },
+        {
+          "text": "I heard a pistol shot."
+        },
+        {
+          "text": "The shot hit him in the chest."
+        }
+      ],
+      "collocations": {
+        "adjective": ["excellent", "fine", "good"],
+        "… of shots": ["volley"],
+        "verb + shot": ["aim", "fire", "take"],
+        "shot + verb": [
+          "ring out",
+          "hit somebody/​something",
+          "strike somebody/​something"
+        ],
+        "preposition": ["shot from", "shot to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a person who shoots a gun in a particular way (well, badly, etc.)",
+      "sensetop": "a good, bad, etc. shot",
+      "examples": [
+        {
+          "text": "She is a crack shot with a rifle."
+        }
+      ],
+      "collocations": {
+        "adjective": ["crack", "excellent", "good"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "an attempt to score a goal or point in a game",
+      "sensetop": "shot at somethingshot on something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He **took a shot** from the edge of the box."
+        },
+        {
+          "text": "Taylor scored with a low shot into the corner of the net."
+        },
+        {
+          "text": "She turned and **hit a shot** that looked like a certain goal."
+        },
+        {
+          "text": "A defender managed to **block** his **shot**."
+        },
+        {
+          "text": "Unfortunately her shot at goal missed.",
+          "contextForm": "shot at something"
+        },
+        {
+          "text": "England had a few shots on goal.",
+          "contextForm": "shot on something"
+        },
+        {
+          "text": "He scuffed a shot from the edge of the box."
+        },
+        {
+          "text": "I took a few more shots at the target, but missed every time."
+        },
+        {
+          "text": "My first shot went wide, but my second was right on target."
+        },
+        {
+          "text": "The goalkeeper parried his first shot but he scored from the rebound."
+        },
+        {
+          "text": "Their captain tried a long shot on goal."
+        },
+        {
+          "text": "her right-footed shot from outside the penalty area"
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"],
+      "collocations": {
+        "adjective": ["excellent", "fine", "good"],
+        "verb + shot": ["crack", "get in", "have"],
+        "shot + verb": ["be on target", "go wide", "miss"],
+        "preposition": ["shot at", "shot on", "shot from"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "an act of hitting the ball",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Good shot!"
+        },
+        {
+          "text": "Go on—take another shot."
+        },
+        {
+          "text": "She started the day one shot off the lead."
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "the heavy ball that is used in the sports competition called shot-put",
+      "cefr": "c2",
+      "examples": [],
+      "topics": ["Sports: other sports"]
+    },
+    {
+      "senseNumber": 6,
+      "definition": "a photograph",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "We stood there patiently while he snapped a few shots."
+        },
+        {
+          "text": "I **got** some good **shots** of people at the party."
+        },
+        {
+          "text": "I decided to stop and **take** a quick **shot** of the street."
+        },
+        {
+          "text": "I tried to get a shot of him in the water."
+        },
+        {
+          "text": "publicity shots"
+        },
+        {
+          "text": "She took a wide-angle shot of the house and garden."
+        },
+        {
+          "text": "Kate snapped a few shots with her camera through the window."
+        },
+        {
+          "text": "I got some great shots of the runners as they crossed the line."
+        }
+      ],
+      "collocations": {
+        "adjective": ["camera", "close-up", "long"],
+        "… of shots": ["series"],
+        "verb + shot": ["get", "take", "snap"],
+        "shot + verb": ["show something"],
+        "preposition": ["shot from", "shot of"]
+      }
+    },
+    {
+      "senseNumber": 7,
+      "definition": "a scene in a film that is filmed continuously by one camera",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "the opening shot of a character walking across a desert"
+        },
+        {
+          "text": "The director is clearly fond of tracking and aerial shots."
+        },
+        {
+          "text": "The exterior shots were filmed in Morocco and Malta."
+        }
+      ],
+      "topics": ["Film and theatre"],
+      "collocations": {
+        "adjective": ["camera", "close-up", "long"],
+        "… of shots": ["series"],
+        "verb + shot": ["get", "take", "snap"],
+        "shot + verb": ["show something"],
+        "preposition": ["shot from", "shot of"]
+      }
+    },
+    {
+      "senseNumber": 8,
+      "definition": "a large number of small metal balls that you fire together from a shotgun",
+      "examples": [
+        {
+          "text": "Round shot whistled over our heads."
+        },
+        {
+          "text": "Conservationists have called on the government to ban the use of lead shot in shotgun cartridges."
+        }
+      ]
+    },
+    {
+      "senseNumber": 9,
+      "definition": "a large stone or metal ball that was shot from a cannon or large gun in the past",
+      "examples": []
+    },
+    {
+      "senseNumber": 10,
+      "definition": "a remark or an action that is usually one of a series, and is aimed against somebody/something that you are arguing or competing with",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "This statement was **the opening shot** in the argument."
+        },
+        {
+          "text": "The supermarket **fired the first shot** in a price war today."
+        },
+        {
+          "text": "He couldn't resist **taking a cheap shot at** his political opponent."
+        },
+        {
+          "text": "As her parting shot she warned Pete never to come near her again."
+        },
+        {
+          "text": "the opening shot in the election campaign"
+        }
+      ],
+      "topics": ["Opinion and argument"]
+    },
+    {
+      "senseNumber": 11,
+      "definition": "the act of trying to do or achieve something",
+      "sensetop": "shot (at something/at doing something)",
+      "labels": "(informal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The team are looking good for a shot at the title."
+        },
+        {
+          "text": "I've never produced a play before but I'll **have a shot at** it."
+        },
+        {
+          "text": "I'm willing to **give it a shot**."
+        },
+        {
+          "text": "Just **give it your best shot** *(= try as hard as you can)* and you'll be fine."
+        }
+      ],
+      "topics": ["Success"]
+    },
+    {
+      "senseNumber": 12,
+      "definition": "a small amount of a drug that is put into your body using a syringe",
+      "labels": "(informal, especially North American English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a flu shot *(= to protect you against flu)*"
+        },
+        {
+          "text": "a shot of morphine"
+        },
+        {
+          "text": "Have you had all your shots for your expedition yet?"
+        },
+        {
+          "text": "The applause acted on her like a shot of adrenalin."
+        },
+        {
+          "text": "a shot of penicillin"
+        }
+      ],
+      "topics": ["Healthcare"],
+      "collocations": {
+        "adjective": ["booster", "allergy", "flu"],
+        "verb + shot": ["give somebody", "get", "have"],
+        "preposition": ["shot of"]
+      }
+    },
+    {
+      "senseNumber": 13,
+      "definition": "a small amount of a drink, especially a strong alcoholic one",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "a shot of whisky"
+        }
+      ]
+    },
+    {
+      "senseNumber": 14,
+      "definition": "the process of sending a spacecraft into and through space",
+      "examples": [
+        {
+          "text": "The **space shot** was shown live on television."
+        },
+        {
+          "text": "a moon shot"
+        }
+      ]
+    },
+    {
+      "senseNumber": 15,
+      "definition": "a horse, dog, etc. that has the particular chance of winning a race that is mentioned",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The horse is a 10–1 shot."
+        }
+      ],
+      "topics": ["Sports: other sports"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "an important person",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be the person who controls a situation",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "very quickly and without hesitating",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "If I had the chance to go there, I'd go like a shot."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "an attempt or a guess that is not likely to be successful but is worth trying",
+      "examples": [
+        {
+          "text": "It's a long shot, but it just might work."
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty", "Difficulty and failure"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "not nearly; not at all",
+      "examples": [
+        {
+          "text": "It's not over yet—not by a long shot."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "a final remark, especially an unkind one, that somebody makes as they leave",
+      "examples": [
+        {
+          "text": "As her parting shot she warned Pete never to come near her again."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "something that you say or do as a warning to somebody about what might happen if they do not change, etc.",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "something that encourages somebody/something or gives them the help they need",
+      "examples": [
+        {
+          "text": "Their enthusiasm has been a shot in the arm for all of us."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "a guess; something you do without knowing what the result will be",
+      "examples": [
+        {
+          "text": "The figure he came up with was really just a shot in the dark."
+        },
+        {
+          "text": "It was only a stab in the dark, but I hoped I might be right."
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ʃɒt/",
+        "audio": "sh/shot/shot__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ʃɑːt/",
+        "audio": "sh/shot/shot__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "noun Old English sc(e)ot, gesc(e)ot of Germanic origin; related to German Geschoss, from the base of the verb shoot."
+}

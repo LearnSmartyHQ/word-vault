@@ -1,0 +1,101 @@
+{
+  "term": "fry",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b1",
+  "image": "data/images/co/cooking.png",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "fry",
+      "heSheIt": "fries"
+    },
+    "pastSimple": "fried",
+    "pastParticiple": "fried",
+    "ingForm": "frying"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to cook something in hot fat or oil; to be cooked in hot fat or oil",
+      "sensetop": "fry (something)fry something in something",
+      "labels": "(British English)(North American English)(British English)(North American English)(especially North American English)(British English)(British English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "fried fish",
+          "contextForm": "fry (something)"
+        },
+        {
+          "text": "We had fried chicken for dinner."
+        },
+        {
+          "text": "the smell of bacon frying"
+        },
+        {
+          "text": "Fry the onions gently in oil.",
+          "contextForm": "fry something in something"
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adverb": ["gently", "lightly"],
+        "preposition": ["in"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to be burnt by the sun",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "You'll fry on the beach if you're not careful."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to have more important or more interesting things to do",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/fraɪ/",
+        "audio": "fr/fry/fry__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/fraɪz/",
+        "audio": "fr/fry/fries__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/fraɪd/",
+        "audio": "fr/fry/fried__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈfraɪɪŋ/",
+        "audio": "fr/fry/frying__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/fraɪ/",
+        "audio": "fr/fry/fry__us_1.mp3"
+      },
+      {
+        "pronunciation": "/fraɪz/",
+        "audio": "fr/fry/fries__us_1.mp3"
+      },
+      {
+        "pronunciation": "/fraɪd/",
+        "audio": "fr/fry/fried__us_3.mp3"
+      },
+      {
+        "pronunciation": "/ˈfraɪɪŋ/",
+        "audio": "fr/fry/frying__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "verb Middle English: from Old French frire, from Latin frigere."
+}

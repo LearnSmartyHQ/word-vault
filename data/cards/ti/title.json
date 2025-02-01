@@ -1,0 +1,205 @@
+{
+  "term": "title",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the name of a book, poem, painting, piece of music, etc.",
+      "sensetop": "under a title",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "What's title of her new book?"
+        },
+        {
+          "text": "a book/album title"
+        },
+        {
+          "text": "Some of his song titles and lyrics have also attracted criticism."
+        },
+        {
+          "text": "His poems were published under the title of ‘Love and Reason’.",
+          "contextForm": "under a title"
+        },
+        {
+          "text": "the **title track** from their latest CD *(= the song with the same title as the disc)*"
+        },
+        {
+          "text": "She has sung the **title role** in ‘Carmen’ *(= the role of Carmen in that )*."
+        },
+        {
+          "text": "The **title character** *(= the person mentioned in the name of the book, play, etc.)* is a native of Colombia."
+        }
+      ],
+      "topics": ["Literature and writing"],
+      "collocations": {
+        "adjective": ["album", "book", "chapter"],
+        "verb + title": ["give something"],
+        "title + noun": ["page", "sequence", "character"],
+        "preposition": ["under a/​the title"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a particular book or magazine",
+      "examples": [
+        {
+          "text": "The company publishes twenty new titles a year."
+        },
+        {
+          "text": "40% of new titles were actually new editions of existing books."
+        },
+        {
+          "text": "Sony has released six new game titles."
+        }
+      ],
+      "collocations": {
+        "adjective": ["new", "best-selling", "book"],
+        "verb + title": ["publish", "release"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a word in front of a person’s name to show their rank or profession, whether or not they are married, etc.",
+      "labels": "British EnglishBritish English",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The present duke inherited the title from his father."
+        },
+        {
+          "text": "Give your name and title *(= Mr, Miss, Ms, Dr, etc.)*."
+        },
+        {
+          "text": "She has a title."
+        },
+        {
+          "text": "The king bestowed lands and titles upon his followers."
+        },
+        {
+          "text": "The justices are accorded the courtesy title ‘Lord’."
+        },
+        {
+          "text": "Count Victor Oldenburg and Hess, to give him his full title"
+        },
+        {
+          "text": "‘Mrs’ was a courtesy title for any unmarried woman in business at that time."
+        },
+        {
+          "text": "‘Minister’ is one of several diplomatic titles."
+        }
+      ],
+      "collocations": {
+        "adjective": ["grand", "long", "courtesy"],
+        "verb + title": ["bear", "have", "inherit"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a name that describes a job",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The official title of the job is ‘Administrative Assistant’."
+        },
+        {
+          "text": "What is your name and job title?"
+        },
+        {
+          "text": "Bessie Smith **earned the title** ‘Empress of the Blues’."
+        },
+        {
+          "text": "In 2017, Brooks assumed the title of chairman."
+        },
+        {
+          "text": "She bears the grand title ‘Divisional President of the Finances Committee’."
+        },
+        {
+          "text": "He was given the title of ‘wise man’."
+        }
+      ],
+      "topics": ["Jobs"],
+      "collocations": {
+        "adjective": ["grand", "long", "courtesy"],
+        "verb + title": ["bear", "have", "inherit"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "the position of being the winner of a competition, especially a sports competition",
+      "examples": [
+        {
+          "text": "She has **won** three world **titles**."
+        },
+        {
+          "text": "He'll be **defending his title** at this week's French Open."
+        },
+        {
+          "text": "the **world** heavyweight **title**"
+        },
+        {
+          "text": "the **league/division/national title**"
+        },
+        {
+          "text": "a title fight *(= in boxing)*"
+        },
+        {
+          "text": "Suzuki won seven consecutive batting titles in Japan's Pacific League."
+        },
+        {
+          "text": "Deportivo clinched the title with a goal in the final seconds of the last game of the season."
+        },
+        {
+          "text": "He's a leading contender for the European title."
+        },
+        {
+          "text": "She's hoping to win her third Olympic title."
+        },
+        {
+          "text": "They won 5–1 in the final to retain the title."
+        },
+        {
+          "text": "He has been building up fitness for his world title challenge."
+        }
+      ],
+      "collocations": {
+        "adjective": ["European", "national", "world"],
+        "verb + title": ["capture", "claim", "clinch"],
+        "title + noun": ["challenge", "shot", "defence/​defense"]
+      }
+    },
+    {
+      "senseNumber": 6,
+      "definition": "the legal right to own something, especially land or property; the document that shows you have this right",
+      "sensetop": "title (to something/to do something)",
+      "labels": "(law)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "He claims he has title to the land."
+        }
+      ],
+      "topics": ["Law and justice"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtaɪtl/",
+        "audio": "ti/title/title__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtaɪtl/",
+        "audio": "ti/title/title__us_4.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English titul, reinforced by Old French title, both from Latin titulus ‘inscription, title’. The word originally denoted a placard or inscription placed on an object, giving information about it, hence a descriptive heading in a book or other composition."
+}

@@ -1,0 +1,90 @@
+{
+  "term": "inspector",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "an officer of middle rank in the police force",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "Inspector Maggie Forbes"
+        },
+        {
+          "text": "He reached the rank of inspector."
+        }
+      ],
+      "topics": ["Law and justice"],
+      "collocations": {
+        "adjective": ["police", "Chief", "detective"],
+        "phrases": ["the rank of inspector"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a person whose job is to visit schools, factories, etc. to check that rules are being obeyed and that standards are acceptable",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a school/health/safety inspector"
+        },
+        {
+          "text": "An inspector was sent to the scene of the incident."
+        },
+        {
+          "text": "He agreed to allow weapons inspectors in his country."
+        },
+        {
+          "text": "Independent inspectors were called in."
+        },
+        {
+          "text": "The school inspectors were called in."
+        },
+        {
+          "text": "UN weapons inspectors"
+        },
+        {
+          "text": "an inspector of prisons"
+        },
+        {
+          "text": "the inspector in charge of producing the report"
+        },
+        {
+          "text": "The health and safety inspector wrote a worrying report on the building."
+        }
+      ],
+      "topics": ["Education", "Jobs"],
+      "collocations": {
+        "adjective": ["chief", "deputy", "local"],
+        "verb + inspector": ["call", "call in", "send"],
+        "inspector + verb": ["arrive", "visit", "be in charge of something"],
+        "preposition": ["inspector of"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "(in the UK) a person whose job is to check tickets on a bus or train",
+      "cefr": "b2",
+      "examples": [],
+      "topics": ["Transport by bus and train"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈspektə(r)/",
+        "audio": "in/inspector/inspector__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈspektər/",
+        "audio": "in/inspector/inspector__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 17th cent.: from Latin, from inspicere (from in- ‘in’ + specere ‘look at’)."
+}

@@ -1,0 +1,432 @@
+{
+  "term": "serve",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "serve",
+      "heSheIt": "serves"
+    },
+    "pastSimple": "served",
+    "pastParticiple": "served",
+    "ingForm": "serving"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to give somebody food or drink, for example at a restaurant or during a meal",
+      "sensetop": "serve (something)serve something with somethingserve something to somebodyserve somebody with somethingserve somebody somethingserve something + adj.",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Breakfast is served between 7 and 10 a.m.",
+          "contextForm": "serve (something)"
+        },
+        {
+          "text": "When do you stop serving hot food?"
+        },
+        {
+          "text": "Pour the sauce over the pasta and serve immediately."
+        },
+        {
+          "text": "Shall I serve?"
+        },
+        {
+          "text": "Serve the lamb with new potatoes and green beans.",
+          "contextForm": "serve something with something"
+        },
+        {
+          "text": "They served a wonderful meal to more than fifty delegates.",
+          "contextForm": "serve something to somebody"
+        },
+        {
+          "text": "The delegates were served with a wonderful meal.",
+          "contextForm": "serve somebody with something"
+        },
+        {
+          "text": "She served us a delicious lunch.",
+          "contextForm": "serve somebody something"
+        },
+        {
+          "text": "The quiche can be served hot or cold.",
+          "contextForm": "serve something + adj."
+        },
+        {
+          "text": "Cover and chill the salad until ready to serve."
+        },
+        {
+          "text": "Serve chilled."
+        },
+        {
+          "text": "Serve with rice or potatoes."
+        }
+      ],
+      "topics": ["Cooking and eating"],
+      "collocations": {
+        "adverb": ["immediately"],
+        "verb + serve": ["be ready to"],
+        "preposition": ["to", "with"],
+        "phrases": [
+          "dinner is served",
+          "serve something chilled",
+          "serve something cold"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to be enough for somebody/something",
+      "sensetop": "serve somebody/something",
+      "examples": [
+        {
+          "text": "This dish will serve four hungry people."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to help a customer or sell them something in a shop",
+      "sensetop": "serve (somebody)",
+      "labels": "(especially British English)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Are you being served?"
+        },
+        {
+          "text": "The bar staff spend more time chatting to friends than serving customers."
+        },
+        {
+          "text": "She was serving behind the counter."
+        }
+      ],
+      "topics": ["Shopping"]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to be useful to somebody in achieving or satisfying something",
+      "sensetop": "serve something/somebody",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "These experiments **serve** no useful **purpose**."
+        },
+        {
+          "text": "Most of their economic policies **serve the interests** of big business."
+        },
+        {
+          "text": "How can we best **serve the needs** of future generations?"
+        },
+        {
+          "text": "Art **serves** an important **function** in our society."
+        },
+        {
+          "text": "His linguistic ability **served him well** in his chosen profession."
+        },
+        {
+          "text": "This old car has served me very well."
+        },
+        {
+          "text": "The story would be **better served** by slowing down a little."
+        }
+      ],
+      "collocations": {
+        "adverb": ["merely", "only", "simply"],
+        "preposition": ["as"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to provide an area or a group of people with a product or service",
+      "sensetop": "serve somebody/somethingserve somebody/something with something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The centre will serve the whole community.",
+          "contextForm": "serve somebody/something"
+        },
+        {
+          "text": "The town is **well served** with buses and major road links.",
+          "contextForm": "serve somebody/something with something"
+        }
+      ]
+    },
+    {
+      "senseNumber": 6,
+      "definition": "to work or perform duties for a person, an organization, a country, etc.; to spend a period of time in a particular job",
+      "sensetop": "serve as somethingserve under/with somebodyserve + adv./prep.serve somebody/something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He served as a captain in the army.",
+          "contextForm": "serve as something"
+        },
+        {
+          "text": "She was elected to serve as secretary of the local party."
+        },
+        {
+          "text": "to serve as president/director/chairman"
+        },
+        {
+          "text": "He served in the White House under Joe Biden.",
+          "contextForm": "serve under/with somebody"
+        },
+        {
+          "text": "She served in the medical corps.",
+          "contextForm": "serve + adv./prep."
+        },
+        {
+          "text": "His father **served with distinction** in the First World War."
+        },
+        {
+          "text": "He proudly **served his country** during the war.",
+          "contextForm": "serve somebody/something"
+        },
+        {
+          "text": "I wanted to work somewhere where I could **serve the community**."
+        },
+        {
+          "text": "She has already **served** two **terms** as mayor."
+        },
+        {
+          "text": "He served a one-year apprenticeship."
+        },
+        {
+          "text": "He served the family faithfully for many years *(= as a servant)*."
+        },
+        {
+          "text": "Have you ever served on a jury?"
+        },
+        {
+          "text": "I currently serve on the Board of Directors."
+        },
+        {
+          "text": "He served on active duty in the US Marine Corps."
+        },
+        {
+          "text": "He served with distinction in the First World War."
+        },
+        {
+          "text": "She served in the US military for six years."
+        },
+        {
+          "text": "I shall continue to serve as a trustee."
+        },
+        {
+          "text": "She has served in an advisory capacity for a number of groups."
+        }
+      ],
+      "collocations": {
+        "adverb": ["faithfully", "loyally", "well"],
+        "verb + serve": ["continue to"],
+        "preposition": ["as", "in", "on"],
+        "phrases": [
+          "if memory serves you",
+          "if memory serves (you) correctly",
+          "if memory serves you right"
+        ]
+      }
+    },
+    {
+      "senseNumber": 7,
+      "definition": "to be suitable for a particular use, especially when nothing else is available",
+      "sensetop": "serve (as something)",
+      "examples": [
+        {
+          "text": "The sofa will serve as a bed for a night or two."
+        },
+        {
+          "text": "The Declaration served primarily as a propaganda piece."
+        },
+        {
+          "text": "The texts ultimately serve as springboards for the artists' imagination."
+        },
+        {
+          "text": "The first chapter serves as a useful introduction to the subject."
+        }
+      ]
+    },
+    {
+      "senseNumber": 8,
+      "definition": "to have a particular effect or result",
+      "sensetop": "serve as somethingserve to do something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "The judge said the punishment would serve as a warning to others.",
+          "contextForm": "serve as something"
+        },
+        {
+          "text": "The highly visible ruins **serve as a reminder** of the building's history."
+        },
+        {
+          "text": "There are several women in the field who have **served as** role **models**."
+        },
+        {
+          "text": "The attack was unsuccessful and **served only to** alert the enemy.",
+          "contextForm": "serve to do something"
+        },
+        {
+          "text": "This only served to complicate the situation further."
+        }
+      ],
+      "topics": ["Change, cause and effect"],
+      "collocations": {
+        "adverb": ["merely", "only", "simply"],
+        "preposition": ["as"]
+      }
+    },
+    {
+      "senseNumber": 9,
+      "definition": "to spend a period of time in prison",
+      "sensetop": "serve something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "prisoners **serving** life **sentences**"
+        },
+        {
+          "text": "She is **serving** two **years** for theft."
+        },
+        {
+          "text": "He has **served time** *(= been to prison)* before."
+        }
+      ],
+      "topics": ["Crime and punishment"]
+    },
+    {
+      "senseNumber": 10,
+      "definition": "to give or send somebody an official document, especially one that orders them to appear in court",
+      "sensetop": "serve something (on somebody)serve somebody with something",
+      "labels": "(law)",
+      "examples": [
+        {
+          "text": "to **serve a writ/summons** on somebody",
+          "contextForm": "serve something (on somebody)"
+        },
+        {
+          "text": "to serve somebody with a writ/summons",
+          "contextForm": "serve somebody with something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["immediately"],
+        "verb + serve": ["be ready to"],
+        "preposition": ["to", "with"],
+        "phrases": [
+          "dinner is served",
+          "serve something chilled",
+          "serve something cold"
+        ]
+      }
+    },
+    {
+      "senseNumber": 11,
+      "definition": "to start playing by throwing the ball into the air and hitting it",
+      "sensetop": "serve something",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Who's serving?"
+        },
+        {
+          "text": "She served an ace.",
+          "contextForm": "serve something"
+        }
+      ],
+      "topics": ["Sports: ball and racket sports"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to perform two roles or functions at the same time",
+      "examples": [
+        {
+          "text": "This device can pull double duty as a decent laptop and an adequate tablet."
+        },
+        {
+          "text": "She deserves credit for serving double duty as a host and performer."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "people will be dealt with, seen, etc. strictly in the order in which they arrive",
+      "labels": "(saying)",
+      "examples": [
+        {
+          "text": "Tickets are available on a first come, first served basis."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "if I remember correctly",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to say that something that has happened to somebody is their own fault and they deserve it",
+      "examples": [
+        {
+          "text": "Left you, did she? It serves you right for being so selfish."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be useful for a particular purpose or period of time",
+      "labels": "(British English)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to support two different parties, principles, etc. at the same time",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/sɜːv/",
+        "audio": "se/serve/serve__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/sɜːvz/",
+        "audio": "se/serve/serves__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/sɜːvd/",
+        "audio": "se/serve/served__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈsɜːvɪŋ/",
+        "audio": "se/serve/serving__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/sɜːrv/",
+        "audio": "se/serve/serve__us_1.mp3"
+      },
+      {
+        "pronunciation": "/sɜːrvz/",
+        "audio": "se/serve/serves__us_1.mp3"
+      },
+      {
+        "pronunciation": "/sɜːrvd/",
+        "audio": "se/serve/served__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈsɜːrvɪŋ/",
+        "audio": "se/serve/serving__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French servir, from Latin servire, from servus ‘slave’."
+}

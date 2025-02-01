@@ -1,0 +1,120 @@
+{
+  "term": "bid",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "an offer by a person or a company to pay a particular amount of money for something",
+      "sensetop": "bid for somethingbid on something",
+      "labels": "(North American English also)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "A German firm launched a **takeover bid** for the company.",
+          "contextForm": "bid for something"
+        },
+        {
+          "text": "At the auction *(= a public sale where things are sold to the person who offers the most)*, the highest bid for the picture was £200."
+        },
+        {
+          "text": "the highest bid on the picture",
+          "contextForm": "bid on something"
+        },
+        {
+          "text": "Any more bids?"
+        },
+        {
+          "text": "I placed a bid on a repossessed Ferrari."
+        },
+        {
+          "text": "He made a cash bid for the company."
+        },
+        {
+          "text": "They have invited bids for the property."
+        },
+        {
+          "text": "They blocked a $24 million bid by a rival company."
+        }
+      ],
+      "topics": ["Art", "Shopping", "Business"],
+      "collocations": {
+        "adjective": ["high", "low", "opening"],
+        "verb + bid": ["make", "place", "put in"],
+        "bid + noun": ["price", "process"],
+        "preposition": ["bid by", "bid from", "bid for"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "an offer to do work or provide a service for a particular price, in competition with other companies, etc.",
+      "sensetop": "bid (for something)bid (on something)",
+      "labels": "(North American English also)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "The company submitted a bid for the contract to clean the hospital."
+        }
+      ],
+      "synonyms": "tender",
+      "topics": ["Business"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "an effort to do something or to obtain something",
+      "sensetop": "bid for somethingbid to do something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a bid for power",
+          "contextForm": "bid for something"
+        },
+        {
+          "text": "a desperate bid to escape from his attackers",
+          "contextForm": "bid to do something"
+        },
+        {
+          "text": "He attacked his guards in a desperate bid for freedom."
+        },
+        {
+          "text": "This play was her last bid for recognition."
+        },
+        {
+          "text": "It was a bid by the president to boost his popularity."
+        },
+        {
+          "text": "They failed in their bid to buy the company."
+        }
+      ],
+      "topics": ["Success"],
+      "collocations": {
+        "adjective": ["successful", "failed", "unsuccessful"],
+        "verb + bid": ["launch", "make", "mount"],
+        "bid + verb": ["succeed", "fail"],
+        "preposition": ["in a/​the bid", "bid by", "bid for"],
+        "phrases": ["a bid for freedom", "a bid for power", "a bid to escape"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a statement of the number of points a player thinks they will win",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bɪd/",
+        "audio": "bi/bid/bid__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bɪd/",
+        "audio": "bi/bid/bid__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

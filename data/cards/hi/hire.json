@@ -1,0 +1,174 @@
+{
+  "term": "hire",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "hire",
+      "heSheIt": "hires"
+    },
+    "pastSimple": "hired",
+    "pastParticiple": "hired",
+    "ingForm": "hiring"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to give somebody a job",
+      "sensetop": "hire (somebody)",
+      "labels": "(British English)(British English)(North American English)(especially North American English)(especially British English)(especially North American English)(both especially British English)(especially North American English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She was hired three years ago."
+        },
+        {
+          "text": "He does the **hiring and firing** in our company."
+        },
+        {
+          "text": "We’re not hiring right now."
+        },
+        {
+          "text": "The entire workforce was laid off and a fresh one promptly hired."
+        },
+        {
+          "text": "Who is responsible for hiring and firing around here?"
+        },
+        {
+          "text": "We only want to hire permanent staff."
+        }
+      ],
+      "topics": ["Working life"],
+      "collocations": {
+        "adverb": ["by the day"],
+        "verb + hire": ["can/​can’t afford to"],
+        "phrases": ["hire and fire"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to employ somebody for a short time to do a particular job",
+      "sensetop": "hire somebody/somethinghire somebody as somethinghire yourself somebody",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to hire a lawyer/detective"
+        },
+        {
+          "text": "They hired a firm of consultants to design the new system."
+        },
+        {
+          "text": "Workers were hired by the day."
+        },
+        {
+          "text": "She was hired by the campaign as a foreign-policy adviser.",
+          "contextForm": "hire somebody as something"
+        },
+        {
+          "text": "You will need to hire yourself an accountant and a lawyer.",
+          "contextForm": "hire yourself somebody"
+        },
+        {
+          "text": "His killer was a 16-year-old hired assassin."
+        },
+        {
+          "text": "The television studio couldn't afford to hire a top-notch cast."
+        },
+        {
+          "text": "When I bought my first house I hired an interior decorator."
+        }
+      ],
+      "topics": ["Working life"],
+      "collocations": {
+        "adverb": ["by the day"],
+        "verb + hire": ["can/​can’t afford to"],
+        "phrases": ["hire and fire"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to pay money to borrow something for a short time",
+      "sensetop": "hire somethinghire something from somebody",
+      "labels": "(especially British English)(British English only)North American EnglishBritish English(British English)(British English)(especially North American English)North American English(British English)(British English)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to hire a room/studio",
+          "contextForm": "hire something"
+        },
+        {
+          "text": "We hired a car from a local firm.",
+          "contextForm": "hire something from somebody"
+        },
+        {
+          "text": "Bicycles can be hired from several local shops."
+        },
+        {
+          "text": "Ski equipment can be hired locally."
+        },
+        {
+          "text": "What's the cost of hiring by the day?"
+        },
+        {
+          "text": "It may be possible to borrow rather than hire the tools."
+        },
+        {
+          "text": "There's a place where you can hire bikes for the day."
+        },
+        {
+          "text": "They hired a room above a pub for the wedding reception."
+        },
+        {
+          "text": "We hired a car and drove down the coast to Pesaro."
+        }
+      ],
+      "collocations": {
+        "adverb": ["by the day, week, etc.", "locally"],
+        "preposition": ["from"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈhaɪə(r)/",
+        "audio": "hi/hire/hire__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈhaɪəz/",
+        "audio": "hi/hire/hires__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈhaɪəd/",
+        "audio": "hi/hire/hired__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈhaɪərɪŋ/",
+        "audio": "hi/hire/hiring__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈhaɪər/",
+        "audio": "hi/hire/hire__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈhaɪərz/",
+        "audio": "hi/hire/hires__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈhaɪərd/",
+        "audio": "hi/hire/hired__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈhaɪərɪŋ/",
+        "audio": "hi/hire/hiring__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English hȳrian ‘employ someone for wages’, hȳr ‘payment under contract for the use of something’, of West Germanic origin; related to Dutch huren (verb), huur (noun)."
+}

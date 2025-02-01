@@ -1,0 +1,109 @@
+{
+  "term": "terminal",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a building or set of buildings at an airport where passengers arrive and leave",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "A second terminal was opened last year."
+        },
+        {
+          "text": "Your flight leaves from Terminal 3."
+        }
+      ],
+      "topics": ["Transport by air"],
+      "collocations": {
+        "adjective": ["international", "air", "airport"],
+        "terminal + noun": ["building"],
+        "preposition": ["at a/​the terminal", "in a/​the terminal"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a place, building or set of buildings where journeys by train, bus or boat begin or end",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "a **railway/bus/ferry terminal**"
+        },
+        {
+          "text": "The new high-speed train will stop at a terminal to be built at Kings Cross station."
+        },
+        {
+          "text": "They intend to build a massive new rail terminal."
+        },
+        {
+          "text": "When I woke up I was in the bus terminal."
+        }
+      ],
+      "topics": [
+        "Transport by water",
+        "Transport by bus and train",
+        "Buildings"
+      ],
+      "collocations": {
+        "adjective": ["international", "air", "airport"],
+        "terminal + noun": ["building"],
+        "preposition": ["at a/​the terminal", "in a/​the terminal"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a piece of equipment, usually consisting of a keyboard and a screen that joins the user to a central computer system",
+      "labels": "(computing)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Internet terminals have been installed at most libraries."
+        },
+        {
+          "text": "All she did was press a few keys on the terminal."
+        },
+        {
+          "text": "The larger financial institutions have over 200 news and data terminals in their offices."
+        },
+        {
+          "text": "There were two students at each terminal."
+        }
+      ],
+      "topics": ["Computers"],
+      "collocations": {
+        "adjective": ["computer", "Internet", "network"],
+        "verb + terminal": ["connect", "install", "use"],
+        "terminal + noun": ["screen", "server"],
+        "preposition": ["at a/​the terminal", "on a/​the terminal"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a point at which connections can be made in an electric circuit",
+      "labels": "(specialist)",
+      "examples": [
+        {
+          "text": "a **positive/negative terminal**"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtɜːmɪnl/",
+        "audio": "te/terminal/terminal__gb_3.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtɜːrmɪnl/",
+        "audio": "te/terminal/terminal__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 19th cent.: from Latin terminalis, from terminus ‘end, boundary’."
+}

@@ -1,0 +1,101 @@
+{
+  "term": "precede",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "precede",
+      "heSheIt": "precedes"
+    },
+    "pastSimple": "preceded",
+    "pastParticiple": "preceded",
+    "ingForm": "preceding"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to happen before something or come before something/somebody in order",
+      "sensetop": "precede somebody/something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "the years preceding the war"
+        },
+        {
+          "text": "His resignation was preceded by weeks of speculation."
+        },
+        {
+          "text": "She preceded me in the job."
+        },
+        {
+          "text": "in the moments which immediately preceded the earthquake"
+        }
+      ],
+      "collocations": {
+        "adverb": ["directly", "immediately", "generally"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to go in front of somebody",
+      "sensetop": "precede somebody + adv./prep.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She preceded him out of the room."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to do or say something to introduce something else",
+      "sensetop": "precede something with something",
+      "examples": [
+        {
+          "text": "She preceded her speech with a vote of thanks to the committee."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/prɪˈsiːd/",
+        "audio": "pr/precede/precede__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈsiːdz/",
+        "audio": "pr/precede/precedes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈsiːdɪd/",
+        "audio": "pr/precede/preceded__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈsiːdɪŋ/",
+        "audio": "pr/precede/preceding__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/prɪˈsiːd/",
+        "audio": "pr/precede/precede__us_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈsiːdz/",
+        "audio": "pr/precede/precedes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈsiːdɪd/",
+        "audio": "pr/precede/preceded__us_1.mp3"
+      },
+      {
+        "pronunciation": "/prɪˈsiːdɪŋ/",
+        "audio": "pr/precede/preceding__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French preceder, from Latin praecedere, from prae ‘before’ + cedere ‘go’."
+}

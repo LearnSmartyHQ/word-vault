@@ -1,0 +1,95 @@
+{
+  "term": "postpone",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "postpone",
+      "heSheIt": "postpones"
+    },
+    "pastSimple": "postponed",
+    "pastParticiple": "postponed",
+    "ingForm": "postponing"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to arrange for an event, etc. to take place at a later time or date than originally planned",
+      "sensetop": "postpone somethingpostpone something until somethingpostpone something to somethingpostpone doing something",
+      "examples": [
+        {
+          "text": "The game has already been postponed three times.",
+          "contextForm": "postpone something"
+        },
+        {
+          "text": "We'll have to postpone the meeting until next week.",
+          "contextForm": "postpone something until something"
+        },
+        {
+          "text": "They have agreed to postpone repayment of the loan to a future unspecified date.",
+          "contextForm": "postpone something to something"
+        },
+        {
+          "text": "It was an unpopular decision to postpone building the new hospital.",
+          "contextForm": "postpone doing something"
+        },
+        {
+          "text": "Ruth wrote at once, asking Maria to postpone her visit."
+        },
+        {
+          "text": "The event has been postponed indefinitely due to lack of interest."
+        },
+        {
+          "text": "The game has been postponed from Wednesday night to Friday night."
+        }
+      ],
+      "synonyms": "put off",
+      "topics": ["Working life"],
+      "collocations": {
+        "adverb": ["indefinitely", "merely", "only"],
+        "verb + postpone": ["agree to", "decide to", "be forced to"],
+        "preposition": ["for", "from", "to"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/pəˈspəʊn/",
+        "audio": "po/postpone/postpone__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/pəˈspəʊnz/",
+        "audio": "po/postpone/postpones__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/pəˈspəʊnd/",
+        "audio": "po/postpone/postponed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/pəˈspəʊnɪŋ/",
+        "audio": "po/postpone/postponing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/pəʊˈspəʊn/",
+        "audio": "po/postpone/postpone__us_1.mp3"
+      },
+      {
+        "pronunciation": "/pəʊˈspəʊnz/",
+        "audio": "po/postpone/postpones__us_1.mp3"
+      },
+      {
+        "pronunciation": "/pəʊˈspəʊnd/",
+        "audio": "po/postpone/postponed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/pəʊˈspəʊnɪŋ/",
+        "audio": "po/postpone/postponing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 15th cent.: from Latin postponere, from post ‘after’ + ponere ‘to place’."
+}

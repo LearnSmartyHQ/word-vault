@@ -1,0 +1,80 @@
+{
+  "term": "temple",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "image": "data/images/bu/buildings.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a building used for religious worship, especially in religions other than Christianity",
+      "labels": "(North American English)(North American English)",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "the Temple of Diana at Ephesus"
+        },
+        {
+          "text": "a **Buddhist/Hindu/Sikh temple**"
+        },
+        {
+          "text": "to go to temple *(= to a service in a , where Jewish people worship)"
+        },
+        {
+          "text": "They went to pray in the temple."
+        },
+        {
+          "text": "These deities prevent evil spirits from entering the temple precincts."
+        },
+        {
+          "text": "a temple dedicated to Venus"
+        },
+        {
+          "text": "the great temples of Egypt"
+        }
+      ],
+      "topics": ["Religion and festivals", "Buildings"],
+      "collocations": {
+        "adjective": ["great", "ancient", "classical"],
+        "verb + temple": ["dedicate"],
+        "temple + noun": ["priest", "priestess", "complex"],
+        "preposition": ["in a/​the temple", "to temple"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "each of the flat parts at the sides of the head, at the same level as the eyes and higher",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He had black hair, greying at the temples."
+        },
+        {
+          "text": "There was a throbbing in her temples."
+        }
+      ],
+      "topics": ["Body"],
+      "collocations": {
+        "adjective": ["left", "right", "throbbing"],
+        "verb + temple": ["massage", "rub"],
+        "temple + verb": ["throb"],
+        "preposition": ["at somebody’s/​the temples", "in somebody’s temples"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtempl/",
+        "audio": "te/temple/temple__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtempl/",
+        "audio": "te/temple/temple__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "sense 1 Old English templ, tempel, reinforced in Middle English by Old French temple, both from Latin templum ‘open or consecrated space’.sense 2 Middle English: from Old French, from an alteration of Latin tempora, plural of tempus ‘temple of the head’."
+}

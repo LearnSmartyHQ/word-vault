@@ -1,0 +1,89 @@
+{
+  "term": "jurisdiction",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the authority that an official organization has to make legal decisions about somebody/something",
+      "sensetop": "jurisdiction over somebody/somethingjurisdiction (of somebody/something) to do somethingwithin/outside somebody's jurisdiction",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The English court had no jurisdiction over the defendants.",
+          "contextForm": "jurisdiction over somebody/something"
+        },
+        {
+          "text": "The Court of Appeal exercised its jurisdiction to order a review of the case.",
+          "contextForm": "jurisdiction (of somebody/something) to do something"
+        },
+        {
+          "text": "These matters do not fall within our jurisdiction.",
+          "contextForm": "within/outside somebody's jurisdiction"
+        },
+        {
+          "text": "The Senate committees have exclusive jurisdiction over the FBI."
+        },
+        {
+          "text": "He is subject to the jurisdiction of the Indian courts."
+        },
+        {
+          "text": "The British courts have universal jurisdiction over torture cases."
+        },
+        {
+          "text": "The court has no jurisdiction in this case."
+        },
+        {
+          "text": "The matter is outside the jurisdiction of UK administrative agencies."
+        },
+        {
+          "text": "The territory is still under Russian jurisdiction."
+        }
+      ],
+      "topics": ["Preferences and decisions", "Law and justice"],
+      "collocations": {
+        "adjective": ["limited", "universal", "exclusive"],
+        "verb + jurisdiction": ["have", "retain", "exercise"],
+        "preposition": [
+          "beyond your jurisdiction",
+          "outside your jurisdiction",
+          "under jurisdiction"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "an area or a country in which a particular system of laws has authority",
+      "examples": [
+        {
+          "text": "Practice varies between different European jurisdictions."
+        }
+      ],
+      "collocations": {
+        "adjective": ["limited", "universal", "exclusive"],
+        "verb + jurisdiction": ["have", "retain", "exercise"],
+        "preposition": [
+          "beyond your jurisdiction",
+          "outside your jurisdiction",
+          "under jurisdiction"
+        ]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌdʒʊərɪsˈdɪkʃn/",
+        "audio": "ju/jurisdiction/jurisdiction__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌdʒʊrɪsˈdɪkʃn/",
+        "audio": "ju/jurisdiction/jurisdiction__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French jurediction, from Latin jurisdictio(n-), from jus, jur- ‘law’ + dictio ‘saying’ (from dicere ‘say’)."
+}

@@ -1,0 +1,132 @@
+{
+  "term": "fruit",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/fr/fruit_misc.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the part of a plant that consists of one or more seeds and a soft inner part, can be eaten as food and usually tastes sweet",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "tropical fruits, such as bananas and pineapples"
+        },
+        {
+          "text": "citrus fruits, such as oranges and lemons"
+        },
+        {
+          "text": "Eat plenty of **fresh fruit** and vegetables."
+        },
+        {
+          "text": "Eat five daily portions of **fruit and vegetables**."
+        },
+        {
+          "text": "a **piece of fruit** *(= an apple, an orange, etc.)*"
+        },
+        {
+          "text": "The colour indicates when the fruit is ripe."
+        },
+        {
+          "text": "Whole fruits contain more fibre than **fruit juice**."
+        },
+        {
+          "text": "The orchard has over 300 fruit trees."
+        }
+      ],
+      "topics": ["Food", "Farming"],
+      "collocations": {
+        "adjective": ["fresh", "overripe", "ripe"],
+        "… of fruit": ["piece"],
+        "verb + fruit": ["eat", "have", "bear"],
+        "fruit + verb": ["grow", "ripen"],
+        "phrases": ["fruit and vegetables"],
+        "fruit + noun": ["tree", "juice", "punch"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a part of a plant or tree that is formed after the flowers have died and in which seeds develop",
+      "labels": "(specialist)",
+      "examples": [
+        {
+          "text": "The crab apple bears a small, bitter fruit."
+        }
+      ],
+      "collocations": {
+        "adjective": ["fresh", "overripe", "ripe"],
+        "… of fruit": ["piece"],
+        "verb + fruit": ["eat", "have", "bear"],
+        "fruit + verb": ["grow", "ripen"],
+        "phrases": ["fruit and vegetables"],
+        "fruit + noun": ["tree", "juice", "punch"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "all the natural things that the earth produces",
+      "labels": "(literary)",
+      "examples": []
+    },
+    {
+      "senseNumber": 4,
+      "definition": "an offensive word for a gay man",
+      "labels": "(taboo, offensive, slang)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to have a successful result",
+      "examples": [],
+      "topics": ["Success"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "a thing that is not allowed and that therefore seems very attractive",
+      "examples": [
+        {
+          "text": "Well, you know what they say— forbidden fruit tastes sweetest."
+        }
+      ],
+      "topics": ["Permission and obligation"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "the good results of an activity or a situation",
+      "examples": [
+        {
+          "text": "to enjoy the fruits of your labours *(= the rewards for your hard work)*"
+        },
+        {
+          "text": "The book is the fruit of years of research."
+        },
+        {
+          "text": "He was now reaping the fruits of all his hard work."
+        },
+        {
+          "text": "Their work left them enough time to enjoy the fruits of their success."
+        },
+        {
+          "text": "the first fruits of the government's health campaign"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/fruːt/",
+        "audio": "fr/fruit/fruit__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/fruːt/",
+        "audio": "fr/fruit/fruit__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French, from Latin fructus ‘enjoyment of produce, harvest’, from frui ‘enjoy’, related to fruges ‘fruits of the earth’, plural (and most common form) of frux, frug- ‘fruit’."
+}

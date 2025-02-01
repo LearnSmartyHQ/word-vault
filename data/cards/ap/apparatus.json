@@ -1,0 +1,73 @@
+{
+  "term": "apparatus",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the tools or other pieces of equipment that are needed for a particular activity or task",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a piece of laboratory apparatus"
+        },
+        {
+          "text": "Firefighters needed breathing apparatus to enter the burning house."
+        },
+        {
+          "text": "Science departments say they are lacking basic apparatus."
+        }
+      ],
+      "topics": ["Scientific research"],
+      "collocations": {
+        "adjective": ["breathing", "electrical", "experimental"],
+        "… of apparatus": ["piece"],
+        "phrases": ["the apparatus of government", "the apparatus of the state"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the structure of a system or an organization, particularly that of a political party or a government",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the power of the state apparatus"
+        },
+        {
+          "text": "We cannot do without the apparatus of government in protecting the rights of the individual."
+        }
+      ],
+      "collocations": {
+        "adjective": ["breathing", "electrical", "experimental"],
+        "… of apparatus": ["piece"],
+        "phrases": ["the apparatus of government", "the apparatus of the state"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a system of organs in the body",
+      "labels": "(specialist)",
+      "examples": [
+        {
+          "text": "the sensory apparatus"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌæpəˈreɪtəs/",
+        "audio": "ap/apparatus/apparatus__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌæpəˈrætəs/",
+        "audio": "ap/apparatus/apparatus__us_1_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 17th cent.: from Latin, from apparare ‘make ready for’, from ad- ‘towards’ + parare ‘make ready’."
+}

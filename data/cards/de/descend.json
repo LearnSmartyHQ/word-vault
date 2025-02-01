@@ -1,0 +1,113 @@
+{
+  "term": "descend",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "descend",
+      "heSheIt": "descends"
+    },
+    "pastSimple": "descended",
+    "pastParticiple": "descended",
+    "ingForm": "descending"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to come or go down from a higher to a lower level",
+      "sensetop": "descend something",
+      "labels": "(formal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The plane began to descend."
+        },
+        {
+          "text": "The results, ranked **in descending order** *(= from the highest to the lowest)* are as follows…"
+        },
+        {
+          "text": "She descended the stairs slowly.",
+          "contextForm": "descend something"
+        }
+      ],
+      "collocations": {
+        "adverb": ["quickly", "rapidly", "slowly"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to slope downwards",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "At this point the path descends steeply."
+        }
+      ],
+      "collocations": {
+        "adverb": ["steeply", "gently", "gradually"],
+        "preposition": ["into", "to"],
+        "phrases": [
+          "descend into chaos",
+          "descend into farce",
+          "descend into madness"
+        ]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to arrive and begin to affect somebody/something",
+      "sensetop": "descend on/upon somebody/something",
+      "labels": "(literary)",
+      "examples": [
+        {
+          "text": "Night descends quickly in the tropics."
+        },
+        {
+          "text": "Calm descended on the crowd.",
+          "contextForm": "descend on/upon somebody/something"
+        }
+      ],
+      "synonyms": "fall"
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈsend/",
+        "audio": "de/descend/descend__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈsendz/",
+        "audio": "de/descend/descends__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈsendɪd/",
+        "audio": "de/descend/descended__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈsendɪŋ/",
+        "audio": "de/descend/descending__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈsend/",
+        "audio": "de/descend/descend__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈsendz/",
+        "audio": "de/descend/descends__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈsendɪd/",
+        "audio": "de/descend/descended__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈsendɪŋ/",
+        "audio": "de/descend/descending__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French descendre, from Latin descendere, from de- ‘down’ + scandere ‘to climb’."
+}

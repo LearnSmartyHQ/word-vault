@@ -1,0 +1,98 @@
+{
+  "term": "dress",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/cl/clothes_dresses_skirts.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a piece of clothing that is made in one piece and hangs down to cover the body as far as the legs, sometimes reaching to below the knees, or to the ankles",
+      "sensetop": "in a dress",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a long white dress"
+        },
+        {
+          "text": "to wear/put on/take off a dress"
+        },
+        {
+          "text": "a young woman in a pink silk dress",
+          "contextForm": "in a dress"
+        },
+        {
+          "text": "I appeared in a slinky satin dress."
+        },
+        {
+          "text": "These shoes go best with my dress."
+        },
+        {
+          "text": "She hitched up her long dress so it wouldn't drag in the mud."
+        },
+        {
+          "text": "You will look elegant in a simple black dress."
+        },
+        {
+          "text": "She sat down and smoothed her dress over her legs."
+        }
+      ],
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adjective": ["beautiful", "elegant", "gorgeous"],
+        "verb + dress": ["unzip", "zip", "zip up"],
+        "dress + noun": ["shop", "designer", "size"],
+        "preposition": ["in a/​the dress"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "clothes of a particular type",
+      "sensetop": "in… dress",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to wear casual/formal dress"
+        },
+        {
+          "text": "men and women in traditional Tibetan dress",
+          "contextForm": "in… dress"
+        },
+        {
+          "text": "a performance of ‘Hamlet’ in modern dress"
+        },
+        {
+          "text": "He has no **dress sense** *(= no idea of how to dress well)*."
+        },
+        {
+          "text": "We were allowed to wear casual dress on Fridays."
+        },
+        {
+          "text": "He was wearing traditional Scottish dress."
+        }
+      ],
+      "collocations": {
+        "adjective": ["ceremonial", "formal", "casual"],
+        "dress + noun": ["code", "sense", "coat"],
+        "preposition": ["in… dress"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dres/",
+        "audio": "dr/dress/dress__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dres/",
+        "audio": "dr/dress/dress__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (in the sense ‘put straight’): from Old French dresser ‘arrange, prepare’, based on Latin directus ‘direct, straight’."
+}

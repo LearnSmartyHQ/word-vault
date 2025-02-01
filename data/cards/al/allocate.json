@@ -1,0 +1,93 @@
+{
+  "term": "allocate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "allocate",
+      "heSheIt": "allocates"
+    },
+    "pastSimple": "allocated",
+    "pastParticiple": "allocated",
+    "ingForm": "allocating"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to give something officially to somebody/something for a particular purpose",
+      "sensetop": "allocate something (for something)allocate something (to somebody/something)allocate somebody/something sthallocate something to do something",
+      "examples": [
+        {
+          "text": "A large sum has been allocated for buying new books for the library.",
+          "contextForm": "allocate something (for something)"
+        },
+        {
+          "text": "They intend to allocate more places to mature students this year.",
+          "contextForm": "allocate something (to somebody/something)"
+        },
+        {
+          "text": "More resources are being allocated to the project."
+        },
+        {
+          "text": "The project is being allocated more resources.",
+          "contextForm": "allocate somebody/something sth"
+        },
+        {
+          "text": "Millions have been allocated to improve students' performance.",
+          "contextForm": "allocate something to do something"
+        },
+        {
+          "text": "More money should be allocated for famine relief."
+        },
+        {
+          "text": "More funds will now be allocated to charitable organizations."
+        }
+      ],
+      "collocations": {
+        "adverb": ["randomly", "efficiently"],
+        "preposition": ["according to", "by", "for"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈæləkeɪt/",
+        "audio": "al/allocate/allocate__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈæləkeɪts/",
+        "audio": "al/allocate/allocates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈæləkeɪtɪd/",
+        "audio": "al/allocate/allocated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈæləkeɪtɪŋ/",
+        "audio": "al/allocate/allocating__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈæləkeɪt/",
+        "audio": "al/allocate/allocate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈæləkeɪts/",
+        "audio": "al/allocate/allocates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈæləkeɪtɪd/",
+        "audio": "al/allocate/allocated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈæləkeɪtɪŋ/",
+        "audio": "al/allocate/allocating__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 17th cent.: from medieval Latin allocat- ‘allotted’, from the verb allocare, from ad- ‘to’ + locare, from locus ‘place’."
+}

@@ -1,0 +1,41 @@
+{
+  "term": "rifle",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a gun with a long barrel which you hold to your shoulder to fire",
+      "examples": [
+        {
+          "text": "a hunting rifle"
+        },
+        {
+          "text": "an assault rifle"
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adjective": ["automatic", "bolt-action", "semi-automatic"],
+        "verb + rifle": ["grab", "load", "reload"],
+        "rifle + noun": ["barrel", "butt", "bullet"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈraɪfl/",
+        "audio": "ri/rifle/rifle__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈraɪfl/",
+        "audio": "ri/rifle/rifle__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "noun mid 17th cent.: from French rifler ‘graze, scratch’, of Germanic origin. The earliest noun usage was in rifle gun, which had “rifles” or spiral grooves cut into the inside of the barrel."
+}

@@ -1,0 +1,173 @@
+{
+  "term": "crawl",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "crawl",
+      "heSheIt": "crawls"
+    },
+    "pastSimple": "crawled",
+    "pastParticiple": "crawled",
+    "ingForm": "crawling"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to move forward on your hands and knees or with your body close to the ground",
+      "sensetop": "(+ adv./prep.)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Our baby is just starting to crawl."
+        },
+        {
+          "text": "A man was crawling away from the burning wreckage."
+        },
+        {
+          "text": "She crawled under the fence."
+        },
+        {
+          "text": "As night fell, we managed to crawl back to our lines."
+        },
+        {
+          "text": "Has the baby started to crawl yet?"
+        },
+        {
+          "text": "We spent an hour crawling around on our hands and knees looking for the key."
+        },
+        {
+          "text": "She was forced to crawl along through the thickening mist."
+        }
+      ],
+      "topics": ["Life stages"],
+      "collocations": {
+        "adverb": ["quickly", "slowly", "about"],
+        "verb + crawl": ["manage to", "start to"],
+        "preposition": ["across", "along", "into"],
+        "phrases": ["crawl on (your) hands and knees"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "when an insect, a spider, etc. crawls, it moves forward on its legs",
+      "sensetop": "(+ adv./prep.)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "There's a spider crawling up your leg."
+        }
+      ],
+      "topics": ["Insects, worms, etc."]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to move forward very slowly",
+      "sensetop": "(+ adv./prep.)",
+      "examples": [
+        {
+          "text": "The traffic was crawling along."
+        },
+        {
+          "text": "The weeks crawled by."
+        },
+        {
+          "text": "The traffic was crawling as I left the city."
+        },
+        {
+          "text": "The taxi crawled to a halt."
+        }
+      ],
+      "collocations": {
+        "adverb": ["quickly", "slowly", "about"],
+        "verb + crawl": ["manage to", "start to"],
+        "preposition": ["across", "along", "into"],
+        "phrases": ["crawl on (your) hands and knees"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to be too friendly or helpful to somebody in authority, in a way that is not sincere, especially in order to get an advantage from them",
+      "sensetop": "crawl (to somebody)",
+      "labels": "(informal, disapproving)",
+      "examples": [
+        {
+          "text": "She's always crawling to the boss."
+        }
+      ]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to search the internet in order to record and list data",
+      "sensetop": "crawl something",
+      "labels": "(computing)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "A protocol controls which pages a web crawler will crawl."
+        }
+      ],
+      "topics": ["Phones, email and the internet"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "if you say that somebody comes/crawls out of the woodwork, you mean that they have suddenly appeared in order to express an opinion or to take advantage of a situation",
+      "labels": "(informal, disapproving)",
+      "examples": [
+        {
+          "text": "When he won the lottery, all sorts of distant relatives came out of the woodwork."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to make you feel afraid or full of horror",
+      "examples": [
+        {
+          "text": "Just the sight of him makes my skin crawl."
+        }
+      ],
+      "topics": ["Feelings"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/krɔːl/",
+        "audio": "cr/crawl/crawl__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/krɔːlz/",
+        "audio": "cr/crawl/crawls__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/krɔːld/",
+        "audio": "cr/crawl/crawled__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkrɔːlɪŋ/",
+        "audio": "cr/crawl/crawling__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/krɔːl/",
+        "audio": "cr/crawl/crawl__us_1.mp3"
+      },
+      {
+        "pronunciation": "/krɔːlz/",
+        "audio": "cr/crawl/crawls__us_1.mp3"
+      },
+      {
+        "pronunciation": "/krɔːld/",
+        "audio": "cr/crawl/crawled__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkrɔːlɪŋ/",
+        "audio": "cr/crawl/crawling__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: of unknown origin; possibly related to Swedish kravla and Danish kravle."
+}

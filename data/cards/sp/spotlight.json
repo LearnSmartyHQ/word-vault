@@ -1,0 +1,141 @@
+{
+  "term": "spotlight",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "image": "data/images/sp/spotlight.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a light with a single, very bright beam that can be directed at a particular place or person, especially a performer on the stage",
+      "labels": "informal",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The room was lit by spotlights."
+        },
+        {
+          "text": "When the stage is dimmed, spotlights are used to create a tight arc of light."
+        },
+        {
+          "text": "It was hot under the spotlights."
+        },
+        {
+          "text": "They shone the spotlight on a woman at the back of the audience."
+        }
+      ],
+      "topics": ["Film and theatre"],
+      "collocations": {
+        "verb + spotlight": ["shine", "step into"],
+        "spotlight + verb": [
+          "be on somebody/​something",
+          "fall on somebody/​something",
+          "shine on somebody/​something"
+        ],
+        "preposition": ["in the spotlight", "under the spotlight"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the area of light that is made by a spotlight",
+      "sensetop": "in the spotlight",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She stood alone on stage in the spotlight.",
+          "contextForm": "in the spotlight"
+        },
+        {
+          "text": "He stepped into the spotlight to the wild applause of the crowd."
+        }
+      ],
+      "collocations": {
+        "verb + spotlight": ["shine", "step into"],
+        "spotlight + verb": [
+          "be on somebody/​something",
+          "fall on somebody/​something",
+          "shine on somebody/​something"
+        ],
+        "preposition": ["in the spotlight", "under the spotlight"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "attention from newspapers, television and the public",
+      "sensetop": "in the spotlightunder the spotlight",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Unemployment is once again in the spotlight.",
+          "contextForm": "in the spotlight"
+        },
+        {
+          "text": "The issue will come under the spotlight when parliament reassembles.",
+          "contextForm": "under the spotlight"
+        },
+        {
+          "text": "The report has **turned the spotlight on** the startling rise in street crime."
+        },
+        {
+          "text": "She was happy to share the spotlight with her sister."
+        },
+        {
+          "text": "He accused her of hogging the spotlight."
+        },
+        {
+          "text": "He will want to keep the spotlight on the divisions within the party."
+        },
+        {
+          "text": "She was suddenly thrust into the political spotlight."
+        },
+        {
+          "text": "The President has never been one to shun the spotlight."
+        },
+        {
+          "text": "The affair is now out of the spotlight."
+        },
+        {
+          "text": "The captain had to share the spotlight with the new young star."
+        },
+        {
+          "text": "The quality of food in the shops is back in the spotlight."
+        },
+        {
+          "text": "These revelations threw a spotlight on the shakiness of the economy."
+        },
+        {
+          "text": "This issue will come under the spotlight at tomorrow's meeting."
+        }
+      ],
+      "collocations": {
+        "adjective": ["harsh", "international", "national"],
+        "verb + spotlight": ["come into", "come under", "be thrust into"],
+        "spotlight + verb": [
+          "be on somebody/​something",
+          "fall on somebody/​something",
+          "shine on somebody/​something"
+        ],
+        "preposition": [
+          "away from the spotlight",
+          "in the spotlight",
+          "under the spotlight"
+        ]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈspɒtlaɪt/",
+        "audio": "sp/spotlight/spotlight__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈspɑːtlaɪt/",
+        "audio": "sp/spotlight/spotlight__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

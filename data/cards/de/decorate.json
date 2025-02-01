@@ -1,0 +1,157 @@
+{
+  "term": "decorate",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b1",
+  "image": "data/images/de/decorating_diy.png",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "decorate",
+      "heSheIt": "decorates"
+    },
+    "pastSimple": "decorated",
+    "pastParticiple": "decorated",
+    "ingForm": "decorating"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to make something look more attractive by putting things on it",
+      "sensetop": "decorate something with somethingdecorate something",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "They decorated the room with flowers and balloons.",
+          "contextForm": "decorate something with something"
+        },
+        {
+          "text": "The cake was decorated to look like a car.",
+          "contextForm": "decorate something"
+        },
+        {
+          "text": "The family gets together on Christmas Eve to decorate the tree."
+        }
+      ],
+      "topics": ["Art"],
+      "collocations": {
+        "adverb": ["elaborately", "gaily", "heavily"],
+        "preposition": ["with"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to put paint, wallpaper, etc. on the walls and ceilings of a room or house",
+      "sensetop": "decorate somethingdecorate something in something",
+      "labels": "(especially British English)(British English)(especially North American English)(British English)(British English)(North American English)(British English)(especially British English)(British English)(British English)(especially British English)(especially British English)(North American English usually)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Sorry about the mess—we've just started decorating."
+        },
+        {
+          "text": "to decorate a room/a wall/a house/an apartment",
+          "contextForm": "decorate something"
+        },
+        {
+          "text": "We need to decorate the sitting room."
+        },
+        {
+          "text": "The sitting room needs decorating."
+        },
+        {
+          "text": "These villas come fully **furnished and decorated**."
+        },
+        {
+          "text": "The bedrooms are **tastefully decorated**."
+        },
+        {
+          "text": "The room is decorated in pale blues and greens.",
+          "contextForm": "decorate something in something"
+        },
+        {
+          "text": "The dining room is decorated in a modern style."
+        }
+      ],
+      "topics": ["Houses and homes"],
+      "collocations": {
+        "adverb": ["nicely", "pleasantly", "tastefully"],
+        "preposition": ["in"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to be placed on something in order to make it look more attractive",
+      "sensetop": "decorate something",
+      "examples": [
+        {
+          "text": "Photographs of actors decorated the walls of the restaurant."
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to give somebody an award or medal as a sign of respect for something they have done",
+      "sensetop": "be decorated (for something)",
+      "examples": [
+        {
+          "text": "She was decorated for her efforts during the war.",
+          "contextForm": "be decorated (for something)"
+        },
+        {
+          "text": "decorated war heroes/veterans"
+        },
+        {
+          "text": "He was decorated for bravery."
+        },
+        {
+          "text": "the most highly decorated unit in the British Army"
+        }
+      ],
+      "collocations": {
+        "preposition": ["for"],
+        "phrases": ["highly decorated"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdekəreɪt/",
+        "audio": "de/decorate/decorate__gb_3.mp3"
+      },
+      {
+        "pronunciation": "/ˈdekəreɪts/",
+        "audio": "de/decorate/decorates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈdekəreɪtɪd/",
+        "audio": "de/decorate/decorated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈdekəreɪtɪŋ/",
+        "audio": "de/decorate/decorating__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdekəreɪt/",
+        "audio": "de/decorate/decorate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈdekəreɪts/",
+        "audio": "de/decorate/decorates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈdekəreɪtɪd/",
+        "audio": "de/decorate/decorated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈdekəreɪtɪŋ/",
+        "audio": "de/decorate/decorating__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 16th cent. (in the sense ‘to grace or honour’): from Latin decoratus ‘embellished’ (past participle of decorare), from decus, decor- ‘beauty, honour, or embellishment’."
+}

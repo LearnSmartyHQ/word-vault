@@ -1,0 +1,63 @@
+{
+  "term": "banana",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/fr/fruit_tropical.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a long curved fruit with a thick yellow skin and that is soft inside, which grows on trees in hot countries",
+      "examples": [
+        {
+          "text": "a bunch of bananas"
+        },
+        {
+          "text": "ripe bananas"
+        },
+        {
+          "text": "mashed banana"
+        },
+        {
+          "text": "a banana skin/peel"
+        }
+      ],
+      "topics": ["Food"],
+      "collocations": {
+        "adjective": ["ripe", "overripe", "green"],
+        "… of bananas": ["bunch"],
+        "verb + banana": ["eat", "have", "pick"],
+        "banana + noun": ["peel", "skin", "plant"]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "to become angry, crazy or silly",
+      "labels": "(slang)",
+      "examples": [
+        {
+          "text": "He'll go bananas when he finds out."
+        },
+        {
+          "text": "The British press has gone bananas, proclaiming the end of civilization as we know it."
+        }
+      ],
+      "topics": ["Feelings"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bəˈnɑːnə/",
+        "audio": "ba/banana/banana__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bəˈnænə/",
+        "audio": "ba/banana/banana__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 16th cent.: via Portuguese or Spanish from Mande. Mande is a group of Niger-Congo languages spoken by the Mande people of West Africa."
+}

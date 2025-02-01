@@ -1,0 +1,149 @@
+{
+  "term": "attach",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "attach",
+      "heSheIt": "attaches"
+    },
+    "pastSimple": "attached",
+    "pastParticiple": "attached",
+    "ingForm": "attaching"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to fasten or join one thing to another",
+      "sensetop": "attach somethingattach something to something",
+      "labels": "(figurative)",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I attach a copy of my notes for your information.",
+          "contextForm": "attach something"
+        },
+        {
+          "text": "A copy of his document is attached as Appendix 3 at the end of this book."
+        },
+        {
+          "text": "Attach the coupon to the front of your letter.",
+          "contextForm": "attach something to something"
+        },
+        {
+          "text": "They have **attached** a number of **conditions** to the agreement *(= said that the conditions must be part of the agreement)*"
+        }
+      ],
+      "topics": ["Phones, email and the internet"],
+      "collocations": {
+        "adverb": ["firmly", "securely", "loosely"],
+        "preposition": ["to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to send an electronic document with an email",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I attach a copy of the spreadsheet."
+        },
+        {
+          "text": "I am attaching the image as a PDF file."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to believe that something is important or worth thinking about",
+      "sensetop": "attach importance, significance, value, weight to something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I attach great importance to this research.",
+          "contextForm": "attach importance, significance, value, weight to something"
+        },
+        {
+          "text": "I wouldn't attach too much weight to these findings."
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to join somebody for a time, sometimes when you are not welcome or have not been invited",
+      "sensetop": "attach yourself to somebody",
+      "examples": [
+        {
+          "text": "He attached himself to me at the party and I couldn't get rid of him."
+        }
+      ]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to be connected with somebody/something; to connect something to something",
+      "sensetop": "attach to somebody/somethingattach something to somebody/somethingbe attached to something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "No one is suggesting that any health risks attach to this product.",
+          "contextForm": "attach to somebody/something"
+        },
+        {
+          "text": "No blame attaches to you."
+        },
+        {
+          "text": "This does not attach any blame to you.",
+          "contextForm": "attach something to somebody/something"
+        },
+        {
+          "text": "Nowadays, there is less **stigma attached to** mental illness than in the past.",
+          "contextForm": "be attached to something"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈtætʃ/",
+        "audio": "at/attach/attach__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈtætʃɪz/",
+        "audio": "at/attach/attaches__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈtætʃt/",
+        "audio": "at/attach/attached__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈtætʃɪŋ/",
+        "audio": "at/attach/attaching__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈtætʃ/",
+        "audio": "at/attach/attach__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈtætʃɪz/",
+        "audio": "at/attach/attaches__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈtætʃt/",
+        "audio": "at/attach/attached__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈtætʃɪŋ/",
+        "audio": "at/attach/attaching__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (in the sense ‘seize by legal authority’): from Old French atachier or estachier ‘fasten, fix’, based on an element of Germanic origin related to stake ‘post’; compare with attack."
+}

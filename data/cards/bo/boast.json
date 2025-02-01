@@ -1,0 +1,111 @@
+{
+  "term": "boast",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "boast",
+      "heSheIt": "boasts"
+    },
+    "pastSimple": "boasted",
+    "pastParticiple": "boasted",
+    "ingForm": "boasting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to talk in a way that shows you are too proud of something that you have or can do",
+      "sensetop": "boast about somethingboast of somethingboast that…+ speech",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "I don't want to boast, but I can actually speak six languages."
+        },
+        {
+          "text": "She is always boasting about how wonderful her children are.",
+          "contextForm": "boast about something"
+        },
+        {
+          "text": "He openly boasted of his skill as a burglar.",
+          "contextForm": "boast of something"
+        },
+        {
+          "text": "Sam boasted that she could beat anyone at poker.",
+          "contextForm": "boast that…"
+        },
+        {
+          "text": "Hay's booksellers justifiably boast that they cater for all tastes."
+        },
+        {
+          "text": "‘I won!’ she boasted.",
+          "contextForm": "+ speech"
+        }
+      ],
+      "topics": ["Success", "Personal qualities"],
+      "collocations": {
+        "adverb": ["openly"],
+        "preposition": ["about", "of"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to have something that is impressive",
+      "sensetop": "boast something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The hotel also boasts two swimming pools and a golf course."
+        },
+        {
+          "text": "Rhodes boasts 300 days of sunshine a year."
+        },
+        {
+          "text": "This is a region which proudly boasts its own distinct culture."
+        }
+      ],
+      "collocations": {
+        "adverb": ["proudly"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bəʊst/",
+        "audio": "bo/boast/boast__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/bəʊsts/",
+        "audio": "bo/boast/boasts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈbəʊstɪd/",
+        "audio": "bo/boast/boasted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈbəʊstɪŋ/",
+        "audio": "bo/boast/boasting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bəʊst/",
+        "audio": "bo/boast/boast__us_1.mp3"
+      },
+      {
+        "pronunciation": "/bəʊsts/",
+        "audio": "bo/boast/boasts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈbəʊstɪd/",
+        "audio": "bo/boast/boasted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈbəʊstɪŋ/",
+        "audio": "bo/boast/boasting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (as a noun): of unknown origin."
+}

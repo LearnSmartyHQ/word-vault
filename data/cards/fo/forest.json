@@ -1,0 +1,97 @@
+{
+  "term": "forest",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "image": "data/images/mo/mountains.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a large area of land that is thickly covered with trees",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a tropical/pine forest"
+        },
+        {
+          "text": "One careless match can start a **forest fire**."
+        },
+        {
+          "text": "Thousands of hectares of forest are destroyed each year."
+        },
+        {
+          "text": "the forest floor/canopy"
+        },
+        {
+          "text": "Forest is being cleared to make way for new farming land."
+        },
+        {
+          "text": "He warned her never to enter the forest at night."
+        },
+        {
+          "text": "Much of Europe was once covered in forest."
+        },
+        {
+          "text": "They got lost in the forest."
+        },
+        {
+          "text": "Thick forest stretched as far as the eye could see."
+        },
+        {
+          "text": "We slashed our way through the dense forest."
+        },
+        {
+          "text": "a large stretch of virgin forest"
+        },
+        {
+          "text": "The species is found in both coniferous and deciduous forests."
+        }
+      ],
+      "topics": ["Geography"],
+      "collocations": {
+        "adjective": ["dense", "thick", "impenetrable"],
+        "… of forest": ["stretch", "tract"],
+        "verb + forest": ["plant", "clear", "cut down"],
+        "forest + verb": ["stretch", "surround"],
+        "forest + noun": ["tree", "floor", "canopy"],
+        "preposition": ["in a/​the forest", "through a/​the forest"],
+        "phrases": [
+          "the edge of the forest",
+          "the heart of the forest",
+          "the middle of the forest"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a mass of tall narrow objects that are close together",
+      "sensetop": "forest (of something)",
+      "examples": [
+        {
+          "text": "a forest of cranes on the skyline"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to not see or understand the main point about something, because you are paying too much attention to small details",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfɒrɪst/",
+        "audio": "fo/forest/forest__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfɔːrɪst/",
+        "audio": "fo/forest/forest__us_1_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English (in the sense ‘wooded area kept for hunting’, also denoting any uncultivated land): via Old French from late Latin forestis (silva) , literally ‘(wood) outside’, from Latin foris ‘outside’, from fores ‘door’."
+}

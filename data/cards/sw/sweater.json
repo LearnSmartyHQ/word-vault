@@ -1,0 +1,49 @@
+{
+  "term": "sweater",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "image": "data/images/cl/clothes_sweaters.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a piece of clothing for the upper part of the body, made of wool or cotton, with long sleeves",
+      "examples": [
+        {
+          "text": "She wore jeans and a sweater."
+        },
+        {
+          "text": "He was wearing a cashmere sweater over his shirt."
+        },
+        {
+          "text": "She has knitted me beautiful sweaters and socks."
+        },
+        {
+          "text": "a grey merino wool turtleneck sweater"
+        }
+      ],
+      "synonyms": "jumper (1)",
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adjective": ["bulky", "chunky", "heavy"],
+        "verb + sweater": ["pull on", "knit"],
+        "sweater + noun": ["vest"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈswetə(r)/",
+        "audio": "sw/sweater/sweater__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈswetər/",
+        "audio": "sw/sweater/sweater__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

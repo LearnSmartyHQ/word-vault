@@ -1,0 +1,97 @@
+{
+  "term": "await",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "await",
+      "heSheIt": "awaits"
+    },
+    "pastSimple": "awaited",
+    "pastParticiple": "awaited",
+    "ingForm": "awaiting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to wait for somebody/something",
+      "sensetop": "await somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He is in custody **awaiting trial**."
+        },
+        {
+          "text": "Her latest novel is eagerly awaited."
+        },
+        {
+          "text": "The outcome of the appeal is awaited with interest."
+        },
+        {
+          "text": "her long awaited return to professional tennis"
+        },
+        {
+          "text": "Scientists are still awaiting the results of tests."
+        }
+      ],
+      "collocations": {
+        "adverb": ["anxiously", "breathlessly", "nervously"],
+        "phrases": ["long awaited"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to be going to happen to somebody",
+      "sensetop": "await somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "A warm welcome awaits all our guests."
+        },
+        {
+          "text": "Who knows what dangers may await us?"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈweɪt/",
+        "audio": "aw/await/await__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈweɪts/",
+        "audio": "aw/await/awaits__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈweɪtɪd/",
+        "audio": "aw/await/awaited__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈweɪtɪŋ/",
+        "audio": "aw/await/awaiting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈweɪt/",
+        "audio": "aw/await/await__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈweɪts/",
+        "audio": "aw/await/awaits__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈweɪtɪd/",
+        "audio": "aw/await/awaited__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈweɪtɪŋ/",
+        "audio": "aw/await/awaiting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Anglo-Norman French awaitier, from a- (from Latin ad ‘to, at’) + waitier ‘to wait’."
+}

@@ -1,0 +1,86 @@
+{
+  "term": "duplicate",
+  "partOfSpeech": "verb",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "duplicate",
+      "heSheIt": "duplicates"
+    },
+    "pastSimple": "duplicated",
+    "pastParticiple": "duplicated",
+    "ingForm": "duplicating"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to make an exact copy of something",
+      "sensetop": "duplicate something",
+      "examples": [
+        {
+          "text": "Please keep the duplicated form and send us the original."
+        },
+        {
+          "text": "This is a natural look which you can easily duplicate at home."
+        }
+      ],
+      "collocations": {
+        "adverb": ["exactly", "simply", "easily"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to do something again, especially when it is unnecessary",
+      "sensetop": "duplicate something",
+      "examples": [
+        {
+          "text": "There's no point in duplicating work already done."
+        },
+        {
+          "text": "The original experiment cannot be exactly duplicated."
+        }
+      ],
+      "collocations": {
+        "adverb": ["exactly", "simply", "easily"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdjuːplɪkeɪt/",
+        "audio": "du/duplicate/duplicate__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈdjuːplɪkeɪts/",
+        "audio": "du/duplicate/duplicates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈdjuːplɪkeɪtɪd/",
+        "audio": "du/duplicate/duplicated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈdjuːplɪkeɪtɪŋ/",
+        "audio": "du/duplicate/duplicating__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈduːplɪkeɪt/",
+        "audio": "du/duplicate/duplicate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈduːplɪkeɪts/",
+        "audio": "du/duplicate/duplicates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈduːplɪkeɪtɪd/",
+        "audio": "du/duplicate/duplicated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈduːplɪkeɪtɪŋ/",
+        "audio": "du/duplicate/duplicating__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in the sense ‘having two corresponding parts’): from Latin duplicat- ‘doubled’, from the verb duplicare, from duplic- ‘twofold’, from duo ‘two’ + plicare ‘to fold’."
+}

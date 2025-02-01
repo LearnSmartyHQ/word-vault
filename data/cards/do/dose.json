@@ -1,0 +1,95 @@
+{
+  "term": "dose",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "an amount of a medicine or a drug that is taken once, or regularly over a period of time",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a **high/low/lethal dose**"
+        },
+        {
+          "text": "Repeat the dose after 12 hours if necessary."
+        },
+        {
+          "text": "Take a single dose at bedtime to help you sleep."
+        },
+        {
+          "text": "I always take my daily dose of vitamin C."
+        },
+        {
+          "text": "The nurse will administer the correct dose."
+        },
+        {
+          "text": "a strong dose of painkillers"
+        },
+        {
+          "text": "patients who receive high doses of this drug"
+        }
+      ],
+      "topics": ["Healthcare"],
+      "collocations": {
+        "adjective": ["high", "large", "massive"],
+        "verb + dose": ["get", "receive", "take"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "an amount of something",
+      "labels": "(informal)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "A dose of flu kept me off work."
+        },
+        {
+          "text": "Workers at the nuclear plant were exposed to high doses of radiation."
+        },
+        {
+          "text": "I can cope with her **in small doses** *(= for short amounts of time)*."
+        },
+        {
+          "text": "The film also contains a hefty dose of comedy."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "very fast and easily",
+      "labels": "(British English, old-fashioned, informal)",
+      "examples": [
+        {
+          "text": "He got through the housework like a dose of salts."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "the same bad treatment that you have given to others",
+      "examples": [
+        {
+          "text": "Let the bully have a taste of his own medicine."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dəʊs/",
+        "audio": "do/dose/dose__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dəʊs/",
+        "audio": "do/dose/dose__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from French, via late Latin from Greek dosis ‘gift’, from didonai ‘give’."
+}

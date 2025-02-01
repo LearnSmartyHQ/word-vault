@@ -1,0 +1,112 @@
+{
+  "term": "devour",
+  "partOfSpeech": "verb",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "devour",
+      "heSheIt": "devours"
+    },
+    "pastSimple": "devoured",
+    "pastParticiple": "devoured",
+    "ingForm": "devouring"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to eat all of something quickly, especially because you are very hungry",
+      "sensetop": "devour something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He devoured half of his burger in one bite."
+        },
+        {
+          "text": "The animal quickly devoured its prey."
+        }
+      ],
+      "synonyms": "gobble",
+      "topics": ["Feelings"],
+      "collocations": {
+        "adverb": ["eagerly", "greedily", "hungrily"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to read or look at something with great interest and enthusiasm",
+      "examples": [
+        {
+          "text": "She devoured everything she could lay her hands on: books, magazines and newspapers."
+        },
+        {
+          "text": "His dark eyes devoured her beauty."
+        }
+      ],
+      "collocations": {
+        "adverb": ["eagerly", "greedily", "hungrily"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to destroy somebody/something",
+      "sensetop": "devour somebody/something",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Flames devoured the house."
+        }
+      ],
+      "synonyms": "engulf",
+      "collocations": {
+        "adverb": ["eagerly", "greedily", "hungrily"]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be filled with a strong emotion that seems to control you",
+      "examples": [
+        {
+          "text": "She was devoured by envy and hatred."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈvaʊə(r)/",
+        "audio": "de/devour/devour__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈvaʊəz/",
+        "audio": "de/devour/devours__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈvaʊəd/",
+        "audio": "de/devour/devoured__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈvaʊərɪŋ/",
+        "audio": "de/devour/devouring__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈvaʊər/",
+        "audio": "de/devour/devour__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈvaʊərz/",
+        "audio": "de/devour/devours__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈvaʊərd/",
+        "audio": "de/devour/devoured__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈvaʊərɪŋ/",
+        "audio": "de/devour/devouring__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French devorer, from Latin devorare, from de- ‘down’ + vorare ‘to swallow’."
+}

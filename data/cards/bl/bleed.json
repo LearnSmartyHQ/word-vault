@@ -1,0 +1,134 @@
+{
+  "term": "bleed",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "bleed",
+      "heSheIt": "bleeds"
+    },
+    "pastSimple": "bled",
+    "pastParticiple": "bled",
+    "ingForm": "bleeding"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to lose blood, especially from a wound or an injury",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "My finger's bleeding."
+        },
+        {
+          "text": "She slowly **bled to death**."
+        },
+        {
+          "text": "He was bleeding from a gash on his head."
+        },
+        {
+          "text": "The small blood vessels in the nose bleed easily."
+        }
+      ],
+      "topics": ["Health problems"],
+      "collocations": {
+        "adverb": ["badly", "heavily", "profusely"],
+        "preposition": ["from"],
+        "phrases": ["bleed to death"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "(in the past) to take blood from somebody as a way of treating disease",
+      "sensetop": "bleed somebody",
+      "examples": []
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to force somebody to pay a lot of money over a period of time",
+      "sensetop": "bleed somebody (for something)",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "The company seems intent on bleeding us for every penny we have."
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to remove air or liquid from something so that it works correctly",
+      "sensetop": "bleed something",
+      "examples": []
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to spread from one area of something to another area",
+      "sensetop": "bleed (into something)",
+      "examples": [
+        {
+          "text": "Keep the paint fairly dry so that the colours don't bleed into each other."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to take away all somebody’s money",
+      "labels": "(disapproving)",
+      "examples": [
+        {
+          "text": "The big corporations are bleeding some of these small countries dry."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to say that you do not feel sympathy for somebody",
+      "labels": "(ironic)",
+      "examples": [
+        {
+          "text": "‘I have to go to Brazil on business.’ ‘My heart bleeds for you!’"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/bliːd/",
+        "audio": "bl/bleed/bleed__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/bliːdz/",
+        "audio": "bl/bleed/bleeds__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/bled/",
+        "audio": "bl/bleed/bled__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈbliːdɪŋ/",
+        "audio": "bl/bleed/bleeding__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/bliːd/",
+        "audio": "bl/bleed/bleed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/bliːdz/",
+        "audio": "bl/bleed/bleeds__us_1.mp3"
+      },
+      {
+        "pronunciation": "/bled/",
+        "audio": "bl/bleed/bled__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈbliːdɪŋ/",
+        "audio": "bl/bleed/bleeding__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English blēdan, of Germanic origin; related to blood."
+}

@@ -1,0 +1,54 @@
+{
+  "term": "jumper",
+  "partOfSpeech": "noun",
+  "image": "data/images/cl/clothes_sweaters.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a piece of clothing for the upper part of the body, made of wool or cotton, with long sleeves (= arms) and no buttons",
+      "labels": "(British English)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "a woolly jumper"
+        }
+      ],
+      "synonyms": "sweater",
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adjective": ["baggy", "loose", "sloppy"],
+        "verb + jumper": ["pull on", "knit", "make"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a loose dress without sleeves (= arms), usually worn over a blouse or sweater",
+      "labels": "(North American English)(especially in British English)",
+      "examples": []
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a person, an animal or an insect that jumps",
+      "examples": [
+        {
+          "text": "He's a good jumper."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdʒʌmpə(r)/",
+        "audio": "ju/jumper/jumper__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdʒʌmpər/",
+        "audio": "ju/jumper/jumper__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "senses 1 to 2 mid 19th cent. (originally meaning a loose jacket worn by sailors): probably from dialect jump ‘short coat’, perhaps from Scots jupe ‘a man's ’(later also a woman's) ‘loose jacket or tunic’, via Old French from Arabic jubba. Compare with jibba."
+}

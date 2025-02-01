@@ -1,0 +1,184 @@
+{
+  "term": "crush",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "image": "data/images/sq/squeeze_squash_crush.png",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "crush",
+      "heSheIt": "crushes"
+    },
+    "pastSimple": "crushed",
+    "pastParticiple": "crushed",
+    "ingForm": "crushing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to press something so hard that it is damaged or loses its shape; to press somebody so hard that they are injured",
+      "sensetop": "crush something/somebody",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The car was completely crushed under the truck."
+        },
+        {
+          "text": "Several people were **crushed to death** in the accident."
+        },
+        {
+          "text": "His hand was badly crushed in the accident."
+        },
+        {
+          "text": "He was crushed beneath a bus."
+        },
+        {
+          "text": "She was crushed between two cars."
+        },
+        {
+          "text": "insects that had been crushed underfoot"
+        }
+      ],
+      "collocations": {
+        "adverb": ["slightly", "almost", "nearly"],
+        "preposition": ["against", "beneath", "under"],
+        "phrases": ["be crushed", "get crushed", "crush somebody to death"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to break something into small pieces or into a powder by pressing hard",
+      "sensetop": "crush something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Add two cloves of crushed garlic."
+        },
+        {
+          "text": "They crush the olives with a heavy wooden press."
+        },
+        {
+          "text": "Crush the biscuits finely before adding them to the mixture."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to push or press somebody/something into a small space",
+      "sensetop": "crush somebody/something + adv./prep.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Over twenty prisoners were crushed into a small dark cell."
+        },
+        {
+          "text": "She was crushed against the wall."
+        }
+      ],
+      "collocations": {
+        "adverb": ["slightly", "almost", "nearly"],
+        "preposition": ["against", "beneath", "under"],
+        "phrases": ["be crushed", "get crushed", "crush somebody to death"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to make something full of folds or lines; to become full of folds or lines",
+      "sensetop": "crush (something)",
+      "examples": [
+        {
+          "text": "She crushed the scrap of paper in her hand."
+        },
+        {
+          "text": "The crisp paper crushed like eggshells in his fingers."
+        }
+      ]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to use violent methods to defeat people who are opposing you",
+      "sensetop": "crush somebody",
+      "examples": [
+        {
+          "text": "The army was sent in to crush the rebellion."
+        },
+        {
+          "text": "Attempts to crush serious popular unrest led to civil war."
+        },
+        {
+          "text": "The government succeeded in crushing the military rising."
+        }
+      ],
+      "synonyms": "put down, quash"
+    },
+    {
+      "senseNumber": 6,
+      "definition": "to destroy somebody’s confidence or happiness",
+      "sensetop": "crush somebody",
+      "examples": [
+        {
+          "text": "She felt completely crushed by the teacher's criticism."
+        },
+        {
+          "text": "He always has this fantastic energy. Nothing can crush him."
+        },
+        {
+          "text": "Their new self-confidence could not be crushed."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to do something very well or be very successful",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "She got up on stage and absolutely crushed it—the audience was going wild!"
+        },
+        {
+          "text": "His latest film is crushing it at the box office."
+        }
+      ],
+      "synonyms": "smash it"
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/krʌʃ/",
+        "audio": "cr/crush/crush__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkrʌʃɪz/",
+        "audio": "cr/crush/crushes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/krʌʃt/",
+        "audio": "cr/crush/crushed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkrʌʃɪŋ/",
+        "audio": "cr/crush/crushing__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/krʌʃ/",
+        "audio": "cr/crush/crush__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkrʌʃɪz/",
+        "audio": "cr/crush/crushes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/krʌʃt/",
+        "audio": "cr/crush/crushed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈkrʌʃɪŋ/",
+        "audio": "cr/crush/crushing__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French cruissir, ‘gnash (teeth) or crack’, of unknown origin."
+}

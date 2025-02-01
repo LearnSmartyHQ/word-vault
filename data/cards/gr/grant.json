@@ -1,0 +1,172 @@
+{
+  "term": "grant",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox3000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "grant",
+      "heSheIt": "grants"
+    },
+    "pastSimple": "granted",
+    "pastParticiple": "granted",
+    "ingForm": "granting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to agree to give somebody what they ask for, especially formal or legal permission to do something",
+      "sensetop": "grant somethinggrant somebody somethinggrant something to somebody/something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "My request was granted.",
+          "contextForm": "grant something"
+        },
+        {
+          "text": "the **rights** expressly **granted **by the terms of the lease"
+        },
+        {
+          "text": "The judge **granted an injunction** preventing the newspaper from printing the names."
+        },
+        {
+          "text": "I was **granted permission** to visit the palace.",
+          "contextForm": "grant somebody something"
+        },
+        {
+          "text": "She was granted a divorce."
+        },
+        {
+          "text": "The court **granted** him **leave** to appeal."
+        },
+        {
+          "text": "He was **granted a licence** to mine in the area."
+        },
+        {
+          "text": "The bank finally granted me a £500 loan."
+        },
+        {
+          "text": "The bank finally granted a £500 loan to me.",
+          "contextForm": "grant something to somebody/something"
+        },
+        {
+          "text": "These lands had been granted to the family in perpetuity."
+        },
+        {
+          "text": "Permission is hereby granted to reproduce this material."
+        },
+        {
+          "text": "Planning permission was finally granted in October."
+        },
+        {
+          "text": "The judge refused to grant him bail."
+        },
+        {
+          "text": "The law effectively grants the company immunity from prosecution."
+        },
+        {
+          "text": "Her wish was granted."
+        },
+        {
+          "text": "Planning permission for the development was granted last week."
+        },
+        {
+          "text": "The contract was granted to an Australian company."
+        },
+        {
+          "text": "The government granted an amnesty to all political prisoners."
+        }
+      ],
+      "topics": ["Law and justice"],
+      "collocations": {
+        "adverb": ["expressly", "specifically", "automatically"],
+        "verb + grant": ["agree to", "decide to", "refuse to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to admit to somebody that something is true, although you may not like or agree with it",
+      "sensetop": "grant somebodygrant (somebody) (that)…",
+      "examples": [
+        {
+          "text": "She's a smart woman, I grant you, but she's no genius.",
+          "contextForm": "grant somebody"
+        },
+        {
+          "text": "I grant you (that) it looks good, but it’s not exactly practical.",
+          "contextForm": "grant (somebody) (that)…"
+        }
+      ],
+      "collocations": {
+        "adverb": ["expressly", "specifically", "automatically"],
+        "verb + grant": ["agree to", "decide to", "refuse to"]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be so used to somebody/something that you do not recognize their true value any more and do not show that you are grateful",
+      "examples": [
+        {
+          "text": "Her husband was always there and she just took him for granted."
+        },
+        {
+          "text": "We take having an endless supply of clean water for granted."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to believe something is true without first making sure that it is",
+      "examples": [
+        {
+          "text": "I just took it for granted that he'd always be around."
+        },
+        {
+          "text": "She seemed to take it for granted that I would go with her to New York."
+        }
+      ],
+      "topics": ["Doubt, guessing and certainty"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɡrɑːnt/",
+        "audio": "gr/grant/grant__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɡrɑːnts/",
+        "audio": "gr/grant/grants__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɡrɑːntɪd/",
+        "audio": "gr/grant/granted__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈɡrɑːntɪŋ/",
+        "audio": "gr/grant/granting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡrænt/",
+        "audio": "gr/grant/grant__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɡrænts/",
+        "audio": "gr/grant/grants__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɡræntɪd/",
+        "audio": "gr/grant/granted__us_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈɡræntɪŋ/",
+        "audio": "gr/grant/granting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French granter ‘consent to support’, variant of creanter ‘to guarantee’, based on Latin credere ‘entrust’."
+}

@@ -1,0 +1,385 @@
+{
+  "term": "lose",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "a1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "lose",
+      "heSheIt": "loses"
+    },
+    "pastSimple": "lost",
+    "pastParticiple": "lost",
+    "ingForm": "losing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to be unable to find something/somebody",
+      "sensetop": "lose something/somebody",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I've lost my keys."
+        },
+        {
+          "text": "The tickets seem to have **got lost**."
+        },
+        {
+          "text": "She lost her husband in the crowd."
+        },
+        {
+          "text": "We've lost Alfie—is he with you?"
+        },
+        {
+          "text": "Here, tie it round your neck so you don't lose it."
+        },
+        {
+          "text": "If your card is lost or stolen, inform your bank immediately."
+        }
+      ],
+      "synonyms": "mislay"
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to have something/somebody taken away from you, especially as a result of an accident, dying, etc.",
+      "sensetop": "lose something/somebody",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She lost a leg in a car crash."
+        },
+        {
+          "text": "Some families **lost everything** *(= all they owned)* in the flood."
+        },
+        {
+          "text": "She **lost her baby** *(= had a )* three months into the pregnancy."
+        },
+        {
+          "text": "They lost both their sons *(= they were killed)* in the war."
+        },
+        {
+          "text": "The ship was **lost at sea** *(= it sank)*."
+        },
+        {
+          "text": "Many people **lost their lives** *(= were killed)*."
+        }
+      ],
+      "collocations": {
+        "adverb": ["forever"],
+        "verb + lose": ["be about to", "be going to", "be likely to"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to have to give up something; to fail to keep something/somebody",
+      "sensetop": "lose something/somebodylose something to somebody/something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He's **lost his job**."
+        },
+        {
+          "text": "You will lose your deposit if you cancel the order."
+        },
+        {
+          "text": "Sit down or you'll lose your seat."
+        },
+        {
+          "text": "The government has **lost control** of the city."
+        },
+        {
+          "text": "We cannot afford to lose any more senior members of staff."
+        },
+        {
+          "text": "The average business loses 20 per cent of its customers every year."
+        },
+        {
+          "text": "You **risk losing** your house if you do not keep up the payments."
+        },
+        {
+          "text": "The company has lost a lot of business to its competitors.",
+          "contextForm": "lose something to somebody/something"
+        }
+      ],
+      "topics": ["Difficulty and failure"],
+      "collocations": {
+        "adverb": ["forever"],
+        "verb + lose": ["be about to", "be going to", "be likely to"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to no longer have something, or have less of something than you had before, especially as a result of getting older",
+      "sensetop": "lose something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "to lose your hair/teeth"
+        },
+        {
+          "text": "to lose your sight/eyesight/hearing/memory"
+        },
+        {
+          "text": "There's new hope for people trying to **lose weight**."
+        },
+        {
+          "text": "I've lost ten pounds since I started this diet."
+        }
+      ],
+      "collocations": {
+        "adverb": ["forever"],
+        "verb + lose": ["be about to", "be going to", "be likely to"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "to have less and less of a quality or ability, especially until you no longer have any of it",
+      "sensetop": "lose something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She seemed to have **lost interest** in food."
+        },
+        {
+          "text": "to lose faith/confidence"
+        },
+        {
+          "text": "He lost his nerve at the last minute."
+        },
+        {
+          "text": "At that moment he lost his balance and fell."
+        },
+        {
+          "text": "The train was losing speed."
+        },
+        {
+          "text": "She never lost the ability to make people laugh."
+        }
+      ]
+    },
+    {
+      "senseNumber": 6,
+      "definition": "to be defeated; to fail to win a competition, a court case, an argument, etc.; to cause somebody to be defeated",
+      "sensetop": "lose somethinglose to somebodylose by somethinglose something by somethinglose on something (to somebody)lose somebody something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "So far they haven't **lost a game**.",
+          "contextForm": "lose something"
+        },
+        {
+          "text": "to lose a race/an election/a battle/a war"
+        },
+        {
+          "text": "We lost to a stronger team.",
+          "contextForm": "lose to somebody"
+        },
+        {
+          "text": "He lost by less than 100 votes.",
+          "contextForm": "lose by something"
+        },
+        {
+          "text": "We lost the game by three points.",
+          "contextForm": "lose something by something"
+        },
+        {
+          "text": "They **lost on penalties** to *(= because they scored fewer  than) Spain.",
+          "contextForm": "lose on something (to somebody)"
+        },
+        {
+          "text": "Many believe the incident lost them the election.",
+          "contextForm": "lose somebody something"
+        },
+        {
+          "text": "The visiting side lost to the home team."
+        },
+        {
+          "text": "There was really no shame in losing to Norton at that stage of his career."
+        },
+        {
+          "text": "This is a game that Lazio cannot afford to lose."
+        },
+        {
+          "text": "We lost against Albyn College."
+        },
+        {
+          "text": "We lost by five goals to two."
+        },
+        {
+          "text": "They deserved to lose."
+        },
+        {
+          "text": "Win or lose, the important thing is to remain calm."
+        },
+        {
+          "text": "The South lost the war."
+        },
+        {
+          "text": "He yesterday lost his appeal against a six-month ban."
+        },
+        {
+          "text": "She resigned as party leader after they lost the election."
+        }
+      ],
+      "topics": ["Difficulty and failure", "Games and toys"],
+      "collocations": {
+        "verb + lose": ["hate to", "not bear to", "not like to"],
+        "preposition": ["against", "by", "to"],
+        "phrases": ["win or lose"]
+      }
+    },
+    {
+      "senseNumber": 7,
+      "definition": "to fail to keep something you want or need, especially money; to cause somebody to fail to keep something",
+      "sensetop": "lose somethinglose something by doing somethinglose on somethinglose somebody something",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The business is **losing money**.",
+          "contextForm": "lose something"
+        },
+        {
+          "text": "Poetry always loses something in translation."
+        },
+        {
+          "text": "**You have nothing to lose** by telling the truth.",
+          "contextForm": "lose something by doing something"
+        },
+        {
+          "text": "What do we lose by working with them?"
+        },
+        {
+          "text": "We lost on that deal.",
+          "contextForm": "lose on something"
+        },
+        {
+          "text": "The company stands to lose financially if this deal falls through."
+        },
+        {
+          "text": "His carelessness lost him the job.",
+          "contextForm": "lose somebody something"
+        }
+      ],
+      "topics": ["Money", "Difficulty and failure"],
+      "collocations": {
+        "adverb": ["forever"],
+        "verb + lose": ["be about to", "be going to", "be likely to"]
+      }
+    },
+    {
+      "senseNumber": 8,
+      "definition": "to fail to get, hear or understand something",
+      "sensetop": "lose something",
+      "examples": [
+        {
+          "text": "His words were lost *(= could not be heard)* in the applause."
+        }
+      ]
+    },
+    {
+      "senseNumber": 9,
+      "definition": "to be no longer understood by somebody",
+      "sensetop": "lose somebody",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "I'm afraid **you've lost me** there."
+        }
+      ]
+    },
+    {
+      "senseNumber": 10,
+      "definition": "to escape from somebody/something",
+      "sensetop": "lose somebody/something",
+      "examples": [
+        {
+          "text": "We managed to lose our pursuers in the darkness."
+        }
+      ],
+      "synonyms": "evade, shake off"
+    },
+    {
+      "senseNumber": 11,
+      "definition": "to waste time or an opportunity",
+      "sensetop": "lose something",
+      "examples": [
+        {
+          "text": "We lost twenty minutes changing a tyre."
+        },
+        {
+          "text": "Hurry—**there's no time to lose**!"
+        },
+        {
+          "text": "He **lost no time in** setting out for London."
+        }
+      ]
+    },
+    {
+      "senseNumber": 12,
+      "definition": "if a watch or clock loses or loses time, it goes too slowly or becomes a particular amount of time behind the correct time",
+      "sensetop": "lose (something)",
+      "examples": [
+        {
+          "text": "This clock loses two minutes a day."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to become unable to control your emotions or behaviour",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "Then she just lost it and started screaming."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/luːz/",
+        "audio": "lo/lose/lose__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈluːzɪz/",
+        "audio": "lo/lose/loses__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/lɒst/",
+        "audio": "lo/lose/lost__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈluːzɪŋ/",
+        "audio": "lo/lose/losing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/luːz/",
+        "audio": "lo/lose/lose__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈluːzɪz/",
+        "audio": "lo/lose/loses__us_1.mp3"
+      },
+      {
+        "pronunciation": "/lɔːst/",
+        "audio": "lo/lose/lost__us_6.mp3"
+      },
+      {
+        "pronunciation": "/ˈluːzɪŋ/",
+        "audio": "lo/lose/losing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English losian ‘perish, destroy’, also ‘become unable to find’, from los ‘loss’."
+}

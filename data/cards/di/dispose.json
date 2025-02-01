@@ -1,0 +1,82 @@
+{
+  "term": "dispose",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "dispose",
+      "heSheIt": "disposes"
+    },
+    "pastSimple": "disposed",
+    "pastParticiple": "disposed",
+    "ingForm": "disposing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to arrange things or people in a particular way or position",
+      "sensetop": "dispose something/somebody + adv./prep.",
+      "examples": [
+        {
+          "text": "The visitors disposed themselves in a circle round the statue."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to make somebody want to behave in a particular way",
+      "sensetop": "dispose somebody to/toward(s) somethingdispose somebody to do something",
+      "examples": [
+        {
+          "text": "a drug that disposes the patient towards sleep",
+          "contextForm": "dispose somebody to/toward(s) something"
+        },
+        {
+          "text": "a drug that disposes the patient to sleep",
+          "contextForm": "dispose somebody to do something"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dɪˈspəʊz/",
+        "audio": "di/dispose/dispose__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈspəʊzɪz/",
+        "audio": "di/dispose/disposes__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈspəʊzd/",
+        "audio": "di/dispose/disposed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈspəʊzɪŋ/",
+        "audio": "di/dispose/disposing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dɪˈspəʊz/",
+        "audio": "di/dispose/dispose__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈspəʊzɪz/",
+        "audio": "di/dispose/disposes__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈspəʊzd/",
+        "audio": "di/dispose/disposed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dɪˈspəʊzɪŋ/",
+        "audio": "di/dispose/disposing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French disposer, from Latin disponere ‘arrange’, influenced by dispositus ‘arranged’ and Old French poser ‘to place’."
+}

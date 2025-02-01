@@ -1,0 +1,101 @@
+{
+  "term": "plug",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "plug",
+      "heSheIt": "plugs"
+    },
+    "pastSimple": "plugged",
+    "pastParticiple": "plugged",
+    "ingForm": "plugging"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to fill a hole with a substance or piece of material that fits tightly into it",
+      "sensetop": "plug something (up)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He plugged the hole in the pipe with an old rag."
+        },
+        {
+          "text": "Divers succeeded in plugging the leaks from the tanker."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to provide something that has been missing from a particular situation and is needed in order to improve it",
+      "sensetop": "plug something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "A cheaper range of products was introduced to **plug the gap** at the lower end of the market."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to give praise or attention to a new book, film, etc. in order to encourage people to buy it or see it",
+      "sensetop": "plug something",
+      "labels": "(informal)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "She came on the show to plug her latest album."
+        }
+      ],
+      "topics": ["Film and theatre"]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to shoot somebody",
+      "sensetop": "plug somebody",
+      "labels": "(North American English, old-fashioned, informal)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/plʌɡ/",
+        "audio": "pl/plug/plug__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/plʌɡz/",
+        "audio": "pl/plug/plugs__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/plʌɡd/",
+        "audio": "pl/plug/plugged__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈplʌɡɪŋ/",
+        "audio": "pl/plug/plugging__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/plʌɡ/",
+        "audio": "pl/plug/plug__us_1.mp3"
+      },
+      {
+        "pronunciation": "/plʌɡz/",
+        "audio": "pl/plug/plugs__us_1.mp3"
+      },
+      {
+        "pronunciation": "/plʌɡd/",
+        "audio": "pl/plug/plugged__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈplʌɡɪŋ/",
+        "audio": "pl/plug/plugging__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

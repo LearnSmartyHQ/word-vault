@@ -1,0 +1,137 @@
+{
+  "term": "assert",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "assert",
+      "heSheIt": "asserts"
+    },
+    "pastSimple": "asserted",
+    "pastParticiple": "asserted",
+    "ingForm": "asserting"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to state clearly and definitely that something is true",
+      "sensetop": "assert that…assert something+ speechit is asserted that…",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "She continued to assert that she was innocent.",
+          "contextForm": "assert that…"
+        },
+        {
+          "text": "The report asserts confidently that the industry will grow."
+        },
+        {
+          "text": "She continued to assert her innocence.",
+          "contextForm": "assert something"
+        },
+        {
+          "text": "The German Chancellor was anxious to assert his government's commitment to European unity."
+        },
+        {
+          "text": "‘That is wrong,’ he asserted.",
+          "contextForm": "+ speech"
+        },
+        {
+          "text": "It is commonly asserted that older people prefer to receive care from family members.",
+          "contextForm": "it is asserted that…"
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adverb": ["boldly", "confidently", "emphatically"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to behave in a confident and determined way so that other people pay attention to your opinions",
+      "sensetop": "assert yourself",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "You’re too timid—you must try to assert yourself more."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to make other people recognize your right or authority to do something, by behaving in a determined and confident way",
+      "sensetop": "assert something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "to **assert your independence/rights**"
+        },
+        {
+          "text": "I was determined to **assert** my **authority** from the beginning."
+        },
+        {
+          "text": "She wished to assert her independence from her parents."
+        },
+        {
+          "text": "He managed to assert his power over the media."
+        },
+        {
+          "text": "They successfully asserted their right to protect their homes."
+        }
+      ],
+      "collocations": {
+        "verb + assert": ["need to", "be determined to", "wish to"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to start to have an effect",
+      "sensetop": "assert itself",
+      "examples": [
+        {
+          "text": "Good sense asserted itself."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈsɜːt/",
+        "audio": "as/assert/assert__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsɜːts/",
+        "audio": "as/assert/asserts__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsɜːtɪd/",
+        "audio": "as/assert/asserted__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsɜːtɪŋ/",
+        "audio": "as/assert/asserting__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈsɜːrt/",
+        "audio": "as/assert/assert__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsɜːrts/",
+        "audio": "as/assert/asserts__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsɜːrtɪd/",
+        "audio": "as/assert/asserted__us_1.mp3"
+      },
+      {
+        "pronunciation": "/əˈsɜːrtɪŋ/",
+        "audio": "as/assert/asserting__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 17th cent.: from Latin asserere ‘claim, affirm’, from ad- ‘to’ + serere ‘to join’."
+}

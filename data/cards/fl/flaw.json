@@ -1,0 +1,99 @@
+{
+  "term": "flaw",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a mistake in something that means that it is not correct or does not work correctly",
+      "sensetop": "flaw in something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The argument is full of fundamental flaws."
+        },
+        {
+          "text": "The report reveals **fatal flaws** in security at the airport.",
+          "contextForm": "flaw in something"
+        },
+        {
+          "text": "There is still a basic flaw in your selection procedure."
+        },
+        {
+          "text": "Flaws have appeared in the new version of the software."
+        },
+        {
+          "text": "It took me a long time to find the flaw in her logic."
+        },
+        {
+          "text": "Engineers have detected serious design flaws."
+        }
+      ],
+      "synonyms": "defect, fault",
+      "collocations": {
+        "adjective": ["big", "main", "major"],
+        "verb + flaw": ["contain", "have", "look for"],
+        "flaw + verb": ["appear", "become apparent"],
+        "preposition": ["flaw in"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a weakness in somebody’s character",
+      "sensetop": "flaw (in somebody/something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "There is always a flaw in the character of a tragic hero."
+        },
+        {
+          "text": "After a short time, the flaws in her character became more apparent."
+        },
+        {
+          "text": "The hero's fatal flaw is ambition."
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "main", "major"],
+        "verb + flaw": ["contain", "have", "look for"],
+        "flaw + verb": ["appear", "become apparent"],
+        "preposition": ["flaw in"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a fault or small break in something that makes it less attractive or valuable",
+      "sensetop": "flaw (in something)",
+      "examples": [
+        {
+          "text": "The vase is in excellent condition except for a few small flaws in its base."
+        },
+        {
+          "text": "Unfortunately, this plate has a slight flaw in it."
+        }
+      ],
+      "collocations": {
+        "adjective": ["big", "main", "major"],
+        "verb + flaw": ["contain", "have", "look for"],
+        "flaw + verb": ["appear", "become apparent"],
+        "preposition": ["flaw in"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/flɔː/",
+        "audio": "fl/flaw/flaw__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/flɔː/",
+        "audio": "fl/flaw/flaw__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: perhaps from Old Norse flaga ‘slab’. The original sense was ‘a flake of snow’, later, ‘a fragment or splinter’, hence ‘a defect or imperfection’ (late 15th cent.)."
+}

@@ -1,0 +1,98 @@
+{
+  "term": "keyboard",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b1",
+  "image": "data/images/mu/music_pianos.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the set of keys for operating a computer or typewriter, or the set of letters that you can touch to write on a smartphone or tablet",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The program locks the keyboard until a password is given."
+        },
+        {
+          "text": "**keyboard shortcuts**"
+        },
+        {
+          "text": "Arianne was tapping away at her keyboard."
+        },
+        {
+          "text": "Filled with inspiration, he started pounding his keyboard."
+        },
+        {
+          "text": "Press Ctrl + S on the keyboard to save the file."
+        }
+      ],
+      "topics": ["Computers"],
+      "collocations": {
+        "adjective": ["qwerty", "standard", "computer"],
+        "verb + keyboard": ["tap", "tap at", "tap on"],
+        "keyboard + noun": ["command", "short cut", "port"],
+        "preposition": ["on the keyboard"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the set of black and white keys on a piano or other musical instrument",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a piano keyboard"
+        }
+      ],
+      "topics": ["Music"],
+      "collocations": {
+        "adjective": ["organ", "piano", "etc."],
+        "keyboard + noun": ["instrument"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "an electronic musical instrument that has keys like a piano and can be made to play in different styles or to sound like different instruments",
+      "sensetop": "on (a) keyboardat a keyboard",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She plays keyboard and guitar."
+        },
+        {
+          "text": "He played the song on his keyboard.",
+          "contextForm": "on (a) keyboard"
+        },
+        {
+          "text": "The recording features Herbie Hancock on keyboard."
+        },
+        {
+          "text": "She sat down at the keyboard and started to play.",
+          "contextForm": "at a keyboard"
+        }
+      ],
+      "topics": ["Music"],
+      "collocations": {
+        "adjective": ["digital", "electric", "electronic"],
+        "preposition": ["at the keyboard", "on (a/​the) keyboard"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkiːbɔːd/",
+        "audio": "ke/keyboard/keyboard__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkiːbɔːrd/",
+        "audio": "ke/keyboard/keyboard__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

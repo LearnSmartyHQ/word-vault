@@ -1,0 +1,81 @@
+{
+  "term": "moderate",
+  "partOfSpeech": "adjective",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "that is neither very good, large, hot, etc. nor very bad, small, cold, etc.",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "students of moderate ability"
+        },
+        {
+          "text": "Even moderate amounts of the drug can be fatal."
+        },
+        {
+          "text": "The team enjoyed only moderate success last season."
+        },
+        {
+          "text": "Cook over a moderate heat."
+        }
+      ],
+      "collocations": {
+        "verbs": ["be"],
+        "adverb": ["very", "fairly", "relatively"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "having or showing opinions, especially about politics, that are not extreme",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "**moderate views/policies**"
+        },
+        {
+          "text": "a moderate socialist"
+        }
+      ],
+      "topics": ["Opinion and argument", "Politics"],
+      "collocations": {
+        "verbs": ["be"],
+        "adverb": ["very", "fairly", "relatively"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "staying within limits that are considered to be reasonable by most people",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a moderate drinker"
+        },
+        {
+          "text": "moderate wage demands"
+        }
+      ],
+      "collocations": {
+        "verbs": ["be"],
+        "adverb": ["very", "fairly", "relatively"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmɒdərət/",
+        "audio": "mo/moderate/moderate__gb_4.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmɑːdərət/",
+        "audio": "mo/moderate/moderate__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin moderat- ‘reduced, controlled’, from the verb moderare; related to modest."
+}

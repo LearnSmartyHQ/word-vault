@@ -1,0 +1,100 @@
+{
+  "term": "mill",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "image": "data/images/ki/kitchen_crushing_grating_squeezing.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a building fitted with equipment for grinding grain into flour; a machine for grinding grain",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The old mill has been converted into apartments."
+        },
+        {
+          "text": "The mill can be seen grinding wheat."
+        },
+        {
+          "text": "The river was harnessed to drive many mills."
+        }
+      ],
+      "topics": ["Buildings", "Farming"],
+      "collocations": {
+        "adjective": ["corn", "flour", "grain"],
+        "verb + mill": ["operate", "convert", "restore"],
+        "mill + verb": ["grind something"],
+        "mill + noun": ["stone", "wheel"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a factory that produces a particular type of material",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a **cotton/cloth/steel/paper mill**"
+        },
+        {
+          "text": "**mill owners/workers**"
+        },
+        {
+          "text": "a textile/woollen mill"
+        },
+        {
+          "text": "a northern mill town"
+        }
+      ],
+      "topics": ["Business"],
+      "collocations": {
+        "adjective": ["cotton", "feed", "jute"],
+        "verb + mill": ["operate", "own", "run"],
+        "mill + verb": ["produce something"],
+        "mill + noun": ["town", "buildings", "hand"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a small machine for grinding a solid substance into powder",
+      "examples": [
+        {
+          "text": "a pepper mill"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to have or make somebody have a difficult time",
+      "examples": [
+        {
+          "text": "They really put me through the mill in my interview."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "something that is useful to somebody for a particular purpose",
+      "examples": [
+        {
+          "text": "Political sex scandals are all grist to the mill of the tabloid newspapers."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/mɪl/",
+        "audio": "mi/mill/mill__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/mɪl/",
+        "audio": "mi/mill/mill__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English mylen, based on late Latin molinum, from Latin mola ‘grindstone, mill’, from molere ‘to grind’."
+}

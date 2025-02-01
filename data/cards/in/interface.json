@@ -1,0 +1,55 @@
+{
+  "term": "interface",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the way a computer program presents information to a user or receives information from a user, in particular the layout of the screen and the menus",
+      "labels": "(computing)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a user-friendly interface"
+        }
+      ],
+      "topics": ["Computers"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "an electrical circuit, connection or program that joins one device or system to another",
+      "labels": "(computing)",
+      "examples": [
+        {
+          "text": "the interface between computer and printer"
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the point where two subjects, systems, etc. meet and affect each other",
+      "sensetop": "interface (between A and B)",
+      "examples": [
+        {
+          "text": "the interface between manufacturing and sales"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɪntəfeɪs/",
+        "audio": "in/interface/interface__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɪntərfeɪs/",
+        "audio": "in/interface/interface__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

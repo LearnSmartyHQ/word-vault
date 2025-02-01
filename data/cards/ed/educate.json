@@ -1,0 +1,110 @@
+{
+  "term": "educate",
+  "partOfSpeech": "verb",
+  "ox3000": true,
+  "cefr": "b1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "educate",
+      "heSheIt": "educates"
+    },
+    "pastSimple": "educated",
+    "pastParticiple": "educated",
+    "ingForm": "educating"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to teach somebody over a period of time at a school, university, etc.",
+      "sensetop": "be educated",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She was educated in the US.",
+          "contextForm": "be educated"
+        },
+        {
+          "text": "All their children have been educated privately."
+        },
+        {
+          "text": "He was educated at his local comprehensive school and then at Oxford."
+        }
+      ],
+      "topics": ["Education"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to teach somebody about something or how to do something",
+      "sensetop": "educate somebodyeducate somebody on somethingeducate somebody about somethingeducate somebody to do something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He believed the BBC's purpose was ‘to inform, educate and entertain’."
+        },
+        {
+          "text": "The industry wants to **educate the public**, but not cause undue concern.",
+          "contextForm": "educate somebody"
+        },
+        {
+          "text": "Children need to be educated on the dangers of drug-taking.",
+          "contextForm": "educate somebody on something"
+        },
+        {
+          "text": "an effort to educate consumers about the importance of long-term saving from an early age",
+          "contextForm": "educate somebody about something"
+        },
+        {
+          "text": "The campaign is intended to educate people to respect the environment.",
+          "contextForm": "educate somebody to do something"
+        },
+        {
+          "text": "We must educate people into recycling more of their rubbish."
+        },
+        {
+          "text": "We recognize the need to educate doctors on how to deal with these patients."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈedʒukeɪt/",
+        "audio": "ed/educate/educate__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈedʒukeɪts/",
+        "audio": "ed/educate/educates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈedʒukeɪtɪd/",
+        "audio": "ed/educate/educated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈedʒukeɪtɪŋ/",
+        "audio": "ed/educate/educating__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈedʒukeɪt/",
+        "audio": "ed/educate/educate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈedʒukeɪts/",
+        "audio": "ed/educate/educates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈedʒukeɪtɪd/",
+        "audio": "ed/educate/educated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈedʒukeɪtɪŋ/",
+        "audio": "ed/educate/educating__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin educat- ‘led out’, from the verb educare, related to educere ‘lead out’, from e- (variant of ex-) ‘out’ + ducere ‘to lead’."
+}

@@ -1,0 +1,123 @@
+{
+  "term": "integrate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "integrate",
+      "heSheIt": "integrates"
+    },
+    "pastSimple": "integrated",
+    "pastParticiple": "integrated",
+    "ingForm": "integrating"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to combine two or more things so that they work together; to combine with something else in this way",
+      "sensetop": "integrate into/with somethingintegrate A (into/with B)integrate A and B",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "These programs will integrate with your existing software.",
+          "contextForm": "integrate into/with something"
+        },
+        {
+          "text": "These programs can be integrated with your existing software.",
+          "contextForm": "integrate A (into/with B)integrate A and B"
+        },
+        {
+          "text": "The department has successfully integrated new ideas into the traditional course structure."
+        },
+        {
+          "text": "The results should be integrated into the final report."
+        },
+        {
+          "text": "They called for the defence system to be more closely integrated."
+        },
+        {
+          "text": "This computer program can be integrated with existing programs."
+        },
+        {
+          "text": "He proposes to integrate our reserve forces more closely with the regular forces."
+        }
+      ],
+      "collocations": {
+        "adverb": ["closely", "tightly", "well"],
+        "preposition": ["into", "with"],
+        "phrases": ["highly integrated", "poorly integrated"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to become or make somebody become accepted as a member of a social group, especially when they come from a different culture",
+      "sensetop": "integrate (into/with something)integrate somebody (into/with something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "They have not made any effort to integrate with the local community.",
+          "contextForm": "integrate (into/with something)"
+        },
+        {
+          "text": "The policy is to integrate children with special needs into ordinary schools.",
+          "contextForm": "integrate somebody (into/with something)"
+        },
+        {
+          "text": "The lower primary pupils are well integrated into the life of the school."
+        },
+        {
+          "text": "They didn't integrate with the other children."
+        },
+        {
+          "text": "They soon became fully integrated into the local community."
+        }
+      ],
+      "topics": ["People in society"],
+      "collocations": {
+        "adverb": ["well", "completely", "fully"],
+        "preposition": ["into", "with"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɪntɪɡreɪt/",
+        "audio": "in/integrate/integrate__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/ˈɪntɪɡreɪts/",
+        "audio": "in/integrate/integrates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɪntɪɡreɪtɪd/",
+        "audio": "in/integrate/integrated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɪntɪɡreɪtɪŋ/",
+        "audio": "in/integrate/integrating__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɪntɪɡreɪt/",
+        "audio": "in/integrate/integrate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɪntɪɡreɪts/",
+        "audio": "in/integrate/integrates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɪntɪɡreɪtɪd/",
+        "audio": "in/integrate/integrated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈɪntɪɡreɪtɪŋ/",
+        "audio": "in/integrate/integrating__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 17th cent.: from Latin integrat- ‘made whole’, from the verb integrare, from integer ‘whole’, from in- (expressing negation) + the root of tangere ‘to touch’. Compare with integral and integrity."
+}

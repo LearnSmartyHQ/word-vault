@@ -1,0 +1,91 @@
+{
+  "term": "spark",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "spark",
+      "heSheIt": "sparks"
+    },
+    "pastSimple": "sparked",
+    "pastParticiple": "sparked",
+    "ingForm": "sparking"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to cause something to start or develop, especially suddenly",
+      "sensetop": "spark somethingspark something off",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The proposal would spark a storm of protest around the country.",
+          "contextForm": "spark something"
+        },
+        {
+          "text": "Winds brought down power lines, sparking a fire."
+        },
+        {
+          "text": "The organizers are hoping to spark some interest in young people."
+        },
+        {
+          "text": "The riots were sparked off by the arrest of a local leader.",
+          "contextForm": "spark something off"
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to produce small flashes of fire or electricity",
+      "labels": "(figurative)",
+      "examples": [
+        {
+          "text": "a sparking, crackling fire"
+        },
+        {
+          "text": "The game suddenly sparked to life."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/spɑːk/",
+        "audio": "sp/spark/spark__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/spɑːks/",
+        "audio": "sp/spark/sparks__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/spɑːkt/",
+        "audio": "sp/spark/sparked__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈspɑːkɪŋ/",
+        "audio": "sp/spark/sparking__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/spɑːrk/",
+        "audio": "sp/spark/spark__us_1.mp3"
+      },
+      {
+        "pronunciation": "/spɑːrks/",
+        "audio": "sp/spark/sparks__us_1.mp3"
+      },
+      {
+        "pronunciation": "/spɑːrkt/",
+        "audio": "sp/spark/sparked__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈspɑːrkɪŋ/",
+        "audio": "sp/spark/sparking__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

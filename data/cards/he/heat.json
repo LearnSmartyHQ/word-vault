@@ -1,0 +1,338 @@
+{
+  "term": "heat",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the quality of being hot",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Heat rises."
+        },
+        {
+          "text": "He could feel the heat of the sun on his back."
+        },
+        {
+          "text": "Computers **generate heat** of their own."
+        },
+        {
+          "text": "The fire gave out a fierce heat."
+        },
+        {
+          "text": "Products which may be damaged by heat are stored in a separate area."
+        },
+        {
+          "text": "Heat flooded her cheeks."
+        }
+      ],
+      "collocations": {
+        "adjective": ["burning", "fierce", "great"],
+        "verb + heat": ["feel", "disperse", "dissipate"],
+        "heat + verb": ["build up", "increase", "come from something"],
+        "heat + noun": ["loss", "exhaustion", "stress"],
+        "preposition": ["heat from"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "heat seen as a form of energy that is transferred from one object or substance to another as a result of a difference in temperature",
+      "labels": "(physics)",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Being a metal, aluminium readily conducts heat."
+        },
+        {
+          "text": "Darker surfaces absorb heat."
+        },
+        {
+          "text": "Combustion reactions give out heat."
+        }
+      ],
+      "topics": ["Physics and chemistry"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the level of temperature",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Test the heat of the water before getting in."
+        },
+        {
+          "text": "Set the oven to a **low/high/moderate** heat."
+        },
+        {
+          "text": "Add the rice and **reduce the heat**."
+        },
+        {
+          "text": "Turn up the heat to caramelize the sugar."
+        },
+        {
+          "text": "a material that can withstand heats of up to 2 000°C"
+        }
+      ],
+      "collocations": {
+        "adjective": ["burning", "fierce", "great"],
+        "verb + heat": ["feel", "disperse", "dissipate"],
+        "heat + verb": ["build up", "increase", "come from something"],
+        "heat + noun": ["loss", "exhaustion", "stress"],
+        "preposition": ["heat from"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "hot weather; the hot conditions in a building, vehicle, etc.",
+      "sensetop": "in the heat",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "You should not go out in **the heat of the day** *(= at the hottest time)*."
+        },
+        {
+          "text": "to suffer from the heat"
+        },
+        {
+          "text": "the summer/afternoon/midday heat"
+        },
+        {
+          "text": "The heat in the factory was unbearable."
+        },
+        {
+          "text": "They worked all afternoon in the **intense heat**.",
+          "contextForm": "in the heat"
+        },
+        {
+          "text": "The air shimmered in the midday heat."
+        },
+        {
+          "text": "Daily the heat grew."
+        },
+        {
+          "text": "I can't work in this heat."
+        },
+        {
+          "text": "We walked more than ten miles in the blistering heat."
+        },
+        {
+          "text": "the steamy heat of New York in summer"
+        },
+        {
+          "text": "I think the heat is getting to all of us."
+        },
+        {
+          "text": "The thick walls retain the heat."
+        },
+        {
+          "text": "He tried to ignore the heat building up in the confined space."
+        },
+        {
+          "text": "She slumped to the ground suffering from heat exhaustion."
+        },
+        {
+          "text": "A heat haze shimmered above the fields."
+        }
+      ],
+      "topics": ["Weather"],
+      "collocations": {
+        "adjective": ["baking", "blazing", "blistering"],
+        "heat + verb": ["grow", "get to somebody"],
+        "heat + noun": ["haze", "wave", "source"],
+        "preposition": ["in the heat"],
+        "phrases": ["the heat of the day"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "a source of heat, especially one that you cook food on",
+      "sensetop": "over a… heat",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Return the pan to the heat and stir."
+        },
+        {
+          "text": "Simmer the soup for 10 minutes then **remove from the heat**."
+        },
+        {
+          "text": "Place the roasting tray over a **medium heat** on your cooker or hob.",
+          "contextForm": "over a… heat"
+        },
+        {
+          "text": "Chocolate should never be melted over direct heat."
+        },
+        {
+          "text": "Cook on a low heat for five minutes."
+        },
+        {
+          "text": "Make sure the pan is off the heat."
+        },
+        {
+          "text": "Simmer the sauce over a gentle heat."
+        }
+      ],
+      "collocations": {
+        "adjective": ["high", "gentle", "low"],
+        "verb + heat": ["turn up", "lower", "reduce"],
+        "preposition": ["off the heat", "on a… heat", "over a… heat"]
+      }
+    },
+    {
+      "senseNumber": 6,
+      "definition": "the process of supplying heat to a room or building; a system used to do this",
+      "labels": "(especially North American English)especially in British English",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The heat wasn't on and the house was freezing."
+        },
+        {
+          "text": "The house has electric heat."
+        },
+        {
+          "text": "They are afraid to turn the heat on because it's so expensive."
+        },
+        {
+          "text": "Andy had the heat on full blast in the car."
+        },
+        {
+          "text": "I turned the heat down several notches."
+        },
+        {
+          "text": "Our heat goes off at ten o'clock and comes on again at six."
+        },
+        {
+          "text": "The heat's on low."
+        },
+        {
+          "text": "They have their heat turned off during the morning."
+        },
+        {
+          "text": "It's important to switch off heat and light in unoccupied rooms."
+        },
+        {
+          "text": "These industries provide heat for our homes and fuel for our cars."
+        }
+      ],
+      "collocations": {
+        "adjective": ["electric", "radiant"],
+        "verb + heat": ["have", "have on", "use"],
+        "heat + verb": ["be on", "be on high", "be on low"]
+      }
+    },
+    {
+      "senseNumber": 7,
+      "definition": "a spicy quality in food that makes your mouth feel as if it is burning",
+      "examples": [
+        {
+          "text": "Chilli peppers add taste and heat to food."
+        }
+      ]
+    },
+    {
+      "senseNumber": 8,
+      "definition": "strong feelings, especially of anger or excitement",
+      "examples": [
+        {
+          "text": "‘No, I won't,’ he said with heat in his voice."
+        },
+        {
+          "text": "The chairman tried to take the heat out of the situation *(= to make people calmer)*."
+        },
+        {
+          "text": "**In the heat of the moment** she forgot what she wanted to say *(= because she was so angry or excited)*."
+        },
+        {
+          "text": "In the heat of the argument he said a lot of things he regretted later."
+        },
+        {
+          "text": "He stared at her, sudden heat in his eyes."
+        },
+        {
+          "text": "She spoke without heat."
+        }
+      ],
+      "collocations": {
+        "adjective": ["sudden"],
+        "heat + verb": ["flare", "flood something", "rise"],
+        "preposition": ["in the heat of", "with heat"],
+        "phrases": ["in the heat of the moment"]
+      }
+    },
+    {
+      "senseNumber": 9,
+      "definition": "pressure on somebody to do or achieve something",
+      "examples": [
+        {
+          "text": "**The heat is on** now that the election is only a week away."
+        },
+        {
+          "text": "United turned up the heat on their opponents with a second goal."
+        },
+        {
+          "text": "Can she **take the heat** of this level of competition?"
+        }
+      ]
+    },
+    {
+      "senseNumber": 10,
+      "definition": "one of a series of races or competitions, the winners of which then compete against each other in the next part of the competition",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "a qualifying heat"
+        },
+        {
+          "text": "She won her heat."
+        },
+        {
+          "text": "He did well in **the heats**; hopefully he'll do as well in the final."
+        },
+        {
+          "text": "He fell in the first heat."
+        }
+      ],
+      "topics": ["Sports: other sports"],
+      "collocations": {
+        "adjective": ["qualifying", "regional", "dead"],
+        "verb + heat": ["win"],
+        "preposition": ["in a/​the heat"]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be ready to have sex and produce young",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to tell somebody to stop trying to do something if they find it too difficult, especially in order to suggest that they are less able than other people",
+      "labels": "(informal)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/hiːt/",
+        "audio": "he/heat/heat__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/hiːt/",
+        "audio": "he/heat/heat__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English hǣtu (noun), hǣtan (verb), of Germanic origin; related to Dutch hitte (noun) and German heizen (verb), also to hot."
+}

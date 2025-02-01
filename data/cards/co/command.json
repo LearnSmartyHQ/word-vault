@@ -1,0 +1,214 @@
+{
+  "term": "command",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "an order given to a person or an animal",
+      "sensetop": "command to do something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Begin when I give the command."
+        },
+        {
+          "text": "You must obey the captain's commands."
+        },
+        {
+          "text": "He issued the command to retreat.",
+          "contextForm": "command to do something"
+        },
+        {
+          "text": "Police said he ignored their commands to stop."
+        },
+        {
+          "text": "an army officer barking commands at his men"
+        },
+        {
+          "text": "She has been teaching her dog simple commands."
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adjective": ["basic", "simple"],
+        "verb + command": ["carry out", "obey", "disobey"],
+        "preposition": ["at somebody’s command"],
+        "phrases": ["your wish is my command"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "an instruction given to a computer",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The computer **executes commands** successively in the order they arrive."
+        },
+        {
+          "text": "What is the startup command for the program?"
+        }
+      ],
+      "topics": ["Computers"],
+      "collocations": {
+        "adjective": ["spoken", "verbal", "voice"],
+        "verb + command": ["enter", "type", "use"],
+        "command + noun": ["line", "prompt"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "control and authority over a situation or a group of people",
+      "sensetop": "under somebody's commandcommand of somebody/somethingin commandin command of something/yourself",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "He has 1 200 men under his command.",
+          "contextForm": "under somebody's command"
+        },
+        {
+          "text": "He **has command of** 1  200 men.",
+          "contextForm": "command of somebody/something"
+        },
+        {
+          "text": "The police arrived and **took command of** the situation."
+        },
+        {
+          "text": "In 1939 he **assumed command of** all French naval forces."
+        },
+        {
+          "text": "There were many disagreements over the command of the peacekeeping forces."
+        },
+        {
+          "text": "Who is in command here?",
+          "contextForm": "in command"
+        },
+        {
+          "text": "For the first time in years, she felt in command of her life.",
+          "contextForm": "in command of something/yourself"
+        },
+        {
+          "text": "He looked relaxed and totally in command of himself."
+        },
+        {
+          "text": "the **chain of command**"
+        },
+        {
+          "text": "a breakdown in the **command structure**"
+        },
+        {
+          "text": "He had command of 3 000 soldiers."
+        },
+        {
+          "text": "She was in complete command of the situation."
+        },
+        {
+          "text": "He has lost command of his senses."
+        },
+        {
+          "text": "She was in sole command of one million pounds."
+        },
+        {
+          "text": "The division was under the command of General George."
+        },
+        {
+          "text": "under the direct command of Lieutenant Sykes"
+        },
+        {
+          "text": "Decisions that are beyond the competence of junior managers should be referred up the chain of command."
+        },
+        {
+          "text": "his command over resources"
+        }
+      ],
+      "topics": ["War and conflict"],
+      "collocations": {
+        "adjective": ["complete", "full", "total"],
+        "verb + command": ["have", "assume", "take"],
+        "command + noun": ["centre/​center", "chair", "deck"],
+        "preposition": [
+          "in command",
+          "in command of",
+          "under somebody’s command"
+        ],
+        "phrases": ["the chain of command", "the line of command"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a part of an army, air force, etc. that is organized and controlled separately; a group of officers who give orders",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "Bomber Command"
+        }
+      ],
+      "topics": ["War and conflict"]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "your knowledge of something; your ability to do or use something, especially a language",
+      "sensetop": "command (of something)",
+      "examples": [
+        {
+          "text": "Applicants will be expected to have (a) good command of English."
+        },
+        {
+          "text": "She has an excellent command of French."
+        }
+      ],
+      "collocations": {
+        "adjective": ["excellent", "fluent", "good"],
+        "verb + command": ["have", "demonstrate", "show"],
+        "preposition": ["at your command", "command of"]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "if you have a skill or an amount of something at your command, you are able to use it well and completely",
+      "examples": [
+        {
+          "text": "With all the words at my command, I could not express how I felt."
+        },
+        {
+          "text": "The vast knowledge he has at his command will be invaluable in the job."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be ready to obey somebody",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "I'm at your command—what would you like me to do?"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "used to say that you are ready to do whatever somebody asks you to do",
+      "labels": "(humorous)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəˈmɑːnd/",
+        "audio": "co/command/command__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəˈmænd/",
+        "audio": "co/command/command__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French comander ‘to command’, from late Latin commandare, from com- (expressing intensive force) + mandare ‘commit, command’. Compare with commend."
+}

@@ -1,0 +1,89 @@
+{
+  "term": "dub",
+  "partOfSpeech": "verb",
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "dub",
+      "heSheIt": "dubs"
+    },
+    "pastSimple": "dubbed",
+    "pastParticiple": "dubbed",
+    "ingForm": "dubbing"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to give somebody/something a particular name, often in a humorous or critical way",
+      "sensetop": "dub somebody + noun",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The media dubbed anorexia ‘the slimming disease’."
+        },
+        {
+          "text": "Genetically modified products have been dubbed ‘Frankenfoods’ in the popular press."
+        }
+      ]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to replace the original speech in a film or television programme with words in another language",
+      "sensetop": "dub something (into something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "an American movie dubbed into Italian"
+        }
+      ],
+      "topics": ["Film and theatre", "TV, radio and news"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to make a piece of music by mixing sounds from different recordings",
+      "sensetop": "dub something",
+      "labels": "(especially British English)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dʌb/",
+        "audio": "du/dub/dub__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dʌbz/",
+        "audio": "du/dub/dubs__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/dʌbd/",
+        "audio": "du/dub/dubbed__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈdʌbɪŋ/",
+        "audio": "du/dub/dubbing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dʌb/",
+        "audio": "du/dub/dub__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dʌbz/",
+        "audio": "du/dub/dubs__us_1.mp3"
+      },
+      {
+        "pronunciation": "/dʌbd/",
+        "audio": "du/dub/dubbed__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˈdʌbɪŋ/",
+        "audio": "du/dub/dubbing__us_2.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "verb sense 1 late Old English (in the sense ‘make a knight’): from Old French adober ‘equip with armour’, of unknown origin. verb senses 2 to 3 1920s: abbreviation of double."
+}

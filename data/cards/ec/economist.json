@@ -1,0 +1,40 @@
+{
+  "term": "economist",
+  "partOfSpeech": "noun",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a person who studies or writes about economics",
+      "examples": [
+        {
+          "text": "the World Bank's **chief economist**"
+        },
+        {
+          "text": "Many economists are predicting the economy will improve."
+        }
+      ],
+      "topics": ["Money", "Jobs"],
+      "collocations": {
+        "adjective": ["chief", "leading", "prominent"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪˈkɒnəmɪst/",
+        "audio": "ec/economist/economist__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪˈkɑːnəmɪst/",
+        "audio": "ec/economist/economist__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 16th cent. (originally in the Greek sense): from Greek oikonomos ‘household manager’, from oikonomia ‘household management’, based on oikos ‘house’ + nemein ‘manage’ + -ist. The current sense dates from the early 19th cent."
+}

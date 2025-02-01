@@ -1,0 +1,84 @@
+{
+  "term": "tissue",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "image": "data/images/ba/bathroom_objects.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a piece of soft paper, used especially as a handkerchief",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "a box of tissues"
+        },
+        {
+          "text": "He wiped his nose on a tissue."
+        },
+        {
+          "text": "She grabbed a wad of tissues from the box and soaked up the spilt juice."
+        }
+      ],
+      "collocations": {
+        "adjective": ["paper", "toilet"],
+        "… of tissues": ["box", "pack", "package"],
+        "verb + tissue": ["use", "take"],
+        "preposition": ["on a/​the tissue", "with a/​the tissue"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a collection of cells that form the different parts of humans, animals and plants",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "**muscle/brain/lung tissue**"
+        },
+        {
+          "text": "scar tissue"
+        },
+        {
+          "text": "Dyes were extracted by boiling the plant tissue."
+        },
+        {
+          "text": "She treats skin and soft tissue injuries in casualty."
+        },
+        {
+          "text": "Vitamin C helps maintain healthy connective tissue."
+        }
+      ],
+      "topics": ["Body", "Biology"],
+      "collocations": {
+        "adjective": ["living", "healthy", "normal"],
+        "verb + tissue": ["damage", "remove"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "very thin paper used for wrapping and packing things that break easily",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "a story, an excuse, etc. that is full of lies",
+      "labels": "(literary)",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈtɪʃuː/",
+        "audio": "ti/tissue/tissue__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈtɪʃuː/",
+        "audio": "ti/tissue/tissue__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Old French tissu ‘woven’, past participle of tistre, from Latin texere ‘to weave’. The word originally denoted a rich material, often interwoven with gold or silver threads, later (mid 16th cent.) any woven fabric, hence the sense of ‘intricacy’."
+}

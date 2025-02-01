@@ -1,0 +1,81 @@
+{
+  "term": "intensify",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "intensify",
+      "heSheIt": "intensifies"
+    },
+    "pastSimple": "intensified",
+    "pastParticiple": "intensified",
+    "ingForm": "intensifying"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to increase in degree or strength; to make something increase in degree or strength",
+      "sensetop": "intensify something",
+      "examples": [
+        {
+          "text": "Violence intensified during the night."
+        },
+        {
+          "text": "The fighting in the area has intensified sharply."
+        },
+        {
+          "text": "The opposition leader has intensified his attacks on the government.",
+          "contextForm": "intensify something"
+        },
+        {
+          "text": "The reforms served only to intensify the misery of the poorer peasants."
+        }
+      ],
+      "collocations": {
+        "adverb": ["greatly", "dramatically", "rapidly"],
+        "verb + intensify": ["seem to", "tend to", "be likely to"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪ/",
+        "audio": "in/intensify/intensify__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪz/",
+        "audio": "in/intensify/intensifies__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪd/",
+        "audio": "in/intensify/intensified__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪɪŋ/",
+        "audio": "in/intensify/intensifying__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪ/",
+        "audio": "in/intensify/intensify__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪz/",
+        "audio": "in/intensify/intensifies__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪd/",
+        "audio": "in/intensify/intensified__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ɪnˈtensɪfaɪɪŋ/",
+        "audio": "in/intensify/intensifying__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 19th cent.: coined by Coleridge."
+}

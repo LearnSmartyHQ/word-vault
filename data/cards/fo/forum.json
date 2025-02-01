@@ -1,0 +1,74 @@
+{
+  "term": "forum",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "b2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "an event or medium where people can exchange opinions and ideas on a particular issue; a meeting organized for this purpose",
+      "sensetop": "forum (on something)forum for something",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "to hold an international forum on drug abuse",
+          "contextForm": "forum (on something)"
+        },
+        {
+          "text": "Television is now an important forum for political debate.",
+          "contextForm": "forum for something"
+        },
+        {
+          "text": "The conference provides a useful forum for the exchange of views and ideas."
+        },
+        {
+          "text": "The film show was followed by an open forum on editing techniques."
+        },
+        {
+          "text": "We will be hosting a two-day forum on childcare."
+        }
+      ],
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "adjective": ["open", "public", "international"],
+        "verb + forum": ["hold", "host", "attend"],
+        "forum + verb": ["take place"],
+        "preposition": ["forum on"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a website or web page where users can put comments about a particular issue or topic and reply to other users' comments",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "an internet forum"
+        },
+        {
+          "text": "It's a forum where new parents can exchange questions, advice and support."
+        }
+      ],
+      "topics": ["Phones, email and the internet"]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "(in ancient Rome) a public place where meetings were held",
+      "examples": []
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈfɔːrəm/",
+        "audio": "fo/forum/forum__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈfɔːrəm/",
+        "audio": "fo/forum/forum__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (in sense (2)): from Latin, literally ‘what is out of doors’, originally denoting an enclosure surrounding a house; related to fores ‘(outside) door’. Sense (1) dates from the mid 18th cent."
+}

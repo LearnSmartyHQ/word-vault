@@ -1,0 +1,167 @@
+{
+  "term": "alarm",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a loud noise or a signal that warns people of danger or of a problem",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "She decided to **sound the alarm** *(= warn people that the situation was dangerous)*."
+        },
+        {
+          "text": "I hammered on all the doors to **raise the alarm**."
+        },
+        {
+          "text": "By the time the alarm was raised the intruders had escaped."
+        },
+        {
+          "text": "Many birds give alarm calls to warn of danger."
+        },
+        {
+          "text": "Suddenly the alarm sounded and they all had to leave the building."
+        },
+        {
+          "text": "Soldier termites sound an alarm by beating their large heads on passage walls."
+        }
+      ],
+      "topics": ["Danger", "Houses and homes"],
+      "collocations": {
+        "adjective": ["false"],
+        "verb + alarm": ["give", "raise", "sound"],
+        "alarm + noun": ["call"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a device that warns people of a particular danger, or that a particular person is in danger",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a **burglar/fire/smoke alarm**"
+        },
+        {
+          "text": "The cat **set off the alarm** *(= made it start ringing)*."
+        },
+        {
+          "text": "A car **alarm went off** in the middle of the night *(= started ringing)*."
+        },
+        {
+          "text": "Carry a personal alarm with you."
+        },
+        {
+          "text": "Install an alarm system and learn how to use it."
+        },
+        {
+          "text": "Unfortunately any little noise can set off the alarm."
+        },
+        {
+          "text": "Many colleges hand out rape alarms to women students."
+        }
+      ],
+      "topics": ["Danger"],
+      "collocations": {
+        "adjective": ["fire", "smoke", "burglar"],
+        "verb + alarm": ["set", "activate", "set off"],
+        "alarm + verb": ["go off", "ring", "sound"],
+        "alarm + noun": ["bell", "clock", "system"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a ringing sound or a tune played by a clock or your phone after you have set it to play at a particular time to wake you up",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The **alarm went off** at 7 o'clock."
+        },
+        {
+          "text": "I set my alarm for 6.30."
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "fear and worry that somebody feels when something dangerous or unpleasant might happen",
+      "sensetop": "in alarm",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "‘What have you done?’ Ellie cried in alarm.",
+          "contextForm": "in alarm"
+        },
+        {
+          "text": "I felt a growing sense of alarm when he did not return that night."
+        },
+        {
+          "text": "The doctor said there was no **cause for alarm**."
+        },
+        {
+          "text": "To her parents' alarm, she announced that she intended to travel the world."
+        },
+        {
+          "text": "His face registered no alarm at all when I told him the news."
+        },
+        {
+          "text": "Many people have expressed alarm at the plans."
+        },
+        {
+          "text": "The head teacher's policies have provoked alarm among parents."
+        },
+        {
+          "text": "The incident created serious public alarm."
+        },
+        {
+          "text": "The news has been greeted with alarm."
+        },
+        {
+          "text": "There has been considerable alarm about the new proposals."
+        },
+        {
+          "text": "There is growing public alarm at this increase in crime."
+        },
+        {
+          "text": "We had no wish to spread alarm."
+        }
+      ],
+      "topics": ["Danger", "Feelings"],
+      "collocations": {
+        "adjective": ["considerable", "great", "growing"],
+        "verb + alarm": ["cause", "create", "provoke"],
+        "preposition": ["in alarm", "to somebody’s alarm", "with alarm"],
+        "phrases": ["cause for alarm"]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "if you say that alarm bells are ringing, you mean that people are starting to feel worried and to suspect that something is wrong",
+      "examples": [
+        {
+          "text": "The government’s proposal has set alarm bells ringing for people on low incomes."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/əˈlɑːm/",
+        "audio": "al/alarm/alarm__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/əˈlɑːrm/",
+        "audio": "al/alarm/alarm__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (as an exclamation meaning ‘to arms!’): from Old French alarme, from Italian allarme, from all' arme! ‘to arms!’."
+}

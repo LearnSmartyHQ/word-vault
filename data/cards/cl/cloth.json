@@ -1,0 +1,114 @@
+{
+  "term": "cloth",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "material made by weaving or knitting cotton, wool, silk, etc.",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "woollen/cotton/linen cloth"
+        },
+        {
+          "text": "a **piece of cloth**"
+        },
+        {
+          "text": "His bandages had been made from strips of cloth."
+        },
+        {
+          "text": "the cloth industry/trade"
+        },
+        {
+          "text": "a cloth bag"
+        },
+        {
+          "text": "a jacket made from woollen cloth"
+        },
+        {
+          "text": "She works in the cloth trade."
+        },
+        {
+          "text": "They used to export cotton cloth."
+        }
+      ],
+      "topics": ["Clothes and Fashion"],
+      "collocations": {
+        "adjective": ["coarse", "fine", "woven"],
+        "… of cloth": ["bale", "bolt", "length"],
+        "verb + cloth": ["make", "produce", "weave"],
+        "cloth + noun": ["industry", "manufacture", "merchant"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a piece of cloth, often used for a special purpose, especially cleaning things or covering a table",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Wipe the surface with a damp cloth."
+        },
+        {
+          "text": "Place the dough in a bowl and cover with a clean cloth."
+        },
+        {
+          "text": "He gently cleaned her face with a wet cloth."
+        },
+        {
+          "text": "Wipe the table with a damp cloth."
+        }
+      ],
+      "collocations": {
+        "adjective": ["soft", "damp", "wet"],
+        "verb + cloth": ["dampen", "dip in something", "moisten"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "used to refer to Christian priests as a group",
+      "labels": "(literary)",
+      "examples": [
+        {
+          "text": "a man of the cloth"
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to do only what you have enough money to do and no more",
+      "labels": "(saying)",
+      "examples": [
+        {
+          "text": "We wanted to buy a bigger house than this but it was a case of cutting our coat according to our cloth."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/klɒθ/",
+        "audio": "cl/cloth/cloth__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/klɒθs/",
+        "audio": "cl/cloth/cloths__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/klɔːθ/",
+        "audio": "cl/cloth/cloth__us_1.mp3"
+      },
+      {
+        "pronunciation": "/klɔːðz/",
+        "audio": "cl/cloth/cloths__us_1_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English clāth, related to Dutch kleed and German Kleid, of unknown ultimate origin."
+}

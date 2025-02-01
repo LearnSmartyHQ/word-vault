@@ -1,0 +1,215 @@
+{
+  "term": "stream",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b2",
+  "image": "data/images/co/countryside.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a small, narrow river",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a mountain stream"
+        },
+        {
+          "text": "We waded across a shallow stream."
+        },
+        {
+          "text": "Our **rivers and streams** are polluted with a host of chemicals."
+        },
+        {
+          "text": "The stream flows through a narrow valley."
+        },
+        {
+          "text": "There are small fish in the stream."
+        },
+        {
+          "text": "We picnicked beside a bubbling stream."
+        },
+        {
+          "text": "a leaf floating on the stream"
+        },
+        {
+          "text": "Many underground streams flow beneath the forest."
+        },
+        {
+          "text": "We waded across a little mountain stream."
+        }
+      ],
+      "topics": ["Geography"],
+      "collocations": {
+        "adjective": ["little", "small", "shallow"],
+        "verb + stream": ["cross", "ford", "pollute"],
+        "stream + verb": ["flow", "run", "trickle"],
+        "stream + noun": ["bed"],
+        "preposition": [
+          "across a/​the stream",
+          "down a/​the stream",
+          "up a/​the stream"
+        ],
+        "phrases": ["the edge of the stream", "the side of the stream"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a continuous flow of liquid or gas",
+      "sensetop": "stream of something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a jet stream"
+        },
+        {
+          "text": "A stream of blood flowed from the wound.",
+          "contextForm": "stream of something"
+        },
+        {
+          "text": "He blew out a stream of cigar smoke."
+        },
+        {
+          "text": "Giant turbines blast a stream of air into the tube."
+        },
+        {
+          "text": "The stream of hot water hit the bottom of the bath."
+        }
+      ],
+      "collocations": {
+        "adjective": ["thin", "air", "gas"],
+        "verb + stream": ["emit", "let in"],
+        "stream + verb": ["flow"],
+        "preposition": ["stream of"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a continuous flow of people or vehicles",
+      "sensetop": "stream of something/somebodyin a stream",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I've had a **steady stream** of visitors.",
+          "contextForm": "stream of something/somebody"
+        },
+        {
+          "text": "a continuous stream of people/traffic"
+        },
+        {
+          "text": "Cars filed past in an endless stream.",
+          "contextForm": "in a stream"
+        }
+      ],
+      "collocations": {
+        "adjective": ["constant", "continuous", "endless"],
+        "verb + stream": ["generate", "send", "let loose"],
+        "preposition": ["stream of"],
+        "phrases": ["stream of consciousness"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a continuous supply of something; a large number of things that happen one after the other",
+      "sensetop": "stream of something",
+      "cefr": "b2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The agency provided me with a **steady stream** of work.",
+          "contextForm": "stream of something"
+        },
+        {
+          "text": "a **constant stream of** enquiries"
+        },
+        {
+          "text": "Most of the letter consisted of a stream of abuse."
+        },
+        {
+          "text": "He let loose a stream of insults and obscenities."
+        },
+        {
+          "text": "She had to deal with a constant stream of enquiries."
+        },
+        {
+          "text": "She was able to play streams of difficult notes with extreme accuracy."
+        },
+        {
+          "text": "There were endless streams of mail which could not all be read."
+        },
+        {
+          "text": "a constant stream of letters"
+        },
+        {
+          "text": "The computer generates a steady stream of emails."
+        },
+        {
+          "text": "He let loose a stream of abuse."
+        },
+        {
+          "text": "We have established several different streams of funding."
+        }
+      ],
+      "collocations": {
+        "adjective": ["constant", "continuous", "endless"],
+        "verb + stream": ["generate", "send", "let loose"],
+        "preposition": ["stream of"],
+        "phrases": ["stream of consciousness"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "a continuous flow of video or sound sent over the internet; a continuous flow of computer data or instructions",
+      "labels": "(computing)",
+      "examples": [
+        {
+          "text": "You can listen to the **live** audio **stream**."
+        }
+      ]
+    },
+    {
+      "senseNumber": 6,
+      "definition": "a group of students of the same age and level of ability in some schools",
+      "labels": "(especially British English)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "She was put into the fast stream."
+        },
+        {
+          "text": "Children who find themselves in the bottom stream feel discouraged."
+        },
+        {
+          "text": "He was put into the top stream."
+        }
+      ],
+      "topics": ["Education"]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to be in operation or available",
+      "examples": [
+        {
+          "text": "The new computer system comes on stream next month."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/striːm/",
+        "audio": "st/stream/stream__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/striːm/",
+        "audio": "st/stream/stream__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Old English strēam (noun), of Germanic origin; related to Dutch stroom, German Strom, from an Indo-European root shared by Greek rhein ‘to flow’."
+}

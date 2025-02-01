@@ -1,0 +1,74 @@
+{
+  "term": "architect",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a person whose job is designing buildings",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The house was designed by architect Louis Kahn."
+        },
+        {
+          "text": "She's a London-based architect and interior designer."
+        },
+        {
+          "text": "In 1721 he was named **chief architect** of the cathedral."
+        }
+      ],
+      "topics": ["Jobs"],
+      "collocations": {
+        "adjective": ["famous", "great", "leading"],
+        "verb + architect": ["appoint", "commission", "employ"],
+        "architect + verb": [
+          "design something",
+          "draw up plans (for something)",
+          "create something"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a person who is responsible for planning or creating an idea, an event or a situation",
+      "examples": [
+        {
+          "text": "He was one of the principal architects of the revolution."
+        },
+        {
+          "text": "Jones was the architect of the team's first goal."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a person who designs or puts together a program or computer system",
+      "labels": "(computing)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "We are looking for an IT data architect to work within our Systems Architecture team."
+        }
+      ],
+      "topics": ["Jobs", "Computers"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈɑːkɪtekt/",
+        "audio": "ar/architect/architect__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈɑːrkɪtekt/",
+        "audio": "ar/architect/architect__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 16th cent.: from French architecte, from Italian architetto, via Latin from Greek arkhitektōn, from arkhi- ‘chief’ + tektōn ‘builder’."
+}

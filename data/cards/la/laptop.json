@@ -1,0 +1,40 @@
+{
+  "term": "laptop",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "image": "data/images/of/office.png",
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "a small computer that can work with a battery and be easily carried",
+      "sensetop": "on a laptop",
+      "examples": [
+        {
+          "text": "I opened my laptop and started typing."
+        },
+        {
+          "text": "She was still working on her laptop.",
+          "contextForm": "on a laptop"
+        }
+      ],
+      "synonyms": "notebook",
+      "topics": ["Computers"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈlæptɒp/",
+        "audio": "la/laptop/laptop__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈlæptɑːp/",
+        "audio": "la/laptop/laptop__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

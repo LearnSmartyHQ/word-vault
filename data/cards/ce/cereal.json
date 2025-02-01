@@ -1,0 +1,75 @@
+{
+  "term": "cereal",
+  "partOfSpeech": "noun",
+  "image": "data/images/ce/cereals.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "one of various types of grass that produce grains that can be eaten or are used to make flour or bread. wheat, barley and rye are all cereals.",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "cereal crops"
+        }
+      ],
+      "topics": ["Farming"],
+      "collocations": {
+        "cereal + noun": ["crop", "foods", "grain"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the grain produced by cereal crops",
+      "cefr": "b2",
+      "examples": [],
+      "topics": ["Food"],
+      "collocations": {
+        "cereal + noun": ["crop", "foods", "grain"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "food made from the grain of cereals, often eaten for breakfast with milk",
+      "cefr": "b2",
+      "examples": [
+        {
+          "text": "breakfast cereals"
+        },
+        {
+          "text": "a bowl of cereal"
+        },
+        {
+          "text": "I have cereal for breakfast."
+        },
+        {
+          "text": "a wholewheat cereal fortified with B-group vitamins"
+        },
+        {
+          "text": "fortified breakfast cereals"
+        }
+      ],
+      "topics": ["Food"],
+      "collocations": {
+        "adjective": ["breakfast", "bran", "high-fibre/​high-fiber"],
+        "… of cereal": ["bowl", "box", "packet"],
+        "verb + cereal": ["eat", "have"],
+        "cereal + noun": ["bowl", "box", "packet"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈsɪəriəl/",
+        "audio": "ce/cereal/cereal__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈsɪriəl/",
+        "audio": "ce/cereal/cereal__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 19th cent. (as an adjective): from Latin cerealis, from Ceres, the goddess of agriculture in Roman mythology."
+}

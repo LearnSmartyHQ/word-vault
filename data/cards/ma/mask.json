@@ -1,0 +1,132 @@
+{
+  "term": "mask",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "image": "data/images/ma/masks.png",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "something that you wear over your face to hide it, or to frighten or entertain other people",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The robbers wore stocking masks."
+        },
+        {
+          "text": "The kids were all wearing animal masks."
+        },
+        {
+          "text": "In the second part of the play, the actors take off their masks."
+        },
+        {
+          "text": "The man's face was hidden by a mask."
+        },
+        {
+          "text": "Two eyes glared at him from beneath the mask."
+        },
+        {
+          "text": "two men in black masks"
+        }
+      ],
+      "collocations": {
+        "adjective": ["face", "facial", "full-face"],
+        "verb + mask": ["have on", "wear", "don"],
+        "mask + verb": [
+          "conceal something",
+          "cover something",
+          "hide something"
+        ],
+        "preposition": [
+          "behind a/​the mask",
+          "beneath a/​the mask",
+          "in a/​the mask"
+        ]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "something that you wear over part or all of your face in order to protect it",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "a fencing mask"
+        }
+      ],
+      "topics": ["Healthcare", "Sports: water sports"],
+      "collocations": {
+        "adjective": ["face", "facial", "full-face"],
+        "verb + mask": ["have on", "wear", "don"],
+        "mask + verb": [
+          "conceal something",
+          "cover something",
+          "hide something"
+        ],
+        "preposition": [
+          "behind a/​the mask",
+          "beneath a/​the mask",
+          "in a/​the mask"
+        ]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a thick cream made of various substances that you put on your face and neck in order to improve the quality of your skin",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "a face mask"
+        }
+      ],
+      "topics": ["Appearance"]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a manner or an expression that hides your true character or feelings",
+      "examples": [
+        {
+          "text": "He longed to throw off the mask of respectability."
+        },
+        {
+          "text": "Her face was a cold, blank mask."
+        },
+        {
+          "text": "For a moment her mask slipped, and I saw how scared she really was."
+        },
+        {
+          "text": "He was hiding behind a mask of indifference but she wasn't fooled."
+        },
+        {
+          "text": "His fooling around is a mask for his lack of confidence."
+        },
+        {
+          "text": "He looked at me, his face a mask of innocence."
+        },
+        {
+          "text": "The mask of politeness slipped for a moment."
+        }
+      ],
+      "collocations": {
+        "adjective": ["blank", "cold", "emotionless"],
+        "mask + verb": ["slip"],
+        "preposition": ["behind a/​the mask", "mask for"],
+        "phrases": ["a mask of indifference"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/mɑːsk/",
+        "audio": "ma/mask/mask__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/mæsk/",
+        "audio": "ma/mask/mask__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 16th cent.: from French masque, from Italian maschera, mascara, probably from medieval Latin masca ‘witch, spectre’, but influenced by Arabic mask̲ara ‘buffoon’."
+}

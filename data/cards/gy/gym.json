@@ -1,0 +1,99 @@
+{
+  "term": "gym",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a room or hall with equipment for doing physical exercise, for example in a school",
+      "sensetop": "in a gym",
+      "labels": "formal",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "The school has recently built a new gym."
+        },
+        {
+          "text": "to play basketball in the gym",
+          "contextForm": "in a gym"
+        }
+      ],
+      "topics": ["Education", "Health and Fitness"],
+      "collocations": {
+        "adjective": ["fully equipped", "well-equipped", "high-school"],
+        "verb + gym": ["join", "go to", "hit"],
+        "gym + noun": ["session", "workout", "membership"],
+        "preposition": ["at the gym", "in the gym"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a private club where people go to do physical exercise in order to stay or become healthy and fit",
+      "sensetop": "at a gym",
+      "labels": "(British English)(especially North American English)(especially North American English)(British English)(especially North American English)(especially British English)",
+      "cefr": "a1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I just joined a gym."
+        },
+        {
+          "text": "I work out at the gym most days.",
+          "contextForm": "at a gym"
+        },
+        {
+          "text": "I hit the gym at 6.00 again this morning."
+        },
+        {
+          "text": "You can tell he works out at the gym."
+        },
+        {
+          "text": "Gym membership can be expensive."
+        }
+      ],
+      "synonyms": "health club",
+      "topics": ["Sports: other sports"],
+      "collocations": {
+        "adjective": ["fully equipped", "well-equipped", "high-school"],
+        "verb + gym": ["join", "go to", "hit"],
+        "gym + noun": ["session", "workout", "membership"],
+        "preposition": ["at the gym", "in the gym"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "physical exercises done in a gym, especially at school",
+      "examples": [
+        {
+          "text": "I don't enjoy gym."
+        },
+        {
+          "text": "gym shoes"
+        },
+        {
+          "text": "I played basketball in gym class."
+        },
+        {
+          "text": "a high-school gym teacher"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/dʒɪm/",
+        "audio": "gy/gym/gym__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/dʒɪm/",
+        "audio": "gy/gym/gym__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 19th cent.: abbreviation."
+}

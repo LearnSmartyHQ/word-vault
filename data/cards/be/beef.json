@@ -1,0 +1,72 @@
+{
+  "term": "beef",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "meat that comes from a cow",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "**roast beef**"
+        },
+        {
+          "text": "beef and dairy cattle"
+        },
+        {
+          "text": "minced/ground beef"
+        },
+        {
+          "text": "a joint/fillet/cut of beef"
+        },
+        {
+          "text": "a beef farmer/producer"
+        },
+        {
+          "text": "She carved the beef thinly."
+        },
+        {
+          "text": "I bought a kilo of very lean minced beef."
+        },
+        {
+          "text": "Choose cuts of beef that are suitable for roasting."
+        }
+      ],
+      "topics": ["Food"],
+      "collocations": {
+        "adjective": ["fresh", "lean", "fatty"],
+        "… of beef": ["bit", "piece", "slice"],
+        "verb + beef": ["eat", "boil", "braise"],
+        "beef + noun": ["broth", "jerky", "stew"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a complaint",
+      "labels": "(informal)",
+      "examples": [
+        {
+          "text": "What's his latest beef?"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/biːf/",
+        "audio": "be/beef/beef__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/biːf/",
+        "audio": "be/beef/beef__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French boef, from Latin bos, bov- ‘ox’."
+}

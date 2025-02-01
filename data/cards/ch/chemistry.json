@@ -1,0 +1,93 @@
+{
+  "term": "chemistry",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the scientific study of the structure of substances, how they react when combined or in contact with one another, and how they behave under different conditions",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a degree in chemistry"
+        },
+        {
+          "text": "He did physics and chemistry at university."
+        },
+        {
+          "text": "the university’s chemistry department"
+        },
+        {
+          "text": "inorganic/organic chemistry"
+        }
+      ],
+      "topics": ["Education", "Scientific research"],
+      "collocations": {
+        "adjective": ["analytical", "applied", "theoretical"],
+        "chemistry + noun": ["set"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the chemical structure and behaviour of a particular substance",
+      "labels": "(specialist)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the chemistry of copper"
+        },
+        {
+          "text": "We do not fully understand the chemistry of genes."
+        },
+        {
+          "text": "The patient's blood chemistry was monitored regularly."
+        },
+        {
+          "text": "natural changes in body chemistry"
+        }
+      ],
+      "topics": ["Physics and chemistry"],
+      "collocations": {
+        "adjective": ["blood", "soil", "water"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "the relationship between two people, usually a strong sexual attraction",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "sexual chemistry"
+        },
+        {
+          "text": "The chemistry just wasn't right."
+        },
+        {
+          "text": "The personal chemistry between the two stars is obvious."
+        }
+      ],
+      "topics": ["Family and relationships"],
+      "collocations": {
+        "adjective": ["personal", "sexual"],
+        "preposition": ["chemistry between"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈkemɪstri/",
+        "audio": "ch/chemistry/chemistry__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈkemɪstri/",
+        "audio": "ch/chemistry/chemistry__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": null
+}

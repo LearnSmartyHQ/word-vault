@@ -1,0 +1,66 @@
+{
+  "term": "delegate",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a person who is chosen or elected to represent the views of a group of people and vote and make decisions for them",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Congress delegates rejected the proposals."
+        },
+        {
+          "text": "The delegates voted to support the resolution."
+        },
+        {
+          "text": "a delegate from the local Labour party"
+        },
+        {
+          "text": "the British delegate to the United Nations"
+        }
+      ],
+      "topics": ["Preferences and decisions"],
+      "collocations": {
+        "adjective": ["conference", "congress", "convention"],
+        "verb + delegate": ["choose", "elect", "select"],
+        "delegate + verb": [
+          "attend (something)",
+          "approve",
+          "vote (on something)"
+        ],
+        "preposition": ["delegate from", "delegate to"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a person who attends a conference",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The conference was attended by delegates from 56 countries."
+        },
+        {
+          "text": "They decided not to send a delegate to the conference."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈdelɪɡət/",
+        "audio": "de/delegate/delegate__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈdelɪɡət/",
+        "audio": "de/delegate/delegate__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English: from Latin delegatus ‘sent on a commission’, from the verb delegare, from de- ‘down’ + legare ‘depute’."
+}

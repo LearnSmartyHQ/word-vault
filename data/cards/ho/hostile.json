@@ -1,0 +1,121 @@
+{
+  "term": "hostile",
+  "partOfSpeech": "adjective",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "aggressive or unfriendly and ready to argue or fight",
+      "sensetop": "hostile to/towards somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The speaker got a hostile reception from the audience."
+        },
+        {
+          "text": "She was openly hostile towards her parents.",
+          "contextForm": "hostile to/towards somebody/something"
+        },
+        {
+          "text": "He was extremely hostile towards her."
+        },
+        {
+          "text": "The audience gave him a downright hostile reception."
+        },
+        {
+          "text": "The experience has made him generally hostile to women."
+        },
+        {
+          "text": "The press became uniformly hostile to the new administration."
+        },
+        {
+          "text": "They were reluctant to take any step that might be regarded as hostile."
+        },
+        {
+          "text": "politically hostile newspapers"
+        }
+      ],
+      "topics": ["Opinion and argument", "Feelings"],
+      "collocations": {
+        "verbs": ["appear", "be", "feel"],
+        "adverb": ["bitterly", "decidedly", "deeply"],
+        "preposition": ["to", "towards/​toward"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "strongly rejecting something",
+      "sensetop": "hostile to something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The proposals have provoked a hostile response from opposition parties."
+        },
+        {
+          "text": "Many of the employees were hostile to the idea of change.",
+          "contextForm": "hostile to something"
+        },
+        {
+          "text": "Many people were openly hostile to the idea."
+        }
+      ],
+      "synonyms": "opposed",
+      "topics": ["Opinion and argument"],
+      "collocations": {
+        "verbs": ["appear", "be", "feel"],
+        "adverb": ["bitterly", "decidedly", "deeply"],
+        "preposition": ["to", "towards/​toward"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "making it difficult for something to happen or to be achieved",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "hostile conditions for plants to grow in"
+        }
+      ],
+      "topics": ["Difficulty and failure"]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "belonging to a military enemy",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "hostile territory"
+        }
+      ],
+      "topics": ["War and conflict"]
+    },
+    {
+      "senseNumber": 5,
+      "definition": "not wanted by the company that is to be bought",
+      "labels": "(business)",
+      "cefr": "c2",
+      "examples": [
+        {
+          "text": "a hostile takeover bid"
+        }
+      ],
+      "topics": ["Business"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈhɒstaɪl/",
+        "audio": "ho/hostile/hostile__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈhɑːstl//ˈhɑːstaɪl/",
+        "audio": "ho/hostile/hostile__us_1_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late 16th cent.: from French, or from Latin hostilis, from hostis ‘stranger, enemy’."
+}

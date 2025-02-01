@@ -1,0 +1,143 @@
+{
+  "term": "differentiate",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "differentiate",
+      "heSheIt": "differentiates"
+    },
+    "pastSimple": "differentiated",
+    "pastParticiple": "differentiated",
+    "ingForm": "differentiating"
+  },
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "to recognize or show that two things are not the same",
+      "sensetop": "differentiate (between) A and Bdifferentiate A (from B)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "It's difficult to differentiate between the two varieties.",
+          "contextForm": "differentiate (between) A and B"
+        },
+        {
+          "text": "I can't differentiate one variety from another.",
+          "contextForm": "differentiate A (from B)"
+        },
+        {
+          "text": "Birds are able to differentiate colours."
+        },
+        {
+          "text": "She can just differentiate between light and dark."
+        },
+        {
+          "text": "Teachers should differentiate clearly between different kinds of correction."
+        }
+      ],
+      "synonyms": "distinguish",
+      "collocations": {
+        "adverb": ["clearly"],
+        "verb + differentiate": [
+          "be important to",
+          "be easy to",
+          "be possible to"
+        ],
+        "preposition": ["between", "from"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "to be the particular thing that shows that things or people are not the same",
+      "sensetop": "differentiate something (from something)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The male's yellow beak differentiates it from the female."
+        },
+        {
+          "text": "features which clearly differentiate this product from other similar ones"
+        }
+      ],
+      "synonyms": "distinguish",
+      "collocations": {
+        "adverb": ["clearly"],
+        "verb + differentiate": [
+          "be important to",
+          "be easy to",
+          "be possible to"
+        ],
+        "preposition": ["between", "from"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "to treat people or things in a different way, especially in an unfair way",
+      "sensetop": "differentiate (between A and B)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Rules that differentiate between employees on the basis of gender need to be revised."
+        }
+      ]
+    },
+    {
+      "senseNumber": 4,
+      "definition": "to become more specialized during growth and development; to make a cell or tissue more specialized during growth and development",
+      "sensetop": "differentiate (into something)differentiate something (into something)",
+      "labels": "(biology)",
+      "examples": [
+        {
+          "text": "The fertilized egg differentiates into several different cell types.",
+          "contextForm": "differentiate (into something)"
+        },
+        {
+          "text": "The receptors are developed and differentiated into sense organs.",
+          "contextForm": "differentiate something (into something)"
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˌdɪfəˈrenʃieɪt/",
+        "audio": "di/differentiate/differentiate__gb_5.mp3"
+      },
+      {
+        "pronunciation": "/ˌdɪfəˈrenʃieɪts/",
+        "audio": "di/differentiate/differentiates__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌdɪfəˈrenʃieɪtɪd/",
+        "audio": "di/differentiate/differentiated__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌdɪfəˈrenʃieɪtɪŋ/",
+        "audio": "di/differentiate/differentiating__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˌdɪfəˈrenʃieɪt/",
+        "audio": "di/differentiate/differentiate__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌdɪfəˈrenʃieɪts/",
+        "audio": "di/differentiate/differentiates__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌdɪfəˈrenʃieɪtɪd/",
+        "audio": "di/differentiate/differentiated__us_1.mp3"
+      },
+      {
+        "pronunciation": "/ˌdɪfəˈrenʃieɪtɪŋ/",
+        "audio": "di/differentiate/differentiating__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 19th cent.: from medieval Latin differentiat- ‘carried away from’, from the verb differentiare, from differentia from different- ‘carrying away’, from the verb differre, from dis- ‘from, away’ + ferre ‘bring, carry’."
+}

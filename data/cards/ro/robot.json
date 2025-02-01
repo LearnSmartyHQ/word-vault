@@ -1,0 +1,62 @@
+{
+  "term": "robot",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "b1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a machine that can perform a complicated series of tasks by itself",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "These cars are built by robots."
+        },
+        {
+          "text": "On her first flight she was responsible for operating the shuttle's robot arm."
+        }
+      ],
+      "topics": ["Business", "Engineering"]
+    },
+    {
+      "senseNumber": 2,
+      "definition": "(especially in stories) a machine that is made to look like a human and that can do some things that a human can do",
+      "cefr": "b1",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "a toy robot"
+        },
+        {
+          "text": "The action starts when an army of giant robots invades Manhattan."
+        }
+      ]
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a traffic light",
+      "labels": "(South African English)",
+      "examples": [
+        {
+          "text": "Turn left at the first robot."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈrəʊbɒt/",
+        "audio": "ro/robot/robot__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈrəʊbɑːt/",
+        "audio": "ro/robot/robot__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "from Czech, from robota ‘forced labour’. The term was coined in K. Čapek's play R.U.R. ‘ Rossum's Universal Robots’ (1920)."
+}

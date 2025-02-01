@@ -1,0 +1,123 @@
+{
+  "term": "grid",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a pattern of straight lines, usually crossing each other to form squares",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "New York’s grid of streets"
+        },
+        {
+          "text": "The artist drew a set of grid lines over the area to be painted."
+        },
+        {
+          "text": "We superimposed a grid over the image."
+        },
+        {
+          "text": "the Manhattan street grid"
+        }
+      ],
+      "collocations": {
+        "adjective": ["rectangular", "square", "regular"],
+        "verb + grid": ["superimpose"],
+        "grid + noun": ["line", "pattern", "square"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a frame of metal or wooden bars that are parallel or cross each other",
+      "examples": []
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a pattern of squares on a map that are marked with letters or numbers to help you find the exact position of a place",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The **grid reference** is C8."
+        },
+        {
+          "text": "An Ordnance Survey grid reference gives the position of a place to within 100 metres."
+        },
+        {
+          "text": "Each of the grid squares on the map is equal to one square kilometre."
+        },
+        {
+          "text": "The grid lines on the map run north-south."
+        }
+      ],
+      "collocations": {
+        "grid + noun": ["line", "reference", "square"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a system of electric wires or pipes carrying gas, for sending power over a large area",
+      "labels": "(especially British English)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "the national grid *(= the electricity supply in a country)*"
+        },
+        {
+          "text": "the development of the country’s electricity grid"
+        },
+        {
+          "text": "Power can be fed from wind generators into the electricity grid system."
+        }
+      ],
+      "collocations": {
+        "adjective": ["electric", "electrical", "electricity"],
+        "grid + noun": ["system"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "a pattern of lines marking the starting positions for the racing cars",
+      "examples": [
+        {
+          "text": "The 20-year-old didn't get the best of starts off the grid."
+        }
+      ]
+    },
+    {
+      "senseNumber": 6,
+      "definition": "a number of computers that are linked together using the internet so that they can share power, data, etc. in order to work on difficult problems",
+      "labels": "(computing)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "not using the public supplies of electricity, gas, water, etc.",
+      "labels": "(especially North American English)",
+      "examples": [
+        {
+          "text": "The mountain cabin is entirely off the grid."
+        },
+        {
+          "text": "You can produce your own power and live off the grid."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ɡrɪd/",
+        "audio": "gr/grid/grid__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ɡrɪd/",
+        "audio": "gr/grid/grid__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "mid 19th cent.: back-formation from gridiron."
+}

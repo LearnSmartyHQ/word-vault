@@ -1,0 +1,131 @@
+{
+  "term": "provision",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "the act of supplying somebody with something that they need or want; something that is supplied",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "housing provision"
+        },
+        {
+          "text": "The government is responsible for the provision of healthcare."
+        },
+        {
+          "text": "There is no provision for anyone to sit down here."
+        },
+        {
+          "text": "The provision of specialist teachers is being increased."
+        },
+        {
+          "text": "Several companies are responsible for the provision of cleaning services."
+        }
+      ],
+      "collocations": {
+        "adjective": ["federal", "private", "state"],
+        "preposition": ["provision of"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "preparations that you make for something that might or will happen in the future",
+      "sensetop": "provision for somebody/something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "He had already **made provisions for** *(= planned for the financial future of)* his wife and children before the accident."
+        },
+        {
+          "text": "You should **make provision for** things going wrong."
+        },
+        {
+          "text": "Small businesses are advised to make adequate provisions against bad debts."
+        },
+        {
+          "text": "The plans for developing the area include provision for both water and field sports."
+        },
+        {
+          "text": "You need to make adequate provision for your retirement."
+        },
+        {
+          "text": "The company had made provisions against falls in land prices."
+        },
+        {
+          "text": "They had made all kinds of provisions against bad weather."
+        }
+      ],
+      "collocations": {
+        "adjective": ["full", "adequate", "detailed"],
+        "verb + provision": ["make", "contain", "include"],
+        "provision + verb": ["apply", "allow something", "require something"],
+        "preposition": ["provision against", "provision for"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "supplies of food and drink, especially for a long journey",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "We have enough provisions to last us two weeks."
+        },
+        {
+          "text": "We went into town to stock up on provisions."
+        }
+      ],
+      "collocations": {
+        "verb + provisions": ["buy", "stock up on", "stock up with"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "a condition or an arrangement in a legal document",
+      "sensetop": "under the provisions of something",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The same provisions apply to foreign-owned companies."
+        },
+        {
+          "text": "Under the provisions of the lease, the tenant is responsible for repairs.",
+          "contextForm": "under the provisions of something"
+        },
+        {
+          "text": "The Act contains detailed provisions for appeal against the court's decision."
+        },
+        {
+          "text": "provisions contained in the contract"
+        },
+        {
+          "text": "Specific provisions had been made for foreign nationals."
+        }
+      ],
+      "topics": ["Law and justice"],
+      "collocations": {
+        "adjective": ["full", "adequate", "detailed"],
+        "verb + provision": ["make", "contain", "include"],
+        "provision + verb": ["apply", "allow something", "require something"],
+        "preposition": ["provision against", "provision for"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/prəˈvɪʒn/",
+        "audio": "pr/provision/provision__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/prəˈvɪʒn/",
+        "audio": "pr/provision/provision__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "late Middle English (also in the sense ‘foresight’): via Old French from Latin provisio(n-), from providere ‘foresee, attend to’, from pro- ‘before’ + videre ‘to see’. The verb dates from the early 19th cent."
+}

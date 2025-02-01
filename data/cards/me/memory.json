@@ -1,0 +1,233 @@
+{
+  "term": "memory",
+  "partOfSpeech": "noun",
+  "ox3000": true,
+  "cefr": "a2",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "your ability to remember things",
+      "sensetop": "memory for somethingfrom memory",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "I have a bad memory for names.",
+          "contextForm": "memory for something"
+        },
+        {
+          "text": "People have **short memories** *(= they soon forget)*."
+        },
+        {
+          "text": "He had a long memory for people who had disappointed him."
+        },
+        {
+          "text": "He had a great memory for detail."
+        },
+        {
+          "text": "She can recite the whole poem from memory.",
+          "contextForm": "from memory"
+        },
+        {
+          "text": "He suffered **memory loss** for weeks after the accident."
+        },
+        {
+          "text": "Are you sure? Memory can play tricks on you."
+        },
+        {
+          "text": "The drugs had a severe effect on her short-term memory."
+        },
+        {
+          "text": "I quickly **committed** the number of the car **to memory** *(= learned and remembered it)*."
+        },
+        {
+          "text": "Culture is the unit of collective memory, keeping the past alive."
+        }
+      ],
+      "collocations": {
+        "adjective": ["excellent", "good", "long"],
+        "verb + memory": ["jog", "refresh", "lose"],
+        "preposition": ["from memory", "memory for"],
+        "phrases": ["in living memory", "in recent memory", "if memory serves"]
+      }
+    },
+    {
+      "senseNumber": 2,
+      "definition": "the period of time that a person or group of people is able to remember events",
+      "sensetop": "in… memorywithin… memory",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "There hasn’t been peace in the country in my memory.",
+          "contextForm": "in… memory"
+        },
+        {
+          "text": "It was the worst storm **in recent memory**."
+        },
+        {
+          "text": "This hasn't happened **within living memory** *(= nobody alive now can remember it)*.",
+          "contextForm": "within… memory"
+        }
+      ],
+      "collocations": {
+        "adjective": ["excellent", "good", "long"],
+        "verb + memory": ["jog", "refresh", "lose"],
+        "preposition": ["from memory", "memory for"],
+        "phrases": ["in living memory", "in recent memory", "if memory serves"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a thought of something that you remember from the past",
+      "sensetop": "memory of somethingmemory of doing something",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "Her poems are often based on **childhood memories**."
+        },
+        {
+          "text": "I have **vivid memories** of my grandparents.",
+          "contextForm": "memory of something"
+        },
+        {
+          "text": "My mother has **fond memories** of those days."
+        },
+        {
+          "text": "I have many **happy memories** of working there.",
+          "contextForm": "memory of doing something"
+        },
+        {
+          "text": "The snow outside makes summer feel like a **distant memory**."
+        },
+        {
+          "text": "What is your earliest memory?"
+        },
+        {
+          "text": "The photos **bring back** lots of good **memories**."
+        },
+        {
+          "text": "This music **evokes** painful **memories**."
+        },
+        {
+          "text": "The simple melody evokes fond memories of childhood."
+        },
+        {
+          "text": "We laughed and shared memories of Ella and Jake growing up."
+        }
+      ],
+      "synonyms": "recollection",
+      "collocations": {
+        "adjective": ["childhood", "early", "dim"],
+        "verb + memory": ["have", "bring back", "evoke"],
+        "memory + verb": [
+          "come flooding back",
+          "flood back",
+          "flood somebody’s mind"
+        ],
+        "preposition": ["at the memory", "in memory of", "memory from"],
+        "phrases": ["in loving memory"]
+      }
+    },
+    {
+      "senseNumber": 4,
+      "definition": "what is remembered about somebody after they have died",
+      "labels": "(formal)",
+      "examples": [
+        {
+          "text": "Her memory lives on *(= we still remember her)*."
+        },
+        {
+          "text": "Their behaviour insults the memory of those who died for this country."
+        },
+        {
+          "text": "They held a feast to honour the memory of Patroclus, his slain comrade."
+        }
+      ],
+      "collocations": {
+        "adjective": ["childhood", "early", "dim"],
+        "verb + memory": ["have", "bring back", "evoke"],
+        "memory + verb": [
+          "come flooding back",
+          "flood back",
+          "flood somebody’s mind"
+        ],
+        "preposition": ["at the memory", "in memory of", "memory from"],
+        "phrases": ["in loving memory"]
+      }
+    },
+    {
+      "senseNumber": 5,
+      "definition": "the part of a computer where information is stored; the amount of space in a computer for storing information",
+      "cefr": "a2",
+      "ox3000": true,
+      "examples": [
+        {
+          "text": "32 gigabytes of memory"
+        },
+        {
+          "text": "Have you got enough memory available to run the program?"
+        }
+      ],
+      "topics": ["Computers"],
+      "collocations": {
+        "adjective": ["computer", "system", "cache"],
+        "verb + memory": ["expand", "take up"],
+        "memory + noun": ["stick", "drive", "slot"]
+      }
+    },
+    {
+      "senseNumber": null,
+      "definition": "if something is etched on your heart, memory, etc. you remember it because it has made a strong impression on you",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "to have a very bad memory; to forget things easily",
+      "labels": "(informal)",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "if I remember correctly",
+      "examples": []
+    },
+    {
+      "senseNumber": null,
+      "definition": "intended to show respect and remind people of somebody who has died",
+      "examples": [
+        {
+          "text": "He founded the charity in memory of his late wife."
+        },
+        {
+          "text": "The statue was erected to the memory of my father."
+        }
+      ]
+    },
+    {
+      "senseNumber": null,
+      "definition": "to say or do something that makes somebody remember something",
+      "examples": [
+        {
+          "text": "Maybe these letters will help to jog your memory."
+        }
+      ]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈmeməri/",
+        "audio": "me/memory/memory__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈmeməri/",
+        "audio": "me/memory/memory__us_1_rr.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French memorie, from Latin memoria, from memor ‘mindful, remembering’."
+}

@@ -1,0 +1,90 @@
+{
+  "term": "specimen",
+  "partOfSpeech": "noun",
+  "ox5000": true,
+  "cefr": "c1",
+  "definitions": [
+    {
+      "senseNumber": 1,
+      "definition": "a small amount of something that shows what the rest of it is like",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "Astronauts have brought back specimens of rock from the moon."
+        },
+        {
+          "text": "Can you give me a specimen of your handwriting?"
+        }
+      ],
+      "synonyms": "sample"
+    },
+    {
+      "senseNumber": 2,
+      "definition": "a single example of something, especially an animal or a plant",
+      "labels": "(humorous)",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "The aquarium has some interesting specimens of unusual tropical fish."
+        },
+        {
+          "text": "Redwood trees can live for a long time; one specimen is 4 000 years old."
+        },
+        {
+          "text": "They were fine specimens of British youth!"
+        },
+        {
+          "text": "This is a fine specimen of a walnut tree."
+        },
+        {
+          "text": "specimen exam papers"
+        },
+        {
+          "text": "well-preserved specimens of Homo erectus"
+        }
+      ],
+      "topics": ["Biology"],
+      "collocations": {
+        "adjective": ["large", "small", "beautiful"],
+        "verb + specimen": ["find"],
+        "specimen + noun": ["plant", "tree"]
+      }
+    },
+    {
+      "senseNumber": 3,
+      "definition": "a small quantity of blood, urine, etc. that is taken from somebody and tested by a doctor",
+      "cefr": "c1",
+      "examples": [
+        {
+          "text": "to **provide/take a specimen**"
+        },
+        {
+          "text": "The motorist may be required to give a urine specimen."
+        },
+        {
+          "text": "a specimen of blood"
+        }
+      ],
+      "topics": ["Healthcare"],
+      "collocations": {
+        "adjective": ["blood", "urine", "etc."],
+        "verb + specimen": ["collect", "take", "give"]
+      }
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/ˈspesɪmən/",
+        "audio": "sp/specimen/specimen__gb_2.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/ˈspesɪmən/",
+        "audio": "sp/specimen/specimen__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "early 17th cent. (in the sense ‘pattern, model’): from Latin, from specere ‘to look’."
+}

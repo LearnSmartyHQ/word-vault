@@ -1,0 +1,93 @@
+{
+  "term": "commence",
+  "partOfSpeech": "verb",
+  "academic": true,
+  "ox5000": true,
+  "cefr": "c1",
+  "verbForms": {
+    "presentSimple": {
+      "iYouWeThey": "commence",
+      "heSheIt": "commences"
+    },
+    "pastSimple": "commenced",
+    "pastParticiple": "commenced",
+    "ingForm": "commencing"
+  },
+  "definitions": [
+    {
+      "senseNumber": null,
+      "definition": "to begin to happen; to begin something",
+      "sensetop": "commence with somethingcommence somethingcommence doing somethingcommence to do something",
+      "examples": [
+        {
+          "text": "The meeting is scheduled to commence at noon."
+        },
+        {
+          "text": "I will be on leave during the week commencing 15 February."
+        },
+        {
+          "text": "The day commenced with a welcome from the principal.",
+          "contextForm": "commence with something"
+        },
+        {
+          "text": "She commenced her medical career in 1996.",
+          "contextForm": "commence something"
+        },
+        {
+          "text": "The company **commenced operations** in April."
+        },
+        {
+          "text": "to commence bankruptcy proceedings against somebody"
+        },
+        {
+          "text": "We commence building next week.",
+          "contextForm": "commence doing something"
+        },
+        {
+          "text": "Operators commenced to build pipelines in 1862.",
+          "contextForm": "commence to do something"
+        }
+      ],
+      "topics": ["Working life"]
+    }
+  ],
+  "pronunciations": {
+    "uk": [
+      {
+        "pronunciation": "/kəˈmens/",
+        "audio": "co/commence/commence__gb_2.mp3"
+      },
+      {
+        "pronunciation": "/kəˈmensɪz/",
+        "audio": "co/commence/commences__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈmenst/",
+        "audio": "co/commence/commenced__gb_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈmensɪŋ/",
+        "audio": "co/commence/commencing__gb_1.mp3"
+      }
+    ],
+    "us": [
+      {
+        "pronunciation": "/kəˈmens/",
+        "audio": "co/commence/commence__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈmensɪz/",
+        "audio": "co/commence/commences__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈmenst/",
+        "audio": "co/commence/commenced__us_1.mp3"
+      },
+      {
+        "pronunciation": "/kəˈmensɪŋ/",
+        "audio": "co/commence/commencing__us_1.mp3"
+      }
+    ]
+  },
+  "wordOrigin": "Middle English: from Old French commencier, comencier, based on Latin com- (expressing intensive force) + initiare ‘begin’."
+}
