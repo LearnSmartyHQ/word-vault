@@ -16,6 +16,8 @@ export interface IOxford {
   idioms?: IIdiom[];
 }
 
+export type IOxfordPronunciationRegion = 'uk' | 'us';
+
 export interface IOxfordPronunciations {
   uk: IOxfordPronunciation[];
   us: IOxfordPronunciation[];

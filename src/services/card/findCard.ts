@@ -4,7 +4,9 @@ import { IOxford } from '../../types';
 import { baseCardPath } from '../const';
 
 export function findCard(id: string): IOxford | null {
-  const filePath = join(baseCardPath, `${id}.json`);
+  const firstTwoDigits = id.slice(0, 2);
+  const fileName = id + '.json';
+  const filePath = join(baseCardPath, firstTwoDigits, fileName);
 
   if (!existsSync(filePath)) {
     console.error(`Word with slug "${id}" does not exist.`);
