@@ -3,14 +3,14 @@ import { ICollection } from '../../types';
 import { baseCollectionPath } from '../const';
 import { findCollection } from './findCollection';
 
-export function getAllCollections(): ICollection[] | null {
+export function getAllCollections(): ICollection[] {
   let filesList: string[] = [];
   try{
     const folderFiles = readdirSync(baseCollectionPath)
     filesList = folderFiles.filter((file) => file.endsWith('.json'))
   } catch (error) {
     console.error(`Error reading folder ${baseCollectionPath}`, error);
-    return null;
+    return [];
   }
 
   const collections: ICollection[] = [];
