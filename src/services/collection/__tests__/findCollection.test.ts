@@ -1,4 +1,3 @@
-import '@jest/globals';
 import { findCollection } from '../findCollection.js';
 
 describe('findCollection', () => {
