@@ -1,5 +1,5 @@
 import '@jest/globals';
-import { findCollection } from '../findCollection';
+import { findCollection } from '../findCollection.js';
 
 describe('findCollection', () => {
   it('should return null if collection does not exist', () => {

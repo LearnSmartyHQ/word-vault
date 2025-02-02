@@ -1,5 +1,5 @@
-import { IOxford, IOxfordDefinition, IOxfordDefinitionExample } from "../../types";
-import { findCard } from "./findCard";
+import { IOxford, IOxfordDefinition, IOxfordDefinitionExample } from "../../types/index.js";
+import { findCard } from "./findCard.js";
 
 export function getCardExamples(id: string): IOxfordDefinitionExample[] | null {
     const wordData: IOxford | null = findCard(id);

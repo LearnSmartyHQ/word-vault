@@ -2,7 +2,7 @@
   "name": "word-vault",
   "version": "3.5.0",
   "description": "A lightweight JavaScript package for English word definitions and collections.",
-  "type": "commonjs",
+  "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "keywords": [

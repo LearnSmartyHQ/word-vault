@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from 'fs';
 import { join } from 'path';
-import { ICollection } from '../../types';
-import { baseCollectionPath } from '../const';
+import { ICollection } from '../../types/index.js';
+import { baseCollectionPath } from '../const.js';
 
 export function findCollection(id: string): ICollection | null {
   const filePath = join(baseCollectionPath, `${id}.json`);

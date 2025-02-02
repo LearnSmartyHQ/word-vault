@@ -1,5 +1,5 @@
-import { IOxfordPronunciation, IOxfordPronunciationRegion } from "../../types";
-import { getCardPronunciation } from "./getCardPronunciation";
+import { IOxfordPronunciation, IOxfordPronunciationRegion } from "../../types/index.js";
+import { getCardPronunciation } from "./getCardPronunciation.js";
 
 export interface IPronunciationAudioRequest {
     id: string;

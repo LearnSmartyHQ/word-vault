@@ -1,5 +1,5 @@
-import { ICollection } from "../../types";
-import { getAllCollections } from "./getAllCollections";
+import { ICollection } from "../../types/index.js";
+import { getAllCollections } from "./getAllCollections.js";
 
 /**
  * Search for a word across all collections.

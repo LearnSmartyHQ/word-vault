@@ -1,7 +1,7 @@
 import { readdirSync } from 'fs';
-import { ICollection } from '../../types';
-import { baseCollectionPath } from '../const';
-import { findCollection } from './findCollection';
+import { ICollection } from '../../types/index.js';
+import { baseCollectionPath } from '../const.js';
+import { findCollection } from './findCollection.js';
 
 export function getAllCollections(): ICollection[] {
   let filesList: string[] = [];

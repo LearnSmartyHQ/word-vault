@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from 'fs';
 import { join } from 'path';
-import { IOxford } from '../../types';
-import { baseCardPath } from '../const';
+import { IOxford } from '../../types/index.js';
+import { baseCardPath } from '../const.js';
 
 export function findCard(id: string): IOxford | null {
   const firstTwoDigits = id.slice(0, 2);

@@ -1,8 +1,8 @@
-export * from './getCardDefinitions';
-export * from './getCardExamples';
-export * from './getCardPronunciation';
-export * from './getCardPronunciationAudio';
-export * from './getCardPronunciations';
-export * from './getCardVerbForms';
-export * from './getCardWordOrigin';
+export * from './getCardDefinitions.js';
+export * from './getCardExamples.js';
+export * from './getCardPronunciation.js';
+export * from './getCardPronunciationAudio.js';
+export * from './getCardPronunciations.js';
+export * from './getCardVerbForms.js';
+export * from './getCardWordOrigin.js';
 

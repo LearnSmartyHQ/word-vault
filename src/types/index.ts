@@ -1,6 +1,6 @@
-export * from './dictionary/cambridge/i-cambridge';
-export * from './dictionary/i-idiom';
-export * from './dictionary/oxford/i-oxford';
-export * from './i-card';
-export * from './i-collection';
+export * from './dictionary/cambridge/i-cambridge.js';
+export * from './dictionary/i-idiom.js';
+export * from './dictionary/oxford/i-oxford.js';
+export * from './i-card.js';
+export * from './i-collection.js';
 

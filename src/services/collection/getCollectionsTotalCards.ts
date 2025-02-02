@@ -1,5 +1,5 @@
-import { getAllCollections } from "./getAllCollections";
-import { getPublishedCollections } from "./getCollectionsByStatus";
+import { getAllCollections } from "./getAllCollections.js";
+import { getPublishedCollections } from "./getCollectionsByStatus.js";
 
 export function getTotalCardsAcrossCollections(): number | null {
     const allCollections = getAllCollections();

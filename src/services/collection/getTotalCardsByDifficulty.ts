@@ -1,5 +1,5 @@
-import { ICollection, ICollectionCardDifficulties } from "../../types";
-import { getAllCollections } from "./getAllCollections";
+import { ICollection, ICollectionCardDifficulties } from "../../types/index.js";
+import { getAllCollections } from "./getAllCollections.js";
 
 export function getTotalCardsByDifficulty(): ICollectionCardDifficulties {
   const allCollections: ICollection[] | null = getAllCollections();

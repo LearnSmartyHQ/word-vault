@@ -1,5 +1,5 @@
-import { ICollection, ICollectionCategory } from "../../types";
-import { findCollection } from "./findCollection";
+import { ICollection, ICollectionCategory } from "../../types/index.js";
+import { findCollection } from "./findCollection.js";
 
 
 export function getCollectionCategories (id: string): ICollectionCategory[] | null {

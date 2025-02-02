@@ -1,4 +1,4 @@
-import { findCard } from '../findCard';
+import { findCard } from '../findCard.js';
 
 describe('findCard', () => {
   it('should find and return complete card data for "abandon"', () => {

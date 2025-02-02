@@ -1,6 +1,6 @@
-import { IIdiom } from "../i-idiom";
-import { LevelA2CTypes } from "../level-a2c-types";
-import { CambridgeCodeTypes } from "./i-cambridge-codes";
+import { IIdiom } from "../i-idiom.js";
+import { LevelA2CTypes } from "../level-a2c-types.js";
+import { CambridgeCodeTypes } from "./i-cambridge-codes.js";
 
 export interface ICambridge {
     pronunciations: {

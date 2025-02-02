@@ -1,3 +1,4 @@
-export * from './card';
-export * from './collection';
+export * from './card/index.js';
+export * from './collection/index.js';
+
 

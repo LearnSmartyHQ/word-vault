@@ -1,5 +1,5 @@
-import { ICollection } from "../../types";
-import { findCollection } from "./findCollection";
+import { ICollection } from "../../types/index.js";
+import { findCollection } from "./findCollection.js";
 
 export function getCollectionCards(collectionSlug: string): string[] | null {
   const collection: ICollection | null = findCollection(collectionSlug);
