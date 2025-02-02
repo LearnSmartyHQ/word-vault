@@ -11,7 +11,7 @@ export function findCard(id: string): IOxford | null {
   console.log('filePath', filePath);
 
   if (!existsSync(filePath)) {
-    console.debug(`Word with slug "${id}" does not exist.`);
+    console.debug(`Word with slug "${id}" does not exist. ${filePath}`);
     return null;
   }
 

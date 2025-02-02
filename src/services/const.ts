@@ -1,8 +1,6 @@
-import { dirname, join } from "path";
-import { fileURLToPath } from "url";
+import { join } from "path";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+const currentDir = process.cwd();
 
-export const baseCollectionPath = join(__dirname, '../../data/collections');
-export const baseCardPath = join(__dirname, '../../data/cards');
+export const baseCollectionPath = join(currentDir, './data/collections');
+export const baseCardPath = join(currentDir, './data/cards');

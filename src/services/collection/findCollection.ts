@@ -7,7 +7,7 @@ export function findCollection(id: string): ICollection | null {
   const filePath = join(baseCollectionPath, `${id}.json`);
 
   if (!existsSync(filePath)) {
-    console.debug(`Collection with slug "${id}" does not exist.`);
+    console.debug(`Collection with slug "${id}" does not exist. ${filePath}`);
     return null;
   }
 
