@@ -1,10 +1,15 @@
 {
   "name": "word-vault",
-  "version": "4.1.0",
+  "version": "4.2.0",
   "description": "A lightweight JavaScript package for English word definitions and collections.",
   "type": "module",
-  "main": "dist/index.js",
+  "main": "dist/index.cjs",
   "types": "dist/index.d.ts",
+  "module": "dist/index.mjs",
+  "exports": {
+    "import": "./dist/index.mjs",
+    "require": "./dist/index.cjs"
+  },
   "keywords": [
     "dictionary",
     "words",
