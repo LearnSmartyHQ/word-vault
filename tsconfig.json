@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
-    "module": "NodeNext",
+    "target": "ES2022",
+    "module": "CommonJS",
+    "moduleResolution": "node",
     "outDir": "./dist",
     "rootDir": "./src",
     "declaration": true,
@@ -13,7 +14,9 @@
       "node",
       "jest"
     ],
-    // "baseUrl": ".",
+    "allowImportingTsExtensions": true,
+    "noEmit": true,
+    "moduleDetection": "force"
   },
   "include": [
     "src"
