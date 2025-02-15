@@ -1,9 +1,15 @@
-
-import { dirname } from 'path';
+import { dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+// Check if we are in an ESM environment (import.meta is available)
+let __dirname;
+try {
+  __dirname = dirname(fileURLToPath(import.meta.url));
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+} catch (e: unknown) {
+  // Fallback for Metro (React Native) which does not support import.meta
+  __dirname = __dirname || resolve();
+}
 
-export const baseCollectionPath =  `${__dirname}/../../data/collections`;
-export const baseCardPath =  `${__dirname}/../../data/cards`;
+export const baseCollectionPath = `${__dirname}/../../data/collections`;
+export const baseCardPath = `${__dirname}/../../data/cards`;
