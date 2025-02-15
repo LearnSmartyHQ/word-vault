@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "module": "node16",
+    "module": "CommonJS",
     "target": "ES2022",
-    "moduleResolution": "node16",
+    "moduleResolution": "node",
     "outDir": "./dist",
     "rootDir": "./src",
     "declaration": true,
@@ -10,6 +10,8 @@
     "esModuleInterop": true,
     "strict": true,
     "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "allowJs": true,
     "allowSyntheticDefaultImports": true,
     "types": [
       "node",
