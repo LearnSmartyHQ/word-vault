@@ -1,6 +1,6 @@
 {
   "name": "word-vault",
-  "version": "5.6.0",
+  "version": "5.7.0",
   "description": "A lightweight JavaScript package for English word definitions and collections.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -43,15 +43,15 @@
   ],
   "devDependencies": {
     "@babel/preset-typescript": "^7.26.0",
-    "@eslint/js": "^9.19.0",
-    "@types/node": "^22.13.0",
-    "eslint": "^9.19.0",
+    "@eslint/js": "^9.20.0",
+    "@types/node": "^22.13.4",
+    "eslint": "^9.20.1",
     "eslint-config-prettier": "^10.0.1",
     "eslint-plugin-prettier": "^5.2.3",
-    "globals": "^15.14.0",
-    "prettier": "^3.4.2",
+    "globals": "^15.15.0",
+    "prettier": "^3.5.1",
     "typescript": "^5.7.3",
-    "typescript-eslint": "^8.22.0",
-    "vitest": "^3.0.4"
+    "typescript-eslint": "^8.24.0",
+    "vitest": "^3.0.5"
   }
 }
