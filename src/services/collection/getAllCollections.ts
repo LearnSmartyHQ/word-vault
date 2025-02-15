@@ -1,27 +1,6 @@
-import { readdirSync } from 'fs';
+import { wordVaultCollections } from '../../data/collections/index.js';
 import { ICollection } from '../../types/index.js';
-import { baseCollectionPath } from '../const.js';
-import { findCollection } from './findCollection.js';
 
 export function getAllCollections(): ICollection[] {
-  let filesList: string[] = [];
-  try{
-    const folderFiles = readdirSync(baseCollectionPath)
-    filesList = folderFiles.filter((file) => file.endsWith('.json'))
-  } catch (error) {
-    console.error(`Error reading folder ${baseCollectionPath}`, error);
-    return [];
-  }
-
-  const collections: ICollection[] = [];
-
-  filesList.forEach((file) => {
-    const slug = file.replace('.json', '');
-    const collection = findCollection(slug);
-    if (collection) {
-      collections.push(collection);
-    }
-  });
-
-  return collections;
+  return wordVaultCollections;
 }
