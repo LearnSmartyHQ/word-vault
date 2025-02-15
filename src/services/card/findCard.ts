@@ -1,26 +1,19 @@
-import { existsSync, readFileSync } from 'fs';
-import { join } from 'path';
 import { IOxford } from '../../types/index.js';
 
-export function findCard(id: string): IOxford | null {
-  const baseCardPath = '../../data/cards';
+export async function findCard(id: string): Promise<IOxford | null> {
+  const baseCardPath = '../../../data/cards';
 
   const firstTwoDigits = id.slice(0, 2);
-  const fileName = id + '.json';
-  const filePath = join(baseCardPath, firstTwoDigits, fileName);
-
-  console.log('filePath', filePath);
-
-  if (!existsSync(filePath)) {
-    console.debug(`Word with slug "${id}" does not exist. ${filePath}`);
-    return null;
-  }
+  const fileName = `${id}.json`;
+  const filePath = `${baseCardPath}/${firstTwoDigits}/${fileName}`
 
   try {
-    const data = readFileSync(filePath, 'utf-8');
-    return JSON.parse(data) as IOxford;
+    // Use dynamic import instead of readFileSync
+    const data = await import(filePath);
+    return data.default as IOxford;
   } catch (error) {
-    console.debug(`Error reading file for ID: ${id}`, error);
+    console.debug(`❌ Word with slug "${id}" does not exist!`);
+    console.debug(error);
     return null;
   }
 }

@@ -7,13 +7,13 @@ export interface IPronunciationAudioRequest {
     pronunciation: string;
 }
 
-export function getCardPronunciationAudio({
+export async function getCardPronunciationAudio({
     id,
     region,
     pronunciation
 }: IPronunciationAudioRequest
-): string | null {
-    const pronunciationList: IOxfordPronunciation[] | null = getCardPronunciation({ id, region });
+): Promise<string | null> {
+    const pronunciationList: IOxfordPronunciation[] | null = await getCardPronunciation({ id, region });
 
     if (!pronunciationList) {
         return null;

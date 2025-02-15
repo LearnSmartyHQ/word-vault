@@ -1,8 +1,8 @@
 import { IOxford, IOxfordPronunciations } from "../../types/index.js";
 import { findCard } from "./findCard.js";
 
-export function getCardPronunciations(id: string): IOxfordPronunciations | null {
-    const wordData: IOxford | null = findCard(id);
+export async function getCardPronunciations(id: string): Promise<IOxfordPronunciations | null> {
+    const wordData: IOxford | null = await findCard(id);
 
     return wordData?.pronunciations || null;
 }

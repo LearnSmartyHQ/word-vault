@@ -6,12 +6,12 @@ export interface ICardPronunciationRequest {
     region: IOxfordPronunciationRegion;
 }
 
-export function getCardPronunciation({
+export async function getCardPronunciation({
     id,
     region
 }: ICardPronunciationRequest
-): IOxfordPronunciation[] | null {
-    const wordData: IOxford | null = findCard(id);
+): Promise<IOxfordPronunciation[] | null> {
+    const wordData: IOxford | null = await findCard(id);
 
     return wordData?.pronunciations?.[region] || null;
 }

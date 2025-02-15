@@ -1,8 +1,8 @@
 import { findCard } from '../findCard.js';
 
 describe('findCard', () => {
-  it('should find and return complete card data for "abandon"', () => {
-    const result = findCard('abandon');
+  it('should find and return complete card data for "abandon"', async () => {
+    const result = await findCard('abandon');
 
     expect(result).not.toBeNull();
     expect(result).toMatchObject({
@@ -95,13 +95,13 @@ describe('findCard', () => {
     }
   });
 
-  it('should return null for non-existing word', () => {
-    const result = findCard('nonexistentword123');
+  it('should return null for non-existing word', async () => {
+    const result = await findCard('nonexistentword123');
     expect(result).toBeNull();
   });
 
-  it('should return null and handle error for malformed json file', () => {
-    const result = findCard('malformed');
+  it('should return null and handle error for malformed json file', async () => {
+    const result = await findCard('malformed');
     expect(result).toBeNull();
   });
 });

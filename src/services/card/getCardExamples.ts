@@ -1,8 +1,8 @@
 import { IOxford, IOxfordDefinition, IOxfordDefinitionExample } from "../../types/index.js";
 import { findCard } from "./findCard.js";
 
-export function getCardExamples(id: string): IOxfordDefinitionExample[] | null {
-    const wordData: IOxford | null = findCard(id);
+export async function getCardExamples(id: string): Promise<IOxfordDefinitionExample[] | null> {
+    const wordData: IOxford | null = await findCard(id);
     if (!wordData?.definitions) {
         return null;
     }
