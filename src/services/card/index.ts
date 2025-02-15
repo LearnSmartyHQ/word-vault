@@ -1,3 +1,4 @@
+export * from './findCard.js';
 export * from './getCardDefinitions.js';
 export * from './getCardExamples.js';
 export * from './getCardPronunciation.js';
