@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "module": "ES2022",
+    "module": "esnext",
     "target": "ES2022",
     "moduleResolution": "bundler",
     "outDir": "./dist",
@@ -13,7 +13,6 @@
     "resolveJsonModule": true,
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
-    "verbatimModuleSyntax": true,
     "types": [
       "node",
       "vitest/globals"
