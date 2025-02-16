@@ -1,4 +1,4 @@
-import { IOxford } from "../../../types/index.js";
+import type { IOxford } from "../../../types/index.js";
 
 export const dir_bo: Record<string, () => Promise<IOxford>> = {
   "board": () => import("./board.json") as unknown as Promise<IOxford>,

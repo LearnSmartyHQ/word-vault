@@ -19,7 +19,7 @@ function generateSubfolderIndexes() {
 
     const exportName = 'dir_' + subfolder.replace(/\W/g, '_');
 
-    let imports = 'import { IOxford } from "../../../types/index.js";\n';
+    let imports = 'import type { IOxford } from "../../../types/index.js";\n';
     let mappings = `export const ${exportName}: Record<string, () => Promise<IOxford>> = {\n`;
 
     for (const file of files) {
@@ -38,7 +38,7 @@ function generateSubfolderIndexes() {
 
 // ** Step 2: Generate the root `index.ts` in `cards/` **
 function generateRootIndex() {
-  let imports = 'import { IOxford } from "../../types/index.js";\n\n';
+  let imports = 'import type { IOxford } from "../../types/index.js";\n\n';
   let mappings =
     'export const cards: Record<string, () => Promise<IOxford>> = {\n';
 

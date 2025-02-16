@@ -1,4 +1,4 @@
-import { IOxford, IOxfordPronunciations } from "../../types/index.js";
+import type { IOxford, IOxfordPronunciations } from "../../types/index.js";
 import { findCard } from "./findCard.js";
 
 export async function getCardPronunciations(id: string): Promise<IOxfordPronunciations | null> {

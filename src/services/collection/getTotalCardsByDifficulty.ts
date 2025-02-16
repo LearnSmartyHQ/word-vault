@@ -1,4 +1,4 @@
-import { ICollection, ICollectionCardDifficulties } from "../../types/index.js";
+import type { ICollection, ICollectionCardDifficulties } from "../../types/index.js";
 import { getAllCollections } from "./getAllCollections.js";
 
 export function getTotalCardsByDifficulty(): ICollectionCardDifficulties {

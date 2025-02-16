@@ -1,4 +1,4 @@
-import { CollectionStatus, ICollection } from '../../types/index.js';
+import type { CollectionStatus, ICollection } from '../../types/index.js';
 import { getAllCollections } from './getAllCollections.js';
 
 export function getCollectionsByStatus(status: CollectionStatus): ICollection[] | null {

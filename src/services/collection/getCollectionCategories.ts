@@ -1,4 +1,4 @@
-import { ICollection, ICollectionCategory } from "../../types/index.js";
+import type { ICollection, ICollectionCategory } from "../../types/index.js";
 import { findCollection } from "./findCollection.js";
 
 

@@ -1,4 +1,4 @@
-import { IOxford } from "../../types/index.js";
+import type { IOxford } from "../../types/index.js";
 import { findCard } from "./findCard.js";
 
 export async function getCardWordOrigin(id: string): Promise<string | null> {

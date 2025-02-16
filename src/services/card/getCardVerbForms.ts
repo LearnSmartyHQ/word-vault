@@ -1,4 +1,4 @@
-import { IOxford, IOxfordVerbForms } from "../../types/index.js";
+import type { IOxford, IOxfordVerbForms } from "../../types/index.js";
 import { findCard } from "./findCard.js";
 
 export async function getCardVerbForms(id: string): Promise<IOxfordVerbForms | null> {

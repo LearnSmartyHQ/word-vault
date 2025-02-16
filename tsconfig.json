@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "module": "NodeNext",
+    "module": "ES2022",
     "target": "ES2022",
-    "moduleResolution": "NodeNext",
+    "moduleResolution": "bundler",
     "outDir": "./dist",
     "rootDir": "./src",
     "declaration": true,
@@ -13,10 +13,11 @@
     "resolveJsonModule": true,
     "allowJs": true,
     "allowSyntheticDefaultImports": true,
+    "verbatimModuleSyntax": true,
     "types": [
       "node",
       "vitest/globals"
-    ]
+    ],
   },
   "include": [
     "src"

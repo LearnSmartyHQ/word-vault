@@ -1,4 +1,4 @@
-import { IOxfordPronunciation, IOxfordPronunciationRegion } from "../../types/index.js";
+import type { IOxfordPronunciation, IOxfordPronunciationRegion } from "../../types/index.js";
 import { getCardPronunciation } from "./getCardPronunciation.js";
 
 export interface IPronunciationAudioRequest {

@@ -1,4 +1,4 @@
-import { IOxford, IOxfordDefinition, IOxfordDefinitionExample } from "../../types/index.js";
+import type { IOxford, IOxfordDefinition, IOxfordDefinitionExample } from "../../types/index.js";
 import { findCard } from "./findCard.js";
 
 export async function getCardExamples(id: string): Promise<IOxfordDefinitionExample[] | null> {

@@ -1,4 +1,4 @@
-import { IOxford } from "../../types/index.js";
+import type { IOxford } from "../../types/index.js";
 
 import { dir_a } from "./a/index.js";
 import { dir_ab } from "./ab/index.js";

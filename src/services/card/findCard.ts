@@ -1,5 +1,5 @@
 import { cardImportMap } from '../../data/cards/importMap.js';
-import { IOxford } from '../../types/index.js';
+import type { IOxford } from '../../types/index.js';
 
 export async function findCard(id: string): Promise<IOxford | null> {
 

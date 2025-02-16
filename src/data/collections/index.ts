@@ -1,4 +1,4 @@
-import { ICollection, IWordVaultCollections } from "../../types/i-collection.js";
+import type { ICollection, IWordVaultCollections } from "../../types/i-collection.js";
 
 import collection450JSON from "./450.json" with { type: "json" };
 import collection504JSON from "./504.json" with { type: "json" };

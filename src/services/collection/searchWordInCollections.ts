@@ -1,4 +1,4 @@
-import { ICollection } from "../../types/index.js";
+import type { ICollection } from "../../types/index.js";
 import { getAllCollections } from "./getAllCollections.js";
 
 /**

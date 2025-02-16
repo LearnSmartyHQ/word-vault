@@ -1,4 +1,4 @@
-import { ICollection } from "../../types/index.js";
+import type { ICollection } from "../../types/index.js";
 import { findCollection } from "./findCollection.js";
 
 export function getCollectionCards(collectionSlug: string): string[] | null {

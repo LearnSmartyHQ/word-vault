@@ -1,5 +1,5 @@
 import { CollectionMap } from '../../data/collections/index.js';
-import { ICollection } from '../../types/index.js';
+import type { ICollection } from '../../types/index.js';
 
 export function findCollection(slug: string): ICollection | null {
   const collection = CollectionMap[slug];
