@@ -1,67 +1,35 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import image_json from "./image.json" with { type: "json" };
-import imagery_json from "./imagery.json" with { type: "json" };
-import imaginary_json from "./imaginary.json" with { type: "json" };
-import imagination_json from "./imagination.json" with { type: "json" };
-import imagine_json from "./imagine.json" with { type: "json" };
-import immediate_json from "./immediate.json" with { type: "json" };
-import immediately_json from "./immediately.json" with { type: "json" };
-import immense_json from "./immense.json" with { type: "json" };
-import immigrant_json from "./immigrant.json" with { type: "json" };
-import immigration_json from "./immigration.json" with { type: "json" };
-import imminent_json from "./imminent.json" with { type: "json" };
-import immune_json from "./immune.json" with { type: "json" };
-import impact_json from "./impact.json" with { type: "json" };
-import impatient_json from "./impatient.json" with { type: "json" };
-import implement_json from "./implement.json" with { type: "json" };
-import implementation_json from "./implementation.json" with { type: "json" };
-import implication_json from "./implication.json" with { type: "json" };
-import imply_json from "./imply.json" with { type: "json" };
-import import_json from "./import.json" with { type: "json" };
-import importance_json from "./importance.json" with { type: "json" };
-import important_json from "./important.json" with { type: "json" };
-import impose_json from "./impose.json" with { type: "json" };
-import impossible_json from "./impossible.json" with { type: "json" };
-import impress_json from "./impress.json" with { type: "json" };
-import impressed_json from "./impressed.json" with { type: "json" };
-import impression_json from "./impression.json" with { type: "json" };
-import impressive_json from "./impressive.json" with { type: "json" };
-import imprison_json from "./imprison.json" with { type: "json" };
-import imprisonment_json from "./imprisonment.json" with { type: "json" };
-import improve_json from "./improve.json" with { type: "json" };
-import improvement_json from "./improvement.json" with { type: "json" };
-
-export const dir_im: Record<string, ICard> = {
-  "image": image_json as unknown as ICard,
-  "imagery": imagery_json as unknown as ICard,
-  "imaginary": imaginary_json as unknown as ICard,
-  "imagination": imagination_json as unknown as ICard,
-  "imagine": imagine_json as unknown as ICard,
-  "immediate": immediate_json as unknown as ICard,
-  "immediately": immediately_json as unknown as ICard,
-  "immense": immense_json as unknown as ICard,
-  "immigrant": immigrant_json as unknown as ICard,
-  "immigration": immigration_json as unknown as ICard,
-  "imminent": imminent_json as unknown as ICard,
-  "immune": immune_json as unknown as ICard,
-  "impact": impact_json as unknown as ICard,
-  "impatient": impatient_json as unknown as ICard,
-  "implement": implement_json as unknown as ICard,
-  "implementation": implementation_json as unknown as ICard,
-  "implication": implication_json as unknown as ICard,
-  "imply": imply_json as unknown as ICard,
-  "import": import_json as unknown as ICard,
-  "importance": importance_json as unknown as ICard,
-  "important": important_json as unknown as ICard,
-  "impose": impose_json as unknown as ICard,
-  "impossible": impossible_json as unknown as ICard,
-  "impress": impress_json as unknown as ICard,
-  "impressed": impressed_json as unknown as ICard,
-  "impression": impression_json as unknown as ICard,
-  "impressive": impressive_json as unknown as ICard,
-  "imprison": imprison_json as unknown as ICard,
-  "imprisonment": imprisonment_json as unknown as ICard,
-  "improve": improve_json as unknown as ICard,
-  "improvement": improvement_json as unknown as ICard,
+export const dir_im: Record<string, () => Promise<IOxford>> = {
+  "image": () => import("./image.json") as unknown as Promise<IOxford>,
+  "imagery": () => import("./imagery.json") as unknown as Promise<IOxford>,
+  "imaginary": () => import("./imaginary.json") as unknown as Promise<IOxford>,
+  "imagination": () => import("./imagination.json") as unknown as Promise<IOxford>,
+  "imagine": () => import("./imagine.json") as unknown as Promise<IOxford>,
+  "immediate": () => import("./immediate.json") as unknown as Promise<IOxford>,
+  "immediately": () => import("./immediately.json") as unknown as Promise<IOxford>,
+  "immense": () => import("./immense.json") as unknown as Promise<IOxford>,
+  "immigrant": () => import("./immigrant.json") as unknown as Promise<IOxford>,
+  "immigration": () => import("./immigration.json") as unknown as Promise<IOxford>,
+  "imminent": () => import("./imminent.json") as unknown as Promise<IOxford>,
+  "immune": () => import("./immune.json") as unknown as Promise<IOxford>,
+  "impact": () => import("./impact.json") as unknown as Promise<IOxford>,
+  "impatient": () => import("./impatient.json") as unknown as Promise<IOxford>,
+  "implement": () => import("./implement.json") as unknown as Promise<IOxford>,
+  "implementation": () => import("./implementation.json") as unknown as Promise<IOxford>,
+  "implication": () => import("./implication.json") as unknown as Promise<IOxford>,
+  "imply": () => import("./imply.json") as unknown as Promise<IOxford>,
+  "import": () => import("./import.json") as unknown as Promise<IOxford>,
+  "importance": () => import("./importance.json") as unknown as Promise<IOxford>,
+  "important": () => import("./important.json") as unknown as Promise<IOxford>,
+  "impose": () => import("./impose.json") as unknown as Promise<IOxford>,
+  "impossible": () => import("./impossible.json") as unknown as Promise<IOxford>,
+  "impress": () => import("./impress.json") as unknown as Promise<IOxford>,
+  "impressed": () => import("./impressed.json") as unknown as Promise<IOxford>,
+  "impression": () => import("./impression.json") as unknown as Promise<IOxford>,
+  "impressive": () => import("./impressive.json") as unknown as Promise<IOxford>,
+  "imprison": () => import("./imprison.json") as unknown as Promise<IOxford>,
+  "imprisonment": () => import("./imprisonment.json") as unknown as Promise<IOxford>,
+  "improve": () => import("./improve.json") as unknown as Promise<IOxford>,
+  "improvement": () => import("./improvement.json") as unknown as Promise<IOxford>,
 };

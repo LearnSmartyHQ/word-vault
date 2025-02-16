@@ -1,7 +1,5 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import tv_json from "./tv.json" with { type: "json" };
-
-export const dir_tv: Record<string, ICard> = {
-  "tv": tv_json as unknown as ICard,
+export const dir_tv: Record<string, () => Promise<IOxford>> = {
+  "tv": () => import("./tv.json") as unknown as Promise<IOxford>,
 };

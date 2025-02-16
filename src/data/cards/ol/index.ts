@@ -1,9 +1,6 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import old_fashioned_json from "./old-fashioned.json" with { type: "json" };
-import old_json from "./old.json" with { type: "json" };
-
-export const dir_ol: Record<string, ICard> = {
-  "old-fashioned": old_fashioned_json as unknown as ICard,
-  "old": old_json as unknown as ICard,
+export const dir_ol: Record<string, () => Promise<IOxford>> = {
+  "old-fashioned": () => import("./old-fashioned.json") as unknown as Promise<IOxford>,
+  "old": () => import("./old.json") as unknown as Promise<IOxford>,
 };

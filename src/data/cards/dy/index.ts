@@ -1,7 +1,5 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import dynamic_json from "./dynamic.json" with { type: "json" };
-
-export const dir_dy: Record<string, ICard> = {
-  "dynamic": dynamic_json as unknown as ICard,
+export const dir_dy: Record<string, () => Promise<IOxford>> = {
+  "dynamic": () => import("./dynamic.json") as unknown as Promise<IOxford>,
 };

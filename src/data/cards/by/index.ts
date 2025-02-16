@@ -1,9 +1,6 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import by_json from "./by.json" with { type: "json" };
-import bye_json from "./bye.json" with { type: "json" };
-
-export const dir_by: Record<string, ICard> = {
-  "by": by_json as unknown as ICard,
-  "bye": bye_json as unknown as ICard,
+export const dir_by: Record<string, () => Promise<IOxford>> = {
+  "by": () => import("./by.json") as unknown as Promise<IOxford>,
+  "bye": () => import("./bye.json") as unknown as Promise<IOxford>,
 };

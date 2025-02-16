@@ -1,19 +1,11 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import equal_json from "./equal.json" with { type: "json" };
-import equality_json from "./equality.json" with { type: "json" };
-import equally_json from "./equally.json" with { type: "json" };
-import equation_json from "./equation.json" with { type: "json" };
-import equip_json from "./equip.json" with { type: "json" };
-import equipment_json from "./equipment.json" with { type: "json" };
-import equivalent_json from "./equivalent.json" with { type: "json" };
-
-export const dir_eq: Record<string, ICard> = {
-  "equal": equal_json as unknown as ICard,
-  "equality": equality_json as unknown as ICard,
-  "equally": equally_json as unknown as ICard,
-  "equation": equation_json as unknown as ICard,
-  "equip": equip_json as unknown as ICard,
-  "equipment": equipment_json as unknown as ICard,
-  "equivalent": equivalent_json as unknown as ICard,
+export const dir_eq: Record<string, () => Promise<IOxford>> = {
+  "equal": () => import("./equal.json") as unknown as Promise<IOxford>,
+  "equality": () => import("./equality.json") as unknown as Promise<IOxford>,
+  "equally": () => import("./equally.json") as unknown as Promise<IOxford>,
+  "equation": () => import("./equation.json") as unknown as Promise<IOxford>,
+  "equip": () => import("./equip.json") as unknown as Promise<IOxford>,
+  "equipment": () => import("./equipment.json") as unknown as Promise<IOxford>,
+  "equivalent": () => import("./equivalent.json") as unknown as Promise<IOxford>,
 };

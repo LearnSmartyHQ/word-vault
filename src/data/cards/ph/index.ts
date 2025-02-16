@@ -1,39 +1,21 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import pharmacy_json from "./pharmacy.json" with { type: "json" };
-import phase_json from "./phase.json" with { type: "json" };
-import phenomenon_json from "./phenomenon.json" with { type: "json" };
-import philosopher_json from "./philosopher.json" with { type: "json" };
-import philosophical_json from "./philosophical.json" with { type: "json" };
-import philosophy_json from "./philosophy.json" with { type: "json" };
-import phone_json from "./phone.json" with { type: "json" };
-import photo_json from "./photo.json" with { type: "json" };
-import photocopy_json from "./photocopy.json" with { type: "json" };
-import photograph_json from "./photograph.json" with { type: "json" };
-import photographer_json from "./photographer.json" with { type: "json" };
-import photography_json from "./photography.json" with { type: "json" };
-import phrase_json from "./phrase.json" with { type: "json" };
-import physical_json from "./physical.json" with { type: "json" };
-import physically_json from "./physically.json" with { type: "json" };
-import physician_json from "./physician.json" with { type: "json" };
-import physics_json from "./physics.json" with { type: "json" };
-
-export const dir_ph: Record<string, ICard> = {
-  "pharmacy": pharmacy_json as unknown as ICard,
-  "phase": phase_json as unknown as ICard,
-  "phenomenon": phenomenon_json as unknown as ICard,
-  "philosopher": philosopher_json as unknown as ICard,
-  "philosophical": philosophical_json as unknown as ICard,
-  "philosophy": philosophy_json as unknown as ICard,
-  "phone": phone_json as unknown as ICard,
-  "photo": photo_json as unknown as ICard,
-  "photocopy": photocopy_json as unknown as ICard,
-  "photograph": photograph_json as unknown as ICard,
-  "photographer": photographer_json as unknown as ICard,
-  "photography": photography_json as unknown as ICard,
-  "phrase": phrase_json as unknown as ICard,
-  "physical": physical_json as unknown as ICard,
-  "physically": physically_json as unknown as ICard,
-  "physician": physician_json as unknown as ICard,
-  "physics": physics_json as unknown as ICard,
+export const dir_ph: Record<string, () => Promise<IOxford>> = {
+  "pharmacy": () => import("./pharmacy.json") as unknown as Promise<IOxford>,
+  "phase": () => import("./phase.json") as unknown as Promise<IOxford>,
+  "phenomenon": () => import("./phenomenon.json") as unknown as Promise<IOxford>,
+  "philosopher": () => import("./philosopher.json") as unknown as Promise<IOxford>,
+  "philosophical": () => import("./philosophical.json") as unknown as Promise<IOxford>,
+  "philosophy": () => import("./philosophy.json") as unknown as Promise<IOxford>,
+  "phone": () => import("./phone.json") as unknown as Promise<IOxford>,
+  "photo": () => import("./photo.json") as unknown as Promise<IOxford>,
+  "photocopy": () => import("./photocopy.json") as unknown as Promise<IOxford>,
+  "photograph": () => import("./photograph.json") as unknown as Promise<IOxford>,
+  "photographer": () => import("./photographer.json") as unknown as Promise<IOxford>,
+  "photography": () => import("./photography.json") as unknown as Promise<IOxford>,
+  "phrase": () => import("./phrase.json") as unknown as Promise<IOxford>,
+  "physical": () => import("./physical.json") as unknown as Promise<IOxford>,
+  "physically": () => import("./physically.json") as unknown as Promise<IOxford>,
+  "physician": () => import("./physician.json") as unknown as Promise<IOxford>,
+  "physics": () => import("./physics.json") as unknown as Promise<IOxford>,
 };

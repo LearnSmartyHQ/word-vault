@@ -19,14 +19,14 @@ function generateSubfolderIndexes() {
 
     const exportName = 'dir_' + subfolder.replace(/\W/g, '_');
 
-    let imports = 'import { ICard } from "../../../types/i-card.js";\n\n';
-    let mappings = `export const ${exportName}: Record<string, ICard> = {\n`;
+    let imports = 'import { IOxford } from "../../../types/index.js";\n';
+    let mappings = `export const ${exportName}: Record<string, () => Promise<IOxford>> = {\n`;
 
     for (const file of files) {
       const key = file.replace('.json', '');
-      const importName = key.replace(/\W/g, '_') + '_json'; // Convert to a valid JS variable name
-      imports += `import ${importName} from "./${file}" with { type: "json" };\n`;
-      mappings += `  "${key}": ${importName} as unknown as ICard,\n`;
+      // const importName = key.replace(/\W/g, '_') + '_json'; // Convert to a valid JS variable name
+      // imports += `import ${importName} from "./${file}" with { type: "json" };\n`;
+      mappings += `  "${key}": () => import("./${file}") as unknown as Promise<IOxford>,\n`;
     }
 
     mappings += '};\n';
@@ -38,13 +38,14 @@ function generateSubfolderIndexes() {
 
 // ** Step 2: Generate the root `index.ts` in `cards/` **
 function generateRootIndex() {
-  let imports = '';
-  let mappings = 'export const cards = {\n';
+  let imports = 'import { IOxford } from "../../types/index.js";\n\n';
+  let mappings =
+    'export const cards: Record<string, () => Promise<IOxford>> = {\n';
 
   for (const subfolder of subfolders) {
     const exportName = 'dir_' + subfolder.replace(/\W/g, '_');
     imports += `import { ${exportName} } from "./${subfolder}/index.js";\n`;
-    mappings += `  "${subfolder}": ${exportName},\n`;
+    mappings += `  ...${exportName},\n`;
   }
 
   mappings += '};\n';

@@ -1,17 +1,10 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import giant_json from "./giant.json" with { type: "json" };
-import gift_json from "./gift.json" with { type: "json" };
-import gig_json from "./gig.json" with { type: "json" };
-import girl_json from "./girl.json" with { type: "json" };
-import girlfriend_json from "./girlfriend.json" with { type: "json" };
-import give_json from "./give.json" with { type: "json" };
-
-export const dir_gi: Record<string, ICard> = {
-  "giant": giant_json as unknown as ICard,
-  "gift": gift_json as unknown as ICard,
-  "gig": gig_json as unknown as ICard,
-  "girl": girl_json as unknown as ICard,
-  "girlfriend": girlfriend_json as unknown as ICard,
-  "give": give_json as unknown as ICard,
+export const dir_gi: Record<string, () => Promise<IOxford>> = {
+  "giant": () => import("./giant.json") as unknown as Promise<IOxford>,
+  "gift": () => import("./gift.json") as unknown as Promise<IOxford>,
+  "gig": () => import("./gig.json") as unknown as Promise<IOxford>,
+  "girl": () => import("./girl.json") as unknown as Promise<IOxford>,
+  "girlfriend": () => import("./girlfriend.json") as unknown as Promise<IOxford>,
+  "give": () => import("./give.json") as unknown as Promise<IOxford>,
 };

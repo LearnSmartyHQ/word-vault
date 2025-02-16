@@ -1,7 +1,5 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import tsunami_json from "./tsunami.json" with { type: "json" };
-
-export const dir_ts: Record<string, ICard> = {
-  "tsunami": tsunami_json as unknown as ICard,
+export const dir_ts: Record<string, () => Promise<IOxford>> = {
+  "tsunami": () => import("./tsunami.json") as unknown as Promise<IOxford>,
 };

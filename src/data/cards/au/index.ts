@@ -1,37 +1,20 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import auction_json from "./auction.json" with { type: "json" };
-import audible_json from "./audible.json" with { type: "json" };
-import audience_json from "./audience.json" with { type: "json" };
-import audio_json from "./audio.json" with { type: "json" };
-import audit_json from "./audit.json" with { type: "json" };
-import august_json from "./august.json" with { type: "json" };
-import aunt_json from "./aunt.json" with { type: "json" };
-import authentic_json from "./authentic.json" with { type: "json" };
-import author_json from "./author.json" with { type: "json" };
-import authority_json from "./authority.json" with { type: "json" };
-import authorize_json from "./authorize.json" with { type: "json" };
-import auto_json from "./auto.json" with { type: "json" };
-import automatic_json from "./automatic.json" with { type: "json" };
-import automatically_json from "./automatically.json" with { type: "json" };
-import autonomy_json from "./autonomy.json" with { type: "json" };
-import autumn_json from "./autumn.json" with { type: "json" };
-
-export const dir_au: Record<string, ICard> = {
-  "auction": auction_json as unknown as ICard,
-  "audible": audible_json as unknown as ICard,
-  "audience": audience_json as unknown as ICard,
-  "audio": audio_json as unknown as ICard,
-  "audit": audit_json as unknown as ICard,
-  "august": august_json as unknown as ICard,
-  "aunt": aunt_json as unknown as ICard,
-  "authentic": authentic_json as unknown as ICard,
-  "author": author_json as unknown as ICard,
-  "authority": authority_json as unknown as ICard,
-  "authorize": authorize_json as unknown as ICard,
-  "auto": auto_json as unknown as ICard,
-  "automatic": automatic_json as unknown as ICard,
-  "automatically": automatically_json as unknown as ICard,
-  "autonomy": autonomy_json as unknown as ICard,
-  "autumn": autumn_json as unknown as ICard,
+export const dir_au: Record<string, () => Promise<IOxford>> = {
+  "auction": () => import("./auction.json") as unknown as Promise<IOxford>,
+  "audible": () => import("./audible.json") as unknown as Promise<IOxford>,
+  "audience": () => import("./audience.json") as unknown as Promise<IOxford>,
+  "audio": () => import("./audio.json") as unknown as Promise<IOxford>,
+  "audit": () => import("./audit.json") as unknown as Promise<IOxford>,
+  "august": () => import("./august.json") as unknown as Promise<IOxford>,
+  "aunt": () => import("./aunt.json") as unknown as Promise<IOxford>,
+  "authentic": () => import("./authentic.json") as unknown as Promise<IOxford>,
+  "author": () => import("./author.json") as unknown as Promise<IOxford>,
+  "authority": () => import("./authority.json") as unknown as Promise<IOxford>,
+  "authorize": () => import("./authorize.json") as unknown as Promise<IOxford>,
+  "auto": () => import("./auto.json") as unknown as Promise<IOxford>,
+  "automatic": () => import("./automatic.json") as unknown as Promise<IOxford>,
+  "automatically": () => import("./automatically.json") as unknown as Promise<IOxford>,
+  "autonomy": () => import("./autonomy.json") as unknown as Promise<IOxford>,
+  "autumn": () => import("./autumn.json") as unknown as Promise<IOxford>,
 };

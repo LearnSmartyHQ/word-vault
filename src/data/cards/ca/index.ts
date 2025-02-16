@@ -1,151 +1,77 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import cabin_json from "./cabin.json" with { type: "json" };
-import cabinet_json from "./cabinet.json" with { type: "json" };
-import cable_json from "./cable.json" with { type: "json" };
-import cafe_json from "./cafe.json" with { type: "json" };
-import cake_json from "./cake.json" with { type: "json" };
-import calamity_json from "./calamity.json" with { type: "json" };
-import calculate_json from "./calculate.json" with { type: "json" };
-import calculation_json from "./calculation.json" with { type: "json" };
-import calculator_json from "./calculator.json" with { type: "json" };
-import calendar_json from "./calendar.json" with { type: "json" };
-import calibrate_json from "./calibrate.json" with { type: "json" };
-import call_json from "./call.json" with { type: "json" };
-import calm_json from "./calm.json" with { type: "json" };
-import camera_json from "./camera.json" with { type: "json" };
-import camp_json from "./camp.json" with { type: "json" };
-import campaign_json from "./campaign.json" with { type: "json" };
-import camping_json from "./camping.json" with { type: "json" };
-import campus_json from "./campus.json" with { type: "json" };
-import can_json from "./can.json" with { type: "json" };
-import can1_json from "./can1.json" with { type: "json" };
-import can2_json from "./can2.json" with { type: "json" };
-import canal_json from "./canal.json" with { type: "json" };
-import cancel_json from "./cancel.json" with { type: "json" };
-import cancer_json from "./cancer.json" with { type: "json" };
-import candidate_json from "./candidate.json" with { type: "json" };
-import candle_json from "./candle.json" with { type: "json" };
-import candy_json from "./candy.json" with { type: "json" };
-import cannot_json from "./cannot.json" with { type: "json" };
-import canvas_json from "./canvas.json" with { type: "json" };
-import cap_json from "./cap.json" with { type: "json" };
-import capability_json from "./capability.json" with { type: "json" };
-import capable_json from "./capable.json" with { type: "json" };
-import capacity_json from "./capacity.json" with { type: "json" };
-import capital_json from "./capital.json" with { type: "json" };
-import capitalism_json from "./capitalism.json" with { type: "json" };
-import capitalist_json from "./capitalist.json" with { type: "json" };
-import capsule_json from "./capsule.json" with { type: "json" };
-import captain_json from "./captain.json" with { type: "json" };
-import captive_json from "./captive.json" with { type: "json" };
-import capture_json from "./capture.json" with { type: "json" };
-import car_json from "./car.json" with { type: "json" };
-import carbon_json from "./carbon.json" with { type: "json" };
-import card_json from "./card.json" with { type: "json" };
-import care_json from "./care.json" with { type: "json" };
-import career_json from "./career.json" with { type: "json" };
-import careful_json from "./careful.json" with { type: "json" };
-import carefully_json from "./carefully.json" with { type: "json" };
-import careless_json from "./careless.json" with { type: "json" };
-import cargo_json from "./cargo.json" with { type: "json" };
-import carpet_json from "./carpet.json" with { type: "json" };
-import carriage_json from "./carriage.json" with { type: "json" };
-import carrot_json from "./carrot.json" with { type: "json" };
-import carry_json from "./carry.json" with { type: "json" };
-import cartoon_json from "./cartoon.json" with { type: "json" };
-import carve_json from "./carve.json" with { type: "json" };
-import case_json from "./case.json" with { type: "json" };
-import cash_json from "./cash.json" with { type: "json" };
-import casino_json from "./casino.json" with { type: "json" };
-import cast_json from "./cast.json" with { type: "json" };
-import castle_json from "./castle.json" with { type: "json" };
-import casual_json from "./casual.json" with { type: "json" };
-import casualty_json from "./casualty.json" with { type: "json" };
-import cat_json from "./cat.json" with { type: "json" };
-import catalog_json from "./catalog.json" with { type: "json" };
-import catalogue_json from "./catalogue.json" with { type: "json" };
-import catch_json from "./catch.json" with { type: "json" };
-import category_json from "./category.json" with { type: "json" };
-import cater_json from "./cater.json" with { type: "json" };
-import cattle_json from "./cattle.json" with { type: "json" };
-import cause_json from "./cause.json" with { type: "json" };
-import caution_json from "./caution.json" with { type: "json" };
-import cautious_json from "./cautious.json" with { type: "json" };
-import cave_json from "./cave.json" with { type: "json" };
-
-export const dir_ca: Record<string, ICard> = {
-  "cabin": cabin_json as unknown as ICard,
-  "cabinet": cabinet_json as unknown as ICard,
-  "cable": cable_json as unknown as ICard,
-  "cafe": cafe_json as unknown as ICard,
-  "cake": cake_json as unknown as ICard,
-  "calamity": calamity_json as unknown as ICard,
-  "calculate": calculate_json as unknown as ICard,
-  "calculation": calculation_json as unknown as ICard,
-  "calculator": calculator_json as unknown as ICard,
-  "calendar": calendar_json as unknown as ICard,
-  "calibrate": calibrate_json as unknown as ICard,
-  "call": call_json as unknown as ICard,
-  "calm": calm_json as unknown as ICard,
-  "camera": camera_json as unknown as ICard,
-  "camp": camp_json as unknown as ICard,
-  "campaign": campaign_json as unknown as ICard,
-  "camping": camping_json as unknown as ICard,
-  "campus": campus_json as unknown as ICard,
-  "can": can_json as unknown as ICard,
-  "can1": can1_json as unknown as ICard,
-  "can2": can2_json as unknown as ICard,
-  "canal": canal_json as unknown as ICard,
-  "cancel": cancel_json as unknown as ICard,
-  "cancer": cancer_json as unknown as ICard,
-  "candidate": candidate_json as unknown as ICard,
-  "candle": candle_json as unknown as ICard,
-  "candy": candy_json as unknown as ICard,
-  "cannot": cannot_json as unknown as ICard,
-  "canvas": canvas_json as unknown as ICard,
-  "cap": cap_json as unknown as ICard,
-  "capability": capability_json as unknown as ICard,
-  "capable": capable_json as unknown as ICard,
-  "capacity": capacity_json as unknown as ICard,
-  "capital": capital_json as unknown as ICard,
-  "capitalism": capitalism_json as unknown as ICard,
-  "capitalist": capitalist_json as unknown as ICard,
-  "capsule": capsule_json as unknown as ICard,
-  "captain": captain_json as unknown as ICard,
-  "captive": captive_json as unknown as ICard,
-  "capture": capture_json as unknown as ICard,
-  "car": car_json as unknown as ICard,
-  "carbon": carbon_json as unknown as ICard,
-  "card": card_json as unknown as ICard,
-  "care": care_json as unknown as ICard,
-  "career": career_json as unknown as ICard,
-  "careful": careful_json as unknown as ICard,
-  "carefully": carefully_json as unknown as ICard,
-  "careless": careless_json as unknown as ICard,
-  "cargo": cargo_json as unknown as ICard,
-  "carpet": carpet_json as unknown as ICard,
-  "carriage": carriage_json as unknown as ICard,
-  "carrot": carrot_json as unknown as ICard,
-  "carry": carry_json as unknown as ICard,
-  "cartoon": cartoon_json as unknown as ICard,
-  "carve": carve_json as unknown as ICard,
-  "case": case_json as unknown as ICard,
-  "cash": cash_json as unknown as ICard,
-  "casino": casino_json as unknown as ICard,
-  "cast": cast_json as unknown as ICard,
-  "castle": castle_json as unknown as ICard,
-  "casual": casual_json as unknown as ICard,
-  "casualty": casualty_json as unknown as ICard,
-  "cat": cat_json as unknown as ICard,
-  "catalog": catalog_json as unknown as ICard,
-  "catalogue": catalogue_json as unknown as ICard,
-  "catch": catch_json as unknown as ICard,
-  "category": category_json as unknown as ICard,
-  "cater": cater_json as unknown as ICard,
-  "cattle": cattle_json as unknown as ICard,
-  "cause": cause_json as unknown as ICard,
-  "caution": caution_json as unknown as ICard,
-  "cautious": cautious_json as unknown as ICard,
-  "cave": cave_json as unknown as ICard,
+export const dir_ca: Record<string, () => Promise<IOxford>> = {
+  "cabin": () => import("./cabin.json") as unknown as Promise<IOxford>,
+  "cabinet": () => import("./cabinet.json") as unknown as Promise<IOxford>,
+  "cable": () => import("./cable.json") as unknown as Promise<IOxford>,
+  "cafe": () => import("./cafe.json") as unknown as Promise<IOxford>,
+  "cake": () => import("./cake.json") as unknown as Promise<IOxford>,
+  "calamity": () => import("./calamity.json") as unknown as Promise<IOxford>,
+  "calculate": () => import("./calculate.json") as unknown as Promise<IOxford>,
+  "calculation": () => import("./calculation.json") as unknown as Promise<IOxford>,
+  "calculator": () => import("./calculator.json") as unknown as Promise<IOxford>,
+  "calendar": () => import("./calendar.json") as unknown as Promise<IOxford>,
+  "calibrate": () => import("./calibrate.json") as unknown as Promise<IOxford>,
+  "call": () => import("./call.json") as unknown as Promise<IOxford>,
+  "calm": () => import("./calm.json") as unknown as Promise<IOxford>,
+  "camera": () => import("./camera.json") as unknown as Promise<IOxford>,
+  "camp": () => import("./camp.json") as unknown as Promise<IOxford>,
+  "campaign": () => import("./campaign.json") as unknown as Promise<IOxford>,
+  "camping": () => import("./camping.json") as unknown as Promise<IOxford>,
+  "campus": () => import("./campus.json") as unknown as Promise<IOxford>,
+  "can": () => import("./can.json") as unknown as Promise<IOxford>,
+  "can1": () => import("./can1.json") as unknown as Promise<IOxford>,
+  "can2": () => import("./can2.json") as unknown as Promise<IOxford>,
+  "canal": () => import("./canal.json") as unknown as Promise<IOxford>,
+  "cancel": () => import("./cancel.json") as unknown as Promise<IOxford>,
+  "cancer": () => import("./cancer.json") as unknown as Promise<IOxford>,
+  "candidate": () => import("./candidate.json") as unknown as Promise<IOxford>,
+  "candle": () => import("./candle.json") as unknown as Promise<IOxford>,
+  "candy": () => import("./candy.json") as unknown as Promise<IOxford>,
+  "cannot": () => import("./cannot.json") as unknown as Promise<IOxford>,
+  "canvas": () => import("./canvas.json") as unknown as Promise<IOxford>,
+  "cap": () => import("./cap.json") as unknown as Promise<IOxford>,
+  "capability": () => import("./capability.json") as unknown as Promise<IOxford>,
+  "capable": () => import("./capable.json") as unknown as Promise<IOxford>,
+  "capacity": () => import("./capacity.json") as unknown as Promise<IOxford>,
+  "capital": () => import("./capital.json") as unknown as Promise<IOxford>,
+  "capitalism": () => import("./capitalism.json") as unknown as Promise<IOxford>,
+  "capitalist": () => import("./capitalist.json") as unknown as Promise<IOxford>,
+  "capsule": () => import("./capsule.json") as unknown as Promise<IOxford>,
+  "captain": () => import("./captain.json") as unknown as Promise<IOxford>,
+  "captive": () => import("./captive.json") as unknown as Promise<IOxford>,
+  "capture": () => import("./capture.json") as unknown as Promise<IOxford>,
+  "car": () => import("./car.json") as unknown as Promise<IOxford>,
+  "carbon": () => import("./carbon.json") as unknown as Promise<IOxford>,
+  "card": () => import("./card.json") as unknown as Promise<IOxford>,
+  "care": () => import("./care.json") as unknown as Promise<IOxford>,
+  "career": () => import("./career.json") as unknown as Promise<IOxford>,
+  "careful": () => import("./careful.json") as unknown as Promise<IOxford>,
+  "carefully": () => import("./carefully.json") as unknown as Promise<IOxford>,
+  "careless": () => import("./careless.json") as unknown as Promise<IOxford>,
+  "cargo": () => import("./cargo.json") as unknown as Promise<IOxford>,
+  "carpet": () => import("./carpet.json") as unknown as Promise<IOxford>,
+  "carriage": () => import("./carriage.json") as unknown as Promise<IOxford>,
+  "carrot": () => import("./carrot.json") as unknown as Promise<IOxford>,
+  "carry": () => import("./carry.json") as unknown as Promise<IOxford>,
+  "cartoon": () => import("./cartoon.json") as unknown as Promise<IOxford>,
+  "carve": () => import("./carve.json") as unknown as Promise<IOxford>,
+  "case": () => import("./case.json") as unknown as Promise<IOxford>,
+  "cash": () => import("./cash.json") as unknown as Promise<IOxford>,
+  "casino": () => import("./casino.json") as unknown as Promise<IOxford>,
+  "cast": () => import("./cast.json") as unknown as Promise<IOxford>,
+  "castle": () => import("./castle.json") as unknown as Promise<IOxford>,
+  "casual": () => import("./casual.json") as unknown as Promise<IOxford>,
+  "casualty": () => import("./casualty.json") as unknown as Promise<IOxford>,
+  "cat": () => import("./cat.json") as unknown as Promise<IOxford>,
+  "catalog": () => import("./catalog.json") as unknown as Promise<IOxford>,
+  "catalogue": () => import("./catalogue.json") as unknown as Promise<IOxford>,
+  "catch": () => import("./catch.json") as unknown as Promise<IOxford>,
+  "category": () => import("./category.json") as unknown as Promise<IOxford>,
+  "cater": () => import("./cater.json") as unknown as Promise<IOxford>,
+  "cattle": () => import("./cattle.json") as unknown as Promise<IOxford>,
+  "cause": () => import("./cause.json") as unknown as Promise<IOxford>,
+  "caution": () => import("./caution.json") as unknown as Promise<IOxford>,
+  "cautious": () => import("./cautious.json") as unknown as Promise<IOxford>,
+  "cave": () => import("./cave.json") as unknown as Promise<IOxford>,
 };

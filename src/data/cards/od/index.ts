@@ -1,9 +1,6 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import odd_json from "./odd.json" with { type: "json" };
-import odds_json from "./odds.json" with { type: "json" };
-
-export const dir_od: Record<string, ICard> = {
-  "odd": odd_json as unknown as ICard,
-  "odds": odds_json as unknown as ICard,
+export const dir_od: Record<string, () => Promise<IOxford>> = {
+  "odd": () => import("./odd.json") as unknown as Promise<IOxford>,
+  "odds": () => import("./odds.json") as unknown as Promise<IOxford>,
 };

@@ -1,9 +1,6 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import hydrogen_json from "./hydrogen.json" with { type: "json" };
-import hypothesis_json from "./hypothesis.json" with { type: "json" };
-
-export const dir_hy: Record<string, ICard> = {
-  "hydrogen": hydrogen_json as unknown as ICard,
-  "hypothesis": hypothesis_json as unknown as ICard,
+export const dir_hy: Record<string, () => Promise<IOxford>> = {
+  "hydrogen": () => import("./hydrogen.json") as unknown as Promise<IOxford>,
+  "hypothesis": () => import("./hypothesis.json") as unknown as Promise<IOxford>,
 };

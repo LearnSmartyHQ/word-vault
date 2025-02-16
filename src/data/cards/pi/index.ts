@@ -1,47 +1,25 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import piano_json from "./piano.json" with { type: "json" };
-import pick_json from "./pick.json" with { type: "json" };
-import picture_json from "./picture.json" with { type: "json" };
-import pie_json from "./pie.json" with { type: "json" };
-import piece_json from "./piece.json" with { type: "json" };
-import pierce_json from "./pierce.json" with { type: "json" };
-import pig_json from "./pig.json" with { type: "json" };
-import pile_json from "./pile.json" with { type: "json" };
-import pill_json from "./pill.json" with { type: "json" };
-import pilot_json from "./pilot.json" with { type: "json" };
-import pin_json from "./pin.json" with { type: "json" };
-import pink_json from "./pink.json" with { type: "json" };
-import pint_json from "./pint.json" with { type: "json" };
-import pioneer_json from "./pioneer.json" with { type: "json" };
-import pipe_json from "./pipe.json" with { type: "json" };
-import pipeline_json from "./pipeline.json" with { type: "json" };
-import pirate_json from "./pirate.json" with { type: "json" };
-import pit_json from "./pit.json" with { type: "json" };
-import pitch_json from "./pitch.json" with { type: "json" };
-import pity_json from "./pity.json" with { type: "json" };
-import pizza_json from "./pizza.json" with { type: "json" };
-
-export const dir_pi: Record<string, ICard> = {
-  "piano": piano_json as unknown as ICard,
-  "pick": pick_json as unknown as ICard,
-  "picture": picture_json as unknown as ICard,
-  "pie": pie_json as unknown as ICard,
-  "piece": piece_json as unknown as ICard,
-  "pierce": pierce_json as unknown as ICard,
-  "pig": pig_json as unknown as ICard,
-  "pile": pile_json as unknown as ICard,
-  "pill": pill_json as unknown as ICard,
-  "pilot": pilot_json as unknown as ICard,
-  "pin": pin_json as unknown as ICard,
-  "pink": pink_json as unknown as ICard,
-  "pint": pint_json as unknown as ICard,
-  "pioneer": pioneer_json as unknown as ICard,
-  "pipe": pipe_json as unknown as ICard,
-  "pipeline": pipeline_json as unknown as ICard,
-  "pirate": pirate_json as unknown as ICard,
-  "pit": pit_json as unknown as ICard,
-  "pitch": pitch_json as unknown as ICard,
-  "pity": pity_json as unknown as ICard,
-  "pizza": pizza_json as unknown as ICard,
+export const dir_pi: Record<string, () => Promise<IOxford>> = {
+  "piano": () => import("./piano.json") as unknown as Promise<IOxford>,
+  "pick": () => import("./pick.json") as unknown as Promise<IOxford>,
+  "picture": () => import("./picture.json") as unknown as Promise<IOxford>,
+  "pie": () => import("./pie.json") as unknown as Promise<IOxford>,
+  "piece": () => import("./piece.json") as unknown as Promise<IOxford>,
+  "pierce": () => import("./pierce.json") as unknown as Promise<IOxford>,
+  "pig": () => import("./pig.json") as unknown as Promise<IOxford>,
+  "pile": () => import("./pile.json") as unknown as Promise<IOxford>,
+  "pill": () => import("./pill.json") as unknown as Promise<IOxford>,
+  "pilot": () => import("./pilot.json") as unknown as Promise<IOxford>,
+  "pin": () => import("./pin.json") as unknown as Promise<IOxford>,
+  "pink": () => import("./pink.json") as unknown as Promise<IOxford>,
+  "pint": () => import("./pint.json") as unknown as Promise<IOxford>,
+  "pioneer": () => import("./pioneer.json") as unknown as Promise<IOxford>,
+  "pipe": () => import("./pipe.json") as unknown as Promise<IOxford>,
+  "pipeline": () => import("./pipeline.json") as unknown as Promise<IOxford>,
+  "pirate": () => import("./pirate.json") as unknown as Promise<IOxford>,
+  "pit": () => import("./pit.json") as unknown as Promise<IOxford>,
+  "pitch": () => import("./pitch.json") as unknown as Promise<IOxford>,
+  "pity": () => import("./pity.json") as unknown as Promise<IOxford>,
+  "pizza": () => import("./pizza.json") as unknown as Promise<IOxford>,
 };

@@ -1,7 +1,5 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import a_json from "./a.json" with { type: "json" };
-
-export const dir_a: Record<string, ICard> = {
-  "a": a_json as unknown as ICard,
+export const dir_a: Record<string, () => Promise<IOxford>> = {
+  "a": () => import("./a.json") as unknown as Promise<IOxford>,
 };

@@ -1,83 +1,43 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import an_json from "./an.json" with { type: "json" };
-import analogy_json from "./analogy.json" with { type: "json" };
-import analyse_json from "./analyse.json" with { type: "json" };
-import analysis_json from "./analysis.json" with { type: "json" };
-import analyst_json from "./analyst.json" with { type: "json" };
-import analyze_json from "./analyze.json" with { type: "json" };
-import ancestor_json from "./ancestor.json" with { type: "json" };
-import anchor_json from "./anchor.json" with { type: "json" };
-import ancient_json from "./ancient.json" with { type: "json" };
-import and_json from "./and.json" with { type: "json" };
-import angel_json from "./angel.json" with { type: "json" };
-import anger_json from "./anger.json" with { type: "json" };
-import angle_json from "./angle.json" with { type: "json" };
-import angry_json from "./angry.json" with { type: "json" };
-import animal_json from "./animal.json" with { type: "json" };
-import animation_json from "./animation.json" with { type: "json" };
-import ankle_json from "./ankle.json" with { type: "json" };
-import anniversary_json from "./anniversary.json" with { type: "json" };
-import announce_json from "./announce.json" with { type: "json" };
-import announcement_json from "./announcement.json" with { type: "json" };
-import annoy_json from "./annoy.json" with { type: "json" };
-import annoyed_json from "./annoyed.json" with { type: "json" };
-import annoying_json from "./annoying.json" with { type: "json" };
-import annual_json from "./annual.json" with { type: "json" };
-import annually_json from "./annually.json" with { type: "json" };
-import anonymous_json from "./anonymous.json" with { type: "json" };
-import another_json from "./another.json" with { type: "json" };
-import answer_json from "./answer.json" with { type: "json" };
-import anticipate_json from "./anticipate.json" with { type: "json" };
-import anxiety_json from "./anxiety.json" with { type: "json" };
-import anxious_json from "./anxious.json" with { type: "json" };
-import any_json from "./any.json" with { type: "json" };
-import anybody_json from "./anybody.json" with { type: "json" };
-import anyhow_json from "./anyhow.json" with { type: "json" };
-import anymore_json from "./anymore.json" with { type: "json" };
-import anyone_json from "./anyone.json" with { type: "json" };
-import anything_json from "./anything.json" with { type: "json" };
-import anyway_json from "./anyway.json" with { type: "json" };
-import anywhere_json from "./anywhere.json" with { type: "json" };
-
-export const dir_an: Record<string, ICard> = {
-  "an": an_json as unknown as ICard,
-  "analogy": analogy_json as unknown as ICard,
-  "analyse": analyse_json as unknown as ICard,
-  "analysis": analysis_json as unknown as ICard,
-  "analyst": analyst_json as unknown as ICard,
-  "analyze": analyze_json as unknown as ICard,
-  "ancestor": ancestor_json as unknown as ICard,
-  "anchor": anchor_json as unknown as ICard,
-  "ancient": ancient_json as unknown as ICard,
-  "and": and_json as unknown as ICard,
-  "angel": angel_json as unknown as ICard,
-  "anger": anger_json as unknown as ICard,
-  "angle": angle_json as unknown as ICard,
-  "angry": angry_json as unknown as ICard,
-  "animal": animal_json as unknown as ICard,
-  "animation": animation_json as unknown as ICard,
-  "ankle": ankle_json as unknown as ICard,
-  "anniversary": anniversary_json as unknown as ICard,
-  "announce": announce_json as unknown as ICard,
-  "announcement": announcement_json as unknown as ICard,
-  "annoy": annoy_json as unknown as ICard,
-  "annoyed": annoyed_json as unknown as ICard,
-  "annoying": annoying_json as unknown as ICard,
-  "annual": annual_json as unknown as ICard,
-  "annually": annually_json as unknown as ICard,
-  "anonymous": anonymous_json as unknown as ICard,
-  "another": another_json as unknown as ICard,
-  "answer": answer_json as unknown as ICard,
-  "anticipate": anticipate_json as unknown as ICard,
-  "anxiety": anxiety_json as unknown as ICard,
-  "anxious": anxious_json as unknown as ICard,
-  "any": any_json as unknown as ICard,
-  "anybody": anybody_json as unknown as ICard,
-  "anyhow": anyhow_json as unknown as ICard,
-  "anymore": anymore_json as unknown as ICard,
-  "anyone": anyone_json as unknown as ICard,
-  "anything": anything_json as unknown as ICard,
-  "anyway": anyway_json as unknown as ICard,
-  "anywhere": anywhere_json as unknown as ICard,
+export const dir_an: Record<string, () => Promise<IOxford>> = {
+  "an": () => import("./an.json") as unknown as Promise<IOxford>,
+  "analogy": () => import("./analogy.json") as unknown as Promise<IOxford>,
+  "analyse": () => import("./analyse.json") as unknown as Promise<IOxford>,
+  "analysis": () => import("./analysis.json") as unknown as Promise<IOxford>,
+  "analyst": () => import("./analyst.json") as unknown as Promise<IOxford>,
+  "analyze": () => import("./analyze.json") as unknown as Promise<IOxford>,
+  "ancestor": () => import("./ancestor.json") as unknown as Promise<IOxford>,
+  "anchor": () => import("./anchor.json") as unknown as Promise<IOxford>,
+  "ancient": () => import("./ancient.json") as unknown as Promise<IOxford>,
+  "and": () => import("./and.json") as unknown as Promise<IOxford>,
+  "angel": () => import("./angel.json") as unknown as Promise<IOxford>,
+  "anger": () => import("./anger.json") as unknown as Promise<IOxford>,
+  "angle": () => import("./angle.json") as unknown as Promise<IOxford>,
+  "angry": () => import("./angry.json") as unknown as Promise<IOxford>,
+  "animal": () => import("./animal.json") as unknown as Promise<IOxford>,
+  "animation": () => import("./animation.json") as unknown as Promise<IOxford>,
+  "ankle": () => import("./ankle.json") as unknown as Promise<IOxford>,
+  "anniversary": () => import("./anniversary.json") as unknown as Promise<IOxford>,
+  "announce": () => import("./announce.json") as unknown as Promise<IOxford>,
+  "announcement": () => import("./announcement.json") as unknown as Promise<IOxford>,
+  "annoy": () => import("./annoy.json") as unknown as Promise<IOxford>,
+  "annoyed": () => import("./annoyed.json") as unknown as Promise<IOxford>,
+  "annoying": () => import("./annoying.json") as unknown as Promise<IOxford>,
+  "annual": () => import("./annual.json") as unknown as Promise<IOxford>,
+  "annually": () => import("./annually.json") as unknown as Promise<IOxford>,
+  "anonymous": () => import("./anonymous.json") as unknown as Promise<IOxford>,
+  "another": () => import("./another.json") as unknown as Promise<IOxford>,
+  "answer": () => import("./answer.json") as unknown as Promise<IOxford>,
+  "anticipate": () => import("./anticipate.json") as unknown as Promise<IOxford>,
+  "anxiety": () => import("./anxiety.json") as unknown as Promise<IOxford>,
+  "anxious": () => import("./anxious.json") as unknown as Promise<IOxford>,
+  "any": () => import("./any.json") as unknown as Promise<IOxford>,
+  "anybody": () => import("./anybody.json") as unknown as Promise<IOxford>,
+  "anyhow": () => import("./anyhow.json") as unknown as Promise<IOxford>,
+  "anymore": () => import("./anymore.json") as unknown as Promise<IOxford>,
+  "anyone": () => import("./anyone.json") as unknown as Promise<IOxford>,
+  "anything": () => import("./anything.json") as unknown as Promise<IOxford>,
+  "anyway": () => import("./anyway.json") as unknown as Promise<IOxford>,
+  "anywhere": () => import("./anywhere.json") as unknown as Promise<IOxford>,
 };

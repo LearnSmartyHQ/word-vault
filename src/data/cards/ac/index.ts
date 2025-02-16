@@ -1,109 +1,56 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import academic_json from "./academic.json" with { type: "json" };
-import academy_json from "./academy.json" with { type: "json" };
-import accelerate_json from "./accelerate.json" with { type: "json" };
-import accent_json from "./accent.json" with { type: "json" };
-import accept_json from "./accept.json" with { type: "json" };
-import acceptable_json from "./acceptable.json" with { type: "json" };
-import acceptance_json from "./acceptance.json" with { type: "json" };
-import access_json from "./access.json" with { type: "json" };
-import accessible_json from "./accessible.json" with { type: "json" };
-import accident_json from "./accident.json" with { type: "json" };
-import accidentally_json from "./accidentally.json" with { type: "json" };
-import accommodate_json from "./accommodate.json" with { type: "json" };
-import accommodation_json from "./accommodation.json" with { type: "json" };
-import accompany_json from "./accompany.json" with { type: "json" };
-import accomplish_json from "./accomplish.json" with { type: "json" };
-import accomplishment_json from "./accomplishment.json" with { type: "json" };
-import accordance_json from "./accordance.json" with { type: "json" };
-import according_to_json from "./according-to.json" with { type: "json" };
-import accordingly_json from "./accordingly.json" with { type: "json" };
-import account_json from "./account.json" with { type: "json" };
-import accountability_json from "./accountability.json" with { type: "json" };
-import accountable_json from "./accountable.json" with { type: "json" };
-import accountant_json from "./accountant.json" with { type: "json" };
-import accumulate_json from "./accumulate.json" with { type: "json" };
-import accumulation_json from "./accumulation.json" with { type: "json" };
-import accuracy_json from "./accuracy.json" with { type: "json" };
-import accurate_json from "./accurate.json" with { type: "json" };
-import accurately_json from "./accurately.json" with { type: "json" };
-import accusation_json from "./accusation.json" with { type: "json" };
-import accuse_json from "./accuse.json" with { type: "json" };
-import accused_json from "./accused.json" with { type: "json" };
-import achieve_json from "./achieve.json" with { type: "json" };
-import achievement_json from "./achievement.json" with { type: "json" };
-import acid_json from "./acid.json" with { type: "json" };
-import acknowledge_json from "./acknowledge.json" with { type: "json" };
-import acquaint_json from "./acquaint.json" with { type: "json" };
-import acquire_json from "./acquire.json" with { type: "json" };
-import acquisition_json from "./acquisition.json" with { type: "json" };
-import acre_json from "./acre.json" with { type: "json" };
-import across_json from "./across.json" with { type: "json" };
-import act_json from "./act.json" with { type: "json" };
-import action_json from "./action.json" with { type: "json" };
-import activate_json from "./activate.json" with { type: "json" };
-import activation_json from "./activation.json" with { type: "json" };
-import active_json from "./active.json" with { type: "json" };
-import activist_json from "./activist.json" with { type: "json" };
-import activity_json from "./activity.json" with { type: "json" };
-import actor_json from "./actor.json" with { type: "json" };
-import actress_json from "./actress.json" with { type: "json" };
-import actual_json from "./actual.json" with { type: "json" };
-import actually_json from "./actually.json" with { type: "json" };
-import acute_json from "./acute.json" with { type: "json" };
-
-export const dir_ac: Record<string, ICard> = {
-  "academic": academic_json as unknown as ICard,
-  "academy": academy_json as unknown as ICard,
-  "accelerate": accelerate_json as unknown as ICard,
-  "accent": accent_json as unknown as ICard,
-  "accept": accept_json as unknown as ICard,
-  "acceptable": acceptable_json as unknown as ICard,
-  "acceptance": acceptance_json as unknown as ICard,
-  "access": access_json as unknown as ICard,
-  "accessible": accessible_json as unknown as ICard,
-  "accident": accident_json as unknown as ICard,
-  "accidentally": accidentally_json as unknown as ICard,
-  "accommodate": accommodate_json as unknown as ICard,
-  "accommodation": accommodation_json as unknown as ICard,
-  "accompany": accompany_json as unknown as ICard,
-  "accomplish": accomplish_json as unknown as ICard,
-  "accomplishment": accomplishment_json as unknown as ICard,
-  "accordance": accordance_json as unknown as ICard,
-  "according-to": according_to_json as unknown as ICard,
-  "accordingly": accordingly_json as unknown as ICard,
-  "account": account_json as unknown as ICard,
-  "accountability": accountability_json as unknown as ICard,
-  "accountable": accountable_json as unknown as ICard,
-  "accountant": accountant_json as unknown as ICard,
-  "accumulate": accumulate_json as unknown as ICard,
-  "accumulation": accumulation_json as unknown as ICard,
-  "accuracy": accuracy_json as unknown as ICard,
-  "accurate": accurate_json as unknown as ICard,
-  "accurately": accurately_json as unknown as ICard,
-  "accusation": accusation_json as unknown as ICard,
-  "accuse": accuse_json as unknown as ICard,
-  "accused": accused_json as unknown as ICard,
-  "achieve": achieve_json as unknown as ICard,
-  "achievement": achievement_json as unknown as ICard,
-  "acid": acid_json as unknown as ICard,
-  "acknowledge": acknowledge_json as unknown as ICard,
-  "acquaint": acquaint_json as unknown as ICard,
-  "acquire": acquire_json as unknown as ICard,
-  "acquisition": acquisition_json as unknown as ICard,
-  "acre": acre_json as unknown as ICard,
-  "across": across_json as unknown as ICard,
-  "act": act_json as unknown as ICard,
-  "action": action_json as unknown as ICard,
-  "activate": activate_json as unknown as ICard,
-  "activation": activation_json as unknown as ICard,
-  "active": active_json as unknown as ICard,
-  "activist": activist_json as unknown as ICard,
-  "activity": activity_json as unknown as ICard,
-  "actor": actor_json as unknown as ICard,
-  "actress": actress_json as unknown as ICard,
-  "actual": actual_json as unknown as ICard,
-  "actually": actually_json as unknown as ICard,
-  "acute": acute_json as unknown as ICard,
+export const dir_ac: Record<string, () => Promise<IOxford>> = {
+  "academic": () => import("./academic.json") as unknown as Promise<IOxford>,
+  "academy": () => import("./academy.json") as unknown as Promise<IOxford>,
+  "accelerate": () => import("./accelerate.json") as unknown as Promise<IOxford>,
+  "accent": () => import("./accent.json") as unknown as Promise<IOxford>,
+  "accept": () => import("./accept.json") as unknown as Promise<IOxford>,
+  "acceptable": () => import("./acceptable.json") as unknown as Promise<IOxford>,
+  "acceptance": () => import("./acceptance.json") as unknown as Promise<IOxford>,
+  "access": () => import("./access.json") as unknown as Promise<IOxford>,
+  "accessible": () => import("./accessible.json") as unknown as Promise<IOxford>,
+  "accident": () => import("./accident.json") as unknown as Promise<IOxford>,
+  "accidentally": () => import("./accidentally.json") as unknown as Promise<IOxford>,
+  "accommodate": () => import("./accommodate.json") as unknown as Promise<IOxford>,
+  "accommodation": () => import("./accommodation.json") as unknown as Promise<IOxford>,
+  "accompany": () => import("./accompany.json") as unknown as Promise<IOxford>,
+  "accomplish": () => import("./accomplish.json") as unknown as Promise<IOxford>,
+  "accomplishment": () => import("./accomplishment.json") as unknown as Promise<IOxford>,
+  "accordance": () => import("./accordance.json") as unknown as Promise<IOxford>,
+  "according-to": () => import("./according-to.json") as unknown as Promise<IOxford>,
+  "accordingly": () => import("./accordingly.json") as unknown as Promise<IOxford>,
+  "account": () => import("./account.json") as unknown as Promise<IOxford>,
+  "accountability": () => import("./accountability.json") as unknown as Promise<IOxford>,
+  "accountable": () => import("./accountable.json") as unknown as Promise<IOxford>,
+  "accountant": () => import("./accountant.json") as unknown as Promise<IOxford>,
+  "accumulate": () => import("./accumulate.json") as unknown as Promise<IOxford>,
+  "accumulation": () => import("./accumulation.json") as unknown as Promise<IOxford>,
+  "accuracy": () => import("./accuracy.json") as unknown as Promise<IOxford>,
+  "accurate": () => import("./accurate.json") as unknown as Promise<IOxford>,
+  "accurately": () => import("./accurately.json") as unknown as Promise<IOxford>,
+  "accusation": () => import("./accusation.json") as unknown as Promise<IOxford>,
+  "accuse": () => import("./accuse.json") as unknown as Promise<IOxford>,
+  "accused": () => import("./accused.json") as unknown as Promise<IOxford>,
+  "achieve": () => import("./achieve.json") as unknown as Promise<IOxford>,
+  "achievement": () => import("./achievement.json") as unknown as Promise<IOxford>,
+  "acid": () => import("./acid.json") as unknown as Promise<IOxford>,
+  "acknowledge": () => import("./acknowledge.json") as unknown as Promise<IOxford>,
+  "acquaint": () => import("./acquaint.json") as unknown as Promise<IOxford>,
+  "acquire": () => import("./acquire.json") as unknown as Promise<IOxford>,
+  "acquisition": () => import("./acquisition.json") as unknown as Promise<IOxford>,
+  "acre": () => import("./acre.json") as unknown as Promise<IOxford>,
+  "across": () => import("./across.json") as unknown as Promise<IOxford>,
+  "act": () => import("./act.json") as unknown as Promise<IOxford>,
+  "action": () => import("./action.json") as unknown as Promise<IOxford>,
+  "activate": () => import("./activate.json") as unknown as Promise<IOxford>,
+  "activation": () => import("./activation.json") as unknown as Promise<IOxford>,
+  "active": () => import("./active.json") as unknown as Promise<IOxford>,
+  "activist": () => import("./activist.json") as unknown as Promise<IOxford>,
+  "activity": () => import("./activity.json") as unknown as Promise<IOxford>,
+  "actor": () => import("./actor.json") as unknown as Promise<IOxford>,
+  "actress": () => import("./actress.json") as unknown as Promise<IOxford>,
+  "actual": () => import("./actual.json") as unknown as Promise<IOxford>,
+  "actually": () => import("./actually.json") as unknown as Promise<IOxford>,
+  "acute": () => import("./acute.json") as unknown as Promise<IOxford>,
 };

@@ -1,47 +1,25 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import cease_json from "./cease.json" with { type: "json" };
-import ceiling_json from "./ceiling.json" with { type: "json" };
-import celebrate_json from "./celebrate.json" with { type: "json" };
-import celebration_json from "./celebration.json" with { type: "json" };
-import celebrity_json from "./celebrity.json" with { type: "json" };
-import cell_phone_json from "./cell-phone.json" with { type: "json" };
-import cell_json from "./cell.json" with { type: "json" };
-import cemetery_json from "./cemetery.json" with { type: "json" };
-import censor_json from "./censor.json" with { type: "json" };
-import cent_json from "./cent.json" with { type: "json" };
-import center_json from "./center.json" with { type: "json" };
-import centimetre_json from "./centimetre.json" with { type: "json" };
-import central_json from "./central.json" with { type: "json" };
-import centre_json from "./centre.json" with { type: "json" };
-import century_json from "./century.json" with { type: "json" };
-import cereal_json from "./cereal.json" with { type: "json" };
-import ceremony_json from "./ceremony.json" with { type: "json" };
-import certain_json from "./certain.json" with { type: "json" };
-import certainly_json from "./certainly.json" with { type: "json" };
-import certainty_json from "./certainty.json" with { type: "json" };
-import certificate_json from "./certificate.json" with { type: "json" };
-
-export const dir_ce: Record<string, ICard> = {
-  "cease": cease_json as unknown as ICard,
-  "ceiling": ceiling_json as unknown as ICard,
-  "celebrate": celebrate_json as unknown as ICard,
-  "celebration": celebration_json as unknown as ICard,
-  "celebrity": celebrity_json as unknown as ICard,
-  "cell-phone": cell_phone_json as unknown as ICard,
-  "cell": cell_json as unknown as ICard,
-  "cemetery": cemetery_json as unknown as ICard,
-  "censor": censor_json as unknown as ICard,
-  "cent": cent_json as unknown as ICard,
-  "center": center_json as unknown as ICard,
-  "centimetre": centimetre_json as unknown as ICard,
-  "central": central_json as unknown as ICard,
-  "centre": centre_json as unknown as ICard,
-  "century": century_json as unknown as ICard,
-  "cereal": cereal_json as unknown as ICard,
-  "ceremony": ceremony_json as unknown as ICard,
-  "certain": certain_json as unknown as ICard,
-  "certainly": certainly_json as unknown as ICard,
-  "certainty": certainty_json as unknown as ICard,
-  "certificate": certificate_json as unknown as ICard,
+export const dir_ce: Record<string, () => Promise<IOxford>> = {
+  "cease": () => import("./cease.json") as unknown as Promise<IOxford>,
+  "ceiling": () => import("./ceiling.json") as unknown as Promise<IOxford>,
+  "celebrate": () => import("./celebrate.json") as unknown as Promise<IOxford>,
+  "celebration": () => import("./celebration.json") as unknown as Promise<IOxford>,
+  "celebrity": () => import("./celebrity.json") as unknown as Promise<IOxford>,
+  "cell-phone": () => import("./cell-phone.json") as unknown as Promise<IOxford>,
+  "cell": () => import("./cell.json") as unknown as Promise<IOxford>,
+  "cemetery": () => import("./cemetery.json") as unknown as Promise<IOxford>,
+  "censor": () => import("./censor.json") as unknown as Promise<IOxford>,
+  "cent": () => import("./cent.json") as unknown as Promise<IOxford>,
+  "center": () => import("./center.json") as unknown as Promise<IOxford>,
+  "centimetre": () => import("./centimetre.json") as unknown as Promise<IOxford>,
+  "central": () => import("./central.json") as unknown as Promise<IOxford>,
+  "centre": () => import("./centre.json") as unknown as Promise<IOxford>,
+  "century": () => import("./century.json") as unknown as Promise<IOxford>,
+  "cereal": () => import("./cereal.json") as unknown as Promise<IOxford>,
+  "ceremony": () => import("./ceremony.json") as unknown as Promise<IOxford>,
+  "certain": () => import("./certain.json") as unknown as Promise<IOxford>,
+  "certainly": () => import("./certainly.json") as unknown as Promise<IOxford>,
+  "certainty": () => import("./certainty.json") as unknown as Promise<IOxford>,
+  "certificate": () => import("./certificate.json") as unknown as Promise<IOxford>,
 };

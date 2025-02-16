@@ -1,65 +1,34 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import arbitrary_json from "./arbitrary.json" with { type: "json" };
-import architect_json from "./architect.json" with { type: "json" };
-import architectural_json from "./architectural.json" with { type: "json" };
-import architecture_json from "./architecture.json" with { type: "json" };
-import archive_json from "./archive.json" with { type: "json" };
-import area_json from "./area.json" with { type: "json" };
-import arena_json from "./arena.json" with { type: "json" };
-import arguably_json from "./arguably.json" with { type: "json" };
-import argue_json from "./argue.json" with { type: "json" };
-import argument_json from "./argument.json" with { type: "json" };
-import arise_json from "./arise.json" with { type: "json" };
-import arm_json from "./arm.json" with { type: "json" };
-import armed_json from "./armed.json" with { type: "json" };
-import arms_json from "./arms.json" with { type: "json" };
-import army_json from "./army.json" with { type: "json" };
-import around_json from "./around.json" with { type: "json" };
-import arrange_json from "./arrange.json" with { type: "json" };
-import arrangement_json from "./arrangement.json" with { type: "json" };
-import array_json from "./array.json" with { type: "json" };
-import arrest_json from "./arrest.json" with { type: "json" };
-import arrival_json from "./arrival.json" with { type: "json" };
-import arrive_json from "./arrive.json" with { type: "json" };
-import arrow_json from "./arrow.json" with { type: "json" };
-import art_json from "./art.json" with { type: "json" };
-import article_json from "./article.json" with { type: "json" };
-import articulate_json from "./articulate.json" with { type: "json" };
-import artificial_json from "./artificial.json" with { type: "json" };
-import artist_json from "./artist.json" with { type: "json" };
-import artistic_json from "./artistic.json" with { type: "json" };
-import artwork_json from "./artwork.json" with { type: "json" };
-
-export const dir_ar: Record<string, ICard> = {
-  "arbitrary": arbitrary_json as unknown as ICard,
-  "architect": architect_json as unknown as ICard,
-  "architectural": architectural_json as unknown as ICard,
-  "architecture": architecture_json as unknown as ICard,
-  "archive": archive_json as unknown as ICard,
-  "area": area_json as unknown as ICard,
-  "arena": arena_json as unknown as ICard,
-  "arguably": arguably_json as unknown as ICard,
-  "argue": argue_json as unknown as ICard,
-  "argument": argument_json as unknown as ICard,
-  "arise": arise_json as unknown as ICard,
-  "arm": arm_json as unknown as ICard,
-  "armed": armed_json as unknown as ICard,
-  "arms": arms_json as unknown as ICard,
-  "army": army_json as unknown as ICard,
-  "around": around_json as unknown as ICard,
-  "arrange": arrange_json as unknown as ICard,
-  "arrangement": arrangement_json as unknown as ICard,
-  "array": array_json as unknown as ICard,
-  "arrest": arrest_json as unknown as ICard,
-  "arrival": arrival_json as unknown as ICard,
-  "arrive": arrive_json as unknown as ICard,
-  "arrow": arrow_json as unknown as ICard,
-  "art": art_json as unknown as ICard,
-  "article": article_json as unknown as ICard,
-  "articulate": articulate_json as unknown as ICard,
-  "artificial": artificial_json as unknown as ICard,
-  "artist": artist_json as unknown as ICard,
-  "artistic": artistic_json as unknown as ICard,
-  "artwork": artwork_json as unknown as ICard,
+export const dir_ar: Record<string, () => Promise<IOxford>> = {
+  "arbitrary": () => import("./arbitrary.json") as unknown as Promise<IOxford>,
+  "architect": () => import("./architect.json") as unknown as Promise<IOxford>,
+  "architectural": () => import("./architectural.json") as unknown as Promise<IOxford>,
+  "architecture": () => import("./architecture.json") as unknown as Promise<IOxford>,
+  "archive": () => import("./archive.json") as unknown as Promise<IOxford>,
+  "area": () => import("./area.json") as unknown as Promise<IOxford>,
+  "arena": () => import("./arena.json") as unknown as Promise<IOxford>,
+  "arguably": () => import("./arguably.json") as unknown as Promise<IOxford>,
+  "argue": () => import("./argue.json") as unknown as Promise<IOxford>,
+  "argument": () => import("./argument.json") as unknown as Promise<IOxford>,
+  "arise": () => import("./arise.json") as unknown as Promise<IOxford>,
+  "arm": () => import("./arm.json") as unknown as Promise<IOxford>,
+  "armed": () => import("./armed.json") as unknown as Promise<IOxford>,
+  "arms": () => import("./arms.json") as unknown as Promise<IOxford>,
+  "army": () => import("./army.json") as unknown as Promise<IOxford>,
+  "around": () => import("./around.json") as unknown as Promise<IOxford>,
+  "arrange": () => import("./arrange.json") as unknown as Promise<IOxford>,
+  "arrangement": () => import("./arrangement.json") as unknown as Promise<IOxford>,
+  "array": () => import("./array.json") as unknown as Promise<IOxford>,
+  "arrest": () => import("./arrest.json") as unknown as Promise<IOxford>,
+  "arrival": () => import("./arrival.json") as unknown as Promise<IOxford>,
+  "arrive": () => import("./arrive.json") as unknown as Promise<IOxford>,
+  "arrow": () => import("./arrow.json") as unknown as Promise<IOxford>,
+  "art": () => import("./art.json") as unknown as Promise<IOxford>,
+  "article": () => import("./article.json") as unknown as Promise<IOxford>,
+  "articulate": () => import("./articulate.json") as unknown as Promise<IOxford>,
+  "artificial": () => import("./artificial.json") as unknown as Promise<IOxford>,
+  "artist": () => import("./artist.json") as unknown as Promise<IOxford>,
+  "artistic": () => import("./artistic.json") as unknown as Promise<IOxford>,
+  "artwork": () => import("./artwork.json") as unknown as Promise<IOxford>,
 };

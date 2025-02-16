@@ -1,13 +1,8 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import eight_json from "./eight.json" with { type: "json" };
-import eighteen_json from "./eighteen.json" with { type: "json" };
-import eighty_json from "./eighty.json" with { type: "json" };
-import either_json from "./either.json" with { type: "json" };
-
-export const dir_ei: Record<string, ICard> = {
-  "eight": eight_json as unknown as ICard,
-  "eighteen": eighteen_json as unknown as ICard,
-  "eighty": eighty_json as unknown as ICard,
-  "either": either_json as unknown as ICard,
+export const dir_ei: Record<string, () => Promise<IOxford>> = {
+  "eight": () => import("./eight.json") as unknown as Promise<IOxford>,
+  "eighteen": () => import("./eighteen.json") as unknown as Promise<IOxford>,
+  "eighty": () => import("./eighty.json") as unknown as Promise<IOxford>,
+  "either": () => import("./either.json") as unknown as Promise<IOxford>,
 };

@@ -1,77 +1,40 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import race_json from "./race.json" with { type: "json" };
-import racial_json from "./racial.json" with { type: "json" };
-import racing_json from "./racing.json" with { type: "json" };
-import racism_json from "./racism.json" with { type: "json" };
-import racist_json from "./racist.json" with { type: "json" };
-import radar_json from "./radar.json" with { type: "json" };
-import radiation_json from "./radiation.json" with { type: "json" };
-import radical_json from "./radical.json" with { type: "json" };
-import radio_json from "./radio.json" with { type: "json" };
-import rage_json from "./rage.json" with { type: "json" };
-import raid_json from "./raid.json" with { type: "json" };
-import rail_json from "./rail.json" with { type: "json" };
-import railroad_json from "./railroad.json" with { type: "json" };
-import railway_json from "./railway.json" with { type: "json" };
-import rain_json from "./rain.json" with { type: "json" };
-import raise_json from "./raise.json" with { type: "json" };
-import rally_json from "./rally.json" with { type: "json" };
-import random_json from "./random.json" with { type: "json" };
-import range_json from "./range.json" with { type: "json" };
-import rank_json from "./rank.json" with { type: "json" };
-import ranking_json from "./ranking.json" with { type: "json" };
-import rape_json from "./rape.json" with { type: "json" };
-import rapid_json from "./rapid.json" with { type: "json" };
-import rapidly_json from "./rapidly.json" with { type: "json" };
-import rare_json from "./rare.json" with { type: "json" };
-import rarely_json from "./rarely.json" with { type: "json" };
-import rash_json from "./rash.json" with { type: "json" };
-import rat_json from "./rat.json" with { type: "json" };
-import rate_json from "./rate.json" with { type: "json" };
-import rather_json from "./rather.json" with { type: "json" };
-import rating_json from "./rating.json" with { type: "json" };
-import ratio_json from "./ratio.json" with { type: "json" };
-import rational_json from "./rational.json" with { type: "json" };
-import rave_json from "./rave.json" with { type: "json" };
-import raw_json from "./raw.json" with { type: "json" };
-import ray_json from "./ray.json" with { type: "json" };
-
-export const dir_ra: Record<string, ICard> = {
-  "race": race_json as unknown as ICard,
-  "racial": racial_json as unknown as ICard,
-  "racing": racing_json as unknown as ICard,
-  "racism": racism_json as unknown as ICard,
-  "racist": racist_json as unknown as ICard,
-  "radar": radar_json as unknown as ICard,
-  "radiation": radiation_json as unknown as ICard,
-  "radical": radical_json as unknown as ICard,
-  "radio": radio_json as unknown as ICard,
-  "rage": rage_json as unknown as ICard,
-  "raid": raid_json as unknown as ICard,
-  "rail": rail_json as unknown as ICard,
-  "railroad": railroad_json as unknown as ICard,
-  "railway": railway_json as unknown as ICard,
-  "rain": rain_json as unknown as ICard,
-  "raise": raise_json as unknown as ICard,
-  "rally": rally_json as unknown as ICard,
-  "random": random_json as unknown as ICard,
-  "range": range_json as unknown as ICard,
-  "rank": rank_json as unknown as ICard,
-  "ranking": ranking_json as unknown as ICard,
-  "rape": rape_json as unknown as ICard,
-  "rapid": rapid_json as unknown as ICard,
-  "rapidly": rapidly_json as unknown as ICard,
-  "rare": rare_json as unknown as ICard,
-  "rarely": rarely_json as unknown as ICard,
-  "rash": rash_json as unknown as ICard,
-  "rat": rat_json as unknown as ICard,
-  "rate": rate_json as unknown as ICard,
-  "rather": rather_json as unknown as ICard,
-  "rating": rating_json as unknown as ICard,
-  "ratio": ratio_json as unknown as ICard,
-  "rational": rational_json as unknown as ICard,
-  "rave": rave_json as unknown as ICard,
-  "raw": raw_json as unknown as ICard,
-  "ray": ray_json as unknown as ICard,
+export const dir_ra: Record<string, () => Promise<IOxford>> = {
+  "race": () => import("./race.json") as unknown as Promise<IOxford>,
+  "racial": () => import("./racial.json") as unknown as Promise<IOxford>,
+  "racing": () => import("./racing.json") as unknown as Promise<IOxford>,
+  "racism": () => import("./racism.json") as unknown as Promise<IOxford>,
+  "racist": () => import("./racist.json") as unknown as Promise<IOxford>,
+  "radar": () => import("./radar.json") as unknown as Promise<IOxford>,
+  "radiation": () => import("./radiation.json") as unknown as Promise<IOxford>,
+  "radical": () => import("./radical.json") as unknown as Promise<IOxford>,
+  "radio": () => import("./radio.json") as unknown as Promise<IOxford>,
+  "rage": () => import("./rage.json") as unknown as Promise<IOxford>,
+  "raid": () => import("./raid.json") as unknown as Promise<IOxford>,
+  "rail": () => import("./rail.json") as unknown as Promise<IOxford>,
+  "railroad": () => import("./railroad.json") as unknown as Promise<IOxford>,
+  "railway": () => import("./railway.json") as unknown as Promise<IOxford>,
+  "rain": () => import("./rain.json") as unknown as Promise<IOxford>,
+  "raise": () => import("./raise.json") as unknown as Promise<IOxford>,
+  "rally": () => import("./rally.json") as unknown as Promise<IOxford>,
+  "random": () => import("./random.json") as unknown as Promise<IOxford>,
+  "range": () => import("./range.json") as unknown as Promise<IOxford>,
+  "rank": () => import("./rank.json") as unknown as Promise<IOxford>,
+  "ranking": () => import("./ranking.json") as unknown as Promise<IOxford>,
+  "rape": () => import("./rape.json") as unknown as Promise<IOxford>,
+  "rapid": () => import("./rapid.json") as unknown as Promise<IOxford>,
+  "rapidly": () => import("./rapidly.json") as unknown as Promise<IOxford>,
+  "rare": () => import("./rare.json") as unknown as Promise<IOxford>,
+  "rarely": () => import("./rarely.json") as unknown as Promise<IOxford>,
+  "rash": () => import("./rash.json") as unknown as Promise<IOxford>,
+  "rat": () => import("./rat.json") as unknown as Promise<IOxford>,
+  "rate": () => import("./rate.json") as unknown as Promise<IOxford>,
+  "rather": () => import("./rather.json") as unknown as Promise<IOxford>,
+  "rating": () => import("./rating.json") as unknown as Promise<IOxford>,
+  "ratio": () => import("./ratio.json") as unknown as Promise<IOxford>,
+  "rational": () => import("./rational.json") as unknown as Promise<IOxford>,
+  "rave": () => import("./rave.json") as unknown as Promise<IOxford>,
+  "raw": () => import("./raw.json") as unknown as Promise<IOxford>,
+  "ray": () => import("./ray.json") as unknown as Promise<IOxford>,
 };

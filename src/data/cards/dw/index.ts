@@ -1,7 +1,5 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import dwindle_json from "./dwindle.json" with { type: "json" };
-
-export const dir_dw: Record<string, ICard> = {
-  "dwindle": dwindle_json as unknown as ICard,
+export const dir_dw: Record<string, () => Promise<IOxford>> = {
+  "dwindle": () => import("./dwindle.json") as unknown as Promise<IOxford>,
 };

@@ -1,13 +1,8 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import era_json from "./era.json" with { type: "json" };
-import erect_json from "./erect.json" with { type: "json" };
-import error_json from "./error.json" with { type: "json" };
-import erupt_json from "./erupt.json" with { type: "json" };
-
-export const dir_er: Record<string, ICard> = {
-  "era": era_json as unknown as ICard,
-  "erect": erect_json as unknown as ICard,
-  "error": error_json as unknown as ICard,
-  "erupt": erupt_json as unknown as ICard,
+export const dir_er: Record<string, () => Promise<IOxford>> = {
+  "era": () => import("./era.json") as unknown as Promise<IOxford>,
+  "erect": () => import("./erect.json") as unknown as Promise<IOxford>,
+  "error": () => import("./error.json") as unknown as Promise<IOxford>,
+  "erupt": () => import("./erupt.json") as unknown as Promise<IOxford>,
 };

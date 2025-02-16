@@ -1,13 +1,8 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import it_json from "./it.json" with { type: "json" };
-import item_json from "./item.json" with { type: "json" };
-import its_json from "./its.json" with { type: "json" };
-import itself_json from "./itself.json" with { type: "json" };
-
-export const dir_it: Record<string, ICard> = {
-  "it": it_json as unknown as ICard,
-  "item": item_json as unknown as ICard,
-  "its": its_json as unknown as ICard,
-  "itself": itself_json as unknown as ICard,
+export const dir_it: Record<string, () => Promise<IOxford>> = {
+  "it": () => import("./it.json") as unknown as Promise<IOxford>,
+  "item": () => import("./item.json") as unknown as Promise<IOxford>,
+  "its": () => import("./its.json") as unknown as Promise<IOxford>,
+  "itself": () => import("./itself.json") as unknown as Promise<IOxford>,
 };

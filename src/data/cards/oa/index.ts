@@ -1,7 +1,5 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import oath_json from "./oath.json" with { type: "json" };
-
-export const dir_oa: Record<string, ICard> = {
-  "oath": oath_json as unknown as ICard,
+export const dir_oa: Record<string, () => Promise<IOxford>> = {
+  "oath": () => import("./oath.json") as unknown as Promise<IOxford>,
 };

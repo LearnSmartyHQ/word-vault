@@ -1,35 +1,19 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import cigarette_json from "./cigarette.json" with { type: "json" };
-import cinema_json from "./cinema.json" with { type: "json" };
-import circle_json from "./circle.json" with { type: "json" };
-import circuit_json from "./circuit.json" with { type: "json" };
-import circulate_json from "./circulate.json" with { type: "json" };
-import circulation_json from "./circulation.json" with { type: "json" };
-import circumstance_json from "./circumstance.json" with { type: "json" };
-import cite_json from "./cite.json" with { type: "json" };
-import citizen_json from "./citizen.json" with { type: "json" };
-import citizenship_json from "./citizenship.json" with { type: "json" };
-import city_json from "./city.json" with { type: "json" };
-import civic_json from "./civic.json" with { type: "json" };
-import civil_json from "./civil.json" with { type: "json" };
-import civilian_json from "./civilian.json" with { type: "json" };
-import civilization_json from "./civilization.json" with { type: "json" };
-
-export const dir_ci: Record<string, ICard> = {
-  "cigarette": cigarette_json as unknown as ICard,
-  "cinema": cinema_json as unknown as ICard,
-  "circle": circle_json as unknown as ICard,
-  "circuit": circuit_json as unknown as ICard,
-  "circulate": circulate_json as unknown as ICard,
-  "circulation": circulation_json as unknown as ICard,
-  "circumstance": circumstance_json as unknown as ICard,
-  "cite": cite_json as unknown as ICard,
-  "citizen": citizen_json as unknown as ICard,
-  "citizenship": citizenship_json as unknown as ICard,
-  "city": city_json as unknown as ICard,
-  "civic": civic_json as unknown as ICard,
-  "civil": civil_json as unknown as ICard,
-  "civilian": civilian_json as unknown as ICard,
-  "civilization": civilization_json as unknown as ICard,
+export const dir_ci: Record<string, () => Promise<IOxford>> = {
+  "cigarette": () => import("./cigarette.json") as unknown as Promise<IOxford>,
+  "cinema": () => import("./cinema.json") as unknown as Promise<IOxford>,
+  "circle": () => import("./circle.json") as unknown as Promise<IOxford>,
+  "circuit": () => import("./circuit.json") as unknown as Promise<IOxford>,
+  "circulate": () => import("./circulate.json") as unknown as Promise<IOxford>,
+  "circulation": () => import("./circulation.json") as unknown as Promise<IOxford>,
+  "circumstance": () => import("./circumstance.json") as unknown as Promise<IOxford>,
+  "cite": () => import("./cite.json") as unknown as Promise<IOxford>,
+  "citizen": () => import("./citizen.json") as unknown as Promise<IOxford>,
+  "citizenship": () => import("./citizenship.json") as unknown as Promise<IOxford>,
+  "city": () => import("./city.json") as unknown as Promise<IOxford>,
+  "civic": () => import("./civic.json") as unknown as Promise<IOxford>,
+  "civil": () => import("./civil.json") as unknown as Promise<IOxford>,
+  "civilian": () => import("./civilian.json") as unknown as Promise<IOxford>,
+  "civilization": () => import("./civilization.json") as unknown as Promise<IOxford>,
 };

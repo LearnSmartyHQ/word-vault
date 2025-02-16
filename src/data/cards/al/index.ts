@@ -1,77 +1,40 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import alarm_json from "./alarm.json" with { type: "json" };
-import albeit_json from "./albeit.json" with { type: "json" };
-import album_json from "./album.json" with { type: "json" };
-import alcohol_json from "./alcohol.json" with { type: "json" };
-import alcoholic_json from "./alcoholic.json" with { type: "json" };
-import alert_json from "./alert.json" with { type: "json" };
-import alien_json from "./alien.json" with { type: "json" };
-import align_json from "./align.json" with { type: "json" };
-import alignment_json from "./alignment.json" with { type: "json" };
-import alike_json from "./alike.json" with { type: "json" };
-import alive_json from "./alive.json" with { type: "json" };
-import all_right_json from "./all-right.json" with { type: "json" };
-import all_json from "./all.json" with { type: "json" };
-import allegation_json from "./allegation.json" with { type: "json" };
-import allege_json from "./allege.json" with { type: "json" };
-import allegedly_json from "./allegedly.json" with { type: "json" };
-import alliance_json from "./alliance.json" with { type: "json" };
-import allocate_json from "./allocate.json" with { type: "json" };
-import allocation_json from "./allocation.json" with { type: "json" };
-import allow_json from "./allow.json" with { type: "json" };
-import allowance_json from "./allowance.json" with { type: "json" };
-import ally_json from "./ally.json" with { type: "json" };
-import almost_json from "./almost.json" with { type: "json" };
-import alone_json from "./alone.json" with { type: "json" };
-import along_json from "./along.json" with { type: "json" };
-import alongside_json from "./alongside.json" with { type: "json" };
-import already_json from "./already.json" with { type: "json" };
-import alright_json from "./alright.json" with { type: "json" };
-import also_json from "./also.json" with { type: "json" };
-import alter_json from "./alter.json" with { type: "json" };
-import alternative_json from "./alternative.json" with { type: "json" };
-import although_json from "./although.json" with { type: "json" };
-import altogether_json from "./altogether.json" with { type: "json" };
-import aluminium_json from "./aluminium.json" with { type: "json" };
-import aluminum_json from "./aluminum.json" with { type: "json" };
-import always_json from "./always.json" with { type: "json" };
-
-export const dir_al: Record<string, ICard> = {
-  "alarm": alarm_json as unknown as ICard,
-  "albeit": albeit_json as unknown as ICard,
-  "album": album_json as unknown as ICard,
-  "alcohol": alcohol_json as unknown as ICard,
-  "alcoholic": alcoholic_json as unknown as ICard,
-  "alert": alert_json as unknown as ICard,
-  "alien": alien_json as unknown as ICard,
-  "align": align_json as unknown as ICard,
-  "alignment": alignment_json as unknown as ICard,
-  "alike": alike_json as unknown as ICard,
-  "alive": alive_json as unknown as ICard,
-  "all-right": all_right_json as unknown as ICard,
-  "all": all_json as unknown as ICard,
-  "allegation": allegation_json as unknown as ICard,
-  "allege": allege_json as unknown as ICard,
-  "allegedly": allegedly_json as unknown as ICard,
-  "alliance": alliance_json as unknown as ICard,
-  "allocate": allocate_json as unknown as ICard,
-  "allocation": allocation_json as unknown as ICard,
-  "allow": allow_json as unknown as ICard,
-  "allowance": allowance_json as unknown as ICard,
-  "ally": ally_json as unknown as ICard,
-  "almost": almost_json as unknown as ICard,
-  "alone": alone_json as unknown as ICard,
-  "along": along_json as unknown as ICard,
-  "alongside": alongside_json as unknown as ICard,
-  "already": already_json as unknown as ICard,
-  "alright": alright_json as unknown as ICard,
-  "also": also_json as unknown as ICard,
-  "alter": alter_json as unknown as ICard,
-  "alternative": alternative_json as unknown as ICard,
-  "although": although_json as unknown as ICard,
-  "altogether": altogether_json as unknown as ICard,
-  "aluminium": aluminium_json as unknown as ICard,
-  "aluminum": aluminum_json as unknown as ICard,
-  "always": always_json as unknown as ICard,
+export const dir_al: Record<string, () => Promise<IOxford>> = {
+  "alarm": () => import("./alarm.json") as unknown as Promise<IOxford>,
+  "albeit": () => import("./albeit.json") as unknown as Promise<IOxford>,
+  "album": () => import("./album.json") as unknown as Promise<IOxford>,
+  "alcohol": () => import("./alcohol.json") as unknown as Promise<IOxford>,
+  "alcoholic": () => import("./alcoholic.json") as unknown as Promise<IOxford>,
+  "alert": () => import("./alert.json") as unknown as Promise<IOxford>,
+  "alien": () => import("./alien.json") as unknown as Promise<IOxford>,
+  "align": () => import("./align.json") as unknown as Promise<IOxford>,
+  "alignment": () => import("./alignment.json") as unknown as Promise<IOxford>,
+  "alike": () => import("./alike.json") as unknown as Promise<IOxford>,
+  "alive": () => import("./alive.json") as unknown as Promise<IOxford>,
+  "all-right": () => import("./all-right.json") as unknown as Promise<IOxford>,
+  "all": () => import("./all.json") as unknown as Promise<IOxford>,
+  "allegation": () => import("./allegation.json") as unknown as Promise<IOxford>,
+  "allege": () => import("./allege.json") as unknown as Promise<IOxford>,
+  "allegedly": () => import("./allegedly.json") as unknown as Promise<IOxford>,
+  "alliance": () => import("./alliance.json") as unknown as Promise<IOxford>,
+  "allocate": () => import("./allocate.json") as unknown as Promise<IOxford>,
+  "allocation": () => import("./allocation.json") as unknown as Promise<IOxford>,
+  "allow": () => import("./allow.json") as unknown as Promise<IOxford>,
+  "allowance": () => import("./allowance.json") as unknown as Promise<IOxford>,
+  "ally": () => import("./ally.json") as unknown as Promise<IOxford>,
+  "almost": () => import("./almost.json") as unknown as Promise<IOxford>,
+  "alone": () => import("./alone.json") as unknown as Promise<IOxford>,
+  "along": () => import("./along.json") as unknown as Promise<IOxford>,
+  "alongside": () => import("./alongside.json") as unknown as Promise<IOxford>,
+  "already": () => import("./already.json") as unknown as Promise<IOxford>,
+  "alright": () => import("./alright.json") as unknown as Promise<IOxford>,
+  "also": () => import("./also.json") as unknown as Promise<IOxford>,
+  "alter": () => import("./alter.json") as unknown as Promise<IOxford>,
+  "alternative": () => import("./alternative.json") as unknown as Promise<IOxford>,
+  "although": () => import("./although.json") as unknown as Promise<IOxford>,
+  "altogether": () => import("./altogether.json") as unknown as Promise<IOxford>,
+  "aluminium": () => import("./aluminium.json") as unknown as Promise<IOxford>,
+  "aluminum": () => import("./aluminum.json") as unknown as Promise<IOxford>,
+  "always": () => import("./always.json") as unknown as Promise<IOxford>,
 };

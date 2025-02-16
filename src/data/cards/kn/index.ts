@@ -1,19 +1,11 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import knee_json from "./knee.json" with { type: "json" };
-import kneel_json from "./kneel.json" with { type: "json" };
-import knife_json from "./knife.json" with { type: "json" };
-import knock_json from "./knock.json" with { type: "json" };
-import know_json from "./know.json" with { type: "json" };
-import knowledge_json from "./knowledge.json" with { type: "json" };
-import known_json from "./known.json" with { type: "json" };
-
-export const dir_kn: Record<string, ICard> = {
-  "knee": knee_json as unknown as ICard,
-  "kneel": kneel_json as unknown as ICard,
-  "knife": knife_json as unknown as ICard,
-  "knock": knock_json as unknown as ICard,
-  "know": know_json as unknown as ICard,
-  "knowledge": knowledge_json as unknown as ICard,
-  "known": known_json as unknown as ICard,
+export const dir_kn: Record<string, () => Promise<IOxford>> = {
+  "knee": () => import("./knee.json") as unknown as Promise<IOxford>,
+  "kneel": () => import("./kneel.json") as unknown as Promise<IOxford>,
+  "knife": () => import("./knife.json") as unknown as Promise<IOxford>,
+  "knock": () => import("./knock.json") as unknown as Promise<IOxford>,
+  "know": () => import("./know.json") as unknown as Promise<IOxford>,
+  "knowledge": () => import("./knowledge.json") as unknown as Promise<IOxford>,
+  "known": () => import("./known.json") as unknown as Promise<IOxford>,
 };

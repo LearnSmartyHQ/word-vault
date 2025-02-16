@@ -1,87 +1,45 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import crack_json from "./crack.json" with { type: "json" };
-import craft_json from "./craft.json" with { type: "json" };
-import crafty_json from "./crafty.json" with { type: "json" };
-import crash_json from "./crash.json" with { type: "json" };
-import crawl_json from "./crawl.json" with { type: "json" };
-import crazy_json from "./crazy.json" with { type: "json" };
-import cream_json from "./cream.json" with { type: "json" };
-import create_json from "./create.json" with { type: "json" };
-import creation_json from "./creation.json" with { type: "json" };
-import creative_json from "./creative.json" with { type: "json" };
-import creativity_json from "./creativity.json" with { type: "json" };
-import creator_json from "./creator.json" with { type: "json" };
-import creature_json from "./creature.json" with { type: "json" };
-import credibility_json from "./credibility.json" with { type: "json" };
-import credible_json from "./credible.json" with { type: "json" };
-import credit_card_json from "./credit-card.json" with { type: "json" };
-import credit_json from "./credit.json" with { type: "json" };
-import creep_json from "./creep.json" with { type: "json" };
-import crew_json from "./crew.json" with { type: "json" };
-import crime_json from "./crime.json" with { type: "json" };
-import criminal_json from "./criminal.json" with { type: "json" };
-import crisis_json from "./crisis.json" with { type: "json" };
-import criterion_json from "./criterion.json" with { type: "json" };
-import critic_json from "./critic.json" with { type: "json" };
-import critical_json from "./critical.json" with { type: "json" };
-import critically_json from "./critically.json" with { type: "json" };
-import criticism_json from "./criticism.json" with { type: "json" };
-import criticize_json from "./criticize.json" with { type: "json" };
-import critique_json from "./critique.json" with { type: "json" };
-import crop_json from "./crop.json" with { type: "json" };
-import cross_json from "./cross.json" with { type: "json" };
-import crowd_json from "./crowd.json" with { type: "json" };
-import crowded_json from "./crowded.json" with { type: "json" };
-import crown_json from "./crown.json" with { type: "json" };
-import crucial_json from "./crucial.json" with { type: "json" };
-import crude_json from "./crude.json" with { type: "json" };
-import cruel_json from "./cruel.json" with { type: "json" };
-import cruise_json from "./cruise.json" with { type: "json" };
-import crush_json from "./crush.json" with { type: "json" };
-import cry_json from "./cry.json" with { type: "json" };
-import crystal_json from "./crystal.json" with { type: "json" };
-
-export const dir_cr: Record<string, ICard> = {
-  "crack": crack_json as unknown as ICard,
-  "craft": craft_json as unknown as ICard,
-  "crafty": crafty_json as unknown as ICard,
-  "crash": crash_json as unknown as ICard,
-  "crawl": crawl_json as unknown as ICard,
-  "crazy": crazy_json as unknown as ICard,
-  "cream": cream_json as unknown as ICard,
-  "create": create_json as unknown as ICard,
-  "creation": creation_json as unknown as ICard,
-  "creative": creative_json as unknown as ICard,
-  "creativity": creativity_json as unknown as ICard,
-  "creator": creator_json as unknown as ICard,
-  "creature": creature_json as unknown as ICard,
-  "credibility": credibility_json as unknown as ICard,
-  "credible": credible_json as unknown as ICard,
-  "credit-card": credit_card_json as unknown as ICard,
-  "credit": credit_json as unknown as ICard,
-  "creep": creep_json as unknown as ICard,
-  "crew": crew_json as unknown as ICard,
-  "crime": crime_json as unknown as ICard,
-  "criminal": criminal_json as unknown as ICard,
-  "crisis": crisis_json as unknown as ICard,
-  "criterion": criterion_json as unknown as ICard,
-  "critic": critic_json as unknown as ICard,
-  "critical": critical_json as unknown as ICard,
-  "critically": critically_json as unknown as ICard,
-  "criticism": criticism_json as unknown as ICard,
-  "criticize": criticize_json as unknown as ICard,
-  "critique": critique_json as unknown as ICard,
-  "crop": crop_json as unknown as ICard,
-  "cross": cross_json as unknown as ICard,
-  "crowd": crowd_json as unknown as ICard,
-  "crowded": crowded_json as unknown as ICard,
-  "crown": crown_json as unknown as ICard,
-  "crucial": crucial_json as unknown as ICard,
-  "crude": crude_json as unknown as ICard,
-  "cruel": cruel_json as unknown as ICard,
-  "cruise": cruise_json as unknown as ICard,
-  "crush": crush_json as unknown as ICard,
-  "cry": cry_json as unknown as ICard,
-  "crystal": crystal_json as unknown as ICard,
+export const dir_cr: Record<string, () => Promise<IOxford>> = {
+  "crack": () => import("./crack.json") as unknown as Promise<IOxford>,
+  "craft": () => import("./craft.json") as unknown as Promise<IOxford>,
+  "crafty": () => import("./crafty.json") as unknown as Promise<IOxford>,
+  "crash": () => import("./crash.json") as unknown as Promise<IOxford>,
+  "crawl": () => import("./crawl.json") as unknown as Promise<IOxford>,
+  "crazy": () => import("./crazy.json") as unknown as Promise<IOxford>,
+  "cream": () => import("./cream.json") as unknown as Promise<IOxford>,
+  "create": () => import("./create.json") as unknown as Promise<IOxford>,
+  "creation": () => import("./creation.json") as unknown as Promise<IOxford>,
+  "creative": () => import("./creative.json") as unknown as Promise<IOxford>,
+  "creativity": () => import("./creativity.json") as unknown as Promise<IOxford>,
+  "creator": () => import("./creator.json") as unknown as Promise<IOxford>,
+  "creature": () => import("./creature.json") as unknown as Promise<IOxford>,
+  "credibility": () => import("./credibility.json") as unknown as Promise<IOxford>,
+  "credible": () => import("./credible.json") as unknown as Promise<IOxford>,
+  "credit-card": () => import("./credit-card.json") as unknown as Promise<IOxford>,
+  "credit": () => import("./credit.json") as unknown as Promise<IOxford>,
+  "creep": () => import("./creep.json") as unknown as Promise<IOxford>,
+  "crew": () => import("./crew.json") as unknown as Promise<IOxford>,
+  "crime": () => import("./crime.json") as unknown as Promise<IOxford>,
+  "criminal": () => import("./criminal.json") as unknown as Promise<IOxford>,
+  "crisis": () => import("./crisis.json") as unknown as Promise<IOxford>,
+  "criterion": () => import("./criterion.json") as unknown as Promise<IOxford>,
+  "critic": () => import("./critic.json") as unknown as Promise<IOxford>,
+  "critical": () => import("./critical.json") as unknown as Promise<IOxford>,
+  "critically": () => import("./critically.json") as unknown as Promise<IOxford>,
+  "criticism": () => import("./criticism.json") as unknown as Promise<IOxford>,
+  "criticize": () => import("./criticize.json") as unknown as Promise<IOxford>,
+  "critique": () => import("./critique.json") as unknown as Promise<IOxford>,
+  "crop": () => import("./crop.json") as unknown as Promise<IOxford>,
+  "cross": () => import("./cross.json") as unknown as Promise<IOxford>,
+  "crowd": () => import("./crowd.json") as unknown as Promise<IOxford>,
+  "crowded": () => import("./crowded.json") as unknown as Promise<IOxford>,
+  "crown": () => import("./crown.json") as unknown as Promise<IOxford>,
+  "crucial": () => import("./crucial.json") as unknown as Promise<IOxford>,
+  "crude": () => import("./crude.json") as unknown as Promise<IOxford>,
+  "cruel": () => import("./cruel.json") as unknown as Promise<IOxford>,
+  "cruise": () => import("./cruise.json") as unknown as Promise<IOxford>,
+  "crush": () => import("./crush.json") as unknown as Promise<IOxford>,
+  "cry": () => import("./cry.json") as unknown as Promise<IOxford>,
+  "crystal": () => import("./crystal.json") as unknown as Promise<IOxford>,
 };

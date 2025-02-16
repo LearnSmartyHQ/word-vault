@@ -1,15 +1,9 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import iron_json from "./iron.json" with { type: "json" };
-import ironic_json from "./ironic.json" with { type: "json" };
-import ironically_json from "./ironically.json" with { type: "json" };
-import irony_json from "./irony.json" with { type: "json" };
-import irrelevant_json from "./irrelevant.json" with { type: "json" };
-
-export const dir_ir: Record<string, ICard> = {
-  "iron": iron_json as unknown as ICard,
-  "ironic": ironic_json as unknown as ICard,
-  "ironically": ironically_json as unknown as ICard,
-  "irony": irony_json as unknown as ICard,
-  "irrelevant": irrelevant_json as unknown as ICard,
+export const dir_ir: Record<string, () => Promise<IOxford>> = {
+  "iron": () => import("./iron.json") as unknown as Promise<IOxford>,
+  "ironic": () => import("./ironic.json") as unknown as Promise<IOxford>,
+  "ironically": () => import("./ironically.json") as unknown as Promise<IOxford>,
+  "irony": () => import("./irony.json") as unknown as Promise<IOxford>,
+  "irrelevant": () => import("./irrelevant.json") as unknown as Promise<IOxford>,
 };

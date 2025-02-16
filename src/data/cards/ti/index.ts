@@ -1,43 +1,23 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import ticket_json from "./ticket.json" with { type: "json" };
-import tide_json from "./tide.json" with { type: "json" };
-import tidy_json from "./tidy.json" with { type: "json" };
-import tie_json from "./tie.json" with { type: "json" };
-import tight_json from "./tight.json" with { type: "json" };
-import tighten_json from "./tighten.json" with { type: "json" };
-import tile_json from "./tile.json" with { type: "json" };
-import till_json from "./till.json" with { type: "json" };
-import timber_json from "./timber.json" with { type: "json" };
-import time_json from "./time.json" with { type: "json" };
-import timely_json from "./timely.json" with { type: "json" };
-import timing_json from "./timing.json" with { type: "json" };
-import tin_json from "./tin.json" with { type: "json" };
-import tiny_json from "./tiny.json" with { type: "json" };
-import tip_json from "./tip.json" with { type: "json" };
-import tire_json from "./tire.json" with { type: "json" };
-import tired_json from "./tired.json" with { type: "json" };
-import tissue_json from "./tissue.json" with { type: "json" };
-import title_json from "./title.json" with { type: "json" };
-
-export const dir_ti: Record<string, ICard> = {
-  "ticket": ticket_json as unknown as ICard,
-  "tide": tide_json as unknown as ICard,
-  "tidy": tidy_json as unknown as ICard,
-  "tie": tie_json as unknown as ICard,
-  "tight": tight_json as unknown as ICard,
-  "tighten": tighten_json as unknown as ICard,
-  "tile": tile_json as unknown as ICard,
-  "till": till_json as unknown as ICard,
-  "timber": timber_json as unknown as ICard,
-  "time": time_json as unknown as ICard,
-  "timely": timely_json as unknown as ICard,
-  "timing": timing_json as unknown as ICard,
-  "tin": tin_json as unknown as ICard,
-  "tiny": tiny_json as unknown as ICard,
-  "tip": tip_json as unknown as ICard,
-  "tire": tire_json as unknown as ICard,
-  "tired": tired_json as unknown as ICard,
-  "tissue": tissue_json as unknown as ICard,
-  "title": title_json as unknown as ICard,
+export const dir_ti: Record<string, () => Promise<IOxford>> = {
+  "ticket": () => import("./ticket.json") as unknown as Promise<IOxford>,
+  "tide": () => import("./tide.json") as unknown as Promise<IOxford>,
+  "tidy": () => import("./tidy.json") as unknown as Promise<IOxford>,
+  "tie": () => import("./tie.json") as unknown as Promise<IOxford>,
+  "tight": () => import("./tight.json") as unknown as Promise<IOxford>,
+  "tighten": () => import("./tighten.json") as unknown as Promise<IOxford>,
+  "tile": () => import("./tile.json") as unknown as Promise<IOxford>,
+  "till": () => import("./till.json") as unknown as Promise<IOxford>,
+  "timber": () => import("./timber.json") as unknown as Promise<IOxford>,
+  "time": () => import("./time.json") as unknown as Promise<IOxford>,
+  "timely": () => import("./timely.json") as unknown as Promise<IOxford>,
+  "timing": () => import("./timing.json") as unknown as Promise<IOxford>,
+  "tin": () => import("./tin.json") as unknown as Promise<IOxford>,
+  "tiny": () => import("./tiny.json") as unknown as Promise<IOxford>,
+  "tip": () => import("./tip.json") as unknown as Promise<IOxford>,
+  "tire": () => import("./tire.json") as unknown as Promise<IOxford>,
+  "tired": () => import("./tired.json") as unknown as Promise<IOxford>,
+  "tissue": () => import("./tissue.json") as unknown as Promise<IOxford>,
+  "title": () => import("./title.json") as unknown as Promise<IOxford>,
 };

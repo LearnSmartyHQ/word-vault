@@ -1,13 +1,8 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import availability_json from "./availability.json" with { type: "json" };
-import available_json from "./available.json" with { type: "json" };
-import average_json from "./average.json" with { type: "json" };
-import avoid_json from "./avoid.json" with { type: "json" };
-
-export const dir_av: Record<string, ICard> = {
-  "availability": availability_json as unknown as ICard,
-  "available": available_json as unknown as ICard,
-  "average": average_json as unknown as ICard,
-  "avoid": avoid_json as unknown as ICard,
+export const dir_av: Record<string, () => Promise<IOxford>> = {
+  "availability": () => import("./availability.json") as unknown as Promise<IOxford>,
+  "available": () => import("./available.json") as unknown as Promise<IOxford>,
+  "average": () => import("./average.json") as unknown as Promise<IOxford>,
+  "avoid": () => import("./avoid.json") as unknown as Promise<IOxford>,
 };

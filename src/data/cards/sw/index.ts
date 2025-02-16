@@ -1,29 +1,16 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import swallow_json from "./swallow.json" with { type: "json" };
-import swap_json from "./swap.json" with { type: "json" };
-import swarm_json from "./swarm.json" with { type: "json" };
-import swear_json from "./swear.json" with { type: "json" };
-import sweater_json from "./sweater.json" with { type: "json" };
-import sweep_json from "./sweep.json" with { type: "json" };
-import sweet_json from "./sweet.json" with { type: "json" };
-import swim_json from "./swim.json" with { type: "json" };
-import swimming_json from "./swimming.json" with { type: "json" };
-import swing_json from "./swing.json" with { type: "json" };
-import switch_json from "./switch.json" with { type: "json" };
-import sword_json from "./sword.json" with { type: "json" };
-
-export const dir_sw: Record<string, ICard> = {
-  "swallow": swallow_json as unknown as ICard,
-  "swap": swap_json as unknown as ICard,
-  "swarm": swarm_json as unknown as ICard,
-  "swear": swear_json as unknown as ICard,
-  "sweater": sweater_json as unknown as ICard,
-  "sweep": sweep_json as unknown as ICard,
-  "sweet": sweet_json as unknown as ICard,
-  "swim": swim_json as unknown as ICard,
-  "swimming": swimming_json as unknown as ICard,
-  "swing": swing_json as unknown as ICard,
-  "switch": switch_json as unknown as ICard,
-  "sword": sword_json as unknown as ICard,
+export const dir_sw: Record<string, () => Promise<IOxford>> = {
+  "swallow": () => import("./swallow.json") as unknown as Promise<IOxford>,
+  "swap": () => import("./swap.json") as unknown as Promise<IOxford>,
+  "swarm": () => import("./swarm.json") as unknown as Promise<IOxford>,
+  "swear": () => import("./swear.json") as unknown as Promise<IOxford>,
+  "sweater": () => import("./sweater.json") as unknown as Promise<IOxford>,
+  "sweep": () => import("./sweep.json") as unknown as Promise<IOxford>,
+  "sweet": () => import("./sweet.json") as unknown as Promise<IOxford>,
+  "swim": () => import("./swim.json") as unknown as Promise<IOxford>,
+  "swimming": () => import("./swimming.json") as unknown as Promise<IOxford>,
+  "swing": () => import("./swing.json") as unknown as Promise<IOxford>,
+  "switch": () => import("./switch.json") as unknown as Promise<IOxford>,
+  "sword": () => import("./sword.json") as unknown as Promise<IOxford>,
 };

@@ -1,23 +1,13 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import vocal_json from "./vocal.json" with { type: "json" };
-import vocation_json from "./vocation.json" with { type: "json" };
-import voice_json from "./voice.json" with { type: "json" };
-import volume_json from "./volume.json" with { type: "json" };
-import voluntary_json from "./voluntary.json" with { type: "json" };
-import volunteer_json from "./volunteer.json" with { type: "json" };
-import vote_json from "./vote.json" with { type: "json" };
-import voting_json from "./voting.json" with { type: "json" };
-import vow_json from "./vow.json" with { type: "json" };
-
-export const dir_vo: Record<string, ICard> = {
-  "vocal": vocal_json as unknown as ICard,
-  "vocation": vocation_json as unknown as ICard,
-  "voice": voice_json as unknown as ICard,
-  "volume": volume_json as unknown as ICard,
-  "voluntary": voluntary_json as unknown as ICard,
-  "volunteer": volunteer_json as unknown as ICard,
-  "vote": vote_json as unknown as ICard,
-  "voting": voting_json as unknown as ICard,
-  "vow": vow_json as unknown as ICard,
+export const dir_vo: Record<string, () => Promise<IOxford>> = {
+  "vocal": () => import("./vocal.json") as unknown as Promise<IOxford>,
+  "vocation": () => import("./vocation.json") as unknown as Promise<IOxford>,
+  "voice": () => import("./voice.json") as unknown as Promise<IOxford>,
+  "volume": () => import("./volume.json") as unknown as Promise<IOxford>,
+  "voluntary": () => import("./voluntary.json") as unknown as Promise<IOxford>,
+  "volunteer": () => import("./volunteer.json") as unknown as Promise<IOxford>,
+  "vote": () => import("./vote.json") as unknown as Promise<IOxford>,
+  "voting": () => import("./voting.json") as unknown as Promise<IOxford>,
+  "vow": () => import("./vow.json") as unknown as Promise<IOxford>,
 };

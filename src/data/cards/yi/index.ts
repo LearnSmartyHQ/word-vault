@@ -1,7 +1,5 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import yield_json from "./yield.json" with { type: "json" };
-
-export const dir_yi: Record<string, ICard> = {
-  "yield": yield_json as unknown as ICard,
+export const dir_yi: Record<string, () => Promise<IOxford>> = {
+  "yield": () => import("./yield.json") as unknown as Promise<IOxford>,
 };

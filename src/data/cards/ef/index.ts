@@ -1,21 +1,12 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import effect_json from "./effect.json" with { type: "json" };
-import effective_json from "./effective.json" with { type: "json" };
-import effectively_json from "./effectively.json" with { type: "json" };
-import effectiveness_json from "./effectiveness.json" with { type: "json" };
-import efficiency_json from "./efficiency.json" with { type: "json" };
-import efficient_json from "./efficient.json" with { type: "json" };
-import efficiently_json from "./efficiently.json" with { type: "json" };
-import effort_json from "./effort.json" with { type: "json" };
-
-export const dir_ef: Record<string, ICard> = {
-  "effect": effect_json as unknown as ICard,
-  "effective": effective_json as unknown as ICard,
-  "effectively": effectively_json as unknown as ICard,
-  "effectiveness": effectiveness_json as unknown as ICard,
-  "efficiency": efficiency_json as unknown as ICard,
-  "efficient": efficient_json as unknown as ICard,
-  "efficiently": efficiently_json as unknown as ICard,
-  "effort": effort_json as unknown as ICard,
+export const dir_ef: Record<string, () => Promise<IOxford>> = {
+  "effect": () => import("./effect.json") as unknown as Promise<IOxford>,
+  "effective": () => import("./effective.json") as unknown as Promise<IOxford>,
+  "effectively": () => import("./effectively.json") as unknown as Promise<IOxford>,
+  "effectiveness": () => import("./effectiveness.json") as unknown as Promise<IOxford>,
+  "efficiency": () => import("./efficiency.json") as unknown as Promise<IOxford>,
+  "efficient": () => import("./efficient.json") as unknown as Promise<IOxford>,
+  "efficiently": () => import("./efficiently.json") as unknown as Promise<IOxford>,
+  "effort": () => import("./effort.json") as unknown as Promise<IOxford>,
 };

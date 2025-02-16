@@ -1,17 +1,10 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import twelve_json from "./twelve.json" with { type: "json" };
-import twenty_json from "./twenty.json" with { type: "json" };
-import twice_json from "./twice.json" with { type: "json" };
-import twin_json from "./twin.json" with { type: "json" };
-import twist_json from "./twist.json" with { type: "json" };
-import two_json from "./two.json" with { type: "json" };
-
-export const dir_tw: Record<string, ICard> = {
-  "twelve": twelve_json as unknown as ICard,
-  "twenty": twenty_json as unknown as ICard,
-  "twice": twice_json as unknown as ICard,
-  "twin": twin_json as unknown as ICard,
-  "twist": twist_json as unknown as ICard,
-  "two": two_json as unknown as ICard,
+export const dir_tw: Record<string, () => Promise<IOxford>> = {
+  "twelve": () => import("./twelve.json") as unknown as Promise<IOxford>,
+  "twenty": () => import("./twenty.json") as unknown as Promise<IOxford>,
+  "twice": () => import("./twice.json") as unknown as Promise<IOxford>,
+  "twin": () => import("./twin.json") as unknown as Promise<IOxford>,
+  "twist": () => import("./twist.json") as unknown as Promise<IOxford>,
+  "two": () => import("./two.json") as unknown as Promise<IOxford>,
 };

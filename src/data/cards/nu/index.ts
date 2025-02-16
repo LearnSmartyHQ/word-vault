@@ -1,25 +1,14 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import nuclear_json from "./nuclear.json" with { type: "json" };
-import nuisance_json from "./nuisance.json" with { type: "json" };
-import numb_json from "./numb.json" with { type: "json" };
-import number_json from "./number.json" with { type: "json" };
-import numerous_json from "./numerous.json" with { type: "json" };
-import nurse_json from "./nurse.json" with { type: "json" };
-import nursery_json from "./nursery.json" with { type: "json" };
-import nursing_json from "./nursing.json" with { type: "json" };
-import nut_json from "./nut.json" with { type: "json" };
-import nutrition_json from "./nutrition.json" with { type: "json" };
-
-export const dir_nu: Record<string, ICard> = {
-  "nuclear": nuclear_json as unknown as ICard,
-  "nuisance": nuisance_json as unknown as ICard,
-  "numb": numb_json as unknown as ICard,
-  "number": number_json as unknown as ICard,
-  "numerous": numerous_json as unknown as ICard,
-  "nurse": nurse_json as unknown as ICard,
-  "nursery": nursery_json as unknown as ICard,
-  "nursing": nursing_json as unknown as ICard,
-  "nut": nut_json as unknown as ICard,
-  "nutrition": nutrition_json as unknown as ICard,
+export const dir_nu: Record<string, () => Promise<IOxford>> = {
+  "nuclear": () => import("./nuclear.json") as unknown as Promise<IOxford>,
+  "nuisance": () => import("./nuisance.json") as unknown as Promise<IOxford>,
+  "numb": () => import("./numb.json") as unknown as Promise<IOxford>,
+  "number": () => import("./number.json") as unknown as Promise<IOxford>,
+  "numerous": () => import("./numerous.json") as unknown as Promise<IOxford>,
+  "nurse": () => import("./nurse.json") as unknown as Promise<IOxford>,
+  "nursery": () => import("./nursery.json") as unknown as Promise<IOxford>,
+  "nursing": () => import("./nursing.json") as unknown as Promise<IOxford>,
+  "nut": () => import("./nut.json") as unknown as Promise<IOxford>,
+  "nutrition": () => import("./nutrition.json") as unknown as Promise<IOxford>,
 };

@@ -1,35 +1,19 @@
-import { ICard } from "../../../types/i-card.js";
+import { IOxford } from "../../../types/index.js";
 
-import each_other_json from "./each-other.json" with { type: "json" };
-import each_json from "./each.json" with { type: "json" };
-import eager_json from "./eager.json" with { type: "json" };
-import ear_json from "./ear.json" with { type: "json" };
-import early_json from "./early.json" with { type: "json" };
-import earn_json from "./earn.json" with { type: "json" };
-import earnings_json from "./earnings.json" with { type: "json" };
-import earth_json from "./earth.json" with { type: "json" };
-import earthquake_json from "./earthquake.json" with { type: "json" };
-import ease_json from "./ease.json" with { type: "json" };
-import easily_json from "./easily.json" with { type: "json" };
-import east_json from "./east.json" with { type: "json" };
-import eastern_json from "./eastern.json" with { type: "json" };
-import easy_json from "./easy.json" with { type: "json" };
-import eat_json from "./eat.json" with { type: "json" };
-
-export const dir_ea: Record<string, ICard> = {
-  "each-other": each_other_json as unknown as ICard,
-  "each": each_json as unknown as ICard,
-  "eager": eager_json as unknown as ICard,
-  "ear": ear_json as unknown as ICard,
-  "early": early_json as unknown as ICard,
-  "earn": earn_json as unknown as ICard,
-  "earnings": earnings_json as unknown as ICard,
-  "earth": earth_json as unknown as ICard,
-  "earthquake": earthquake_json as unknown as ICard,
-  "ease": ease_json as unknown as ICard,
-  "easily": easily_json as unknown as ICard,
-  "east": east_json as unknown as ICard,
-  "eastern": eastern_json as unknown as ICard,
-  "easy": easy_json as unknown as ICard,
-  "eat": eat_json as unknown as ICard,
+export const dir_ea: Record<string, () => Promise<IOxford>> = {
+  "each-other": () => import("./each-other.json") as unknown as Promise<IOxford>,
+  "each": () => import("./each.json") as unknown as Promise<IOxford>,
+  "eager": () => import("./eager.json") as unknown as Promise<IOxford>,
+  "ear": () => import("./ear.json") as unknown as Promise<IOxford>,
+  "early": () => import("./early.json") as unknown as Promise<IOxford>,
+  "earn": () => import("./earn.json") as unknown as Promise<IOxford>,
+  "earnings": () => import("./earnings.json") as unknown as Promise<IOxford>,
+  "earth": () => import("./earth.json") as unknown as Promise<IOxford>,
+  "earthquake": () => import("./earthquake.json") as unknown as Promise<IOxford>,
+  "ease": () => import("./ease.json") as unknown as Promise<IOxford>,
+  "easily": () => import("./easily.json") as unknown as Promise<IOxford>,
+  "east": () => import("./east.json") as unknown as Promise<IOxford>,
+  "eastern": () => import("./eastern.json") as unknown as Promise<IOxford>,
+  "easy": () => import("./easy.json") as unknown as Promise<IOxford>,
+  "eat": () => import("./eat.json") as unknown as Promise<IOxford>,
 };
