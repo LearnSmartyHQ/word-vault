@@ -38,3 +38,7 @@ export interface ICollection {
     updatedAt?: string;
     categories: ICollectionCategory[];
 }
+
+export type IWordVaultCollections = {
+  [key: string]: ICollection;
+};
