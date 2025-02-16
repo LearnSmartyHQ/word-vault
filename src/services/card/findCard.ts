@@ -1,12 +1,12 @@
-import { cardImportMap } from '../../data/cards/importMap.js';
+import { wordVaultCards } from '../../data/cards/index.js';
 import type { IOxford } from '../../types/index.js';
 
 export async function findCard(id: string): Promise<IOxford | null> {
 
-  if (cardImportMap[id]) {
+  if (wordVaultCards[id]) {
     try {
-      const data = await cardImportMap[id]();
-      return data.default as IOxford;
+      const data = await wordVaultCards[id]();
+      return data;
     } catch (error) {
       console.debug(`❌ Error loading card for ID: ${id}`, error);
       return null;

@@ -208,7 +208,7 @@ import { dir_yo } from "./yo/index.js";
 import { dir_ze } from "./ze/index.js";
 import { dir_zo } from "./zo/index.js";
 
-export const cards: Record<string, () => Promise<IOxford>> = {
+export const wordVaultCards: Record<string, () => Promise<IOxford>> = {
   ...dir_a,
   ...dir_ab,
   ...dir_ac,
