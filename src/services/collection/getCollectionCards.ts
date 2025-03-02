@@ -8,11 +8,13 @@ export function getCollectionCards(collectionSlug: string): string[] | null {
   }
 
   const words = new Set<string>();
-  collection.categories.forEach((category) => {
-    category.cards.forEach((lesson) => {
-      lesson.forEach((word) => words.add(word));
-    });
-  });
+  for (const category of collection.categories) {
+    for (const lesson of category.cards) {
+      for (const word of lesson) {
+        words.add(word);
+      }
+    }
+  }
 
   return Array.from(words);
 }
