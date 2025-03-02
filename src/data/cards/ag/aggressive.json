@@ -1,130 +1,130 @@
 {
-  "term": "aggressive",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "angry, and behaving in a threatening way; ready to attack",
-      "sensetop": "aggressive towards somebody",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Seals have been known to exhibit **aggressive behaviour** towards swimmers."
-        },
-        {
-          "text": "They **became** increasingly **aggressive** as the evening wore on."
-        },
-        {
-          "text": "There's no need to get aggressive."
-        },
-        {
-          "text": "She warned that her dog was aggressive towards strangers.",
-          "contextForm": "aggressive towards somebody"
-        },
-        {
-          "text": "a dangerous aggressive dog"
-        },
-        {
-          "text": "That was an unnecessarily aggressive response."
-        },
-        {
-          "text": "Their new approach is less openly aggressive."
-        },
-        {
-          "text": "Can watching violence on TV make children more aggressive?"
-        },
-        {
-          "text": "As a teenager I could be aggressive and moody."
-        },
-        {
-          "text": "It is important at all times to discourage aggressive behaviour in young children."
-        }
-      ],
-      "topics": ["Feelings"],
-      "collocations": {
-        "verbs": ["be", "look", "seem"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["towards/​toward", "with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "determined and acting with force in order to succeed",
-      "sensetop": "aggressive in somethingaggressive in doing something",
-      "labels": "(sometimes disapproving)",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a very **aggressive** advertising **campaign**"
-        },
-        {
-          "text": "We need to get more aggressive in our approach.",
-          "contextForm": "aggressive in something"
-        },
-        {
-          "text": "The firm is extremely aggressive in seeking new markets.",
-          "contextForm": "aggressive in doing something"
-        },
-        {
-          "text": "A good salesperson has to be aggressive in today's competitive market."
-        },
-        {
-          "text": "I was put off by her aggressive sales pitch."
-        },
-        {
-          "text": "He thrilled the crowd with his aggressive driving style on the track."
-        },
-        {
-          "text": "the company's highly aggressive marketing techniques"
-        }
-      ],
-      "topics": ["Success"],
-      "collocations": {
-        "verbs": ["be", "look", "seem"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["towards/​toward", "with"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "developing quickly and difficult to treat",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "Doctors diagnosed her with a rare and aggressive cancer, which was feared to be incurable."
-        }
-      ],
-      "topics": ["Health problems"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "using all possible treatment options in order to extend somebody’s life",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "Nicholas was diagnosed with the rare disease in November and has undergone aggressive treatments since then."
-        }
-      ],
-      "topics": ["Healthcare"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/əˈɡresɪv/",
-        "audio": "ag/aggressive/aggressive__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/əˈɡresɪv/",
-        "audio": "ag/aggressive/aggressive__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 19th cent.: from Latin aggress- ‘attacked’ (from the verb aggredi) + -ive; compare with French agressif, -ive."
+	"term": "aggressive",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "angry, and behaving in a threatening way; ready to attack",
+			"sensetop": "aggressive towards somebody",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Seals have been known to exhibit **aggressive behaviour** towards swimmers."
+				},
+				{
+					"text": "They **became** increasingly **aggressive** as the evening wore on."
+				},
+				{
+					"text": "There's no need to get aggressive."
+				},
+				{
+					"text": "She warned that her dog was aggressive towards strangers.",
+					"contextForm": "aggressive towards somebody"
+				},
+				{
+					"text": "a dangerous aggressive dog"
+				},
+				{
+					"text": "That was an unnecessarily aggressive response."
+				},
+				{
+					"text": "Their new approach is less openly aggressive."
+				},
+				{
+					"text": "Can watching violence on TV make children more aggressive?"
+				},
+				{
+					"text": "As a teenager I could be aggressive and moody."
+				},
+				{
+					"text": "It is important at all times to discourage aggressive behaviour in young children."
+				}
+			],
+			"topics": ["Feelings"],
+			"collocations": {
+				"verbs": ["be", "look", "seem"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["towards/​toward", "with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "determined and acting with force in order to succeed",
+			"sensetop": "aggressive in somethingaggressive in doing something",
+			"labels": "(sometimes disapproving)",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a very **aggressive** advertising **campaign**"
+				},
+				{
+					"text": "We need to get more aggressive in our approach.",
+					"contextForm": "aggressive in something"
+				},
+				{
+					"text": "The firm is extremely aggressive in seeking new markets.",
+					"contextForm": "aggressive in doing something"
+				},
+				{
+					"text": "A good salesperson has to be aggressive in today's competitive market."
+				},
+				{
+					"text": "I was put off by her aggressive sales pitch."
+				},
+				{
+					"text": "He thrilled the crowd with his aggressive driving style on the track."
+				},
+				{
+					"text": "the company's highly aggressive marketing techniques"
+				}
+			],
+			"topics": ["Success"],
+			"collocations": {
+				"verbs": ["be", "look", "seem"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["towards/​toward", "with"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "developing quickly and difficult to treat",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "Doctors diagnosed her with a rare and aggressive cancer, which was feared to be incurable."
+				}
+			],
+			"topics": ["Health problems"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "using all possible treatment options in order to extend somebody’s life",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "Nicholas was diagnosed with the rare disease in November and has undergone aggressive treatments since then."
+				}
+			],
+			"topics": ["Healthcare"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/əˈɡresɪv/",
+				"audio": "ag/aggressive/aggressive__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/əˈɡresɪv/",
+				"audio": "ag/aggressive/aggressive__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 19th cent.: from Latin aggress- ‘attacked’ (from the verb aggredi) + -ive; compare with French agressif, -ive."
 }

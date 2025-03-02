@@ -1,131 +1,131 @@
 {
-  "term": "import",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a product or service that is brought into one country from another",
-      "sensetop": "import from…import into/to…",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "food imports from abroad",
-          "contextForm": "import from…"
-        },
-        {
-          "text": "cheap imports into the United States",
-          "contextForm": "import into/to…"
-        },
-        {
-          "text": "America has cut its oil imports from the Middle East by 73%."
-        },
-        {
-          "text": "Imports were valued at £516 million last month."
-        },
-        {
-          "text": "Special duties were imposed on imports into the republic."
-        },
-        {
-          "text": "The value of annual imports rose rapidly."
-        }
-      ],
-      "topics": ["Money"],
-      "collocations": {
-        "adjective": ["main", "major", "foreign"],
-        "verb + import": ["boost", "cut", "limit"],
-        "import + verb": ["grow", "increase", "rise"],
-        "import + noun": ["ban", "control", "restrictions"],
-        "preposition": ["import from", "import into"],
-        "phrases": [
-          "a ban on imports",
-          "a restriction on imports",
-          "the demand for imports"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the act of bringing a product or service into one country from another",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The report calls for a ban on the import of hazardous waste."
-        },
-        {
-          "text": "imports of oil"
-        },
-        {
-          "text": "**import duties/tariffs**"
-        },
-        {
-          "text": "import controls/restrictions/quotas"
-        },
-        {
-          "text": "an import licence"
-        },
-        {
-          "text": "A restricted import quota was set for meat products."
-        },
-        {
-          "text": "the UK's net imports of food"
-        },
-        {
-          "text": "Most of their oil revenues are used to finance imports of consumer and capital goods."
-        }
-      ],
-      "topics": ["Money"],
-      "collocations": {
-        "adjective": ["main", "major", "foreign"],
-        "verb + import": ["boost", "cut", "limit"],
-        "import + verb": ["grow", "increase", "rise"],
-        "import + noun": ["ban", "control", "restrictions"],
-        "preposition": ["import from", "import into"],
-        "phrases": [
-          "a ban on imports",
-          "a restriction on imports",
-          "the demand for imports"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "importance",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "matters of great import"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the meaning of something, especially when it is not immediately clear",
-      "sensetop": "the import (of something)",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "It is difficult to understand the full import of this statement."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈɪmpɔːt/",
-        "audio": "im/import/import__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈɪmpɔːrt/",
-        "audio": "im/import/import__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘signify’): from Latin importare ‘bring in’ (in medieval Latin ‘imply, mean, be of consequence’), from in- ‘in’ + portare ‘carry’."
+	"term": "import",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a product or service that is brought into one country from another",
+			"sensetop": "import from…import into/to…",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "food imports from abroad",
+					"contextForm": "import from…"
+				},
+				{
+					"text": "cheap imports into the United States",
+					"contextForm": "import into/to…"
+				},
+				{
+					"text": "America has cut its oil imports from the Middle East by 73%."
+				},
+				{
+					"text": "Imports were valued at £516 million last month."
+				},
+				{
+					"text": "Special duties were imposed on imports into the republic."
+				},
+				{
+					"text": "The value of annual imports rose rapidly."
+				}
+			],
+			"topics": ["Money"],
+			"collocations": {
+				"adjective": ["main", "major", "foreign"],
+				"verb + import": ["boost", "cut", "limit"],
+				"import + verb": ["grow", "increase", "rise"],
+				"import + noun": ["ban", "control", "restrictions"],
+				"preposition": ["import from", "import into"],
+				"phrases": [
+					"a ban on imports",
+					"a restriction on imports",
+					"the demand for imports"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the act of bringing a product or service into one country from another",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The report calls for a ban on the import of hazardous waste."
+				},
+				{
+					"text": "imports of oil"
+				},
+				{
+					"text": "**import duties/tariffs**"
+				},
+				{
+					"text": "import controls/restrictions/quotas"
+				},
+				{
+					"text": "an import licence"
+				},
+				{
+					"text": "A restricted import quota was set for meat products."
+				},
+				{
+					"text": "the UK's net imports of food"
+				},
+				{
+					"text": "Most of their oil revenues are used to finance imports of consumer and capital goods."
+				}
+			],
+			"topics": ["Money"],
+			"collocations": {
+				"adjective": ["main", "major", "foreign"],
+				"verb + import": ["boost", "cut", "limit"],
+				"import + verb": ["grow", "increase", "rise"],
+				"import + noun": ["ban", "control", "restrictions"],
+				"preposition": ["import from", "import into"],
+				"phrases": [
+					"a ban on imports",
+					"a restriction on imports",
+					"the demand for imports"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "importance",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "matters of great import"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the meaning of something, especially when it is not immediately clear",
+			"sensetop": "the import (of something)",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "It is difficult to understand the full import of this statement."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈɪmpɔːt/",
+				"audio": "im/import/import__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈɪmpɔːrt/",
+				"audio": "im/import/import__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘signify’): from Latin importare ‘bring in’ (in medieval Latin ‘imply, mean, be of consequence’), from in- ‘in’ + portare ‘carry’."
 }

@@ -1,107 +1,107 @@
 {
-  "term": "mediate",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "mediate",
-      "heSheIt": "mediates"
-    },
-    "pastSimple": "mediated",
-    "pastParticiple": "mediated",
-    "ingForm": "mediating"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to try to end a situation between two or more people or groups who disagree by talking to them and trying to find things that everyone can agree on",
-      "sensetop": "mediate (in something)mediate between A and Bmediate something",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "The Secretary-General was asked to mediate in the dispute.",
-          "contextForm": "mediate (in something)"
-        },
-        {
-          "text": "An independent body was brought in to mediate between staff and management.",
-          "contextForm": "mediate between A and B"
-        },
-        {
-          "text": "Wilson tried to mediate between the European powers to end the war."
-        },
-        {
-          "text": "to **mediate differences/disputes/problems**",
-          "contextForm": "mediate something"
-        }
-      ],
-      "topics": ["Discussion and agreement"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to succeed in finding a solution to a problem between people or groups who disagree",
-      "sensetop": "mediate something",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "They mediated a settlement."
-        },
-        {
-          "text": "The UN attempted to mediate a solution to the conflict."
-        }
-      ],
-      "synonyms": "negotiate",
-      "topics": ["Discussion and agreement"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to influence something and/or make it possible for it to happen",
-      "sensetop": "be mediated (by something)",
-      "labels": "(formal or specialist)",
-      "examples": [
-        {
-          "text": "Educational success is mediated by economic factors.",
-          "contextForm": "be mediated (by something)"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmiːdieɪt/",
-        "audio": "me/mediate/mediate__gb_4.mp3"
-      },
-      {
-        "pronunciation": "/ˈmiːdieɪts/",
-        "audio": "me/mediate/mediates__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmiːdieɪtɪd/",
-        "audio": "me/mediate/mediated__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmiːdieɪtɪŋ/",
-        "audio": "me/mediate/mediating__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmiːdieɪt/",
-        "audio": "me/mediate/mediate__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmiːdieɪts/",
-        "audio": "me/mediate/mediates__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmiːdieɪtɪd/",
-        "audio": "me/mediate/mediated__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmiːdieɪtɪŋ/",
-        "audio": "me/mediate/mediating__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (as an adjective in the sense ‘interposed’): from late Latin mediatus ‘placed in the middle’, past participle of the verb mediare, from Latin medius ‘middle’."
+	"term": "mediate",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "mediate",
+			"heSheIt": "mediates"
+		},
+		"pastSimple": "mediated",
+		"pastParticiple": "mediated",
+		"ingForm": "mediating"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to try to end a situation between two or more people or groups who disagree by talking to them and trying to find things that everyone can agree on",
+			"sensetop": "mediate (in something)mediate between A and Bmediate something",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "The Secretary-General was asked to mediate in the dispute.",
+					"contextForm": "mediate (in something)"
+				},
+				{
+					"text": "An independent body was brought in to mediate between staff and management.",
+					"contextForm": "mediate between A and B"
+				},
+				{
+					"text": "Wilson tried to mediate between the European powers to end the war."
+				},
+				{
+					"text": "to **mediate differences/disputes/problems**",
+					"contextForm": "mediate something"
+				}
+			],
+			"topics": ["Discussion and agreement"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to succeed in finding a solution to a problem between people or groups who disagree",
+			"sensetop": "mediate something",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "They mediated a settlement."
+				},
+				{
+					"text": "The UN attempted to mediate a solution to the conflict."
+				}
+			],
+			"synonyms": "negotiate",
+			"topics": ["Discussion and agreement"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to influence something and/or make it possible for it to happen",
+			"sensetop": "be mediated (by something)",
+			"labels": "(formal or specialist)",
+			"examples": [
+				{
+					"text": "Educational success is mediated by economic factors.",
+					"contextForm": "be mediated (by something)"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmiːdieɪt/",
+				"audio": "me/mediate/mediate__gb_4.mp3"
+			},
+			{
+				"pronunciation": "/ˈmiːdieɪts/",
+				"audio": "me/mediate/mediates__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmiːdieɪtɪd/",
+				"audio": "me/mediate/mediated__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmiːdieɪtɪŋ/",
+				"audio": "me/mediate/mediating__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmiːdieɪt/",
+				"audio": "me/mediate/mediate__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmiːdieɪts/",
+				"audio": "me/mediate/mediates__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmiːdieɪtɪd/",
+				"audio": "me/mediate/mediated__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmiːdieɪtɪŋ/",
+				"audio": "me/mediate/mediating__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (as an adjective in the sense ‘interposed’): from late Latin mediatus ‘placed in the middle’, past participle of the verb mediare, from Latin medius ‘middle’."
 }

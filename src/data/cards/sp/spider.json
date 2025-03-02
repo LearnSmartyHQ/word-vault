@@ -1,49 +1,49 @@
 {
-  "term": "spider",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "image": "data/images/ar/arachnids.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a small creature with eight thin legs. Many spiders spin webs to catch insects for food.",
-      "examples": [
-        {
-          "text": "a poisonous spider"
-        },
-        {
-          "text": "She stared in horror at the hairy black spider."
-        },
-        {
-          "text": "In the film, giant spiders attack a town in Arizona."
-        },
-        {
-          "text": "I was bitten by a spider."
-        }
-      ],
-      "topics": ["Insects, worms, etc."],
-      "collocations": {
-        "adjective": ["big", "huge", "large"],
-        "spider + verb": ["make a web", "spin a web", "weave a web"],
-        "spider + noun": ["silk", "web"],
-        "phrases": ["a spider’s web"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈspaɪdə(r)/",
-        "audio": "sp/spider/spider__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈspaɪdər/",
-        "audio": "sp/spider/spider__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Old English spīthra, from spinnan ‘draw out and twist (fibre)’; related to German spinnen."
+	"term": "spider",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"image": "data/images/ar/arachnids.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a small creature with eight thin legs. Many spiders spin webs to catch insects for food.",
+			"examples": [
+				{
+					"text": "a poisonous spider"
+				},
+				{
+					"text": "She stared in horror at the hairy black spider."
+				},
+				{
+					"text": "In the film, giant spiders attack a town in Arizona."
+				},
+				{
+					"text": "I was bitten by a spider."
+				}
+			],
+			"topics": ["Insects, worms, etc."],
+			"collocations": {
+				"adjective": ["big", "huge", "large"],
+				"spider + verb": ["make a web", "spin a web", "weave a web"],
+				"spider + noun": ["silk", "web"],
+				"phrases": ["a spider’s web"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈspaɪdə(r)/",
+				"audio": "sp/spider/spider__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈspaɪdər/",
+				"audio": "sp/spider/spider__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Old English spīthra, from spinnan ‘draw out and twist (fibre)’; related to German spinnen."
 }

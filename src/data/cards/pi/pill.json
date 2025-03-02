@@ -1,93 +1,93 @@
 {
-  "term": "pill",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a small flat round piece of medicine that you swallow whole, without biting it",
-      "labels": "(informal)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a vitamin pill"
-        },
-        {
-          "text": "Take three pills daily after meals."
-        },
-        {
-          "text": "**pill-popping** *(= the act of taking too many pills or using illegal drugs)*"
-        },
-        {
-          "text": "The doctor prescribed her some pills to help her sleep."
-        },
-        {
-          "text": "I was on various pills for my heart condition."
-        }
-      ],
-      "topics": ["Healthcare"],
-      "collocations": {
-        "adjective": ["diet", "sleeping", "vitamin"],
-        "… of pills": ["bottle"],
-        "verb + pill": ["pop", "swallow", "take"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a pill that some women take to prevent them becoming pregnant",
-      "sensetop": "on the pill",
-      "examples": [
-        {
-          "text": "the contraceptive pill"
-        },
-        {
-          "text": "to be/go on the pill",
-          "contextForm": "on the pill"
-        },
-        {
-          "text": "Her doctor put her on the pill at 16."
-        }
-      ],
-      "collocations": {
-        "adjective": ["birth-control", "contraceptive", "abortion"],
-        "verb + the pill": ["be on", "go on", "use"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "an annoying person",
-      "labels": "(North American English)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "a fact or an event that is unpleasant and difficult to accept",
-      "examples": [
-        {
-          "text": "The election defeat was a bitter pill for the party to swallow."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to do something that makes an unpleasant situation seem less unpleasant",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/pɪl/",
-        "audio": "pi/pill/pill__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/pɪl/",
-        "audio": "pi/pill/pill__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "noun late Middle English: ultimately from Latin pilula ‘little ball’, diminutive of pila; compare with Middle Dutch, Middle Low German pille."
+	"term": "pill",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a small flat round piece of medicine that you swallow whole, without biting it",
+			"labels": "(informal)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a vitamin pill"
+				},
+				{
+					"text": "Take three pills daily after meals."
+				},
+				{
+					"text": "**pill-popping** *(= the act of taking too many pills or using illegal drugs)*"
+				},
+				{
+					"text": "The doctor prescribed her some pills to help her sleep."
+				},
+				{
+					"text": "I was on various pills for my heart condition."
+				}
+			],
+			"topics": ["Healthcare"],
+			"collocations": {
+				"adjective": ["diet", "sleeping", "vitamin"],
+				"… of pills": ["bottle"],
+				"verb + pill": ["pop", "swallow", "take"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a pill that some women take to prevent them becoming pregnant",
+			"sensetop": "on the pill",
+			"examples": [
+				{
+					"text": "the contraceptive pill"
+				},
+				{
+					"text": "to be/go on the pill",
+					"contextForm": "on the pill"
+				},
+				{
+					"text": "Her doctor put her on the pill at 16."
+				}
+			],
+			"collocations": {
+				"adjective": ["birth-control", "contraceptive", "abortion"],
+				"verb + the pill": ["be on", "go on", "use"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "an annoying person",
+			"labels": "(North American English)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "a fact or an event that is unpleasant and difficult to accept",
+			"examples": [
+				{
+					"text": "The election defeat was a bitter pill for the party to swallow."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to do something that makes an unpleasant situation seem less unpleasant",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/pɪl/",
+				"audio": "pi/pill/pill__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/pɪl/",
+				"audio": "pi/pill/pill__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "noun late Middle English: ultimately from Latin pilula ‘little ball’, diminutive of pila; compare with Middle Dutch, Middle Low German pille."
 }

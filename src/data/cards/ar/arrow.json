@@ -1,103 +1,103 @@
 {
-  "term": "arrow",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "image": "data/images/sp/sports_misc.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a thin stick with a sharp point at one end, which is shot from a bow",
-      "examples": [
-        {
-          "text": "a **bow and arrow**"
-        },
-        {
-          "text": "to **fire/shoot an arrow**"
-        },
-        {
-          "text": "The road continues as straight as an arrow."
-        },
-        {
-          "text": "A hail of arrows descended from the tower."
-        },
-        {
-          "text": "An arrow whizzed past his head."
-        },
-        {
-          "text": "He drew two arrows and placed them in the bow."
-        },
-        {
-          "text": "She aimed carefully at the tree but the arrow missed."
-        },
-        {
-          "text": "She strung an arrow to her bow."
-        },
-        {
-          "text": "The arrow hit its target."
-        },
-        {
-          "text": "They used bows and arrows for hunting."
-        },
-        {
-          "text": "the arrow slits in the castle's battlements"
-        }
-      ],
-      "topics": ["History", "Sports: other sports", "War and conflict"],
-      "collocations": {
-        "adjective": ["poison", "poisoned"],
-        "… of arrows": ["hail", "volley"],
-        "verb + arrow": ["fire", "release", "shoot"],
-        "arrow + verb": ["fly", "shoot", "whizz"],
-        "arrow + noun": ["head", "point", "tip"],
-        "phrases": ["a bow and arrow"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "a mark or sign like an arrow (➞), used to show direction or position",
-      "examples": [
-        {
-          "text": "Follow the arrows."
-        },
-        {
-          "text": "Use the arrow keys to move the cursor."
-        },
-        {
-          "text": "You will see an arrow pointing to the left."
-        },
-        {
-          "text": "The down arrow indicates rain."
-        },
-        {
-          "text": "The old road is shown on the map by broken arrows."
-        }
-      ],
-      "collocations": {
-        "adjective": ["left", "right", "down"],
-        "verb + arrow": ["follow"],
-        "arrow + verb": [
-          "denote something",
-          "indicate something",
-          "mark something"
-        ],
-        "arrow + noun": ["key"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈærəʊ/",
-        "audio": "ar/arrow/arrow__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈærəʊ/",
-        "audio": "ar/arrow/arrow__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English arewe, arwe, from Old Norse."
+	"term": "arrow",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"image": "data/images/sp/sports_misc.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a thin stick with a sharp point at one end, which is shot from a bow",
+			"examples": [
+				{
+					"text": "a **bow and arrow**"
+				},
+				{
+					"text": "to **fire/shoot an arrow**"
+				},
+				{
+					"text": "The road continues as straight as an arrow."
+				},
+				{
+					"text": "A hail of arrows descended from the tower."
+				},
+				{
+					"text": "An arrow whizzed past his head."
+				},
+				{
+					"text": "He drew two arrows and placed them in the bow."
+				},
+				{
+					"text": "She aimed carefully at the tree but the arrow missed."
+				},
+				{
+					"text": "She strung an arrow to her bow."
+				},
+				{
+					"text": "The arrow hit its target."
+				},
+				{
+					"text": "They used bows and arrows for hunting."
+				},
+				{
+					"text": "the arrow slits in the castle's battlements"
+				}
+			],
+			"topics": ["History", "Sports: other sports", "War and conflict"],
+			"collocations": {
+				"adjective": ["poison", "poisoned"],
+				"… of arrows": ["hail", "volley"],
+				"verb + arrow": ["fire", "release", "shoot"],
+				"arrow + verb": ["fly", "shoot", "whizz"],
+				"arrow + noun": ["head", "point", "tip"],
+				"phrases": ["a bow and arrow"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "a mark or sign like an arrow (➞), used to show direction or position",
+			"examples": [
+				{
+					"text": "Follow the arrows."
+				},
+				{
+					"text": "Use the arrow keys to move the cursor."
+				},
+				{
+					"text": "You will see an arrow pointing to the left."
+				},
+				{
+					"text": "The down arrow indicates rain."
+				},
+				{
+					"text": "The old road is shown on the map by broken arrows."
+				}
+			],
+			"collocations": {
+				"adjective": ["left", "right", "down"],
+				"verb + arrow": ["follow"],
+				"arrow + verb": [
+					"denote something",
+					"indicate something",
+					"mark something"
+				],
+				"arrow + noun": ["key"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈærəʊ/",
+				"audio": "ar/arrow/arrow__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈærəʊ/",
+				"audio": "ar/arrow/arrow__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English arewe, arwe, from Old Norse."
 }

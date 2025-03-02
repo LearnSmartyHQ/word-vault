@@ -1,140 +1,140 @@
 {
-  "term": "accurate",
-  "partOfSpeech": "adjective",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "correct and true in every detail",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "an **accurate description/picture** of something"
-        },
-        {
-          "text": "Accurate measurements are essential."
-        },
-        {
-          "text": "I'm not convinced the reports are accurate."
-        },
-        {
-          "text": "The film is not **historically accurate**."
-        },
-        {
-          "text": "an accurate prediction/estimate/assessment"
-        },
-        {
-          "text": "an accurate representation/portrayal"
-        },
-        {
-          "text": "scientifically accurate information/data"
-        },
-        {
-          "text": "reasonably/entirely/fairly accurate"
-        },
-        {
-          "text": "The cost is an accurate reflection of the quality of our products."
-        },
-        {
-          "text": "Although this book is historically accurate, it is not a history book."
-        },
-        {
-          "text": "He gave a full and accurate account of his movements."
-        },
-        {
-          "text": "Her assessment turned out to be remarkably accurate."
-        },
-        {
-          "text": "His predictions proved accurate."
-        },
-        {
-          "text": "The figures he gave were not strictly accurate."
-        },
-        {
-          "text": "Can we be sure the figures are accurate?"
-        },
-        {
-          "text": "His description of the man was not very accurate."
-        },
-        {
-          "text": "The novel wasn't intended to be historically accurate."
-        },
-        {
-          "text": "The test results are accurate in 99% of cases."
-        },
-        {
-          "text": "Results are accurate to within 0.2 seconds."
-        },
-        {
-          "text": "Accurate records must be kept."
-        },
-        {
-          "text": "The police are trying to obtain a more accurate picture of crime levels."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "prove"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["to"],
-        "phrases": ["full and accurate"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "able to give completely correct information or to do something in an exact way",
-      "sensetop": "accurate (to) within something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a highly accurate electronic compass"
-        },
-        {
-          "text": "My watch is not very accurate."
-        },
-        {
-          "text": "Scientists have found a more accurate way of dating cave paintings."
-        },
-        {
-          "text": "Huygens was able to build a clock accurate to within ten seconds in a day.",
-          "contextForm": "accurate (to) within something"
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "prove"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["to"],
-        "phrases": ["full and accurate"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "an accurate throw, shot, weapon, etc. hits or reaches the thing that it was aimed at",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "There were only two accurate shots on goal."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈækjərət/",
-        "audio": "ac/accurate/accurate__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈækjərət/",
-        "audio": "ac/accurate/accurate__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent.: from Latin accuratus ‘done with care’, past participle of accurare, from ad- ‘towards’ + cura ‘care’."
+	"term": "accurate",
+	"partOfSpeech": "adjective",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "correct and true in every detail",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "an **accurate description/picture** of something"
+				},
+				{
+					"text": "Accurate measurements are essential."
+				},
+				{
+					"text": "I'm not convinced the reports are accurate."
+				},
+				{
+					"text": "The film is not **historically accurate**."
+				},
+				{
+					"text": "an accurate prediction/estimate/assessment"
+				},
+				{
+					"text": "an accurate representation/portrayal"
+				},
+				{
+					"text": "scientifically accurate information/data"
+				},
+				{
+					"text": "reasonably/entirely/fairly accurate"
+				},
+				{
+					"text": "The cost is an accurate reflection of the quality of our products."
+				},
+				{
+					"text": "Although this book is historically accurate, it is not a history book."
+				},
+				{
+					"text": "He gave a full and accurate account of his movements."
+				},
+				{
+					"text": "Her assessment turned out to be remarkably accurate."
+				},
+				{
+					"text": "His predictions proved accurate."
+				},
+				{
+					"text": "The figures he gave were not strictly accurate."
+				},
+				{
+					"text": "Can we be sure the figures are accurate?"
+				},
+				{
+					"text": "His description of the man was not very accurate."
+				},
+				{
+					"text": "The novel wasn't intended to be historically accurate."
+				},
+				{
+					"text": "The test results are accurate in 99% of cases."
+				},
+				{
+					"text": "Results are accurate to within 0.2 seconds."
+				},
+				{
+					"text": "Accurate records must be kept."
+				},
+				{
+					"text": "The police are trying to obtain a more accurate picture of crime levels."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "prove"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["to"],
+				"phrases": ["full and accurate"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "able to give completely correct information or to do something in an exact way",
+			"sensetop": "accurate (to) within something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a highly accurate electronic compass"
+				},
+				{
+					"text": "My watch is not very accurate."
+				},
+				{
+					"text": "Scientists have found a more accurate way of dating cave paintings."
+				},
+				{
+					"text": "Huygens was able to build a clock accurate to within ten seconds in a day.",
+					"contextForm": "accurate (to) within something"
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "prove"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["to"],
+				"phrases": ["full and accurate"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "an accurate throw, shot, weapon, etc. hits or reaches the thing that it was aimed at",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "There were only two accurate shots on goal."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈækjərət/",
+				"audio": "ac/accurate/accurate__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈækjərət/",
+				"audio": "ac/accurate/accurate__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent.: from Latin accuratus ‘done with care’, past participle of accurare, from ad- ‘towards’ + cura ‘care’."
 }

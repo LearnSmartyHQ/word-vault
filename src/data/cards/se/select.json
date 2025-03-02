@@ -1,148 +1,148 @@
 {
-  "term": "select",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "select",
-      "heSheIt": "selects"
-    },
-    "pastSimple": "selected",
-    "pastParticiple": "selected",
-    "ingForm": "selecting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to choose somebody/something from a group of people or things, usually according to a system",
-      "sensetop": "select somebody/something for somethingselect somebody/something as somethingselect somebody/somethingselect somebody/something to do somethingselect what, which, etc.select from something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He hasn't been selected for the team.",
-          "contextForm": "select somebody/something for something"
-        },
-        {
-          "text": "All our hotels have been **carefully selected** for the excellent value they provide."
-        },
-        {
-          "text": "She was selected as the parliamentary candidate for Bath.",
-          "contextForm": "select somebody/something as something"
-        },
-        {
-          "text": "a **randomly selected** sample of 23 schools",
-          "contextForm": "select somebody/something"
-        },
-        {
-          "text": "selected poems of T.S. Eliot"
-        },
-        {
-          "text": "This model is available at selected stores only."
-        },
-        {
-          "text": "She selected an apple from the fruit bowl."
-        },
-        {
-          "text": "It is important to select a software package that suits your requirements."
-        },
-        {
-          "text": "Six theatre companies have been selected to take part in this year's festival.",
-          "contextForm": "select somebody/something to do something"
-        },
-        {
-          "text": "Select what you want from the options available.",
-          "contextForm": "select what, which, etc."
-        },
-        {
-          "text": "They could select from a range of choices depending on their interests and skills.",
-          "contextForm": "select from something"
-        },
-        {
-          "text": "Students select modules according to their interests."
-        },
-        {
-          "text": "The program automatically selects and stores the most frequently used data."
-        },
-        {
-          "text": "The winning entry will be selected at random by computer."
-        },
-        {
-          "text": "They were selected as finalists for this year's awards."
-        },
-        {
-          "text": "They were selected on the basis of size."
-        },
-        {
-          "text": "This anthology is well selected and presented."
-        },
-        {
-          "text": "Although this was a very highly selected study group, the results were in agreement with our findings."
-        }
-      ],
-      "collocations": {
-        "adverb": ["carefully", "specially", "specifically"],
-        "verb + select": ["allow somebody to", "enable somebody to"],
-        "preposition": ["according to", "as", "for"],
-        "phrases": ["be selected on the basis of", "well selected"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to mark something on a computer screen; to choose something, especially from a menu",
-      "sensetop": "select something",
-      "labels": "(computing)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Select the text you want to format by holding down the left button on your mouse."
-        },
-        {
-          "text": "Select ‘New Mail’ from the ‘Send’ menu."
-        }
-      ],
-      "topics": ["Computers"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/sɪˈlekt/",
-        "audio": "se/select/select__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/sɪˈlekts/",
-        "audio": "se/select/selects__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/sɪˈlektɪd/",
-        "audio": "se/select/selected__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/sɪˈlektɪŋ/",
-        "audio": "se/select/selecting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/sɪˈlekt/",
-        "audio": "se/select/select__us_1.mp3"
-      },
-      {
-        "pronunciation": "/sɪˈlekts/",
-        "audio": "se/select/selects__us_1.mp3"
-      },
-      {
-        "pronunciation": "/sɪˈlektɪd/",
-        "audio": "se/select/selected__us_1.mp3"
-      },
-      {
-        "pronunciation": "/sɪˈlektɪŋ/",
-        "audio": "se/select/selecting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent.: from Latin select- ‘chosen’, from the verb seligere, from se- ‘apart’ + legere ‘choose’."
+	"term": "select",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "select",
+			"heSheIt": "selects"
+		},
+		"pastSimple": "selected",
+		"pastParticiple": "selected",
+		"ingForm": "selecting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to choose somebody/something from a group of people or things, usually according to a system",
+			"sensetop": "select somebody/something for somethingselect somebody/something as somethingselect somebody/somethingselect somebody/something to do somethingselect what, which, etc.select from something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He hasn't been selected for the team.",
+					"contextForm": "select somebody/something for something"
+				},
+				{
+					"text": "All our hotels have been **carefully selected** for the excellent value they provide."
+				},
+				{
+					"text": "She was selected as the parliamentary candidate for Bath.",
+					"contextForm": "select somebody/something as something"
+				},
+				{
+					"text": "a **randomly selected** sample of 23 schools",
+					"contextForm": "select somebody/something"
+				},
+				{
+					"text": "selected poems of T.S. Eliot"
+				},
+				{
+					"text": "This model is available at selected stores only."
+				},
+				{
+					"text": "She selected an apple from the fruit bowl."
+				},
+				{
+					"text": "It is important to select a software package that suits your requirements."
+				},
+				{
+					"text": "Six theatre companies have been selected to take part in this year's festival.",
+					"contextForm": "select somebody/something to do something"
+				},
+				{
+					"text": "Select what you want from the options available.",
+					"contextForm": "select what, which, etc."
+				},
+				{
+					"text": "They could select from a range of choices depending on their interests and skills.",
+					"contextForm": "select from something"
+				},
+				{
+					"text": "Students select modules according to their interests."
+				},
+				{
+					"text": "The program automatically selects and stores the most frequently used data."
+				},
+				{
+					"text": "The winning entry will be selected at random by computer."
+				},
+				{
+					"text": "They were selected as finalists for this year's awards."
+				},
+				{
+					"text": "They were selected on the basis of size."
+				},
+				{
+					"text": "This anthology is well selected and presented."
+				},
+				{
+					"text": "Although this was a very highly selected study group, the results were in agreement with our findings."
+				}
+			],
+			"collocations": {
+				"adverb": ["carefully", "specially", "specifically"],
+				"verb + select": ["allow somebody to", "enable somebody to"],
+				"preposition": ["according to", "as", "for"],
+				"phrases": ["be selected on the basis of", "well selected"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to mark something on a computer screen; to choose something, especially from a menu",
+			"sensetop": "select something",
+			"labels": "(computing)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Select the text you want to format by holding down the left button on your mouse."
+				},
+				{
+					"text": "Select ‘New Mail’ from the ‘Send’ menu."
+				}
+			],
+			"topics": ["Computers"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/sɪˈlekt/",
+				"audio": "se/select/select__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/sɪˈlekts/",
+				"audio": "se/select/selects__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/sɪˈlektɪd/",
+				"audio": "se/select/selected__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/sɪˈlektɪŋ/",
+				"audio": "se/select/selecting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/sɪˈlekt/",
+				"audio": "se/select/select__us_1.mp3"
+			},
+			{
+				"pronunciation": "/sɪˈlekts/",
+				"audio": "se/select/selects__us_1.mp3"
+			},
+			{
+				"pronunciation": "/sɪˈlektɪd/",
+				"audio": "se/select/selected__us_1.mp3"
+			},
+			{
+				"pronunciation": "/sɪˈlektɪŋ/",
+				"audio": "se/select/selecting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent.: from Latin select- ‘chosen’, from the verb seligere, from se- ‘apart’ + legere ‘choose’."
 }

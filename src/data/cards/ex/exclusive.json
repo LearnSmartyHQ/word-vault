@@ -1,127 +1,127 @@
 {
-  "term": "exclusive",
-  "partOfSpeech": "adjective",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "only to be used by one particular person or group; only given to one particular person or group",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The hotel has exclusive access to the beach."
-        },
-        {
-          "text": "exclusive rights to televise the World Cup"
-        },
-        {
-          "text": "His mother has told ‘The Times’ about his death in an exclusive interview *(= not given to any other newspaper)*."
-        },
-        {
-          "text": "The recording deal is not necessarily exclusive. The band can record material for other companies as well."
-        },
-        {
-          "text": "These products are exclusive to our outlets."
-        },
-        {
-          "text": "the course's almost exclusive concentration on grammar (= it includes almost nothing else)"
-        }
-      ],
-      "collocations": {
-        "verbs": ["be"],
-        "adverb": ["almost", "not necessarily"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "not very willing to allow new people to become members, especially if they are from a lower social class",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "He belongs to an exclusive club."
-        },
-        {
-          "text": "Their clientele was exclusive and wealthy."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "become", "remain"],
-        "adverb": ["extremely", "fairly", "very"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "of a high quality and expensive and therefore not often bought or used by most people",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "an exclusive hotel"
-        },
-        {
-          "text": "exclusive designer clothes"
-        },
-        {
-          "text": "She had been sent to one of London's most exclusive girls' schools."
-        },
-        {
-          "text": "It is one of the most expensive, exclusive resorts in the Mediterranean."
-        }
-      ],
-      "topics": ["Buildings"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "not including anything else",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "He had an exclusive focus on success and making money."
-        },
-        {
-          "text": "This list is not exclusive."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "not including somebody/something",
-      "sensetop": "exclusive of somebody/something",
-      "examples": [
-        {
-          "text": "The price is for accommodation only, exclusive of meals."
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "not able to exist or be a true statement at the same time as something else",
-      "examples": [
-        {
-          "text": "The two options are not **mutually exclusive** *(= you can have them both)*."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be"],
-        "adverb": ["mutually"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪkˈskluːsɪv/",
-        "audio": "ex/exclusive/exclusive__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪkˈskluːsɪv/",
-        "audio": "ex/exclusive/exclusive__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 15th cent. (as a noun denoting something that excludes): from medieval Latin exclusivus, from Latin excludere ‘shut out’, from ex- ‘out’ + claudere ‘to shut’."
+	"term": "exclusive",
+	"partOfSpeech": "adjective",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "only to be used by one particular person or group; only given to one particular person or group",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The hotel has exclusive access to the beach."
+				},
+				{
+					"text": "exclusive rights to televise the World Cup"
+				},
+				{
+					"text": "His mother has told ‘The Times’ about his death in an exclusive interview *(= not given to any other newspaper)*."
+				},
+				{
+					"text": "The recording deal is not necessarily exclusive. The band can record material for other companies as well."
+				},
+				{
+					"text": "These products are exclusive to our outlets."
+				},
+				{
+					"text": "the course's almost exclusive concentration on grammar (= it includes almost nothing else)"
+				}
+			],
+			"collocations": {
+				"verbs": ["be"],
+				"adverb": ["almost", "not necessarily"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "not very willing to allow new people to become members, especially if they are from a lower social class",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "He belongs to an exclusive club."
+				},
+				{
+					"text": "Their clientele was exclusive and wealthy."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "become", "remain"],
+				"adverb": ["extremely", "fairly", "very"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "of a high quality and expensive and therefore not often bought or used by most people",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "an exclusive hotel"
+				},
+				{
+					"text": "exclusive designer clothes"
+				},
+				{
+					"text": "She had been sent to one of London's most exclusive girls' schools."
+				},
+				{
+					"text": "It is one of the most expensive, exclusive resorts in the Mediterranean."
+				}
+			],
+			"topics": ["Buildings"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "not including anything else",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "He had an exclusive focus on success and making money."
+				},
+				{
+					"text": "This list is not exclusive."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "not including somebody/something",
+			"sensetop": "exclusive of somebody/something",
+			"examples": [
+				{
+					"text": "The price is for accommodation only, exclusive of meals."
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "not able to exist or be a true statement at the same time as something else",
+			"examples": [
+				{
+					"text": "The two options are not **mutually exclusive** *(= you can have them both)*."
+				}
+			],
+			"collocations": {
+				"verbs": ["be"],
+				"adverb": ["mutually"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪkˈskluːsɪv/",
+				"audio": "ex/exclusive/exclusive__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪkˈskluːsɪv/",
+				"audio": "ex/exclusive/exclusive__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 15th cent. (as a noun denoting something that excludes): from medieval Latin exclusivus, from Latin excludere ‘shut out’, from ex- ‘out’ + claudere ‘to shut’."
 }

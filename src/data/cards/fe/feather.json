@@ -1,100 +1,100 @@
 {
-  "term": "feather",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b2",
-  "image": "data/images/bi/birds.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "one of the many soft light parts covering a bird’s body",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a peacock feather"
-        },
-        {
-          "text": "tail/flight/wing feathers"
-        },
-        {
-          "text": "a feather pillow *(= one containing feathers)*"
-        },
-        {
-          "text": "I had to pluck the dead hen's feathers."
-        },
-        {
-          "text": "Its feathers were ruffled by the chill breeze."
-        },
-        {
-          "text": "The chicks have grown their adult feathers."
-        },
-        {
-          "text": "The owl fluffed out its feathers."
-        },
-        {
-          "text": "a fledgling with new flight feathers"
-        },
-        {
-          "text": "a swan preening its feathers"
-        },
-        {
-          "text": "the downy feathers on the duck's breast"
-        }
-      ],
-      "topics": ["Birds"],
-      "collocations": {
-        "adjective": ["breast", "neck", "tail"],
-        "verb + feather": ["preen", "fluff", "fluff out"],
-        "feather + noun": ["bed", "mattress", "pillow"],
-        "phrases": ["as light as a feather"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "people of the same sort (are found together)",
-      "labels": "(saying)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "an action that you can be proud of",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to annoy or upset somebody or a group of people",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "The senator's speech ruffled a few feathers in the business world."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to make somebody feel less angry or offended",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to express surprise",
-      "labels": "(informal)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈfeðə(r)/",
-        "audio": "fe/feather/feather__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈfeðər/",
-        "audio": "fe/feather/feather__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English fether, of Germanic origin; related to Dutch veer and German Feder, from an Indo-European root shared by Sanskrit patra ‘wing’, Latin penna ‘feather’, and Greek pteron, pterux ‘wing’."
+	"term": "feather",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b2",
+	"image": "data/images/bi/birds.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "one of the many soft light parts covering a bird’s body",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a peacock feather"
+				},
+				{
+					"text": "tail/flight/wing feathers"
+				},
+				{
+					"text": "a feather pillow *(= one containing feathers)*"
+				},
+				{
+					"text": "I had to pluck the dead hen's feathers."
+				},
+				{
+					"text": "Its feathers were ruffled by the chill breeze."
+				},
+				{
+					"text": "The chicks have grown their adult feathers."
+				},
+				{
+					"text": "The owl fluffed out its feathers."
+				},
+				{
+					"text": "a fledgling with new flight feathers"
+				},
+				{
+					"text": "a swan preening its feathers"
+				},
+				{
+					"text": "the downy feathers on the duck's breast"
+				}
+			],
+			"topics": ["Birds"],
+			"collocations": {
+				"adjective": ["breast", "neck", "tail"],
+				"verb + feather": ["preen", "fluff", "fluff out"],
+				"feather + noun": ["bed", "mattress", "pillow"],
+				"phrases": ["as light as a feather"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "people of the same sort (are found together)",
+			"labels": "(saying)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "an action that you can be proud of",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to annoy or upset somebody or a group of people",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "The senator's speech ruffled a few feathers in the business world."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to make somebody feel less angry or offended",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to express surprise",
+			"labels": "(informal)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈfeðə(r)/",
+				"audio": "fe/feather/feather__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈfeðər/",
+				"audio": "fe/feather/feather__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English fether, of Germanic origin; related to Dutch veer and German Feder, from an Indo-European root shared by Sanskrit patra ‘wing’, Latin penna ‘feather’, and Greek pteron, pterux ‘wing’."
 }

@@ -1,96 +1,96 @@
 {
-  "term": "enrich",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "enrich",
-      "heSheIt": "enriches"
-    },
-    "pastSimple": "enriched",
-    "pastParticiple": "enriched",
-    "ingForm": "enriching"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to improve the quality of something, often by adding something to it",
-      "sensetop": "enrich something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The study of science has enriched all our lives."
-        },
-        {
-          "text": "Reading good literature can enrich all our lives."
-        },
-        {
-          "text": "The educational experience of the group is enriched by contact with Spanish speakers."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to improve the quality of food by adding vitamins or nutrients",
-      "sensetop": "enrich something (with something)",
-      "examples": [
-        {
-          "text": "Most breakfast cereals are enriched with vitamins."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to make somebody/something rich or richer",
-      "sensetop": "enrich somebody/something",
-      "examples": [
-        {
-          "text": "a nation enriched by oil revenues"
-        },
-        {
-          "text": "He used his position to enrich himself."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈrɪtʃ/",
-        "audio": "en/enrich/enrich__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈrɪtʃɪz/",
-        "audio": "en/enrich/enriches__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈrɪtʃt/",
-        "audio": "en/enrich/enriched__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈrɪtʃɪŋ/",
-        "audio": "en/enrich/enriching__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈrɪtʃ/",
-        "audio": "en/enrich/enrich__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈrɪtʃɪz/",
-        "audio": "en/enrich/enriches__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈrɪtʃt/",
-        "audio": "en/enrich/enriched__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈrɪtʃɪŋ/",
-        "audio": "en/enrich/enriching__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘make wealthy’): from Old French enrichir, from en- ‘in’ + riche ‘rich’."
+	"term": "enrich",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "enrich",
+			"heSheIt": "enriches"
+		},
+		"pastSimple": "enriched",
+		"pastParticiple": "enriched",
+		"ingForm": "enriching"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to improve the quality of something, often by adding something to it",
+			"sensetop": "enrich something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The study of science has enriched all our lives."
+				},
+				{
+					"text": "Reading good literature can enrich all our lives."
+				},
+				{
+					"text": "The educational experience of the group is enriched by contact with Spanish speakers."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to improve the quality of food by adding vitamins or nutrients",
+			"sensetop": "enrich something (with something)",
+			"examples": [
+				{
+					"text": "Most breakfast cereals are enriched with vitamins."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to make somebody/something rich or richer",
+			"sensetop": "enrich somebody/something",
+			"examples": [
+				{
+					"text": "a nation enriched by oil revenues"
+				},
+				{
+					"text": "He used his position to enrich himself."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈrɪtʃ/",
+				"audio": "en/enrich/enrich__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈrɪtʃɪz/",
+				"audio": "en/enrich/enriches__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈrɪtʃt/",
+				"audio": "en/enrich/enriched__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈrɪtʃɪŋ/",
+				"audio": "en/enrich/enriching__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈrɪtʃ/",
+				"audio": "en/enrich/enrich__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈrɪtʃɪz/",
+				"audio": "en/enrich/enriches__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈrɪtʃt/",
+				"audio": "en/enrich/enriched__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈrɪtʃɪŋ/",
+				"audio": "en/enrich/enriching__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘make wealthy’): from Old French enrichir, from en- ‘in’ + riche ‘rich’."
 }

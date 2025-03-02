@@ -1,172 +1,172 @@
 {
-  "term": "chip",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "image": "data/images/br/broken_chipped_cracked.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a long thin piece of potato fried in oil or fat",
-      "labels": "(British English)North American English, British English",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He was eating a burger and chips."
-        },
-        {
-          "text": "a bag of chips"
-        },
-        {
-          "text": "All main courses are served with chips or baked potato."
-        },
-        {
-          "text": "All he'll eat is chips."
-        },
-        {
-          "text": "I never cook anything grand—we live on chips and baked beans."
-        }
-      ],
-      "topics": ["Food"],
-      "collocations": {
-        "adjective": ["greasy", "frozen", "oven-ready"],
-        "… of chips": ["bag", "plate"],
-        "verb + chip": ["eat", "have", "live on"],
-        "chip + noun": ["pan", "shop"],
-        "phrases": ["and chips", "with chips"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a thin round slice of potato that is fried until hard then dried and eaten cold. Chips are sold in bags and are made to taste of many different foods.",
-      "labels": "(both North American English)British English",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a bag of chips"
-        }
-      ],
-      "collocations": {
-        "adjective": ["potato", "tortilla"],
-        "… of chips": ["bag"],
-        "phrases": ["chips and dip", "chips and salsa"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a small flat hard piece of food, often like a triangle in shape, made from maize",
-      "examples": []
-    },
-    {
-      "senseNumber": 5,
-      "definition": "the place from which a small piece of wood, glass, etc. has broken from an object",
-      "examples": [
-        {
-          "text": "This mug has a chip in it."
-        },
-        {
-          "text": "She had a slight chip off her front tooth."
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "a small piece of wood, glass, etc. that has broken or been broken off an object",
-      "examples": [
-        {
-          "text": "chips of wood"
-        },
-        {
-          "text": "**chocolate chip** cookies *(= biscuits containing small pieces of chocolate)*"
-        },
-        {
-          "text": "The gutted raw fish are smoked slowly over wood chips."
-        }
-      ]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "a small flat piece of plastic used to represent a particular amount of money in some types of gambling",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "a poker chip"
-        }
-      ],
-      "topics": ["Money"]
-    },
-    {
-      "senseNumber": 8,
-      "definition": "an act of hitting or kicking a ball high in the air so that it lands within a short distance",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "She left herself with a short chip to the green."
-        }
-      ],
-      "topics": ["Sports: ball and racket sports"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to die",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "He cashed in his chips last summer aged 65."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "a person who is very similar to their mother or father in the way that they look or behave",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be sensitive about something that happened in the past and become easily offended if it is mentioned because you think that you were treated unfairly",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "He has a real chip on his shoulder about not being chosen for the team."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be in a situation in which you are certain to be defeated or killed",
-      "labels": "(British English, informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to refer to a difficult situation in which you are forced to decide what is important to you",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "I'm not sure what I'll do when the chips are down."
-        },
-        {
-          "text": "When the chips are down he always finds the courage to carry on."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/tʃɪp/",
-        "audio": "ch/chip/chip__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/tʃɪp/",
-        "audio": "ch/chip/chip__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: related to Old English forcippian ‘cut off’."
+	"term": "chip",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"image": "data/images/br/broken_chipped_cracked.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a long thin piece of potato fried in oil or fat",
+			"labels": "(British English)North American English, British English",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He was eating a burger and chips."
+				},
+				{
+					"text": "a bag of chips"
+				},
+				{
+					"text": "All main courses are served with chips or baked potato."
+				},
+				{
+					"text": "All he'll eat is chips."
+				},
+				{
+					"text": "I never cook anything grand—we live on chips and baked beans."
+				}
+			],
+			"topics": ["Food"],
+			"collocations": {
+				"adjective": ["greasy", "frozen", "oven-ready"],
+				"… of chips": ["bag", "plate"],
+				"verb + chip": ["eat", "have", "live on"],
+				"chip + noun": ["pan", "shop"],
+				"phrases": ["and chips", "with chips"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a thin round slice of potato that is fried until hard then dried and eaten cold. Chips are sold in bags and are made to taste of many different foods.",
+			"labels": "(both North American English)British English",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a bag of chips"
+				}
+			],
+			"collocations": {
+				"adjective": ["potato", "tortilla"],
+				"… of chips": ["bag"],
+				"phrases": ["chips and dip", "chips and salsa"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a small flat hard piece of food, often like a triangle in shape, made from maize",
+			"examples": []
+		},
+		{
+			"senseNumber": 5,
+			"definition": "the place from which a small piece of wood, glass, etc. has broken from an object",
+			"examples": [
+				{
+					"text": "This mug has a chip in it."
+				},
+				{
+					"text": "She had a slight chip off her front tooth."
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "a small piece of wood, glass, etc. that has broken or been broken off an object",
+			"examples": [
+				{
+					"text": "chips of wood"
+				},
+				{
+					"text": "**chocolate chip** cookies *(= biscuits containing small pieces of chocolate)*"
+				},
+				{
+					"text": "The gutted raw fish are smoked slowly over wood chips."
+				}
+			]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "a small flat piece of plastic used to represent a particular amount of money in some types of gambling",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "a poker chip"
+				}
+			],
+			"topics": ["Money"]
+		},
+		{
+			"senseNumber": 8,
+			"definition": "an act of hitting or kicking a ball high in the air so that it lands within a short distance",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "She left herself with a short chip to the green."
+				}
+			],
+			"topics": ["Sports: ball and racket sports"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to die",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "He cashed in his chips last summer aged 65."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "a person who is very similar to their mother or father in the way that they look or behave",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be sensitive about something that happened in the past and become easily offended if it is mentioned because you think that you were treated unfairly",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "He has a real chip on his shoulder about not being chosen for the team."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be in a situation in which you are certain to be defeated or killed",
+			"labels": "(British English, informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to refer to a difficult situation in which you are forced to decide what is important to you",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "I'm not sure what I'll do when the chips are down."
+				},
+				{
+					"text": "When the chips are down he always finds the courage to carry on."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/tʃɪp/",
+				"audio": "ch/chip/chip__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/tʃɪp/",
+				"audio": "ch/chip/chip__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: related to Old English forcippian ‘cut off’."
 }

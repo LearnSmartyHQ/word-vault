@@ -1,123 +1,123 @@
 {
-  "term": "hunger",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the state of not having enough food to eat, especially when this causes illness or death",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Around fifty people die of hunger every day in the camp."
-        },
-        {
-          "text": "The organization works to alleviate world hunger and disease."
-        },
-        {
-          "text": "Thousands of people have died of hunger."
-        },
-        {
-          "text": "the campaign to end world hunger"
-        }
-      ],
-      "topics": ["Social issues"],
-      "collocations": {
-        "adjective": ["extreme", "constant", "global"],
-        "verb + hunger": ["feel", "be weak from", "be weak with"],
-        "hunger + noun": ["pangs", "strike"],
-        "phrases": ["pangs of hunger"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the feeling caused by a need to eat",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "If you feel hunger pangs between meals, eat some fruit or nuts."
-        },
-        {
-          "text": "I felt faint with hunger."
-        },
-        {
-          "text": "The new snack bar will keep those hunger pangs at bay."
-        },
-        {
-          "text": "mid-morning, when those hunger pangs strike"
-        },
-        {
-          "text": "The meal had not satisfied his hunger."
-        },
-        {
-          "text": "The walkers were weak from hunger."
-        },
-        {
-          "text": "Any good weight loss regime should not lead to extreme hunger."
-        },
-        {
-          "text": "It is usual to feel hunger during exercise."
-        },
-        {
-          "text": "Perhaps the cat was killing to satisfy hunger."
-        }
-      ],
-      "topics": ["Feelings"],
-      "collocations": {
-        "adjective": ["extreme", "constant", "global"],
-        "verb + hunger": ["feel", "be weak from", "be weak with"],
-        "hunger + noun": ["pangs", "strike"],
-        "phrases": ["pangs of hunger"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a strong desire for something",
-      "sensetop": "hunger (for something)",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She has an insatiable hunger for knowledge."
-        },
-        {
-          "text": "Nothing seemed to satisfy their hunger for truth."
-        },
-        {
-          "text": "We sense a real hunger for something new and different in politics."
-        },
-        {
-          "text": "They have a hunger for power and influence."
-        },
-        {
-          "text": "He is driven by an insatiable creative hunger."
-        },
-        {
-          "text": "Here's another gritty series to satisfy your true crime hunger."
-        }
-      ],
-      "collocations": {
-        "adjective": ["deep", "great", "insatiable"],
-        "verb + hunger": ["feel", "have", "satisfy"],
-        "hunger + verb": ["grow"],
-        "preposition": ["hunger for"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈhʌŋɡə(r)/",
-        "audio": "hu/hunger/hunger__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈhʌŋɡər/",
-        "audio": "hu/hunger/hunger__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English hungor (noun), hyngran (verb), of Germanic origin; related to Dutch honger and German Hunger."
+	"term": "hunger",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the state of not having enough food to eat, especially when this causes illness or death",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Around fifty people die of hunger every day in the camp."
+				},
+				{
+					"text": "The organization works to alleviate world hunger and disease."
+				},
+				{
+					"text": "Thousands of people have died of hunger."
+				},
+				{
+					"text": "the campaign to end world hunger"
+				}
+			],
+			"topics": ["Social issues"],
+			"collocations": {
+				"adjective": ["extreme", "constant", "global"],
+				"verb + hunger": ["feel", "be weak from", "be weak with"],
+				"hunger + noun": ["pangs", "strike"],
+				"phrases": ["pangs of hunger"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the feeling caused by a need to eat",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "If you feel hunger pangs between meals, eat some fruit or nuts."
+				},
+				{
+					"text": "I felt faint with hunger."
+				},
+				{
+					"text": "The new snack bar will keep those hunger pangs at bay."
+				},
+				{
+					"text": "mid-morning, when those hunger pangs strike"
+				},
+				{
+					"text": "The meal had not satisfied his hunger."
+				},
+				{
+					"text": "The walkers were weak from hunger."
+				},
+				{
+					"text": "Any good weight loss regime should not lead to extreme hunger."
+				},
+				{
+					"text": "It is usual to feel hunger during exercise."
+				},
+				{
+					"text": "Perhaps the cat was killing to satisfy hunger."
+				}
+			],
+			"topics": ["Feelings"],
+			"collocations": {
+				"adjective": ["extreme", "constant", "global"],
+				"verb + hunger": ["feel", "be weak from", "be weak with"],
+				"hunger + noun": ["pangs", "strike"],
+				"phrases": ["pangs of hunger"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a strong desire for something",
+			"sensetop": "hunger (for something)",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She has an insatiable hunger for knowledge."
+				},
+				{
+					"text": "Nothing seemed to satisfy their hunger for truth."
+				},
+				{
+					"text": "We sense a real hunger for something new and different in politics."
+				},
+				{
+					"text": "They have a hunger for power and influence."
+				},
+				{
+					"text": "He is driven by an insatiable creative hunger."
+				},
+				{
+					"text": "Here's another gritty series to satisfy your true crime hunger."
+				}
+			],
+			"collocations": {
+				"adjective": ["deep", "great", "insatiable"],
+				"verb + hunger": ["feel", "have", "satisfy"],
+				"hunger + verb": ["grow"],
+				"preposition": ["hunger for"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈhʌŋɡə(r)/",
+				"audio": "hu/hunger/hunger__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈhʌŋɡər/",
+				"audio": "hu/hunger/hunger__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English hungor (noun), hyngran (verb), of Germanic origin; related to Dutch honger and German Hunger."
 }

@@ -1,88 +1,88 @@
 {
-  "term": "compel",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "compel",
-      "heSheIt": "compels"
-    },
-    "pastSimple": "compelled",
-    "pastParticiple": "compelled",
-    "ingForm": "compelling"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to force somebody to do something; to make something necessary",
-      "sensetop": "compel somebody to do somethingcompel something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The law can compel fathers to make regular payments for their children.",
-          "contextForm": "compel somebody to do something"
-        },
-        {
-          "text": "I **feel compelled to** write and tell you how much I enjoyed your book."
-        },
-        {
-          "text": "The court has powers to compel witnesses to attend."
-        },
-        {
-          "text": "Last year ill health compelled his retirement.",
-          "contextForm": "compel something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to cause a particular reaction",
-      "sensetop": "compel something",
-      "examples": [
-        {
-          "text": "He spoke with an authority that compelled the attention of the whole crowd."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kəmˈpel/",
-        "audio": "co/compel/compel__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpelz/",
-        "audio": "co/compel/compels__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpeld/",
-        "audio": "co/compel/compelled__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpelɪŋ/",
-        "audio": "co/compel/compelling__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kəmˈpel/",
-        "audio": "co/compel/compel__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpelz/",
-        "audio": "co/compel/compels__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpeld/",
-        "audio": "co/compel/compelled__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpelɪŋ/",
-        "audio": "co/compel/compelling__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Latin compellere, from com- ‘together’ + pellere ‘drive’."
+	"term": "compel",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "compel",
+			"heSheIt": "compels"
+		},
+		"pastSimple": "compelled",
+		"pastParticiple": "compelled",
+		"ingForm": "compelling"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to force somebody to do something; to make something necessary",
+			"sensetop": "compel somebody to do somethingcompel something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The law can compel fathers to make regular payments for their children.",
+					"contextForm": "compel somebody to do something"
+				},
+				{
+					"text": "I **feel compelled to** write and tell you how much I enjoyed your book."
+				},
+				{
+					"text": "The court has powers to compel witnesses to attend."
+				},
+				{
+					"text": "Last year ill health compelled his retirement.",
+					"contextForm": "compel something"
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to cause a particular reaction",
+			"sensetop": "compel something",
+			"examples": [
+				{
+					"text": "He spoke with an authority that compelled the attention of the whole crowd."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kəmˈpel/",
+				"audio": "co/compel/compel__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpelz/",
+				"audio": "co/compel/compels__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpeld/",
+				"audio": "co/compel/compelled__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpelɪŋ/",
+				"audio": "co/compel/compelling__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kəmˈpel/",
+				"audio": "co/compel/compel__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpelz/",
+				"audio": "co/compel/compels__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpeld/",
+				"audio": "co/compel/compelled__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpelɪŋ/",
+				"audio": "co/compel/compelling__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Latin compellere, from com- ‘together’ + pellere ‘drive’."
 }

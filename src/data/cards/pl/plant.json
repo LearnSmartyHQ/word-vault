@@ -1,135 +1,135 @@
 {
-  "term": "plant",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/pl/plants.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a living thing that grows in the earth and usually has a stem, leaves and roots, especially one that is smaller than a tree or bush",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "All plants need light and water."
-        },
-        {
-          "text": "**flowering plants**"
-        },
-        {
-          "text": "native/medicinal/wild plants"
-        },
-        {
-          "text": "a tomato/potato plant"
-        },
-        {
-          "text": "It's becoming more popular to **grow plants** organically."
-        },
-        {
-          "text": "The area is home to many rare **plant species**."
-        },
-        {
-          "text": "the animal and plant life of the area"
-        },
-        {
-          "text": "Plants absorb carbon in the form of carbon dioxide."
-        },
-        {
-          "text": "The butterfly's sole food plant is wild lupine."
-        },
-        {
-          "text": "food plants of rare butterflies"
-        }
-      ],
-      "topics": ["Plants and trees"],
-      "collocations": {
-        "adjective": ["delicate", "wild", "native"],
-        "verb + plant": ["cultivate", "grow", "water"],
-        "plant + verb": ["develop", "grow", "flourish"],
-        "plant + noun": ["roots", "growth", "life"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a factory or place where power is produced or an industrial process takes place",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **nuclear power plant**"
-        },
-        {
-          "text": "a **processing/manufacturing plant**"
-        },
-        {
-          "text": "Japanese car plants"
-        },
-        {
-          "text": "a water treatment plant"
-        },
-        {
-          "text": "a chemical/steel/coal plant"
-        },
-        {
-          "text": "a waste reprocessing plant"
-        },
-        {
-          "text": "a nuclear power plant"
-        },
-        {
-          "text": "a sewage (treatment) plant"
-        },
-        {
-          "text": "an assembly plant"
-        }
-      ],
-      "topics": ["Business"],
-      "collocations": {
-        "adjective": ["industrial", "assembly", "manufacturing"],
-        "verb + plant": ["build", "manage", "run"],
-        "plant + verb": ["produce something"],
-        "plant + noun": ["manager"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the large machines that are used in industrial processes",
-      "examples": [
-        {
-          "text": "The company has been investing in new plant and equipment."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "something that somebody has deliberately placed among another person’s clothes or possessions in order to make them appear guilty of a crime",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "He claimed that the drugs found in his house were a plant."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a person who joins a group of criminals or enemies in order to get and secretly report information about their activities",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/plɑːnt/",
-        "audio": "pl/plant/plant__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/plænt/",
-        "audio": "pl/plant/plant__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English plante ‘seedling’, plantian (verb), from Latin planta ‘sprout, cutting’ (later influenced by French plante) and plantare ‘plant, fix in a place’."
+	"term": "plant",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/pl/plants.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a living thing that grows in the earth and usually has a stem, leaves and roots, especially one that is smaller than a tree or bush",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "All plants need light and water."
+				},
+				{
+					"text": "**flowering plants**"
+				},
+				{
+					"text": "native/medicinal/wild plants"
+				},
+				{
+					"text": "a tomato/potato plant"
+				},
+				{
+					"text": "It's becoming more popular to **grow plants** organically."
+				},
+				{
+					"text": "The area is home to many rare **plant species**."
+				},
+				{
+					"text": "the animal and plant life of the area"
+				},
+				{
+					"text": "Plants absorb carbon in the form of carbon dioxide."
+				},
+				{
+					"text": "The butterfly's sole food plant is wild lupine."
+				},
+				{
+					"text": "food plants of rare butterflies"
+				}
+			],
+			"topics": ["Plants and trees"],
+			"collocations": {
+				"adjective": ["delicate", "wild", "native"],
+				"verb + plant": ["cultivate", "grow", "water"],
+				"plant + verb": ["develop", "grow", "flourish"],
+				"plant + noun": ["roots", "growth", "life"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a factory or place where power is produced or an industrial process takes place",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **nuclear power plant**"
+				},
+				{
+					"text": "a **processing/manufacturing plant**"
+				},
+				{
+					"text": "Japanese car plants"
+				},
+				{
+					"text": "a water treatment plant"
+				},
+				{
+					"text": "a chemical/steel/coal plant"
+				},
+				{
+					"text": "a waste reprocessing plant"
+				},
+				{
+					"text": "a nuclear power plant"
+				},
+				{
+					"text": "a sewage (treatment) plant"
+				},
+				{
+					"text": "an assembly plant"
+				}
+			],
+			"topics": ["Business"],
+			"collocations": {
+				"adjective": ["industrial", "assembly", "manufacturing"],
+				"verb + plant": ["build", "manage", "run"],
+				"plant + verb": ["produce something"],
+				"plant + noun": ["manager"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the large machines that are used in industrial processes",
+			"examples": [
+				{
+					"text": "The company has been investing in new plant and equipment."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "something that somebody has deliberately placed among another person’s clothes or possessions in order to make them appear guilty of a crime",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "He claimed that the drugs found in his house were a plant."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a person who joins a group of criminals or enemies in order to get and secretly report information about their activities",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/plɑːnt/",
+				"audio": "pl/plant/plant__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/plænt/",
+				"audio": "pl/plant/plant__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English plante ‘seedling’, plantian (verb), from Latin planta ‘sprout, cutting’ (later influenced by French plante) and plantare ‘plant, fix in a place’."
 }

@@ -1,352 +1,352 @@
 {
-  "term": "body",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/bo/body.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the whole physical structure of a human or an animal",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**The human body** is a complex structure."
-        },
-        {
-          "text": "a male/female/naked body"
-        },
-        {
-          "text": "The virus can affect all **parts of the body**."
-        },
-        {
-          "text": "The heart pumps blood around the body."
-        },
-        {
-          "text": "His **whole body** was trembling."
-        },
-        {
-          "text": "**body fat/weight/temperature/size**"
-        },
-        {
-          "text": "Yoga is designed to release the **body and mind** from tension."
-        },
-        {
-          "text": "Extreme heat may cause changes in the body."
-        },
-        {
-          "text": "Pain racked her body."
-        },
-        {
-          "text": "to maintain your ideal body weight"
-        }
-      ],
-      "topics": ["Body"],
-      "collocations": {
-        "adjective": ["entire", "whole", "lower"],
-        "verb + body": ["rack"],
-        "body + verb": ["ache", "shake", "tremble"],
-        "body + noun": ["heat", "temperature", "mass"],
-        "preposition": ["in the/​your body", "on the/​your body"],
-        "phrases": ["part of the body", "sell your body"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the main part of a body not including the head, or not including the head, arms and legs",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She had injuries to her head and body."
-        },
-        {
-          "text": "He has a large body, but thin legs."
-        },
-        {
-          "text": "These exercises help develop your **upper body**."
-        },
-        {
-          "text": "In golf, the position of the legs, body, arms, hands and head is totally responsible for the success of the forward swing."
-        },
-        {
-          "text": "He pulled the sheet up over his naked body."
-        }
-      ],
-      "topics": ["Body"],
-      "collocations": {
-        "adjective": ["entire", "whole", "lower"],
-        "verb + body": ["rack"],
-        "body + verb": ["ache", "shake", "tremble"],
-        "body + noun": ["heat", "temperature", "mass"],
-        "preposition": ["in the/​your body", "on the/​your body"],
-        "phrases": ["part of the body", "sell your body"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the body of a dead person or animal",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **dead body**"
-        },
-        {
-          "text": "The family of the missing girl has been called in by the police to identify the body."
-        },
-        {
-          "text": "A man's **body was found** floating in the river."
-        },
-        {
-          "text": "His body is being brought back to his home town for burial."
-        }
-      ],
-      "topics": ["Crime and punishment"],
-      "collocations": {
-        "adjective": ["dead", "lifeless", "mangled"],
-        "verb + body": ["discover", "find", "recover"],
-        "body + noun": ["count", "bag"],
-        "preposition": ["on a/​the body"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the main part of something, especially a building, a vehicle or a book, an article, etc.",
-      "sensetop": "the body of something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "the body of a plane *(= the central part where the seats are)*"
-        },
-        {
-          "text": "the **main body** of the text"
-        },
-        {
-          "text": "The bar is in the main body of the hotel."
-        },
-        {
-          "text": "Although parts were scattered over the surrounding fields, the main body of the plane had landed in one piece."
-        },
-        {
-          "text": "Most of the body panels on a Land Rover are aluminium."
-        },
-        {
-          "text": "The new car body weighed 9.55 tonnes."
-        },
-        {
-          "text": "There are some references in the main body of the text."
-        }
-      ],
-      "topics": ["Transport by car or lorry"],
-      "collocations": {
-        "adjective": ["main"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a group of people who work or act together, often for an official purpose, or who are connected in some other way",
-      "sensetop": "body of somebodyin a body",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a regulatory/an advisory body"
-        },
-        {
-          "text": "The **governing body** of the school is/are concerned about discipline."
-        },
-        {
-          "text": "recognized **professional bodies** such as the Law Association"
-        },
-        {
-          "text": "An **independent body** has been set up to investigate the affair."
-        },
-        {
-          "text": "A large body of people will be affected by the tax cuts.",
-          "contextForm": "body of somebody"
-        },
-        {
-          "text": "The protesters marched in a body *(= all together)* to the White House.",
-          "contextForm": "in a body"
-        },
-        {
-          "text": "An independent body has been set up to regulate the telecommunications sector."
-        },
-        {
-          "text": "The government is consulting trade unions and other professional bodies."
-        },
-        {
-          "text": "They asked for funds from Gymnastics USA, the sport's governing body."
-        },
-        {
-          "text": "The students marched in a body to the government offices."
-        }
-      ],
-      "collocations": {
-        "adjective": ["advisory", "corporate", "executive"],
-        "verb + body": ["create", "establish", "form"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "a large amount or collection of something",
-      "sensetop": "body of something",
-      "examples": [
-        {
-          "text": "a vast **body of evidence/information/research**"
-        },
-        {
-          "text": "large bodies of water *(= lakes or seas)*"
-        },
-        {
-          "text": "There is a powerful body of opinion against the ruling."
-        },
-        {
-          "text": "The two islands are separated by a large body of water."
-        },
-        {
-          "text": "a large body of evidence"
-        }
-      ],
-      "collocations": {
-        "adjective": ["growing", "large", "substantial"],
-        "phrases": ["a body of water"]
-      }
-    },
-    {
-      "senseNumber": 7,
-      "definition": "an object",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "**heavenly bodies** *(= stars, planets, etc.)*"
-        },
-        {
-          "text": "an operation to remove a **foreign body** *(= something that would not usually be there)* from a wound"
-        },
-        {
-          "text": "They removed a foreign body from her eye."
-        },
-        {
-          "text": "Stars are celestial bodies."
-        },
-        {
-          "text": "He underwent an operation to remove a foreign body from the wound."
-        },
-        {
-          "text": "Astrology extends back to the time when people worshipped the heavenly bodies as gods."
-        }
-      ],
-      "collocations": {
-        "adjective": ["foreign", "celestial", "heavenly"]
-      }
-    },
-    {
-      "senseNumber": 8,
-      "definition": "the full strong taste of alcoholic drinks or the thick healthy quality of somebody’s hair",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "a wine with plenty of body"
-        },
-        {
-          "text": "Regular use of conditioner is supposed to give your hair more body."
-        }
-      ],
-      "topics": ["Appearance"]
-    },
-    {
-      "senseNumber": 9,
-      "definition": "having the type of body mentioned",
-      "examples": [
-        {
-          "text": "full-bodied red wines"
-        },
-        {
-          "text": "soft-bodied insects"
-        }
-      ],
-      "collocations": {
-        "adjective": ["dead", "lifeless", "mangled"],
-        "verb + body": ["discover", "find", "recover"],
-        "body + noun": ["count", "bag"],
-        "preposition": ["on a/​the body"]
-      }
-    },
-    {
-      "senseNumber": 10,
-      "definition": "a piece of clothing that fits tightly over the upper body and bottom, usually fastening between the legs",
-      "labels": "(British English)North American English",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Clothes and Fashion"],
-      "collocations": {
-        "adjective": ["dead", "lifeless", "mangled"],
-        "verb + body": ["discover", "find", "recover"],
-        "body + noun": ["count", "bag"],
-        "preposition": ["on a/​the body"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "with all your energy",
-      "examples": [
-        {
-          "text": "She committed herself body and soul to fighting for the cause."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to stay alive with just enough of the food, clothing, etc. that you need",
-      "examples": [
-        {
-          "text": "They barely have enough money to keep body and soul together."
-        }
-      ],
-      "synonyms": "survive"
-    },
-    {
-      "senseNumber": null,
-      "definition": "to have none of the quality mentioned",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "She was honest and hard-working, and didn't have an unkind bone in her body."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to show you are strongly opposed to something",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "She moves into our home over my dead body."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to have sex with somebody in exchange for money",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈbɒdi/",
-        "audio": "bo/body/body__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈbɑːdi/",
-        "audio": "bo/body/body__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English bodig, of unknown origin."
+	"term": "body",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/bo/body.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the whole physical structure of a human or an animal",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**The human body** is a complex structure."
+				},
+				{
+					"text": "a male/female/naked body"
+				},
+				{
+					"text": "The virus can affect all **parts of the body**."
+				},
+				{
+					"text": "The heart pumps blood around the body."
+				},
+				{
+					"text": "His **whole body** was trembling."
+				},
+				{
+					"text": "**body fat/weight/temperature/size**"
+				},
+				{
+					"text": "Yoga is designed to release the **body and mind** from tension."
+				},
+				{
+					"text": "Extreme heat may cause changes in the body."
+				},
+				{
+					"text": "Pain racked her body."
+				},
+				{
+					"text": "to maintain your ideal body weight"
+				}
+			],
+			"topics": ["Body"],
+			"collocations": {
+				"adjective": ["entire", "whole", "lower"],
+				"verb + body": ["rack"],
+				"body + verb": ["ache", "shake", "tremble"],
+				"body + noun": ["heat", "temperature", "mass"],
+				"preposition": ["in the/​your body", "on the/​your body"],
+				"phrases": ["part of the body", "sell your body"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the main part of a body not including the head, or not including the head, arms and legs",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She had injuries to her head and body."
+				},
+				{
+					"text": "He has a large body, but thin legs."
+				},
+				{
+					"text": "These exercises help develop your **upper body**."
+				},
+				{
+					"text": "In golf, the position of the legs, body, arms, hands and head is totally responsible for the success of the forward swing."
+				},
+				{
+					"text": "He pulled the sheet up over his naked body."
+				}
+			],
+			"topics": ["Body"],
+			"collocations": {
+				"adjective": ["entire", "whole", "lower"],
+				"verb + body": ["rack"],
+				"body + verb": ["ache", "shake", "tremble"],
+				"body + noun": ["heat", "temperature", "mass"],
+				"preposition": ["in the/​your body", "on the/​your body"],
+				"phrases": ["part of the body", "sell your body"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the body of a dead person or animal",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **dead body**"
+				},
+				{
+					"text": "The family of the missing girl has been called in by the police to identify the body."
+				},
+				{
+					"text": "A man's **body was found** floating in the river."
+				},
+				{
+					"text": "His body is being brought back to his home town for burial."
+				}
+			],
+			"topics": ["Crime and punishment"],
+			"collocations": {
+				"adjective": ["dead", "lifeless", "mangled"],
+				"verb + body": ["discover", "find", "recover"],
+				"body + noun": ["count", "bag"],
+				"preposition": ["on a/​the body"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the main part of something, especially a building, a vehicle or a book, an article, etc.",
+			"sensetop": "the body of something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "the body of a plane *(= the central part where the seats are)*"
+				},
+				{
+					"text": "the **main body** of the text"
+				},
+				{
+					"text": "The bar is in the main body of the hotel."
+				},
+				{
+					"text": "Although parts were scattered over the surrounding fields, the main body of the plane had landed in one piece."
+				},
+				{
+					"text": "Most of the body panels on a Land Rover are aluminium."
+				},
+				{
+					"text": "The new car body weighed 9.55 tonnes."
+				},
+				{
+					"text": "There are some references in the main body of the text."
+				}
+			],
+			"topics": ["Transport by car or lorry"],
+			"collocations": {
+				"adjective": ["main"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a group of people who work or act together, often for an official purpose, or who are connected in some other way",
+			"sensetop": "body of somebodyin a body",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a regulatory/an advisory body"
+				},
+				{
+					"text": "The **governing body** of the school is/are concerned about discipline."
+				},
+				{
+					"text": "recognized **professional bodies** such as the Law Association"
+				},
+				{
+					"text": "An **independent body** has been set up to investigate the affair."
+				},
+				{
+					"text": "A large body of people will be affected by the tax cuts.",
+					"contextForm": "body of somebody"
+				},
+				{
+					"text": "The protesters marched in a body *(= all together)* to the White House.",
+					"contextForm": "in a body"
+				},
+				{
+					"text": "An independent body has been set up to regulate the telecommunications sector."
+				},
+				{
+					"text": "The government is consulting trade unions and other professional bodies."
+				},
+				{
+					"text": "They asked for funds from Gymnastics USA, the sport's governing body."
+				},
+				{
+					"text": "The students marched in a body to the government offices."
+				}
+			],
+			"collocations": {
+				"adjective": ["advisory", "corporate", "executive"],
+				"verb + body": ["create", "establish", "form"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "a large amount or collection of something",
+			"sensetop": "body of something",
+			"examples": [
+				{
+					"text": "a vast **body of evidence/information/research**"
+				},
+				{
+					"text": "large bodies of water *(= lakes or seas)*"
+				},
+				{
+					"text": "There is a powerful body of opinion against the ruling."
+				},
+				{
+					"text": "The two islands are separated by a large body of water."
+				},
+				{
+					"text": "a large body of evidence"
+				}
+			],
+			"collocations": {
+				"adjective": ["growing", "large", "substantial"],
+				"phrases": ["a body of water"]
+			}
+		},
+		{
+			"senseNumber": 7,
+			"definition": "an object",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "**heavenly bodies** *(= stars, planets, etc.)*"
+				},
+				{
+					"text": "an operation to remove a **foreign body** *(= something that would not usually be there)* from a wound"
+				},
+				{
+					"text": "They removed a foreign body from her eye."
+				},
+				{
+					"text": "Stars are celestial bodies."
+				},
+				{
+					"text": "He underwent an operation to remove a foreign body from the wound."
+				},
+				{
+					"text": "Astrology extends back to the time when people worshipped the heavenly bodies as gods."
+				}
+			],
+			"collocations": {
+				"adjective": ["foreign", "celestial", "heavenly"]
+			}
+		},
+		{
+			"senseNumber": 8,
+			"definition": "the full strong taste of alcoholic drinks or the thick healthy quality of somebody’s hair",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "a wine with plenty of body"
+				},
+				{
+					"text": "Regular use of conditioner is supposed to give your hair more body."
+				}
+			],
+			"topics": ["Appearance"]
+		},
+		{
+			"senseNumber": 9,
+			"definition": "having the type of body mentioned",
+			"examples": [
+				{
+					"text": "full-bodied red wines"
+				},
+				{
+					"text": "soft-bodied insects"
+				}
+			],
+			"collocations": {
+				"adjective": ["dead", "lifeless", "mangled"],
+				"verb + body": ["discover", "find", "recover"],
+				"body + noun": ["count", "bag"],
+				"preposition": ["on a/​the body"]
+			}
+		},
+		{
+			"senseNumber": 10,
+			"definition": "a piece of clothing that fits tightly over the upper body and bottom, usually fastening between the legs",
+			"labels": "(British English)North American English",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Clothes and Fashion"],
+			"collocations": {
+				"adjective": ["dead", "lifeless", "mangled"],
+				"verb + body": ["discover", "find", "recover"],
+				"body + noun": ["count", "bag"],
+				"preposition": ["on a/​the body"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "with all your energy",
+			"examples": [
+				{
+					"text": "She committed herself body and soul to fighting for the cause."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to stay alive with just enough of the food, clothing, etc. that you need",
+			"examples": [
+				{
+					"text": "They barely have enough money to keep body and soul together."
+				}
+			],
+			"synonyms": "survive"
+		},
+		{
+			"senseNumber": null,
+			"definition": "to have none of the quality mentioned",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "She was honest and hard-working, and didn't have an unkind bone in her body."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to show you are strongly opposed to something",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "She moves into our home over my dead body."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to have sex with somebody in exchange for money",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈbɒdi/",
+				"audio": "bo/body/body__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈbɑːdi/",
+				"audio": "bo/body/body__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English bodig, of unknown origin."
 }

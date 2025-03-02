@@ -1,118 +1,118 @@
 {
-  "term": "compose",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "compose",
-      "heSheIt": "composes"
-    },
-    "pastSimple": "composed",
-    "pastParticiple": "composed",
-    "ingForm": "composing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to write music",
-      "sensetop": "compose (something)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Mozart composed his last opera shortly before he died."
-        },
-        {
-          "text": "music specially composed for the occasion"
-        }
-      ],
-      "topics": ["Music"],
-      "collocations": {
-        "adverb": ["specially"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to write a letter, etc. usually with a lot of care and thought",
-      "sensetop": "compose a letter/speech/poem",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She composed a letter of protest."
-        }
-      ],
-      "topics": ["Literature and writing"],
-      "collocations": {
-        "adverb": ["specially"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to combine together to form a whole",
-      "sensetop": "compose something",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Ten people compose the committee."
-        }
-      ],
-      "synonyms": "make up"
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to manage to control your feelings or expression",
-      "sensetop": "compose yourselfcompose something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "Emma frowned, making an effort to compose herself.",
-          "contextForm": "compose yourself"
-        },
-        {
-          "text": "I was so confused that I could hardly compose my thoughts.",
-          "contextForm": "compose something"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kəmˈpəʊz/",
-        "audio": "co/compose/compose__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpəʊzɪz/",
-        "audio": "co/compose/composes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpəʊzd/",
-        "audio": "co/compose/composed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpəʊzɪŋ/",
-        "audio": "co/compose/composing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kəmˈpəʊz/",
-        "audio": "co/compose/compose__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpəʊzɪz/",
-        "audio": "co/compose/composes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpəʊzd/",
-        "audio": "co/compose/composed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpəʊzɪŋ/",
-        "audio": "co/compose/composing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the general sense ‘put together, construct’): from Old French composer, from Latin componere, from com- ‘together’ + ponere ‘put’, but influenced by Latin compositus ‘composed’ and Old French poser ‘to place’."
+	"term": "compose",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "compose",
+			"heSheIt": "composes"
+		},
+		"pastSimple": "composed",
+		"pastParticiple": "composed",
+		"ingForm": "composing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to write music",
+			"sensetop": "compose (something)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Mozart composed his last opera shortly before he died."
+				},
+				{
+					"text": "music specially composed for the occasion"
+				}
+			],
+			"topics": ["Music"],
+			"collocations": {
+				"adverb": ["specially"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to write a letter, etc. usually with a lot of care and thought",
+			"sensetop": "compose a letter/speech/poem",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She composed a letter of protest."
+				}
+			],
+			"topics": ["Literature and writing"],
+			"collocations": {
+				"adverb": ["specially"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to combine together to form a whole",
+			"sensetop": "compose something",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Ten people compose the committee."
+				}
+			],
+			"synonyms": "make up"
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to manage to control your feelings or expression",
+			"sensetop": "compose yourselfcompose something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "Emma frowned, making an effort to compose herself.",
+					"contextForm": "compose yourself"
+				},
+				{
+					"text": "I was so confused that I could hardly compose my thoughts.",
+					"contextForm": "compose something"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kəmˈpəʊz/",
+				"audio": "co/compose/compose__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpəʊzɪz/",
+				"audio": "co/compose/composes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpəʊzd/",
+				"audio": "co/compose/composed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpəʊzɪŋ/",
+				"audio": "co/compose/composing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kəmˈpəʊz/",
+				"audio": "co/compose/compose__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpəʊzɪz/",
+				"audio": "co/compose/composes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpəʊzd/",
+				"audio": "co/compose/composed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpəʊzɪŋ/",
+				"audio": "co/compose/composing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the general sense ‘put together, construct’): from Old French composer, from Latin componere, from com- ‘together’ + ponere ‘put’, but influenced by Latin compositus ‘composed’ and Old French poser ‘to place’."
 }

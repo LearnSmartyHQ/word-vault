@@ -1,195 +1,191 @@
 {
-  "term": "path",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "image": "data/images/co/coast.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a way or track that is built or is made by the action of people walking",
-      "sensetop": "along/down a path",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a dirt/gravel/concrete path"
-        },
-        {
-          "text": "**Follow the path** through the woods."
-        },
-        {
-          "text": "They walked along the cliff path to the next town.",
-          "contextForm": "along/down a path"
-        },
-        {
-          "text": "The **path led** up a steep hill."
-        },
-        {
-          "text": "a coastal path"
-        }
-      ],
-      "topics": ["Gardens"],
-      "collocations": {
-        "adjective": ["long", "narrow", "steep"],
-        "verb + path": ["follow", "take", "go along"],
-        "path + verb": ["go", "run", "descend"],
-        "preposition": [
-          "along a/​the path",
-          "down a/​the path",
-          "up a/​the path"
-        ],
-        "phrases": ["off the beaten path"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a plan of action or a way of achieving something",
-      "sensetop": "path to somethingon a path",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Her sister followed a different **career path**."
-        },
-        {
-          "text": "There is no easy path to success.",
-          "contextForm": "path to something"
-        },
-        {
-          "text": "Here are some pointers to set you on **the right path**.",
-          "contextForm": "on a path"
-        },
-        {
-          "text": "The company cannot continue on its current path."
-        },
-        {
-          "text": "Our country is heading down the wrong path and needs to change."
-        },
-        {
-          "text": "The president urged the rebels to choose the path of peace."
-        },
-        {
-          "text": "So many people are seeking some kind of spiritual path."
-        }
-      ],
-      "collocations": {
-        "adjective": ["well-trodden", "well-worn", "clear"],
-        "verb + path": ["choose", "find", "follow"],
-        "preposition": ["on a/​the path", "path of", "path to"],
-        "phrases": [
-          "cross paths (with somebody)",
-          "obstacles in somebody/​something’s path"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a line along which somebody/something moves; the space in front of somebody/something as they move",
-      "sensetop": "into the path of somethingout of the path of somethingin something's/somebody's path",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Three men blocked her path."
-        },
-        {
-          "text": "He threw himself into the path of an oncoming vehicle.",
-          "contextForm": "into the path of something"
-        },
-        {
-          "text": "We're trying to get people out of the path of the storm.",
-          "contextForm": "out of the path of something"
-        },
-        {
-          "text": "The avalanche forced its way down the mountain, crushing everything in its path.",
-          "contextForm": "in something's/somebody's path"
-        }
-      ],
-      "synonyms": "way",
-      "collocations": {
-        "adjective": ["correct", "right", "flight"],
-        "verb + path": ["steer", "trace", "block"],
-        "preposition": [
-          "across something’s path",
-          "in something’s path",
-          "into something’s path"
-        ],
-        "phrases": ["everything in somebody’s/​something’s path"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "if a lot of people beat a path to somebody’s door, they are all interested in something that person has to sell, or can do or tell them",
-      "examples": [
-        {
-          "text": "Top theatrical agents are beating a path to the teenager's door."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "if somebody crosses somebody’s path or their paths cross, they meet by chance",
-      "examples": [
-        {
-          "text": "I hope I never cross her path again."
-        },
-        {
-          "text": "Our paths were to cross again many years later."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to make somebody believe something that is not true",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "(to choose, etc.) the easiest way of doing something",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "an easy life that is full of pleasure but that causes you harm in the end",
-      "labels": "(literary)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to make it easier for somebody/something to develop or make progress",
-      "examples": [
-        {
-          "text": "These negotiations are intended to smooth the path to a peace treaty."
-        },
-        {
-          "text": "We’re trying to smooth the way for women who want to resume their careers."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/pɑːθ/",
-        "audio": "pa/path/path__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/pɑːðz/",
-        "audio": "pa/path/paths__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/pæθ/",
-        "audio": "pa/path/path__us_1.mp3"
-      },
-      {
-        "pronunciation": "/pæðz/",
-        "audio": "pa/path/paths__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English pæth, of West Germanic origin; related to Dutch pad, German Pfad, of unknown ultimate origin."
+	"term": "path",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"image": "data/images/co/coast.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a way or track that is built or is made by the action of people walking",
+			"sensetop": "along/down a path",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a dirt/gravel/concrete path"
+				},
+				{
+					"text": "**Follow the path** through the woods."
+				},
+				{
+					"text": "They walked along the cliff path to the next town.",
+					"contextForm": "along/down a path"
+				},
+				{
+					"text": "The **path led** up a steep hill."
+				},
+				{
+					"text": "a coastal path"
+				}
+			],
+			"topics": ["Gardens"],
+			"collocations": {
+				"adjective": ["long", "narrow", "steep"],
+				"verb + path": ["follow", "take", "go along"],
+				"path + verb": ["go", "run", "descend"],
+				"preposition": ["along a/​the path", "down a/​the path", "up a/​the path"],
+				"phrases": ["off the beaten path"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a plan of action or a way of achieving something",
+			"sensetop": "path to somethingon a path",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Her sister followed a different **career path**."
+				},
+				{
+					"text": "There is no easy path to success.",
+					"contextForm": "path to something"
+				},
+				{
+					"text": "Here are some pointers to set you on **the right path**.",
+					"contextForm": "on a path"
+				},
+				{
+					"text": "The company cannot continue on its current path."
+				},
+				{
+					"text": "Our country is heading down the wrong path and needs to change."
+				},
+				{
+					"text": "The president urged the rebels to choose the path of peace."
+				},
+				{
+					"text": "So many people are seeking some kind of spiritual path."
+				}
+			],
+			"collocations": {
+				"adjective": ["well-trodden", "well-worn", "clear"],
+				"verb + path": ["choose", "find", "follow"],
+				"preposition": ["on a/​the path", "path of", "path to"],
+				"phrases": [
+					"cross paths (with somebody)",
+					"obstacles in somebody/​something’s path"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a line along which somebody/something moves; the space in front of somebody/something as they move",
+			"sensetop": "into the path of somethingout of the path of somethingin something's/somebody's path",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Three men blocked her path."
+				},
+				{
+					"text": "He threw himself into the path of an oncoming vehicle.",
+					"contextForm": "into the path of something"
+				},
+				{
+					"text": "We're trying to get people out of the path of the storm.",
+					"contextForm": "out of the path of something"
+				},
+				{
+					"text": "The avalanche forced its way down the mountain, crushing everything in its path.",
+					"contextForm": "in something's/somebody's path"
+				}
+			],
+			"synonyms": "way",
+			"collocations": {
+				"adjective": ["correct", "right", "flight"],
+				"verb + path": ["steer", "trace", "block"],
+				"preposition": [
+					"across something’s path",
+					"in something’s path",
+					"into something’s path"
+				],
+				"phrases": ["everything in somebody’s/​something’s path"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "if a lot of people beat a path to somebody’s door, they are all interested in something that person has to sell, or can do or tell them",
+			"examples": [
+				{
+					"text": "Top theatrical agents are beating a path to the teenager's door."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "if somebody crosses somebody’s path or their paths cross, they meet by chance",
+			"examples": [
+				{
+					"text": "I hope I never cross her path again."
+				},
+				{
+					"text": "Our paths were to cross again many years later."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to make somebody believe something that is not true",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "(to choose, etc.) the easiest way of doing something",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "an easy life that is full of pleasure but that causes you harm in the end",
+			"labels": "(literary)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to make it easier for somebody/something to develop or make progress",
+			"examples": [
+				{
+					"text": "These negotiations are intended to smooth the path to a peace treaty."
+				},
+				{
+					"text": "We’re trying to smooth the way for women who want to resume their careers."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/pɑːθ/",
+				"audio": "pa/path/path__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/pɑːðz/",
+				"audio": "pa/path/paths__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/pæθ/",
+				"audio": "pa/path/path__us_1.mp3"
+			},
+			{
+				"pronunciation": "/pæðz/",
+				"audio": "pa/path/paths__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English pæth, of West Germanic origin; related to Dutch pad, German Pfad, of unknown ultimate origin."
 }

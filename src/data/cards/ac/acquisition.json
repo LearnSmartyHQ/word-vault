@@ -1,80 +1,80 @@
 {
-  "term": "acquisition",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the act of getting something, especially knowledge, a skill, etc.",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "theories of child language acquisition"
-        }
-      ],
-      "collocations": {
-        "adjective": ["big", "major", "substantial"],
-        "verb + acquisition": ["complete", "make"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "something that somebody buys to add to what they already own, usually something valuable",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "His latest acquisition is a racehorse."
-        },
-        {
-          "text": "The money will be spent on acquisitions for the university library."
-        }
-      ],
-      "collocations": {
-        "adjective": ["big", "major", "substantial"],
-        "verb + acquisition": ["complete", "make"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a company, piece of land, etc. bought by somebody, especially another company; the act of buying it",
-      "labels": "(business)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "They have made acquisitions in several EU countries."
-        },
-        {
-          "text": "the acquisition of shares by employees"
-        },
-        {
-          "text": "The group has announced its first overseas acquisition: a successful software company."
-        },
-        {
-          "text": "The company has just made another acquisition."
-        }
-      ],
-      "topics": ["Business"],
-      "collocations": {
-        "adjective": ["big", "major", "substantial"],
-        "verb + acquisition": ["complete", "make"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌækwɪˈzɪʃn/",
-        "audio": "ac/acquisition/acquisition__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌækwɪˈzɪʃn/",
-        "audio": "ac/acquisition/acquisition__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘act of acquiring something’): from Latin acquisitio(n-), from the verb acquirere ‘get in addition’, from ad- ‘to’ + quaerere ‘seek’. The English spelling was modified (c.1600) by association with the Latin word."
+	"term": "acquisition",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the act of getting something, especially knowledge, a skill, etc.",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "theories of child language acquisition"
+				}
+			],
+			"collocations": {
+				"adjective": ["big", "major", "substantial"],
+				"verb + acquisition": ["complete", "make"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "something that somebody buys to add to what they already own, usually something valuable",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "His latest acquisition is a racehorse."
+				},
+				{
+					"text": "The money will be spent on acquisitions for the university library."
+				}
+			],
+			"collocations": {
+				"adjective": ["big", "major", "substantial"],
+				"verb + acquisition": ["complete", "make"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a company, piece of land, etc. bought by somebody, especially another company; the act of buying it",
+			"labels": "(business)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "They have made acquisitions in several EU countries."
+				},
+				{
+					"text": "the acquisition of shares by employees"
+				},
+				{
+					"text": "The group has announced its first overseas acquisition: a successful software company."
+				},
+				{
+					"text": "The company has just made another acquisition."
+				}
+			],
+			"topics": ["Business"],
+			"collocations": {
+				"adjective": ["big", "major", "substantial"],
+				"verb + acquisition": ["complete", "make"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌækwɪˈzɪʃn/",
+				"audio": "ac/acquisition/acquisition__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌækwɪˈzɪʃn/",
+				"audio": "ac/acquisition/acquisition__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘act of acquiring something’): from Latin acquisitio(n-), from the verb acquirere ‘get in addition’, from ad- ‘to’ + quaerere ‘seek’. The English spelling was modified (c.1600) by association with the Latin word."
 }

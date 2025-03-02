@@ -1,367 +1,367 @@
 {
-  "term": "miss",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "miss",
-      "heSheIt": "misses"
-    },
-    "pastSimple": "missed",
-    "pastParticiple": "missed",
-    "ingForm": "missing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to be or arrive too late for something",
-      "sensetop": "miss something/somebody",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "If I don't leave now I'll miss my plane."
-        },
-        {
-          "text": "Sorry I'm late—have I missed anything?"
-        },
-        {
-          "text": "‘Is Ann there?’ ‘You've just missed her *(= she has just left)*.’"
-        },
-        {
-          "text": "You'd better hurry—you don't want to miss the bus."
-        },
-        {
-          "text": "If you miss the deadline, you'll have to pay a fine."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to fail to be or go somewhere",
-      "sensetop": "miss something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She hasn't missed a game all year."
-        },
-        {
-          "text": "You missed a good party last night *(= because you did not go)*."
-        },
-        {
-          "text": "‘Are you coming to the school play?’ ‘**I wouldn't miss it for the world**.’"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to fail to do something",
-      "sensetop": "miss something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "You can't afford to miss meals *(= not eat meals)* when you're in training."
-        },
-        {
-          "text": "You have to **miss a turn** *(= to not play when it is your turn in a game)*."
-        }
-      ],
-      "topics": ["Difficulty and failure"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to not take the opportunity to do something",
-      "sensetop": "miss something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The sale prices were **too good to miss**."
-        },
-        {
-          "text": "It was an opportunity **not to be missed**."
-        },
-        {
-          "text": "She missed the opportunity to take part."
-        },
-        {
-          "text": "Jackson never missed a chance to serve as teacher and mentor."
-        },
-        {
-          "text": "The film is a real **missed opportunity**—it could have been so much better."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to fail to hit, catch, reach, etc. something",
-      "sensetop": "miss (somebody/something)miss doing something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "How many goals has he missed this season?",
-          "contextForm": "miss (somebody/something)"
-        },
-        {
-          "text": "The bullet missed her by about six inches."
-        },
-        {
-          "text": "It was a joke that **missed its target**."
-        },
-        {
-          "text": "The company has missed all its targets this year."
-        },
-        {
-          "text": "The van slid on the ice and **narrowly missed** colliding with us."
-        },
-        {
-          "text": "She narrowly missed hitting him.",
-          "contextForm": "miss doing something"
-        },
-        {
-          "text": "She attempted to hit the ball but missed badly."
-        },
-        {
-          "text": "Vidal missed a penalty in stoppage time."
-        },
-        {
-          "text": "The bullet missed his head by only a few inches."
-        },
-        {
-          "text": "The bullet somehow missed his heart."
-        },
-        {
-          "text": "The plane crashed, narrowly missing a hotel."
-        }
-      ],
-      "collocations": {
-        "adverb": ["completely", "barely", "just"],
-        "preposition": ["by"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to fail to hear, see or notice something",
-      "sensetop": "miss something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The hotel is the only white building on the road—**you can't miss it**."
-        },
-        {
-          "text": "Don't miss next week's issue!"
-        },
-        {
-          "text": "I missed her name."
-        },
-        {
-          "text": "No one will want to miss this film."
-        },
-        {
-          "text": "Your mother will know who's moved in—she **doesn't miss much**."
-        },
-        {
-          "text": "When you painted your bedroom, you missed a bit *(= of the wall)* under the window."
-        }
-      ],
-      "collocations": {
-        "adverb": ["completely", "easily"],
-        "verb + miss": ["cannot"]
-      }
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to fail to understand something",
-      "sensetop": "miss something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He completely missed the joke."
-        },
-        {
-          "text": "You're **missing the point** *(= failing to understand the main part)* of what I'm saying."
-        },
-        {
-          "text": "I think I must have missed something because none of this makes any sense."
-        }
-      ],
-      "collocations": {
-        "adverb": ["completely", "easily"],
-        "verb + miss": ["cannot"]
-      }
-    },
-    {
-      "senseNumber": 8,
-      "definition": "to feel sad because you can no longer see somebody or do something that you like",
-      "sensetop": "miss somebody/somethingmiss (somebody/something) doing something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I still miss her a lot.",
-          "contextForm": "miss somebody/something"
-        },
-        {
-          "text": "Your father misses you dreadfully."
-        },
-        {
-          "text": "She will be greatly missed when she leaves."
-        },
-        {
-          "text": "Anne, who died on 22 July, will be **sadly missed** by all who knew her."
-        },
-        {
-          "text": "What did you miss most when you were in France?"
-        },
-        {
-          "text": "I'm really going to miss your cooking."
-        },
-        {
-          "text": "I don't miss getting up at six every morning!",
-          "contextForm": "miss (somebody/something) doing something"
-        }
-      ],
-      "collocations": {
-        "adverb": ["completely", "easily"],
-        "verb + miss": ["cannot"]
-      }
-    },
-    {
-      "senseNumber": 9,
-      "definition": "to notice that somebody/something is not where they/it should be",
-      "sensetop": "miss somebody/something",
-      "examples": [
-        {
-          "text": "When did you first miss the necklace?"
-        },
-        {
-          "text": "Let’s go for a quick drink—nobody will miss us."
-        },
-        {
-          "text": "We seem to be missing some students this morning."
-        }
-      ]
-    },
-    {
-      "senseNumber": 10,
-      "definition": "to avoid something unpleasant",
-      "sensetop": "miss somethingmiss doing something",
-      "examples": [
-        {
-          "text": "If you go now you should miss the crowds.",
-          "contextForm": "miss something"
-        },
-        {
-          "text": "He fell and just missed knocking the whole display over.",
-          "contextForm": "miss doing something"
-        }
-      ],
-      "synonyms": "escape"
-    },
-    {
-      "senseNumber": 11,
-      "definition": "to not work correctly because the petrol does not burn at the right time",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that somebody has a sudden feeling of fear, excitement, etc.",
-      "examples": [
-        {
-          "text": "My heart missed a beat when I saw who it was."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that somebody notices every opportunity to gain an advantage",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to succeed/fail in achieving or guessing something",
-      "examples": [
-        {
-          "text": "He blushed furiously and Robyn knew she had hit the mark."
-        },
-        {
-          "text": "The film misses the mark because it just isn't believable."
-        }
-      ],
-      "topics": [
-        "Success",
-        "Doubt, guessing and certainty",
-        "Difficulty and failure"
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be unable to take advantage of something because you are too late",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "If you don't buy now, you may find that you've missed the boat."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to make a mistake",
-      "labels": "(North American English, informal)",
-      "examples": [
-        {
-          "text": "**Unless I miss my guess**, your computer needs a new hard drive."
-        },
-        {
-          "text": "If you miss your guess, you lose 10 points."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/mɪs/",
-        "audio": "mi/miss/miss__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmɪsɪz/",
-        "audio": "mi/miss/misses__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/mɪst/",
-        "audio": "mi/miss/missed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmɪsɪŋ/",
-        "audio": "mi/miss/missing__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/mɪs/",
-        "audio": "mi/miss/miss__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmɪsɪz/",
-        "audio": "mi/miss/misses__us_1.mp3"
-      },
-      {
-        "pronunciation": "/mɪst/",
-        "audio": "mi/miss/missed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmɪsɪŋ/",
-        "audio": "mi/miss/missing__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "verb Old English missan, of Germanic origin; related to Dutch and German missen."
+	"term": "miss",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "miss",
+			"heSheIt": "misses"
+		},
+		"pastSimple": "missed",
+		"pastParticiple": "missed",
+		"ingForm": "missing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to be or arrive too late for something",
+			"sensetop": "miss something/somebody",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "If I don't leave now I'll miss my plane."
+				},
+				{
+					"text": "Sorry I'm late—have I missed anything?"
+				},
+				{
+					"text": "‘Is Ann there?’ ‘You've just missed her *(= she has just left)*.’"
+				},
+				{
+					"text": "You'd better hurry—you don't want to miss the bus."
+				},
+				{
+					"text": "If you miss the deadline, you'll have to pay a fine."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to fail to be or go somewhere",
+			"sensetop": "miss something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She hasn't missed a game all year."
+				},
+				{
+					"text": "You missed a good party last night *(= because you did not go)*."
+				},
+				{
+					"text": "‘Are you coming to the school play?’ ‘**I wouldn't miss it for the world**.’"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to fail to do something",
+			"sensetop": "miss something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "You can't afford to miss meals *(= not eat meals)* when you're in training."
+				},
+				{
+					"text": "You have to **miss a turn** *(= to not play when it is your turn in a game)*."
+				}
+			],
+			"topics": ["Difficulty and failure"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to not take the opportunity to do something",
+			"sensetop": "miss something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The sale prices were **too good to miss**."
+				},
+				{
+					"text": "It was an opportunity **not to be missed**."
+				},
+				{
+					"text": "She missed the opportunity to take part."
+				},
+				{
+					"text": "Jackson never missed a chance to serve as teacher and mentor."
+				},
+				{
+					"text": "The film is a real **missed opportunity**—it could have been so much better."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to fail to hit, catch, reach, etc. something",
+			"sensetop": "miss (somebody/something)miss doing something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "How many goals has he missed this season?",
+					"contextForm": "miss (somebody/something)"
+				},
+				{
+					"text": "The bullet missed her by about six inches."
+				},
+				{
+					"text": "It was a joke that **missed its target**."
+				},
+				{
+					"text": "The company has missed all its targets this year."
+				},
+				{
+					"text": "The van slid on the ice and **narrowly missed** colliding with us."
+				},
+				{
+					"text": "She narrowly missed hitting him.",
+					"contextForm": "miss doing something"
+				},
+				{
+					"text": "She attempted to hit the ball but missed badly."
+				},
+				{
+					"text": "Vidal missed a penalty in stoppage time."
+				},
+				{
+					"text": "The bullet missed his head by only a few inches."
+				},
+				{
+					"text": "The bullet somehow missed his heart."
+				},
+				{
+					"text": "The plane crashed, narrowly missing a hotel."
+				}
+			],
+			"collocations": {
+				"adverb": ["completely", "barely", "just"],
+				"preposition": ["by"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to fail to hear, see or notice something",
+			"sensetop": "miss something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The hotel is the only white building on the road—**you can't miss it**."
+				},
+				{
+					"text": "Don't miss next week's issue!"
+				},
+				{
+					"text": "I missed her name."
+				},
+				{
+					"text": "No one will want to miss this film."
+				},
+				{
+					"text": "Your mother will know who's moved in—she **doesn't miss much**."
+				},
+				{
+					"text": "When you painted your bedroom, you missed a bit *(= of the wall)* under the window."
+				}
+			],
+			"collocations": {
+				"adverb": ["completely", "easily"],
+				"verb + miss": ["cannot"]
+			}
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to fail to understand something",
+			"sensetop": "miss something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He completely missed the joke."
+				},
+				{
+					"text": "You're **missing the point** *(= failing to understand the main part)* of what I'm saying."
+				},
+				{
+					"text": "I think I must have missed something because none of this makes any sense."
+				}
+			],
+			"collocations": {
+				"adverb": ["completely", "easily"],
+				"verb + miss": ["cannot"]
+			}
+		},
+		{
+			"senseNumber": 8,
+			"definition": "to feel sad because you can no longer see somebody or do something that you like",
+			"sensetop": "miss somebody/somethingmiss (somebody/something) doing something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I still miss her a lot.",
+					"contextForm": "miss somebody/something"
+				},
+				{
+					"text": "Your father misses you dreadfully."
+				},
+				{
+					"text": "She will be greatly missed when she leaves."
+				},
+				{
+					"text": "Anne, who died on 22 July, will be **sadly missed** by all who knew her."
+				},
+				{
+					"text": "What did you miss most when you were in France?"
+				},
+				{
+					"text": "I'm really going to miss your cooking."
+				},
+				{
+					"text": "I don't miss getting up at six every morning!",
+					"contextForm": "miss (somebody/something) doing something"
+				}
+			],
+			"collocations": {
+				"adverb": ["completely", "easily"],
+				"verb + miss": ["cannot"]
+			}
+		},
+		{
+			"senseNumber": 9,
+			"definition": "to notice that somebody/something is not where they/it should be",
+			"sensetop": "miss somebody/something",
+			"examples": [
+				{
+					"text": "When did you first miss the necklace?"
+				},
+				{
+					"text": "Let’s go for a quick drink—nobody will miss us."
+				},
+				{
+					"text": "We seem to be missing some students this morning."
+				}
+			]
+		},
+		{
+			"senseNumber": 10,
+			"definition": "to avoid something unpleasant",
+			"sensetop": "miss somethingmiss doing something",
+			"examples": [
+				{
+					"text": "If you go now you should miss the crowds.",
+					"contextForm": "miss something"
+				},
+				{
+					"text": "He fell and just missed knocking the whole display over.",
+					"contextForm": "miss doing something"
+				}
+			],
+			"synonyms": "escape"
+		},
+		{
+			"senseNumber": 11,
+			"definition": "to not work correctly because the petrol does not burn at the right time",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that somebody has a sudden feeling of fear, excitement, etc.",
+			"examples": [
+				{
+					"text": "My heart missed a beat when I saw who it was."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that somebody notices every opportunity to gain an advantage",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to succeed/fail in achieving or guessing something",
+			"examples": [
+				{
+					"text": "He blushed furiously and Robyn knew she had hit the mark."
+				},
+				{
+					"text": "The film misses the mark because it just isn't believable."
+				}
+			],
+			"topics": [
+				"Success",
+				"Doubt, guessing and certainty",
+				"Difficulty and failure"
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be unable to take advantage of something because you are too late",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "If you don't buy now, you may find that you've missed the boat."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to make a mistake",
+			"labels": "(North American English, informal)",
+			"examples": [
+				{
+					"text": "**Unless I miss my guess**, your computer needs a new hard drive."
+				},
+				{
+					"text": "If you miss your guess, you lose 10 points."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/mɪs/",
+				"audio": "mi/miss/miss__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmɪsɪz/",
+				"audio": "mi/miss/misses__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/mɪst/",
+				"audio": "mi/miss/missed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmɪsɪŋ/",
+				"audio": "mi/miss/missing__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/mɪs/",
+				"audio": "mi/miss/miss__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmɪsɪz/",
+				"audio": "mi/miss/misses__us_1.mp3"
+			},
+			{
+				"pronunciation": "/mɪst/",
+				"audio": "mi/miss/missed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmɪsɪŋ/",
+				"audio": "mi/miss/missing__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "verb Old English missan, of Germanic origin; related to Dutch and German missen."
 }

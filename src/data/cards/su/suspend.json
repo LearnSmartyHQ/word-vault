@@ -1,177 +1,177 @@
 {
-  "term": "suspend",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "suspend",
-      "heSheIt": "suspends"
-    },
-    "pastSimple": "suspended",
-    "pastParticiple": "suspended",
-    "ingForm": "suspending"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to hang something from something else",
-      "sensetop": "be suspended from somethingbe suspended by/on somethingbe suspended by/on something from something",
-      "labels": "(formal)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "A lamp was suspended from the ceiling.",
-          "contextForm": "be suspended from something"
-        },
-        {
-          "text": "Her body was found suspended by a rope.",
-          "contextForm": "be suspended by/on something"
-        },
-        {
-          "text": "A boat was suspended on wires from the rafters.",
-          "contextForm": "be suspended by/on something from something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to officially stop something for a time; to prevent something from being active, used, etc. for a time",
-      "sensetop": "suspend something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Production has been suspended while safety checks are carried out."
-        },
-        {
-          "text": "The constitution was suspended as the fighting grew worse."
-        },
-        {
-          "text": "In the theatre we willingly **suspend disbelief** *(= temporarily believe that the characters, etc. are real)*."
-        },
-        {
-          "text": "The EU should have the power to suspend subsidy payments to farmers who pollute the environment."
-        },
-        {
-          "text": "The government has decided to suspend production at the country's biggest lead plant."
-        },
-        {
-          "text": "Aid flights have been suspended for a week after fighting near the city's airport."
-        }
-      ],
-      "collocations": {
-        "adverb": ["immediately", "indefinitely", "temporarily"],
-        "verb + suspend": ["agree to", "decide to", "vote to"],
-        "phrases": ["the power to suspend something"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to officially delay something; to arrange for something to happen later than planned",
-      "sensetop": "suspend something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The introduction of the new system has been suspended until next year."
-        },
-        {
-          "text": "to suspend judgement *(= delay forming or expressing an opinion)*"
-        }
-      ],
-      "collocations": {
-        "adverb": ["immediately", "indefinitely", "temporarily"],
-        "verb + suspend": ["agree to", "decide to", "vote to"],
-        "phrases": ["the power to suspend something"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to officially prevent somebody from doing their job, going to school, etc. for a time, as a punishment or while a complaint against them is investigated",
-      "sensetop": "be suspendedbe suspended from something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The police officer was suspended while the complaint was investigated.",
-          "contextForm": "be suspended"
-        },
-        {
-          "text": "She was suspended from school for a week.",
-          "contextForm": "be suspended from something"
-        },
-        {
-          "text": "She has been suspended on full pay following a disciplinary hearing."
-        },
-        {
-          "text": "She was suspended pending the outcome of the police investigation."
-        },
-        {
-          "text": "The players will be automatically suspended."
-        },
-        {
-          "text": "We both got suspended for fighting."
-        }
-      ],
-      "topics": ["Education"],
-      "collocations": {
-        "adverb": ["automatically", "formally", "indefinitely"],
-        "verb + suspend": ["threaten to"],
-        "preposition": ["for", "from", "pending"],
-        "phrases": [
-          "be suspended on full pay",
-          "be suspended with pay",
-          "be suspended without pay"
-        ]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to float in liquid or air without moving",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "Small droplets are held suspended in the atmosphere."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/səˈspend/",
-        "audio": "su/suspend/suspend__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/səˈspendz/",
-        "audio": "su/suspend/suspends__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈspendɪd/",
-        "audio": "su/suspend/suspended__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈspendɪŋ/",
-        "audio": "su/suspend/suspending__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/səˈspend/",
-        "audio": "su/suspend/suspend__us_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈspendz/",
-        "audio": "su/suspend/suspends__us_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈspendɪd/",
-        "audio": "su/suspend/suspended__us_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈspendɪŋ/",
-        "audio": "su/suspend/suspending__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French suspendre or Latin suspendere, from sub- ‘from below’ + pendere ‘hang’."
+	"term": "suspend",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "suspend",
+			"heSheIt": "suspends"
+		},
+		"pastSimple": "suspended",
+		"pastParticiple": "suspended",
+		"ingForm": "suspending"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to hang something from something else",
+			"sensetop": "be suspended from somethingbe suspended by/on somethingbe suspended by/on something from something",
+			"labels": "(formal)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "A lamp was suspended from the ceiling.",
+					"contextForm": "be suspended from something"
+				},
+				{
+					"text": "Her body was found suspended by a rope.",
+					"contextForm": "be suspended by/on something"
+				},
+				{
+					"text": "A boat was suspended on wires from the rafters.",
+					"contextForm": "be suspended by/on something from something"
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to officially stop something for a time; to prevent something from being active, used, etc. for a time",
+			"sensetop": "suspend something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Production has been suspended while safety checks are carried out."
+				},
+				{
+					"text": "The constitution was suspended as the fighting grew worse."
+				},
+				{
+					"text": "In the theatre we willingly **suspend disbelief** *(= temporarily believe that the characters, etc. are real)*."
+				},
+				{
+					"text": "The EU should have the power to suspend subsidy payments to farmers who pollute the environment."
+				},
+				{
+					"text": "The government has decided to suspend production at the country's biggest lead plant."
+				},
+				{
+					"text": "Aid flights have been suspended for a week after fighting near the city's airport."
+				}
+			],
+			"collocations": {
+				"adverb": ["immediately", "indefinitely", "temporarily"],
+				"verb + suspend": ["agree to", "decide to", "vote to"],
+				"phrases": ["the power to suspend something"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to officially delay something; to arrange for something to happen later than planned",
+			"sensetop": "suspend something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The introduction of the new system has been suspended until next year."
+				},
+				{
+					"text": "to suspend judgement *(= delay forming or expressing an opinion)*"
+				}
+			],
+			"collocations": {
+				"adverb": ["immediately", "indefinitely", "temporarily"],
+				"verb + suspend": ["agree to", "decide to", "vote to"],
+				"phrases": ["the power to suspend something"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to officially prevent somebody from doing their job, going to school, etc. for a time, as a punishment or while a complaint against them is investigated",
+			"sensetop": "be suspendedbe suspended from something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The police officer was suspended while the complaint was investigated.",
+					"contextForm": "be suspended"
+				},
+				{
+					"text": "She was suspended from school for a week.",
+					"contextForm": "be suspended from something"
+				},
+				{
+					"text": "She has been suspended on full pay following a disciplinary hearing."
+				},
+				{
+					"text": "She was suspended pending the outcome of the police investigation."
+				},
+				{
+					"text": "The players will be automatically suspended."
+				},
+				{
+					"text": "We both got suspended for fighting."
+				}
+			],
+			"topics": ["Education"],
+			"collocations": {
+				"adverb": ["automatically", "formally", "indefinitely"],
+				"verb + suspend": ["threaten to"],
+				"preposition": ["for", "from", "pending"],
+				"phrases": [
+					"be suspended on full pay",
+					"be suspended with pay",
+					"be suspended without pay"
+				]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to float in liquid or air without moving",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "Small droplets are held suspended in the atmosphere."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/səˈspend/",
+				"audio": "su/suspend/suspend__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/səˈspendz/",
+				"audio": "su/suspend/suspends__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈspendɪd/",
+				"audio": "su/suspend/suspended__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈspendɪŋ/",
+				"audio": "su/suspend/suspending__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/səˈspend/",
+				"audio": "su/suspend/suspend__us_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈspendz/",
+				"audio": "su/suspend/suspends__us_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈspendɪd/",
+				"audio": "su/suspend/suspended__us_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈspendɪŋ/",
+				"audio": "su/suspend/suspending__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French suspendre or Latin suspendere, from sub- ‘from below’ + pendere ‘hang’."
 }

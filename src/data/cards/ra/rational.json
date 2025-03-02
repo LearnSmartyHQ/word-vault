@@ -1,83 +1,83 @@
 {
-  "term": "rational",
-  "partOfSpeech": "adjective",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "based on reason rather than emotions",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a rational argument/choice/decision"
-        },
-        {
-          "text": "rational analysis/thought"
-        },
-        {
-          "text": "There is no rational explanation for his actions."
-        },
-        {
-          "text": "It all seemed quite rational to me."
-        },
-        {
-          "text": "In some ways their behaviour is perfectly rational."
-        },
-        {
-          "text": "She seems incapable of making a rational decision."
-        },
-        {
-          "text": "We need to present them with a rational argument."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "seem"],
-        "adverb": ["highly", "very", "completely"],
-        "preposition": ["about"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "able to think clearly and make decisions based on reason rather than emotions",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "No rational person would ever behave like that."
-        },
-        {
-          "text": "Try to be rational about it."
-        },
-        {
-          "text": "Humans are essentially rational beings."
-        },
-        {
-          "text": "She said that she had not been fully rational when she signed the form."
-        }
-      ],
-      "synonyms": "reasonable",
-      "topics": ["Personal qualities"],
-      "collocations": {
-        "verbs": ["be", "seem"],
-        "adverb": ["highly", "very", "completely"],
-        "preposition": ["about"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈræʃnəl/",
-        "audio": "ra/rational/rational__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈræʃnəl/",
-        "audio": "ra/rational/rational__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘having the ability to reason’): from Latin rationalis, from ratio(n-) ‘reckoning, reason’, from rat- ‘reckoned’, from the verb reri."
+	"term": "rational",
+	"partOfSpeech": "adjective",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "based on reason rather than emotions",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a rational argument/choice/decision"
+				},
+				{
+					"text": "rational analysis/thought"
+				},
+				{
+					"text": "There is no rational explanation for his actions."
+				},
+				{
+					"text": "It all seemed quite rational to me."
+				},
+				{
+					"text": "In some ways their behaviour is perfectly rational."
+				},
+				{
+					"text": "She seems incapable of making a rational decision."
+				},
+				{
+					"text": "We need to present them with a rational argument."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "seem"],
+				"adverb": ["highly", "very", "completely"],
+				"preposition": ["about"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "able to think clearly and make decisions based on reason rather than emotions",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "No rational person would ever behave like that."
+				},
+				{
+					"text": "Try to be rational about it."
+				},
+				{
+					"text": "Humans are essentially rational beings."
+				},
+				{
+					"text": "She said that she had not been fully rational when she signed the form."
+				}
+			],
+			"synonyms": "reasonable",
+			"topics": ["Personal qualities"],
+			"collocations": {
+				"verbs": ["be", "seem"],
+				"adverb": ["highly", "very", "completely"],
+				"preposition": ["about"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈræʃnəl/",
+				"audio": "ra/rational/rational__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈræʃnəl/",
+				"audio": "ra/rational/rational__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘having the ability to reason’): from Latin rationalis, from ratio(n-) ‘reckoning, reason’, from rat- ‘reckoned’, from the verb reri."
 }

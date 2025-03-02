@@ -1,100 +1,100 @@
 {
-  "term": "width",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "image": "data/images/di/dimensions.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the measurement from one side of something to the other; how wide something is",
-      "sensetop": "in width",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The terrace runs **the full width of** the house."
-        },
-        {
-          "text": "It's about ten metres in width.",
-          "contextForm": "in width"
-        },
-        {
-          "text": "The carpet is available in different widths."
-        },
-        {
-          "text": "The boots are available in a choice of width fittings."
-        },
-        {
-          "text": "The car is 1.775 m in width."
-        },
-        {
-          "text": "The road narrows to a width of just four metres."
-        },
-        {
-          "text": "The snow had narrowed the width of the road to a single track."
-        },
-        {
-          "text": "The windows have a width of six feet."
-        },
-        {
-          "text": "a platform that spanned the width of the room"
-        },
-        {
-          "text": "the great width of his shoulders"
-        },
-        {
-          "text": "Height: 210 mm. Width: 57 mm. Length: 170 mm."
-        },
-        {
-          "text": "The pattern goes across the full width of the material."
-        },
-        {
-          "text": "The fabric is only available in a narrow width."
-        }
-      ],
-      "topics": ["Maths and measurement"],
-      "collocations": {
-        "adjective": ["great", "entire", "full"],
-        "verb + width": ["have", "span", "measure"],
-        "width + verb": ["grow", "increase", "decrease"],
-        "width + noun": ["measurement"],
-        "preposition": ["across the width", "in width"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a piece of material of a particular width",
-      "examples": [
-        {
-          "text": "You'll need two widths of fabric for each curtain."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the distance between the two long sides of a swimming pool",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "How many widths can you swim?"
-        }
-      ],
-      "topics": ["Sports: water sports"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/wɪdθ//wɪtθ/",
-        "audio": "wi/width/width__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/wɪdθ//wɪtθ/",
-        "audio": "wi/width/width__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 17th cent.: from wide + -th, on the pattern of breadth (replacing wideness)."
+	"term": "width",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"image": "data/images/di/dimensions.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the measurement from one side of something to the other; how wide something is",
+			"sensetop": "in width",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The terrace runs **the full width of** the house."
+				},
+				{
+					"text": "It's about ten metres in width.",
+					"contextForm": "in width"
+				},
+				{
+					"text": "The carpet is available in different widths."
+				},
+				{
+					"text": "The boots are available in a choice of width fittings."
+				},
+				{
+					"text": "The car is 1.775 m in width."
+				},
+				{
+					"text": "The road narrows to a width of just four metres."
+				},
+				{
+					"text": "The snow had narrowed the width of the road to a single track."
+				},
+				{
+					"text": "The windows have a width of six feet."
+				},
+				{
+					"text": "a platform that spanned the width of the room"
+				},
+				{
+					"text": "the great width of his shoulders"
+				},
+				{
+					"text": "Height: 210 mm. Width: 57 mm. Length: 170 mm."
+				},
+				{
+					"text": "The pattern goes across the full width of the material."
+				},
+				{
+					"text": "The fabric is only available in a narrow width."
+				}
+			],
+			"topics": ["Maths and measurement"],
+			"collocations": {
+				"adjective": ["great", "entire", "full"],
+				"verb + width": ["have", "span", "measure"],
+				"width + verb": ["grow", "increase", "decrease"],
+				"width + noun": ["measurement"],
+				"preposition": ["across the width", "in width"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a piece of material of a particular width",
+			"examples": [
+				{
+					"text": "You'll need two widths of fabric for each curtain."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the distance between the two long sides of a swimming pool",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "How many widths can you swim?"
+				}
+			],
+			"topics": ["Sports: water sports"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/wɪdθ//wɪtθ/",
+				"audio": "wi/width/width__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/wɪdθ//wɪtθ/",
+				"audio": "wi/width/width__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 17th cent.: from wide + -th, on the pattern of breadth (replacing wideness)."
 }

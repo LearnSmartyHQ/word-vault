@@ -1,90 +1,90 @@
 {
-  "term": "celebrity",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a famous person",
-      "labels": "informalinformal",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **celebrity chef**"
-        },
-        {
-          "text": "He became a celebrity in China after winning a gold medal at the Olympics."
-        },
-        {
-          "text": "Hollywood/TV celebrities"
-        },
-        {
-          "text": "He achieved instant **celebrity status**."
-        },
-        {
-          "text": "He became a minor celebrity among Manhattan's cultural élite."
-        },
-        {
-          "text": "He became something of a celebrity in his home town."
-        },
-        {
-          "text": "The show's success made her an overnight celebrity."
-        },
-        {
-          "text": "Tonight's show features a host of celebrities."
-        },
-        {
-          "text": "It's his dream to become a celebrity chef."
-        },
-        {
-          "text": "She was the first TV celebrity he had met in the flesh."
-        }
-      ],
-      "topics": ["TV, radio and news"],
-      "collocations": {
-        "adjective": ["international", "local", "national"],
-        "… of celebrities": ["host"],
-        "verb + celebrity": ["make somebody"],
-        "celebrity + noun": ["profile", "status", "chef"],
-        "phrases": ["something of a celebrity"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the state of being famous",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Does he find his new celebrity intruding on his private life?"
-        },
-        {
-          "text": "He achieved overnight celebrity as a war correspondent."
-        },
-        {
-          "text": "The diary charts her path from obscurity to international celebrity."
-        },
-        {
-          "text": "He briefly achieved celebrity as a radical politician."
-        }
-      ],
-      "synonyms": "fame"
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/səˈlebrəti/",
-        "audio": "ce/celebrity/celebrity__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/səˈlebrəti/",
-        "audio": "ce/celebrity/celebrity__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘solemn ceremony’): from Old French celebrite or Latin celebritas, from celeber, celebr- ‘frequented or honoured’."
+	"term": "celebrity",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a famous person",
+			"labels": "informalinformal",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **celebrity chef**"
+				},
+				{
+					"text": "He became a celebrity in China after winning a gold medal at the Olympics."
+				},
+				{
+					"text": "Hollywood/TV celebrities"
+				},
+				{
+					"text": "He achieved instant **celebrity status**."
+				},
+				{
+					"text": "He became a minor celebrity among Manhattan's cultural élite."
+				},
+				{
+					"text": "He became something of a celebrity in his home town."
+				},
+				{
+					"text": "The show's success made her an overnight celebrity."
+				},
+				{
+					"text": "Tonight's show features a host of celebrities."
+				},
+				{
+					"text": "It's his dream to become a celebrity chef."
+				},
+				{
+					"text": "She was the first TV celebrity he had met in the flesh."
+				}
+			],
+			"topics": ["TV, radio and news"],
+			"collocations": {
+				"adjective": ["international", "local", "national"],
+				"… of celebrities": ["host"],
+				"verb + celebrity": ["make somebody"],
+				"celebrity + noun": ["profile", "status", "chef"],
+				"phrases": ["something of a celebrity"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the state of being famous",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Does he find his new celebrity intruding on his private life?"
+				},
+				{
+					"text": "He achieved overnight celebrity as a war correspondent."
+				},
+				{
+					"text": "The diary charts her path from obscurity to international celebrity."
+				},
+				{
+					"text": "He briefly achieved celebrity as a radical politician."
+				}
+			],
+			"synonyms": "fame"
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/səˈlebrəti/",
+				"audio": "ce/celebrity/celebrity__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/səˈlebrəti/",
+				"audio": "ce/celebrity/celebrity__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘solemn ceremony’): from Old French celebrite or Latin celebritas, from celeber, celebr- ‘frequented or honoured’."
 }

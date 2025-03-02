@@ -1,164 +1,164 @@
 {
-  "term": "conclude",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "conclude",
-      "heSheIt": "concludes"
-    },
-    "pastSimple": "concluded",
-    "pastParticiple": "concluded",
-    "ingForm": "concluding"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to decide or believe something as a result of what you have heard or seen",
-      "sensetop": "conclude somethingconclude something from somethingconclude (that)…conclude from something that…it is concluded that…+ speech",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "It is too early for us to conclude anything.",
-          "contextForm": "conclude something"
-        },
-        {
-          "text": "What do you conclude from that?",
-          "contextForm": "conclude something from something"
-        },
-        {
-          "text": "The **report concluded** (that) the cheapest option was to close the laboratory.",
-          "contextForm": "conclude (that)…"
-        },
-        {
-          "text": "He concluded from their remarks that they were not in favour of the plan.",
-          "contextForm": "conclude from something that…"
-        },
-        {
-          "text": "It was concluded that the level of change necessary would be low.",
-          "contextForm": "it is concluded that…"
-        },
-        {
-          "text": "‘So it should be safe to continue,’ he concluded.",
-          "contextForm": "+ speech"
-        },
-        {
-          "text": "‘There really isn't much hope left,’ she concluded."
-        },
-        {
-          "text": "It was concluded that there was little that could be done."
-        },
-        {
-          "text": "Whatever you conclude, remember that there are certain things we may not know."
-        }
-      ],
-      "topics": ["Scientific research"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to come to an end; to bring something to an end",
-      "sensetop": "conclude with somethingconclude by doing somethingconclude somethingconclude something with somethingconclude+ speech",
-      "labels": "(formal)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "This was how the negotiations finally concluded."
-        },
-        {
-          "text": "Let me make just a few concluding remarks."
-        },
-        {
-          "text": "the concluding chapter of the book"
-        },
-        {
-          "text": "The programme concluded with Stravinsky's ‘Rite of Spring’.",
-          "contextForm": "conclude with something"
-        },
-        {
-          "text": "He concluded by wishing everyone a safe trip home.",
-          "contextForm": "conclude by doing something"
-        },
-        {
-          "text": "The commission concluded its investigation last month.",
-          "contextForm": "conclude something"
-        },
-        {
-          "text": "And that concludes our programme for today."
-        },
-        {
-          "text": "The main responsibility of a salesperson is to conclude a sale successfully."
-        },
-        {
-          "text": "She concluded her speech with a quotation from Shakespeare.",
-          "contextForm": "conclude something with something"
-        },
-        {
-          "text": "‘Anyway, she should be back soon,’ he concluded.",
-          "contextForm": "conclude+ speech"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to arrange and settle an agreement with somebody formally and finally",
-      "sensetop": "conclude something (with somebody)",
-      "labels": "(formal)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "They concluded a treaty with Turkey."
-        },
-        {
-          "text": "A trade agreement was concluded between the two countries."
-        },
-        {
-          "text": "The problems arose from the failure to conclude a new agreement."
-        }
-      ],
-      "topics": ["Discussion and agreement"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kənˈkluːd/",
-        "audio": "xc/conclude/xconclude__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/kənˈkluːdz/",
-        "audio": "xc/conclude/xconcludes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈkluːdɪd/",
-        "audio": "xc/conclude/xconcluded__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈkluːdɪŋ/",
-        "audio": "xc/conclude/xconcluding__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kənˈkluːd/",
-        "audio": "xc/conclude/xconclude__us_2.mp3"
-      },
-      {
-        "pronunciation": "/kənˈkluːdz/",
-        "audio": "xc/conclude/xconcludes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈkluːdɪd/",
-        "audio": "xc/conclude/xconcluded__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈkluːdɪŋ/",
-        "audio": "xc/conclude/xconcluding__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in the sense ‘convince’): from Latin concludere, from con- ‘completely’ + claudere ‘to shut’."
+	"term": "conclude",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "conclude",
+			"heSheIt": "concludes"
+		},
+		"pastSimple": "concluded",
+		"pastParticiple": "concluded",
+		"ingForm": "concluding"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to decide or believe something as a result of what you have heard or seen",
+			"sensetop": "conclude somethingconclude something from somethingconclude (that)…conclude from something that…it is concluded that…+ speech",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "It is too early for us to conclude anything.",
+					"contextForm": "conclude something"
+				},
+				{
+					"text": "What do you conclude from that?",
+					"contextForm": "conclude something from something"
+				},
+				{
+					"text": "The **report concluded** (that) the cheapest option was to close the laboratory.",
+					"contextForm": "conclude (that)…"
+				},
+				{
+					"text": "He concluded from their remarks that they were not in favour of the plan.",
+					"contextForm": "conclude from something that…"
+				},
+				{
+					"text": "It was concluded that the level of change necessary would be low.",
+					"contextForm": "it is concluded that…"
+				},
+				{
+					"text": "‘So it should be safe to continue,’ he concluded.",
+					"contextForm": "+ speech"
+				},
+				{
+					"text": "‘There really isn't much hope left,’ she concluded."
+				},
+				{
+					"text": "It was concluded that there was little that could be done."
+				},
+				{
+					"text": "Whatever you conclude, remember that there are certain things we may not know."
+				}
+			],
+			"topics": ["Scientific research"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to come to an end; to bring something to an end",
+			"sensetop": "conclude with somethingconclude by doing somethingconclude somethingconclude something with somethingconclude+ speech",
+			"labels": "(formal)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "This was how the negotiations finally concluded."
+				},
+				{
+					"text": "Let me make just a few concluding remarks."
+				},
+				{
+					"text": "the concluding chapter of the book"
+				},
+				{
+					"text": "The programme concluded with Stravinsky's ‘Rite of Spring’.",
+					"contextForm": "conclude with something"
+				},
+				{
+					"text": "He concluded by wishing everyone a safe trip home.",
+					"contextForm": "conclude by doing something"
+				},
+				{
+					"text": "The commission concluded its investigation last month.",
+					"contextForm": "conclude something"
+				},
+				{
+					"text": "And that concludes our programme for today."
+				},
+				{
+					"text": "The main responsibility of a salesperson is to conclude a sale successfully."
+				},
+				{
+					"text": "She concluded her speech with a quotation from Shakespeare.",
+					"contextForm": "conclude something with something"
+				},
+				{
+					"text": "‘Anyway, she should be back soon,’ he concluded.",
+					"contextForm": "conclude+ speech"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to arrange and settle an agreement with somebody formally and finally",
+			"sensetop": "conclude something (with somebody)",
+			"labels": "(formal)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "They concluded a treaty with Turkey."
+				},
+				{
+					"text": "A trade agreement was concluded between the two countries."
+				},
+				{
+					"text": "The problems arose from the failure to conclude a new agreement."
+				}
+			],
+			"topics": ["Discussion and agreement"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kənˈkluːd/",
+				"audio": "xc/conclude/xconclude__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/kənˈkluːdz/",
+				"audio": "xc/conclude/xconcludes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈkluːdɪd/",
+				"audio": "xc/conclude/xconcluded__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈkluːdɪŋ/",
+				"audio": "xc/conclude/xconcluding__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kənˈkluːd/",
+				"audio": "xc/conclude/xconclude__us_2.mp3"
+			},
+			{
+				"pronunciation": "/kənˈkluːdz/",
+				"audio": "xc/conclude/xconcludes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈkluːdɪd/",
+				"audio": "xc/conclude/xconcluded__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈkluːdɪŋ/",
+				"audio": "xc/conclude/xconcluding__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in the sense ‘convince’): from Latin concludere, from con- ‘completely’ + claudere ‘to shut’."
 }

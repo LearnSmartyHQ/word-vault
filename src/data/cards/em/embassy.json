@@ -1,80 +1,80 @@
 {
-  "term": "embassy",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a group of officials led by an ambassador who represent their government in a foreign country",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "embassy officials"
-        },
-        {
-          "text": "to inform the embassy of the situation"
-        }
-      ],
-      "topics": ["Politics"],
-      "collocations": {
-        "adjective": ["foreign", "American", "British"],
-        "verb + embassy": ["close", "open", "reopen"],
-        "embassy + noun": ["building", "compound", "official"],
-        "preposition": [
-          "at an/​the embassy",
-          "in an/​the embassy",
-          "outside an/​the embassy"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the building in which an embassy works",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a demonstration outside the Russian Embassy"
-        },
-        {
-          "text": "a fire in the Spanish embassy"
-        },
-        {
-          "text": "a protest outside the American embassy"
-        },
-        {
-          "text": "They broke off diplomatic relations and closed the embassies in each other's country."
-        },
-        {
-          "text": "She works at the Malaysian embassy in Buenos Aires."
-        }
-      ],
-      "topics": ["Buildings"],
-      "collocations": {
-        "adjective": ["foreign", "American", "British"],
-        "verb + embassy": ["close", "open", "reopen"],
-        "embassy + noun": ["building", "compound", "official"],
-        "preposition": [
-          "at an/​the embassy",
-          "in an/​the embassy",
-          "outside an/​the embassy"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈembəsi/",
-        "audio": "em/embassy/embassy__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈembəsi/",
-        "audio": "em/embassy/embassy__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent. (originally also as ambassy denoting the position of ambassador): from Old French ambasse, based on Latin ambactus ‘servant’. Compare with ambassador."
+	"term": "embassy",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a group of officials led by an ambassador who represent their government in a foreign country",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "embassy officials"
+				},
+				{
+					"text": "to inform the embassy of the situation"
+				}
+			],
+			"topics": ["Politics"],
+			"collocations": {
+				"adjective": ["foreign", "American", "British"],
+				"verb + embassy": ["close", "open", "reopen"],
+				"embassy + noun": ["building", "compound", "official"],
+				"preposition": [
+					"at an/​the embassy",
+					"in an/​the embassy",
+					"outside an/​the embassy"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the building in which an embassy works",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a demonstration outside the Russian Embassy"
+				},
+				{
+					"text": "a fire in the Spanish embassy"
+				},
+				{
+					"text": "a protest outside the American embassy"
+				},
+				{
+					"text": "They broke off diplomatic relations and closed the embassies in each other's country."
+				},
+				{
+					"text": "She works at the Malaysian embassy in Buenos Aires."
+				}
+			],
+			"topics": ["Buildings"],
+			"collocations": {
+				"adjective": ["foreign", "American", "British"],
+				"verb + embassy": ["close", "open", "reopen"],
+				"embassy + noun": ["building", "compound", "official"],
+				"preposition": [
+					"at an/​the embassy",
+					"in an/​the embassy",
+					"outside an/​the embassy"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈembəsi/",
+				"audio": "em/embassy/embassy__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈembəsi/",
+				"audio": "em/embassy/embassy__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent. (originally also as ambassy denoting the position of ambassador): from Old French ambasse, based on Latin ambactus ‘servant’. Compare with ambassador."
 }

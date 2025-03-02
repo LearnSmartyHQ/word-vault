@@ -1,138 +1,138 @@
 {
-  "term": "confident",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "feeling sure about your own ability to do things and be successful",
-      "sensetop": "confident about somethingconfident about doing somethingconfident in something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She was in a relaxed, confident mood."
-        },
-        {
-          "text": "Beneath his confident and charming exterior lurked a mass of insecurities."
-        },
-        {
-          "text": "I was actually fairly confident about my chances.",
-          "contextForm": "confident about something"
-        },
-        {
-          "text": "The teacher wants the children to **feel confident** about asking questions when they don't understand.",
-          "contextForm": "confident about doing something"
-        },
-        {
-          "text": "He'd learned to be confident in his ability to handle anything life threw at him.",
-          "contextForm": "confident in something"
-        },
-        {
-          "text": "Going to university has made her more confident."
-        },
-        {
-          "text": "He was overly confident, perhaps to the point of arrogance."
-        },
-        {
-          "text": "He's becoming more confident as he gets older."
-        },
-        {
-          "text": "She gradually grew more confident."
-        },
-        {
-          "text": "She sauntered onto the set, looking serenely confident."
-        },
-        {
-          "text": "You get young people who appear to be socially confident, but inside they are a bundle of neuroses."
-        },
-        {
-          "text": "They gave a very confident performance of the piece."
-        }
-      ],
-      "topics": ["Doubt, guessing and certainty", "Personal qualities"],
-      "collocations": {
-        "verbs": ["appear", "be", "feel"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["about", "in", "of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "feeling certain that something will happen in the way that you want or expect",
-      "sensetop": "confident of somethingconfident of doing somethingconfident about somethingconfident (that)…",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The Democrats were confident of victory.",
-          "contextForm": "confident of something"
-        },
-        {
-          "text": "The team **feels confident** of winning.",
-          "contextForm": "confident of doing something"
-        },
-        {
-          "text": "We are confident about the future.",
-          "contextForm": "confident about something"
-        },
-        {
-          "text": "I'm confident that you will get the job.",
-          "contextForm": "confident (that)…"
-        },
-        {
-          "text": "He said he **remained confident** that the dispute could be resolved."
-        },
-        {
-          "text": "We're pretty confident we can win the case."
-        },
-        {
-          "text": "She was **quietly confident** that everything would go as planned."
-        },
-        {
-          "text": "I'm quite confident that you'll get the job."
-        },
-        {
-          "text": "We feel confident that these results are accurate."
-        },
-        {
-          "text": "I'm fully confident of winning the title."
-        },
-        {
-          "text": "I'm 95% confident of success."
-        },
-        {
-          "text": "They gave a confident prediction that things would improve."
-        },
-        {
-          "text": "He came out of the interview feeling quietly confident."
-        },
-        {
-          "text": "I'm very confident in our ability to maintain leadership."
-        }
-      ],
-      "topics": ["Doubt, guessing and certainty"],
-      "collocations": {
-        "verbs": ["appear", "be", "feel"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["about", "in", "of"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkɒnfɪdənt/",
-        "audio": "xc/confident/xconfident__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkɑːnfɪdənt/",
-        "audio": "xc/confident/xconfident__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent.: from French confident(e), from Italian confidente, from Latin confident- ‘having full trust’, from the verb confidere, from con- (expressing intensive force) + fidere ‘trust’."
+	"term": "confident",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "feeling sure about your own ability to do things and be successful",
+			"sensetop": "confident about somethingconfident about doing somethingconfident in something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She was in a relaxed, confident mood."
+				},
+				{
+					"text": "Beneath his confident and charming exterior lurked a mass of insecurities."
+				},
+				{
+					"text": "I was actually fairly confident about my chances.",
+					"contextForm": "confident about something"
+				},
+				{
+					"text": "The teacher wants the children to **feel confident** about asking questions when they don't understand.",
+					"contextForm": "confident about doing something"
+				},
+				{
+					"text": "He'd learned to be confident in his ability to handle anything life threw at him.",
+					"contextForm": "confident in something"
+				},
+				{
+					"text": "Going to university has made her more confident."
+				},
+				{
+					"text": "He was overly confident, perhaps to the point of arrogance."
+				},
+				{
+					"text": "He's becoming more confident as he gets older."
+				},
+				{
+					"text": "She gradually grew more confident."
+				},
+				{
+					"text": "She sauntered onto the set, looking serenely confident."
+				},
+				{
+					"text": "You get young people who appear to be socially confident, but inside they are a bundle of neuroses."
+				},
+				{
+					"text": "They gave a very confident performance of the piece."
+				}
+			],
+			"topics": ["Doubt, guessing and certainty", "Personal qualities"],
+			"collocations": {
+				"verbs": ["appear", "be", "feel"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["about", "in", "of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "feeling certain that something will happen in the way that you want or expect",
+			"sensetop": "confident of somethingconfident of doing somethingconfident about somethingconfident (that)…",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The Democrats were confident of victory.",
+					"contextForm": "confident of something"
+				},
+				{
+					"text": "The team **feels confident** of winning.",
+					"contextForm": "confident of doing something"
+				},
+				{
+					"text": "We are confident about the future.",
+					"contextForm": "confident about something"
+				},
+				{
+					"text": "I'm confident that you will get the job.",
+					"contextForm": "confident (that)…"
+				},
+				{
+					"text": "He said he **remained confident** that the dispute could be resolved."
+				},
+				{
+					"text": "We're pretty confident we can win the case."
+				},
+				{
+					"text": "She was **quietly confident** that everything would go as planned."
+				},
+				{
+					"text": "I'm quite confident that you'll get the job."
+				},
+				{
+					"text": "We feel confident that these results are accurate."
+				},
+				{
+					"text": "I'm fully confident of winning the title."
+				},
+				{
+					"text": "I'm 95% confident of success."
+				},
+				{
+					"text": "They gave a confident prediction that things would improve."
+				},
+				{
+					"text": "He came out of the interview feeling quietly confident."
+				},
+				{
+					"text": "I'm very confident in our ability to maintain leadership."
+				}
+			],
+			"topics": ["Doubt, guessing and certainty"],
+			"collocations": {
+				"verbs": ["appear", "be", "feel"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["about", "in", "of"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkɒnfɪdənt/",
+				"audio": "xc/confident/xconfident__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkɑːnfɪdənt/",
+				"audio": "xc/confident/xconfident__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent.: from French confident(e), from Italian confidente, from Latin confident- ‘having full trust’, from the verb confidere, from con- (expressing intensive force) + fidere ‘trust’."
 }

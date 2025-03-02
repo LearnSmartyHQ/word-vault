@@ -1,86 +1,86 @@
 {
-  "term": "gaze",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "gaze",
-      "heSheIt": "gazes"
-    },
-    "pastSimple": "gazed",
-    "pastParticiple": "gazed",
-    "ingForm": "gazing"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to look steadily at somebody/something for a long time, either because you are very interested or surprised, or because you are thinking of something else",
-      "sensetop": "+ adv./prep.",
-      "examples": [
-        {
-          "text": "She gazed at him in amazement."
-        },
-        {
-          "text": "He sat for hours just **gazing into space**."
-        },
-        {
-          "text": "Every one gazed at her beautiful jewels."
-        },
-        {
-          "text": "He gazed absently at the passing crowd."
-        },
-        {
-          "text": "He gazed out over the lake."
-        },
-        {
-          "text": "They gazed in wonder at the mighty peaks."
-        }
-      ],
-      "synonyms": "stare",
-      "collocations": {
-        "adverb": ["intently", "steadily", "absently"],
-        "preposition": ["at", "in", "into"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɡeɪz/",
-        "audio": "ga/gaze/gaze__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈɡeɪzɪz/",
-        "audio": "ga/gaze/gazes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɡeɪzd/",
-        "audio": "ga/gaze/gazed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɡeɪzɪŋ/",
-        "audio": "ga/gaze/gazing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɡeɪz/",
-        "audio": "ga/gaze/gaze__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɡeɪzɪz/",
-        "audio": "ga/gaze/gazes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɡeɪzd/",
-        "audio": "ga/gaze/gazed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɡeɪzɪŋ/",
-        "audio": "ga/gaze/gazing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: perhaps related to obsolete gaw ‘to gaze’, from Old Norse gá ‘heed’."
+	"term": "gaze",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "gaze",
+			"heSheIt": "gazes"
+		},
+		"pastSimple": "gazed",
+		"pastParticiple": "gazed",
+		"ingForm": "gazing"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to look steadily at somebody/something for a long time, either because you are very interested or surprised, or because you are thinking of something else",
+			"sensetop": "+ adv./prep.",
+			"examples": [
+				{
+					"text": "She gazed at him in amazement."
+				},
+				{
+					"text": "He sat for hours just **gazing into space**."
+				},
+				{
+					"text": "Every one gazed at her beautiful jewels."
+				},
+				{
+					"text": "He gazed absently at the passing crowd."
+				},
+				{
+					"text": "He gazed out over the lake."
+				},
+				{
+					"text": "They gazed in wonder at the mighty peaks."
+				}
+			],
+			"synonyms": "stare",
+			"collocations": {
+				"adverb": ["intently", "steadily", "absently"],
+				"preposition": ["at", "in", "into"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɡeɪz/",
+				"audio": "ga/gaze/gaze__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈɡeɪzɪz/",
+				"audio": "ga/gaze/gazes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɡeɪzd/",
+				"audio": "ga/gaze/gazed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɡeɪzɪŋ/",
+				"audio": "ga/gaze/gazing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɡeɪz/",
+				"audio": "ga/gaze/gaze__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɡeɪzɪz/",
+				"audio": "ga/gaze/gazes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɡeɪzd/",
+				"audio": "ga/gaze/gazed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɡeɪzɪŋ/",
+				"audio": "ga/gaze/gazing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: perhaps related to obsolete gaw ‘to gaze’, from Old Norse gá ‘heed’."
 }

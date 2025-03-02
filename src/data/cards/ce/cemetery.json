@@ -1,38 +1,38 @@
 {
-  "term": "cemetery",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "an area of land used for burying dead people, especially one that is not next to a church",
-      "examples": [
-        {
-          "text": "He was buried in a private cemetery."
-        }
-      ],
-      "topics": ["Religion and festivals", "Life stages"],
-      "collocations": {
-        "adjective": ["local", "private", "public"],
-        "verb + cemetery": ["be buried in", "visit"],
-        "preposition": ["in a/​the cemetery"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsemətri/",
-        "audio": "ce/cemetery/cemetery__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈseməteri/",
-        "audio": "ce/cemetery/cemetery__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: via late Latin from Greek koimētērion ‘dormitory’, from koiman ‘put to sleep’."
+	"term": "cemetery",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "an area of land used for burying dead people, especially one that is not next to a church",
+			"examples": [
+				{
+					"text": "He was buried in a private cemetery."
+				}
+			],
+			"topics": ["Religion and festivals", "Life stages"],
+			"collocations": {
+				"adjective": ["local", "private", "public"],
+				"verb + cemetery": ["be buried in", "visit"],
+				"preposition": ["in a/​the cemetery"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsemətri/",
+				"audio": "ce/cemetery/cemetery__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈseməteri/",
+				"audio": "ce/cemetery/cemetery__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: via late Latin from Greek koimētērion ‘dormitory’, from koiman ‘put to sleep’."
 }

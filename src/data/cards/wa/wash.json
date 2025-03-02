@@ -1,191 +1,191 @@
 {
-  "term": "wash",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "wash",
-      "heSheIt": "washes"
-    },
-    "pastSimple": "washed",
-    "pastParticiple": "washed",
-    "ingForm": "washing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to make something/somebody clean using water and usually soap",
-      "sensetop": "wash something/somebodywash something from somethingwash something/somebody + adj.",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "These jeans need washing.",
-          "contextForm": "wash something/somebody"
-        },
-        {
-          "text": "He always washes the car on Sundays."
-        },
-        {
-          "text": "to **wash your hands/hair/face**"
-        },
-        {
-          "text": "Wash the fruit thoroughly before eating."
-        },
-        {
-          "text": "She washed the blood from his face.",
-          "contextForm": "wash something from something"
-        },
-        {
-          "text": "The potatoes are washed clean without damaging the skins.",
-          "contextForm": "wash something/somebody + adj."
-        },
-        {
-          "text": "Hands need to be washed regularly with hot water."
-        },
-        {
-          "text": "She gently washed and dressed the wound."
-        },
-        {
-          "text": "the smell of freshly washed hair"
-        },
-        {
-          "text": "He quickly washed his hands and face."
-        },
-        {
-          "text": "He washed his face."
-        },
-        {
-          "text": "If you wash the dishes, I'll dry."
-        }
-      ],
-      "topics": ["Houses and homes"],
-      "collocations": {
-        "adverb": ["carefully", "properly", "thoroughly"],
-        "phrases": ["freshly washed", "newly washed"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to make yourself clean using water and usually soap",
-      "sensetop": "wash yourself",
-      "labels": "(especially British English)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "By this time we were already washed and dressed."
-        },
-        {
-          "text": "I washed and changed before going out."
-        },
-        {
-          "text": "Mick woke up, got washed and shaved, and put his work clothes on."
-        },
-        {
-          "text": "She was no longer able to wash herself.",
-          "contextForm": "wash yourself"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to be able to be washed without losing colour or being damaged",
-      "sensetop": "(+ adv./prep.)",
-      "examples": [
-        {
-          "text": "This sweater washes well."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to flow or carry something/somebody in a particular direction",
-      "sensetop": "+ adv./prep.wash something/somebody + adv./prep.wash something + adj.",
-      "examples": [
-        {
-          "text": "Water washed over the deck.",
-          "contextForm": "+ adv./prep."
-        },
-        {
-          "text": "Pieces of the wreckage were **washed ashore**.",
-          "contextForm": "wash something/somebody + adv./prep."
-        },
-        {
-          "text": "He was **washed overboard** by a huge wave."
-        },
-        {
-          "text": "The beach had been washed clean by the tide.",
-          "contextForm": "wash something + adj."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to discuss your personal affairs in public, especially something embarrassing",
-      "labels": "(disapproving)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to refuse to be responsible for or involved with somebody/something",
-      "examples": [
-        {
-          "text": "When her son was arrested again she washed her hands of him."
-        },
-        {
-          "text": "I’ve washed my hands of the whole sordid business."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that somebody’s explanation, excuse, etc. is not true or that you/somebody else will not accept it",
-      "examples": [
-        {
-          "text": "That excuse simply won't wash with me."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/wɒʃ/",
-        "audio": "wa/wash/wash__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwɒʃɪz/",
-        "audio": "wa/wash/washes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/wɒʃt/",
-        "audio": "wa/wash/washed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwɒʃɪŋ/",
-        "audio": "wa/wash/washing__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/wɑːʃ/",
-        "audio": "wa/wash/wash__us_1_rr.mp3"
-      },
-      {
-        "pronunciation": "/ˈwɑːʃɪz/",
-        "audio": "wa/wash/washes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/wɑːʃt/",
-        "audio": "wa/wash/washed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwɑːʃɪŋ/",
-        "audio": "wa/wash/washing__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English wæscan (verb), of Germanic origin; related to Dutch wassen, German waschen, also to water."
+	"term": "wash",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "wash",
+			"heSheIt": "washes"
+		},
+		"pastSimple": "washed",
+		"pastParticiple": "washed",
+		"ingForm": "washing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to make something/somebody clean using water and usually soap",
+			"sensetop": "wash something/somebodywash something from somethingwash something/somebody + adj.",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "These jeans need washing.",
+					"contextForm": "wash something/somebody"
+				},
+				{
+					"text": "He always washes the car on Sundays."
+				},
+				{
+					"text": "to **wash your hands/hair/face**"
+				},
+				{
+					"text": "Wash the fruit thoroughly before eating."
+				},
+				{
+					"text": "She washed the blood from his face.",
+					"contextForm": "wash something from something"
+				},
+				{
+					"text": "The potatoes are washed clean without damaging the skins.",
+					"contextForm": "wash something/somebody + adj."
+				},
+				{
+					"text": "Hands need to be washed regularly with hot water."
+				},
+				{
+					"text": "She gently washed and dressed the wound."
+				},
+				{
+					"text": "the smell of freshly washed hair"
+				},
+				{
+					"text": "He quickly washed his hands and face."
+				},
+				{
+					"text": "He washed his face."
+				},
+				{
+					"text": "If you wash the dishes, I'll dry."
+				}
+			],
+			"topics": ["Houses and homes"],
+			"collocations": {
+				"adverb": ["carefully", "properly", "thoroughly"],
+				"phrases": ["freshly washed", "newly washed"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to make yourself clean using water and usually soap",
+			"sensetop": "wash yourself",
+			"labels": "(especially British English)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "By this time we were already washed and dressed."
+				},
+				{
+					"text": "I washed and changed before going out."
+				},
+				{
+					"text": "Mick woke up, got washed and shaved, and put his work clothes on."
+				},
+				{
+					"text": "She was no longer able to wash herself.",
+					"contextForm": "wash yourself"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to be able to be washed without losing colour or being damaged",
+			"sensetop": "(+ adv./prep.)",
+			"examples": [
+				{
+					"text": "This sweater washes well."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to flow or carry something/somebody in a particular direction",
+			"sensetop": "+ adv./prep.wash something/somebody + adv./prep.wash something + adj.",
+			"examples": [
+				{
+					"text": "Water washed over the deck.",
+					"contextForm": "+ adv./prep."
+				},
+				{
+					"text": "Pieces of the wreckage were **washed ashore**.",
+					"contextForm": "wash something/somebody + adv./prep."
+				},
+				{
+					"text": "He was **washed overboard** by a huge wave."
+				},
+				{
+					"text": "The beach had been washed clean by the tide.",
+					"contextForm": "wash something + adj."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to discuss your personal affairs in public, especially something embarrassing",
+			"labels": "(disapproving)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to refuse to be responsible for or involved with somebody/something",
+			"examples": [
+				{
+					"text": "When her son was arrested again she washed her hands of him."
+				},
+				{
+					"text": "I’ve washed my hands of the whole sordid business."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that somebody’s explanation, excuse, etc. is not true or that you/somebody else will not accept it",
+			"examples": [
+				{
+					"text": "That excuse simply won't wash with me."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/wɒʃ/",
+				"audio": "wa/wash/wash__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwɒʃɪz/",
+				"audio": "wa/wash/washes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/wɒʃt/",
+				"audio": "wa/wash/washed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwɒʃɪŋ/",
+				"audio": "wa/wash/washing__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/wɑːʃ/",
+				"audio": "wa/wash/wash__us_1_rr.mp3"
+			},
+			{
+				"pronunciation": "/ˈwɑːʃɪz/",
+				"audio": "wa/wash/washes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/wɑːʃt/",
+				"audio": "wa/wash/washed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwɑːʃɪŋ/",
+				"audio": "wa/wash/washing__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English wæscan (verb), of Germanic origin; related to Dutch wassen, German waschen, also to water."
 }

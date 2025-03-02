@@ -1,116 +1,116 @@
 {
-  "term": "surrender",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "surrender",
-      "heSheIt": "surrenders"
-    },
-    "pastSimple": "surrendered",
-    "pastParticiple": "surrendered",
-    "ingForm": "surrendering"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to admit that you have been defeated and want to stop fighting; to allow yourself to be caught, taken prisoner, etc.",
-      "sensetop": "surrender to somebodysurrender yourself (to somebody)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The rebel soldiers were forced to surrender."
-        },
-        {
-          "text": "He surrendered voluntarily to his enemies.",
-          "contextForm": "surrender to somebody"
-        },
-        {
-          "text": "The hijackers eventually surrendered themselves to the police.",
-          "contextForm": "surrender yourself (to somebody)"
-        },
-        {
-          "text": "After three weeks under siege they surrendered completely."
-        },
-        {
-          "text": "The British formally surrendered on 31 May."
-        }
-      ],
-      "synonyms": "give in (to somebody/something)",
-      "topics": ["War and conflict", "Crime and punishment"],
-      "collocations": {
-        "adverb": ["unconditionally", "completely", "immediately"],
-        "verb + surrender": ["order somebody to", "agree to", "refuse to"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to give up something/somebody when you are forced to",
-      "sensetop": "surrender something/somebody to somebodysurrender something/somebody",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "He agreed to surrender all claims to the property.",
-          "contextForm": "surrender something/somebody to somebody"
-        },
-        {
-          "text": "They surrendered their guns to the police."
-        },
-        {
-          "text": "The defendant was released to await trial but had to surrender her passport.",
-          "contextForm": "surrender something/somebody"
-        },
-        {
-          "text": "The dictator surrendered power to Parliament."
-        }
-      ],
-      "collocations": {
-        "adverb": ["unconditionally", "completely", "immediately"],
-        "verb + surrender": ["order somebody to", "agree to", "refuse to"],
-        "preposition": ["to"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/səˈrendə(r)/",
-        "audio": "su/surrender/surrender__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈrendəz/",
-        "audio": "su/surrender/surrenders__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈrendəd/",
-        "audio": "su/surrender/surrendered__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈrendərɪŋ/",
-        "audio": "su/surrender/surrendering__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/səˈrendər/",
-        "audio": "su/surrender/surrender__us_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈrendərz/",
-        "audio": "su/surrender/surrenders__us_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈrendərd/",
-        "audio": "su/surrender/surrendered__us_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈrendərɪŋ/",
-        "audio": "su/surrender/surrendering__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (chiefly in legal use): from Anglo-Norman French (from sur- and render)."
+	"term": "surrender",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "surrender",
+			"heSheIt": "surrenders"
+		},
+		"pastSimple": "surrendered",
+		"pastParticiple": "surrendered",
+		"ingForm": "surrendering"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to admit that you have been defeated and want to stop fighting; to allow yourself to be caught, taken prisoner, etc.",
+			"sensetop": "surrender to somebodysurrender yourself (to somebody)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The rebel soldiers were forced to surrender."
+				},
+				{
+					"text": "He surrendered voluntarily to his enemies.",
+					"contextForm": "surrender to somebody"
+				},
+				{
+					"text": "The hijackers eventually surrendered themselves to the police.",
+					"contextForm": "surrender yourself (to somebody)"
+				},
+				{
+					"text": "After three weeks under siege they surrendered completely."
+				},
+				{
+					"text": "The British formally surrendered on 31 May."
+				}
+			],
+			"synonyms": "give in (to somebody/something)",
+			"topics": ["War and conflict", "Crime and punishment"],
+			"collocations": {
+				"adverb": ["unconditionally", "completely", "immediately"],
+				"verb + surrender": ["order somebody to", "agree to", "refuse to"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to give up something/somebody when you are forced to",
+			"sensetop": "surrender something/somebody to somebodysurrender something/somebody",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "He agreed to surrender all claims to the property.",
+					"contextForm": "surrender something/somebody to somebody"
+				},
+				{
+					"text": "They surrendered their guns to the police."
+				},
+				{
+					"text": "The defendant was released to await trial but had to surrender her passport.",
+					"contextForm": "surrender something/somebody"
+				},
+				{
+					"text": "The dictator surrendered power to Parliament."
+				}
+			],
+			"collocations": {
+				"adverb": ["unconditionally", "completely", "immediately"],
+				"verb + surrender": ["order somebody to", "agree to", "refuse to"],
+				"preposition": ["to"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/səˈrendə(r)/",
+				"audio": "su/surrender/surrender__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈrendəz/",
+				"audio": "su/surrender/surrenders__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈrendəd/",
+				"audio": "su/surrender/surrendered__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈrendərɪŋ/",
+				"audio": "su/surrender/surrendering__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/səˈrendər/",
+				"audio": "su/surrender/surrender__us_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈrendərz/",
+				"audio": "su/surrender/surrenders__us_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈrendərd/",
+				"audio": "su/surrender/surrendered__us_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈrendərɪŋ/",
+				"audio": "su/surrender/surrendering__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (chiefly in legal use): from Anglo-Norman French (from sur- and render)."
 }

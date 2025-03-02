@@ -1,123 +1,123 @@
 {
-  "term": "peculiar",
-  "partOfSpeech": "adjective",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "strange or unusual, especially in a way that is unpleasant or makes you worried",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a peculiar smell/taste"
-        },
-        {
-          "text": "The meat tasted rather peculiar."
-        },
-        {
-          "text": "There was something peculiar in the way he smiled."
-        },
-        {
-          "text": "I had a peculiar feeling we'd met before."
-        },
-        {
-          "text": "He died in very peculiar circumstances."
-        },
-        {
-          "text": "**For some peculiar reason**, she refused to come inside."
-        },
-        {
-          "text": "I find her attitude a bit peculiar, to say the least."
-        },
-        {
-          "text": "Her behaviour was a peculiar mixture of the sophisticated and the childlike."
-        },
-        {
-          "text": "The peculiar thing was that no one mentioned her disappearance."
-        },
-        {
-          "text": "They behaved in a very peculiar way."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "feel", "look"],
-        "adverb": ["most", "very", "quite"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "belonging or relating to one particular place, situation, person, etc., and not to others",
-      "sensetop": "peculiar (to somebody/something)",
-      "examples": [
-        {
-          "text": "a humour that is peculiar to American sitcoms"
-        },
-        {
-          "text": "a species of bird peculiar to Asia"
-        },
-        {
-          "text": "He has his own peculiar style which you'll soon get used to."
-        },
-        {
-          "text": "the family’s peculiar importance in the affair"
-        },
-        {
-          "text": "the peculiar properties of mercury"
-        },
-        {
-          "text": "These problems are by no means peculiar to this country."
-        },
-        {
-          "text": "We shall concentrate on environmental features that are peculiar to the tropics."
-        },
-        {
-          "text": "He waved in a way entirely peculiar to himself."
-        },
-        {
-          "text": "Each house had its own peculiar smell."
-        },
-        {
-          "text": "Every case presents its own peculiar problems."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "slightly ill",
-      "labels": "(British English, informal)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "I don’t think I’ll eat anything—I’m feeling a bit peculiar."
-        }
-      ],
-      "topics": ["Health problems"],
-      "collocations": {
-        "verbs": ["be", "feel", "look"],
-        "adverb": ["most", "very", "quite"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to show that ‘funny’ is being used with the meaning of ‘strange’",
-      "labels": "(informal)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/pɪˈkjuːliə(r)/",
-        "audio": "pe/peculiar/peculiar__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/pɪˈkjuːliər/",
-        "audio": "pe/peculiar/peculiar__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘particular’): from Latin peculiaris ‘of private property’, from peculium ‘property’, from pecu ‘cattle’ (cattle being private property). The sense ‘strange’ dates from the early 17th cent."
+	"term": "peculiar",
+	"partOfSpeech": "adjective",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "strange or unusual, especially in a way that is unpleasant or makes you worried",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a peculiar smell/taste"
+				},
+				{
+					"text": "The meat tasted rather peculiar."
+				},
+				{
+					"text": "There was something peculiar in the way he smiled."
+				},
+				{
+					"text": "I had a peculiar feeling we'd met before."
+				},
+				{
+					"text": "He died in very peculiar circumstances."
+				},
+				{
+					"text": "**For some peculiar reason**, she refused to come inside."
+				},
+				{
+					"text": "I find her attitude a bit peculiar, to say the least."
+				},
+				{
+					"text": "Her behaviour was a peculiar mixture of the sophisticated and the childlike."
+				},
+				{
+					"text": "The peculiar thing was that no one mentioned her disappearance."
+				},
+				{
+					"text": "They behaved in a very peculiar way."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "feel", "look"],
+				"adverb": ["most", "very", "quite"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "belonging or relating to one particular place, situation, person, etc., and not to others",
+			"sensetop": "peculiar (to somebody/something)",
+			"examples": [
+				{
+					"text": "a humour that is peculiar to American sitcoms"
+				},
+				{
+					"text": "a species of bird peculiar to Asia"
+				},
+				{
+					"text": "He has his own peculiar style which you'll soon get used to."
+				},
+				{
+					"text": "the family’s peculiar importance in the affair"
+				},
+				{
+					"text": "the peculiar properties of mercury"
+				},
+				{
+					"text": "These problems are by no means peculiar to this country."
+				},
+				{
+					"text": "We shall concentrate on environmental features that are peculiar to the tropics."
+				},
+				{
+					"text": "He waved in a way entirely peculiar to himself."
+				},
+				{
+					"text": "Each house had its own peculiar smell."
+				},
+				{
+					"text": "Every case presents its own peculiar problems."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "slightly ill",
+			"labels": "(British English, informal)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "I don’t think I’ll eat anything—I’m feeling a bit peculiar."
+				}
+			],
+			"topics": ["Health problems"],
+			"collocations": {
+				"verbs": ["be", "feel", "look"],
+				"adverb": ["most", "very", "quite"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to show that ‘funny’ is being used with the meaning of ‘strange’",
+			"labels": "(informal)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/pɪˈkjuːliə(r)/",
+				"audio": "pe/peculiar/peculiar__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/pɪˈkjuːliər/",
+				"audio": "pe/peculiar/peculiar__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘particular’): from Latin peculiaris ‘of private property’, from peculium ‘property’, from pecu ‘cattle’ (cattle being private property). The sense ‘strange’ dates from the early 17th cent."
 }

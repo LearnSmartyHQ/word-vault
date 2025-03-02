@@ -1,131 +1,131 @@
 {
-  "term": "rally",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a large public meeting, especially one held to support a particular idea or political party",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "to **attend/hold a rally**"
-        },
-        {
-          "text": "a **peace/protest rally**"
-        },
-        {
-          "text": "a **mass rally** in support of the strike"
-        },
-        {
-          "text": "She spoke at a public rally in Hyde Park."
-        },
-        {
-          "text": "The demonstrators marched to Trafalgar Square where they held a rally."
-        },
-        {
-          "text": "The government banned all rallies."
-        },
-        {
-          "text": "The rally dispersed peacefully after six hours."
-        },
-        {
-          "text": "a massive outdoor rally in Buenos Aires"
-        },
-        {
-          "text": "a rally calling for a boycott of the January elections"
-        },
-        {
-          "text": "a rally for the winning candidate"
-        }
-      ],
-      "topics": ["Politics"],
-      "collocations": {
-        "adjective": ["big", "huge", "large"],
-        "verb + rally": ["have", "hold", "stage"],
-        "rally + verb": ["take place", "end", "call for something"],
-        "preposition": ["at a/​the rally", "rally against", "rally for"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a race for cars, motorcycles, etc. over public roads",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the Monte Carlo rally"
-        },
-        {
-          "text": "rally driving"
-        },
-        {
-          "text": "He will join the team at the rally next week."
-        }
-      ],
-      "collocations": {
-        "adjective": ["club", "international", "motor"],
-        "verb + rally": ["hold", "organize", "compete in"],
-        "rally + noun": ["circuit", "driver", "driving"],
-        "preposition": ["on a/​the rally"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a series of hits of the ball before a point is scored",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "That was a great rally!"
-        }
-      ],
-      "topics": ["Sports: ball and racket sports"],
-      "collocations": {
-        "adjective": ["long", "short"],
-        "verb + rally": ["play", "win", "lose"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "an act of returning to a strong position after a period of difficulty or weakness",
-      "examples": [
-        {
-          "text": "After a furious late rally, they finally scored."
-        },
-        {
-          "text": "a rally in shares on the stock market"
-        },
-        {
-          "text": "The visiting team staged a late rally."
-        },
-        {
-          "text": "The US dollar is now ending its bear-market rally."
-        },
-        {
-          "text": "the recent rally in the Treasury market"
-        }
-      ],
-      "synonyms": "recovery",
-      "collocations": {
-        "adjective": ["bear-market", "market", "stock-market"],
-        "verb + rally": ["mount", "stage"],
-        "preposition": ["rally in"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈræli/",
-        "audio": "ra/rally/rally__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈræli/",
-        "audio": "ra/rally/rally__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 17th cent. (in the sense ‘bring together again’): from French rallier, from re- ‘again’ + allier ‘to ally’."
+	"term": "rally",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a large public meeting, especially one held to support a particular idea or political party",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "to **attend/hold a rally**"
+				},
+				{
+					"text": "a **peace/protest rally**"
+				},
+				{
+					"text": "a **mass rally** in support of the strike"
+				},
+				{
+					"text": "She spoke at a public rally in Hyde Park."
+				},
+				{
+					"text": "The demonstrators marched to Trafalgar Square where they held a rally."
+				},
+				{
+					"text": "The government banned all rallies."
+				},
+				{
+					"text": "The rally dispersed peacefully after six hours."
+				},
+				{
+					"text": "a massive outdoor rally in Buenos Aires"
+				},
+				{
+					"text": "a rally calling for a boycott of the January elections"
+				},
+				{
+					"text": "a rally for the winning candidate"
+				}
+			],
+			"topics": ["Politics"],
+			"collocations": {
+				"adjective": ["big", "huge", "large"],
+				"verb + rally": ["have", "hold", "stage"],
+				"rally + verb": ["take place", "end", "call for something"],
+				"preposition": ["at a/​the rally", "rally against", "rally for"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a race for cars, motorcycles, etc. over public roads",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the Monte Carlo rally"
+				},
+				{
+					"text": "rally driving"
+				},
+				{
+					"text": "He will join the team at the rally next week."
+				}
+			],
+			"collocations": {
+				"adjective": ["club", "international", "motor"],
+				"verb + rally": ["hold", "organize", "compete in"],
+				"rally + noun": ["circuit", "driver", "driving"],
+				"preposition": ["on a/​the rally"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a series of hits of the ball before a point is scored",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "That was a great rally!"
+				}
+			],
+			"topics": ["Sports: ball and racket sports"],
+			"collocations": {
+				"adjective": ["long", "short"],
+				"verb + rally": ["play", "win", "lose"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "an act of returning to a strong position after a period of difficulty or weakness",
+			"examples": [
+				{
+					"text": "After a furious late rally, they finally scored."
+				},
+				{
+					"text": "a rally in shares on the stock market"
+				},
+				{
+					"text": "The visiting team staged a late rally."
+				},
+				{
+					"text": "The US dollar is now ending its bear-market rally."
+				},
+				{
+					"text": "the recent rally in the Treasury market"
+				}
+			],
+			"synonyms": "recovery",
+			"collocations": {
+				"adjective": ["bear-market", "market", "stock-market"],
+				"verb + rally": ["mount", "stage"],
+				"preposition": ["rally in"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈræli/",
+				"audio": "ra/rally/rally__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈræli/",
+				"audio": "ra/rally/rally__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 17th cent. (in the sense ‘bring together again’): from French rallier, from re- ‘again’ + allier ‘to ally’."
 }

@@ -1,304 +1,304 @@
 {
-  "term": "climb",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "climb",
-      "heSheIt": "climbs"
-    },
-    "pastSimple": "climbed",
-    "pastParticiple": "climbed",
-    "ingForm": "climbing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to go up something towards the top",
-      "sensetop": "climb (up) somethingclimb (up)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **climb a mountain/tree**",
-          "contextForm": "climb (up) something"
-        },
-        {
-          "text": "She **climbed** up **the stairs**."
-        },
-        {
-          "text": "to climb a ladder/wall"
-        },
-        {
-          "text": "They climbed the steps to the front door."
-        },
-        {
-          "text": "The car slowly climbed the hill."
-        },
-        {
-          "text": "The boarding party began to climb up the side of the ship."
-        },
-        {
-          "text": "As they climbed higher, the air became cooler.",
-          "contextForm": "climb (up)"
-        },
-        {
-          "text": "You can **climb to the top** of the tower and take in the view."
-        },
-        {
-          "text": "He climbed up and inspected the damage to the roof."
-        },
-        {
-          "text": "Don't climb too high."
-        },
-        {
-          "text": "He climbed slowly up the ladder."
-        },
-        {
-          "text": "We climbed right to the top of the mountain."
-        },
-        {
-          "text": "I loved climbing trees when I was a kid."
-        }
-      ],
-      "collocations": {
-        "adverb": ["high", "slowly", "nimbly"],
-        "preposition": ["up", "onto", "into"],
-        "phrases": ["climb to the top", "go climbing"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to go up mountains or climb rocks as a hobby or sport",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He likes to go climbing most weekends."
-        },
-        {
-          "text": "He goes climbing every summer."
-        }
-      ],
-      "topics": ["Sports: other sports", "Hobbies"],
-      "collocations": {
-        "adverb": ["high", "slowly", "nimbly"],
-        "preposition": ["up", "onto", "into"],
-        "phrases": ["climb to the top", "go climbing"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to move somewhere, especially with difficulty or effort, using hands as well as feet",
-      "sensetop": "climb + adv./prep.",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I climbed through the window."
-        },
-        {
-          "text": "She opened the passenger door and climbed in."
-        },
-        {
-          "text": "The boys climbed over the wall."
-        },
-        {
-          "text": "Sue climbed into bed."
-        },
-        {
-          "text": "Can you climb down?"
-        },
-        {
-          "text": "He finished digging the grave and climbed out."
-        },
-        {
-          "text": "Two boys climbed onto the roof."
-        },
-        {
-          "text": "He climbed into the truck and drove off."
-        },
-        {
-          "text": "I climbed over the fence into the meadow."
-        }
-      ],
-      "collocations": {
-        "adverb": ["high", "slowly", "nimbly"],
-        "preposition": ["up", "onto", "into"],
-        "phrases": ["climb to the top", "go climbing"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to increase in value or amount",
-      "sensetop": "climb + adv./prep.",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The death toll from the devastating floods continues to climb."
-        },
-        {
-          "text": "Interest rates climbed to 8 per cent.",
-          "contextForm": "climb + adv./prep."
-        },
-        {
-          "text": "The temperature had climbed above 30 degrees."
-        },
-        {
-          "text": "Prices have climbed sharply in recent months."
-        },
-        {
-          "text": "The dollar has been climbing all week."
-        },
-        {
-          "text": "Membership is climbing steadily."
-        },
-        {
-          "text": "The vaccination rate began to climb slowly."
-        },
-        {
-          "text": "Unemployment has climbed from two million to three million."
-        },
-        {
-          "text": "Unemployment is still climbing."
-        }
-      ],
-      "topics": ["Change, cause and effect", "Money"],
-      "collocations": {
-        "adverb": ["quickly", "rapidly", "sharply"],
-        "preposition": ["above", "from", "to"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to move to a higher position in a chart, table, society or organization",
-      "sensetop": "climb to somethingclimb something",
-      "labels": "(figurative)",
-      "examples": [
-        {
-          "text": "The team has now climbed to fourth in the league.",
-          "contextForm": "climb to something"
-        },
-        {
-          "text": "In a few years he had climbed to the top of his profession."
-        },
-        {
-          "text": "The song also climbed the charts in North America.",
-          "contextForm": "climb something"
-        },
-        {
-          "text": "to **climb the** corporate/career **ladder**"
-        }
-      ],
-      "collocations": {
-        "adverb": ["high", "slowly", "nimbly"],
-        "preposition": ["up", "onto", "into"],
-        "phrases": ["climb to the top", "go climbing"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to go higher in the sky",
-      "examples": [
-        {
-          "text": "The plane climbed to 33 000 feet."
-        },
-        {
-          "text": "The sun climbed higher in the sky."
-        },
-        {
-          "text": "The plane took off and climbed to 20 000 feet."
-        }
-      ],
-      "collocations": {
-        "adverb": ["gradually", "slowly", "steadily"],
-        "verb + climb": ["begin to"],
-        "preposition": ["from", "to", "up"]
-      }
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to slope upwards",
-      "examples": [
-        {
-          "text": "From here the path climbs steeply to the summit."
-        },
-        {
-          "text": "The path began to climb quite steeply."
-        },
-        {
-          "text": "The path climbs steeply up the mountainside."
-        },
-        {
-          "text": "The road gradually climbs up from the town."
-        }
-      ],
-      "collocations": {
-        "adverb": ["gradually", "slowly", "steadily"],
-        "verb + climb": ["begin to"],
-        "preposition": ["from", "to", "up"]
-      }
-    },
-    {
-      "senseNumber": 8,
-      "definition": "to grow up a wall or frame",
-      "examples": [
-        {
-          "text": "a climbing rose"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to join others in doing something that is becoming fashionable because you hope to become popular or successful yourself",
-      "labels": "(informal, disapproving)",
-      "examples": [
-        {
-          "text": "politicians eager to jump on the environmental bandwagon"
-        }
-      ],
-      "topics": ["Success"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/klaɪm/",
-        "audio": "cl/climb/climb__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/klaɪmz/",
-        "audio": "cl/climb/climbs__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/klaɪmd/",
-        "audio": "cl/climb/climbed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈklaɪmɪŋ/",
-        "audio": "cl/climb/climbing__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/klaɪm/",
-        "audio": "cl/climb/climb__us_1.mp3"
-      },
-      {
-        "pronunciation": "/klaɪmz/",
-        "audio": "cl/climb/climbs__us_1.mp3"
-      },
-      {
-        "pronunciation": "/klaɪmd/",
-        "audio": "cl/climb/climbed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈklaɪmɪŋ/",
-        "audio": "cl/climb/climbing__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English climban, of West Germanic origin; related to Dutch and German klimmen, also to cleave ‘to stick close to something’."
+	"term": "climb",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "climb",
+			"heSheIt": "climbs"
+		},
+		"pastSimple": "climbed",
+		"pastParticiple": "climbed",
+		"ingForm": "climbing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to go up something towards the top",
+			"sensetop": "climb (up) somethingclimb (up)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **climb a mountain/tree**",
+					"contextForm": "climb (up) something"
+				},
+				{
+					"text": "She **climbed** up **the stairs**."
+				},
+				{
+					"text": "to climb a ladder/wall"
+				},
+				{
+					"text": "They climbed the steps to the front door."
+				},
+				{
+					"text": "The car slowly climbed the hill."
+				},
+				{
+					"text": "The boarding party began to climb up the side of the ship."
+				},
+				{
+					"text": "As they climbed higher, the air became cooler.",
+					"contextForm": "climb (up)"
+				},
+				{
+					"text": "You can **climb to the top** of the tower and take in the view."
+				},
+				{
+					"text": "He climbed up and inspected the damage to the roof."
+				},
+				{
+					"text": "Don't climb too high."
+				},
+				{
+					"text": "He climbed slowly up the ladder."
+				},
+				{
+					"text": "We climbed right to the top of the mountain."
+				},
+				{
+					"text": "I loved climbing trees when I was a kid."
+				}
+			],
+			"collocations": {
+				"adverb": ["high", "slowly", "nimbly"],
+				"preposition": ["up", "onto", "into"],
+				"phrases": ["climb to the top", "go climbing"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to go up mountains or climb rocks as a hobby or sport",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He likes to go climbing most weekends."
+				},
+				{
+					"text": "He goes climbing every summer."
+				}
+			],
+			"topics": ["Sports: other sports", "Hobbies"],
+			"collocations": {
+				"adverb": ["high", "slowly", "nimbly"],
+				"preposition": ["up", "onto", "into"],
+				"phrases": ["climb to the top", "go climbing"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to move somewhere, especially with difficulty or effort, using hands as well as feet",
+			"sensetop": "climb + adv./prep.",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I climbed through the window."
+				},
+				{
+					"text": "She opened the passenger door and climbed in."
+				},
+				{
+					"text": "The boys climbed over the wall."
+				},
+				{
+					"text": "Sue climbed into bed."
+				},
+				{
+					"text": "Can you climb down?"
+				},
+				{
+					"text": "He finished digging the grave and climbed out."
+				},
+				{
+					"text": "Two boys climbed onto the roof."
+				},
+				{
+					"text": "He climbed into the truck and drove off."
+				},
+				{
+					"text": "I climbed over the fence into the meadow."
+				}
+			],
+			"collocations": {
+				"adverb": ["high", "slowly", "nimbly"],
+				"preposition": ["up", "onto", "into"],
+				"phrases": ["climb to the top", "go climbing"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to increase in value or amount",
+			"sensetop": "climb + adv./prep.",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The death toll from the devastating floods continues to climb."
+				},
+				{
+					"text": "Interest rates climbed to 8 per cent.",
+					"contextForm": "climb + adv./prep."
+				},
+				{
+					"text": "The temperature had climbed above 30 degrees."
+				},
+				{
+					"text": "Prices have climbed sharply in recent months."
+				},
+				{
+					"text": "The dollar has been climbing all week."
+				},
+				{
+					"text": "Membership is climbing steadily."
+				},
+				{
+					"text": "The vaccination rate began to climb slowly."
+				},
+				{
+					"text": "Unemployment has climbed from two million to three million."
+				},
+				{
+					"text": "Unemployment is still climbing."
+				}
+			],
+			"topics": ["Change, cause and effect", "Money"],
+			"collocations": {
+				"adverb": ["quickly", "rapidly", "sharply"],
+				"preposition": ["above", "from", "to"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to move to a higher position in a chart, table, society or organization",
+			"sensetop": "climb to somethingclimb something",
+			"labels": "(figurative)",
+			"examples": [
+				{
+					"text": "The team has now climbed to fourth in the league.",
+					"contextForm": "climb to something"
+				},
+				{
+					"text": "In a few years he had climbed to the top of his profession."
+				},
+				{
+					"text": "The song also climbed the charts in North America.",
+					"contextForm": "climb something"
+				},
+				{
+					"text": "to **climb the** corporate/career **ladder**"
+				}
+			],
+			"collocations": {
+				"adverb": ["high", "slowly", "nimbly"],
+				"preposition": ["up", "onto", "into"],
+				"phrases": ["climb to the top", "go climbing"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to go higher in the sky",
+			"examples": [
+				{
+					"text": "The plane climbed to 33 000 feet."
+				},
+				{
+					"text": "The sun climbed higher in the sky."
+				},
+				{
+					"text": "The plane took off and climbed to 20 000 feet."
+				}
+			],
+			"collocations": {
+				"adverb": ["gradually", "slowly", "steadily"],
+				"verb + climb": ["begin to"],
+				"preposition": ["from", "to", "up"]
+			}
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to slope upwards",
+			"examples": [
+				{
+					"text": "From here the path climbs steeply to the summit."
+				},
+				{
+					"text": "The path began to climb quite steeply."
+				},
+				{
+					"text": "The path climbs steeply up the mountainside."
+				},
+				{
+					"text": "The road gradually climbs up from the town."
+				}
+			],
+			"collocations": {
+				"adverb": ["gradually", "slowly", "steadily"],
+				"verb + climb": ["begin to"],
+				"preposition": ["from", "to", "up"]
+			}
+		},
+		{
+			"senseNumber": 8,
+			"definition": "to grow up a wall or frame",
+			"examples": [
+				{
+					"text": "a climbing rose"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to join others in doing something that is becoming fashionable because you hope to become popular or successful yourself",
+			"labels": "(informal, disapproving)",
+			"examples": [
+				{
+					"text": "politicians eager to jump on the environmental bandwagon"
+				}
+			],
+			"topics": ["Success"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/klaɪm/",
+				"audio": "cl/climb/climb__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/klaɪmz/",
+				"audio": "cl/climb/climbs__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/klaɪmd/",
+				"audio": "cl/climb/climbed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈklaɪmɪŋ/",
+				"audio": "cl/climb/climbing__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/klaɪm/",
+				"audio": "cl/climb/climb__us_1.mp3"
+			},
+			{
+				"pronunciation": "/klaɪmz/",
+				"audio": "cl/climb/climbs__us_1.mp3"
+			},
+			{
+				"pronunciation": "/klaɪmd/",
+				"audio": "cl/climb/climbed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈklaɪmɪŋ/",
+				"audio": "cl/climb/climbing__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English climban, of West Germanic origin; related to Dutch and German klimmen, also to cleave ‘to stick close to something’."
 }

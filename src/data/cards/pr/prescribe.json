@@ -1,116 +1,116 @@
 {
-  "term": "prescribe",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "prescribe",
-      "heSheIt": "prescribes"
-    },
-    "pastSimple": "prescribed",
-    "pastParticiple": "prescribed",
-    "ingForm": "prescribing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to tell somebody to take a particular medicine or have a particular treatment; to write a prescription for a particular medicine, etc.",
-      "sensetop": "prescribe somethingprescribe (somebody) something (for something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Valium is usually prescribed to treat anxiety.",
-          "contextForm": "prescribe something"
-        },
-        {
-          "text": "He may be able to prescribe you something for that cough.",
-          "contextForm": "prescribe (somebody) something (for something)"
-        },
-        {
-          "text": "The drug can no longer be legally prescribed."
-        },
-        {
-          "text": "These drugs are widely prescribed to control high blood pressure."
-        },
-        {
-          "text": "This drug is often prescribed for women with heart trouble."
-        }
-      ],
-      "topics": ["Healthcare"],
-      "collocations": {
-        "adverb": ["legally", "commonly", "frequently"],
-        "preposition": ["as", "for", "to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to say what should be done or how something should be done",
-      "sensetop": "prescribe somethingprescribe that…prescribe which, what, etc…",
-      "examples": [
-        {
-          "text": "The prescribed form must be completed and returned to this office.",
-          "contextForm": "prescribe something"
-        },
-        {
-          "text": "Police regulations prescribe that an officer's number must be clearly visible.",
-          "contextForm": "prescribe that…"
-        },
-        {
-          "text": "The syllabus prescribes precisely which books should be studied.",
-          "contextForm": "prescribe which, what, etc…"
-        },
-        {
-          "text": "The curriculum is rigidly prescribed from an early age."
-        },
-        {
-          "text": "culturally prescribed gender roles"
-        }
-      ],
-      "synonyms": "stipulate",
-      "collocations": {
-        "adverb": ["narrowly", "rigidly", "strictly"],
-        "phrases": ["culturally prescribed", "socially prescribed"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/prɪˈskraɪb/",
-        "audio": "pr/prescribe/prescribe__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/prɪˈskraɪbz/",
-        "audio": "pr/prescribe/prescribes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/prɪˈskraɪbd/",
-        "audio": "pr/prescribe/prescribed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/prɪˈskraɪbɪŋ/",
-        "audio": "pr/prescribe/prescribing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/prɪˈskraɪb/",
-        "audio": "pr/prescribe/prescribe__us_1.mp3"
-      },
-      {
-        "pronunciation": "/prɪˈskraɪbz/",
-        "audio": "pr/prescribe/prescribes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/prɪˈskraɪbd/",
-        "audio": "pr/prescribe/prescribed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/prɪˈskraɪbɪŋ/",
-        "audio": "pr/prescribe/prescribing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘confine within bounds’, also as a legal term meaning ‘claim by prescription’): from Latin praescribere ‘direct in writing’, from prae ‘before’ + scribere ‘write’."
+	"term": "prescribe",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "prescribe",
+			"heSheIt": "prescribes"
+		},
+		"pastSimple": "prescribed",
+		"pastParticiple": "prescribed",
+		"ingForm": "prescribing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to tell somebody to take a particular medicine or have a particular treatment; to write a prescription for a particular medicine, etc.",
+			"sensetop": "prescribe somethingprescribe (somebody) something (for something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Valium is usually prescribed to treat anxiety.",
+					"contextForm": "prescribe something"
+				},
+				{
+					"text": "He may be able to prescribe you something for that cough.",
+					"contextForm": "prescribe (somebody) something (for something)"
+				},
+				{
+					"text": "The drug can no longer be legally prescribed."
+				},
+				{
+					"text": "These drugs are widely prescribed to control high blood pressure."
+				},
+				{
+					"text": "This drug is often prescribed for women with heart trouble."
+				}
+			],
+			"topics": ["Healthcare"],
+			"collocations": {
+				"adverb": ["legally", "commonly", "frequently"],
+				"preposition": ["as", "for", "to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to say what should be done or how something should be done",
+			"sensetop": "prescribe somethingprescribe that…prescribe which, what, etc…",
+			"examples": [
+				{
+					"text": "The prescribed form must be completed and returned to this office.",
+					"contextForm": "prescribe something"
+				},
+				{
+					"text": "Police regulations prescribe that an officer's number must be clearly visible.",
+					"contextForm": "prescribe that…"
+				},
+				{
+					"text": "The syllabus prescribes precisely which books should be studied.",
+					"contextForm": "prescribe which, what, etc…"
+				},
+				{
+					"text": "The curriculum is rigidly prescribed from an early age."
+				},
+				{
+					"text": "culturally prescribed gender roles"
+				}
+			],
+			"synonyms": "stipulate",
+			"collocations": {
+				"adverb": ["narrowly", "rigidly", "strictly"],
+				"phrases": ["culturally prescribed", "socially prescribed"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/prɪˈskraɪb/",
+				"audio": "pr/prescribe/prescribe__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/prɪˈskraɪbz/",
+				"audio": "pr/prescribe/prescribes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/prɪˈskraɪbd/",
+				"audio": "pr/prescribe/prescribed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/prɪˈskraɪbɪŋ/",
+				"audio": "pr/prescribe/prescribing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/prɪˈskraɪb/",
+				"audio": "pr/prescribe/prescribe__us_1.mp3"
+			},
+			{
+				"pronunciation": "/prɪˈskraɪbz/",
+				"audio": "pr/prescribe/prescribes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/prɪˈskraɪbd/",
+				"audio": "pr/prescribe/prescribed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/prɪˈskraɪbɪŋ/",
+				"audio": "pr/prescribe/prescribing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘confine within bounds’, also as a legal term meaning ‘claim by prescription’): from Latin praescribere ‘direct in writing’, from prae ‘before’ + scribere ‘write’."
 }

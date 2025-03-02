@@ -1,97 +1,97 @@
 {
-  "term": "competitor",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person who takes part in a competition",
-      "sensetop": "competitor for something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Over 200 competitors entered the race."
-        },
-        {
-          "text": "the youngest competitor in the event"
-        },
-        {
-          "text": "the most successful South African competitor at the games"
-        },
-        {
-          "text": "There are six remaining competitors for the grand prize of $50 000.",
-          "contextForm": "competitor for something"
-        },
-        {
-          "text": "She is one of the sport's top competitors."
-        },
-        {
-          "text": "He is the oldest competitor in this year's London Marathon."
-        }
-      ],
-      "collocations": {
-        "adjective": ["strong", "top", "successful"],
-        "competitor + verb": ["enter something"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person or an organization that competes against others, especially in business",
-      "sensetop": "competitor to somethingcompetitor for something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "We produce cheaper goods than our competitors."
-        },
-        {
-          "text": "The company is outperforming its main competitors in the US market."
-        },
-        {
-          "text": "They are set to become formidable competitors to American companies.",
-          "contextForm": "competitor to something"
-        },
-        {
-          "text": "Japan was not a major competitor for scarce resources such as oil.",
-          "contextForm": "competitor for something"
-        },
-        {
-          "text": "The company has no serious competitors in this area."
-        },
-        {
-          "text": "The industry is facing increasingly strong foreign competitors."
-        },
-        {
-          "text": "fierce competitors for the dominant position in the Asian market"
-        },
-        {
-          "text": "Who is your main competitor?"
-        }
-      ],
-      "topics": ["Sports: other sports", "Business"],
-      "collocations": {
-        "adjective": ["biggest", "chief", "leading"],
-        "verb + competitor": ["face", "beat", "outperform"],
-        "competitor + verb": ["offer something"],
-        "preposition": ["competitor for"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kəmˈpetɪtə(r)/",
-        "audio": "co/competitor/competitor__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kəmˈpetɪtər/",
-        "audio": "co/competitor/competitor__us_3.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 16th cent.: from French compétiteur or Latin competitor, from competit- ‘striven for’, from the verb competere, from com- ‘together’ + petere ‘aim at, seek’."
+	"term": "competitor",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person who takes part in a competition",
+			"sensetop": "competitor for something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Over 200 competitors entered the race."
+				},
+				{
+					"text": "the youngest competitor in the event"
+				},
+				{
+					"text": "the most successful South African competitor at the games"
+				},
+				{
+					"text": "There are six remaining competitors for the grand prize of $50 000.",
+					"contextForm": "competitor for something"
+				},
+				{
+					"text": "She is one of the sport's top competitors."
+				},
+				{
+					"text": "He is the oldest competitor in this year's London Marathon."
+				}
+			],
+			"collocations": {
+				"adjective": ["strong", "top", "successful"],
+				"competitor + verb": ["enter something"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person or an organization that competes against others, especially in business",
+			"sensetop": "competitor to somethingcompetitor for something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "We produce cheaper goods than our competitors."
+				},
+				{
+					"text": "The company is outperforming its main competitors in the US market."
+				},
+				{
+					"text": "They are set to become formidable competitors to American companies.",
+					"contextForm": "competitor to something"
+				},
+				{
+					"text": "Japan was not a major competitor for scarce resources such as oil.",
+					"contextForm": "competitor for something"
+				},
+				{
+					"text": "The company has no serious competitors in this area."
+				},
+				{
+					"text": "The industry is facing increasingly strong foreign competitors."
+				},
+				{
+					"text": "fierce competitors for the dominant position in the Asian market"
+				},
+				{
+					"text": "Who is your main competitor?"
+				}
+			],
+			"topics": ["Sports: other sports", "Business"],
+			"collocations": {
+				"adjective": ["biggest", "chief", "leading"],
+				"verb + competitor": ["face", "beat", "outperform"],
+				"competitor + verb": ["offer something"],
+				"preposition": ["competitor for"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kəmˈpetɪtə(r)/",
+				"audio": "co/competitor/competitor__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kəmˈpetɪtər/",
+				"audio": "co/competitor/competitor__us_3.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 16th cent.: from French compétiteur or Latin competitor, from competit- ‘striven for’, from the verb competere, from com- ‘together’ + petere ‘aim at, seek’."
 }

@@ -1,124 +1,124 @@
 {
-  "term": "penalize",
-  "partOfSpeech": "verb",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "penalize",
-      "heSheIt": "penalizes"
-    },
-    "pastSimple": "penalized",
-    "pastParticiple": "penalized",
-    "ingForm": "penalizing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to punish somebody for breaking a rule or law by making them suffer a disadvantage",
-      "sensetop": "penalize somebody (for something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "You will be penalized for poor spelling."
-        },
-        {
-          "text": "Students will be penalized for mistakes in spelling and grammar."
-        },
-        {
-          "text": "The law is designed to reward those who conserve and penalize those who pollute."
-        }
-      ],
-      "topics": ["Crime and punishment"],
-      "collocations": {
-        "adverb": ["heavily", "severely", "unfairly"],
-        "preposition": ["for"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to punish somebody for breaking a rule in a sport or game by giving an advantage to their opponent",
-      "sensetop": "penalize somebody (for something)penalize something",
-      "examples": [
-        {
-          "text": "He was penalized for time-wasting.",
-          "contextForm": "penalize somebody (for something)"
-        },
-        {
-          "text": "Foul play will be severely penalized.",
-          "contextForm": "penalize something"
-        }
-      ],
-      "collocations": {
-        "adverb": ["heavily", "severely", "unfairly"],
-        "preposition": ["for"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to put somebody at a disadvantage by treating them unfairly",
-      "sensetop": "penalize somebody",
-      "examples": [
-        {
-          "text": "The new law appears to penalize the poorest members of society."
-        },
-        {
-          "text": "He felt penalized because of his age."
-        },
-        {
-          "text": "He claims that he was unfairly penalized."
-        },
-        {
-          "text": "It is wrong for women to be financially penalized when they have children."
-        },
-        {
-          "text": "Under the tax, each adult in the household had to pay, which penalized larger families."
-        },
-        {
-          "text": "Will he be penalized for absence due to ill health?"
-        }
-      ],
-      "collocations": {
-        "adverb": ["heavily", "severely", "unfairly"],
-        "preposition": ["for"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈpiːnəlaɪz/",
-        "audio": "pe/penalize/penalize__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈpiːnəlaɪzɪz/",
-        "audio": "pe/penalize/penalizes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈpiːnəlaɪzd/",
-        "audio": "pe/penalize/penalized__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈpiːnəlaɪzɪŋ/",
-        "audio": "pe/penalize/penalizing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈpiːnəlaɪz/",
-        "audio": "pe/penalize/penalize__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈpiːnəlaɪzɪz/",
-        "audio": "pe/penalize/penalizes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈpiːnəlaɪzd/",
-        "audio": "pe/penalize/penalized__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈpiːnəlaɪzɪŋ/",
-        "audio": "pe/penalize/penalizing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "penalize",
+	"partOfSpeech": "verb",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "penalize",
+			"heSheIt": "penalizes"
+		},
+		"pastSimple": "penalized",
+		"pastParticiple": "penalized",
+		"ingForm": "penalizing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to punish somebody for breaking a rule or law by making them suffer a disadvantage",
+			"sensetop": "penalize somebody (for something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "You will be penalized for poor spelling."
+				},
+				{
+					"text": "Students will be penalized for mistakes in spelling and grammar."
+				},
+				{
+					"text": "The law is designed to reward those who conserve and penalize those who pollute."
+				}
+			],
+			"topics": ["Crime and punishment"],
+			"collocations": {
+				"adverb": ["heavily", "severely", "unfairly"],
+				"preposition": ["for"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to punish somebody for breaking a rule in a sport or game by giving an advantage to their opponent",
+			"sensetop": "penalize somebody (for something)penalize something",
+			"examples": [
+				{
+					"text": "He was penalized for time-wasting.",
+					"contextForm": "penalize somebody (for something)"
+				},
+				{
+					"text": "Foul play will be severely penalized.",
+					"contextForm": "penalize something"
+				}
+			],
+			"collocations": {
+				"adverb": ["heavily", "severely", "unfairly"],
+				"preposition": ["for"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to put somebody at a disadvantage by treating them unfairly",
+			"sensetop": "penalize somebody",
+			"examples": [
+				{
+					"text": "The new law appears to penalize the poorest members of society."
+				},
+				{
+					"text": "He felt penalized because of his age."
+				},
+				{
+					"text": "He claims that he was unfairly penalized."
+				},
+				{
+					"text": "It is wrong for women to be financially penalized when they have children."
+				},
+				{
+					"text": "Under the tax, each adult in the household had to pay, which penalized larger families."
+				},
+				{
+					"text": "Will he be penalized for absence due to ill health?"
+				}
+			],
+			"collocations": {
+				"adverb": ["heavily", "severely", "unfairly"],
+				"preposition": ["for"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈpiːnəlaɪz/",
+				"audio": "pe/penalize/penalize__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈpiːnəlaɪzɪz/",
+				"audio": "pe/penalize/penalizes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈpiːnəlaɪzd/",
+				"audio": "pe/penalize/penalized__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈpiːnəlaɪzɪŋ/",
+				"audio": "pe/penalize/penalizing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈpiːnəlaɪz/",
+				"audio": "pe/penalize/penalize__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈpiːnəlaɪzɪz/",
+				"audio": "pe/penalize/penalizes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈpiːnəlaɪzd/",
+				"audio": "pe/penalize/penalized__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈpiːnəlaɪzɪŋ/",
+				"audio": "pe/penalize/penalizing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

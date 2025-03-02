@@ -1,90 +1,90 @@
 {
-  "term": "summarize",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "summarize",
-      "heSheIt": "summarizes"
-    },
-    "pastSimple": "summarized",
-    "pastParticiple": "summarized",
-    "ingForm": "summarizing"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to give a summary of something",
-      "sensetop": "summarize (something)",
-      "examples": [
-        {
-          "text": "This essay briefly summarizes some of our approaches."
-        },
-        {
-          "text": "The results of the research are summarized at the end of the chapter."
-        },
-        {
-          "text": "To summarize, the main conclusions are as follows…"
-        },
-        {
-          "text": "The findings are summarized in Table 4."
-        },
-        {
-          "text": "The main findings of this research are summarized below."
-        },
-        {
-          "text": "The research has been usefully summarized in an article by Greenwood."
-        },
-        {
-          "text": "The argument can be summarized as follows:…"
-        }
-      ],
-      "collocations": {
-        "adverb": ["briefly", "succinctly", "accurately"],
-        "verb + summarize": ["attempt to", "try to", "be possible to"],
-        "preposition": ["as", "in"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsʌməraɪz/",
-        "audio": "su/summarize/summarize__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈsʌməraɪzɪz/",
-        "audio": "su/summarize/summarizes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsʌməraɪzd/",
-        "audio": "su/summarize/summarized__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsʌməraɪzɪŋ/",
-        "audio": "su/summarize/summarizing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsʌməraɪz/",
-        "audio": "su/summarize/summarize__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈsʌməraɪzɪz/",
-        "audio": "su/summarize/summarizes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsʌməraɪzd/",
-        "audio": "su/summarize/summarized__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsʌməraɪzɪŋ/",
-        "audio": "su/summarize/summarizing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "summarize",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "summarize",
+			"heSheIt": "summarizes"
+		},
+		"pastSimple": "summarized",
+		"pastParticiple": "summarized",
+		"ingForm": "summarizing"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to give a summary of something",
+			"sensetop": "summarize (something)",
+			"examples": [
+				{
+					"text": "This essay briefly summarizes some of our approaches."
+				},
+				{
+					"text": "The results of the research are summarized at the end of the chapter."
+				},
+				{
+					"text": "To summarize, the main conclusions are as follows…"
+				},
+				{
+					"text": "The findings are summarized in Table 4."
+				},
+				{
+					"text": "The main findings of this research are summarized below."
+				},
+				{
+					"text": "The research has been usefully summarized in an article by Greenwood."
+				},
+				{
+					"text": "The argument can be summarized as follows:…"
+				}
+			],
+			"collocations": {
+				"adverb": ["briefly", "succinctly", "accurately"],
+				"verb + summarize": ["attempt to", "try to", "be possible to"],
+				"preposition": ["as", "in"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsʌməraɪz/",
+				"audio": "su/summarize/summarize__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈsʌməraɪzɪz/",
+				"audio": "su/summarize/summarizes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsʌməraɪzd/",
+				"audio": "su/summarize/summarized__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsʌməraɪzɪŋ/",
+				"audio": "su/summarize/summarizing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsʌməraɪz/",
+				"audio": "su/summarize/summarize__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈsʌməraɪzɪz/",
+				"audio": "su/summarize/summarizes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsʌməraɪzd/",
+				"audio": "su/summarize/summarized__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsʌməraɪzɪŋ/",
+				"audio": "su/summarize/summarizing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

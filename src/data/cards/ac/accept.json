@@ -1,343 +1,343 @@
 {
-  "term": "accept",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "accept",
-      "heSheIt": "accepts"
-    },
-    "pastSimple": "accepted",
-    "pastParticiple": "accepted",
-    "ingForm": "accepting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to take willingly something that is offered; to say ‘yes’ to an offer, invitation, etc.",
-      "sensetop": "accept somethingaccept something from somebodyaccept something for something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He asked me to marry him and I accepted."
-        },
-        {
-          "text": "Please accept our sincere apologies.",
-          "contextForm": "accept something"
-        },
-        {
-          "text": "It was pouring with rain so I **accepted his offer** of a lift."
-        },
-        {
-          "text": "I am unfortunately unable to **accept your** kind **invitation**."
-        },
-        {
-          "text": "The board of directors **accepted our proposal**."
-        },
-        {
-          "text": "She's decided not to accept the job."
-        },
-        {
-          "text": "Please accept this small token of my appreciation."
-        },
-        {
-          "text": "He is charged with accepting bribes from a firm of suppliers.",
-          "contextForm": "accept something from somebody"
-        },
-        {
-          "text": "She said she'd accept $15 for it.",
-          "contextForm": "accept something for something"
-        },
-        {
-          "text": "I accepted the gift from my sister."
-        },
-        {
-          "text": "She graciously accepted my apology."
-        },
-        {
-          "text": "She accepted a bribe from an undercover policeman."
-        }
-      ],
-      "topics": ["Business"],
-      "collocations": {
-        "adverb": ["eagerly", "gladly", "graciously"],
-        "verb + accept": ["be glad to", "be happy to", "be reluctant to"],
-        "preposition": ["from"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to agree to or approve of something",
-      "sensetop": "accept somethingaccept something from somebodyaccept something for something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They accepted the court's decision.",
-          "contextForm": "accept something"
-        },
-        {
-          "text": "The judge refused to accept his evidence."
-        },
-        {
-          "text": "He accepted all the changes we proposed."
-        },
-        {
-          "text": "Are you willing to accept the challenge?"
-        },
-        {
-          "text": "She won't accept advice from anyone.",
-          "contextForm": "accept something from somebody"
-        },
-        {
-          "text": "My article has been accepted for publication.",
-          "contextForm": "accept something for something"
-        },
-        {
-          "text": "I had no choice but to accept the committee's decision."
-        },
-        {
-          "text": "I was very unwilling to accept her resignation."
-        },
-        {
-          "text": "He would not accept my advice."
-        },
-        {
-          "text": "These figures should not be accepted at face value."
-        }
-      ],
-      "topics": ["Discussion and agreement"],
-      "collocations": {
-        "adverb": ["happily", "readily", "fully"],
-        "verb + accept": ["be happy to", "be prepared to", "be ready to"],
-        "phrases": [
-          "be commonly accepted",
-          "be generally accepted",
-          "be universally accepted"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to take payment in a particular form",
-      "sensetop": "accept something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "This machine only accepts coins."
-        },
-        {
-          "text": "Credit cards are **widely accepted**."
-        }
-      ],
-      "collocations": {
-        "adverb": ["eagerly", "gladly", "graciously"],
-        "verb + accept": ["be glad to", "be happy to", "be reluctant to"],
-        "preposition": ["from"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to admit that you are responsible or to blame for something",
-      "sensetop": "accept something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He **accepts** full **responsibility** for what happened."
-        },
-        {
-          "text": "You have to accept the consequences of your actions."
-        },
-        {
-          "text": "The company cannot accept liability for any damage caused by natural disasters."
-        },
-        {
-          "text": "The college cannot accept responsibility for items lost or stolen on its premises."
-        }
-      ],
-      "collocations": {
-        "adverb": ["happily", "readily", "fully"],
-        "verb + accept": ["be happy to", "be prepared to", "be ready to"],
-        "phrases": [
-          "be commonly accepted",
-          "be generally accepted",
-          "be universally accepted"
-        ]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to continue in a difficult situation without complaining, because you realize that you cannot change it",
-      "sensetop": "accept somethingaccept something as somethingaccept that…",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "You just have to **accept the fact that** we're never going to be rich.",
-          "contextForm": "accept something"
-        },
-        {
-          "text": "to be **willing/prepared to accept** something"
-        },
-        {
-          "text": "Nothing will change as long as the workers continue to accept these appalling conditions."
-        },
-        {
-          "text": "They accept the risks as part of the job.",
-          "contextForm": "accept something as something"
-        },
-        {
-          "text": "He just **refused to accept** that his father was no longer there.",
-          "contextForm": "accept that…"
-        },
-        {
-          "text": "Some people readily accept that they may have to pay for medical treatment."
-        },
-        {
-          "text": "He would not accept the fact that his father was dead."
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to make somebody feel welcome and part of a group",
-      "sensetop": "accept somebodyaccept somebody into somethingaccept somebody as something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "It may take years to be completely accepted by the local community.",
-          "contextForm": "accept somebody"
-        },
-        {
-          "text": "She had never been accepted into what was essentially a man's world.",
-          "contextForm": "accept somebody into something"
-        },
-        {
-          "text": "He never really accepted her as his own child.",
-          "contextForm": "accept somebody as something"
-        }
-      ],
-      "topics": ["Social issues"]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to believe that something is true",
-      "sensetop": "accept somethingaccept something as somethingaccept that…it is accepted that…something is accepted to be, have, etc. something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I don't accept his version of events.",
-          "contextForm": "accept something"
-        },
-        {
-          "text": "Can we accept his account as the true version?",
-          "contextForm": "accept something as something"
-        },
-        {
-          "text": "I accept that this will not be popular.",
-          "contextForm": "accept that…"
-        },
-        {
-          "text": "I am not prepared to accept that this decision is final."
-        },
-        {
-          "text": "It is **generally accepted** that people are motivated by success.",
-          "contextForm": "it is accepted that…"
-        },
-        {
-          "text": "Their workforce is **widely accepted** to have the best conditions in Europe.",
-          "contextForm": "something is accepted to be, have, etc. something"
-        },
-        {
-          "text": "It was true, but hard to accept."
-        },
-        {
-          "text": "Most people had come to accept that war was inevitable."
-        },
-        {
-          "text": "The government now accepts the need for change."
-        }
-      ],
-      "collocations": {
-        "adverb": ["happily", "readily", "fully"],
-        "verb + accept": ["be happy to", "be prepared to", "be ready to"],
-        "phrases": [
-          "be commonly accepted",
-          "be generally accepted",
-          "be universally accepted"
-        ]
-      }
-    },
-    {
-      "senseNumber": 8,
-      "definition": "to allow somebody to join an organization, attend an institution, use a service, etc.",
-      "sensetop": "accept somebodyaccept somebody into somethingaccept somebody as somethingaccept somebody to do something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The college he applied to has accepted him.",
-          "contextForm": "accept somebody"
-        },
-        {
-          "text": "She was disappointed not to be accepted into the club.",
-          "contextForm": "accept somebody into something"
-        },
-        {
-          "text": "The landlord was willing to accept us as tenants.",
-          "contextForm": "accept somebody as something"
-        },
-        {
-          "text": "She was accepted to study music.",
-          "contextForm": "accept somebody to do something"
-        }
-      ],
-      "topics": ["Social issues"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/əkˈsept/",
-        "audio": "ac/accept/accept__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/əkˈsepts/",
-        "audio": "ac/accept/accepts__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/əkˈseptɪd/",
-        "audio": "ac/accept/accepted__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/əkˈseptɪŋ/",
-        "audio": "ac/accept/accepting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/əkˈsept/",
-        "audio": "ac/accept/accept__us_1.mp3"
-      },
-      {
-        "pronunciation": "/əkˈsepts/",
-        "audio": "ac/accept/accepts__us_1.mp3"
-      },
-      {
-        "pronunciation": "/əkˈseptɪd/",
-        "audio": "ac/accept/accepted__us_1.mp3"
-      },
-      {
-        "pronunciation": "/əkˈseptɪŋ/",
-        "audio": "ac/accept/accepting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Latin acceptare, frequentative of accipere ‘take something to oneself’, from ad- ‘to’ + capere ‘take’."
+	"term": "accept",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "accept",
+			"heSheIt": "accepts"
+		},
+		"pastSimple": "accepted",
+		"pastParticiple": "accepted",
+		"ingForm": "accepting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to take willingly something that is offered; to say ‘yes’ to an offer, invitation, etc.",
+			"sensetop": "accept somethingaccept something from somebodyaccept something for something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He asked me to marry him and I accepted."
+				},
+				{
+					"text": "Please accept our sincere apologies.",
+					"contextForm": "accept something"
+				},
+				{
+					"text": "It was pouring with rain so I **accepted his offer** of a lift."
+				},
+				{
+					"text": "I am unfortunately unable to **accept your** kind **invitation**."
+				},
+				{
+					"text": "The board of directors **accepted our proposal**."
+				},
+				{
+					"text": "She's decided not to accept the job."
+				},
+				{
+					"text": "Please accept this small token of my appreciation."
+				},
+				{
+					"text": "He is charged with accepting bribes from a firm of suppliers.",
+					"contextForm": "accept something from somebody"
+				},
+				{
+					"text": "She said she'd accept $15 for it.",
+					"contextForm": "accept something for something"
+				},
+				{
+					"text": "I accepted the gift from my sister."
+				},
+				{
+					"text": "She graciously accepted my apology."
+				},
+				{
+					"text": "She accepted a bribe from an undercover policeman."
+				}
+			],
+			"topics": ["Business"],
+			"collocations": {
+				"adverb": ["eagerly", "gladly", "graciously"],
+				"verb + accept": ["be glad to", "be happy to", "be reluctant to"],
+				"preposition": ["from"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to agree to or approve of something",
+			"sensetop": "accept somethingaccept something from somebodyaccept something for something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They accepted the court's decision.",
+					"contextForm": "accept something"
+				},
+				{
+					"text": "The judge refused to accept his evidence."
+				},
+				{
+					"text": "He accepted all the changes we proposed."
+				},
+				{
+					"text": "Are you willing to accept the challenge?"
+				},
+				{
+					"text": "She won't accept advice from anyone.",
+					"contextForm": "accept something from somebody"
+				},
+				{
+					"text": "My article has been accepted for publication.",
+					"contextForm": "accept something for something"
+				},
+				{
+					"text": "I had no choice but to accept the committee's decision."
+				},
+				{
+					"text": "I was very unwilling to accept her resignation."
+				},
+				{
+					"text": "He would not accept my advice."
+				},
+				{
+					"text": "These figures should not be accepted at face value."
+				}
+			],
+			"topics": ["Discussion and agreement"],
+			"collocations": {
+				"adverb": ["happily", "readily", "fully"],
+				"verb + accept": ["be happy to", "be prepared to", "be ready to"],
+				"phrases": [
+					"be commonly accepted",
+					"be generally accepted",
+					"be universally accepted"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to take payment in a particular form",
+			"sensetop": "accept something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "This machine only accepts coins."
+				},
+				{
+					"text": "Credit cards are **widely accepted**."
+				}
+			],
+			"collocations": {
+				"adverb": ["eagerly", "gladly", "graciously"],
+				"verb + accept": ["be glad to", "be happy to", "be reluctant to"],
+				"preposition": ["from"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to admit that you are responsible or to blame for something",
+			"sensetop": "accept something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He **accepts** full **responsibility** for what happened."
+				},
+				{
+					"text": "You have to accept the consequences of your actions."
+				},
+				{
+					"text": "The company cannot accept liability for any damage caused by natural disasters."
+				},
+				{
+					"text": "The college cannot accept responsibility for items lost or stolen on its premises."
+				}
+			],
+			"collocations": {
+				"adverb": ["happily", "readily", "fully"],
+				"verb + accept": ["be happy to", "be prepared to", "be ready to"],
+				"phrases": [
+					"be commonly accepted",
+					"be generally accepted",
+					"be universally accepted"
+				]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to continue in a difficult situation without complaining, because you realize that you cannot change it",
+			"sensetop": "accept somethingaccept something as somethingaccept that…",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "You just have to **accept the fact that** we're never going to be rich.",
+					"contextForm": "accept something"
+				},
+				{
+					"text": "to be **willing/prepared to accept** something"
+				},
+				{
+					"text": "Nothing will change as long as the workers continue to accept these appalling conditions."
+				},
+				{
+					"text": "They accept the risks as part of the job.",
+					"contextForm": "accept something as something"
+				},
+				{
+					"text": "He just **refused to accept** that his father was no longer there.",
+					"contextForm": "accept that…"
+				},
+				{
+					"text": "Some people readily accept that they may have to pay for medical treatment."
+				},
+				{
+					"text": "He would not accept the fact that his father was dead."
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to make somebody feel welcome and part of a group",
+			"sensetop": "accept somebodyaccept somebody into somethingaccept somebody as something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "It may take years to be completely accepted by the local community.",
+					"contextForm": "accept somebody"
+				},
+				{
+					"text": "She had never been accepted into what was essentially a man's world.",
+					"contextForm": "accept somebody into something"
+				},
+				{
+					"text": "He never really accepted her as his own child.",
+					"contextForm": "accept somebody as something"
+				}
+			],
+			"topics": ["Social issues"]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to believe that something is true",
+			"sensetop": "accept somethingaccept something as somethingaccept that…it is accepted that…something is accepted to be, have, etc. something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I don't accept his version of events.",
+					"contextForm": "accept something"
+				},
+				{
+					"text": "Can we accept his account as the true version?",
+					"contextForm": "accept something as something"
+				},
+				{
+					"text": "I accept that this will not be popular.",
+					"contextForm": "accept that…"
+				},
+				{
+					"text": "I am not prepared to accept that this decision is final."
+				},
+				{
+					"text": "It is **generally accepted** that people are motivated by success.",
+					"contextForm": "it is accepted that…"
+				},
+				{
+					"text": "Their workforce is **widely accepted** to have the best conditions in Europe.",
+					"contextForm": "something is accepted to be, have, etc. something"
+				},
+				{
+					"text": "It was true, but hard to accept."
+				},
+				{
+					"text": "Most people had come to accept that war was inevitable."
+				},
+				{
+					"text": "The government now accepts the need for change."
+				}
+			],
+			"collocations": {
+				"adverb": ["happily", "readily", "fully"],
+				"verb + accept": ["be happy to", "be prepared to", "be ready to"],
+				"phrases": [
+					"be commonly accepted",
+					"be generally accepted",
+					"be universally accepted"
+				]
+			}
+		},
+		{
+			"senseNumber": 8,
+			"definition": "to allow somebody to join an organization, attend an institution, use a service, etc.",
+			"sensetop": "accept somebodyaccept somebody into somethingaccept somebody as somethingaccept somebody to do something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The college he applied to has accepted him.",
+					"contextForm": "accept somebody"
+				},
+				{
+					"text": "She was disappointed not to be accepted into the club.",
+					"contextForm": "accept somebody into something"
+				},
+				{
+					"text": "The landlord was willing to accept us as tenants.",
+					"contextForm": "accept somebody as something"
+				},
+				{
+					"text": "She was accepted to study music.",
+					"contextForm": "accept somebody to do something"
+				}
+			],
+			"topics": ["Social issues"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/əkˈsept/",
+				"audio": "ac/accept/accept__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/əkˈsepts/",
+				"audio": "ac/accept/accepts__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/əkˈseptɪd/",
+				"audio": "ac/accept/accepted__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/əkˈseptɪŋ/",
+				"audio": "ac/accept/accepting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/əkˈsept/",
+				"audio": "ac/accept/accept__us_1.mp3"
+			},
+			{
+				"pronunciation": "/əkˈsepts/",
+				"audio": "ac/accept/accepts__us_1.mp3"
+			},
+			{
+				"pronunciation": "/əkˈseptɪd/",
+				"audio": "ac/accept/accepted__us_1.mp3"
+			},
+			{
+				"pronunciation": "/əkˈseptɪŋ/",
+				"audio": "ac/accept/accepting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Latin acceptare, frequentative of accipere ‘take something to oneself’, from ad- ‘to’ + capere ‘take’."
 }

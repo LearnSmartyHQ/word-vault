@@ -1,158 +1,158 @@
 {
-  "term": "glad",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "pleased; happy",
-      "sensetop": "glad about somethingglad to know, hear, see…glad (that)…glad to do somethingglad for somebody",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "‘I passed the test!’ ‘I’m **so glad**.’"
-        },
-        {
-          "text": "She was glad when the meeting was over."
-        },
-        {
-          "text": "‘He doesn't need the pills any more.’ ‘I'm glad about that.’",
-          "contextForm": "glad about something"
-        },
-        {
-          "text": "I'm glad to hear you're feeling better.",
-          "contextForm": "glad to know, hear, see…"
-        },
-        {
-          "text": "I’m glad (that) you’re feeling better.",
-          "contextForm": "glad (that)…"
-        },
-        {
-          "text": "He was glad he'd come."
-        },
-        {
-          "text": "I'm **just glad** you’re safe!"
-        },
-        {
-          "text": "I've never been so glad to see anyone in my life!",
-          "contextForm": "glad to do something"
-        },
-        {
-          "text": "I'm glad to meet you. I've heard a lot about you."
-        },
-        {
-          "text": "He talked so much that they were really glad to see the back of him *(= when he left)*."
-        },
-        {
-          "text": "I'm so glad for him because he's such a nice lad.",
-          "contextForm": "glad for somebody"
-        },
-        {
-          "text": "What have I got to be glad about?"
-        },
-        {
-          "text": "She's absolutely fine, I'm glad to say."
-        },
-        {
-          "text": "I'm just glad it's all over."
-        },
-        {
-          "text": "She was only too glad to escape them all."
-        },
-        {
-          "text": "The smell of the sea air makes you glad to be alive!"
-        }
-      ],
-      "topics": ["Feelings"],
-      "collocations": {
-        "verbs": ["be", "feel", "look"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["about", "for", "of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "grateful for something",
-      "sensetop": "glad of somethingglad if…",
-      "examples": [
-        {
-          "text": "She was very glad of her warm coat in the biting wind.",
-          "contextForm": "glad of something"
-        },
-        {
-          "text": "I'd be glad of your help."
-        },
-        {
-          "text": "She was secretly glad of his company."
-        },
-        {
-          "text": "I'd be glad if you could help me.",
-          "contextForm": "glad if…"
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "feel", "look"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["about", "for", "of"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "very willing to do something",
-      "sensetop": "glad to do something",
-      "examples": [
-        {
-          "text": "I'd be glad to lend you the money."
-        },
-        {
-          "text": "If you'd like me to help you, I'd **be only too glad to**."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "feel", "look"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["about", "for", "of"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "bringing joy; full of joy",
-      "labels": "(old-fashioned)",
-      "examples": [
-        {
-          "text": "**glad tidings**"
-        },
-        {
-          "text": "They greeted each other with glad cries."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used when you are commenting on a situation and saying that you are happy about it",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Most teachers, I'm glad to say, take their jobs very seriously."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɡlæd/",
-        "audio": "gl/glad/glad__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɡlæd/",
-        "audio": "gl/glad/glad__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English glæd (originally in the sense ‘bright, shining’), of Germanic origin; related to Old Norse glathr ‘bright, joyous’ and German glatt ‘smooth’, also to Latin glaber ‘smooth, hairless’."
+	"term": "glad",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "pleased; happy",
+			"sensetop": "glad about somethingglad to know, hear, see…glad (that)…glad to do somethingglad for somebody",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "‘I passed the test!’ ‘I’m **so glad**.’"
+				},
+				{
+					"text": "She was glad when the meeting was over."
+				},
+				{
+					"text": "‘He doesn't need the pills any more.’ ‘I'm glad about that.’",
+					"contextForm": "glad about something"
+				},
+				{
+					"text": "I'm glad to hear you're feeling better.",
+					"contextForm": "glad to know, hear, see…"
+				},
+				{
+					"text": "I’m glad (that) you’re feeling better.",
+					"contextForm": "glad (that)…"
+				},
+				{
+					"text": "He was glad he'd come."
+				},
+				{
+					"text": "I'm **just glad** you’re safe!"
+				},
+				{
+					"text": "I've never been so glad to see anyone in my life!",
+					"contextForm": "glad to do something"
+				},
+				{
+					"text": "I'm glad to meet you. I've heard a lot about you."
+				},
+				{
+					"text": "He talked so much that they were really glad to see the back of him *(= when he left)*."
+				},
+				{
+					"text": "I'm so glad for him because he's such a nice lad.",
+					"contextForm": "glad for somebody"
+				},
+				{
+					"text": "What have I got to be glad about?"
+				},
+				{
+					"text": "She's absolutely fine, I'm glad to say."
+				},
+				{
+					"text": "I'm just glad it's all over."
+				},
+				{
+					"text": "She was only too glad to escape them all."
+				},
+				{
+					"text": "The smell of the sea air makes you glad to be alive!"
+				}
+			],
+			"topics": ["Feelings"],
+			"collocations": {
+				"verbs": ["be", "feel", "look"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["about", "for", "of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "grateful for something",
+			"sensetop": "glad of somethingglad if…",
+			"examples": [
+				{
+					"text": "She was very glad of her warm coat in the biting wind.",
+					"contextForm": "glad of something"
+				},
+				{
+					"text": "I'd be glad of your help."
+				},
+				{
+					"text": "She was secretly glad of his company."
+				},
+				{
+					"text": "I'd be glad if you could help me.",
+					"contextForm": "glad if…"
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "feel", "look"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["about", "for", "of"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "very willing to do something",
+			"sensetop": "glad to do something",
+			"examples": [
+				{
+					"text": "I'd be glad to lend you the money."
+				},
+				{
+					"text": "If you'd like me to help you, I'd **be only too glad to**."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "feel", "look"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["about", "for", "of"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "bringing joy; full of joy",
+			"labels": "(old-fashioned)",
+			"examples": [
+				{
+					"text": "**glad tidings**"
+				},
+				{
+					"text": "They greeted each other with glad cries."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used when you are commenting on a situation and saying that you are happy about it",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Most teachers, I'm glad to say, take their jobs very seriously."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɡlæd/",
+				"audio": "gl/glad/glad__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɡlæd/",
+				"audio": "gl/glad/glad__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English glæd (originally in the sense ‘bright, shining’), of Germanic origin; related to Old Norse glathr ‘bright, joyous’ and German glatt ‘smooth’, also to Latin glaber ‘smooth, hairless’."
 }

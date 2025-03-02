@@ -1,145 +1,145 @@
 {
-  "term": "confess",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "confess",
-      "heSheIt": "confesses"
-    },
-    "pastSimple": "confessed",
-    "pastParticiple": "confessed",
-    "ingForm": "confessing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to admit, especially formally or to the police, that you have done something wrong or illegal",
-      "sensetop": "confess to (doing) somethingconfess (that)…confess to somebody (that)…confess your crime, error, etc.",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "After hours of questioning, the suspect confessed."
-        },
-        {
-          "text": "She confessed to the murder.",
-          "contextForm": "confess to (doing) something"
-        },
-        {
-          "text": "He confessed that he had stolen the money.",
-          "contextForm": "confess (that)…"
-        },
-        {
-          "text": "She confessed to me that she had known his true identity for some time.",
-          "contextForm": "confess to somebody (that)…"
-        },
-        {
-          "text": "We persuaded her to confess her crime.",
-          "contextForm": "confess your crime, error, etc."
-        }
-      ],
-      "topics": ["Crime and punishment"],
-      "collocations": {
-        "adverb": ["freely", "openly", "publicly"],
-        "verb + confess": ["have to", "must"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to admit something that you feel ashamed or embarrassed about",
-      "sensetop": "confess somethingconfess to (doing) somethingconfess (that)…+ speechconfess yourself + adj.",
-      "labels": "(formal)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "She was reluctant to confess her ignorance.",
-          "contextForm": "confess something"
-        },
-        {
-          "text": "**I must confess** to knowing nothing about golf.",
-          "contextForm": "confess to (doing) something"
-        },
-        {
-          "text": "I confess (that) I know nothing about golf.",
-          "contextForm": "confess (that)…"
-        },
-        {
-          "text": "‘I know nothing about it,’ he confessed.",
-          "contextForm": "+ speech"
-        },
-        {
-          "text": "I confess myself bewildered by their explanation."
-        },
-        {
-          "text": "I must confess that I didn't have much faith in her ideas."
-        },
-        {
-          "text": "He had to confess to knowing nothing about computers."
-        }
-      ],
-      "topics": ["Feelings"],
-      "collocations": {
-        "adverb": ["freely", "openly", "publicly"],
-        "verb + confess": ["have to", "must"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to tell God or a priest about the bad things you have done so that you can say that you are sorry and be forgiven",
-      "sensetop": "confess (something) (to somebody)",
-      "examples": [
-        {
-          "text": "They had confessed their sins and done their penance."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to hear somebody confess their sins (= the bad things they have done)",
-      "sensetop": "confess somebody",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kənˈfes/",
-        "audio": "xc/confess/xconfess__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈfesɪz/",
-        "audio": "xc/confess/xconfesses__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈfest/",
-        "audio": "xc/confess/xconfessed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈfesɪŋ/",
-        "audio": "xc/confess/xconfessing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kənˈfes/",
-        "audio": "xc/confess/xconfess__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈfesɪz/",
-        "audio": "xc/confess/xconfesses__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈfest/",
-        "audio": "xc/confess/xconfessed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈfesɪŋ/",
-        "audio": "xc/confess/xconfessing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French confesser, from Latin confessus, past participle of confiteri ‘acknowledge’, from con- (expressing intensive force) + fateri ‘declare, avow’."
+	"term": "confess",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "confess",
+			"heSheIt": "confesses"
+		},
+		"pastSimple": "confessed",
+		"pastParticiple": "confessed",
+		"ingForm": "confessing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to admit, especially formally or to the police, that you have done something wrong or illegal",
+			"sensetop": "confess to (doing) somethingconfess (that)…confess to somebody (that)…confess your crime, error, etc.",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "After hours of questioning, the suspect confessed."
+				},
+				{
+					"text": "She confessed to the murder.",
+					"contextForm": "confess to (doing) something"
+				},
+				{
+					"text": "He confessed that he had stolen the money.",
+					"contextForm": "confess (that)…"
+				},
+				{
+					"text": "She confessed to me that she had known his true identity for some time.",
+					"contextForm": "confess to somebody (that)…"
+				},
+				{
+					"text": "We persuaded her to confess her crime.",
+					"contextForm": "confess your crime, error, etc."
+				}
+			],
+			"topics": ["Crime and punishment"],
+			"collocations": {
+				"adverb": ["freely", "openly", "publicly"],
+				"verb + confess": ["have to", "must"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to admit something that you feel ashamed or embarrassed about",
+			"sensetop": "confess somethingconfess to (doing) somethingconfess (that)…+ speechconfess yourself + adj.",
+			"labels": "(formal)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "She was reluctant to confess her ignorance.",
+					"contextForm": "confess something"
+				},
+				{
+					"text": "**I must confess** to knowing nothing about golf.",
+					"contextForm": "confess to (doing) something"
+				},
+				{
+					"text": "I confess (that) I know nothing about golf.",
+					"contextForm": "confess (that)…"
+				},
+				{
+					"text": "‘I know nothing about it,’ he confessed.",
+					"contextForm": "+ speech"
+				},
+				{
+					"text": "I confess myself bewildered by their explanation."
+				},
+				{
+					"text": "I must confess that I didn't have much faith in her ideas."
+				},
+				{
+					"text": "He had to confess to knowing nothing about computers."
+				}
+			],
+			"topics": ["Feelings"],
+			"collocations": {
+				"adverb": ["freely", "openly", "publicly"],
+				"verb + confess": ["have to", "must"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to tell God or a priest about the bad things you have done so that you can say that you are sorry and be forgiven",
+			"sensetop": "confess (something) (to somebody)",
+			"examples": [
+				{
+					"text": "They had confessed their sins and done their penance."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to hear somebody confess their sins (= the bad things they have done)",
+			"sensetop": "confess somebody",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kənˈfes/",
+				"audio": "xc/confess/xconfess__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈfesɪz/",
+				"audio": "xc/confess/xconfesses__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈfest/",
+				"audio": "xc/confess/xconfessed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈfesɪŋ/",
+				"audio": "xc/confess/xconfessing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kənˈfes/",
+				"audio": "xc/confess/xconfess__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈfesɪz/",
+				"audio": "xc/confess/xconfesses__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈfest/",
+				"audio": "xc/confess/xconfessed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈfesɪŋ/",
+				"audio": "xc/confess/xconfessing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French confesser, from Latin confessus, past participle of confiteri ‘acknowledge’, from con- (expressing intensive force) + fateri ‘declare, avow’."
 }

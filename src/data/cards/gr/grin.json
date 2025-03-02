@@ -1,135 +1,135 @@
 {
-  "term": "grin",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "grin",
-      "heSheIt": "grins"
-    },
-    "pastSimple": "grinned",
-    "pastParticiple": "grinned",
-    "ingForm": "grinning"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to smile widely",
-      "sensetop": "grin at somebodygrin something",
-      "examples": [
-        {
-          "text": "They grinned with delight when they heard our news."
-        },
-        {
-          "text": "Stop grinning and tell me what happened!"
-        },
-        {
-          "text": "She grinned amiably at us.",
-          "contextForm": "grin at somebody"
-        },
-        {
-          "text": "He grinned a wide grin.",
-          "contextForm": "grin something"
-        },
-        {
-          "text": "He appeared in the doorway grinning broadly."
-        },
-        {
-          "text": "He just stood there, grinning like an idiot."
-        },
-        {
-          "text": "He just stood there, tongue-tied and grinning sheepishly."
-        },
-        {
-          "text": "He lay grinning impishly up at me."
-        },
-        {
-          "text": "He stopped eating to grin at me."
-        },
-        {
-          "text": "She grinned apologetically when she saw him."
-        },
-        {
-          "text": "She grinned to herself at the thought."
-        },
-        {
-          "text": "She looked at us, grinning from ear to ear."
-        },
-        {
-          "text": "She relaxed and grinned wickedly back at him."
-        },
-        {
-          "text": "They grinned with pleasure."
-        },
-        {
-          "text": "‘Don't be daft,’ he grinned."
-        }
-      ],
-      "topics": ["Appearance"],
-      "collocations": {
-        "adverb": ["broadly", "widely", "slightly"],
-        "preposition": ["at", "like", "to"],
-        "phrases": ["grin ear to ear", "grin from ear to ear"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to accept pain or bad luck without complaining",
-      "examples": [
-        {
-          "text": "There's nothing we can do about it. We'll just have to grin and bear it."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be smiling, etc. a lot because you are very pleased about something",
-      "examples": [
-        {
-          "text": "He was beaming from ear to ear."
-        }
-      ],
-      "topics": ["Feelings"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɡrɪn/",
-        "audio": "gr/grin/grin__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɡrɪnz/",
-        "audio": "gr/grin/grins__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɡrɪnd/",
-        "audio": "gr/grin/grinned__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɡrɪnɪŋ/",
-        "audio": "gr/grin/grinning__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɡrɪn/",
-        "audio": "gr/grin/grin__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɡrɪnz/",
-        "audio": "gr/grin/grins__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɡrɪnd/",
-        "audio": "gr/grin/grinned__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɡrɪnɪŋ/",
-        "audio": "gr/grin/grinning__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English grennian ‘bare the teeth in pain or anger’, of Germanic origin; probably related to groan."
+	"term": "grin",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "grin",
+			"heSheIt": "grins"
+		},
+		"pastSimple": "grinned",
+		"pastParticiple": "grinned",
+		"ingForm": "grinning"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to smile widely",
+			"sensetop": "grin at somebodygrin something",
+			"examples": [
+				{
+					"text": "They grinned with delight when they heard our news."
+				},
+				{
+					"text": "Stop grinning and tell me what happened!"
+				},
+				{
+					"text": "She grinned amiably at us.",
+					"contextForm": "grin at somebody"
+				},
+				{
+					"text": "He grinned a wide grin.",
+					"contextForm": "grin something"
+				},
+				{
+					"text": "He appeared in the doorway grinning broadly."
+				},
+				{
+					"text": "He just stood there, grinning like an idiot."
+				},
+				{
+					"text": "He just stood there, tongue-tied and grinning sheepishly."
+				},
+				{
+					"text": "He lay grinning impishly up at me."
+				},
+				{
+					"text": "He stopped eating to grin at me."
+				},
+				{
+					"text": "She grinned apologetically when she saw him."
+				},
+				{
+					"text": "She grinned to herself at the thought."
+				},
+				{
+					"text": "She looked at us, grinning from ear to ear."
+				},
+				{
+					"text": "She relaxed and grinned wickedly back at him."
+				},
+				{
+					"text": "They grinned with pleasure."
+				},
+				{
+					"text": "‘Don't be daft,’ he grinned."
+				}
+			],
+			"topics": ["Appearance"],
+			"collocations": {
+				"adverb": ["broadly", "widely", "slightly"],
+				"preposition": ["at", "like", "to"],
+				"phrases": ["grin ear to ear", "grin from ear to ear"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to accept pain or bad luck without complaining",
+			"examples": [
+				{
+					"text": "There's nothing we can do about it. We'll just have to grin and bear it."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be smiling, etc. a lot because you are very pleased about something",
+			"examples": [
+				{
+					"text": "He was beaming from ear to ear."
+				}
+			],
+			"topics": ["Feelings"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɡrɪn/",
+				"audio": "gr/grin/grin__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɡrɪnz/",
+				"audio": "gr/grin/grins__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɡrɪnd/",
+				"audio": "gr/grin/grinned__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɡrɪnɪŋ/",
+				"audio": "gr/grin/grinning__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɡrɪn/",
+				"audio": "gr/grin/grin__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɡrɪnz/",
+				"audio": "gr/grin/grins__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɡrɪnd/",
+				"audio": "gr/grin/grinned__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɡrɪnɪŋ/",
+				"audio": "gr/grin/grinning__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English grennian ‘bare the teeth in pain or anger’, of Germanic origin; probably related to groan."
 }

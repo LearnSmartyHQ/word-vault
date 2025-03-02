@@ -1,168 +1,168 @@
 {
-  "term": "need",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "need",
-      "heSheIt": "needs"
-    },
-    "pastSimple": "needed",
-    "pastParticiple": "needed",
-    "ingForm": "needing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to require something/somebody because they are essential or very important, not just because you would like to have them",
-      "sensetop": "need something/somebodyneed to do somethingsomething needs doing",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Do you need any help?",
-          "contextForm": "need something/somebody"
-        },
-        {
-          "text": "It's here if you need it."
-        },
-        {
-          "text": "Don't go—I might need you."
-        },
-        {
-          "text": "They **badly needed** a change."
-        },
-        {
-          "text": "We **desperately need** hard facts on this disease."
-        },
-        {
-          "text": "Food aid is urgently needed."
-        },
-        {
-          "text": "What do you need your own computer for? You can use ours."
-        },
-        {
-          "text": "She needs more time to recover."
-        },
-        {
-          "text": "People need income not handouts."
-        },
-        {
-          "text": "More new housing is needed in the city."
-        },
-        {
-          "text": "I don't need your comments, thank you."
-        },
-        {
-          "text": "I need to get some sleep.",
-          "contextForm": "need to do something"
-        },
-        {
-          "text": "He needs to win this game to stay in the match."
-        },
-        {
-          "text": "You don't need to leave yet, do you?"
-        },
-        {
-          "text": "You need to know how toxic the product is."
-        },
-        {
-          "text": "This shirt needs to be washed."
-        },
-        {
-          "text": "This shirt needs washing.",
-          "contextForm": "something needs doing"
-        },
-        {
-          "text": "How much time is needed for maintenance and repairs?"
-        },
-        {
-          "text": "They question whether American consumers really need the product."
-        },
-        {
-          "text": "I just need some information."
-        },
-        {
-          "text": "Research is urgently needed into the causes of this illness."
-        },
-        {
-          "text": "She needed some money badly."
-        },
-        {
-          "text": "These people may need 24-hour attention, but they do not necessarily need to be in hospital."
-        },
-        {
-          "text": "You hardly need me to tell you that your father is still very frail and must not be upset."
-        }
-      ],
-      "collocations": {
-        "adverb": ["badly", "desperately", "really"],
-        "verb + need": ["be going to", "be expected to", "be likely to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "used to show what you should or have to do",
-      "sensetop": "need to do something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "All you need to do is complete this form."
-        },
-        {
-          "text": "I didn't need to go to the bank after all—Mary lent me the money."
-        },
-        {
-          "text": "You may well need to look outside your preferred area to find affordable accommodation."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be crazy",
-      "labels": "(informal)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/niːd/",
-        "audio": "ne/need/need__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/niːdz/",
-        "audio": "ne/need/needs__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈniːdɪd/",
-        "audio": "ne/need/needed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈniːdɪŋ/",
-        "audio": "ne/need/needing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/niːd/",
-        "audio": "ne/need/need__us_1.mp3"
-      },
-      {
-        "pronunciation": "/niːdz/",
-        "audio": "ne/need/needs__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈniːdɪd/",
-        "audio": "ne/need/needed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈniːdɪŋ/",
-        "audio": "ne/need/needing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English nēodian (verb), nēod, nēd (noun), of Germanic origin; related to Dutch nood and German Not ‘danger’."
+	"term": "need",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "need",
+			"heSheIt": "needs"
+		},
+		"pastSimple": "needed",
+		"pastParticiple": "needed",
+		"ingForm": "needing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to require something/somebody because they are essential or very important, not just because you would like to have them",
+			"sensetop": "need something/somebodyneed to do somethingsomething needs doing",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Do you need any help?",
+					"contextForm": "need something/somebody"
+				},
+				{
+					"text": "It's here if you need it."
+				},
+				{
+					"text": "Don't go—I might need you."
+				},
+				{
+					"text": "They **badly needed** a change."
+				},
+				{
+					"text": "We **desperately need** hard facts on this disease."
+				},
+				{
+					"text": "Food aid is urgently needed."
+				},
+				{
+					"text": "What do you need your own computer for? You can use ours."
+				},
+				{
+					"text": "She needs more time to recover."
+				},
+				{
+					"text": "People need income not handouts."
+				},
+				{
+					"text": "More new housing is needed in the city."
+				},
+				{
+					"text": "I don't need your comments, thank you."
+				},
+				{
+					"text": "I need to get some sleep.",
+					"contextForm": "need to do something"
+				},
+				{
+					"text": "He needs to win this game to stay in the match."
+				},
+				{
+					"text": "You don't need to leave yet, do you?"
+				},
+				{
+					"text": "You need to know how toxic the product is."
+				},
+				{
+					"text": "This shirt needs to be washed."
+				},
+				{
+					"text": "This shirt needs washing.",
+					"contextForm": "something needs doing"
+				},
+				{
+					"text": "How much time is needed for maintenance and repairs?"
+				},
+				{
+					"text": "They question whether American consumers really need the product."
+				},
+				{
+					"text": "I just need some information."
+				},
+				{
+					"text": "Research is urgently needed into the causes of this illness."
+				},
+				{
+					"text": "She needed some money badly."
+				},
+				{
+					"text": "These people may need 24-hour attention, but they do not necessarily need to be in hospital."
+				},
+				{
+					"text": "You hardly need me to tell you that your father is still very frail and must not be upset."
+				}
+			],
+			"collocations": {
+				"adverb": ["badly", "desperately", "really"],
+				"verb + need": ["be going to", "be expected to", "be likely to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "used to show what you should or have to do",
+			"sensetop": "need to do something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "All you need to do is complete this form."
+				},
+				{
+					"text": "I didn't need to go to the bank after all—Mary lent me the money."
+				},
+				{
+					"text": "You may well need to look outside your preferred area to find affordable accommodation."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be crazy",
+			"labels": "(informal)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/niːd/",
+				"audio": "ne/need/need__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/niːdz/",
+				"audio": "ne/need/needs__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈniːdɪd/",
+				"audio": "ne/need/needed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈniːdɪŋ/",
+				"audio": "ne/need/needing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/niːd/",
+				"audio": "ne/need/need__us_1.mp3"
+			},
+			{
+				"pronunciation": "/niːdz/",
+				"audio": "ne/need/needs__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈniːdɪd/",
+				"audio": "ne/need/needed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈniːdɪŋ/",
+				"audio": "ne/need/needing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English nēodian (verb), nēod, nēd (noun), of Germanic origin; related to Dutch nood and German Not ‘danger’."
 }

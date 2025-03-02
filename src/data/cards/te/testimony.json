@@ -1,83 +1,83 @@
 {
-  "term": "testimony",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a thing that shows that something else exists or is true",
-      "sensetop": "testimony (to something)",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "This increase in exports **bears testimony to** the successes of industry."
-        },
-        {
-          "text": "The pyramids are an eloquent testimony to the ancient Egyptians' engineering skills."
-        },
-        {
-          "text": "His thick, swollen fingers bore testimony to a lifetime of toil."
-        }
-      ],
-      "collocations": {
-        "adjective": ["ample", "clear", "eloquent"],
-        "verb + testimony": ["bear", "stand as", "offer"],
-        "preposition": ["testimony to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a formal written or spoken statement saying what you know to be true, usually in court",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a sworn testimony"
-        },
-        {
-          "text": "Her claim was supported by the testimony of several witnesses."
-        },
-        {
-          "text": "Can I refuse to give testimony?"
-        },
-        {
-          "text": "The court heard her testimony against the accused."
-        },
-        {
-          "text": "Her testimony was corroborated by the other witnesses."
-        },
-        {
-          "text": "In testimony before the Crown Court, she described her movements on the day of the murder."
-        },
-        {
-          "text": "The government was able to compel his testimony."
-        },
-        {
-          "text": "The witness was called to give oral testimony about the incident outside the theatre."
-        }
-      ],
-      "topics": ["Law and justice"],
-      "collocations": {
-        "adjective": ["credible", "reliable", "uncorroborated"],
-        "verb + testimony": ["hear", "give", "offer"],
-        "preposition": ["by your testimony", "in testimony", "testimony about"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈtestɪməni/",
-        "audio": "te/testimony/testimony__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈtestɪməʊni/",
-        "audio": "te/testimony/testimony__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Latin testimonium, from testis ‘a witness’."
+	"term": "testimony",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a thing that shows that something else exists or is true",
+			"sensetop": "testimony (to something)",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "This increase in exports **bears testimony to** the successes of industry."
+				},
+				{
+					"text": "The pyramids are an eloquent testimony to the ancient Egyptians' engineering skills."
+				},
+				{
+					"text": "His thick, swollen fingers bore testimony to a lifetime of toil."
+				}
+			],
+			"collocations": {
+				"adjective": ["ample", "clear", "eloquent"],
+				"verb + testimony": ["bear", "stand as", "offer"],
+				"preposition": ["testimony to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a formal written or spoken statement saying what you know to be true, usually in court",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a sworn testimony"
+				},
+				{
+					"text": "Her claim was supported by the testimony of several witnesses."
+				},
+				{
+					"text": "Can I refuse to give testimony?"
+				},
+				{
+					"text": "The court heard her testimony against the accused."
+				},
+				{
+					"text": "Her testimony was corroborated by the other witnesses."
+				},
+				{
+					"text": "In testimony before the Crown Court, she described her movements on the day of the murder."
+				},
+				{
+					"text": "The government was able to compel his testimony."
+				},
+				{
+					"text": "The witness was called to give oral testimony about the incident outside the theatre."
+				}
+			],
+			"topics": ["Law and justice"],
+			"collocations": {
+				"adjective": ["credible", "reliable", "uncorroborated"],
+				"verb + testimony": ["hear", "give", "offer"],
+				"preposition": ["by your testimony", "in testimony", "testimony about"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈtestɪməni/",
+				"audio": "te/testimony/testimony__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈtestɪməʊni/",
+				"audio": "te/testimony/testimony__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Latin testimonium, from testis ‘a witness’."
 }

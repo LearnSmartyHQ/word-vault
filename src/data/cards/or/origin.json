@@ -1,140 +1,140 @@
 {
-  "term": "origin",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the point from which something starts; the cause of something",
-      "sensetop": "origin of somethingin originof… origin",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "the origins of life on earth",
-          "contextForm": "origin of something"
-        },
-        {
-          "text": "The origin of the word remains obscure."
-        },
-        {
-          "text": "Most coughs are viral in origin *(= caused by a virus)*.",
-          "contextForm": "in origin"
-        },
-        {
-          "text": "The word burlesque is Italian in origin."
-        },
-        {
-          "text": "a letter of doubtful origin",
-          "contextForm": "of… origin"
-        },
-        {
-          "text": "This particular custom **has its origins in** Wales."
-        },
-        {
-          "text": "an **origin movie/tale** *(= one that describes an earlier stage in a story that is already known)*"
-        },
-        {
-          "text": "Population genetics owes its origin to Francis Galton."
-        },
-        {
-          "text": "The development had its immediate origins in discussions with management."
-        },
-        {
-          "text": "The dispute had its origin in the Battle of Wakefield."
-        },
-        {
-          "text": "The label tells you the country of origin."
-        },
-        {
-          "text": "The origins of Gdańsk go back to the tenth century."
-        },
-        {
-          "text": "The rock is volcanic in origin."
-        },
-        {
-          "text": "The term ‘black hole’ is of very recent origin."
-        },
-        {
-          "text": "a painting of unknown origin"
-        }
-      ],
-      "topics": ["History"],
-      "collocations": {
-        "adjective": ["common", "independent", "doubtful"],
-        "verb + origin": ["have", "share", "investigate"],
-        "origin + verb": ["go back to something", "lie in something"],
-        "preposition": ["in origin", "of… origin"],
-        "phrases": [
-          "country of origin",
-          "place of origin",
-          "have its origin in something"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person’s social and family background",
-      "sensetop": "of… originof originby origin",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She has risen from **humble origins** to immense wealth."
-        },
-        {
-          "text": "people of German origin",
-          "contextForm": "of… origin"
-        },
-        {
-          "text": "children of various **ethnic origins**"
-        },
-        {
-          "text": "a person’s **country of origin** *(= where they were born)*",
-          "contextForm": "of origin"
-        },
-        {
-          "text": "He is a Londoner by origin.",
-          "contextForm": "by origin"
-        },
-        {
-          "text": "Their family can **trace its origins** back to the Norman Conquest."
-        },
-        {
-          "text": "Regardless of national origin, they share a sense of belonging to an adopted land."
-        },
-        {
-          "text": "Her accent betrayed her working-class origins."
-        },
-        {
-          "text": "Her family is Portuguese in origin."
-        },
-        {
-          "text": "The name suggests a possible African origin."
-        }
-      ],
-      "collocations": {
-        "adjective": ["African", "English", "etc."],
-        "verb + origin": ["trace", "betray"],
-        "preposition": ["by origin", "in origin", "of… origin"],
-        "phrases": ["somebody’s country of origin"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈɒrɪdʒɪn/",
-        "audio": "or/origin/origin__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈɔːrɪdʒɪn/",
-        "audio": "or/origin/origin__us_4.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 16th cent.: from French origine, from Latin origo, origin-, from oriri ‘to rise’."
+	"term": "origin",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the point from which something starts; the cause of something",
+			"sensetop": "origin of somethingin originof… origin",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "the origins of life on earth",
+					"contextForm": "origin of something"
+				},
+				{
+					"text": "The origin of the word remains obscure."
+				},
+				{
+					"text": "Most coughs are viral in origin *(= caused by a virus)*.",
+					"contextForm": "in origin"
+				},
+				{
+					"text": "The word burlesque is Italian in origin."
+				},
+				{
+					"text": "a letter of doubtful origin",
+					"contextForm": "of… origin"
+				},
+				{
+					"text": "This particular custom **has its origins in** Wales."
+				},
+				{
+					"text": "an **origin movie/tale** *(= one that describes an earlier stage in a story that is already known)*"
+				},
+				{
+					"text": "Population genetics owes its origin to Francis Galton."
+				},
+				{
+					"text": "The development had its immediate origins in discussions with management."
+				},
+				{
+					"text": "The dispute had its origin in the Battle of Wakefield."
+				},
+				{
+					"text": "The label tells you the country of origin."
+				},
+				{
+					"text": "The origins of Gdańsk go back to the tenth century."
+				},
+				{
+					"text": "The rock is volcanic in origin."
+				},
+				{
+					"text": "The term ‘black hole’ is of very recent origin."
+				},
+				{
+					"text": "a painting of unknown origin"
+				}
+			],
+			"topics": ["History"],
+			"collocations": {
+				"adjective": ["common", "independent", "doubtful"],
+				"verb + origin": ["have", "share", "investigate"],
+				"origin + verb": ["go back to something", "lie in something"],
+				"preposition": ["in origin", "of… origin"],
+				"phrases": [
+					"country of origin",
+					"place of origin",
+					"have its origin in something"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person’s social and family background",
+			"sensetop": "of… originof originby origin",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She has risen from **humble origins** to immense wealth."
+				},
+				{
+					"text": "people of German origin",
+					"contextForm": "of… origin"
+				},
+				{
+					"text": "children of various **ethnic origins**"
+				},
+				{
+					"text": "a person’s **country of origin** *(= where they were born)*",
+					"contextForm": "of origin"
+				},
+				{
+					"text": "He is a Londoner by origin.",
+					"contextForm": "by origin"
+				},
+				{
+					"text": "Their family can **trace its origins** back to the Norman Conquest."
+				},
+				{
+					"text": "Regardless of national origin, they share a sense of belonging to an adopted land."
+				},
+				{
+					"text": "Her accent betrayed her working-class origins."
+				},
+				{
+					"text": "Her family is Portuguese in origin."
+				},
+				{
+					"text": "The name suggests a possible African origin."
+				}
+			],
+			"collocations": {
+				"adjective": ["African", "English", "etc."],
+				"verb + origin": ["trace", "betray"],
+				"preposition": ["by origin", "in origin", "of… origin"],
+				"phrases": ["somebody’s country of origin"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈɒrɪdʒɪn/",
+				"audio": "or/origin/origin__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈɔːrɪdʒɪn/",
+				"audio": "or/origin/origin__us_4.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 16th cent.: from French origine, from Latin origo, origin-, from oriri ‘to rise’."
 }

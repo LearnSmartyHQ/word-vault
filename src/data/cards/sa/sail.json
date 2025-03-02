@@ -1,188 +1,188 @@
 {
-  "term": "sail",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "sail",
-      "heSheIt": "sails"
-    },
-    "pastSimple": "sailed",
-    "pastParticiple": "sailed",
-    "ingForm": "sailing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to travel on water using sails or an engine",
-      "sensetop": "+ adv./prep.sail something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to sail into harbour",
-          "contextForm": "+ adv./prep."
-        },
-        {
-          "text": "The dinghy sailed smoothly across the lake."
-        },
-        {
-          "text": "The ferry sails from Newhaven to Dieppe."
-        },
-        {
-          "text": "one of the first people to sail around the world"
-        },
-        {
-          "text": "The flotilla will sail north to Hawaii."
-        },
-        {
-          "text": "to sail the Atlantic",
-          "contextForm": "sail something"
-        },
-        {
-          "text": "In his young days he had sailed the seas."
-        },
-        {
-          "text": "The boat sailed serenely on towards the horizon."
-        },
-        {
-          "text": "We sailed on a large ocean liner."
-        },
-        {
-          "text": "We were sailing from Dover to Calais."
-        }
-      ],
-      "topics": ["Transport by water", "Sports: water sports"],
-      "collocations": {
-        "adverb": ["gracefully", "serenely", "smoothly"],
-        "verb + sail": ["know how to", "learn to", "teach somebody to"],
-        "preposition": ["across", "around", "round"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to control or travel on a boat with a sail, especially as a sport",
-      "sensetop": "sail something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "We spent the weekend sailing off the south coast."
-        },
-        {
-          "text": "Do you **go sailing** often?"
-        },
-        {
-          "text": "the first woman to sail solo around the world"
-        },
-        {
-          "text": "She sails her own yacht.",
-          "contextForm": "sail something"
-        },
-        {
-          "text": "He managed to sail the boat between the rocks."
-        },
-        {
-          "text": "I learned to sail as a child."
-        },
-        {
-          "text": "We sailed the boat out into the middle of the lake."
-        }
-      ],
-      "collocations": {
-        "adverb": ["gracefully", "serenely", "smoothly"],
-        "verb + sail": ["know how to", "learn to", "teach somebody to"],
-        "preposition": ["across", "around", "round"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to begin a journey on water",
-      "sensetop": "sail for something",
-      "cefr": "a2",
-      "examples": [
-        {
-          "text": "We sail at 2 p.m. tomorrow."
-        },
-        {
-          "text": "He sailed for the West Indies from Portsmouth.",
-          "contextForm": "sail for something"
-        },
-        {
-          "text": "The ferry sails for Southampton at 5.30."
-        }
-      ],
-      "topics": ["Transport by water"],
-      "collocations": {
-        "adverb": ["gracefully", "serenely", "smoothly"],
-        "verb + sail": ["know how to", "learn to", "teach somebody to"],
-        "preposition": ["across", "around", "round"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to move quickly and smoothly in a particular direction; (of people) to move in a confident manner",
-      "sensetop": "+ adv./prep.",
-      "examples": [
-        {
-          "text": "clouds sailing across the sky"
-        },
-        {
-          "text": "The ball sailed over the goalie's head."
-        },
-        {
-          "text": "She sailed past, ignoring me completely."
-        },
-        {
-          "text": "An owl sailed silently out of the branches."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to take a risk by doing something that is dangerous or that may be illegal",
-      "examples": [],
-      "topics": ["Danger"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/seɪl/",
-        "audio": "sa/sail/sail__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/seɪlz/",
-        "audio": "sa/sail/sails__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/seɪld/",
-        "audio": "sa/sail/sailed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈseɪlɪŋ/",
-        "audio": "sa/sail/sailing__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/seɪl/",
-        "audio": "sa/sail/sail__us_1.mp3"
-      },
-      {
-        "pronunciation": "/seɪlz/",
-        "audio": "sa/sail/sails__us_1.mp3"
-      },
-      {
-        "pronunciation": "/seɪld/",
-        "audio": "sa/sail/sailed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈseɪlɪŋ/",
-        "audio": "sa/sail/sailing__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English segel (noun), seglian (verb), of Germanic origin; related to Dutch zeil and German Segel (nouns)."
+	"term": "sail",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "sail",
+			"heSheIt": "sails"
+		},
+		"pastSimple": "sailed",
+		"pastParticiple": "sailed",
+		"ingForm": "sailing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to travel on water using sails or an engine",
+			"sensetop": "+ adv./prep.sail something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to sail into harbour",
+					"contextForm": "+ adv./prep."
+				},
+				{
+					"text": "The dinghy sailed smoothly across the lake."
+				},
+				{
+					"text": "The ferry sails from Newhaven to Dieppe."
+				},
+				{
+					"text": "one of the first people to sail around the world"
+				},
+				{
+					"text": "The flotilla will sail north to Hawaii."
+				},
+				{
+					"text": "to sail the Atlantic",
+					"contextForm": "sail something"
+				},
+				{
+					"text": "In his young days he had sailed the seas."
+				},
+				{
+					"text": "The boat sailed serenely on towards the horizon."
+				},
+				{
+					"text": "We sailed on a large ocean liner."
+				},
+				{
+					"text": "We were sailing from Dover to Calais."
+				}
+			],
+			"topics": ["Transport by water", "Sports: water sports"],
+			"collocations": {
+				"adverb": ["gracefully", "serenely", "smoothly"],
+				"verb + sail": ["know how to", "learn to", "teach somebody to"],
+				"preposition": ["across", "around", "round"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to control or travel on a boat with a sail, especially as a sport",
+			"sensetop": "sail something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "We spent the weekend sailing off the south coast."
+				},
+				{
+					"text": "Do you **go sailing** often?"
+				},
+				{
+					"text": "the first woman to sail solo around the world"
+				},
+				{
+					"text": "She sails her own yacht.",
+					"contextForm": "sail something"
+				},
+				{
+					"text": "He managed to sail the boat between the rocks."
+				},
+				{
+					"text": "I learned to sail as a child."
+				},
+				{
+					"text": "We sailed the boat out into the middle of the lake."
+				}
+			],
+			"collocations": {
+				"adverb": ["gracefully", "serenely", "smoothly"],
+				"verb + sail": ["know how to", "learn to", "teach somebody to"],
+				"preposition": ["across", "around", "round"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to begin a journey on water",
+			"sensetop": "sail for something",
+			"cefr": "a2",
+			"examples": [
+				{
+					"text": "We sail at 2 p.m. tomorrow."
+				},
+				{
+					"text": "He sailed for the West Indies from Portsmouth.",
+					"contextForm": "sail for something"
+				},
+				{
+					"text": "The ferry sails for Southampton at 5.30."
+				}
+			],
+			"topics": ["Transport by water"],
+			"collocations": {
+				"adverb": ["gracefully", "serenely", "smoothly"],
+				"verb + sail": ["know how to", "learn to", "teach somebody to"],
+				"preposition": ["across", "around", "round"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to move quickly and smoothly in a particular direction; (of people) to move in a confident manner",
+			"sensetop": "+ adv./prep.",
+			"examples": [
+				{
+					"text": "clouds sailing across the sky"
+				},
+				{
+					"text": "The ball sailed over the goalie's head."
+				},
+				{
+					"text": "She sailed past, ignoring me completely."
+				},
+				{
+					"text": "An owl sailed silently out of the branches."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to take a risk by doing something that is dangerous or that may be illegal",
+			"examples": [],
+			"topics": ["Danger"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/seɪl/",
+				"audio": "sa/sail/sail__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/seɪlz/",
+				"audio": "sa/sail/sails__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/seɪld/",
+				"audio": "sa/sail/sailed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈseɪlɪŋ/",
+				"audio": "sa/sail/sailing__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/seɪl/",
+				"audio": "sa/sail/sail__us_1.mp3"
+			},
+			{
+				"pronunciation": "/seɪlz/",
+				"audio": "sa/sail/sails__us_1.mp3"
+			},
+			{
+				"pronunciation": "/seɪld/",
+				"audio": "sa/sail/sailed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈseɪlɪŋ/",
+				"audio": "sa/sail/sailing__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English segel (noun), seglian (verb), of Germanic origin; related to Dutch zeil and German Segel (nouns)."
 }

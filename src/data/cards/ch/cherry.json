@@ -1,79 +1,79 @@
 {
-  "term": "cherry",
-  "partOfSpeech": "noun",
-  "image": "data/images/fr/fruit_misc.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a small soft round fruit with shiny red or black skin and a large seed inside",
-      "cefr": "b2",
-      "examples": [],
-      "topics": ["Food"],
-      "collocations": {
-        "adjective": ["black", "red", "glacé"],
-        "… of cherries": ["bunch"],
-        "cherry + noun": ["pit", "stone", "pie"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a tree on which cherries grow, or a similar tree, grown for its flowers",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "cherry blossom"
-        },
-        {
-          "text": "a winter-flowering cherry"
-        }
-      ],
-      "topics": ["Plants and trees"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the wood of the cherry tree",
-      "examples": []
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a bright red colour",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "an opportunity to do something",
-      "labels": "(British English)",
-      "examples": [
-        {
-          "text": "You only get one bite at the cherry in life."
-        },
-        {
-          "text": "They were eager for a second bite of the cherry."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈtʃeri/",
-        "audio": "ch/cherry/cherry__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈtʃeriwʊd/",
-        "audio": "ch/cherry/cherrywood__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈtʃeri/",
-        "audio": "ch/cherry/cherry__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtʃeriwʊd/",
-        "audio": "ch/cherry/cherrywood__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old Northern French cherise, from medieval Latin ceresia, based on Greek kerasos ‘cherry tree, cherry’. The final -s was lost because cherise was interpreted as plural (compare with pea)."
+	"term": "cherry",
+	"partOfSpeech": "noun",
+	"image": "data/images/fr/fruit_misc.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a small soft round fruit with shiny red or black skin and a large seed inside",
+			"cefr": "b2",
+			"examples": [],
+			"topics": ["Food"],
+			"collocations": {
+				"adjective": ["black", "red", "glacé"],
+				"… of cherries": ["bunch"],
+				"cherry + noun": ["pit", "stone", "pie"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a tree on which cherries grow, or a similar tree, grown for its flowers",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "cherry blossom"
+				},
+				{
+					"text": "a winter-flowering cherry"
+				}
+			],
+			"topics": ["Plants and trees"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the wood of the cherry tree",
+			"examples": []
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a bright red colour",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "an opportunity to do something",
+			"labels": "(British English)",
+			"examples": [
+				{
+					"text": "You only get one bite at the cherry in life."
+				},
+				{
+					"text": "They were eager for a second bite of the cherry."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈtʃeri/",
+				"audio": "ch/cherry/cherry__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈtʃeriwʊd/",
+				"audio": "ch/cherry/cherrywood__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈtʃeri/",
+				"audio": "ch/cherry/cherry__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtʃeriwʊd/",
+				"audio": "ch/cherry/cherrywood__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old Northern French cherise, from medieval Latin ceresia, based on Greek kerasos ‘cherry tree, cherry’. The final -s was lost because cherise was interpreted as plural (compare with pea)."
 }

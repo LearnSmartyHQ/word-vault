@@ -1,102 +1,102 @@
 {
-  "term": "fork",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "image": "data/images/cu/cutlery.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a tool with a handle and three or four sharp points (called prongs), used for picking up and eating food",
-      "sensetop": "with a fork",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to eat with a **knife and fork**"
-        },
-        {
-          "text": "Mash the mixture with a fork.",
-          "contextForm": "with a fork"
-        },
-        {
-          "text": "He put the knives and forks on the table."
-        },
-        {
-          "text": "She impaled a piece of meat on her fork."
-        }
-      ],
-      "topics": ["Cooking and eating"],
-      "collocations": {
-        "adjective": ["toasting", "salad", "plastic"],
-        "verb + fork": ["pick up", "put down", "use"],
-        "preposition": ["on a/​the fork", "with a fork"],
-        "phrases": ["a knife and fork"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a garden tool with a long or short handle and three or four sharp metal points, used for digging",
-      "cefr": "b2",
-      "examples": [],
-      "topics": ["Gardens"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a place where a road, river, etc. divides into two parts; either of these two parts",
-      "sensetop": "fork in something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Take the right fork."
-        },
-        {
-          "text": "Shortly before dusk they reached a fork and took the left-hand track."
-        },
-        {
-          "text": "Bear left at the fork in the road.",
-          "contextForm": "fork in something"
-        }
-      ],
-      "topics": ["Geography", "Transport by car or lorry"],
-      "collocations": {
-        "adjective": ["left", "right"],
-        "verb + fork": ["take"],
-        "preposition": ["at a/​the fork", "in fork", "fork in"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a thing that is like a fork in shape, with two or more long parts",
-      "sensetop": "fork (of something)",
-      "examples": [
-        {
-          "text": "a jagged fork of lightning"
-        },
-        {
-          "text": "a monkey sitting in the fork of the tree"
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "either of two metal supporting pieces into which a wheel on a bicycle or motorcycle is fitted",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/fɔːk/",
-        "audio": "fo/fork/fork__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/fɔːrk/",
-        "audio": "fo/fork/fork__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English forca, force (denoting a farm implement), based on Latin furca ‘pitchfork, forked stick’; reinforced in Middle English by Anglo-Norman French furke (also from Latin furca)."
+	"term": "fork",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"image": "data/images/cu/cutlery.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a tool with a handle and three or four sharp points (called prongs), used for picking up and eating food",
+			"sensetop": "with a fork",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to eat with a **knife and fork**"
+				},
+				{
+					"text": "Mash the mixture with a fork.",
+					"contextForm": "with a fork"
+				},
+				{
+					"text": "He put the knives and forks on the table."
+				},
+				{
+					"text": "She impaled a piece of meat on her fork."
+				}
+			],
+			"topics": ["Cooking and eating"],
+			"collocations": {
+				"adjective": ["toasting", "salad", "plastic"],
+				"verb + fork": ["pick up", "put down", "use"],
+				"preposition": ["on a/​the fork", "with a fork"],
+				"phrases": ["a knife and fork"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a garden tool with a long or short handle and three or four sharp metal points, used for digging",
+			"cefr": "b2",
+			"examples": [],
+			"topics": ["Gardens"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a place where a road, river, etc. divides into two parts; either of these two parts",
+			"sensetop": "fork in something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Take the right fork."
+				},
+				{
+					"text": "Shortly before dusk they reached a fork and took the left-hand track."
+				},
+				{
+					"text": "Bear left at the fork in the road.",
+					"contextForm": "fork in something"
+				}
+			],
+			"topics": ["Geography", "Transport by car or lorry"],
+			"collocations": {
+				"adjective": ["left", "right"],
+				"verb + fork": ["take"],
+				"preposition": ["at a/​the fork", "in fork", "fork in"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a thing that is like a fork in shape, with two or more long parts",
+			"sensetop": "fork (of something)",
+			"examples": [
+				{
+					"text": "a jagged fork of lightning"
+				},
+				{
+					"text": "a monkey sitting in the fork of the tree"
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "either of two metal supporting pieces into which a wheel on a bicycle or motorcycle is fitted",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/fɔːk/",
+				"audio": "fo/fork/fork__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/fɔːrk/",
+				"audio": "fo/fork/fork__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English forca, force (denoting a farm implement), based on Latin furca ‘pitchfork, forked stick’; reinforced in Middle English by Anglo-Norman French furke (also from Latin furca)."
 }

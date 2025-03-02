@@ -1,105 +1,105 @@
 {
-  "term": "validate",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "validate",
-      "heSheIt": "validates"
-    },
-    "pastSimple": "validated",
-    "pastParticiple": "validated",
-    "ingForm": "validating"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to prove that something is true",
-      "sensetop": "validate something",
-      "examples": [
-        {
-          "text": "to validate a theory"
-        },
-        {
-          "text": "The research findings do not validate the claims made by the manufacturer."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to make something legally recognized",
-      "sensetop": "validate something",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "to validate a contract"
-        }
-      ],
-      "topics": ["Law and justice"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to state officially that something is useful and of an acceptable standard",
-      "sensetop": "validate something",
-      "examples": [
-        {
-          "text": "Check that their courses have been validated by a reputable organization."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to recognize the value of a person or their feelings or opinions; to make somebody feel valued",
-      "sensetop": "validate somebody/somethingvalidate somebody/something as something",
-      "examples": [
-        {
-          "text": "Be sure to validate your child's feelings—don't minimize them.",
-          "contextForm": "validate somebody/something"
-        },
-        {
-          "text": "She seemed to need his admiration to validate her as a person.",
-          "contextForm": "validate somebody/something as something"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈvælɪdeɪt/",
-        "audio": "va/validate/validate__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈvælɪdeɪts/",
-        "audio": "va/validate/validates__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈvælɪdeɪtɪd/",
-        "audio": "va/validate/validated__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈvælɪdeɪtɪŋ/",
-        "audio": "va/validate/validating__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈvælɪdeɪt/",
-        "audio": "va/validate/validate__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈvælɪdeɪts/",
-        "audio": "va/validate/validates__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈvælɪdeɪtɪd/",
-        "audio": "va/validate/validated__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈvælɪdeɪtɪŋ/",
-        "audio": "va/validate/validating__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 17th cent. (in the sense ‘make legally valid’): from medieval Latin validat- ‘made legally valid’, from the verb validare, from Latin validus ‘strong’, from valere ‘be strong’."
+	"term": "validate",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "validate",
+			"heSheIt": "validates"
+		},
+		"pastSimple": "validated",
+		"pastParticiple": "validated",
+		"ingForm": "validating"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to prove that something is true",
+			"sensetop": "validate something",
+			"examples": [
+				{
+					"text": "to validate a theory"
+				},
+				{
+					"text": "The research findings do not validate the claims made by the manufacturer."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to make something legally recognized",
+			"sensetop": "validate something",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "to validate a contract"
+				}
+			],
+			"topics": ["Law and justice"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to state officially that something is useful and of an acceptable standard",
+			"sensetop": "validate something",
+			"examples": [
+				{
+					"text": "Check that their courses have been validated by a reputable organization."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to recognize the value of a person or their feelings or opinions; to make somebody feel valued",
+			"sensetop": "validate somebody/somethingvalidate somebody/something as something",
+			"examples": [
+				{
+					"text": "Be sure to validate your child's feelings—don't minimize them.",
+					"contextForm": "validate somebody/something"
+				},
+				{
+					"text": "She seemed to need his admiration to validate her as a person.",
+					"contextForm": "validate somebody/something as something"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈvælɪdeɪt/",
+				"audio": "va/validate/validate__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈvælɪdeɪts/",
+				"audio": "va/validate/validates__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈvælɪdeɪtɪd/",
+				"audio": "va/validate/validated__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈvælɪdeɪtɪŋ/",
+				"audio": "va/validate/validating__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈvælɪdeɪt/",
+				"audio": "va/validate/validate__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈvælɪdeɪts/",
+				"audio": "va/validate/validates__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈvælɪdeɪtɪd/",
+				"audio": "va/validate/validated__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈvælɪdeɪtɪŋ/",
+				"audio": "va/validate/validating__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 17th cent. (in the sense ‘make legally valid’): from medieval Latin validat- ‘made legally valid’, from the verb validare, from Latin validus ‘strong’, from valere ‘be strong’."
 }

@@ -1,185 +1,185 @@
 {
-  "term": "employ",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "employ",
-      "heSheIt": "employs"
-    },
-    "pastSimple": "employed",
-    "pastParticiple": "employed",
-    "ingForm": "employing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to give somebody a job to do for payment",
-      "sensetop": "employ somebodyemploy somebody as somethingemploy somebody in somethingemploy somebody on somethingemploy somebody to do something",
-      "labels": "(British English)(British English)(North American English)(especially North American English)(especially British English)(especially North American English)(both especially British English)(especially North American English)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "How many people does the company employ?",
-          "contextForm": "employ somebody"
-        },
-        {
-          "text": "His company currently **employs** 135 **workers** in total."
-        },
-        {
-          "text": "We **employ** 16 full-time **staff**."
-        },
-        {
-          "text": "For the past three years he has been employed as a firefighter.",
-          "contextForm": "employ somebody as something"
-        },
-        {
-          "text": "Twenty eight per cent of the workforce is employed in agriculture.",
-          "contextForm": "employ somebody in something"
-        },
-        {
-          "text": "From 1510 he was employed on projects for the emperor.",
-          "contextForm": "employ somebody on something"
-        },
-        {
-          "text": "A number of people have been employed to deal with the backlog of work.",
-          "contextForm": "employ somebody to do something"
-        },
-        {
-          "text": "By 1960 the arms industry directly employed 3.5 million people."
-        },
-        {
-          "text": "Mark is currently employed as a Professor of Linguistics."
-        },
-        {
-          "text": "The army has far more junior officers than it can usefully employ."
-        },
-        {
-          "text": "Those not gainfully employed are dependent on their savings."
-        }
-      ],
-      "topics": ["Business", "Jobs"],
-      "collocations": {
-        "adverb": ["actively", "directly", "indirectly"],
-        "preposition": ["in"],
-        "phrases": [
-          "be fully employed",
-          "be gainfully employed",
-          "be permanently employed"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to use something such as a skill, method, etc. for a particular purpose",
-      "sensetop": "employ somethingemploy something for somethingemploy something as somethingemploy something to do something",
-      "labels": "(formal)",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **employ a technique/strategy/tactic**",
-          "contextForm": "employ something"
-        },
-        {
-          "text": "He criticized the repressive **methods employed** by the country's government."
-        },
-        {
-          "text": "The police had to employ force to enter the building."
-        },
-        {
-          "text": "Steel is employed for the lightweight frame.",
-          "contextForm": "employ something for something"
-        },
-        {
-          "text": "She employs fiction as a means to explore current social theories.",
-          "contextForm": "employ something as something"
-        },
-        {
-          "text": "This phrase is routinely employed to describe the president's style of government.",
-          "contextForm": "employ something to do something"
-        },
-        {
-          "text": "the tactics employed by the police"
-        },
-        {
-          "text": "teaching that actively employs computers in innovative and fruitful ways"
-        },
-        {
-          "text": "When properly employed, non-lethal weapons will save lives."
-        },
-        {
-          "text": "The safety net is an image commonly employed in everyday life."
-        },
-        {
-          "text": "Some teachers employ more traditional methods."
-        },
-        {
-          "text": "Self-checkout terminals are increasingly employed by retailers."
-        }
-      ],
-      "collocations": {
-        "adverb": ["commonly", "extensively", "frequently"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "if a person or their time is employed in doing something, the person spends time doing that thing",
-      "examples": [
-        {
-          "text": "She was employed in making a list of all the jobs to be done."
-        },
-        {
-          "text": "Will and Joe were busily employed in clearing out all the furniture."
-        },
-        {
-          "text": "Your time would be better employed doing something else."
-        },
-        {
-          "text": "You'd be far better employed taking care of your own affairs."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪmˈplɔɪ/",
-        "audio": "em/employ/employ__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/ɪmˈplɔɪz/",
-        "audio": "em/employ/employs__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪmˈplɔɪd/",
-        "audio": "em/employ/employed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪmˈplɔɪɪŋ/",
-        "audio": "em/employ/employing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪmˈplɔɪ/",
-        "audio": "em/employ/employ__us_4.mp3"
-      },
-      {
-        "pronunciation": "/ɪmˈplɔɪz/",
-        "audio": "em/employ/employs__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪmˈplɔɪd/",
-        "audio": "em/employ/employed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪmˈplɔɪɪŋ/",
-        "audio": "em/employ/employing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (formerly also as imploy): from Old French employer, based on Latin implicari ‘be involved in or attached to’, passive form of implicare, from in- ‘in’ + plicare ‘to fold’. In the 16th and 17th cent. the word also had the senses ‘enfold, entangle’ and ‘imply’, derived directly from Latin; compare with implicate."
+	"term": "employ",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "employ",
+			"heSheIt": "employs"
+		},
+		"pastSimple": "employed",
+		"pastParticiple": "employed",
+		"ingForm": "employing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to give somebody a job to do for payment",
+			"sensetop": "employ somebodyemploy somebody as somethingemploy somebody in somethingemploy somebody on somethingemploy somebody to do something",
+			"labels": "(British English)(British English)(North American English)(especially North American English)(especially British English)(especially North American English)(both especially British English)(especially North American English)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "How many people does the company employ?",
+					"contextForm": "employ somebody"
+				},
+				{
+					"text": "His company currently **employs** 135 **workers** in total."
+				},
+				{
+					"text": "We **employ** 16 full-time **staff**."
+				},
+				{
+					"text": "For the past three years he has been employed as a firefighter.",
+					"contextForm": "employ somebody as something"
+				},
+				{
+					"text": "Twenty eight per cent of the workforce is employed in agriculture.",
+					"contextForm": "employ somebody in something"
+				},
+				{
+					"text": "From 1510 he was employed on projects for the emperor.",
+					"contextForm": "employ somebody on something"
+				},
+				{
+					"text": "A number of people have been employed to deal with the backlog of work.",
+					"contextForm": "employ somebody to do something"
+				},
+				{
+					"text": "By 1960 the arms industry directly employed 3.5 million people."
+				},
+				{
+					"text": "Mark is currently employed as a Professor of Linguistics."
+				},
+				{
+					"text": "The army has far more junior officers than it can usefully employ."
+				},
+				{
+					"text": "Those not gainfully employed are dependent on their savings."
+				}
+			],
+			"topics": ["Business", "Jobs"],
+			"collocations": {
+				"adverb": ["actively", "directly", "indirectly"],
+				"preposition": ["in"],
+				"phrases": [
+					"be fully employed",
+					"be gainfully employed",
+					"be permanently employed"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to use something such as a skill, method, etc. for a particular purpose",
+			"sensetop": "employ somethingemploy something for somethingemploy something as somethingemploy something to do something",
+			"labels": "(formal)",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **employ a technique/strategy/tactic**",
+					"contextForm": "employ something"
+				},
+				{
+					"text": "He criticized the repressive **methods employed** by the country's government."
+				},
+				{
+					"text": "The police had to employ force to enter the building."
+				},
+				{
+					"text": "Steel is employed for the lightweight frame.",
+					"contextForm": "employ something for something"
+				},
+				{
+					"text": "She employs fiction as a means to explore current social theories.",
+					"contextForm": "employ something as something"
+				},
+				{
+					"text": "This phrase is routinely employed to describe the president's style of government.",
+					"contextForm": "employ something to do something"
+				},
+				{
+					"text": "the tactics employed by the police"
+				},
+				{
+					"text": "teaching that actively employs computers in innovative and fruitful ways"
+				},
+				{
+					"text": "When properly employed, non-lethal weapons will save lives."
+				},
+				{
+					"text": "The safety net is an image commonly employed in everyday life."
+				},
+				{
+					"text": "Some teachers employ more traditional methods."
+				},
+				{
+					"text": "Self-checkout terminals are increasingly employed by retailers."
+				}
+			],
+			"collocations": {
+				"adverb": ["commonly", "extensively", "frequently"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "if a person or their time is employed in doing something, the person spends time doing that thing",
+			"examples": [
+				{
+					"text": "She was employed in making a list of all the jobs to be done."
+				},
+				{
+					"text": "Will and Joe were busily employed in clearing out all the furniture."
+				},
+				{
+					"text": "Your time would be better employed doing something else."
+				},
+				{
+					"text": "You'd be far better employed taking care of your own affairs."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪmˈplɔɪ/",
+				"audio": "em/employ/employ__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/ɪmˈplɔɪz/",
+				"audio": "em/employ/employs__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪmˈplɔɪd/",
+				"audio": "em/employ/employed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪmˈplɔɪɪŋ/",
+				"audio": "em/employ/employing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪmˈplɔɪ/",
+				"audio": "em/employ/employ__us_4.mp3"
+			},
+			{
+				"pronunciation": "/ɪmˈplɔɪz/",
+				"audio": "em/employ/employs__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪmˈplɔɪd/",
+				"audio": "em/employ/employed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪmˈplɔɪɪŋ/",
+				"audio": "em/employ/employing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (formerly also as imploy): from Old French employer, based on Latin implicari ‘be involved in or attached to’, passive form of implicare, from in- ‘in’ + plicare ‘to fold’. In the 16th and 17th cent. the word also had the senses ‘enfold, entangle’ and ‘imply’, derived directly from Latin; compare with implicate."
 }

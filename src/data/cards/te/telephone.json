@@ -1,154 +1,154 @@
 {
-  "term": "telephone",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a system for talking to somebody else over long distances, using wires or radio; a machine used for this",
-      "sensetop": "over the telephoneby telephoneon the telephone",
-      "labels": "(British English)(especially North American English)(North American English)(both British English)(especially North American English)(informal, especially North American English)(British English)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The **telephone rang** and Pat answered it."
-        },
-        {
-          "text": "I need to **make a telephone call**."
-        },
-        {
-          "text": "You can reserve seats over the telephone.",
-          "contextForm": "over the telephone"
-        },
-        {
-          "text": "Can I get in touch by telephone?",
-          "contextForm": "by telephone"
-        },
-        {
-          "text": "They talk on the telephone much more often than they meet.",
-          "contextForm": "on the telephone"
-        },
-        {
-          "text": "She spoke by telephone to the French President."
-        },
-        {
-          "text": "a **telephone conversation/interview**"
-        },
-        {
-          "text": "telephone lines/services"
-        },
-        {
-          "text": "All letters should include an address and a daytime telephone number."
-        },
-        {
-          "text": "Can I use your telephone?"
-        },
-        {
-          "text": "Excuse me, do you have a telephone?"
-        },
-        {
-          "text": "Hang on—I'll just get the telephone."
-        },
-        {
-          "text": "He was called to the telephone just as he was leaving."
-        },
-        {
-          "text": "She is in telephone contact with headquarters."
-        },
-        {
-          "text": "The charity has set up a 24-hour telephone helpline."
-        },
-        {
-          "text": "The office telephones were all out of order."
-        },
-        {
-          "text": "The telephone was ringing furiously."
-        }
-      ],
-      "topics": ["Phones, email and the internet"],
-      "collocations": {
-        "adjective": ["public", "office", "cellular"],
-        "verb + telephone": ["use", "be on", "have"],
-        "telephone + verb": ["ring"],
-        "telephone + noun": ["number", "book", "directory"],
-        "preposition": [
-          "by telephone",
-          "on the telephone",
-          "over the telephone"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the part of the phone that you hold in your hand and speak into",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I picked up the telephone and called some people I knew."
-        },
-        {
-          "text": "She put down the telephone and burst into tears."
-        },
-        {
-          "text": "I've been trying to phone him all day—he must have left his telephone off the hook."
-        }
-      ],
-      "topics": ["Houses and homes"],
-      "collocations": {
-        "adjective": ["public", "office", "cellular"],
-        "verb + telephone": ["use", "be on", "have"],
-        "telephone + verb": ["ring"],
-        "telephone + noun": ["number", "book", "directory"],
-        "preposition": [
-          "by telephone",
-          "on the telephone",
-          "over the telephone"
-        ]
-      }
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to be using the phone",
-      "cefr": "a2",
-      "examples": [
-        {
-          "text": "He's on the telephone at the moment."
-        },
-        {
-          "text": "You're wanted *(= somebody wants to speak to you)* on the telephone."
-        }
-      ],
-      "topics": ["Phones, email and the internet"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to have a phone in your home or place of work",
-      "labels": "(British English, old-fashioned)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "We were not on the telephone at the cottage."
-        }
-      ],
-      "topics": ["Phones, email and the internet"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈtelɪfəʊn/",
-        "audio": "te/telephone/telephone__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈtelɪfəʊn/",
-        "audio": "te/telephone/telephone__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "telephone",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a system for talking to somebody else over long distances, using wires or radio; a machine used for this",
+			"sensetop": "over the telephoneby telephoneon the telephone",
+			"labels": "(British English)(especially North American English)(North American English)(both British English)(especially North American English)(informal, especially North American English)(British English)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The **telephone rang** and Pat answered it."
+				},
+				{
+					"text": "I need to **make a telephone call**."
+				},
+				{
+					"text": "You can reserve seats over the telephone.",
+					"contextForm": "over the telephone"
+				},
+				{
+					"text": "Can I get in touch by telephone?",
+					"contextForm": "by telephone"
+				},
+				{
+					"text": "They talk on the telephone much more often than they meet.",
+					"contextForm": "on the telephone"
+				},
+				{
+					"text": "She spoke by telephone to the French President."
+				},
+				{
+					"text": "a **telephone conversation/interview**"
+				},
+				{
+					"text": "telephone lines/services"
+				},
+				{
+					"text": "All letters should include an address and a daytime telephone number."
+				},
+				{
+					"text": "Can I use your telephone?"
+				},
+				{
+					"text": "Excuse me, do you have a telephone?"
+				},
+				{
+					"text": "Hang on—I'll just get the telephone."
+				},
+				{
+					"text": "He was called to the telephone just as he was leaving."
+				},
+				{
+					"text": "She is in telephone contact with headquarters."
+				},
+				{
+					"text": "The charity has set up a 24-hour telephone helpline."
+				},
+				{
+					"text": "The office telephones were all out of order."
+				},
+				{
+					"text": "The telephone was ringing furiously."
+				}
+			],
+			"topics": ["Phones, email and the internet"],
+			"collocations": {
+				"adjective": ["public", "office", "cellular"],
+				"verb + telephone": ["use", "be on", "have"],
+				"telephone + verb": ["ring"],
+				"telephone + noun": ["number", "book", "directory"],
+				"preposition": [
+					"by telephone",
+					"on the telephone",
+					"over the telephone"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the part of the phone that you hold in your hand and speak into",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I picked up the telephone and called some people I knew."
+				},
+				{
+					"text": "She put down the telephone and burst into tears."
+				},
+				{
+					"text": "I've been trying to phone him all day—he must have left his telephone off the hook."
+				}
+			],
+			"topics": ["Houses and homes"],
+			"collocations": {
+				"adjective": ["public", "office", "cellular"],
+				"verb + telephone": ["use", "be on", "have"],
+				"telephone + verb": ["ring"],
+				"telephone + noun": ["number", "book", "directory"],
+				"preposition": [
+					"by telephone",
+					"on the telephone",
+					"over the telephone"
+				]
+			}
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to be using the phone",
+			"cefr": "a2",
+			"examples": [
+				{
+					"text": "He's on the telephone at the moment."
+				},
+				{
+					"text": "You're wanted *(= somebody wants to speak to you)* on the telephone."
+				}
+			],
+			"topics": ["Phones, email and the internet"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to have a phone in your home or place of work",
+			"labels": "(British English, old-fashioned)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "We were not on the telephone at the cottage."
+				}
+			],
+			"topics": ["Phones, email and the internet"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈtelɪfəʊn/",
+				"audio": "te/telephone/telephone__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈtelɪfəʊn/",
+				"audio": "te/telephone/telephone__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

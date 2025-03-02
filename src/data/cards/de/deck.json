@@ -1,152 +1,152 @@
 {
-  "term": "deck",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "image": "data/images/ca/cards.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the top outside floor of a ship or boat",
-      "sensetop": "on deckbelow deck(s)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "I was the only person on deck at that time of night.",
-          "contextForm": "on deck"
-        },
-        {
-          "text": "When we heard the alarm, we went up on deck."
-        },
-        {
-          "text": "As the storm began, everyone disappeared below deck(s).",
-          "contextForm": "below deck(s)"
-        }
-      ],
-      "topics": ["Transport by water"],
-      "collocations": {
-        "adjective": ["open"],
-        "verb + deck": ["go up on"],
-        "preposition": ["below deck", "on deck"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "one of the floors of a ship or a bus",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "the **upper/lower/main deck** of a ship"
-        },
-        {
-          "text": "We sat on the top deck of the bus."
-        },
-        {
-          "text": "My cabin is on deck C."
-        }
-      ],
-      "topics": ["Transport by bus and train"],
-      "collocations": {
-        "adjective": ["lower", "top", "upper"],
-        "verb + deck": ["swab"],
-        "preposition": ["on a/​the deck"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a floor or platform similar to the deck of a ship",
-      "examples": [
-        {
-          "text": "There is an open-air **observation deck** on the building's top floor."
-        },
-        {
-          "text": "He fell from the upper deck of the car park."
-        },
-        {
-          "text": "a **roof/rooftop deck**"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a complete set of 52 playing cards",
-      "labels": "(both especially North American English)British English usually",
-      "cefr": "c1",
-      "examples": []
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a wooden floor that is built outside the back of a house where you can sit and relax",
-      "labels": "(especially North American English)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "After dinner we sat out on the deck."
-        }
-      ],
-      "topics": ["Gardens"],
-      "collocations": {
-        "adjective": ["wooden", "back", "front"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "a set of slides (= pages created on a computer that contain text and images) that are used to accompany a person’s presentation",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "Nothing kills a presentation faster than reading off a deck of slides."
-        }
-      ],
-      "topics": ["Computers"]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "a part of a sound system that records and/or plays sounds on a disc or tape",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "a **cassette/tape deck**"
-        }
-      ],
-      "topics": ["Music"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "everyone helps or must help, especially in a difficult situation",
-      "labels": "(saying, humorous)",
-      "examples": [
-        {
-          "text": "There are 30 people coming to dinner tonight, so it's all hands on deck."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to prepare for an activity, event, etc. by removing anything that is not essential to it",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to fall to the ground",
-      "labels": "(informal)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/dek/",
-        "audio": "de/deck/deck__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/dek/",
-        "audio": "de/deck/deck__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Middle Dutch dec ‘covering, roof, cloak’, dekken ‘to cover’. Originally denoting canvas used to make a covering (especially on a ship), the term came to mean the covering itself, later denoting a solid surface serving as roof and floor."
+	"term": "deck",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"image": "data/images/ca/cards.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the top outside floor of a ship or boat",
+			"sensetop": "on deckbelow deck(s)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "I was the only person on deck at that time of night.",
+					"contextForm": "on deck"
+				},
+				{
+					"text": "When we heard the alarm, we went up on deck."
+				},
+				{
+					"text": "As the storm began, everyone disappeared below deck(s).",
+					"contextForm": "below deck(s)"
+				}
+			],
+			"topics": ["Transport by water"],
+			"collocations": {
+				"adjective": ["open"],
+				"verb + deck": ["go up on"],
+				"preposition": ["below deck", "on deck"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "one of the floors of a ship or a bus",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "the **upper/lower/main deck** of a ship"
+				},
+				{
+					"text": "We sat on the top deck of the bus."
+				},
+				{
+					"text": "My cabin is on deck C."
+				}
+			],
+			"topics": ["Transport by bus and train"],
+			"collocations": {
+				"adjective": ["lower", "top", "upper"],
+				"verb + deck": ["swab"],
+				"preposition": ["on a/​the deck"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a floor or platform similar to the deck of a ship",
+			"examples": [
+				{
+					"text": "There is an open-air **observation deck** on the building's top floor."
+				},
+				{
+					"text": "He fell from the upper deck of the car park."
+				},
+				{
+					"text": "a **roof/rooftop deck**"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a complete set of 52 playing cards",
+			"labels": "(both especially North American English)British English usually",
+			"cefr": "c1",
+			"examples": []
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a wooden floor that is built outside the back of a house where you can sit and relax",
+			"labels": "(especially North American English)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "After dinner we sat out on the deck."
+				}
+			],
+			"topics": ["Gardens"],
+			"collocations": {
+				"adjective": ["wooden", "back", "front"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "a set of slides (= pages created on a computer that contain text and images) that are used to accompany a person’s presentation",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "Nothing kills a presentation faster than reading off a deck of slides."
+				}
+			],
+			"topics": ["Computers"]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "a part of a sound system that records and/or plays sounds on a disc or tape",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "a **cassette/tape deck**"
+				}
+			],
+			"topics": ["Music"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "everyone helps or must help, especially in a difficult situation",
+			"labels": "(saying, humorous)",
+			"examples": [
+				{
+					"text": "There are 30 people coming to dinner tonight, so it's all hands on deck."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to prepare for an activity, event, etc. by removing anything that is not essential to it",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to fall to the ground",
+			"labels": "(informal)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/dek/",
+				"audio": "de/deck/deck__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/dek/",
+				"audio": "de/deck/deck__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Middle Dutch dec ‘covering, roof, cloak’, dekken ‘to cover’. Originally denoting canvas used to make a covering (especially on a ship), the term came to mean the covering itself, later denoting a solid surface serving as roof and floor."
 }

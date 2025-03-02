@@ -1,77 +1,77 @@
 {
-  "term": "migration",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the movement every year of large numbers of birds or animals from one place to another",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the seasonal migration of blue whales"
-        },
-        {
-          "text": "the migration routes of birds"
-        }
-      ],
-      "topics": ["Birds"],
-      "collocations": {
-        "adjective": ["seasonal", "autumn", "fall"],
-        "… of migration": ["wave"],
-        "migration + verb": ["occur", "take place", "increase"],
-        "migration + noun": ["path", "pattern", "route"],
-        "preposition": ["migration from", "migration to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the movement of people to a new country or area in order to find work or better living conditions",
-      "sensetop": "migration (from…) (to…)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "migration from rural to urban areas"
-        },
-        {
-          "text": "It was one of the largest **mass migrations** in US history."
-        },
-        {
-          "text": "**Net migration**— more people moving to the state than leaving—accounts for about two thirds of the population gain."
-        },
-        {
-          "text": "The decline of the rural economy has caused urban migration."
-        },
-        {
-          "text": "The rising level of poverty led to the migration of whole families to the capital and other big cities."
-        },
-        {
-          "text": "the great waves of migration that took Europeans to the New World"
-        }
-      ],
-      "topics": ["Social issues"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the act of moving programs, etc. from one computer system to another; the fact of changing from one computer system to another",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/maɪˈɡreɪʃn/",
-        "audio": "mi/migration/migration__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/maɪˈɡreɪʃn/",
-        "audio": "mi/migration/migration__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "migration",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the movement every year of large numbers of birds or animals from one place to another",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the seasonal migration of blue whales"
+				},
+				{
+					"text": "the migration routes of birds"
+				}
+			],
+			"topics": ["Birds"],
+			"collocations": {
+				"adjective": ["seasonal", "autumn", "fall"],
+				"… of migration": ["wave"],
+				"migration + verb": ["occur", "take place", "increase"],
+				"migration + noun": ["path", "pattern", "route"],
+				"preposition": ["migration from", "migration to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the movement of people to a new country or area in order to find work or better living conditions",
+			"sensetop": "migration (from…) (to…)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "migration from rural to urban areas"
+				},
+				{
+					"text": "It was one of the largest **mass migrations** in US history."
+				},
+				{
+					"text": "**Net migration**— more people moving to the state than leaving—accounts for about two thirds of the population gain."
+				},
+				{
+					"text": "The decline of the rural economy has caused urban migration."
+				},
+				{
+					"text": "The rising level of poverty led to the migration of whole families to the capital and other big cities."
+				},
+				{
+					"text": "the great waves of migration that took Europeans to the New World"
+				}
+			],
+			"topics": ["Social issues"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the act of moving programs, etc. from one computer system to another; the fact of changing from one computer system to another",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/maɪˈɡreɪʃn/",
+				"audio": "mi/migration/migration__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/maɪˈɡreɪʃn/",
+				"audio": "mi/migration/migration__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

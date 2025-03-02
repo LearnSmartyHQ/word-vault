@@ -1,64 +1,64 @@
 {
-  "term": "biology",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the scientific study of the life and structure of plants and animals",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a degree in biology"
-        },
-        {
-          "text": "molecular/evolutionary biology"
-        },
-        {
-          "text": "a biology teacher/class/textbook"
-        },
-        {
-          "text": "She's a professor of biology at Stanford."
-        }
-      ],
-      "topics": ["Education", "Scientific research", "Biology"],
-      "collocations": {
-        "adjective": ["cellular", "developmental", "environmental"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the way in which the body and cells of a living thing behave",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "How far is human nature determined by biology?"
-        },
-        {
-          "text": "the biology of marine animals"
-        }
-      ],
-      "collocations": {
-        "adjective": ["cellular", "developmental", "environmental"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/baɪˈɒlədʒi/",
-        "audio": "bi/biology/biology__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/baɪˈɑːlədʒi/",
-        "audio": "bi/biology/biology__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 19th cent.: coined in German, via French from Greek bios ‘life’ + -logy."
+	"term": "biology",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the scientific study of the life and structure of plants and animals",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a degree in biology"
+				},
+				{
+					"text": "molecular/evolutionary biology"
+				},
+				{
+					"text": "a biology teacher/class/textbook"
+				},
+				{
+					"text": "She's a professor of biology at Stanford."
+				}
+			],
+			"topics": ["Education", "Scientific research", "Biology"],
+			"collocations": {
+				"adjective": ["cellular", "developmental", "environmental"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the way in which the body and cells of a living thing behave",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "How far is human nature determined by biology?"
+				},
+				{
+					"text": "the biology of marine animals"
+				}
+			],
+			"collocations": {
+				"adjective": ["cellular", "developmental", "environmental"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/baɪˈɒlədʒi/",
+				"audio": "bi/biology/biology__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/baɪˈɑːlədʒi/",
+				"audio": "bi/biology/biology__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 19th cent.: coined in German, via French from Greek bios ‘life’ + -logy."
 }

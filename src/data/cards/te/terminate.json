@@ -1,104 +1,104 @@
 {
-  "term": "terminate",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "terminate",
-      "heSheIt": "terminates"
-    },
-    "pastSimple": "terminated",
-    "pastParticiple": "terminated",
-    "ingForm": "terminating"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to end; to make something end",
-      "sensetop": "terminate something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Your contract of employment terminates in December."
-        },
-        {
-          "text": "The agreement was terminated immediately.",
-          "contextForm": "terminate something"
-        },
-        {
-          "text": "to terminate a pregnancy (= to perform or have an )"
-        },
-        {
-          "text": "His contract was abruptly terminated."
-        },
-        {
-          "text": "The agreement was lawfully terminated under clause 34."
-        },
-        {
-          "text": "This federal intervention effectively terminated the strike."
-        }
-      ],
-      "topics": ["Houses and homes", "Life stages"],
-      "collocations": {
-        "adverb": ["abruptly", "prematurely", "immediately"],
-        "verb + terminate": ["be entitled to", "decide to"],
-        "phrases": [
-          "the decision to terminate something",
-          "the right to terminate something"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to end a journey",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "This train terminates at London Victoria."
-        }
-      ],
-      "topics": ["Transport by bus and train"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈtɜːmɪneɪt/",
-        "audio": "te/terminate/terminate__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/ˈtɜːmɪneɪts/",
-        "audio": "te/terminate/terminates__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtɜːmɪneɪtɪd/",
-        "audio": "te/terminate/terminated__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtɜːmɪneɪtɪŋ/",
-        "audio": "te/terminate/terminating__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈtɜːrmɪneɪt/",
-        "audio": "te/terminate/terminate__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtɜːrmɪneɪts/",
-        "audio": "te/terminate/terminates__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtɜːrmɪneɪtɪd/",
-        "audio": "te/terminate/terminated__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtɜːrmɪneɪtɪŋ/",
-        "audio": "te/terminate/terminating__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent. (in the sense ‘direct an action towards a specified end’): from Latin terminat- ‘limited, ended’, from the verb terminare, from terminus ‘end, boundary’."
+	"term": "terminate",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "terminate",
+			"heSheIt": "terminates"
+		},
+		"pastSimple": "terminated",
+		"pastParticiple": "terminated",
+		"ingForm": "terminating"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to end; to make something end",
+			"sensetop": "terminate something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Your contract of employment terminates in December."
+				},
+				{
+					"text": "The agreement was terminated immediately.",
+					"contextForm": "terminate something"
+				},
+				{
+					"text": "to terminate a pregnancy (= to perform or have an )"
+				},
+				{
+					"text": "His contract was abruptly terminated."
+				},
+				{
+					"text": "The agreement was lawfully terminated under clause 34."
+				},
+				{
+					"text": "This federal intervention effectively terminated the strike."
+				}
+			],
+			"topics": ["Houses and homes", "Life stages"],
+			"collocations": {
+				"adverb": ["abruptly", "prematurely", "immediately"],
+				"verb + terminate": ["be entitled to", "decide to"],
+				"phrases": [
+					"the decision to terminate something",
+					"the right to terminate something"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to end a journey",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "This train terminates at London Victoria."
+				}
+			],
+			"topics": ["Transport by bus and train"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈtɜːmɪneɪt/",
+				"audio": "te/terminate/terminate__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/ˈtɜːmɪneɪts/",
+				"audio": "te/terminate/terminates__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtɜːmɪneɪtɪd/",
+				"audio": "te/terminate/terminated__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtɜːmɪneɪtɪŋ/",
+				"audio": "te/terminate/terminating__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈtɜːrmɪneɪt/",
+				"audio": "te/terminate/terminate__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtɜːrmɪneɪts/",
+				"audio": "te/terminate/terminates__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtɜːrmɪneɪtɪd/",
+				"audio": "te/terminate/terminated__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtɜːrmɪneɪtɪŋ/",
+				"audio": "te/terminate/terminating__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent. (in the sense ‘direct an action towards a specified end’): from Latin terminat- ‘limited, ended’, from the verb terminare, from terminus ‘end, boundary’."
 }

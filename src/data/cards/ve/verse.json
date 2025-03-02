@@ -1,84 +1,84 @@
 {
-  "term": "verse",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "writing that is arranged in lines, often with a regular rhythm or pattern of rhyme",
-      "sensetop": "in verse",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Most of the play is written in verse, but some of it is in prose.",
-          "contextForm": "in verse"
-        }
-      ],
-      "synonyms": "poetry",
-      "topics": ["Literature and writing"],
-      "collocations": {
-        "adjective": ["humorous", "light", "nonsense"],
-        "verb + verse": ["compose", "write", "recite"],
-        "verse + noun": ["form", "drama"],
-        "preposition": ["in verse"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a group of lines that form a unit in a poem or song",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a hymn with six verses"
-        }
-      ],
-      "topics": ["Music"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "poetry",
-      "labels": "(old-fashioned)",
-      "examples": [
-        {
-          "text": "a book of comic verses"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "any one of the short numbered divisions of a chapter in the Bible",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "She always read a few verses from the Bible before going to bed."
-        }
-      ],
-      "topics": ["Religion and festivals"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "the exact details of something, especially the exact place where particular information may be found",
-      "examples": [
-        {
-          "text": "I can't give chapter and verse, but that's the rough outline of our legal position."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/vɜːs/",
-        "audio": "ve/verse/verse__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/vɜːrs/",
-        "audio": "ve/verse/verse__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English fers, from Latin versus ‘a turn of the plough, a furrow, a line of writing’, from vertere ‘to turn’; reinforced in Middle English by Old French vers, from Latin versus."
+	"term": "verse",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "writing that is arranged in lines, often with a regular rhythm or pattern of rhyme",
+			"sensetop": "in verse",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Most of the play is written in verse, but some of it is in prose.",
+					"contextForm": "in verse"
+				}
+			],
+			"synonyms": "poetry",
+			"topics": ["Literature and writing"],
+			"collocations": {
+				"adjective": ["humorous", "light", "nonsense"],
+				"verb + verse": ["compose", "write", "recite"],
+				"verse + noun": ["form", "drama"],
+				"preposition": ["in verse"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a group of lines that form a unit in a poem or song",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a hymn with six verses"
+				}
+			],
+			"topics": ["Music"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "poetry",
+			"labels": "(old-fashioned)",
+			"examples": [
+				{
+					"text": "a book of comic verses"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "any one of the short numbered divisions of a chapter in the Bible",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "She always read a few verses from the Bible before going to bed."
+				}
+			],
+			"topics": ["Religion and festivals"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "the exact details of something, especially the exact place where particular information may be found",
+			"examples": [
+				{
+					"text": "I can't give chapter and verse, but that's the rough outline of our legal position."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/vɜːs/",
+				"audio": "ve/verse/verse__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/vɜːrs/",
+				"audio": "ve/verse/verse__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English fers, from Latin versus ‘a turn of the plough, a furrow, a line of writing’, from vertere ‘to turn’; reinforced in Middle English by Old French vers, from Latin versus."
 }

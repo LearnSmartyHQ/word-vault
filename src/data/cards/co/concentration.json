@@ -1,122 +1,122 @@
 {
-  "term": "concentration",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the ability to direct all your effort and attention on one thing, without thinking of other things",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "This book requires a great deal of concentration."
-        },
-        {
-          "text": "Tiredness affects your powers of concentration."
-        },
-        {
-          "text": "One momentary lapse in concentration could prove fatal."
-        },
-        {
-          "text": "He has a poor **concentration span** *(= cannot concentrate for long)*."
-        },
-        {
-          "text": "Don's voice from outside broke my concentration."
-        },
-        {
-          "text": "She has great powers of concentration for a child her age."
-        },
-        {
-          "text": "The game requires great concentration."
-        },
-        {
-          "text": "a look of total concentration on her face"
-        },
-        {
-          "text": "The noise had disturbed his concentration."
-        },
-        {
-          "text": "The manager criticized the players for showing a lack of concentration."
-        }
-      ],
-      "collocations": {
-        "adjective": ["deep", "great", "intense"],
-        "verb + concentration": ["demand", "need", "require"],
-        "concentration + noun": ["lapse"],
-        "preposition": ["concentration on"],
-        "phrases": [
-          "a lack of concentration",
-          "a lapse in concentration",
-          "a lapse of concentration"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the process of people directing effort and attention on a particular thing",
-      "sensetop": "concentration (on something)",
-      "examples": [
-        {
-          "text": "He stressed the need for greater concentration on environmental issues."
-        },
-        {
-          "text": "In his concentration on the job in hand, John allowed his normal vigilance to slip."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a lot of something in one place",
-      "sensetop": "concentration (of something)",
-      "examples": [
-        {
-          "text": "a concentration of industry in the north of the country"
-        },
-        {
-          "text": "The greatest concentration of traffic is in the city centre."
-        },
-        {
-          "text": "The greatest concentration of traffic is downtown."
-        }
-      ],
-      "collocations": {
-        "adjective": ["elevated", "great", "heavy"],
-        "verb + concentration": ["increase", "decrease", "reduce"],
-        "concentration + verb": ["increase", "rise", "decrease"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the amount of a substance in a liquid or in another substance",
-      "examples": [
-        {
-          "text": "glucose concentrations in the blood"
-        },
-        {
-          "text": "Evaporation gradually increases the salt concentration of the water."
-        },
-        {
-          "text": "The concentration of nitrates in the drinking water has risen in recent years."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌkɒnsnˈtreɪʃn/",
-        "audio": "xc/concentration/xconcentration__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌkɑːnsnˈtreɪʃn/",
-        "audio": "xc/concentration/xconcentration__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "concentration",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the ability to direct all your effort and attention on one thing, without thinking of other things",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "This book requires a great deal of concentration."
+				},
+				{
+					"text": "Tiredness affects your powers of concentration."
+				},
+				{
+					"text": "One momentary lapse in concentration could prove fatal."
+				},
+				{
+					"text": "He has a poor **concentration span** *(= cannot concentrate for long)*."
+				},
+				{
+					"text": "Don's voice from outside broke my concentration."
+				},
+				{
+					"text": "She has great powers of concentration for a child her age."
+				},
+				{
+					"text": "The game requires great concentration."
+				},
+				{
+					"text": "a look of total concentration on her face"
+				},
+				{
+					"text": "The noise had disturbed his concentration."
+				},
+				{
+					"text": "The manager criticized the players for showing a lack of concentration."
+				}
+			],
+			"collocations": {
+				"adjective": ["deep", "great", "intense"],
+				"verb + concentration": ["demand", "need", "require"],
+				"concentration + noun": ["lapse"],
+				"preposition": ["concentration on"],
+				"phrases": [
+					"a lack of concentration",
+					"a lapse in concentration",
+					"a lapse of concentration"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the process of people directing effort and attention on a particular thing",
+			"sensetop": "concentration (on something)",
+			"examples": [
+				{
+					"text": "He stressed the need for greater concentration on environmental issues."
+				},
+				{
+					"text": "In his concentration on the job in hand, John allowed his normal vigilance to slip."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a lot of something in one place",
+			"sensetop": "concentration (of something)",
+			"examples": [
+				{
+					"text": "a concentration of industry in the north of the country"
+				},
+				{
+					"text": "The greatest concentration of traffic is in the city centre."
+				},
+				{
+					"text": "The greatest concentration of traffic is downtown."
+				}
+			],
+			"collocations": {
+				"adjective": ["elevated", "great", "heavy"],
+				"verb + concentration": ["increase", "decrease", "reduce"],
+				"concentration + verb": ["increase", "rise", "decrease"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the amount of a substance in a liquid or in another substance",
+			"examples": [
+				{
+					"text": "glucose concentrations in the blood"
+				},
+				{
+					"text": "Evaporation gradually increases the salt concentration of the water."
+				},
+				{
+					"text": "The concentration of nitrates in the drinking water has risen in recent years."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌkɒnsnˈtreɪʃn/",
+				"audio": "xc/concentration/xconcentration__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌkɑːnsnˈtreɪʃn/",
+				"audio": "xc/concentration/xconcentration__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

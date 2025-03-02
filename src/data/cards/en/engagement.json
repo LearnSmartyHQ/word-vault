@@ -1,152 +1,152 @@
 {
-  "term": "engagement",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an agreement to marry somebody; the period during which two people are engaged",
-      "sensetop": "engagement (to somebody)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Their engagement was announced in the local paper."
-        },
-        {
-          "text": "She has **broken off her engagement** to Charles.",
-          "contextForm": "engagement (to somebody)"
-        },
-        {
-          "text": "an engagement party"
-        },
-        {
-          "text": "a long/short engagement"
-        },
-        {
-          "text": "He announced his engagement to his long-time girlfriend."
-        }
-      ],
-      "topics": ["Life stages"],
-      "collocations": {
-        "adjective": ["long", "broken"],
-        "verb + engagement": ["announce", "celebrate", "break"],
-        "engagement + noun": ["ring", "party"],
-        "preposition": ["engagement to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an arrangement to do something at a particular time, especially something official or something connected with your job",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "an **engagement book/diary**"
-        },
-        {
-          "text": "He has a number of social engagements next week."
-        },
-        {
-          "text": "It was her first **official engagement**."
-        },
-        {
-          "text": "I had to refuse because of a **prior engagement**."
-        },
-        {
-          "text": "I don't keep an engagement diary these days."
-        },
-        {
-          "text": "It is important that I keep this engagement."
-        },
-        {
-          "text": "The president fell ill and was forced to cancel all public engagements."
-        },
-        {
-          "text": "The chairman will carry out no official public engagements during the month of August."
-        },
-        {
-          "text": "Mrs Meyer regrets that she is unable to attend owing to a previous engagement."
-        },
-        {
-          "text": "He had an important engagement with his financial adviser."
-        }
-      ],
-      "collocations": {
-        "adjective": ["previous", "prior", "important"],
-        "verb + engagement": ["have", "keep", "carry out"],
-        "preposition": ["engagement with"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "being involved with somebody/something in an attempt to understand them/it",
-      "sensetop": "engagement (with somebody/something)engagement (in something)",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Her views are based on years of engagement with the problems of the inner city.",
-          "contextForm": "engagement (with somebody/something)"
-        },
-        {
-          "text": "the lack of engagement in politics",
-          "contextForm": "engagement (in something)"
-        },
-        {
-          "text": "Her church promoted civic engagement."
-        },
-        {
-          "text": "Higher education can contribute to civic engagement."
-        },
-        {
-          "text": "his serious intellectual engagement with this issue"
-        },
-        {
-          "text": "the decline in political engagement"
-        }
-      ],
-      "collocations": {
-        "adjective": ["constructive", "effective", "active"],
-        "verb + engagement": ["encourage", "promote", "facilitate"],
-        "preposition": ["engagement in", "engagement with"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "fighting between two armies, etc.",
-      "labels": "(specialist)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "The general tried to avoid an engagement with the enemy."
-        }
-      ],
-      "topics": ["War and conflict"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "an arrangement to employ somebody; the process of employing somebody",
-      "labels": "(British English)",
-      "examples": [
-        {
-          "text": "The terms of engagement are to be agreed in writing."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈɡeɪdʒmənt/",
-        "audio": "en/engagement/engagement__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈɡeɪdʒmənt/",
-        "audio": "en/engagement/engagement__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 17th cent. (in the general sense ‘a legal or moral obligation’): French, from engager ‘to pledge’."
+	"term": "engagement",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an agreement to marry somebody; the period during which two people are engaged",
+			"sensetop": "engagement (to somebody)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Their engagement was announced in the local paper."
+				},
+				{
+					"text": "She has **broken off her engagement** to Charles.",
+					"contextForm": "engagement (to somebody)"
+				},
+				{
+					"text": "an engagement party"
+				},
+				{
+					"text": "a long/short engagement"
+				},
+				{
+					"text": "He announced his engagement to his long-time girlfriend."
+				}
+			],
+			"topics": ["Life stages"],
+			"collocations": {
+				"adjective": ["long", "broken"],
+				"verb + engagement": ["announce", "celebrate", "break"],
+				"engagement + noun": ["ring", "party"],
+				"preposition": ["engagement to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an arrangement to do something at a particular time, especially something official or something connected with your job",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "an **engagement book/diary**"
+				},
+				{
+					"text": "He has a number of social engagements next week."
+				},
+				{
+					"text": "It was her first **official engagement**."
+				},
+				{
+					"text": "I had to refuse because of a **prior engagement**."
+				},
+				{
+					"text": "I don't keep an engagement diary these days."
+				},
+				{
+					"text": "It is important that I keep this engagement."
+				},
+				{
+					"text": "The president fell ill and was forced to cancel all public engagements."
+				},
+				{
+					"text": "The chairman will carry out no official public engagements during the month of August."
+				},
+				{
+					"text": "Mrs Meyer regrets that she is unable to attend owing to a previous engagement."
+				},
+				{
+					"text": "He had an important engagement with his financial adviser."
+				}
+			],
+			"collocations": {
+				"adjective": ["previous", "prior", "important"],
+				"verb + engagement": ["have", "keep", "carry out"],
+				"preposition": ["engagement with"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "being involved with somebody/something in an attempt to understand them/it",
+			"sensetop": "engagement (with somebody/something)engagement (in something)",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Her views are based on years of engagement with the problems of the inner city.",
+					"contextForm": "engagement (with somebody/something)"
+				},
+				{
+					"text": "the lack of engagement in politics",
+					"contextForm": "engagement (in something)"
+				},
+				{
+					"text": "Her church promoted civic engagement."
+				},
+				{
+					"text": "Higher education can contribute to civic engagement."
+				},
+				{
+					"text": "his serious intellectual engagement with this issue"
+				},
+				{
+					"text": "the decline in political engagement"
+				}
+			],
+			"collocations": {
+				"adjective": ["constructive", "effective", "active"],
+				"verb + engagement": ["encourage", "promote", "facilitate"],
+				"preposition": ["engagement in", "engagement with"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "fighting between two armies, etc.",
+			"labels": "(specialist)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "The general tried to avoid an engagement with the enemy."
+				}
+			],
+			"topics": ["War and conflict"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "an arrangement to employ somebody; the process of employing somebody",
+			"labels": "(British English)",
+			"examples": [
+				{
+					"text": "The terms of engagement are to be agreed in writing."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈɡeɪdʒmənt/",
+				"audio": "en/engagement/engagement__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈɡeɪdʒmənt/",
+				"audio": "en/engagement/engagement__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 17th cent. (in the general sense ‘a legal or moral obligation’): French, from engager ‘to pledge’."
 }

@@ -1,1048 +1,1048 @@
 {
-  "term": "take",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "take",
-      "heSheIt": "takes"
-    },
-    "pastSimple": "took",
-    "pastParticiple": "taken",
-    "ingForm": "taking"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to carry or move something from one place to another",
-      "sensetop": "take somethingtake something with youtake somebody somethingtake something to somebody/somethingtake something for somebody/something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Remember to take your coat when you leave.",
-          "contextForm": "take something"
-        },
-        {
-          "text": "I forgot to take my bag with me when I got off the bus.",
-          "contextForm": "take something with you"
-        },
-        {
-          "text": "Shall I take my host family a gift?",
-          "contextForm": "take somebody something"
-        },
-        {
-          "text": "Can you take my suit to the dry-cleaner's?",
-          "contextForm": "take something to somebody/something"
-        },
-        {
-          "text": "You need to take your laptop to the technician."
-        },
-        {
-          "text": "Don't forget to take a present for Catherine's new baby.",
-          "contextForm": "take something for somebody/something"
-        },
-        {
-          "text": "My things had already been taken to my room."
-        },
-        {
-          "text": "She took her bags along with her."
-        },
-        {
-          "text": "Think about what you need to take for the trip."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to go with somebody from one place to another, especially to guide or lead them",
-      "sensetop": "take somebodytake somebody to somethingtake somebody doing somethingtake somebody to do something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "It's too far to walk—I'll take you by car.",
-          "contextForm": "take somebody"
-        },
-        {
-          "text": "A boy took us to our room.",
-          "contextForm": "take somebody to something"
-        },
-        {
-          "text": "I'm taking the kids swimming later.",
-          "contextForm": "take somebody doing something"
-        },
-        {
-          "text": "The boys were taken to see their grandparents most weekends.",
-          "contextForm": "take somebody to do something"
-        },
-        {
-          "text": "You should take her home soon."
-        },
-        {
-          "text": "I asked them if they'd take me with them."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to make somebody/something go from one level, situation, etc. to another",
-      "sensetop": "take somebody/something + adv./prep.",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Her energy and talent took her to the top of her profession."
-        },
-        {
-          "text": "The new loan takes the total debt to $100 000."
-        },
-        {
-          "text": "I'd like to take my argument a stage further."
-        },
-        {
-          "text": "He believes he has the skills to take the club forward."
-        },
-        {
-          "text": "We'll take the matter forward at our next meeting *(= discuss it further)*."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to need or require a particular amount of time",
-      "sensetop": "take somethingtake something to do somethingtake somebody somethingtake somebody something to do somethingtake something for somebody to do something+ adv.",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The process took about a year.",
-          "contextForm": "take something"
-        },
-        {
-          "text": "The journey to the airport takes about half an hour."
-        },
-        {
-          "text": "**It takes** about half an hour to get to the airport.",
-          "contextForm": "take something to do something"
-        },
-        {
-          "text": "That cut is taking a long time to heal."
-        },
-        {
-          "text": "The official seemed to take hours to examine my passport."
-        },
-        {
-          "text": "That should only take you ten minutes.",
-          "contextForm": "take somebody something"
-        },
-        {
-          "text": "It took her three hours to repair her bike.",
-          "contextForm": "take somebody something to do something"
-        },
-        {
-          "text": "It'll take her time to recover from the illness."
-        },
-        {
-          "text": "It'll **take time** *(= take a long time)* for her to recover from the illness.",
-          "contextForm": "take something for somebody to do something"
-        },
-        {
-          "text": "I need a shower—I **won't take long**.",
-          "contextForm": "+ adv."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to photograph somebody/something",
-      "sensetop": "take something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to take a **picture/photo/shot** of somebody/something",
-          "contextForm": "take something"
-        },
-        {
-          "text": "to **have your picture/photo taken**"
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to use a form of transport, a road, a path, etc. to go to a place",
-      "sensetop": "take something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **take the bus/train**"
-        },
-        {
-          "text": "to take a cab/plane"
-        },
-        {
-          "text": "Take the second road on the right."
-        },
-        {
-          "text": "It's more interesting to take the coast road."
-        },
-        {
-          "text": "You'll have to take a taxi. There's no other way of getting there."
-        },
-        {
-          "text": "You fly to Brussels and take the train to Bruges."
-        },
-        {
-          "text": "We took a ferry across to the island."
-        },
-        {
-          "text": "We took a bus south to Cairo."
-        },
-        {
-          "text": "They took the night train to Vienna."
-        }
-      ],
-      "topics": ["Transport by bus and train"]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to put your hands or arms around somebody/something and hold them/it; to reach for somebody/something and hold them/it",
-      "sensetop": "take somebody/something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I passed him the rope and he took it."
-        },
-        {
-          "text": "Free newspapers: please take one."
-        },
-        {
-          "text": "Can you take *(= hold)* the baby for a moment?"
-        },
-        {
-          "text": "He took her hand/took her by the hand *(= held her hand, for example to lead her somewhere)*."
-        },
-        {
-          "text": "She took the child in her arms and kissed him."
-        }
-      ]
-    },
-    {
-      "senseNumber": 8,
-      "definition": "to remove something/somebody from a place or a person",
-      "sensetop": "take something/somebody + adv./prep.",
-      "labels": "(informal)(figurative)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Will you take your books off the table?"
-        },
-        {
-          "text": "The sign must be taken down."
-        },
-        {
-          "text": "He took some keys out of his pocket."
-        },
-        {
-          "text": "My name had been taken off the list."
-        },
-        {
-          "text": "She was playing with a knife, so I took it away from her."
-        },
-        {
-          "text": "She was playing with a knife, so I took it off her."
-        },
-        {
-          "text": "The new sports centre will **take the pressure off** the old one."
-        }
-      ]
-    },
-    {
-      "senseNumber": 9,
-      "definition": "to remove something without permission or by mistake",
-      "sensetop": "take something",
-      "labels": "(figurative)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Someone has taken my scarf."
-        },
-        {
-          "text": "Did the burglars take anything valuable?"
-        },
-        {
-          "text": "All she had taken was her passport and driving licence."
-        },
-        {
-          "text": "The storms **took the lives** of 50 people."
-        }
-      ]
-    },
-    {
-      "senseNumber": 10,
-      "definition": "to get something from a particular source",
-      "sensetop": "take something from somethingtake something out of something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The scientists are taking water samples from the river.",
-          "contextForm": "take something from something"
-        },
-        {
-          "text": "The machine takes its name from its inventor."
-        },
-        {
-          "text": "Part of her article is taken straight *(= copied)* out of my book.",
-          "contextForm": "take something out of something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 11,
-      "definition": "to sit down in or use a chair, etc.",
-      "sensetop": "take something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Are these seats taken?"
-        },
-        {
-          "text": "Come in; **take a seat**."
-        }
-      ]
-    },
-    {
-      "senseNumber": 12,
-      "definition": "to eat, drink, etc. something",
-      "sensetop": "take something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Do you take sugar in your coffee?"
-        },
-        {
-          "text": "The doctor has given me some medicine to take for my cough."
-        },
-        {
-          "text": "He started taking drugs *(= illegal drugs)* at college."
-        }
-      ]
-    },
-    {
-      "senseNumber": 13,
-      "definition": "to find out and record something; to write something down",
-      "sensetop": "take something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The police officer took my name and address."
-        },
-        {
-          "text": "Did you **take notes** in the class?"
-        }
-      ]
-    },
-    {
-      "senseNumber": 14,
-      "definition": "to do an exam or a test",
-      "sensetop": "take something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "When did you take your driving test?"
-        }
-      ],
-      "topics": ["Education"]
-    },
-    {
-      "senseNumber": 15,
-      "definition": "to study a subject at school, college, etc.",
-      "sensetop": "take something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She is planning to **take a course** in web design."
-        },
-        {
-          "text": "Last year I started taking yoga classes."
-        },
-        {
-          "text": "How many subjects are you taking this year?"
-        }
-      ],
-      "topics": ["Education"]
-    },
-    {
-      "senseNumber": 16,
-      "definition": "to use a particular course of action in order to deal with or achieve something",
-      "sensetop": "take something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "We need to **take** a different **approach** to the problem.",
-          "contextForm": "take something"
-        },
-        {
-          "text": "The government is **taking action** to combat drug abuse."
-        }
-      ]
-    },
-    {
-      "senseNumber": 17,
-      "definition": "used with nouns to say that somebody is doing something, performing an action, etc.",
-      "sensetop": "take something",
-      "labels": "(British English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **take a look**"
-        },
-        {
-          "text": "to **take a break**"
-        },
-        {
-          "text": "to **take a shot** at somebody/something"
-        },
-        {
-          "text": "to take a step/walk/stroll"
-        },
-        {
-          "text": "to **take a bath/shower/wash**"
-        },
-        {
-          "text": "to take a bite/drink/sip"
-        },
-        {
-          "text": "to **take a** deep **breath**"
-        },
-        {
-          "text": "We will **take a decision** on the matter next week."
-        },
-        {
-          "text": "She's taken a nasty fall and has her leg in plaster."
-        },
-        {
-          "text": "Experts have urged ministers to **take** the necessary **steps** to resolve the issue."
-        }
-      ]
-    },
-    {
-      "senseNumber": 18,
-      "definition": "to test or measure something",
-      "sensetop": "take something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to take somebody’s temperature"
-        },
-        {
-          "text": "I need to have my blood pressure taken."
-        }
-      ]
-    },
-    {
-      "senseNumber": 19,
-      "definition": "to capture a place or person; to get control of something",
-      "sensetop": "take somethingtake something from somebodytake somebody + noun",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The rebels succeeded in taking the town.",
-          "contextForm": "take something"
-        },
-        {
-          "text": "The state has **taken control of** the company."
-        },
-        {
-          "text": "The militants took the city from government forces.",
-          "contextForm": "take something from somebody"
-        },
-        {
-          "text": "The rebels took him prisoner.",
-          "contextForm": "take somebody + noun"
-        },
-        {
-          "text": "He was taken prisoner by the rebels."
-        },
-        {
-          "text": "The bank robbers took several employees hostage."
-        }
-      ],
-      "topics": ["War and conflict"]
-    },
-    {
-      "senseNumber": 20,
-      "definition": "to choose, buy or rent something",
-      "sensetop": "take something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I'll take the grey jacket."
-        },
-        {
-          "text": "We took a room at the hotel for two nights."
-        }
-      ]
-    },
-    {
-      "senseNumber": 21,
-      "definition": "to buy a newspaper or magazine regularly",
-      "sensetop": "take something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "We take the ‘Express’."
-        }
-      ]
-    },
-    {
-      "senseNumber": 22,
-      "definition": "to accept or receive something",
-      "sensetop": "take something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "If they offer me the job, I'll take it."
-        },
-        {
-          "text": "She was accused of taking bribes."
-        },
-        {
-          "text": "I'll take the call in my office."
-        },
-        {
-          "text": "I **take** full **responsibility** for my actions."
-        },
-        {
-          "text": "Why should I **take the blame** for somebody else's mistakes?"
-        },
-        {
-          "text": "If you choose deceit, then you must take the consequences of your actions."
-        },
-        {
-          "text": "If you **take my advice** you'll have nothing more to do with him."
-        },
-        {
-          "text": "Will you take $10 for the book *(= will you sell it for $10)*?"
-        },
-        {
-          "text": "The store took *(= sold goods worth)* $100 000 last week."
-        }
-      ]
-    },
-    {
-      "senseNumber": 23,
-      "definition": "to act in response to an opportunity",
-      "sensetop": "take something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "When the bus stopped for fuel, we **took the opportunity** to get something to eat."
-        },
-        {
-          "text": "England failed to **take their chances** and had to settle for a draw."
-        },
-        {
-          "text": "He isn't afraid to **take risks**."
-        },
-        {
-          "text": "Take the initiative and fill your life with exciting experiences."
-        }
-      ]
-    },
-    {
-      "senseNumber": 24,
-      "definition": "to accept somebody as a customer, patient, etc.",
-      "sensetop": "take somebody",
-      "examples": [
-        {
-          "text": "The school doesn't take boys *(= only has girls)*."
-        },
-        {
-          "text": "The dentist can't take any new patients."
-        }
-      ]
-    },
-    {
-      "senseNumber": 25,
-      "definition": "to experience or be affected by something",
-      "sensetop": "take something",
-      "examples": [
-        {
-          "text": "The school took the full force of the explosion."
-        },
-        {
-          "text": "Can the ropes **take the strain** *(= not break)*?"
-        },
-        {
-          "text": "The team took a terrible beating."
-        },
-        {
-          "text": "I'm afraid your husband has taken a turn for the worse."
-        }
-      ]
-    },
-    {
-      "senseNumber": 26,
-      "definition": "to be able to bear something",
-      "sensetop": "take something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She can't take criticism."
-        },
-        {
-          "text": "I don't think I can take much more of this heat."
-        },
-        {
-          "text": "I find his attitude a little hard to take."
-        },
-        {
-          "text": "It was clear that she wasn't going to take any nonsense."
-        }
-      ]
-    },
-    {
-      "senseNumber": 27,
-      "definition": "to react to something/somebody in a particular way",
-      "sensetop": "take something/somebody + adv./prep.",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He took the criticism surprisingly well."
-        },
-        {
-          "text": "These threats are not to be taken lightly."
-        },
-        {
-          "text": "I wish you'd **take me seriously**."
-        },
-        {
-          "text": "I was being sarcastic but you took my comment literally."
-        },
-        {
-          "text": "She took it in the spirit in which it was intended."
-        },
-        {
-          "text": "Harry took his rejection philosophically."
-        },
-        {
-          "text": "She took the news of her father's death very badly."
-        },
-        {
-          "text": "I wanted to be taken seriously as an artist."
-        },
-        {
-          "text": "They won't take kindly to being ordered about."
-        }
-      ],
-      "collocations": {
-        "adverb": ["well", "badly", "seriously"],
-        "preposition": ["as"],
-        "phrases": ["take it like a man"]
-      }
-    },
-    {
-      "senseNumber": 28,
-      "definition": "to understand or consider something in a particular way",
-      "sensetop": "take somethingtake something as somethingtake something to do something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "How am I supposed to take that remark?",
-          "contextForm": "take something"
-        },
-        {
-          "text": "Taken overall, the project was a success."
-        },
-        {
-          "text": "She took what he said as a compliment.",
-          "contextForm": "take something as something"
-        },
-        {
-          "text": "What did you take his comments to mean?",
-          "contextForm": "take something to do something"
-        }
-      ],
-      "collocations": {
-        "adverb": ["well", "badly", "seriously"],
-        "preposition": ["as"],
-        "phrases": ["take it like a man"]
-      }
-    },
-    {
-      "senseNumber": 29,
-      "definition": "to consider somebody/something to be somebody/something, especially when you are wrong",
-      "sensetop": "take somebody/something for somebody/somethingtake somebody/something to be somebody/something",
-      "examples": [
-        {
-          "text": "Even the experts took the painting for a genuine Van Gogh.",
-          "contextForm": "take somebody/something for somebody/something"
-        },
-        {
-          "text": "Of course I didn't do it! **What do you take me for** *(= what sort of person do you think I am)*?"
-        },
-        {
-          "text": "I took the man with him to be his father.",
-          "contextForm": "take somebody/something to be somebody/something"
-        },
-        {
-          "text": "I mistakenly took her for the Senator's wife."
-        },
-        {
-          "text": "He's not the fool you take him for."
-        }
-      ]
-    },
-    {
-      "senseNumber": 30,
-      "definition": "to have a particular feeling, opinion or attitude",
-      "sensetop": "take something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "My parents always **took an interest** in my hobbies."
-        },
-        {
-          "text": "Don't **take offence** *(= be offended)* at what I said."
-        },
-        {
-          "text": "I took a dislike to him."
-        },
-        {
-          "text": "He **takes the view** that children are responsible for their own actions."
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": 31,
-      "definition": "to reduce one number by the value of another",
-      "sensetop": "take A (away) (from B)B take away A",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Take 5 from 12 and you're left with 7.",
-          "contextForm": "take A (away) (from B)"
-        },
-        {
-          "text": "80 take away 5 is 75.",
-          "contextForm": "B take away A"
-        }
-      ]
-    },
-    {
-      "senseNumber": 32,
-      "definition": "used to introduce somebody/something as an example",
-      "sensetop": "take somebody/something",
-      "examples": [
-        {
-          "text": "Lots of couples have problems in the first year of marriage. Take Ann and Paul."
-        }
-      ]
-    },
-    {
-      "senseNumber": 33,
-      "definition": "to have or start to have a particular form, position or state",
-      "sensetop": "take something",
-      "examples": [
-        {
-          "text": "Our next class will **take the form** of a debate."
-        },
-        {
-          "text": "The new president **takes office** in January."
-        },
-        {
-          "text": "The home side had a chance to **take the lead**."
-        }
-      ]
-    },
-    {
-      "senseNumber": 34,
-      "definition": "to need or require something in order to happen or be done",
-      "sensetop": "take somebody/something to do somethingtake something",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "It only takes one careless driver to cause an accident.",
-          "contextForm": "take somebody/something to do something"
-        },
-        {
-          "text": "It doesn't take much to make her angry."
-        },
-        {
-          "text": "He didn't take much persuading *(= he was easily persuaded)*.",
-          "contextForm": "take something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 35,
-      "definition": "to use something in order to work",
-      "sensetop": "take something",
-      "examples": [
-        {
-          "text": "The buses have been adapted to take biofuel."
-        }
-      ]
-    },
-    {
-      "senseNumber": 36,
-      "definition": "to wear a particular size in shoes or clothes",
-      "sensetop": "take something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "What size shoes do you take?"
-        }
-      ],
-      "topics": ["Clothes and Fashion"]
-    },
-    {
-      "senseNumber": 37,
-      "definition": "to have enough space for something/somebody; to be able to hold or contain a particular quantity",
-      "sensetop": "take something/somebody",
-      "examples": [
-        {
-          "text": "The bus can take 60 passengers."
-        },
-        {
-          "text": "The tank takes 50 litres."
-        }
-      ]
-    },
-    {
-      "senseNumber": 38,
-      "definition": "to be the teacher or leader in a class or a religious service",
-      "sensetop": "take somebody (for something)take something",
-      "cefr": "a2",
-      "examples": [
-        {
-          "text": "The head teacher usually takes us for French.",
-          "contextForm": "take somebody (for something)"
-        },
-        {
-          "text": "Mr Perkins took the morning service.",
-          "contextForm": "take something"
-        }
-      ],
-      "topics": ["Education"]
-    },
-    {
-      "senseNumber": 39,
-      "definition": "to go over or around something",
-      "sensetop": "take something (+ adv./prep.)",
-      "examples": [
-        {
-          "text": "The horse took the first fence well."
-        },
-        {
-          "text": "He takes bends much too fast."
-        }
-      ]
-    },
-    {
-      "senseNumber": 40,
-      "definition": "to kick or throw the ball from a fixed or agreed position",
-      "sensetop": "take something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "to take a penalty/free kick/corner"
-        }
-      ],
-      "topics": ["Sports: ball and racket sports"]
-    },
-    {
-      "senseNumber": 41,
-      "definition": "to use a particular method to find out people’s opinions",
-      "sensetop": "take something",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "to take a vote/poll/survey"
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": 42,
-      "definition": "to be successful; to work",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "The skin graft failed to take."
-        }
-      ],
-      "topics": ["Success"]
-    },
-    {
-      "senseNumber": 43,
-      "definition": "to have or require something when used in a sentence or other structure",
-      "sensetop": "take something",
-      "examples": [
-        {
-          "text": "The verb ‘rely’ takes the preposition ‘on’."
-        }
-      ]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "used to say that you do not care if somebody accepts or rejects your offer",
-      "examples": []
-    },
-    {
-      "senseNumber": 2,
-      "definition": "used to say that somebody does not have a strong opinion about something",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "Dancing? I can take it or leave it."
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to have the qualities, ability, etc. needed to be successful",
-      "labels": "(informal)",
-      "examples": [],
-      "topics": ["Success"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that you cannot trust somebody to behave well in public",
-      "labels": "(informal, often humorous)",
-      "examples": [
-        {
-          "text": "You haven’t spilled your coffee again! I can’t take you anywhere!"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to accept something/somebody without wishing it/them to be different or without thinking about it/them very much in advance",
-      "examples": [
-        {
-          "text": "She takes life as it comes."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to suppose; to assume",
-      "examples": [
-        {
-          "text": "I take it you won't be coming to the party?"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to emphasize that what you are going to say is the truth",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Take it from me—he'll be a millionaire before he's 30."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to make somebody physically or mentally tired",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Looking after small children really takes it out of you."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to decide to do something without asking permission or advice",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to need a lot of effort or time; to be very difficult to do",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used as an exclamation when you are hitting somebody or attacking them in some other way",
-      "labels": "(informal)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/teɪk/",
-        "audio": "ta/take/take__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/teɪks/",
-        "audio": "ta/take/takes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/tʊk/",
-        "audio": "to/take/took__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈteɪkən/",
-        "audio": "ta/take/taken__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈteɪkɪŋ/",
-        "audio": "ta/take/taking__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/teɪk/",
-        "audio": "ta/take/take__us_1.mp3"
-      },
-      {
-        "pronunciation": "/teɪks/",
-        "audio": "ta/take/takes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/tʊk/",
-        "audio": "to/take/took__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈteɪkən/",
-        "audio": "ta/take/taken__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈteɪkɪŋ/",
-        "audio": "ta/take/taking__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Old English tacan ‘get (especially by force), capture’, from Old Norse taka ‘grasp, lay hold of’, of unknown ultimate origin."
+	"term": "take",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "take",
+			"heSheIt": "takes"
+		},
+		"pastSimple": "took",
+		"pastParticiple": "taken",
+		"ingForm": "taking"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to carry or move something from one place to another",
+			"sensetop": "take somethingtake something with youtake somebody somethingtake something to somebody/somethingtake something for somebody/something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Remember to take your coat when you leave.",
+					"contextForm": "take something"
+				},
+				{
+					"text": "I forgot to take my bag with me when I got off the bus.",
+					"contextForm": "take something with you"
+				},
+				{
+					"text": "Shall I take my host family a gift?",
+					"contextForm": "take somebody something"
+				},
+				{
+					"text": "Can you take my suit to the dry-cleaner's?",
+					"contextForm": "take something to somebody/something"
+				},
+				{
+					"text": "You need to take your laptop to the technician."
+				},
+				{
+					"text": "Don't forget to take a present for Catherine's new baby.",
+					"contextForm": "take something for somebody/something"
+				},
+				{
+					"text": "My things had already been taken to my room."
+				},
+				{
+					"text": "She took her bags along with her."
+				},
+				{
+					"text": "Think about what you need to take for the trip."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to go with somebody from one place to another, especially to guide or lead them",
+			"sensetop": "take somebodytake somebody to somethingtake somebody doing somethingtake somebody to do something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "It's too far to walk—I'll take you by car.",
+					"contextForm": "take somebody"
+				},
+				{
+					"text": "A boy took us to our room.",
+					"contextForm": "take somebody to something"
+				},
+				{
+					"text": "I'm taking the kids swimming later.",
+					"contextForm": "take somebody doing something"
+				},
+				{
+					"text": "The boys were taken to see their grandparents most weekends.",
+					"contextForm": "take somebody to do something"
+				},
+				{
+					"text": "You should take her home soon."
+				},
+				{
+					"text": "I asked them if they'd take me with them."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to make somebody/something go from one level, situation, etc. to another",
+			"sensetop": "take somebody/something + adv./prep.",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Her energy and talent took her to the top of her profession."
+				},
+				{
+					"text": "The new loan takes the total debt to $100 000."
+				},
+				{
+					"text": "I'd like to take my argument a stage further."
+				},
+				{
+					"text": "He believes he has the skills to take the club forward."
+				},
+				{
+					"text": "We'll take the matter forward at our next meeting *(= discuss it further)*."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to need or require a particular amount of time",
+			"sensetop": "take somethingtake something to do somethingtake somebody somethingtake somebody something to do somethingtake something for somebody to do something+ adv.",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The process took about a year.",
+					"contextForm": "take something"
+				},
+				{
+					"text": "The journey to the airport takes about half an hour."
+				},
+				{
+					"text": "**It takes** about half an hour to get to the airport.",
+					"contextForm": "take something to do something"
+				},
+				{
+					"text": "That cut is taking a long time to heal."
+				},
+				{
+					"text": "The official seemed to take hours to examine my passport."
+				},
+				{
+					"text": "That should only take you ten minutes.",
+					"contextForm": "take somebody something"
+				},
+				{
+					"text": "It took her three hours to repair her bike.",
+					"contextForm": "take somebody something to do something"
+				},
+				{
+					"text": "It'll take her time to recover from the illness."
+				},
+				{
+					"text": "It'll **take time** *(= take a long time)* for her to recover from the illness.",
+					"contextForm": "take something for somebody to do something"
+				},
+				{
+					"text": "I need a shower—I **won't take long**.",
+					"contextForm": "+ adv."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to photograph somebody/something",
+			"sensetop": "take something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to take a **picture/photo/shot** of somebody/something",
+					"contextForm": "take something"
+				},
+				{
+					"text": "to **have your picture/photo taken**"
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to use a form of transport, a road, a path, etc. to go to a place",
+			"sensetop": "take something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **take the bus/train**"
+				},
+				{
+					"text": "to take a cab/plane"
+				},
+				{
+					"text": "Take the second road on the right."
+				},
+				{
+					"text": "It's more interesting to take the coast road."
+				},
+				{
+					"text": "You'll have to take a taxi. There's no other way of getting there."
+				},
+				{
+					"text": "You fly to Brussels and take the train to Bruges."
+				},
+				{
+					"text": "We took a ferry across to the island."
+				},
+				{
+					"text": "We took a bus south to Cairo."
+				},
+				{
+					"text": "They took the night train to Vienna."
+				}
+			],
+			"topics": ["Transport by bus and train"]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to put your hands or arms around somebody/something and hold them/it; to reach for somebody/something and hold them/it",
+			"sensetop": "take somebody/something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I passed him the rope and he took it."
+				},
+				{
+					"text": "Free newspapers: please take one."
+				},
+				{
+					"text": "Can you take *(= hold)* the baby for a moment?"
+				},
+				{
+					"text": "He took her hand/took her by the hand *(= held her hand, for example to lead her somewhere)*."
+				},
+				{
+					"text": "She took the child in her arms and kissed him."
+				}
+			]
+		},
+		{
+			"senseNumber": 8,
+			"definition": "to remove something/somebody from a place or a person",
+			"sensetop": "take something/somebody + adv./prep.",
+			"labels": "(informal)(figurative)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Will you take your books off the table?"
+				},
+				{
+					"text": "The sign must be taken down."
+				},
+				{
+					"text": "He took some keys out of his pocket."
+				},
+				{
+					"text": "My name had been taken off the list."
+				},
+				{
+					"text": "She was playing with a knife, so I took it away from her."
+				},
+				{
+					"text": "She was playing with a knife, so I took it off her."
+				},
+				{
+					"text": "The new sports centre will **take the pressure off** the old one."
+				}
+			]
+		},
+		{
+			"senseNumber": 9,
+			"definition": "to remove something without permission or by mistake",
+			"sensetop": "take something",
+			"labels": "(figurative)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Someone has taken my scarf."
+				},
+				{
+					"text": "Did the burglars take anything valuable?"
+				},
+				{
+					"text": "All she had taken was her passport and driving licence."
+				},
+				{
+					"text": "The storms **took the lives** of 50 people."
+				}
+			]
+		},
+		{
+			"senseNumber": 10,
+			"definition": "to get something from a particular source",
+			"sensetop": "take something from somethingtake something out of something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The scientists are taking water samples from the river.",
+					"contextForm": "take something from something"
+				},
+				{
+					"text": "The machine takes its name from its inventor."
+				},
+				{
+					"text": "Part of her article is taken straight *(= copied)* out of my book.",
+					"contextForm": "take something out of something"
+				}
+			]
+		},
+		{
+			"senseNumber": 11,
+			"definition": "to sit down in or use a chair, etc.",
+			"sensetop": "take something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Are these seats taken?"
+				},
+				{
+					"text": "Come in; **take a seat**."
+				}
+			]
+		},
+		{
+			"senseNumber": 12,
+			"definition": "to eat, drink, etc. something",
+			"sensetop": "take something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Do you take sugar in your coffee?"
+				},
+				{
+					"text": "The doctor has given me some medicine to take for my cough."
+				},
+				{
+					"text": "He started taking drugs *(= illegal drugs)* at college."
+				}
+			]
+		},
+		{
+			"senseNumber": 13,
+			"definition": "to find out and record something; to write something down",
+			"sensetop": "take something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The police officer took my name and address."
+				},
+				{
+					"text": "Did you **take notes** in the class?"
+				}
+			]
+		},
+		{
+			"senseNumber": 14,
+			"definition": "to do an exam or a test",
+			"sensetop": "take something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "When did you take your driving test?"
+				}
+			],
+			"topics": ["Education"]
+		},
+		{
+			"senseNumber": 15,
+			"definition": "to study a subject at school, college, etc.",
+			"sensetop": "take something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She is planning to **take a course** in web design."
+				},
+				{
+					"text": "Last year I started taking yoga classes."
+				},
+				{
+					"text": "How many subjects are you taking this year?"
+				}
+			],
+			"topics": ["Education"]
+		},
+		{
+			"senseNumber": 16,
+			"definition": "to use a particular course of action in order to deal with or achieve something",
+			"sensetop": "take something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "We need to **take** a different **approach** to the problem.",
+					"contextForm": "take something"
+				},
+				{
+					"text": "The government is **taking action** to combat drug abuse."
+				}
+			]
+		},
+		{
+			"senseNumber": 17,
+			"definition": "used with nouns to say that somebody is doing something, performing an action, etc.",
+			"sensetop": "take something",
+			"labels": "(British English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **take a look**"
+				},
+				{
+					"text": "to **take a break**"
+				},
+				{
+					"text": "to **take a shot** at somebody/something"
+				},
+				{
+					"text": "to take a step/walk/stroll"
+				},
+				{
+					"text": "to **take a bath/shower/wash**"
+				},
+				{
+					"text": "to take a bite/drink/sip"
+				},
+				{
+					"text": "to **take a** deep **breath**"
+				},
+				{
+					"text": "We will **take a decision** on the matter next week."
+				},
+				{
+					"text": "She's taken a nasty fall and has her leg in plaster."
+				},
+				{
+					"text": "Experts have urged ministers to **take** the necessary **steps** to resolve the issue."
+				}
+			]
+		},
+		{
+			"senseNumber": 18,
+			"definition": "to test or measure something",
+			"sensetop": "take something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to take somebody’s temperature"
+				},
+				{
+					"text": "I need to have my blood pressure taken."
+				}
+			]
+		},
+		{
+			"senseNumber": 19,
+			"definition": "to capture a place or person; to get control of something",
+			"sensetop": "take somethingtake something from somebodytake somebody + noun",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The rebels succeeded in taking the town.",
+					"contextForm": "take something"
+				},
+				{
+					"text": "The state has **taken control of** the company."
+				},
+				{
+					"text": "The militants took the city from government forces.",
+					"contextForm": "take something from somebody"
+				},
+				{
+					"text": "The rebels took him prisoner.",
+					"contextForm": "take somebody + noun"
+				},
+				{
+					"text": "He was taken prisoner by the rebels."
+				},
+				{
+					"text": "The bank robbers took several employees hostage."
+				}
+			],
+			"topics": ["War and conflict"]
+		},
+		{
+			"senseNumber": 20,
+			"definition": "to choose, buy or rent something",
+			"sensetop": "take something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I'll take the grey jacket."
+				},
+				{
+					"text": "We took a room at the hotel for two nights."
+				}
+			]
+		},
+		{
+			"senseNumber": 21,
+			"definition": "to buy a newspaper or magazine regularly",
+			"sensetop": "take something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "We take the ‘Express’."
+				}
+			]
+		},
+		{
+			"senseNumber": 22,
+			"definition": "to accept or receive something",
+			"sensetop": "take something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "If they offer me the job, I'll take it."
+				},
+				{
+					"text": "She was accused of taking bribes."
+				},
+				{
+					"text": "I'll take the call in my office."
+				},
+				{
+					"text": "I **take** full **responsibility** for my actions."
+				},
+				{
+					"text": "Why should I **take the blame** for somebody else's mistakes?"
+				},
+				{
+					"text": "If you choose deceit, then you must take the consequences of your actions."
+				},
+				{
+					"text": "If you **take my advice** you'll have nothing more to do with him."
+				},
+				{
+					"text": "Will you take $10 for the book *(= will you sell it for $10)*?"
+				},
+				{
+					"text": "The store took *(= sold goods worth)* $100 000 last week."
+				}
+			]
+		},
+		{
+			"senseNumber": 23,
+			"definition": "to act in response to an opportunity",
+			"sensetop": "take something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "When the bus stopped for fuel, we **took the opportunity** to get something to eat."
+				},
+				{
+					"text": "England failed to **take their chances** and had to settle for a draw."
+				},
+				{
+					"text": "He isn't afraid to **take risks**."
+				},
+				{
+					"text": "Take the initiative and fill your life with exciting experiences."
+				}
+			]
+		},
+		{
+			"senseNumber": 24,
+			"definition": "to accept somebody as a customer, patient, etc.",
+			"sensetop": "take somebody",
+			"examples": [
+				{
+					"text": "The school doesn't take boys *(= only has girls)*."
+				},
+				{
+					"text": "The dentist can't take any new patients."
+				}
+			]
+		},
+		{
+			"senseNumber": 25,
+			"definition": "to experience or be affected by something",
+			"sensetop": "take something",
+			"examples": [
+				{
+					"text": "The school took the full force of the explosion."
+				},
+				{
+					"text": "Can the ropes **take the strain** *(= not break)*?"
+				},
+				{
+					"text": "The team took a terrible beating."
+				},
+				{
+					"text": "I'm afraid your husband has taken a turn for the worse."
+				}
+			]
+		},
+		{
+			"senseNumber": 26,
+			"definition": "to be able to bear something",
+			"sensetop": "take something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She can't take criticism."
+				},
+				{
+					"text": "I don't think I can take much more of this heat."
+				},
+				{
+					"text": "I find his attitude a little hard to take."
+				},
+				{
+					"text": "It was clear that she wasn't going to take any nonsense."
+				}
+			]
+		},
+		{
+			"senseNumber": 27,
+			"definition": "to react to something/somebody in a particular way",
+			"sensetop": "take something/somebody + adv./prep.",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He took the criticism surprisingly well."
+				},
+				{
+					"text": "These threats are not to be taken lightly."
+				},
+				{
+					"text": "I wish you'd **take me seriously**."
+				},
+				{
+					"text": "I was being sarcastic but you took my comment literally."
+				},
+				{
+					"text": "She took it in the spirit in which it was intended."
+				},
+				{
+					"text": "Harry took his rejection philosophically."
+				},
+				{
+					"text": "She took the news of her father's death very badly."
+				},
+				{
+					"text": "I wanted to be taken seriously as an artist."
+				},
+				{
+					"text": "They won't take kindly to being ordered about."
+				}
+			],
+			"collocations": {
+				"adverb": ["well", "badly", "seriously"],
+				"preposition": ["as"],
+				"phrases": ["take it like a man"]
+			}
+		},
+		{
+			"senseNumber": 28,
+			"definition": "to understand or consider something in a particular way",
+			"sensetop": "take somethingtake something as somethingtake something to do something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "How am I supposed to take that remark?",
+					"contextForm": "take something"
+				},
+				{
+					"text": "Taken overall, the project was a success."
+				},
+				{
+					"text": "She took what he said as a compliment.",
+					"contextForm": "take something as something"
+				},
+				{
+					"text": "What did you take his comments to mean?",
+					"contextForm": "take something to do something"
+				}
+			],
+			"collocations": {
+				"adverb": ["well", "badly", "seriously"],
+				"preposition": ["as"],
+				"phrases": ["take it like a man"]
+			}
+		},
+		{
+			"senseNumber": 29,
+			"definition": "to consider somebody/something to be somebody/something, especially when you are wrong",
+			"sensetop": "take somebody/something for somebody/somethingtake somebody/something to be somebody/something",
+			"examples": [
+				{
+					"text": "Even the experts took the painting for a genuine Van Gogh.",
+					"contextForm": "take somebody/something for somebody/something"
+				},
+				{
+					"text": "Of course I didn't do it! **What do you take me for** *(= what sort of person do you think I am)*?"
+				},
+				{
+					"text": "I took the man with him to be his father.",
+					"contextForm": "take somebody/something to be somebody/something"
+				},
+				{
+					"text": "I mistakenly took her for the Senator's wife."
+				},
+				{
+					"text": "He's not the fool you take him for."
+				}
+			]
+		},
+		{
+			"senseNumber": 30,
+			"definition": "to have a particular feeling, opinion or attitude",
+			"sensetop": "take something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "My parents always **took an interest** in my hobbies."
+				},
+				{
+					"text": "Don't **take offence** *(= be offended)* at what I said."
+				},
+				{
+					"text": "I took a dislike to him."
+				},
+				{
+					"text": "He **takes the view** that children are responsible for their own actions."
+				}
+			],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": 31,
+			"definition": "to reduce one number by the value of another",
+			"sensetop": "take A (away) (from B)B take away A",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Take 5 from 12 and you're left with 7.",
+					"contextForm": "take A (away) (from B)"
+				},
+				{
+					"text": "80 take away 5 is 75.",
+					"contextForm": "B take away A"
+				}
+			]
+		},
+		{
+			"senseNumber": 32,
+			"definition": "used to introduce somebody/something as an example",
+			"sensetop": "take somebody/something",
+			"examples": [
+				{
+					"text": "Lots of couples have problems in the first year of marriage. Take Ann and Paul."
+				}
+			]
+		},
+		{
+			"senseNumber": 33,
+			"definition": "to have or start to have a particular form, position or state",
+			"sensetop": "take something",
+			"examples": [
+				{
+					"text": "Our next class will **take the form** of a debate."
+				},
+				{
+					"text": "The new president **takes office** in January."
+				},
+				{
+					"text": "The home side had a chance to **take the lead**."
+				}
+			]
+		},
+		{
+			"senseNumber": 34,
+			"definition": "to need or require something in order to happen or be done",
+			"sensetop": "take somebody/something to do somethingtake something",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "It only takes one careless driver to cause an accident.",
+					"contextForm": "take somebody/something to do something"
+				},
+				{
+					"text": "It doesn't take much to make her angry."
+				},
+				{
+					"text": "He didn't take much persuading *(= he was easily persuaded)*.",
+					"contextForm": "take something"
+				}
+			]
+		},
+		{
+			"senseNumber": 35,
+			"definition": "to use something in order to work",
+			"sensetop": "take something",
+			"examples": [
+				{
+					"text": "The buses have been adapted to take biofuel."
+				}
+			]
+		},
+		{
+			"senseNumber": 36,
+			"definition": "to wear a particular size in shoes or clothes",
+			"sensetop": "take something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "What size shoes do you take?"
+				}
+			],
+			"topics": ["Clothes and Fashion"]
+		},
+		{
+			"senseNumber": 37,
+			"definition": "to have enough space for something/somebody; to be able to hold or contain a particular quantity",
+			"sensetop": "take something/somebody",
+			"examples": [
+				{
+					"text": "The bus can take 60 passengers."
+				},
+				{
+					"text": "The tank takes 50 litres."
+				}
+			]
+		},
+		{
+			"senseNumber": 38,
+			"definition": "to be the teacher or leader in a class or a religious service",
+			"sensetop": "take somebody (for something)take something",
+			"cefr": "a2",
+			"examples": [
+				{
+					"text": "The head teacher usually takes us for French.",
+					"contextForm": "take somebody (for something)"
+				},
+				{
+					"text": "Mr Perkins took the morning service.",
+					"contextForm": "take something"
+				}
+			],
+			"topics": ["Education"]
+		},
+		{
+			"senseNumber": 39,
+			"definition": "to go over or around something",
+			"sensetop": "take something (+ adv./prep.)",
+			"examples": [
+				{
+					"text": "The horse took the first fence well."
+				},
+				{
+					"text": "He takes bends much too fast."
+				}
+			]
+		},
+		{
+			"senseNumber": 40,
+			"definition": "to kick or throw the ball from a fixed or agreed position",
+			"sensetop": "take something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "to take a penalty/free kick/corner"
+				}
+			],
+			"topics": ["Sports: ball and racket sports"]
+		},
+		{
+			"senseNumber": 41,
+			"definition": "to use a particular method to find out people’s opinions",
+			"sensetop": "take something",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "to take a vote/poll/survey"
+				}
+			],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": 42,
+			"definition": "to be successful; to work",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "The skin graft failed to take."
+				}
+			],
+			"topics": ["Success"]
+		},
+		{
+			"senseNumber": 43,
+			"definition": "to have or require something when used in a sentence or other structure",
+			"sensetop": "take something",
+			"examples": [
+				{
+					"text": "The verb ‘rely’ takes the preposition ‘on’."
+				}
+			]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "used to say that you do not care if somebody accepts or rejects your offer",
+			"examples": []
+		},
+		{
+			"senseNumber": 2,
+			"definition": "used to say that somebody does not have a strong opinion about something",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "Dancing? I can take it or leave it."
+				}
+			],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to have the qualities, ability, etc. needed to be successful",
+			"labels": "(informal)",
+			"examples": [],
+			"topics": ["Success"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that you cannot trust somebody to behave well in public",
+			"labels": "(informal, often humorous)",
+			"examples": [
+				{
+					"text": "You haven’t spilled your coffee again! I can’t take you anywhere!"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to accept something/somebody without wishing it/them to be different or without thinking about it/them very much in advance",
+			"examples": [
+				{
+					"text": "She takes life as it comes."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to suppose; to assume",
+			"examples": [
+				{
+					"text": "I take it you won't be coming to the party?"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to emphasize that what you are going to say is the truth",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Take it from me—he'll be a millionaire before he's 30."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to make somebody physically or mentally tired",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Looking after small children really takes it out of you."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to decide to do something without asking permission or advice",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to need a lot of effort or time; to be very difficult to do",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used as an exclamation when you are hitting somebody or attacking them in some other way",
+			"labels": "(informal)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/teɪk/",
+				"audio": "ta/take/take__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/teɪks/",
+				"audio": "ta/take/takes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/tʊk/",
+				"audio": "to/take/took__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈteɪkən/",
+				"audio": "ta/take/taken__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈteɪkɪŋ/",
+				"audio": "ta/take/taking__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/teɪk/",
+				"audio": "ta/take/take__us_1.mp3"
+			},
+			{
+				"pronunciation": "/teɪks/",
+				"audio": "ta/take/takes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/tʊk/",
+				"audio": "to/take/took__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈteɪkən/",
+				"audio": "ta/take/taken__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈteɪkɪŋ/",
+				"audio": "ta/take/taking__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Old English tacan ‘get (especially by force), capture’, from Old Norse taka ‘grasp, lay hold of’, of unknown ultimate origin."
 }

@@ -1,84 +1,84 @@
 {
-  "term": "lens",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "image": "data/images/bi/binoculars_telescope.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a curved piece of glass or plastic that makes things look larger, smaller or clearer when you look through it",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a pair of glasses with tinted lenses"
-        },
-        {
-          "text": "Put your hand in front of your right lens and just look through your left lens."
-        },
-        {
-          "text": "She wears glasses with very thick lenses."
-        }
-      ],
-      "collocations": {
-        "adjective": ["strong", "thick", "coloured/​colored"],
-        "lens + noun": ["cap", "cover"],
-        "preposition": ["through a/​the lens"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a piece of equipment that is part of a camera, containing one or more lenses",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a camera with an adjustable lens"
-        },
-        {
-          "text": "a view of Mount Kilimanjaro as seen through Eddie's camera lens"
-        },
-        {
-          "text": "a **lens cap/cover**"
-        },
-        {
-          "text": "a long-lens shot of a rare bird"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a contact lens (= a small round piece of thin plastic that you put on your eye to help you see better)",
-      "labels": "(informal)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Have you got your lenses in?"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the clear part of the eye, behind the pupil, that focuses light so that you can see clearly",
-      "labels": "(anatomy)",
-      "cefr": "c1",
-      "examples": [],
-      "topics": ["Body"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/lenz/",
-        "audio": "le/lens/lens__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/lenz/",
-        "audio": "le/lens/lens__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 17th cent.: from Latin, ‘lentil’ (because of the similarity in shape)."
+	"term": "lens",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"image": "data/images/bi/binoculars_telescope.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a curved piece of glass or plastic that makes things look larger, smaller or clearer when you look through it",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a pair of glasses with tinted lenses"
+				},
+				{
+					"text": "Put your hand in front of your right lens and just look through your left lens."
+				},
+				{
+					"text": "She wears glasses with very thick lenses."
+				}
+			],
+			"collocations": {
+				"adjective": ["strong", "thick", "coloured/​colored"],
+				"lens + noun": ["cap", "cover"],
+				"preposition": ["through a/​the lens"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a piece of equipment that is part of a camera, containing one or more lenses",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a camera with an adjustable lens"
+				},
+				{
+					"text": "a view of Mount Kilimanjaro as seen through Eddie's camera lens"
+				},
+				{
+					"text": "a **lens cap/cover**"
+				},
+				{
+					"text": "a long-lens shot of a rare bird"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a contact lens (= a small round piece of thin plastic that you put on your eye to help you see better)",
+			"labels": "(informal)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Have you got your lenses in?"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the clear part of the eye, behind the pupil, that focuses light so that you can see clearly",
+			"labels": "(anatomy)",
+			"cefr": "c1",
+			"examples": [],
+			"topics": ["Body"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/lenz/",
+				"audio": "le/lens/lens__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/lenz/",
+				"audio": "le/lens/lens__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 17th cent.: from Latin, ‘lentil’ (because of the similarity in shape)."
 }

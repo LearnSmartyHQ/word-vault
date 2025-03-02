@@ -1,179 +1,179 @@
 {
-  "term": "engage",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "engage",
-      "heSheIt": "engages"
-    },
-    "pastSimple": "engaged",
-    "pastParticiple": "engaged",
-    "ingForm": "engaging"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to succeed in attracting and keeping somebody’s attention and interest",
-      "sensetop": "engage something/somebody",
-      "labels": "(formal)",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "It is a movie that engages both the mind and the eye."
-        },
-        {
-          "text": "Their pleas failed to engage any sympathy."
-        },
-        {
-          "text": "to engage the public/audience/viewer/reader"
-        },
-        {
-          "text": "It was difficult to engage the students at first."
-        },
-        {
-          "text": "The party is attempting to engage young voters politically."
-        }
-      ],
-      "collocations": {
-        "adverb": ["actively", "constructively", "openly"],
-        "verb + engage": ["fail to", "refuse to"],
-        "preposition": ["with"],
-        "verb + engage in": ["attempt to", "seek to", "try to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to employ a person, company, etc. to do a particular job",
-      "sensetop": "engage somebody/somethingengage somebody/something as somethingengage somebody/something to do something",
-      "labels": "(formal)",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She has already engaged a lawyer.",
-          "contextForm": "engage somebody/something"
-        },
-        {
-          "text": "We will have to engage the services of a translator."
-        },
-        {
-          "text": "He was immediately engaged as a consultant.",
-          "contextForm": "engage somebody/something as something"
-        },
-        {
-          "text": "Karl Böhm engaged her to sing in Vienna.",
-          "contextForm": "engage somebody/something to do something"
-        },
-        {
-          "text": "Some of the directors wanted to engage another firm."
-        },
-        {
-          "text": "They have engaged companies as subcontractors for the construction work"
-        },
-        {
-          "text": "The government engages charitable organizations to help in the distribution of food"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to become involved with and try to understand something/somebody",
-      "sensetop": "engage (with something/somebody)",
-      "examples": [
-        {
-          "text": "She has the ability to engage with young minds."
-        },
-        {
-          "text": "We acknowledge the need to engage directly with these problems."
-        },
-        {
-          "text": "Our contributors are actively engaging with tradition."
-        }
-      ],
-      "collocations": {
-        "adverb": ["actively", "constructively", "openly"],
-        "verb + engage": ["fail to", "refuse to"],
-        "preposition": ["with"],
-        "verb + engage in": ["attempt to", "seek to", "try to"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to begin fighting with somebody",
-      "sensetop": "engage somebodyengage with somebody",
-      "labels": "(formal)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "He ordered his men to engage the enemy.",
-          "contextForm": "engage somebody"
-        },
-        {
-          "text": "The fleet sailed out of Cadiz to engage with the enemy.",
-          "contextForm": "engage with somebody"
-        }
-      ],
-      "topics": ["War and conflict"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "when a part of a machine engages, or when you engage it, it fits together with another part of the machine and the machine begins to work",
-      "sensetop": "engage with somethingengage something",
-      "examples": [
-        {
-          "text": "The cogwheels are not engaging."
-        },
-        {
-          "text": "One cogwheel engages with the next.",
-          "contextForm": "engage with something"
-        },
-        {
-          "text": "Engage the clutch before selecting a gear.",
-          "contextForm": "engage something"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈɡeɪdʒ/",
-        "audio": "en/engage/engage__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈɡeɪdʒɪz/",
-        "audio": "en/engage/engages__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈɡeɪdʒd/",
-        "audio": "en/engage/engaged__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈɡeɪdʒɪŋ/",
-        "audio": "en/engage/engaging__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈɡeɪdʒ/",
-        "audio": "en/engage/engage__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈɡeɪdʒɪz/",
-        "audio": "en/engage/engages__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈɡeɪdʒd/",
-        "audio": "en/engage/engaged__us_4.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈɡeɪdʒɪŋ/",
-        "audio": "en/engage/engaging__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (formerly also as ingage): from French engager, ultimately from the base of gage, ‘a pledge or deposit offered as a guarantee’. The word originally meant ‘to pawn or pledge something’, later ‘pledge oneself (to do something)’, hence ‘enter into a contract’ (mid 16th cent.), ‘involve oneself in an activity’, ‘enter into combat’ (mid 17th cent.), giving rise to the notion ‘involve someone or something else’."
+	"term": "engage",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "engage",
+			"heSheIt": "engages"
+		},
+		"pastSimple": "engaged",
+		"pastParticiple": "engaged",
+		"ingForm": "engaging"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to succeed in attracting and keeping somebody’s attention and interest",
+			"sensetop": "engage something/somebody",
+			"labels": "(formal)",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "It is a movie that engages both the mind and the eye."
+				},
+				{
+					"text": "Their pleas failed to engage any sympathy."
+				},
+				{
+					"text": "to engage the public/audience/viewer/reader"
+				},
+				{
+					"text": "It was difficult to engage the students at first."
+				},
+				{
+					"text": "The party is attempting to engage young voters politically."
+				}
+			],
+			"collocations": {
+				"adverb": ["actively", "constructively", "openly"],
+				"verb + engage": ["fail to", "refuse to"],
+				"preposition": ["with"],
+				"verb + engage in": ["attempt to", "seek to", "try to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to employ a person, company, etc. to do a particular job",
+			"sensetop": "engage somebody/somethingengage somebody/something as somethingengage somebody/something to do something",
+			"labels": "(formal)",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She has already engaged a lawyer.",
+					"contextForm": "engage somebody/something"
+				},
+				{
+					"text": "We will have to engage the services of a translator."
+				},
+				{
+					"text": "He was immediately engaged as a consultant.",
+					"contextForm": "engage somebody/something as something"
+				},
+				{
+					"text": "Karl Böhm engaged her to sing in Vienna.",
+					"contextForm": "engage somebody/something to do something"
+				},
+				{
+					"text": "Some of the directors wanted to engage another firm."
+				},
+				{
+					"text": "They have engaged companies as subcontractors for the construction work"
+				},
+				{
+					"text": "The government engages charitable organizations to help in the distribution of food"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to become involved with and try to understand something/somebody",
+			"sensetop": "engage (with something/somebody)",
+			"examples": [
+				{
+					"text": "She has the ability to engage with young minds."
+				},
+				{
+					"text": "We acknowledge the need to engage directly with these problems."
+				},
+				{
+					"text": "Our contributors are actively engaging with tradition."
+				}
+			],
+			"collocations": {
+				"adverb": ["actively", "constructively", "openly"],
+				"verb + engage": ["fail to", "refuse to"],
+				"preposition": ["with"],
+				"verb + engage in": ["attempt to", "seek to", "try to"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to begin fighting with somebody",
+			"sensetop": "engage somebodyengage with somebody",
+			"labels": "(formal)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "He ordered his men to engage the enemy.",
+					"contextForm": "engage somebody"
+				},
+				{
+					"text": "The fleet sailed out of Cadiz to engage with the enemy.",
+					"contextForm": "engage with somebody"
+				}
+			],
+			"topics": ["War and conflict"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "when a part of a machine engages, or when you engage it, it fits together with another part of the machine and the machine begins to work",
+			"sensetop": "engage with somethingengage something",
+			"examples": [
+				{
+					"text": "The cogwheels are not engaging."
+				},
+				{
+					"text": "One cogwheel engages with the next.",
+					"contextForm": "engage with something"
+				},
+				{
+					"text": "Engage the clutch before selecting a gear.",
+					"contextForm": "engage something"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈɡeɪdʒ/",
+				"audio": "en/engage/engage__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈɡeɪdʒɪz/",
+				"audio": "en/engage/engages__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈɡeɪdʒd/",
+				"audio": "en/engage/engaged__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈɡeɪdʒɪŋ/",
+				"audio": "en/engage/engaging__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈɡeɪdʒ/",
+				"audio": "en/engage/engage__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈɡeɪdʒɪz/",
+				"audio": "en/engage/engages__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈɡeɪdʒd/",
+				"audio": "en/engage/engaged__us_4.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈɡeɪdʒɪŋ/",
+				"audio": "en/engage/engaging__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (formerly also as ingage): from French engager, ultimately from the base of gage, ‘a pledge or deposit offered as a guarantee’. The word originally meant ‘to pawn or pledge something’, later ‘pledge oneself (to do something)’, hence ‘enter into a contract’ (mid 16th cent.), ‘involve oneself in an activity’, ‘enter into combat’ (mid 17th cent.), giving rise to the notion ‘involve someone or something else’."
 }

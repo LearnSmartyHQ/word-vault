@@ -1,110 +1,110 @@
 {
-  "term": "village",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/co/countryside.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a very small town located in a country area",
-      "sensetop": "in a/the village",
-      "labels": "(especially British English)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "We visited **towns and villages** all over Spain."
-        },
-        {
-          "text": "a meeting in the **village hall**"
-        },
-        {
-          "text": "a **remote/nearby/neighbouring village**"
-        },
-        {
-          "text": "**Residents of the village** are unhappy with the bus service."
-        },
-        {
-          "text": "a **fishing village**"
-        },
-        {
-          "text": "a **small/tiny village**"
-        },
-        {
-          "text": "rural villages"
-        },
-        {
-          "text": "a mountain/seaside village"
-        },
-        {
-          "text": "I soon got to know everybody in the village.",
-          "contextForm": "in a/the village"
-        },
-        {
-          "text": "the village of Boscastle in Cornwall"
-        },
-        {
-          "text": "the village shop"
-        },
-        {
-          "text": "Her books are about **village life**."
-        },
-        {
-          "text": "Our cottage is just outside the village."
-        },
-        {
-          "text": "She married a man from her home village."
-        },
-        {
-          "text": "The flood affected the town and surrounding villages."
-        },
-        {
-          "text": "They live in a farming village."
-        },
-        {
-          "text": "Appledore is a fishing village on the north coast of Devon."
-        },
-        {
-          "text": "Most basic items are available from the village shop."
-        }
-      ],
-      "topics": ["Geography"],
-      "collocations": {
-        "adjective": ["big", "large", "little"],
-        "village + noun": ["community", "life", "church"],
-        "preposition": ["in a/​the village", "outside a/​the village"],
-        "phrases": [
-          "the centre/​center of the village",
-          "the middle of the village",
-          "the edge of the village"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the people who live in a village",
-      "labels": "(especially British English)",
-      "examples": [
-        {
-          "text": "The whole village was invited to the party."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈvɪlɪdʒ/",
-        "audio": "vi/village/village__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈvɪlɪdʒ/",
-        "audio": "vi/village/village__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French, from Latin villa ‘country house’."
+	"term": "village",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/co/countryside.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a very small town located in a country area",
+			"sensetop": "in a/the village",
+			"labels": "(especially British English)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "We visited **towns and villages** all over Spain."
+				},
+				{
+					"text": "a meeting in the **village hall**"
+				},
+				{
+					"text": "a **remote/nearby/neighbouring village**"
+				},
+				{
+					"text": "**Residents of the village** are unhappy with the bus service."
+				},
+				{
+					"text": "a **fishing village**"
+				},
+				{
+					"text": "a **small/tiny village**"
+				},
+				{
+					"text": "rural villages"
+				},
+				{
+					"text": "a mountain/seaside village"
+				},
+				{
+					"text": "I soon got to know everybody in the village.",
+					"contextForm": "in a/the village"
+				},
+				{
+					"text": "the village of Boscastle in Cornwall"
+				},
+				{
+					"text": "the village shop"
+				},
+				{
+					"text": "Her books are about **village life**."
+				},
+				{
+					"text": "Our cottage is just outside the village."
+				},
+				{
+					"text": "She married a man from her home village."
+				},
+				{
+					"text": "The flood affected the town and surrounding villages."
+				},
+				{
+					"text": "They live in a farming village."
+				},
+				{
+					"text": "Appledore is a fishing village on the north coast of Devon."
+				},
+				{
+					"text": "Most basic items are available from the village shop."
+				}
+			],
+			"topics": ["Geography"],
+			"collocations": {
+				"adjective": ["big", "large", "little"],
+				"village + noun": ["community", "life", "church"],
+				"preposition": ["in a/​the village", "outside a/​the village"],
+				"phrases": [
+					"the centre/​center of the village",
+					"the middle of the village",
+					"the edge of the village"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the people who live in a village",
+			"labels": "(especially British English)",
+			"examples": [
+				{
+					"text": "The whole village was invited to the party."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈvɪlɪdʒ/",
+				"audio": "vi/village/village__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈvɪlɪdʒ/",
+				"audio": "vi/village/village__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French, from Latin villa ‘country house’."
 }

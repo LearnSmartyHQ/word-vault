@@ -1,98 +1,98 @@
 {
-  "term": "shall",
-  "partOfSpeech": "modal verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "",
-      "heSheIt": ""
-    },
-    "pastSimple": "should",
-    "pastParticiple": "",
-    "ingForm": ""
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "used with I and we for talking about or predicting the future",
-      "labels": "(becoming old-fashioned)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "This time next week I shall be in Scotland."
-        },
-        {
-          "text": "We shan't be gone long."
-        },
-        {
-          "text": "I said that I should be pleased to help."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "used in questions with I and we for making offers or suggestions or asking advice",
-      "labels": "North American EnglishBritish English(British English or formal, North American English)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Shall I send you the book?"
-        },
-        {
-          "text": "What shall we do this weekend?"
-        },
-        {
-          "text": "Let's look at it again, shall we?"
-        }
-      ],
-      "topics": ["Suggestions and advice"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "used to show that you are determined, or to give an order or instruction",
-      "labels": "(old-fashioned or formal)",
-      "examples": [
-        {
-          "text": "He is determined that you shall succeed."
-        },
-        {
-          "text": "Candidates shall remain in their seats until all the papers have been collected."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ʃəl//ʃæl/",
-        "audio": "sh/shall/shall__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ʃɑːnt/",
-        "audio": "sh/shall/shan_t_1_gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ʃʊd/",
-        "audio": "sh/shall/should__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ʃəl//ʃæl/",
-        "audio": "sh/shall/shall__us_1_rr.mp3"
-      },
-      {
-        "pronunciation": "/ʃænt/",
-        "audio": "sh/shall/shan_t_1_us_1.mp3"
-      },
-      {
-        "pronunciation": "/ʃʊd/",
-        "audio": "sh/shall/should__us_3_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English sceal, of Germanic origin; related to Dutch zal and German soll, from a base meaning ‘owe’."
+	"term": "shall",
+	"partOfSpeech": "modal verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "",
+			"heSheIt": ""
+		},
+		"pastSimple": "should",
+		"pastParticiple": "",
+		"ingForm": ""
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "used with I and we for talking about or predicting the future",
+			"labels": "(becoming old-fashioned)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "This time next week I shall be in Scotland."
+				},
+				{
+					"text": "We shan't be gone long."
+				},
+				{
+					"text": "I said that I should be pleased to help."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "used in questions with I and we for making offers or suggestions or asking advice",
+			"labels": "North American EnglishBritish English(British English or formal, North American English)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Shall I send you the book?"
+				},
+				{
+					"text": "What shall we do this weekend?"
+				},
+				{
+					"text": "Let's look at it again, shall we?"
+				}
+			],
+			"topics": ["Suggestions and advice"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "used to show that you are determined, or to give an order or instruction",
+			"labels": "(old-fashioned or formal)",
+			"examples": [
+				{
+					"text": "He is determined that you shall succeed."
+				},
+				{
+					"text": "Candidates shall remain in their seats until all the papers have been collected."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ʃəl//ʃæl/",
+				"audio": "sh/shall/shall__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ʃɑːnt/",
+				"audio": "sh/shall/shan_t_1_gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ʃʊd/",
+				"audio": "sh/shall/should__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ʃəl//ʃæl/",
+				"audio": "sh/shall/shall__us_1_rr.mp3"
+			},
+			{
+				"pronunciation": "/ʃænt/",
+				"audio": "sh/shall/shan_t_1_us_1.mp3"
+			},
+			{
+				"pronunciation": "/ʃʊd/",
+				"audio": "sh/shall/should__us_3_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English sceal, of Germanic origin; related to Dutch zal and German soll, from a base meaning ‘owe’."
 }

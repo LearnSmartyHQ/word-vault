@@ -1,100 +1,100 @@
 {
-  "term": "simulate",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "simulate",
-      "heSheIt": "simulates"
-    },
-    "pastSimple": "simulated",
-    "pastParticiple": "simulated",
-    "ingForm": "simulating"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to create particular conditions that exist in real life using computers, models, etc., usually for study or training purposes",
-      "sensetop": "simulate something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Computer software can be used to simulate conditions on the seabed."
-        },
-        {
-          "text": "Role-playing is a useful way of simulating real-life situations."
-        },
-        {
-          "text": "The device simulates conditions in space quite closely."
-        }
-      ],
-      "collocations": {
-        "adverb": ["accurately", "closely"],
-        "verb + simulate": ["be designed to", "be used to", "try to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to be made to look like something else",
-      "sensetop": "simulate something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a gas heater that simulates a coal fire"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to pretend that you have a particular feeling",
-      "sensetop": "simulate something",
-      "examples": [
-        {
-          "text": "I tried to simulate surprise at the news."
-        }
-      ],
-      "synonyms": "feign"
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsɪmjuleɪt/",
-        "audio": "si/simulate/simulate__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsɪmjuleɪts/",
-        "audio": "si/simulate/simulates__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsɪmjuleɪtɪd/",
-        "audio": "si/simulate/simulated__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsɪmjuleɪtɪŋ/",
-        "audio": "si/simulate/simulating__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsɪmjuleɪt/",
-        "audio": "si/simulate/simulate__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsɪmjuleɪts/",
-        "audio": "si/simulate/simulates__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsɪmjuleɪtɪd/",
-        "audio": "si/simulate/simulated__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsɪmjuleɪtɪŋ/",
-        "audio": "si/simulate/simulating__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 17th cent. (earlier (Middle English) as simulation): from Latin simulat- ‘copied, represented’, from the verb simulare, from similis ‘like’."
+	"term": "simulate",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "simulate",
+			"heSheIt": "simulates"
+		},
+		"pastSimple": "simulated",
+		"pastParticiple": "simulated",
+		"ingForm": "simulating"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to create particular conditions that exist in real life using computers, models, etc., usually for study or training purposes",
+			"sensetop": "simulate something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Computer software can be used to simulate conditions on the seabed."
+				},
+				{
+					"text": "Role-playing is a useful way of simulating real-life situations."
+				},
+				{
+					"text": "The device simulates conditions in space quite closely."
+				}
+			],
+			"collocations": {
+				"adverb": ["accurately", "closely"],
+				"verb + simulate": ["be designed to", "be used to", "try to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to be made to look like something else",
+			"sensetop": "simulate something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a gas heater that simulates a coal fire"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to pretend that you have a particular feeling",
+			"sensetop": "simulate something",
+			"examples": [
+				{
+					"text": "I tried to simulate surprise at the news."
+				}
+			],
+			"synonyms": "feign"
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsɪmjuleɪt/",
+				"audio": "si/simulate/simulate__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsɪmjuleɪts/",
+				"audio": "si/simulate/simulates__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsɪmjuleɪtɪd/",
+				"audio": "si/simulate/simulated__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsɪmjuleɪtɪŋ/",
+				"audio": "si/simulate/simulating__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsɪmjuleɪt/",
+				"audio": "si/simulate/simulate__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsɪmjuleɪts/",
+				"audio": "si/simulate/simulates__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsɪmjuleɪtɪd/",
+				"audio": "si/simulate/simulated__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsɪmjuleɪtɪŋ/",
+				"audio": "si/simulate/simulating__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 17th cent. (earlier (Middle English) as simulation): from Latin simulat- ‘copied, represented’, from the verb simulare, from similis ‘like’."
 }

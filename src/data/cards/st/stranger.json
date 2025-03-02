@@ -1,110 +1,110 @@
 {
-  "term": "stranger",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person that you do not know",
-      "sensetop": "stranger to somebody",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "There was a **complete stranger** sitting at my desk."
-        },
-        {
-          "text": "They got on well together although they were **total strangers**."
-        },
-        {
-          "text": "Why should a perfect *(= complete)* stranger ever help me out?"
-        },
-        {
-          "text": "We've told our daughter not to speak to strangers."
-        },
-        {
-          "text": "She remained a stranger to me.",
-          "contextForm": "stranger to somebody"
-        },
-        {
-          "text": "He was a complete stranger to me."
-        },
-        {
-          "text": "His years abroad had made him almost a stranger with his family."
-        },
-        {
-          "text": "She said that I would meet a mysterious stranger."
-        },
-        {
-          "text": "He was tired of being accosted by strangers in the street."
-        }
-      ],
-      "collocations": {
-        "adjective": ["complete", "perfect", "total"],
-        "preposition": ["stranger to"],
-        "phrases": [
-          "a stranger here",
-          "a stranger in these parts",
-          "a stranger to these parts"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person who is in a place that they have not been in before",
-      "sensetop": "stranger to…",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Sorry, I don't know where the bank is. I'm a stranger here myself."
-        },
-        {
-          "text": "He must have been a stranger to the town.",
-          "contextForm": "stranger to…"
-        },
-        {
-          "text": "You're a stranger here, aren't you?"
-        },
-        {
-          "text": "She was a stranger to the place."
-        }
-      ],
-      "collocations": {
-        "adjective": ["complete", "perfect", "total"],
-        "preposition": ["stranger to"],
-        "phrases": [
-          "a stranger here",
-          "a stranger in these parts",
-          "a stranger to these parts"
-        ]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be familiar/not familiar with something because you have/have not experienced it many times before",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "He is no stranger to controversy."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈstreɪndʒə(r)/",
-        "audio": "st/stranger/stranger__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈstreɪndʒər/",
-        "audio": "st/stranger/stranger__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: shortening of Old French estrangier, from Latin extraneus ‘external, strange’."
+	"term": "stranger",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person that you do not know",
+			"sensetop": "stranger to somebody",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "There was a **complete stranger** sitting at my desk."
+				},
+				{
+					"text": "They got on well together although they were **total strangers**."
+				},
+				{
+					"text": "Why should a perfect *(= complete)* stranger ever help me out?"
+				},
+				{
+					"text": "We've told our daughter not to speak to strangers."
+				},
+				{
+					"text": "She remained a stranger to me.",
+					"contextForm": "stranger to somebody"
+				},
+				{
+					"text": "He was a complete stranger to me."
+				},
+				{
+					"text": "His years abroad had made him almost a stranger with his family."
+				},
+				{
+					"text": "She said that I would meet a mysterious stranger."
+				},
+				{
+					"text": "He was tired of being accosted by strangers in the street."
+				}
+			],
+			"collocations": {
+				"adjective": ["complete", "perfect", "total"],
+				"preposition": ["stranger to"],
+				"phrases": [
+					"a stranger here",
+					"a stranger in these parts",
+					"a stranger to these parts"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person who is in a place that they have not been in before",
+			"sensetop": "stranger to…",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Sorry, I don't know where the bank is. I'm a stranger here myself."
+				},
+				{
+					"text": "He must have been a stranger to the town.",
+					"contextForm": "stranger to…"
+				},
+				{
+					"text": "You're a stranger here, aren't you?"
+				},
+				{
+					"text": "She was a stranger to the place."
+				}
+			],
+			"collocations": {
+				"adjective": ["complete", "perfect", "total"],
+				"preposition": ["stranger to"],
+				"phrases": [
+					"a stranger here",
+					"a stranger in these parts",
+					"a stranger to these parts"
+				]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be familiar/not familiar with something because you have/have not experienced it many times before",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "He is no stranger to controversy."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈstreɪndʒə(r)/",
+				"audio": "st/stranger/stranger__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈstreɪndʒər/",
+				"audio": "st/stranger/stranger__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: shortening of Old French estrangier, from Latin extraneus ‘external, strange’."
 }

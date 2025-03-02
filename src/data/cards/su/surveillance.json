@@ -1,52 +1,52 @@
 {
-  "term": "surveillance",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "the act of carefully watching a person suspected of a crime or a place where a crime may be committed",
-      "examples": [
-        {
-          "text": "The police are keeping the suspects **under** constant **surveillance**."
-        },
-        {
-          "text": "**surveillance cameras/equipment**"
-        },
-        {
-          "text": "The suspects are under police surveillance."
-        },
-        {
-          "text": "The images were covertly captured on surveillance tape."
-        }
-      ],
-      "synonyms": "observation",
-      "topics": ["War and conflict", "Crime and punishment"],
-      "collocations": {
-        "adjective": ["close", "constant", "regular"],
-        "verb + surveillance": [
-          "be under",
-          "keep somebody/​something under",
-          "place somebody/​something under"
-        ],
-        "surveillance + noun": ["camera", "device", "equipment"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/sɜːˈveɪləns/",
-        "audio": "su/surveillance/surveillance__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/sɜːrˈveɪləns/",
-        "audio": "su/surveillance/surveillance__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 19th cent.: from French, from sur- ‘over’ + veiller ‘watch’ (from Latin vigilare ‘keep watch’)."
+	"term": "surveillance",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "the act of carefully watching a person suspected of a crime or a place where a crime may be committed",
+			"examples": [
+				{
+					"text": "The police are keeping the suspects **under** constant **surveillance**."
+				},
+				{
+					"text": "**surveillance cameras/equipment**"
+				},
+				{
+					"text": "The suspects are under police surveillance."
+				},
+				{
+					"text": "The images were covertly captured on surveillance tape."
+				}
+			],
+			"synonyms": "observation",
+			"topics": ["War and conflict", "Crime and punishment"],
+			"collocations": {
+				"adjective": ["close", "constant", "regular"],
+				"verb + surveillance": [
+					"be under",
+					"keep somebody/​something under",
+					"place somebody/​something under"
+				],
+				"surveillance + noun": ["camera", "device", "equipment"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/sɜːˈveɪləns/",
+				"audio": "su/surveillance/surveillance__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/sɜːrˈveɪləns/",
+				"audio": "su/surveillance/surveillance__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 19th cent.: from French, from sur- ‘over’ + veiller ‘watch’ (from Latin vigilare ‘keep watch’)."
 }

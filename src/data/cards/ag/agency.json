@@ -1,79 +1,79 @@
 {
-  "term": "agency",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a business or an organization that provides a particular service especially when representing other businesses or organizations",
-      "sensetop": "through an agency",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She works for an **advertising agency**."
-        },
-        {
-          "text": "He managed to find a job through an agency.",
-          "contextForm": "through an agency"
-        },
-        {
-          "text": "I've signed up with a temping agency."
-        },
-        {
-          "text": "Details of the problem will be logged by the Help Desk staff who will then contact the appropriate agency."
-        }
-      ],
-      "topics": ["Business"],
-      "collocations": {
-        "adjective": ["official", "federal", "government"],
-        "preposition": ["through an/​the agency"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a government department that provides a particular service",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**law enforcement agencies**"
-        },
-        {
-          "text": "Some laboratories are operated by **government agencies**."
-        }
-      ],
-      "topics": ["Politics"],
-      "collocations": {
-        "adjective": ["official", "federal", "government"],
-        "preposition": ["through an/​the agency"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "as a result of the action of somebody/something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "He obtained his position through the agency of an old friend."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈeɪdʒənsi/",
-        "audio": "ag/agency/agency__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈeɪdʒənsi/",
-        "audio": "ag/agency/agency__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 17th cent.: from medieval Latin agentia, from agent- ‘doing’, from agere."
+	"term": "agency",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a business or an organization that provides a particular service especially when representing other businesses or organizations",
+			"sensetop": "through an agency",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She works for an **advertising agency**."
+				},
+				{
+					"text": "He managed to find a job through an agency.",
+					"contextForm": "through an agency"
+				},
+				{
+					"text": "I've signed up with a temping agency."
+				},
+				{
+					"text": "Details of the problem will be logged by the Help Desk staff who will then contact the appropriate agency."
+				}
+			],
+			"topics": ["Business"],
+			"collocations": {
+				"adjective": ["official", "federal", "government"],
+				"preposition": ["through an/​the agency"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a government department that provides a particular service",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**law enforcement agencies**"
+				},
+				{
+					"text": "Some laboratories are operated by **government agencies**."
+				}
+			],
+			"topics": ["Politics"],
+			"collocations": {
+				"adjective": ["official", "federal", "government"],
+				"preposition": ["through an/​the agency"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "as a result of the action of somebody/something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "He obtained his position through the agency of an old friend."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈeɪdʒənsi/",
+				"audio": "ag/agency/agency__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈeɪdʒənsi/",
+				"audio": "ag/agency/agency__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 17th cent.: from medieval Latin agentia, from agent- ‘doing’, from agere."
 }

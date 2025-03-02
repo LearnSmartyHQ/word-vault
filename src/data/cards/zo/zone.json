@@ -1,187 +1,179 @@
 {
-  "term": "zone",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an area or a region with a particular feature or use",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **war/combat/demilitarized/exclusion zone**"
-        },
-        {
-          "text": "a **danger zone**"
-        },
-        {
-          "text": "a **pedestrian zone** *(= where vehicles may not go)*"
-        },
-        {
-          "text": "They have called for a 100-mile **buffer zone** *(= protected area)* around the island to protect the seals."
-        },
-        {
-          "text": "an earthquake zone"
-        },
-        {
-          "text": "Europe is divided into economic zones."
-        },
-        {
-          "text": "Most of the old town is a traffic-free zone."
-        },
-        {
-          "text": "Our truck was trapped in the kill zone."
-        },
-        {
-          "text": "She stood some distance away from him to maintain a safety zone."
-        },
-        {
-          "text": "The internet has become a free-fire zone for conspiracy theories."
-        },
-        {
-          "text": "The area has been declared a closed military zone."
-        },
-        {
-          "text": "The rebels control the southern border zone."
-        },
-        {
-          "text": "The region has been declared an ecological disaster zone."
-        },
-        {
-          "text": "This area behind the station is a no-go zone for tourists."
-        },
-        {
-          "text": "an industrial zone of factories, warehouses and shipyards"
-        },
-        {
-          "text": "an oxygen-depleted dead zone at the bottom of the sea"
-        },
-        {
-          "text": "the neutral zone between the two countries"
-        },
-        {
-          "text": "Half a million people were made homeless throughout the earthquake zone."
-        },
-        {
-          "text": "The agreement provided for a security zone of 80km on both sides of the border."
-        },
-        {
-          "text": "The main part of the city centre is a pedestrian zone."
-        }
-      ],
-      "collocations": {
-        "adjective": ["narrow", "wide", "marginal"],
-        "verb + zone": ["control", "patrol", "create"],
-        "preposition": [
-          "in a/​the zone",
-          "within a/​the zone",
-          "into a/​the zone"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "one of the areas that a larger area is divided into for the purpose of organization",
-      "examples": [
-        {
-          "text": "postal charges to countries in zone 2"
-        },
-        {
-          "text": "All countries in zones 1 and 2 have free incoming calls."
-        },
-        {
-          "text": "The ticket may be used on any bus in zone 2."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "an area or a part of an object, especially one that is different from everything that is around it",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "When the needle enters the red zone the engine is too hot."
-        },
-        {
-          "text": "the erogenous zones of the body"
-        }
-      ],
-      "topics": ["Geography"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "one of the parts that the earth’s surface is divided into by imaginary lines that are parallel to the equator",
-      "examples": [
-        {
-          "text": "the northern/southern temperate zone"
-        },
-        {
-          "text": "This species is found widely distributed throughout the northern temperate zone."
-        },
-        {
-          "text": "the alpine and arid zones of Australia"
-        },
-        {
-          "text": "The plant grows only in the temperate zone."
-        },
-        {
-          "text": "the temperate and tropical zones of South America"
-        }
-      ],
-      "collocations": {
-        "adjective": ["narrow", "wide", "marginal"],
-        "verb + zone": ["control", "patrol", "create"],
-        "preposition": [
-          "in a/​the zone",
-          "within a/​the zone",
-          "into a/​the zone"
-        ]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "in a state in which you feel confident and are performing at your best",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "When I'm in the zone, writing is the most satisfying thing in the world."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "a state in which things are strange, mysterious or secret; a state that exists on the dividing line between two things",
-      "examples": [
-        {
-          "text": "the twilight world of the occult"
-        },
-        {
-          "text": "The dissidents lived in a twilight world of hushed voices and secret meetings."
-        },
-        {
-          "text": "the twilight zone between living and merely existing"
-        },
-        {
-          "text": "They lived in the twilight zone on the fringes of society."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/zəʊn/",
-        "audio": "zo/zone/zone__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/zəʊn/",
-        "audio": "zo/zone/zone__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from French, or from Latin zona ‘girdle’, from Greek zōnē."
+	"term": "zone",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an area or a region with a particular feature or use",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **war/combat/demilitarized/exclusion zone**"
+				},
+				{
+					"text": "a **danger zone**"
+				},
+				{
+					"text": "a **pedestrian zone** *(= where vehicles may not go)*"
+				},
+				{
+					"text": "They have called for a 100-mile **buffer zone** *(= protected area)* around the island to protect the seals."
+				},
+				{
+					"text": "an earthquake zone"
+				},
+				{
+					"text": "Europe is divided into economic zones."
+				},
+				{
+					"text": "Most of the old town is a traffic-free zone."
+				},
+				{
+					"text": "Our truck was trapped in the kill zone."
+				},
+				{
+					"text": "She stood some distance away from him to maintain a safety zone."
+				},
+				{
+					"text": "The internet has become a free-fire zone for conspiracy theories."
+				},
+				{
+					"text": "The area has been declared a closed military zone."
+				},
+				{
+					"text": "The rebels control the southern border zone."
+				},
+				{
+					"text": "The region has been declared an ecological disaster zone."
+				},
+				{
+					"text": "This area behind the station is a no-go zone for tourists."
+				},
+				{
+					"text": "an industrial zone of factories, warehouses and shipyards"
+				},
+				{
+					"text": "an oxygen-depleted dead zone at the bottom of the sea"
+				},
+				{
+					"text": "the neutral zone between the two countries"
+				},
+				{
+					"text": "Half a million people were made homeless throughout the earthquake zone."
+				},
+				{
+					"text": "The agreement provided for a security zone of 80km on both sides of the border."
+				},
+				{
+					"text": "The main part of the city centre is a pedestrian zone."
+				}
+			],
+			"collocations": {
+				"adjective": ["narrow", "wide", "marginal"],
+				"verb + zone": ["control", "patrol", "create"],
+				"preposition": ["in a/​the zone", "within a/​the zone", "into a/​the zone"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "one of the areas that a larger area is divided into for the purpose of organization",
+			"examples": [
+				{
+					"text": "postal charges to countries in zone 2"
+				},
+				{
+					"text": "All countries in zones 1 and 2 have free incoming calls."
+				},
+				{
+					"text": "The ticket may be used on any bus in zone 2."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "an area or a part of an object, especially one that is different from everything that is around it",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "When the needle enters the red zone the engine is too hot."
+				},
+				{
+					"text": "the erogenous zones of the body"
+				}
+			],
+			"topics": ["Geography"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "one of the parts that the earth’s surface is divided into by imaginary lines that are parallel to the equator",
+			"examples": [
+				{
+					"text": "the northern/southern temperate zone"
+				},
+				{
+					"text": "This species is found widely distributed throughout the northern temperate zone."
+				},
+				{
+					"text": "the alpine and arid zones of Australia"
+				},
+				{
+					"text": "The plant grows only in the temperate zone."
+				},
+				{
+					"text": "the temperate and tropical zones of South America"
+				}
+			],
+			"collocations": {
+				"adjective": ["narrow", "wide", "marginal"],
+				"verb + zone": ["control", "patrol", "create"],
+				"preposition": ["in a/​the zone", "within a/​the zone", "into a/​the zone"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "in a state in which you feel confident and are performing at your best",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "When I'm in the zone, writing is the most satisfying thing in the world."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "a state in which things are strange, mysterious or secret; a state that exists on the dividing line between two things",
+			"examples": [
+				{
+					"text": "the twilight world of the occult"
+				},
+				{
+					"text": "The dissidents lived in a twilight world of hushed voices and secret meetings."
+				},
+				{
+					"text": "the twilight zone between living and merely existing"
+				},
+				{
+					"text": "They lived in the twilight zone on the fringes of society."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/zəʊn/",
+				"audio": "zo/zone/zone__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/zəʊn/",
+				"audio": "zo/zone/zone__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from French, or from Latin zona ‘girdle’, from Greek zōnē."
 }

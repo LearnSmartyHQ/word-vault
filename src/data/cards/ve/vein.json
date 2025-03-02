@@ -1,131 +1,131 @@
 {
-  "term": "vein",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "any of the tubes that carry blood from all parts of the body towards the heart",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the jugular vein"
-        },
-        {
-          "text": "The nurse was having trouble finding a vein in his arm."
-        },
-        {
-          "text": "He felt the adrenalin coursing through his veins."
-        },
-        {
-          "text": "The philosopher Seneca opened his veins in his bath."
-        },
-        {
-          "text": "The veins stood out on her throat and temples."
-        },
-        {
-          "text": "There's a drop of Irish blood in her veins."
-        }
-      ],
-      "topics": ["Body"],
-      "collocations": {
-        "adjective": ["blue", "broken", "spider"],
-        "verb + vein": ["course through", "flow through", "pump through"],
-        "vein + verb": ["pulse", "throb", "bulge"],
-        "phrases": ["… blood in somebody’s veins"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "any of the very thin tubes that form the frame of a leaf or an insect’s wing",
-      "examples": []
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a narrow area of a different colour in some types of stone, wood and cheese",
-      "examples": []
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a thin layer of minerals or metal contained in rock",
-      "examples": [
-        {
-          "text": "a vein of gold"
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "an amount of a particular quality or feature in something",
-      "sensetop": "vein (of something)",
-      "examples": [
-        {
-          "text": "They had tapped a rich vein of information in his secretary."
-        },
-        {
-          "text": "There was a vein of proverbial wisdom in what he said."
-        },
-        {
-          "text": "The writer tapped into a rich vein of humour in the play."
-        },
-        {
-          "text": "The team have hit a rich vein of form recently."
-        }
-      ],
-      "collocations": {
-        "adjective": ["rich"],
-        "verb + vein": ["hit", "strike", "mine"],
-        "preposition": ["vein of"],
-        "phrases": [
-          "in a different vein",
-          "in a lighter vein",
-          "in a more serious vein"
-        ]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "a particular style or manner",
-      "examples": [
-        {
-          "text": "A number of other people commented **in a similar vein**."
-        },
-        {
-          "text": "‘And that's not all,’ he continued in angry vein."
-        },
-        {
-          "text": "Other speakers tackled the same problem in a lighter vein."
-        },
-        {
-          "text": "Fortunately, the rest of the evening continued in a lighter vein."
-        }
-      ],
-      "collocations": {
-        "adjective": ["rich"],
-        "verb + vein": ["hit", "strike", "mine"],
-        "preposition": ["vein of"],
-        "phrases": [
-          "in a different vein",
-          "in a lighter vein",
-          "in a more serious vein"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/veɪn/",
-        "audio": "ve/vein/vein__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/veɪn/",
-        "audio": "ve/vein/vein__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French veine, from Latin vena. The earliest senses were ‘blood vessel’ and ‘small natural underground channel of water’."
+	"term": "vein",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "any of the tubes that carry blood from all parts of the body towards the heart",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the jugular vein"
+				},
+				{
+					"text": "The nurse was having trouble finding a vein in his arm."
+				},
+				{
+					"text": "He felt the adrenalin coursing through his veins."
+				},
+				{
+					"text": "The philosopher Seneca opened his veins in his bath."
+				},
+				{
+					"text": "The veins stood out on her throat and temples."
+				},
+				{
+					"text": "There's a drop of Irish blood in her veins."
+				}
+			],
+			"topics": ["Body"],
+			"collocations": {
+				"adjective": ["blue", "broken", "spider"],
+				"verb + vein": ["course through", "flow through", "pump through"],
+				"vein + verb": ["pulse", "throb", "bulge"],
+				"phrases": ["… blood in somebody’s veins"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "any of the very thin tubes that form the frame of a leaf or an insect’s wing",
+			"examples": []
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a narrow area of a different colour in some types of stone, wood and cheese",
+			"examples": []
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a thin layer of minerals or metal contained in rock",
+			"examples": [
+				{
+					"text": "a vein of gold"
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "an amount of a particular quality or feature in something",
+			"sensetop": "vein (of something)",
+			"examples": [
+				{
+					"text": "They had tapped a rich vein of information in his secretary."
+				},
+				{
+					"text": "There was a vein of proverbial wisdom in what he said."
+				},
+				{
+					"text": "The writer tapped into a rich vein of humour in the play."
+				},
+				{
+					"text": "The team have hit a rich vein of form recently."
+				}
+			],
+			"collocations": {
+				"adjective": ["rich"],
+				"verb + vein": ["hit", "strike", "mine"],
+				"preposition": ["vein of"],
+				"phrases": [
+					"in a different vein",
+					"in a lighter vein",
+					"in a more serious vein"
+				]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "a particular style or manner",
+			"examples": [
+				{
+					"text": "A number of other people commented **in a similar vein**."
+				},
+				{
+					"text": "‘And that's not all,’ he continued in angry vein."
+				},
+				{
+					"text": "Other speakers tackled the same problem in a lighter vein."
+				},
+				{
+					"text": "Fortunately, the rest of the evening continued in a lighter vein."
+				}
+			],
+			"collocations": {
+				"adjective": ["rich"],
+				"verb + vein": ["hit", "strike", "mine"],
+				"preposition": ["vein of"],
+				"phrases": [
+					"in a different vein",
+					"in a lighter vein",
+					"in a more serious vein"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/veɪn/",
+				"audio": "ve/vein/vein__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/veɪn/",
+				"audio": "ve/vein/vein__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French veine, from Latin vena. The earliest senses were ‘blood vessel’ and ‘small natural underground channel of water’."
 }

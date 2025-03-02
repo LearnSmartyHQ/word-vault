@@ -1,74 +1,74 @@
 {
-  "term": "questionnaire",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a written list of questions that are answered by a number of people so that information can be collected from the answers",
-      "sensetop": "questionnaire on/about something",
-      "labels": "(British English)(especially North American English)",
-      "examples": [
-        {
-          "text": "to fill in a questionnaire"
-        },
-        {
-          "text": "to fill out a questionnaire"
-        },
-        {
-          "text": "Local companies were asked to complete a questionnaire about their exports.",
-          "contextForm": "questionnaire on/about something"
-        },
-        {
-          "text": "Most of the people who responded to the questionnaire were supportive."
-        },
-        {
-          "text": "The college is now analysing thousands of questionnaires."
-        },
-        {
-          "text": "Companies were sent a questionnaire on their environmental practices."
-        },
-        {
-          "text": "Completed questionnaires should be returned by the end of the month."
-        },
-        {
-          "text": "The questionnaire was about the different countries we had visited."
-        },
-        {
-          "text": "The survey was conducted by questionnaire."
-        },
-        {
-          "text": "There followed a multiple-choice questionnaire."
-        },
-        {
-          "text": "We drew up a questionnaire for health professionals."
-        }
-      ],
-      "collocations": {
-        "adjective": ["brief", "short", "simple"],
-        "verb + questionnaire": ["design", "develop", "prepare"],
-        "preposition": [
-          "questionnaire about",
-          "questionnaire concerning",
-          "questionnaire on"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌkwestʃəˈneə(r)/",
-        "audio": "qu/questionnaire/questionnaire__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌkwestʃəˈner/",
-        "audio": "qu/questionnaire/questionnaire__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 19th cent.: from French, from questionner ‘to question’."
+	"term": "questionnaire",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a written list of questions that are answered by a number of people so that information can be collected from the answers",
+			"sensetop": "questionnaire on/about something",
+			"labels": "(British English)(especially North American English)",
+			"examples": [
+				{
+					"text": "to fill in a questionnaire"
+				},
+				{
+					"text": "to fill out a questionnaire"
+				},
+				{
+					"text": "Local companies were asked to complete a questionnaire about their exports.",
+					"contextForm": "questionnaire on/about something"
+				},
+				{
+					"text": "Most of the people who responded to the questionnaire were supportive."
+				},
+				{
+					"text": "The college is now analysing thousands of questionnaires."
+				},
+				{
+					"text": "Companies were sent a questionnaire on their environmental practices."
+				},
+				{
+					"text": "Completed questionnaires should be returned by the end of the month."
+				},
+				{
+					"text": "The questionnaire was about the different countries we had visited."
+				},
+				{
+					"text": "The survey was conducted by questionnaire."
+				},
+				{
+					"text": "There followed a multiple-choice questionnaire."
+				},
+				{
+					"text": "We drew up a questionnaire for health professionals."
+				}
+			],
+			"collocations": {
+				"adjective": ["brief", "short", "simple"],
+				"verb + questionnaire": ["design", "develop", "prepare"],
+				"preposition": [
+					"questionnaire about",
+					"questionnaire concerning",
+					"questionnaire on"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌkwestʃəˈneə(r)/",
+				"audio": "qu/questionnaire/questionnaire__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌkwestʃəˈner/",
+				"audio": "qu/questionnaire/questionnaire__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 19th cent.: from French, from questionner ‘to question’."
 }

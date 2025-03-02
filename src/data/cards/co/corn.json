@@ -1,102 +1,102 @@
 {
-  "term": "corn",
-  "partOfSpeech": "noun",
-  "image": "data/images/ce/cereals.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "any plant that is grown for its grain, such as wheat; the grain of these plants",
-      "labels": "(British English)(North American English)",
-      "cefr": "b1",
-      "examples": [
-        {
-          "text": "a field of corn"
-        },
-        {
-          "text": "**ears/sheaves of corn**"
-        },
-        {
-          "text": "The corn is still green."
-        },
-        {
-          "text": "a field of standing corn"
-        }
-      ],
-      "topics": ["Farming"],
-      "collocations": {
-        "adjective": ["ripe", "green", "young"],
-        "… of corn": ["ear", "sheaf", "bag"],
-        "verb + corn": ["grow", "sow", "cut"],
-        "corn + verb": ["grow"],
-        "corn + noun": ["field", "harvest", "mill"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a tall plant grown for its large yellow grains that are used for making flour or eaten as a vegetable; the grains of this plant",
-      "labels": "(North American English)British English",
-      "cefr": "b1",
-      "examples": [
-        {
-          "text": "The major crops are wheat, barley and corn."
-        }
-      ],
-      "topics": ["Farming", "Food"],
-      "collocations": {
-        "adjective": ["field", "Indian", "sweet"],
-        "… of corn": ["ear", "bushel", "field"],
-        "verb + corn": ["plant", "grow", "produce"],
-        "corn + verb": ["grow"],
-        "corn + noun": ["field", "crop", "harvest"],
-        "phrases": ["corn on the cob"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the yellow seeds of a type of corn (maize) plant, also called corn, which grow on thick stems and are cooked and eaten as a vegetable",
-      "labels": "(North American English)British English",
-      "cefr": "b1",
-      "examples": [
-        {
-          "text": "fresh corn and arugula salad"
-        }
-      ],
-      "topics": ["Food"],
-      "collocations": {
-        "adjective": ["field", "Indian", "sweet"],
-        "… of corn": ["ear", "bushel", "field"],
-        "verb + corn": ["plant", "grow", "produce"],
-        "corn + verb": ["grow"],
-        "corn + noun": ["field", "crop", "harvest"],
-        "phrases": ["corn on the cob"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a small area of hard skin on the foot, especially the toe, that is sometimes painful",
-      "examples": [
-        {
-          "text": "See your doctor if you have foot pain or corns."
-        }
-      ],
-      "collocations": {
-        "verb + corn": ["have", "suffer from", "treat"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kɔːn/",
-        "audio": "co/corn/corn__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kɔːrn/",
-        "audio": "co/corn/corn__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "senses 1 to 3 Old English, of Germanic origin; related to Dutch koren and German Korn.sense 4 late Middle English: via Anglo-Norman French from Latin cornu ‘horn’."
+	"term": "corn",
+	"partOfSpeech": "noun",
+	"image": "data/images/ce/cereals.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "any plant that is grown for its grain, such as wheat; the grain of these plants",
+			"labels": "(British English)(North American English)",
+			"cefr": "b1",
+			"examples": [
+				{
+					"text": "a field of corn"
+				},
+				{
+					"text": "**ears/sheaves of corn**"
+				},
+				{
+					"text": "The corn is still green."
+				},
+				{
+					"text": "a field of standing corn"
+				}
+			],
+			"topics": ["Farming"],
+			"collocations": {
+				"adjective": ["ripe", "green", "young"],
+				"… of corn": ["ear", "sheaf", "bag"],
+				"verb + corn": ["grow", "sow", "cut"],
+				"corn + verb": ["grow"],
+				"corn + noun": ["field", "harvest", "mill"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a tall plant grown for its large yellow grains that are used for making flour or eaten as a vegetable; the grains of this plant",
+			"labels": "(North American English)British English",
+			"cefr": "b1",
+			"examples": [
+				{
+					"text": "The major crops are wheat, barley and corn."
+				}
+			],
+			"topics": ["Farming", "Food"],
+			"collocations": {
+				"adjective": ["field", "Indian", "sweet"],
+				"… of corn": ["ear", "bushel", "field"],
+				"verb + corn": ["plant", "grow", "produce"],
+				"corn + verb": ["grow"],
+				"corn + noun": ["field", "crop", "harvest"],
+				"phrases": ["corn on the cob"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the yellow seeds of a type of corn (maize) plant, also called corn, which grow on thick stems and are cooked and eaten as a vegetable",
+			"labels": "(North American English)British English",
+			"cefr": "b1",
+			"examples": [
+				{
+					"text": "fresh corn and arugula salad"
+				}
+			],
+			"topics": ["Food"],
+			"collocations": {
+				"adjective": ["field", "Indian", "sweet"],
+				"… of corn": ["ear", "bushel", "field"],
+				"verb + corn": ["plant", "grow", "produce"],
+				"corn + verb": ["grow"],
+				"corn + noun": ["field", "crop", "harvest"],
+				"phrases": ["corn on the cob"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a small area of hard skin on the foot, especially the toe, that is sometimes painful",
+			"examples": [
+				{
+					"text": "See your doctor if you have foot pain or corns."
+				}
+			],
+			"collocations": {
+				"verb + corn": ["have", "suffer from", "treat"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kɔːn/",
+				"audio": "co/corn/corn__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kɔːrn/",
+				"audio": "co/corn/corn__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "senses 1 to 3 Old English, of Germanic origin; related to Dutch koren and German Korn.sense 4 late Middle English: via Anglo-Norman French from Latin cornu ‘horn’."
 }

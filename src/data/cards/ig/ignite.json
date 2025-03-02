@@ -1,88 +1,88 @@
 {
-  "term": "ignite",
-  "partOfSpeech": "verb",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "ignite",
-      "heSheIt": "ignites"
-    },
-    "pastSimple": "ignited",
-    "pastParticiple": "ignited",
-    "ingForm": "igniting"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to start to burn; to make something start to burn",
-      "sensetop": "ignite something",
-      "labels": "(figurative)(figurative)",
-      "examples": [
-        {
-          "text": "Gas ignites very easily."
-        },
-        {
-          "text": "Tempers ignited when the whole family spent Christmas together."
-        },
-        {
-          "text": "Flames melted a lead pipe and ignited leaking gas.",
-          "contextForm": "ignite something"
-        },
-        {
-          "text": "His words ignited their anger."
-        },
-        {
-          "text": "The burning foam generates such heat that other items in the room can ignite spontaneously."
-        },
-        {
-          "text": "The gunpowder sometimes fails to ignite."
-        },
-        {
-          "text": "an explosive that is easily ignited"
-        }
-      ],
-      "collocations": {
-        "adverb": ["spontaneously", "instantly", "suddenly"],
-        "verb + ignite": ["fail to"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪɡˈnaɪt/",
-        "audio": "ig/ignite/ignite__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪɡˈnaɪts/",
-        "audio": "ig/ignite/ignites__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪɡˈnaɪtɪd/",
-        "audio": "ig/ignite/ignited__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪɡˈnaɪtɪŋ/",
-        "audio": "ig/ignite/igniting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪɡˈnaɪt/",
-        "audio": "ig/ignite/ignite__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪɡˈnaɪts/",
-        "audio": "ig/ignite/ignites__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪɡˈnaɪtɪd/",
-        "audio": "ig/ignite/ignited__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪɡˈnaɪtɪŋ/",
-        "audio": "ig/ignite/igniting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 17th cent. (in the sense ‘make intensely hot’): from Latin ignire ‘set on fire’, from ignis ‘fire’."
+	"term": "ignite",
+	"partOfSpeech": "verb",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "ignite",
+			"heSheIt": "ignites"
+		},
+		"pastSimple": "ignited",
+		"pastParticiple": "ignited",
+		"ingForm": "igniting"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to start to burn; to make something start to burn",
+			"sensetop": "ignite something",
+			"labels": "(figurative)(figurative)",
+			"examples": [
+				{
+					"text": "Gas ignites very easily."
+				},
+				{
+					"text": "Tempers ignited when the whole family spent Christmas together."
+				},
+				{
+					"text": "Flames melted a lead pipe and ignited leaking gas.",
+					"contextForm": "ignite something"
+				},
+				{
+					"text": "His words ignited their anger."
+				},
+				{
+					"text": "The burning foam generates such heat that other items in the room can ignite spontaneously."
+				},
+				{
+					"text": "The gunpowder sometimes fails to ignite."
+				},
+				{
+					"text": "an explosive that is easily ignited"
+				}
+			],
+			"collocations": {
+				"adverb": ["spontaneously", "instantly", "suddenly"],
+				"verb + ignite": ["fail to"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪɡˈnaɪt/",
+				"audio": "ig/ignite/ignite__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪɡˈnaɪts/",
+				"audio": "ig/ignite/ignites__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪɡˈnaɪtɪd/",
+				"audio": "ig/ignite/ignited__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪɡˈnaɪtɪŋ/",
+				"audio": "ig/ignite/igniting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪɡˈnaɪt/",
+				"audio": "ig/ignite/ignite__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪɡˈnaɪts/",
+				"audio": "ig/ignite/ignites__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪɡˈnaɪtɪd/",
+				"audio": "ig/ignite/ignited__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪɡˈnaɪtɪŋ/",
+				"audio": "ig/ignite/igniting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 17th cent. (in the sense ‘make intensely hot’): from Latin ignire ‘set on fire’, from ignis ‘fire’."
 }

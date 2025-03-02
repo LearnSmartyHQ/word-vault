@@ -1,99 +1,99 @@
 {
-  "term": "casualty",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person who is killed or injured in war or in an accident",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Our primary objective is reducing road casualties."
-        },
-        {
-          "text": "Both sides had suffered **heavy casualties** *(= many people had been killed)*."
-        },
-        {
-          "text": "Our division suffered only light casualties."
-        },
-        {
-          "text": "The guerrillas inflicted heavy casualties on the local population."
-        }
-      ],
-      "topics": ["War and conflict"],
-      "collocations": {
-        "adjective": ["heavy", "high", "serious"],
-        "verb + casualty": ["cause", "inflict", "incur"],
-        "casualty + noun": ["count", "figures", "list"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person who suffers or a thing that is destroyed when something else takes place",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She became a casualty of the reduction in part-time work *(= she lost her job)*."
-        },
-        {
-          "text": "Small shops have been a casualty of the recession."
-        },
-        {
-          "text": "They say that truth is the first casualty of war."
-        },
-        {
-          "text": "Their relationship became a casualty of war."
-        },
-        {
-          "text": "The main casualty of this scandal will be the minister's reputation."
-        }
-      ],
-      "synonyms": "victim",
-      "topics": ["War and conflict"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the part of a hospital where people who need immediate treatment are taken",
-      "labels": "(all British English)North American English",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The victims were rushed to casualty."
-        },
-        {
-          "text": "We waited in casualty until a doctor could see us."
-        },
-        {
-          "text": "He works as a doctor in casualty."
-        }
-      ],
-      "topics": ["Healthcare"],
-      "collocations": {
-        "verb + casualty": [
-          "be admitted to",
-          "rush somebody to",
-          "take somebody to"
-        ],
-        "casualty + noun": ["department", "unit", "ward"],
-        "preposition": ["in casualty"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkæʒuəlti/",
-        "audio": "ca/casualty/casualty__gb_5.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkæʒuəlti/",
-        "audio": "ca/casualty/casualty__us_2_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘chance, a chance occurrence’): from medieval Latin casualitas, from casualis, from casus ‘fall’, on the pattern of words such as penalty."
+	"term": "casualty",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person who is killed or injured in war or in an accident",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Our primary objective is reducing road casualties."
+				},
+				{
+					"text": "Both sides had suffered **heavy casualties** *(= many people had been killed)*."
+				},
+				{
+					"text": "Our division suffered only light casualties."
+				},
+				{
+					"text": "The guerrillas inflicted heavy casualties on the local population."
+				}
+			],
+			"topics": ["War and conflict"],
+			"collocations": {
+				"adjective": ["heavy", "high", "serious"],
+				"verb + casualty": ["cause", "inflict", "incur"],
+				"casualty + noun": ["count", "figures", "list"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person who suffers or a thing that is destroyed when something else takes place",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She became a casualty of the reduction in part-time work *(= she lost her job)*."
+				},
+				{
+					"text": "Small shops have been a casualty of the recession."
+				},
+				{
+					"text": "They say that truth is the first casualty of war."
+				},
+				{
+					"text": "Their relationship became a casualty of war."
+				},
+				{
+					"text": "The main casualty of this scandal will be the minister's reputation."
+				}
+			],
+			"synonyms": "victim",
+			"topics": ["War and conflict"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the part of a hospital where people who need immediate treatment are taken",
+			"labels": "(all British English)North American English",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The victims were rushed to casualty."
+				},
+				{
+					"text": "We waited in casualty until a doctor could see us."
+				},
+				{
+					"text": "He works as a doctor in casualty."
+				}
+			],
+			"topics": ["Healthcare"],
+			"collocations": {
+				"verb + casualty": [
+					"be admitted to",
+					"rush somebody to",
+					"take somebody to"
+				],
+				"casualty + noun": ["department", "unit", "ward"],
+				"preposition": ["in casualty"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkæʒuəlti/",
+				"audio": "ca/casualty/casualty__gb_5.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkæʒuəlti/",
+				"audio": "ca/casualty/casualty__us_2_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘chance, a chance occurrence’): from medieval Latin casualitas, from casualis, from casus ‘fall’, on the pattern of words such as penalty."
 }

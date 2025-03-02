@@ -1,186 +1,186 @@
 {
-  "term": "weave",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "weave",
-      "heSheIt": "weaves"
-    },
-    "pastSimple": "wove",
-    "pastParticiple": "woven",
-    "ingForm": "weaving"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to make cloth, a carpet, a basket, etc. by crossing threads or narrow pieces of material across, over and under each other by hand or on a machine called a loom",
-      "sensetop": "weave A from Bweave B into Aweave something togetherweave (something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The baskets are woven from strips of willow.",
-          "contextForm": "weave A from B"
-        },
-        {
-          "text": "The strips of willow are woven into baskets.",
-          "contextForm": "weave B into A"
-        },
-        {
-          "text": "threads woven together",
-          "contextForm": "weave something together"
-        },
-        {
-          "text": "Most spiders weave webs that are almost invisible.",
-          "contextForm": "weave (something)"
-        },
-        {
-          "text": "She is skilled at spinning and weaving."
-        },
-        {
-          "text": "The carpet was specially woven to commemorate the 1 000th anniversary of the cathedral's foundation."
-        },
-        {
-          "text": "The threads are woven together."
-        }
-      ],
-      "collocations": {
-        "adverb": ["carefully", "skilfully/​skillfully", "seamlessly"],
-        "preposition": ["from", "into"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to make something by twisting flowers, pieces of wood, etc. together",
-      "sensetop": "weave A (out of/from B)weave B (into A)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She deftly wove the flowers into a garland."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to move along by running and changing direction continuously to avoid things that are in your way",
-      "sensetop": "+ adv./prep.weave your way + adv./prep.",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She was weaving in and out of the traffic.",
-          "contextForm": "+ adv./prep."
-        },
-        {
-          "text": "He hurried on, weaving through the crowd."
-        },
-        {
-          "text": "The road weaves through a range of hills."
-        },
-        {
-          "text": "He had to weave his way through the milling crowds.",
-          "contextForm": "weave your way + adv./prep."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to put facts, events, details, etc. together to make a story or a closely connected whole",
-      "sensetop": "weave (something into) somethingweave something together",
-      "examples": [
-        {
-          "text": "to weave a narrative",
-          "contextForm": "weave (something into) something"
-        },
-        {
-          "text": "The biography weaves together the various strands of Einstein's life.",
-          "contextForm": "weave something together"
-        },
-        {
-          "text": "Comedy and tragedy are inextricably woven into her fiction."
-        },
-        {
-          "text": "Hall skilfully weaves the historical research into a gripping narrative."
-        },
-        {
-          "text": "The author seamlessly weaves together the stories of three people's lives."
-        },
-        {
-          "text": "The whisky is inextricably woven into Scotland's history, customs and culture."
-        },
-        {
-          "text": "The author weaves the narrative around the detailed eyewitness accounts."
-        }
-      ],
-      "collocations": {
-        "adverb": ["carefully", "skilfully/​skillfully", "seamlessly"],
-        "preposition": ["from", "into"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to perform or behave in a way that is attractive or interesting, or that makes somebody behave in a particular way",
-      "labels": "(especially British English)",
-      "examples": [
-        {
-          "text": "Will Hegerberg be able to weave her magic against Italy on Wednesday?"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/wiːv/",
-        "audio": "we/weave/weave__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/wiːvd/",
-        "audio": "we/weave/weaved__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/wiːvz/",
-        "audio": "we/weave/weaves__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/wəʊv/",
-        "audio": "wo/weave/wove__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwəʊvn/",
-        "audio": "wo/weave/woven__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwiːvɪŋ/",
-        "audio": "we/weave/weaving__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/wiːv/",
-        "audio": "we/weave/weave__us_1.mp3"
-      },
-      {
-        "pronunciation": "/wiːvd/",
-        "audio": "we/weave/weaved__us_1.mp3"
-      },
-      {
-        "pronunciation": "/wiːvz/",
-        "audio": "we/weave/weaves__us_1.mp3"
-      },
-      {
-        "pronunciation": "/wəʊv/",
-        "audio": "wo/weave/wove__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwəʊvn/",
-        "audio": "wo/weave/woven__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwiːvɪŋ/",
-        "audio": "we/weave/weaving__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "verb senses 1, 2 and 4 Old English wefan, of Germanic origin, from an Indo-European root shared by Greek huphē ‘web’ and Sanskrit ūrṇavābhi ‘spider’, literally ‘wool-weaver’. The current noun sense dates from the late 19th cent. verb sense 3 late 16th cent.: probably from Old Norse veifa ‘to wave, brandish’."
+	"term": "weave",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "weave",
+			"heSheIt": "weaves"
+		},
+		"pastSimple": "wove",
+		"pastParticiple": "woven",
+		"ingForm": "weaving"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to make cloth, a carpet, a basket, etc. by crossing threads or narrow pieces of material across, over and under each other by hand or on a machine called a loom",
+			"sensetop": "weave A from Bweave B into Aweave something togetherweave (something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The baskets are woven from strips of willow.",
+					"contextForm": "weave A from B"
+				},
+				{
+					"text": "The strips of willow are woven into baskets.",
+					"contextForm": "weave B into A"
+				},
+				{
+					"text": "threads woven together",
+					"contextForm": "weave something together"
+				},
+				{
+					"text": "Most spiders weave webs that are almost invisible.",
+					"contextForm": "weave (something)"
+				},
+				{
+					"text": "She is skilled at spinning and weaving."
+				},
+				{
+					"text": "The carpet was specially woven to commemorate the 1 000th anniversary of the cathedral's foundation."
+				},
+				{
+					"text": "The threads are woven together."
+				}
+			],
+			"collocations": {
+				"adverb": ["carefully", "skilfully/​skillfully", "seamlessly"],
+				"preposition": ["from", "into"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to make something by twisting flowers, pieces of wood, etc. together",
+			"sensetop": "weave A (out of/from B)weave B (into A)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She deftly wove the flowers into a garland."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to move along by running and changing direction continuously to avoid things that are in your way",
+			"sensetop": "+ adv./prep.weave your way + adv./prep.",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She was weaving in and out of the traffic.",
+					"contextForm": "+ adv./prep."
+				},
+				{
+					"text": "He hurried on, weaving through the crowd."
+				},
+				{
+					"text": "The road weaves through a range of hills."
+				},
+				{
+					"text": "He had to weave his way through the milling crowds.",
+					"contextForm": "weave your way + adv./prep."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to put facts, events, details, etc. together to make a story or a closely connected whole",
+			"sensetop": "weave (something into) somethingweave something together",
+			"examples": [
+				{
+					"text": "to weave a narrative",
+					"contextForm": "weave (something into) something"
+				},
+				{
+					"text": "The biography weaves together the various strands of Einstein's life.",
+					"contextForm": "weave something together"
+				},
+				{
+					"text": "Comedy and tragedy are inextricably woven into her fiction."
+				},
+				{
+					"text": "Hall skilfully weaves the historical research into a gripping narrative."
+				},
+				{
+					"text": "The author seamlessly weaves together the stories of three people's lives."
+				},
+				{
+					"text": "The whisky is inextricably woven into Scotland's history, customs and culture."
+				},
+				{
+					"text": "The author weaves the narrative around the detailed eyewitness accounts."
+				}
+			],
+			"collocations": {
+				"adverb": ["carefully", "skilfully/​skillfully", "seamlessly"],
+				"preposition": ["from", "into"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to perform or behave in a way that is attractive or interesting, or that makes somebody behave in a particular way",
+			"labels": "(especially British English)",
+			"examples": [
+				{
+					"text": "Will Hegerberg be able to weave her magic against Italy on Wednesday?"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/wiːv/",
+				"audio": "we/weave/weave__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/wiːvd/",
+				"audio": "we/weave/weaved__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/wiːvz/",
+				"audio": "we/weave/weaves__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/wəʊv/",
+				"audio": "wo/weave/wove__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwəʊvn/",
+				"audio": "wo/weave/woven__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwiːvɪŋ/",
+				"audio": "we/weave/weaving__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/wiːv/",
+				"audio": "we/weave/weave__us_1.mp3"
+			},
+			{
+				"pronunciation": "/wiːvd/",
+				"audio": "we/weave/weaved__us_1.mp3"
+			},
+			{
+				"pronunciation": "/wiːvz/",
+				"audio": "we/weave/weaves__us_1.mp3"
+			},
+			{
+				"pronunciation": "/wəʊv/",
+				"audio": "wo/weave/wove__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwəʊvn/",
+				"audio": "wo/weave/woven__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwiːvɪŋ/",
+				"audio": "we/weave/weaving__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "verb senses 1, 2 and 4 Old English wefan, of Germanic origin, from an Indo-European root shared by Greek huphē ‘web’ and Sanskrit ūrṇavābhi ‘spider’, literally ‘wool-weaver’. The current noun sense dates from the late 19th cent. verb sense 3 late 16th cent.: probably from Old Norse veifa ‘to wave, brandish’."
 }

@@ -1,237 +1,237 @@
 {
-  "term": "morning",
-  "partOfSpeech": "nounadverb",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the early part of the day from the time when people wake up until 12 o'clock in the middle of the day or before lunch",
-      "sensetop": "in the morningon the morning of something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They left for Spain early **this morning**."
-        },
-        {
-          "text": "See you **tomorrow morning**."
-        },
-        {
-          "text": "She drove to Bristol **yesterday morning**."
-        },
-        {
-          "text": "She still felt unwell **the following morning**."
-        },
-        {
-          "text": "I prefer coffee in the morning.",
-          "contextForm": "in the morning"
-        },
-        {
-          "text": "first thing in the morning"
-        },
-        {
-          "text": "She woke every morning at the same time."
-        },
-        {
-          "text": "I walk to work most mornings."
-        },
-        {
-          "text": "He's been in a meeting all morning."
-        },
-        {
-          "text": "Our group meets on Friday mornings."
-        },
-        {
-          "text": "We got the news on the morning of the wedding.",
-          "contextForm": "on the morning of something"
-        },
-        {
-          "text": "Have you seen the morning news?"
-        },
-        {
-          "text": "Buses are often delayed during the morning rush hour."
-        },
-        {
-          "text": "I'm not a **morning person** *(= I don't function best in the morning)*."
-        },
-        {
-          "text": "The minister promised to make a statement the following morning."
-        },
-        {
-          "text": "They spent the morning session discussing transport and the environment."
-        },
-        {
-          "text": "I always go for a run first thing in the morning."
-        },
-        {
-          "text": "As the morning wore on she became more and more tired."
-        },
-        {
-          "text": "He was a presenter on a morning talk show."
-        },
-        {
-          "text": "I spent the morning doing some sightseeing."
-        },
-        {
-          "text": "I took my usual morning shower and brushed my teeth."
-        },
-        {
-          "text": "On a typical morning, I'll have cereal for breakfast."
-        },
-        {
-          "text": "The morning brought blue sky and golden clouds."
-        },
-        {
-          "text": "The morning dawned bright and sunny."
-        },
-        {
-          "text": "The side of the mountain appeared pink in the early morning light."
-        },
-        {
-          "text": "Towards morning the snow turned to rain."
-        },
-        {
-          "text": "We had a lazy morning at home."
-        },
-        {
-          "text": "It was a beautiful morning, with not a cloud in the sky."
-        },
-        {
-          "text": "The kids always wake early on Christmas morning."
-        }
-      ],
-      "topics": ["Time"],
-      "collocations": {
-        "adjective": ["this", "tomorrow", "yesterday"],
-        "verb + morning": ["spend"],
-        "morning + verb": ["arrive", "come", "dawn"],
-        "morning + noun": ["coffee", "tea", "meal"],
-        "preposition": ["by morning", "during the morning", "in the morning"],
-        "phrases": [
-          "first thing in the morning",
-          "from morning till night",
-          "morning, noon and night"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the part of the day from midnight to midday",
-      "sensetop": "in the morning",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I didn't get home until two in the morning!",
-          "contextForm": "in the morning"
-        },
-        {
-          "text": "He died in the early hours of Sunday morning."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "in the morning of each day",
-      "cefr": "a1",
-      "examples": [
-        {
-          "text": "I only work mornings."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "between midnight and midday",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "It must have happened at about five o'clock in the morning."
-        },
-        {
-          "text": "They left early in the morning."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "during the morning of the next day; tomorrow morning",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I'll give you a call in the morning."
-        },
-        {
-          "text": "I'll see to it first thing in the morning."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "the morning after an evening of drinking",
-      "labels": "(humorous)",
-      "examples": [
-        {
-          "text": "Drink plenty of water the morning after the night before, and learn from experience."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "at all times of the day and night (used to emphasize that something happens very often or that it happens continuously)",
-      "examples": [
-        {
-          "text": "She talks about him morning, noon and night."
-        },
-        {
-          "text": "The work continues morning, noon and night."
-        },
-        {
-          "text": "It's all she talks about, morning, noon and night."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "recently",
-      "examples": [
-        {
-          "text": "I saw Jack the other day."
-        },
-        {
-          "text": "I was in your area the other week."
-        },
-        {
-          "text": "I woke up the other morning and just could not get myself out of bed."
-        },
-        {
-          "text": "I was watching TV the other evening, when…"
-        }
-      ],
-      "topics": ["Time"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmɔːnɪŋ/",
-        "audio": "mo/morning/morning__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmɔːrnɪŋ/",
-        "audio": "mo/morning/morning__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from morn, on the pattern of evening."
+	"term": "morning",
+	"partOfSpeech": "nounadverb",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the early part of the day from the time when people wake up until 12 o'clock in the middle of the day or before lunch",
+			"sensetop": "in the morningon the morning of something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They left for Spain early **this morning**."
+				},
+				{
+					"text": "See you **tomorrow morning**."
+				},
+				{
+					"text": "She drove to Bristol **yesterday morning**."
+				},
+				{
+					"text": "She still felt unwell **the following morning**."
+				},
+				{
+					"text": "I prefer coffee in the morning.",
+					"contextForm": "in the morning"
+				},
+				{
+					"text": "first thing in the morning"
+				},
+				{
+					"text": "She woke every morning at the same time."
+				},
+				{
+					"text": "I walk to work most mornings."
+				},
+				{
+					"text": "He's been in a meeting all morning."
+				},
+				{
+					"text": "Our group meets on Friday mornings."
+				},
+				{
+					"text": "We got the news on the morning of the wedding.",
+					"contextForm": "on the morning of something"
+				},
+				{
+					"text": "Have you seen the morning news?"
+				},
+				{
+					"text": "Buses are often delayed during the morning rush hour."
+				},
+				{
+					"text": "I'm not a **morning person** *(= I don't function best in the morning)*."
+				},
+				{
+					"text": "The minister promised to make a statement the following morning."
+				},
+				{
+					"text": "They spent the morning session discussing transport and the environment."
+				},
+				{
+					"text": "I always go for a run first thing in the morning."
+				},
+				{
+					"text": "As the morning wore on she became more and more tired."
+				},
+				{
+					"text": "He was a presenter on a morning talk show."
+				},
+				{
+					"text": "I spent the morning doing some sightseeing."
+				},
+				{
+					"text": "I took my usual morning shower and brushed my teeth."
+				},
+				{
+					"text": "On a typical morning, I'll have cereal for breakfast."
+				},
+				{
+					"text": "The morning brought blue sky and golden clouds."
+				},
+				{
+					"text": "The morning dawned bright and sunny."
+				},
+				{
+					"text": "The side of the mountain appeared pink in the early morning light."
+				},
+				{
+					"text": "Towards morning the snow turned to rain."
+				},
+				{
+					"text": "We had a lazy morning at home."
+				},
+				{
+					"text": "It was a beautiful morning, with not a cloud in the sky."
+				},
+				{
+					"text": "The kids always wake early on Christmas morning."
+				}
+			],
+			"topics": ["Time"],
+			"collocations": {
+				"adjective": ["this", "tomorrow", "yesterday"],
+				"verb + morning": ["spend"],
+				"morning + verb": ["arrive", "come", "dawn"],
+				"morning + noun": ["coffee", "tea", "meal"],
+				"preposition": ["by morning", "during the morning", "in the morning"],
+				"phrases": [
+					"first thing in the morning",
+					"from morning till night",
+					"morning, noon and night"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the part of the day from midnight to midday",
+			"sensetop": "in the morning",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I didn't get home until two in the morning!",
+					"contextForm": "in the morning"
+				},
+				{
+					"text": "He died in the early hours of Sunday morning."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "in the morning of each day",
+			"cefr": "a1",
+			"examples": [
+				{
+					"text": "I only work mornings."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "between midnight and midday",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "It must have happened at about five o'clock in the morning."
+				},
+				{
+					"text": "They left early in the morning."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "during the morning of the next day; tomorrow morning",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I'll give you a call in the morning."
+				},
+				{
+					"text": "I'll see to it first thing in the morning."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "the morning after an evening of drinking",
+			"labels": "(humorous)",
+			"examples": [
+				{
+					"text": "Drink plenty of water the morning after the night before, and learn from experience."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "at all times of the day and night (used to emphasize that something happens very often or that it happens continuously)",
+			"examples": [
+				{
+					"text": "She talks about him morning, noon and night."
+				},
+				{
+					"text": "The work continues morning, noon and night."
+				},
+				{
+					"text": "It's all she talks about, morning, noon and night."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "recently",
+			"examples": [
+				{
+					"text": "I saw Jack the other day."
+				},
+				{
+					"text": "I was in your area the other week."
+				},
+				{
+					"text": "I woke up the other morning and just could not get myself out of bed."
+				},
+				{
+					"text": "I was watching TV the other evening, when…"
+				}
+			],
+			"topics": ["Time"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmɔːnɪŋ/",
+				"audio": "mo/morning/morning__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmɔːrnɪŋ/",
+				"audio": "mo/morning/morning__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from morn, on the pattern of evening."
 }

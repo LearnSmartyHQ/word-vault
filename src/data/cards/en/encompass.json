@@ -1,80 +1,80 @@
 {
-  "term": "encompass",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "encompass",
-      "heSheIt": "encompasses"
-    },
-    "pastSimple": "encompassed",
-    "pastParticiple": "encompassed",
-    "ingForm": "encompassing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to include a large number or range of things",
-      "sensetop": "encompass something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The job encompasses a wide range of responsibilities."
-        },
-        {
-          "text": "The group encompasses all ages."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to surround or cover something completely",
-      "sensetop": "encompass something",
-      "examples": [
-        {
-          "text": "The fog soon encompassed the whole valley."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈkʌmpəs/",
-        "audio": "en/encompass/encompass__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈkʌmpəsɪz/",
-        "audio": "en/encompass/encompasses__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈkʌmpəst/",
-        "audio": "en/encompass/encompassed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈkʌmpəsɪŋ/",
-        "audio": "en/encompass/encompassing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈkʌmpəs/",
-        "audio": "en/encompass/encompass__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈkʌmpəsɪz/",
-        "audio": "en/encompass/encompasses__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈkʌmpəst/",
-        "audio": "en/encompass/encompassed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈkʌmpəsɪŋ/",
-        "audio": "en/encompass/encompassing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (formerly also as incompass): from en-, in- ‘within’ + compass."
+	"term": "encompass",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "encompass",
+			"heSheIt": "encompasses"
+		},
+		"pastSimple": "encompassed",
+		"pastParticiple": "encompassed",
+		"ingForm": "encompassing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to include a large number or range of things",
+			"sensetop": "encompass something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The job encompasses a wide range of responsibilities."
+				},
+				{
+					"text": "The group encompasses all ages."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to surround or cover something completely",
+			"sensetop": "encompass something",
+			"examples": [
+				{
+					"text": "The fog soon encompassed the whole valley."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈkʌmpəs/",
+				"audio": "en/encompass/encompass__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈkʌmpəsɪz/",
+				"audio": "en/encompass/encompasses__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈkʌmpəst/",
+				"audio": "en/encompass/encompassed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈkʌmpəsɪŋ/",
+				"audio": "en/encompass/encompassing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈkʌmpəs/",
+				"audio": "en/encompass/encompass__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈkʌmpəsɪz/",
+				"audio": "en/encompass/encompasses__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈkʌmpəst/",
+				"audio": "en/encompass/encompassed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈkʌmpəsɪŋ/",
+				"audio": "en/encompass/encompassing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (formerly also as incompass): from en-, in- ‘within’ + compass."
 }

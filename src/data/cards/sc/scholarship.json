@@ -1,75 +1,75 @@
 {
-  "term": "scholarship",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an amount of money given to somebody by an organization to help pay for their education",
-      "sensetop": "on a scholarship",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "She **won a scholarship** to study at Stanford."
-        },
-        {
-          "text": "He went to drama school on a scholarship.",
-          "contextForm": "on a scholarship"
-        },
-        {
-          "text": "She was awarded a scholarship to Columbia University."
-        },
-        {
-          "text": "The Fund awards four scholarships every year."
-        },
-        {
-          "text": "Two of the boys are on football scholarships."
-        }
-      ],
-      "topics": ["Money", "Education"],
-      "collocations": {
-        "adjective": ["college", "student", "academic"],
-        "verb + scholarship": ["earn", "gain", "get"],
-        "scholarship + noun": ["programme/​program", "scheme", "student"],
-        "preposition": ["on a scholarship", "scholarship to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the serious study of an academic subject and the knowledge and methods involved",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a magnificent work of scholarship"
-        },
-        {
-          "text": "Oxford became one of the great centres of medieval scholarship."
-        },
-        {
-          "text": "Her two books maintain the highest standards of scholarship."
-        },
-        {
-          "text": "He wrote in the tradition of German scholarship."
-        }
-      ],
-      "synonyms": "learning",
-      "topics": ["Education"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈskɒləʃɪp/",
-        "audio": "sc/scholarship/scholarship__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈskɑːlərʃɪp/",
-        "audio": "sc/scholarship/scholarship__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "scholarship",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an amount of money given to somebody by an organization to help pay for their education",
+			"sensetop": "on a scholarship",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "She **won a scholarship** to study at Stanford."
+				},
+				{
+					"text": "He went to drama school on a scholarship.",
+					"contextForm": "on a scholarship"
+				},
+				{
+					"text": "She was awarded a scholarship to Columbia University."
+				},
+				{
+					"text": "The Fund awards four scholarships every year."
+				},
+				{
+					"text": "Two of the boys are on football scholarships."
+				}
+			],
+			"topics": ["Money", "Education"],
+			"collocations": {
+				"adjective": ["college", "student", "academic"],
+				"verb + scholarship": ["earn", "gain", "get"],
+				"scholarship + noun": ["programme/​program", "scheme", "student"],
+				"preposition": ["on a scholarship", "scholarship to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the serious study of an academic subject and the knowledge and methods involved",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a magnificent work of scholarship"
+				},
+				{
+					"text": "Oxford became one of the great centres of medieval scholarship."
+				},
+				{
+					"text": "Her two books maintain the highest standards of scholarship."
+				},
+				{
+					"text": "He wrote in the tradition of German scholarship."
+				}
+			],
+			"synonyms": "learning",
+			"topics": ["Education"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈskɒləʃɪp/",
+				"audio": "sc/scholarship/scholarship__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈskɑːlərʃɪp/",
+				"audio": "sc/scholarship/scholarship__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

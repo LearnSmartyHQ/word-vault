@@ -1,115 +1,115 @@
 {
-  "term": "sigh",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "sigh",
-      "heSheIt": "sighs"
-    },
-    "pastSimple": "sighed",
-    "pastParticiple": "sighed",
-    "ingForm": "sighing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to take and then let out a long deep breath that can be heard, to show that you are disappointed, sad, tired, etc.",
-      "sensetop": "sigh with something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "He **sighed deeply** at the thought."
-        },
-        {
-          "text": "She **sighed with relief** that it was all over.",
-          "contextForm": "sigh with something"
-        },
-        {
-          "text": "He sighed wearily as he looked at the pile of work."
-        },
-        {
-          "text": "She looked at her son and sighed happily."
-        },
-        {
-          "text": "She sighed heavily and sat down."
-        },
-        {
-          "text": "The girl watching him sighed dreamily."
-        },
-        {
-          "text": "He sighed in exasperation."
-        }
-      ],
-      "topics": ["Feelings"],
-      "collocations": {
-        "adverb": ["deeply", "heavily", "softly"],
-        "preposition": ["in", "with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to say something with a sigh",
-      "sensetop": "+ speech",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "‘Oh well, better luck next time,’ she sighed."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to make a long sound like a sigh",
-      "labels": "(literary)",
-      "examples": [
-        {
-          "text": "the sighing of the wind through the trees"
-        },
-        {
-          "text": "branches sighing in the wind"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/saɪ/",
-        "audio": "si/sigh/sigh__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/saɪz/",
-        "audio": "si/sigh/sighs__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/saɪd/",
-        "audio": "si/sigh/sighed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsaɪɪŋ/",
-        "audio": "si/sigh/sighing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/saɪ/",
-        "audio": "si/sigh/sigh__us_1.mp3"
-      },
-      {
-        "pronunciation": "/saɪz/",
-        "audio": "si/sigh/sighs__us_1.mp3"
-      },
-      {
-        "pronunciation": "/saɪd/",
-        "audio": "si/sigh/sighed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsaɪɪŋ/",
-        "audio": "si/sigh/sighing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (as a verb): probably a back-formation from sighte, past tense of siche, sike, from Old English sīcan."
+	"term": "sigh",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "sigh",
+			"heSheIt": "sighs"
+		},
+		"pastSimple": "sighed",
+		"pastParticiple": "sighed",
+		"ingForm": "sighing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to take and then let out a long deep breath that can be heard, to show that you are disappointed, sad, tired, etc.",
+			"sensetop": "sigh with something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "He **sighed deeply** at the thought."
+				},
+				{
+					"text": "She **sighed with relief** that it was all over.",
+					"contextForm": "sigh with something"
+				},
+				{
+					"text": "He sighed wearily as he looked at the pile of work."
+				},
+				{
+					"text": "She looked at her son and sighed happily."
+				},
+				{
+					"text": "She sighed heavily and sat down."
+				},
+				{
+					"text": "The girl watching him sighed dreamily."
+				},
+				{
+					"text": "He sighed in exasperation."
+				}
+			],
+			"topics": ["Feelings"],
+			"collocations": {
+				"adverb": ["deeply", "heavily", "softly"],
+				"preposition": ["in", "with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to say something with a sigh",
+			"sensetop": "+ speech",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "‘Oh well, better luck next time,’ she sighed."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to make a long sound like a sigh",
+			"labels": "(literary)",
+			"examples": [
+				{
+					"text": "the sighing of the wind through the trees"
+				},
+				{
+					"text": "branches sighing in the wind"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/saɪ/",
+				"audio": "si/sigh/sigh__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/saɪz/",
+				"audio": "si/sigh/sighs__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/saɪd/",
+				"audio": "si/sigh/sighed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsaɪɪŋ/",
+				"audio": "si/sigh/sighing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/saɪ/",
+				"audio": "si/sigh/sigh__us_1.mp3"
+			},
+			{
+				"pronunciation": "/saɪz/",
+				"audio": "si/sigh/sighs__us_1.mp3"
+			},
+			{
+				"pronunciation": "/saɪd/",
+				"audio": "si/sigh/sighed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsaɪɪŋ/",
+				"audio": "si/sigh/sighing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (as a verb): probably a back-formation from sighte, past tense of siche, sike, from Old English sīcan."
 }

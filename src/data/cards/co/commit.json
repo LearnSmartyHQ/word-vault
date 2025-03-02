@@ -1,240 +1,240 @@
 {
-  "term": "commit",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "commit",
-      "heSheIt": "commits"
-    },
-    "pastSimple": "committed",
-    "pastParticiple": "committed",
-    "ingForm": "committing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to do something wrong or illegal",
-      "sensetop": "commit something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **commit a crime/an offence**"
-        },
-        {
-          "text": "to **commit murder/fraud/adultery**"
-        },
-        {
-          "text": "to **commit an act** of violence/terrorism"
-        },
-        {
-          "text": "to **commit an error/a sin**"
-        },
-        {
-          "text": "to **commit atrocities**"
-        },
-        {
-          "text": "appalling crimes committed against innocent children"
-        },
-        {
-          "text": "Most crimes are committed by young men."
-        },
-        {
-          "text": "The men are being held on suspicion of **conspiracy to commit** armed robbery."
-        },
-        {
-          "text": "He denied conspiring to commit robberies in April last year."
-        },
-        {
-          "text": "He was punished for a murder he did not commit."
-        },
-        {
-          "text": "I had committed a faux pas by referring to her ex-husband."
-        },
-        {
-          "text": "Was she capable of committing a crime?"
-        },
-        {
-          "text": "committing an act of violence"
-        },
-        {
-          "text": "What leads someone to commit murder?"
-        }
-      ],
-      "topics": ["Crime and punishment"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to kill yourself deliberately",
-      "sensetop": "commit suicide",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Her father had **committed suicide**."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to promise sincerely that you will definitely do something, keep to an agreement or arrangement, etc.",
-      "sensetop": "commit somebody/yourselfcommit somebody/yourself to somethingcommit somebody/yourself to doing somethingcommit somebody/yourself to do something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They want to see the text of the proposed treaty before **fully committing** themselves.",
-          "contextForm": "commit somebody/yourself"
-        },
-        {
-          "text": "Making an application does not commit you to anything.",
-          "contextForm": "commit somebody/yourself to something"
-        },
-        {
-          "text": "Borrowers should think carefully before committing themselves to taking out a loan.",
-          "contextForm": "commit somebody/yourself to doing something"
-        },
-        {
-          "text": "Both sides committed themselves to settle the dispute peacefully.",
-          "contextForm": "commit somebody/yourself to do something"
-        },
-        {
-          "text": "He has now committed us to buying the house."
-        },
-        {
-          "text": "We need people to commit themselves to regular voluntary work."
-        },
-        {
-          "text": "Both candidates refused to commit themselves to tax cuts."
-        },
-        {
-          "text": "Several countries were reluctant to commit themselves to the treaty."
-        }
-      ],
-      "topics": ["Discussion and agreement"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to give an opinion or make a decision openly so that it is then difficult to change it",
-      "sensetop": "commit yourself (to something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "You don't have to commit yourself now—just think about it."
-        },
-        {
-          "text": "I don't know what his opinion is. He won't commit himself."
-        },
-        {
-          "text": "He had never committed himself to any ideology."
-        }
-      ],
-      "topics": ["Preferences and decisions", "Opinion and argument"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to stay with and completely support one person, organization, etc. or give all your time and effort to your work, an activity, etc.",
-      "sensetop": "commit (to somebody/something)",
-      "examples": [
-        {
-          "text": "Why is he so scared to commit? *(= say he will stay with one person)*"
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to spend money or time on something/somebody",
-      "sensetop": "commit something",
-      "examples": [
-        {
-          "text": "The council has committed large amounts of money to housing projects."
-        },
-        {
-          "text": "The University committed substantial funds to assisting mature students."
-        }
-      ]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to order somebody to be sent to a hospital, prison, etc.",
-      "sensetop": "commit somebody to something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She was committed to a psychiatric hospital."
-        }
-      ],
-      "topics": ["Crime and punishment"]
-    },
-    {
-      "senseNumber": 8,
-      "definition": "to send somebody for trial in court",
-      "sensetop": "commit somebody",
-      "examples": [
-        {
-          "text": "The attackers were committed for trial at Bristol Crown Court."
-        }
-      ]
-    },
-    {
-      "senseNumber": 9,
-      "definition": "to learn something well enough to remember it exactly",
-      "sensetop": "commit something to memory",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "She committed the instructions to memory."
-        }
-      ],
-      "topics": ["Education"]
-    },
-    {
-      "senseNumber": 10,
-      "definition": "to write something down",
-      "sensetop": "commit something to paper/writing",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kəˈmɪt/",
-        "audio": "co/commit/commit__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/kəˈmɪts/",
-        "audio": "co/commit/commits__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kəˈmɪtɪd/",
-        "audio": "co/commit/committed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kəˈmɪtɪŋ/",
-        "audio": "co/commit/committing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kəˈmɪt/",
-        "audio": "co/commit/commit__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəˈmɪts/",
-        "audio": "co/commit/commits__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəˈmɪtɪd/",
-        "audio": "co/commit/committed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəˈmɪtɪŋ/",
-        "audio": "co/commit/committing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Latin committere ‘join, entrust’ (in medieval Latin ‘put into custody’), from com- ‘with’ + mittere ‘put or send’."
+	"term": "commit",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "commit",
+			"heSheIt": "commits"
+		},
+		"pastSimple": "committed",
+		"pastParticiple": "committed",
+		"ingForm": "committing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to do something wrong or illegal",
+			"sensetop": "commit something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **commit a crime/an offence**"
+				},
+				{
+					"text": "to **commit murder/fraud/adultery**"
+				},
+				{
+					"text": "to **commit an act** of violence/terrorism"
+				},
+				{
+					"text": "to **commit an error/a sin**"
+				},
+				{
+					"text": "to **commit atrocities**"
+				},
+				{
+					"text": "appalling crimes committed against innocent children"
+				},
+				{
+					"text": "Most crimes are committed by young men."
+				},
+				{
+					"text": "The men are being held on suspicion of **conspiracy to commit** armed robbery."
+				},
+				{
+					"text": "He denied conspiring to commit robberies in April last year."
+				},
+				{
+					"text": "He was punished for a murder he did not commit."
+				},
+				{
+					"text": "I had committed a faux pas by referring to her ex-husband."
+				},
+				{
+					"text": "Was she capable of committing a crime?"
+				},
+				{
+					"text": "committing an act of violence"
+				},
+				{
+					"text": "What leads someone to commit murder?"
+				}
+			],
+			"topics": ["Crime and punishment"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to kill yourself deliberately",
+			"sensetop": "commit suicide",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Her father had **committed suicide**."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to promise sincerely that you will definitely do something, keep to an agreement or arrangement, etc.",
+			"sensetop": "commit somebody/yourselfcommit somebody/yourself to somethingcommit somebody/yourself to doing somethingcommit somebody/yourself to do something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They want to see the text of the proposed treaty before **fully committing** themselves.",
+					"contextForm": "commit somebody/yourself"
+				},
+				{
+					"text": "Making an application does not commit you to anything.",
+					"contextForm": "commit somebody/yourself to something"
+				},
+				{
+					"text": "Borrowers should think carefully before committing themselves to taking out a loan.",
+					"contextForm": "commit somebody/yourself to doing something"
+				},
+				{
+					"text": "Both sides committed themselves to settle the dispute peacefully.",
+					"contextForm": "commit somebody/yourself to do something"
+				},
+				{
+					"text": "He has now committed us to buying the house."
+				},
+				{
+					"text": "We need people to commit themselves to regular voluntary work."
+				},
+				{
+					"text": "Both candidates refused to commit themselves to tax cuts."
+				},
+				{
+					"text": "Several countries were reluctant to commit themselves to the treaty."
+				}
+			],
+			"topics": ["Discussion and agreement"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to give an opinion or make a decision openly so that it is then difficult to change it",
+			"sensetop": "commit yourself (to something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "You don't have to commit yourself now—just think about it."
+				},
+				{
+					"text": "I don't know what his opinion is. He won't commit himself."
+				},
+				{
+					"text": "He had never committed himself to any ideology."
+				}
+			],
+			"topics": ["Preferences and decisions", "Opinion and argument"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to stay with and completely support one person, organization, etc. or give all your time and effort to your work, an activity, etc.",
+			"sensetop": "commit (to somebody/something)",
+			"examples": [
+				{
+					"text": "Why is he so scared to commit? *(= say he will stay with one person)*"
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to spend money or time on something/somebody",
+			"sensetop": "commit something",
+			"examples": [
+				{
+					"text": "The council has committed large amounts of money to housing projects."
+				},
+				{
+					"text": "The University committed substantial funds to assisting mature students."
+				}
+			]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to order somebody to be sent to a hospital, prison, etc.",
+			"sensetop": "commit somebody to something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She was committed to a psychiatric hospital."
+				}
+			],
+			"topics": ["Crime and punishment"]
+		},
+		{
+			"senseNumber": 8,
+			"definition": "to send somebody for trial in court",
+			"sensetop": "commit somebody",
+			"examples": [
+				{
+					"text": "The attackers were committed for trial at Bristol Crown Court."
+				}
+			]
+		},
+		{
+			"senseNumber": 9,
+			"definition": "to learn something well enough to remember it exactly",
+			"sensetop": "commit something to memory",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "She committed the instructions to memory."
+				}
+			],
+			"topics": ["Education"]
+		},
+		{
+			"senseNumber": 10,
+			"definition": "to write something down",
+			"sensetop": "commit something to paper/writing",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kəˈmɪt/",
+				"audio": "co/commit/commit__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/kəˈmɪts/",
+				"audio": "co/commit/commits__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kəˈmɪtɪd/",
+				"audio": "co/commit/committed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kəˈmɪtɪŋ/",
+				"audio": "co/commit/committing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kəˈmɪt/",
+				"audio": "co/commit/commit__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəˈmɪts/",
+				"audio": "co/commit/commits__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəˈmɪtɪd/",
+				"audio": "co/commit/committed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəˈmɪtɪŋ/",
+				"audio": "co/commit/committing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Latin committere ‘join, entrust’ (in medieval Latin ‘put into custody’), from com- ‘with’ + mittere ‘put or send’."
 }

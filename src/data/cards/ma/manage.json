@@ -1,329 +1,329 @@
 {
-  "term": "manage",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "manage",
-      "heSheIt": "manages"
-    },
-    "pastSimple": "managed",
-    "pastParticiple": "managed",
-    "ingForm": "managing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to control or be in charge of a business, a team, an organization, land, etc.",
-      "sensetop": "manage (something)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to manage a business/factory/bank/hotel/soccer team"
-        },
-        {
-          "text": "to manage a department/project"
-        },
-        {
-          "text": "I think that Forestry Tasmania manages the forest."
-        },
-        {
-          "text": "The school has been badly managed for several years."
-        },
-        {
-          "text": "We need people who are good at managing."
-        },
-        {
-          "text": "He has no experience of managing a football team."
-        },
-        {
-          "text": "The hotel is managed by two brothers."
-        },
-        {
-          "text": "We need a new approach to managing our hospitals."
-        },
-        {
-          "text": "Organizers are looking for someone to manage the project."
-        },
-        {
-          "text": "an exchange rate system that will be tightly managed by the central bank"
-        },
-        {
-          "text": "We will actively manage your portfolio to maximize the return on your investment."
-        },
-        {
-          "text": "All applications are managed in the cloud."
-        },
-        {
-          "text": "A volunteer group is managing the Seven Fields Nature reserve."
-        }
-      ],
-      "topics": ["Working life", "Business"],
-      "collocations": {
-        "adverb": ["effectively", "efficiently", "properly"],
-        "verb + manage": ["be difficult to", "be easy to", "learn (how) to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to succeed in doing something, especially something difficult",
-      "sensetop": "manage to do something",
-      "labels": "(humorous)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I don't know exactly how we'll **manage it**, but we will, somehow."
-        },
-        {
-          "text": "Can you manage another piece of cake? *(= eat one)*"
-        },
-        {
-          "text": "We managed to get to the airport in time.",
-          "contextForm": "manage to do something"
-        },
-        {
-          "text": "How did you manage to persuade him?"
-        },
-        {
-          "text": "She **somehow managed** to escape through the window."
-        },
-        {
-          "text": "He always manages to say the wrong thing."
-        },
-        {
-          "text": "They managed to find a place to stay."
-        },
-        {
-          "text": "We couldn't have managed without you."
-        },
-        {
-          "text": "‘Need any help?’ ‘No, thanks. I can manage.’"
-        },
-        {
-          "text": "He easily managed to disarm his attacker."
-        },
-        {
-          "text": "She skilfully managed to keep the aircraft on the runway."
-        },
-        {
-          "text": "Paul barely managed to stifle a chuckle."
-        }
-      ],
-      "topics": ["Success"],
-      "collocations": {
-        "adverb": ["nicely", "perfectly well", "very well"],
-        "verb + manage": ["be able to", "can", "have to"],
-        "preposition": ["on", "without"],
-        "phrases": ["manage on your own"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to succeed in achieving or producing something",
-      "sensetop": "manage something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "In spite of his disappointment, he managed a weak smile."
-        },
-        {
-          "text": "Davies manages light humour without seeming silly."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to be able to solve your problems, deal with a difficult situation, etc.",
-      "sensetop": "manage with/without somebody/something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She's 82 and can't manage on her own any more."
-        },
-        {
-          "text": "How do you manage without a car?",
-          "contextForm": "manage with/without somebody/something"
-        },
-        {
-          "text": "I can manage without a dishwasher."
-        },
-        {
-          "text": "I don’t know how she manages on her own with four kids."
-        }
-      ],
-      "collocations": {
-        "adverb": ["nicely", "perfectly well", "very well"],
-        "verb + manage": ["be able to", "can", "have to"],
-        "preposition": ["on", "without"],
-        "phrases": ["manage on your own"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to be able to live or survive without having much money, support, sleep, etc.",
-      "sensetop": "manage on somethingmanage with something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "young families who are just about managing"
-        },
-        {
-          "text": "She was finding it difficult to manage financially."
-        },
-        {
-          "text": "He has to manage on less than £100 a week.",
-          "contextForm": "manage on something"
-        },
-        {
-          "text": "Many find it difficult to manage on their weekly income."
-        },
-        {
-          "text": "He generally managed on five hours' sleep a night."
-        },
-        {
-          "text": "Everyone will just have to manage with less.",
-          "contextForm": "manage with something"
-        }
-      ],
-      "collocations": {
-        "adverb": ["nicely", "perfectly well", "very well"],
-        "verb + manage": ["be able to", "can", "have to"],
-        "preposition": ["on", "without"],
-        "phrases": ["manage on your own"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to use money, time, information, etc. in a sensible way",
-      "sensetop": "manage something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Don't tell me how to manage my affairs."
-        },
-        {
-          "text": "a computer program that helps you manage data efficiently"
-        },
-        {
-          "text": "This enables pension funds to manage risk."
-        },
-        {
-          "text": "Charities have to be careful about how they manage their resources."
-        },
-        {
-          "text": "You need to learn how to manage your time effectively."
-        }
-      ],
-      "collocations": {
-        "adverb": ["nicely", "perfectly well", "very well"],
-        "verb + manage": ["be able to", "can", "have to"],
-        "preposition": ["on", "without"],
-        "phrases": ["manage on your own"]
-      }
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to be able to do something at a particular time",
-      "sensetop": "manage something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Let's meet up again—can you manage next week sometime?"
-        }
-      ]
-    },
-    {
-      "senseNumber": 8,
-      "definition": "to keep somebody/something under control; to be able to deal with somebody/something",
-      "sensetop": "manage somebody/something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "It's like trying to manage an unruly child."
-        },
-        {
-          "text": "Can you manage that suitcase?"
-        },
-        {
-          "text": "She manages horses better than anyone I know."
-        },
-        {
-          "text": "I really liked the chapter about how to manage stress."
-        },
-        {
-          "text": "How do skydivers manage these risks in practice?"
-        },
-        {
-          "text": "The condition can be easily managed by simple dietary adjustments."
-        },
-        {
-          "text": "They have learnt to successfully manage their diabetes."
-        }
-      ],
-      "collocations": {
-        "adverb": ["effectively", "efficiently", "properly"],
-        "verb + manage": ["be difficult to", "be easy to", "learn (how) to"]
-      }
-    },
-    {
-      "senseNumber": 9,
-      "definition": "to control how land is used, so that it is used in a sensible way",
-      "sensetop": "manage something",
-      "examples": [
-        {
-          "text": "The landowners manage their land to provide habitat for the desired species."
-        },
-        {
-          "text": "All the timber comes from sustainably managed forests."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmænɪdʒ/",
-        "audio": "ma/manage/manage__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmænɪdʒɪz/",
-        "audio": "ma/manage/manages__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmænɪdʒd/",
-        "audio": "ma/manage/managed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmænɪdʒɪŋ/",
-        "audio": "ma/manage/managing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmænɪdʒ/",
-        "audio": "ma/manage/manage__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈmænɪdʒɪz/",
-        "audio": "ma/manage/manages__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmænɪdʒd/",
-        "audio": "ma/manage/managed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmænɪdʒɪŋ/",
-        "audio": "ma/manage/managing__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent. (in the sense ‘put (a horse) through the paces of the manège’): from Italian maneggiare, based on Latin manus ‘hand’."
+	"term": "manage",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "manage",
+			"heSheIt": "manages"
+		},
+		"pastSimple": "managed",
+		"pastParticiple": "managed",
+		"ingForm": "managing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to control or be in charge of a business, a team, an organization, land, etc.",
+			"sensetop": "manage (something)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to manage a business/factory/bank/hotel/soccer team"
+				},
+				{
+					"text": "to manage a department/project"
+				},
+				{
+					"text": "I think that Forestry Tasmania manages the forest."
+				},
+				{
+					"text": "The school has been badly managed for several years."
+				},
+				{
+					"text": "We need people who are good at managing."
+				},
+				{
+					"text": "He has no experience of managing a football team."
+				},
+				{
+					"text": "The hotel is managed by two brothers."
+				},
+				{
+					"text": "We need a new approach to managing our hospitals."
+				},
+				{
+					"text": "Organizers are looking for someone to manage the project."
+				},
+				{
+					"text": "an exchange rate system that will be tightly managed by the central bank"
+				},
+				{
+					"text": "We will actively manage your portfolio to maximize the return on your investment."
+				},
+				{
+					"text": "All applications are managed in the cloud."
+				},
+				{
+					"text": "A volunteer group is managing the Seven Fields Nature reserve."
+				}
+			],
+			"topics": ["Working life", "Business"],
+			"collocations": {
+				"adverb": ["effectively", "efficiently", "properly"],
+				"verb + manage": ["be difficult to", "be easy to", "learn (how) to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to succeed in doing something, especially something difficult",
+			"sensetop": "manage to do something",
+			"labels": "(humorous)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I don't know exactly how we'll **manage it**, but we will, somehow."
+				},
+				{
+					"text": "Can you manage another piece of cake? *(= eat one)*"
+				},
+				{
+					"text": "We managed to get to the airport in time.",
+					"contextForm": "manage to do something"
+				},
+				{
+					"text": "How did you manage to persuade him?"
+				},
+				{
+					"text": "She **somehow managed** to escape through the window."
+				},
+				{
+					"text": "He always manages to say the wrong thing."
+				},
+				{
+					"text": "They managed to find a place to stay."
+				},
+				{
+					"text": "We couldn't have managed without you."
+				},
+				{
+					"text": "‘Need any help?’ ‘No, thanks. I can manage.’"
+				},
+				{
+					"text": "He easily managed to disarm his attacker."
+				},
+				{
+					"text": "She skilfully managed to keep the aircraft on the runway."
+				},
+				{
+					"text": "Paul barely managed to stifle a chuckle."
+				}
+			],
+			"topics": ["Success"],
+			"collocations": {
+				"adverb": ["nicely", "perfectly well", "very well"],
+				"verb + manage": ["be able to", "can", "have to"],
+				"preposition": ["on", "without"],
+				"phrases": ["manage on your own"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to succeed in achieving or producing something",
+			"sensetop": "manage something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "In spite of his disappointment, he managed a weak smile."
+				},
+				{
+					"text": "Davies manages light humour without seeming silly."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to be able to solve your problems, deal with a difficult situation, etc.",
+			"sensetop": "manage with/without somebody/something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She's 82 and can't manage on her own any more."
+				},
+				{
+					"text": "How do you manage without a car?",
+					"contextForm": "manage with/without somebody/something"
+				},
+				{
+					"text": "I can manage without a dishwasher."
+				},
+				{
+					"text": "I don’t know how she manages on her own with four kids."
+				}
+			],
+			"collocations": {
+				"adverb": ["nicely", "perfectly well", "very well"],
+				"verb + manage": ["be able to", "can", "have to"],
+				"preposition": ["on", "without"],
+				"phrases": ["manage on your own"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to be able to live or survive without having much money, support, sleep, etc.",
+			"sensetop": "manage on somethingmanage with something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "young families who are just about managing"
+				},
+				{
+					"text": "She was finding it difficult to manage financially."
+				},
+				{
+					"text": "He has to manage on less than £100 a week.",
+					"contextForm": "manage on something"
+				},
+				{
+					"text": "Many find it difficult to manage on their weekly income."
+				},
+				{
+					"text": "He generally managed on five hours' sleep a night."
+				},
+				{
+					"text": "Everyone will just have to manage with less.",
+					"contextForm": "manage with something"
+				}
+			],
+			"collocations": {
+				"adverb": ["nicely", "perfectly well", "very well"],
+				"verb + manage": ["be able to", "can", "have to"],
+				"preposition": ["on", "without"],
+				"phrases": ["manage on your own"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to use money, time, information, etc. in a sensible way",
+			"sensetop": "manage something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Don't tell me how to manage my affairs."
+				},
+				{
+					"text": "a computer program that helps you manage data efficiently"
+				},
+				{
+					"text": "This enables pension funds to manage risk."
+				},
+				{
+					"text": "Charities have to be careful about how they manage their resources."
+				},
+				{
+					"text": "You need to learn how to manage your time effectively."
+				}
+			],
+			"collocations": {
+				"adverb": ["nicely", "perfectly well", "very well"],
+				"verb + manage": ["be able to", "can", "have to"],
+				"preposition": ["on", "without"],
+				"phrases": ["manage on your own"]
+			}
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to be able to do something at a particular time",
+			"sensetop": "manage something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Let's meet up again—can you manage next week sometime?"
+				}
+			]
+		},
+		{
+			"senseNumber": 8,
+			"definition": "to keep somebody/something under control; to be able to deal with somebody/something",
+			"sensetop": "manage somebody/something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "It's like trying to manage an unruly child."
+				},
+				{
+					"text": "Can you manage that suitcase?"
+				},
+				{
+					"text": "She manages horses better than anyone I know."
+				},
+				{
+					"text": "I really liked the chapter about how to manage stress."
+				},
+				{
+					"text": "How do skydivers manage these risks in practice?"
+				},
+				{
+					"text": "The condition can be easily managed by simple dietary adjustments."
+				},
+				{
+					"text": "They have learnt to successfully manage their diabetes."
+				}
+			],
+			"collocations": {
+				"adverb": ["effectively", "efficiently", "properly"],
+				"verb + manage": ["be difficult to", "be easy to", "learn (how) to"]
+			}
+		},
+		{
+			"senseNumber": 9,
+			"definition": "to control how land is used, so that it is used in a sensible way",
+			"sensetop": "manage something",
+			"examples": [
+				{
+					"text": "The landowners manage their land to provide habitat for the desired species."
+				},
+				{
+					"text": "All the timber comes from sustainably managed forests."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmænɪdʒ/",
+				"audio": "ma/manage/manage__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmænɪdʒɪz/",
+				"audio": "ma/manage/manages__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmænɪdʒd/",
+				"audio": "ma/manage/managed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmænɪdʒɪŋ/",
+				"audio": "ma/manage/managing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmænɪdʒ/",
+				"audio": "ma/manage/manage__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈmænɪdʒɪz/",
+				"audio": "ma/manage/manages__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmænɪdʒd/",
+				"audio": "ma/manage/managed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmænɪdʒɪŋ/",
+				"audio": "ma/manage/managing__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent. (in the sense ‘put (a horse) through the paces of the manège’): from Italian maneggiare, based on Latin manus ‘hand’."
 }

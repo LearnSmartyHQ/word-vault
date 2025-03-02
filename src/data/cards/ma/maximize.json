@@ -1,95 +1,95 @@
 {
-  "term": "maximize",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "maximize",
-      "heSheIt": "maximizes"
-    },
-    "pastSimple": "maximized",
-    "pastParticiple": "maximized",
-    "ingForm": "maximizing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to increase something as much as possible",
-      "sensetop": "maximize something",
-      "labels": "(computing)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "to **maximize efficiency/fitness/profits**"
-        },
-        {
-          "text": "Maximize the window to full screen."
-        },
-        {
-          "text": "The company is seeking to maximize its productivity."
-        },
-        {
-          "text": "These exercises are designed to maximize coordination."
-        },
-        {
-          "text": "They drew up a six-point plan to maximize safety and efficiency in the use of the equipment."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to make the best use of something",
-      "sensetop": "maximize something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "to **maximize opportunities/resources**"
-        },
-        {
-          "text": "The purpose of the restructuring is to maximize opportunities in the global market."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmæksɪmaɪz/",
-        "audio": "ma/maximize/maximize__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmæksɪmaɪzɪz/",
-        "audio": "ma/maximize/maximizes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmæksɪmaɪzd/",
-        "audio": "ma/maximize/maximized__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmæksɪmaɪzɪŋ/",
-        "audio": "ma/maximize/maximizing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmæksɪmaɪz/",
-        "audio": "ma/maximize/maximize__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmæksɪmaɪzɪz/",
-        "audio": "ma/maximize/maximizes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmæksɪmaɪzd/",
-        "audio": "ma/maximize/maximized__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmæksɪmaɪzɪŋ/",
-        "audio": "ma/maximize/maximizing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 19th cent.: from Latin maximus (superlative of magnus ‘great’) + -ize."
+	"term": "maximize",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "maximize",
+			"heSheIt": "maximizes"
+		},
+		"pastSimple": "maximized",
+		"pastParticiple": "maximized",
+		"ingForm": "maximizing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to increase something as much as possible",
+			"sensetop": "maximize something",
+			"labels": "(computing)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "to **maximize efficiency/fitness/profits**"
+				},
+				{
+					"text": "Maximize the window to full screen."
+				},
+				{
+					"text": "The company is seeking to maximize its productivity."
+				},
+				{
+					"text": "These exercises are designed to maximize coordination."
+				},
+				{
+					"text": "They drew up a six-point plan to maximize safety and efficiency in the use of the equipment."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to make the best use of something",
+			"sensetop": "maximize something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "to **maximize opportunities/resources**"
+				},
+				{
+					"text": "The purpose of the restructuring is to maximize opportunities in the global market."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmæksɪmaɪz/",
+				"audio": "ma/maximize/maximize__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmæksɪmaɪzɪz/",
+				"audio": "ma/maximize/maximizes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmæksɪmaɪzd/",
+				"audio": "ma/maximize/maximized__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmæksɪmaɪzɪŋ/",
+				"audio": "ma/maximize/maximizing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmæksɪmaɪz/",
+				"audio": "ma/maximize/maximize__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmæksɪmaɪzɪz/",
+				"audio": "ma/maximize/maximizes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmæksɪmaɪzd/",
+				"audio": "ma/maximize/maximized__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmæksɪmaɪzɪŋ/",
+				"audio": "ma/maximize/maximizing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 19th cent.: from Latin maximus (superlative of magnus ‘great’) + -ize."
 }

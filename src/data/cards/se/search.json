@@ -1,144 +1,144 @@
 {
-  "term": "search",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an attempt to find somebody/something, especially by looking carefully for them/it",
-      "sensetop": "search for somebody/somethingsearch of somethingin search of somebody/something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a long search for the murder weapon",
-          "contextForm": "search for somebody/something"
-        },
-        {
-          "text": "She began a search for new premises"
-        },
-        {
-          "text": "The search for a cure goes on."
-        },
-        {
-          "text": "**The search is on** *(= has begun)* for someone to fill the post."
-        },
-        {
-          "text": "Detectives **carried out a** thorough **search** of the building.",
-          "contextForm": "search of something"
-        },
-        {
-          "text": "Police **conducted a** fingertip **search** of the garden."
-        },
-        {
-          "text": "She went into the kitchen in search of *(= looking for)* a drink.",
-          "contextForm": "in search of somebody/something"
-        },
-        {
-          "text": "Eventually the search was called off."
-        },
-        {
-          "text": "a **search and rescue** team"
-        },
-        {
-          "text": "His disappearance prompted a week-long search."
-        },
-        {
-          "text": "A team of police officers did a fingertip search of the area."
-        },
-        {
-          "text": "I was subjected to a body search by customs officials."
-        },
-        {
-          "text": "Inspector Binns is leading the search for the stolen paintings."
-        },
-        {
-          "text": "Police conducted a routine search of all the houses in the area."
-        },
-        {
-          "text": "The search for the missing men was conducted in poor weather conditions."
-        },
-        {
-          "text": "The police immediately launched a nationwide search for the killer."
-        },
-        {
-          "text": "The police mounted an extensive search operation."
-        },
-        {
-          "text": "We're constantly in search of new talent."
-        },
-        {
-          "text": "random security searches"
-        },
-        {
-          "text": "the search for oil off the coast"
-        },
-        {
-          "text": "to narrow the search area"
-        }
-      ],
-      "collocations": {
-        "adjective": ["exhaustive", "extensive", "painstaking"],
-        "verb + search": ["begin", "initiate", "launch"],
-        "search + noun": ["operation", "area", "party"],
-        "preposition": ["in search of", "search for"],
-        "phrases": ["search and seizure"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an act or the activity of looking for information on a computer or on the internet",
-      "sensetop": "search for somethingsearch on something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I've just **done a search** on the internet and came up with this website."
-        },
-        {
-          "text": "I did an image search for ‘vinyl record’.",
-          "contextForm": "search for something"
-        },
-        {
-          "text": "A **Google search** on her name yielded nothing.",
-          "contextForm": "search on something"
-        },
-        {
-          "text": "Our site is found on the first page of **search results**."
-        },
-        {
-          "text": "I did an internet search for free music sites."
-        },
-        {
-          "text": "Companies try to identify the most popular search terms."
-        },
-        {
-          "text": "Type your domain name in the search box."
-        }
-      ],
-      "topics": ["Computers"],
-      "collocations": {
-        "adjective": ["quick", "simple", "computer"],
-        "verb + search": ["conduct", "do", "perform"],
-        "search + noun": ["engine", "box", "features"],
-        "preposition": ["search for"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/sɜːtʃ/",
-        "audio": "se/search/search__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/sɜːrtʃ/",
-        "audio": "se/search/search__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French cerchier (verb), from late Latin circare ‘go round’, from Latin circus ‘circle’."
+	"term": "search",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an attempt to find somebody/something, especially by looking carefully for them/it",
+			"sensetop": "search for somebody/somethingsearch of somethingin search of somebody/something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a long search for the murder weapon",
+					"contextForm": "search for somebody/something"
+				},
+				{
+					"text": "She began a search for new premises"
+				},
+				{
+					"text": "The search for a cure goes on."
+				},
+				{
+					"text": "**The search is on** *(= has begun)* for someone to fill the post."
+				},
+				{
+					"text": "Detectives **carried out a** thorough **search** of the building.",
+					"contextForm": "search of something"
+				},
+				{
+					"text": "Police **conducted a** fingertip **search** of the garden."
+				},
+				{
+					"text": "She went into the kitchen in search of *(= looking for)* a drink.",
+					"contextForm": "in search of somebody/something"
+				},
+				{
+					"text": "Eventually the search was called off."
+				},
+				{
+					"text": "a **search and rescue** team"
+				},
+				{
+					"text": "His disappearance prompted a week-long search."
+				},
+				{
+					"text": "A team of police officers did a fingertip search of the area."
+				},
+				{
+					"text": "I was subjected to a body search by customs officials."
+				},
+				{
+					"text": "Inspector Binns is leading the search for the stolen paintings."
+				},
+				{
+					"text": "Police conducted a routine search of all the houses in the area."
+				},
+				{
+					"text": "The search for the missing men was conducted in poor weather conditions."
+				},
+				{
+					"text": "The police immediately launched a nationwide search for the killer."
+				},
+				{
+					"text": "The police mounted an extensive search operation."
+				},
+				{
+					"text": "We're constantly in search of new talent."
+				},
+				{
+					"text": "random security searches"
+				},
+				{
+					"text": "the search for oil off the coast"
+				},
+				{
+					"text": "to narrow the search area"
+				}
+			],
+			"collocations": {
+				"adjective": ["exhaustive", "extensive", "painstaking"],
+				"verb + search": ["begin", "initiate", "launch"],
+				"search + noun": ["operation", "area", "party"],
+				"preposition": ["in search of", "search for"],
+				"phrases": ["search and seizure"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an act or the activity of looking for information on a computer or on the internet",
+			"sensetop": "search for somethingsearch on something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I've just **done a search** on the internet and came up with this website."
+				},
+				{
+					"text": "I did an image search for ‘vinyl record’.",
+					"contextForm": "search for something"
+				},
+				{
+					"text": "A **Google search** on her name yielded nothing.",
+					"contextForm": "search on something"
+				},
+				{
+					"text": "Our site is found on the first page of **search results**."
+				},
+				{
+					"text": "I did an internet search for free music sites."
+				},
+				{
+					"text": "Companies try to identify the most popular search terms."
+				},
+				{
+					"text": "Type your domain name in the search box."
+				}
+			],
+			"topics": ["Computers"],
+			"collocations": {
+				"adjective": ["quick", "simple", "computer"],
+				"verb + search": ["conduct", "do", "perform"],
+				"search + noun": ["engine", "box", "features"],
+				"preposition": ["search for"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/sɜːtʃ/",
+				"audio": "se/search/search__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/sɜːrtʃ/",
+				"audio": "se/search/search__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French cerchier (verb), from late Latin circare ‘go round’, from Latin circus ‘circle’."
 }

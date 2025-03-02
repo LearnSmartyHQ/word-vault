@@ -1,142 +1,142 @@
 {
-  "term": "consult",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "consult",
-      "heSheIt": "consults"
-    },
-    "pastSimple": "consulted",
-    "pastParticiple": "consulted",
-    "ingForm": "consulting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to go to somebody for information or advice",
-      "sensetop": "consult somebodyconsult somebody about somethingconsult with somebody (about/on something)",
-      "labels": "(North American English)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "If the pain continues, consult your doctor.",
-          "contextForm": "consult somebody"
-        },
-        {
-          "text": "Have you consulted your lawyer about this?",
-          "contextForm": "consult somebody about something"
-        },
-        {
-          "text": "a consulting engineer *(= one who has expert knowledge and gives advice)*"
-        },
-        {
-          "text": "Consult with your physician about possible treatments.",
-          "contextForm": "consult with somebody (about/on something)"
-        },
-        {
-          "text": "I need to consult my teacher about changing my course."
-        },
-        {
-          "text": "If the pain persists you should consult your doctor."
-        }
-      ],
-      "topics": ["Suggestions and advice", "Healthcare"],
-      "collocations": {
-        "adverb": ["widely", "closely", "frequently"],
-        "verb + consult": ["need to", "should"],
-        "preposition": ["about", "with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to discuss something with somebody to get their permission for something, or to help you make a decision",
-      "sensetop": "consult somebodyconsult somebody about/on somethingconsult (with somebody) (about/on something)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "You shouldn't have done it without consulting me.",
-          "contextForm": "consult somebody"
-        },
-        {
-          "text": "I expect to be consulted about major issues.",
-          "contextForm": "consult somebody about/on something"
-        },
-        {
-          "text": "I need to consult with my colleagues on the proposals.",
-          "contextForm": "consult (with somebody) (about/on something)"
-        },
-        {
-          "text": "We consulted quite widely before deciding what to do."
-        },
-        {
-          "text": "We are consulting closely with our partners and allies."
-        },
-        {
-          "text": "They felt they had not been adequately consulted."
-        }
-      ],
-      "topics": ["Preferences and decisions"],
-      "collocations": {
-        "adverb": ["widely", "closely", "frequently"],
-        "verb + consult": ["need to", "should"],
-        "preposition": ["about", "with"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to look in or at something to get information",
-      "sensetop": "consult something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "He consulted the manual."
-        },
-        {
-          "text": "If you're not sure which plug to buy, consult the manual."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kənˈsʌlt/",
-        "audio": "xc/consult/xconsult__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/kənˈsʌlts/",
-        "audio": "xc/consult/xconsults__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈsʌltɪd/",
-        "audio": "xc/consult/xconsulted__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈsʌltɪŋ/",
-        "audio": "xc/consult/xconsulting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kənˈsʌlt/",
-        "audio": "xc/consult/xconsult__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈsʌlts/",
-        "audio": "xc/consult/xconsults__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈsʌltɪd/",
-        "audio": "xc/consult/xconsulted__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈsʌltɪŋ/",
-        "audio": "xc/consult/xconsulting__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 16th cent. (in the sense ‘confer’): from French consulter, from Latin consultare, frequentative of consulere ‘take counsel’."
+	"term": "consult",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "consult",
+			"heSheIt": "consults"
+		},
+		"pastSimple": "consulted",
+		"pastParticiple": "consulted",
+		"ingForm": "consulting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to go to somebody for information or advice",
+			"sensetop": "consult somebodyconsult somebody about somethingconsult with somebody (about/on something)",
+			"labels": "(North American English)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "If the pain continues, consult your doctor.",
+					"contextForm": "consult somebody"
+				},
+				{
+					"text": "Have you consulted your lawyer about this?",
+					"contextForm": "consult somebody about something"
+				},
+				{
+					"text": "a consulting engineer *(= one who has expert knowledge and gives advice)*"
+				},
+				{
+					"text": "Consult with your physician about possible treatments.",
+					"contextForm": "consult with somebody (about/on something)"
+				},
+				{
+					"text": "I need to consult my teacher about changing my course."
+				},
+				{
+					"text": "If the pain persists you should consult your doctor."
+				}
+			],
+			"topics": ["Suggestions and advice", "Healthcare"],
+			"collocations": {
+				"adverb": ["widely", "closely", "frequently"],
+				"verb + consult": ["need to", "should"],
+				"preposition": ["about", "with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to discuss something with somebody to get their permission for something, or to help you make a decision",
+			"sensetop": "consult somebodyconsult somebody about/on somethingconsult (with somebody) (about/on something)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "You shouldn't have done it without consulting me.",
+					"contextForm": "consult somebody"
+				},
+				{
+					"text": "I expect to be consulted about major issues.",
+					"contextForm": "consult somebody about/on something"
+				},
+				{
+					"text": "I need to consult with my colleagues on the proposals.",
+					"contextForm": "consult (with somebody) (about/on something)"
+				},
+				{
+					"text": "We consulted quite widely before deciding what to do."
+				},
+				{
+					"text": "We are consulting closely with our partners and allies."
+				},
+				{
+					"text": "They felt they had not been adequately consulted."
+				}
+			],
+			"topics": ["Preferences and decisions"],
+			"collocations": {
+				"adverb": ["widely", "closely", "frequently"],
+				"verb + consult": ["need to", "should"],
+				"preposition": ["about", "with"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to look in or at something to get information",
+			"sensetop": "consult something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "He consulted the manual."
+				},
+				{
+					"text": "If you're not sure which plug to buy, consult the manual."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kənˈsʌlt/",
+				"audio": "xc/consult/xconsult__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/kənˈsʌlts/",
+				"audio": "xc/consult/xconsults__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈsʌltɪd/",
+				"audio": "xc/consult/xconsulted__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈsʌltɪŋ/",
+				"audio": "xc/consult/xconsulting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kənˈsʌlt/",
+				"audio": "xc/consult/xconsult__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈsʌlts/",
+				"audio": "xc/consult/xconsults__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈsʌltɪd/",
+				"audio": "xc/consult/xconsulted__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈsʌltɪŋ/",
+				"audio": "xc/consult/xconsulting__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 16th cent. (in the sense ‘confer’): from French consulter, from Latin consultare, frequentative of consulere ‘take counsel’."
 }

@@ -1,121 +1,121 @@
 {
-  "term": "compensate",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "compensate",
-      "heSheIt": "compensates"
-    },
-    "pastSimple": "compensated",
-    "pastParticiple": "compensated",
-    "ingForm": "compensating"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to provide something good to balance or reduce the bad effects of damage, loss, etc.",
-      "sensetop": "compensate (for something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Nothing can compensate for the loss of a loved one."
-        },
-        {
-          "text": "His voice doesn't have much range but he compensates with clever lyrics."
-        },
-        {
-          "text": "The advantages of the plan more than compensate for the risks associated with it."
-        },
-        {
-          "text": "State-of-the-art appliances may be expensive, but to compensate they will be more energy-efficient and last longer."
-        }
-      ],
-      "collocations": {
-        "adverb": ["amply", "fully", "more than"],
-        "preposition": ["for", "with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to act in order to balance or correct something wrong or not normal",
-      "sensetop": "compensate (for something)",
-      "examples": [
-        {
-          "text": "In the second experiment, the temperature was raised to compensate for this bias."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to pay somebody money because they have suffered some damage, loss, injury, etc.",
-      "sensetop": "compensate somebody (for something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Her lawyers say she should be compensated for the suffering she had been caused."
-        },
-        {
-          "text": "The rail company offered to compensate passengers for any inconvenience caused."
-        },
-        {
-          "text": "a fund to compensate victims of abuse"
-        },
-        {
-          "text": "The company will compensate you for the losses you have suffered."
-        },
-        {
-          "text": "People whose health has suffered will be compensated in full."
-        },
-        {
-          "text": "I expect to be compensated financially."
-        }
-      ],
-      "collocations": {
-        "adverb": ["adequately", "fairly", "properly"],
-        "preposition": ["for"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkɒmpenseɪt/",
-        "audio": "co/compensate/compensate__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkɒmpenseɪts/",
-        "audio": "co/compensate/compensates__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkɒmpenseɪtɪd/",
-        "audio": "co/compensate/compensated__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkɒmpenseɪtɪŋ/",
-        "audio": "co/compensate/compensating__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkɑːmpenseɪt/",
-        "audio": "co/compensate/compensate__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkɑːmpenseɪts/",
-        "audio": "co/compensate/compensates__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkɑːmpenseɪtɪd/",
-        "audio": "co/compensate/compensated__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkɑːmpenseɪtɪŋ/",
-        "audio": "co/compensate/compensating__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 17th cent. (in the sense ‘counterbalance’): from Latin compensat- ‘weighed against’, from the verb compensare, from com- ‘together’ + pensare (frequentative of pendere ‘weigh’)."
+	"term": "compensate",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "compensate",
+			"heSheIt": "compensates"
+		},
+		"pastSimple": "compensated",
+		"pastParticiple": "compensated",
+		"ingForm": "compensating"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to provide something good to balance or reduce the bad effects of damage, loss, etc.",
+			"sensetop": "compensate (for something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Nothing can compensate for the loss of a loved one."
+				},
+				{
+					"text": "His voice doesn't have much range but he compensates with clever lyrics."
+				},
+				{
+					"text": "The advantages of the plan more than compensate for the risks associated with it."
+				},
+				{
+					"text": "State-of-the-art appliances may be expensive, but to compensate they will be more energy-efficient and last longer."
+				}
+			],
+			"collocations": {
+				"adverb": ["amply", "fully", "more than"],
+				"preposition": ["for", "with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to act in order to balance or correct something wrong or not normal",
+			"sensetop": "compensate (for something)",
+			"examples": [
+				{
+					"text": "In the second experiment, the temperature was raised to compensate for this bias."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to pay somebody money because they have suffered some damage, loss, injury, etc.",
+			"sensetop": "compensate somebody (for something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Her lawyers say she should be compensated for the suffering she had been caused."
+				},
+				{
+					"text": "The rail company offered to compensate passengers for any inconvenience caused."
+				},
+				{
+					"text": "a fund to compensate victims of abuse"
+				},
+				{
+					"text": "The company will compensate you for the losses you have suffered."
+				},
+				{
+					"text": "People whose health has suffered will be compensated in full."
+				},
+				{
+					"text": "I expect to be compensated financially."
+				}
+			],
+			"collocations": {
+				"adverb": ["adequately", "fairly", "properly"],
+				"preposition": ["for"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkɒmpenseɪt/",
+				"audio": "co/compensate/compensate__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkɒmpenseɪts/",
+				"audio": "co/compensate/compensates__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkɒmpenseɪtɪd/",
+				"audio": "co/compensate/compensated__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkɒmpenseɪtɪŋ/",
+				"audio": "co/compensate/compensating__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkɑːmpenseɪt/",
+				"audio": "co/compensate/compensate__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkɑːmpenseɪts/",
+				"audio": "co/compensate/compensates__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkɑːmpenseɪtɪd/",
+				"audio": "co/compensate/compensated__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkɑːmpenseɪtɪŋ/",
+				"audio": "co/compensate/compensating__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 17th cent. (in the sense ‘counterbalance’): from Latin compensat- ‘weighed against’, from the verb compensare, from com- ‘together’ + pensare (frequentative of pendere ‘weigh’)."
 }

@@ -1,120 +1,120 @@
 {
-  "term": "deal",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "deal",
-      "heSheIt": "deals"
-    },
-    "pastSimple": "dealt",
-    "pastParticiple": "dealt",
-    "ingForm": "dealing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to give cards to each player in a game of cards",
-      "sensetop": "deal (something) (out) (to somebody)deal somebody something",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Whose turn is it to deal?"
-        },
-        {
-          "text": "Start by dealing out ten cards to each player.",
-          "contextForm": "deal (something) (out) (to somebody)"
-        },
-        {
-          "text": "He dealt me two aces.",
-          "contextForm": "deal somebody something"
-        }
-      ],
-      "topics": ["Games and toys"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to buy and sell illegal drugs",
-      "sensetop": "deal (something)",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "You can often see people dealing openly on the streets."
-        },
-        {
-          "text": "He was sent to jail for dealing drugs to his friends."
-        }
-      ],
-      "topics": ["Crime and punishment"]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to shock somebody/something very much; to be very harmful to somebody/something",
-      "examples": [
-        {
-          "text": "Her sudden death dealt a blow to the whole country."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to hit somebody/something",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to tell somebody that they cannot change a situation so they must accept it",
-      "examples": [
-        {
-          "text": "That's the way it is, so deal with it!"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to do a lot of complicated deals in business or politics, often in a dishonest way",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/diːl/",
-        "audio": "de/deal/deal__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/diːlz/",
-        "audio": "de/deal/deals__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/delt/",
-        "audio": "de/deal/dealt__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈdiːlɪŋ/",
-        "audio": "de/deal/dealing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/diːl/",
-        "audio": "de/deal/deal__us_1.mp3"
-      },
-      {
-        "pronunciation": "/diːlz/",
-        "audio": "de/deal/deals__us_1.mp3"
-      },
-      {
-        "pronunciation": "/delt/",
-        "audio": "de/deal/dealt__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈdiːlɪŋ/",
-        "audio": "de/deal/dealing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "verb Old English dǣlan ‘divide’, ‘participate’, of Germanic origin; related to Dutch deel and German Teil ‘part’ (noun), also to dole. The sense ‘divide’ gave rise to ‘distribute’, hence sense 1 of the verb and 'deal somebody/​something a blow'; the sense ‘participate’ gave rise to ‘have dealings with’, hence senses 2 of the verb and 'deal with'/'deal in'."
+	"term": "deal",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "deal",
+			"heSheIt": "deals"
+		},
+		"pastSimple": "dealt",
+		"pastParticiple": "dealt",
+		"ingForm": "dealing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to give cards to each player in a game of cards",
+			"sensetop": "deal (something) (out) (to somebody)deal somebody something",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Whose turn is it to deal?"
+				},
+				{
+					"text": "Start by dealing out ten cards to each player.",
+					"contextForm": "deal (something) (out) (to somebody)"
+				},
+				{
+					"text": "He dealt me two aces.",
+					"contextForm": "deal somebody something"
+				}
+			],
+			"topics": ["Games and toys"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to buy and sell illegal drugs",
+			"sensetop": "deal (something)",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "You can often see people dealing openly on the streets."
+				},
+				{
+					"text": "He was sent to jail for dealing drugs to his friends."
+				}
+			],
+			"topics": ["Crime and punishment"]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to shock somebody/something very much; to be very harmful to somebody/something",
+			"examples": [
+				{
+					"text": "Her sudden death dealt a blow to the whole country."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to hit somebody/something",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to tell somebody that they cannot change a situation so they must accept it",
+			"examples": [
+				{
+					"text": "That's the way it is, so deal with it!"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to do a lot of complicated deals in business or politics, often in a dishonest way",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/diːl/",
+				"audio": "de/deal/deal__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/diːlz/",
+				"audio": "de/deal/deals__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/delt/",
+				"audio": "de/deal/dealt__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈdiːlɪŋ/",
+				"audio": "de/deal/dealing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/diːl/",
+				"audio": "de/deal/deal__us_1.mp3"
+			},
+			{
+				"pronunciation": "/diːlz/",
+				"audio": "de/deal/deals__us_1.mp3"
+			},
+			{
+				"pronunciation": "/delt/",
+				"audio": "de/deal/dealt__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈdiːlɪŋ/",
+				"audio": "de/deal/dealing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "verb Old English dǣlan ‘divide’, ‘participate’, of Germanic origin; related to Dutch deel and German Teil ‘part’ (noun), also to dole. The sense ‘divide’ gave rise to ‘distribute’, hence sense 1 of the verb and 'deal somebody/​something a blow'; the sense ‘participate’ gave rise to ‘have dealings with’, hence senses 2 of the verb and 'deal with'/'deal in'."
 }

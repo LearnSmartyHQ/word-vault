@@ -1,46 +1,46 @@
 {
-  "term": "kidney",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "image": "data/images/in/internal_organs.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "either of the two organs in the body that remove waste products from the blood and produce urine",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a kidney infection"
-        }
-      ],
-      "topics": ["Body"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the kidneys of some animals that are cooked and eaten",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "steak and kidney pie"
-        }
-      ],
-      "topics": ["Food"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkɪdni/",
-        "audio": "ki/kidney/kidney__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkɪdni/",
-        "audio": "ki/kidney/kidney__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: of obscure origin."
+	"term": "kidney",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"image": "data/images/in/internal_organs.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "either of the two organs in the body that remove waste products from the blood and produce urine",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a kidney infection"
+				}
+			],
+			"topics": ["Body"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the kidneys of some animals that are cooked and eaten",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "steak and kidney pie"
+				}
+			],
+			"topics": ["Food"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkɪdni/",
+				"audio": "ki/kidney/kidney__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkɪdni/",
+				"audio": "ki/kidney/kidney__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: of obscure origin."
 }

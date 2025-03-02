@@ -1,137 +1,137 @@
 {
-  "term": "or",
-  "partOfSpeech": "conjunction",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "used to introduce another possibility",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Is your sister older or younger than you?"
-        },
-        {
-          "text": "Are you coming or not?"
-        },
-        {
-          "text": "Is it a boy or a girl?"
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "used in negative sentences when mentioning two or more things",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He can't read or write."
-        },
-        {
-          "text": "There are people without homes, jobs or family."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "used to warn or advise somebody that something bad could happen; otherwise",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Turn the heat down or it'll burn."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "used between two numbers to show approximately how many",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "There were six or seven of us there."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "used to introduce a word or phrase that explains or means the same as another",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "geology, or the science of the earth’s crust"
-        },
-        {
-          "text": "It weighs a kilo, or just over two pounds."
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "used to say why something must be true",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He must like her, or he wouldn't keep calling her."
-        }
-      ]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "used to introduce a different or opposite idea",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He was lying—or was he?"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "about; approximately",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "It'll cost €100 or so."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used when you are not exactly sure about a person, thing or place",
-      "labels": "(informal)",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He's a factory supervisor or something."
-        },
-        {
-          "text": "‘Who said so?’ ‘Oh, somebody or other. I can't remember who it was.’"
-        }
-      ],
-      "topics": ["Doubt, guessing and certainty"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɔː(r)/",
-        "audio": "or/or/or__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɔːr/",
-        "audio": "or/or/or__us_2_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: a reduced form of the obsolete conjunction other (which superseded Old English oththe ‘or’), of uncertain ultimate origin."
+	"term": "or",
+	"partOfSpeech": "conjunction",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "used to introduce another possibility",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Is your sister older or younger than you?"
+				},
+				{
+					"text": "Are you coming or not?"
+				},
+				{
+					"text": "Is it a boy or a girl?"
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "used in negative sentences when mentioning two or more things",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He can't read or write."
+				},
+				{
+					"text": "There are people without homes, jobs or family."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "used to warn or advise somebody that something bad could happen; otherwise",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Turn the heat down or it'll burn."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "used between two numbers to show approximately how many",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "There were six or seven of us there."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "used to introduce a word or phrase that explains or means the same as another",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "geology, or the science of the earth’s crust"
+				},
+				{
+					"text": "It weighs a kilo, or just over two pounds."
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "used to say why something must be true",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He must like her, or he wouldn't keep calling her."
+				}
+			]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "used to introduce a different or opposite idea",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He was lying—or was he?"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "about; approximately",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "It'll cost €100 or so."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used when you are not exactly sure about a person, thing or place",
+			"labels": "(informal)",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He's a factory supervisor or something."
+				},
+				{
+					"text": "‘Who said so?’ ‘Oh, somebody or other. I can't remember who it was.’"
+				}
+			],
+			"topics": ["Doubt, guessing and certainty"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɔː(r)/",
+				"audio": "or/or/or__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɔːr/",
+				"audio": "or/or/or__us_2_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: a reduced form of the obsolete conjunction other (which superseded Old English oththe ‘or’), of uncertain ultimate origin."
 }

@@ -1,80 +1,80 @@
 {
-  "term": "bin",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a container that you put waste in",
-      "labels": "(especially British English)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **rubbish bin**"
-        },
-        {
-          "text": "Grey bins will be emptied weekly."
-        },
-        {
-          "text": "Many councils now have fortnightly bin collections."
-        },
-        {
-          "text": "Put the bottles in the recycling bin."
-        },
-        {
-          "text": "She threw the letter in the waste-paper bin."
-        }
-      ],
-      "topics": ["Houses and homes"],
-      "collocations": {
-        "adjective": ["litter", "rubbish", "waste"],
-        "verb + bin": [
-          "put something in",
-          "chuck something in/​into",
-          "throw something in/​into"
-        ],
-        "bin + noun": ["bag", "liner", "man"],
-        "preposition": ["in a/​the bin"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a large container, usually with a lid (= cover), for storing things in",
-      "examples": [
-        {
-          "text": "a bread bin"
-        },
-        {
-          "text": "All their toys are kept in plastic storage bins under the bed."
-        }
-      ],
-      "collocations": {
-        "adjective": ["litter", "rubbish", "waste"],
-        "verb + bin": [
-          "put something in",
-          "chuck something in/​into",
-          "throw something in/​into"
-        ],
-        "bin + noun": ["bag", "liner", "man"],
-        "preposition": ["in a/​the bin"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/bɪn/",
-        "audio": "bi/bin/bin__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/bɪn/",
-        "audio": "bi/bin/bin__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English bin(n), binne, of Celtic origin; related to Welsh ben ‘cart’. The original meaning was ‘container’ in a general sense; also specifically ‘a container for animal food in a stable’ and ‘container for grain, bread, or other foodstuffs’. The sense ‘container for rubbish’ dates from the mid 19th cent."
+	"term": "bin",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a container that you put waste in",
+			"labels": "(especially British English)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **rubbish bin**"
+				},
+				{
+					"text": "Grey bins will be emptied weekly."
+				},
+				{
+					"text": "Many councils now have fortnightly bin collections."
+				},
+				{
+					"text": "Put the bottles in the recycling bin."
+				},
+				{
+					"text": "She threw the letter in the waste-paper bin."
+				}
+			],
+			"topics": ["Houses and homes"],
+			"collocations": {
+				"adjective": ["litter", "rubbish", "waste"],
+				"verb + bin": [
+					"put something in",
+					"chuck something in/​into",
+					"throw something in/​into"
+				],
+				"bin + noun": ["bag", "liner", "man"],
+				"preposition": ["in a/​the bin"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a large container, usually with a lid (= cover), for storing things in",
+			"examples": [
+				{
+					"text": "a bread bin"
+				},
+				{
+					"text": "All their toys are kept in plastic storage bins under the bed."
+				}
+			],
+			"collocations": {
+				"adjective": ["litter", "rubbish", "waste"],
+				"verb + bin": [
+					"put something in",
+					"chuck something in/​into",
+					"throw something in/​into"
+				],
+				"bin + noun": ["bag", "liner", "man"],
+				"preposition": ["in a/​the bin"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/bɪn/",
+				"audio": "bi/bin/bin__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/bɪn/",
+				"audio": "bi/bin/bin__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English bin(n), binne, of Celtic origin; related to Welsh ben ‘cart’. The original meaning was ‘container’ in a general sense; also specifically ‘a container for animal food in a stable’ and ‘container for grain, bread, or other foodstuffs’. The sense ‘container for rubbish’ dates from the mid 19th cent."
 }

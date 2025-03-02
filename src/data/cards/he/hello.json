@@ -1,66 +1,66 @@
 {
-  "term": "hello",
-  "partOfSpeech": "exclamation, noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "used as a greeting when you meet somebody, in an email, when you answer the phone or when you want to attract somebody’s attention",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Hello John, how are you?"
-        },
-        {
-          "text": "Hello, is there anybody there?"
-        },
-        {
-          "text": "**Say hello** to Liz for me."
-        },
-        {
-          "text": "They exchanged hellos *(= said hello to each other)* and forced smiles."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "used to show that you are surprised by something",
-      "labels": "(British English)",
-      "examples": [
-        {
-          "text": "Hello, hello, what's going on here?"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "used to show that you think somebody has said something stupid or is not paying attention",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Hello? You didn't really mean that, did you?"
-        },
-        {
-          "text": "I'm like, ‘Hello! Did you even listen?’"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/həˈləʊ/",
-        "audio": "he/hello/hello__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/həˈləʊ/",
-        "audio": "he/hello/hello__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 19th cent.: variant of earlier hollo; related to holla."
+	"term": "hello",
+	"partOfSpeech": "exclamation, noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "used as a greeting when you meet somebody, in an email, when you answer the phone or when you want to attract somebody’s attention",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Hello John, how are you?"
+				},
+				{
+					"text": "Hello, is there anybody there?"
+				},
+				{
+					"text": "**Say hello** to Liz for me."
+				},
+				{
+					"text": "They exchanged hellos *(= said hello to each other)* and forced smiles."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "used to show that you are surprised by something",
+			"labels": "(British English)",
+			"examples": [
+				{
+					"text": "Hello, hello, what's going on here?"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "used to show that you think somebody has said something stupid or is not paying attention",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Hello? You didn't really mean that, did you?"
+				},
+				{
+					"text": "I'm like, ‘Hello! Did you even listen?’"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/həˈləʊ/",
+				"audio": "he/hello/hello__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/həˈləʊ/",
+				"audio": "he/hello/hello__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 19th cent.: variant of earlier hollo; related to holla."
 }

@@ -1,60 +1,60 @@
 {
-  "term": "verbal",
-  "partOfSpeech": "adjective",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "relating to words",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The job applicant must have good verbal skills."
-        },
-        {
-          "text": "non-verbal communication *(= expressions of the face, gestures*, etc.)"
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "spoken, not written",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a **verbal agreement/warning**"
-        },
-        {
-          "text": "verbal instructions"
-        }
-      ],
-      "topics": ["Language"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "relating to verbs",
-      "labels": "(grammar)",
-      "examples": [
-        {
-          "text": "a verbal noun *(= a noun formed from a verb, for example smoking*)"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈvɜːbl/",
-        "audio": "ve/verbal/verbal__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈvɜːrbl/",
-        "audio": "ve/verbal/verbal__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 15th cent. (describing a person who deals with words rather than things): from French, or from late Latin verbalis, from verbum ‘word’."
+	"term": "verbal",
+	"partOfSpeech": "adjective",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "relating to words",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The job applicant must have good verbal skills."
+				},
+				{
+					"text": "non-verbal communication *(= expressions of the face, gestures*, etc.)"
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "spoken, not written",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a **verbal agreement/warning**"
+				},
+				{
+					"text": "verbal instructions"
+				}
+			],
+			"topics": ["Language"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "relating to verbs",
+			"labels": "(grammar)",
+			"examples": [
+				{
+					"text": "a verbal noun *(= a noun formed from a verb, for example smoking*)"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈvɜːbl/",
+				"audio": "ve/verbal/verbal__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈvɜːrbl/",
+				"audio": "ve/verbal/verbal__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 15th cent. (describing a person who deals with words rather than things): from French, or from late Latin verbalis, from verbum ‘word’."
 }

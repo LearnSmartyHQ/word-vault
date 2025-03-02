@@ -1,155 +1,155 @@
 {
-  "term": "permit",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "permit",
-      "heSheIt": "permits"
-    },
-    "pastSimple": "permitted",
-    "pastParticiple": "permitted",
-    "ingForm": "permitting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to allow somebody to do something or to allow something to happen",
-      "sensetop": "be permittedbe permitted somethingbe permitted to do somethingpermit somethingpermit somebody/yourself somethingpermit somebody/yourself to do something",
-      "labels": "(formal)",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Mobile phones are not permitted in the examination room.",
-          "contextForm": "be permitted"
-        },
-        {
-          "text": "We were not permitted any contact with each other.",
-          "contextForm": "be permitted something"
-        },
-        {
-          "text": "Visitors are not permitted to take photographs.",
-          "contextForm": "be permitted to do something"
-        },
-        {
-          "text": "The owners have been unwilling to permit the use of their land.",
-          "contextForm": "permit something"
-        },
-        {
-          "text": "There are fines for exceeding permitted levels of noise pollution."
-        },
-        {
-          "text": "Jim permitted himself a wry smile.",
-          "contextForm": "permit somebody/yourself something"
-        },
-        {
-          "text": "The bill was designed to permit new fathers to take time off work.",
-          "contextForm": "permit somebody/yourself to do something"
-        },
-        {
-          "text": "She would not permit herself to look at them."
-        },
-        {
-          "text": "Permit me to offer you some advice."
-        },
-        {
-          "text": "Development is not normally permitted in conservation areas."
-        },
-        {
-          "text": "A new constitution permitted the formation of political parties."
-        },
-        {
-          "text": "People are breathing in more than five times the permitted level of pollutants."
-        },
-        {
-          "text": "Permit me to make a suggestion."
-        },
-        {
-          "text": "The banks were not permitted to invest overseas."
-        },
-        {
-          "text": "The rules of the club do not permit it."
-        },
-        {
-          "text": "They were permitted to stay in the country on humanitarian grounds."
-        }
-      ],
-      "topics": ["Permission and obligation"],
-      "collocations": {
-        "adverb": ["legally", "generally", "normally"],
-        "verb + permit": ["refuse to", "be designed to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to make something possible",
-      "sensetop": "permit somethingpermit somebody/something to do something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "We hope to visit the cathedral, if time permits."
-        },
-        {
-          "text": "I'll come tomorrow, **weather permitting** *(= if the weather is fine)*."
-        },
-        {
-          "text": "The password permits access to all files on the hard disk.",
-          "contextForm": "permit something"
-        },
-        {
-          "text": "The length of the report does not permit a detailed discussion of the problems."
-        },
-        {
-          "text": "Cash machines permit you to withdraw money at any time.",
-          "contextForm": "permit somebody/something to do something"
-        }
-      ],
-      "collocations": {
-        "adverb": ["legally", "generally", "normally"],
-        "verb + permit": ["refuse to", "be designed to"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/pəˈmɪt/",
-        "audio": "pe/permit/permit__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/pəˈmɪts/",
-        "audio": "pe/permit/permits__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/pəˈmɪtɪd/",
-        "audio": "pe/permit/permitted__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/pəˈmɪtɪŋ/",
-        "audio": "pe/permit/permitting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/pərˈmɪt/",
-        "audio": "pe/permit/permit__us_1.mp3"
-      },
-      {
-        "pronunciation": "/pərˈmɪts/",
-        "audio": "pe/permit/permits__us_1.mp3"
-      },
-      {
-        "pronunciation": "/pərˈmɪtɪd/",
-        "audio": "pe/permit/permitted__us_1.mp3"
-      },
-      {
-        "pronunciation": "/pərˈmɪtɪŋ/",
-        "audio": "pe/permit/permitting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (originally in the sense ‘commit, hand over’): from Latin permittere, from per- ‘through’ + mittere ‘send, let go’."
+	"term": "permit",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "permit",
+			"heSheIt": "permits"
+		},
+		"pastSimple": "permitted",
+		"pastParticiple": "permitted",
+		"ingForm": "permitting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to allow somebody to do something or to allow something to happen",
+			"sensetop": "be permittedbe permitted somethingbe permitted to do somethingpermit somethingpermit somebody/yourself somethingpermit somebody/yourself to do something",
+			"labels": "(formal)",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Mobile phones are not permitted in the examination room.",
+					"contextForm": "be permitted"
+				},
+				{
+					"text": "We were not permitted any contact with each other.",
+					"contextForm": "be permitted something"
+				},
+				{
+					"text": "Visitors are not permitted to take photographs.",
+					"contextForm": "be permitted to do something"
+				},
+				{
+					"text": "The owners have been unwilling to permit the use of their land.",
+					"contextForm": "permit something"
+				},
+				{
+					"text": "There are fines for exceeding permitted levels of noise pollution."
+				},
+				{
+					"text": "Jim permitted himself a wry smile.",
+					"contextForm": "permit somebody/yourself something"
+				},
+				{
+					"text": "The bill was designed to permit new fathers to take time off work.",
+					"contextForm": "permit somebody/yourself to do something"
+				},
+				{
+					"text": "She would not permit herself to look at them."
+				},
+				{
+					"text": "Permit me to offer you some advice."
+				},
+				{
+					"text": "Development is not normally permitted in conservation areas."
+				},
+				{
+					"text": "A new constitution permitted the formation of political parties."
+				},
+				{
+					"text": "People are breathing in more than five times the permitted level of pollutants."
+				},
+				{
+					"text": "Permit me to make a suggestion."
+				},
+				{
+					"text": "The banks were not permitted to invest overseas."
+				},
+				{
+					"text": "The rules of the club do not permit it."
+				},
+				{
+					"text": "They were permitted to stay in the country on humanitarian grounds."
+				}
+			],
+			"topics": ["Permission and obligation"],
+			"collocations": {
+				"adverb": ["legally", "generally", "normally"],
+				"verb + permit": ["refuse to", "be designed to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to make something possible",
+			"sensetop": "permit somethingpermit somebody/something to do something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "We hope to visit the cathedral, if time permits."
+				},
+				{
+					"text": "I'll come tomorrow, **weather permitting** *(= if the weather is fine)*."
+				},
+				{
+					"text": "The password permits access to all files on the hard disk.",
+					"contextForm": "permit something"
+				},
+				{
+					"text": "The length of the report does not permit a detailed discussion of the problems."
+				},
+				{
+					"text": "Cash machines permit you to withdraw money at any time.",
+					"contextForm": "permit somebody/something to do something"
+				}
+			],
+			"collocations": {
+				"adverb": ["legally", "generally", "normally"],
+				"verb + permit": ["refuse to", "be designed to"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/pəˈmɪt/",
+				"audio": "pe/permit/permit__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/pəˈmɪts/",
+				"audio": "pe/permit/permits__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/pəˈmɪtɪd/",
+				"audio": "pe/permit/permitted__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/pəˈmɪtɪŋ/",
+				"audio": "pe/permit/permitting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/pərˈmɪt/",
+				"audio": "pe/permit/permit__us_1.mp3"
+			},
+			{
+				"pronunciation": "/pərˈmɪts/",
+				"audio": "pe/permit/permits__us_1.mp3"
+			},
+			{
+				"pronunciation": "/pərˈmɪtɪd/",
+				"audio": "pe/permit/permitted__us_1.mp3"
+			},
+			{
+				"pronunciation": "/pərˈmɪtɪŋ/",
+				"audio": "pe/permit/permitting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (originally in the sense ‘commit, hand over’): from Latin permittere, from per- ‘through’ + mittere ‘send, let go’."
 }

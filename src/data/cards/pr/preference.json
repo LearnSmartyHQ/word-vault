@@ -1,138 +1,138 @@
 {
-  "term": "preference",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a greater interest in or desire for somebody/something than somebody/something else",
-      "sensetop": "preference for somebody/something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "It's a matter of **personal preference**."
-        },
-        {
-          "text": "I can't say that I have any particular preference."
-        },
-        {
-          "text": "Many people **expressed a strong preference** for the original plan.",
-          "contextForm": "preference for somebody/something"
-        },
-        {
-          "text": "Let's make a list of possible speakers, **in order of preference**."
-        },
-        {
-          "text": "He has not expressed a preference as to which school he wants to go to."
-        },
-        {
-          "text": "I travel by plane, for preference."
-        },
-        {
-          "text": "Learners show a preference for one learning style over others."
-        },
-        {
-          "text": "My first preference is for the applicant from Hong Kong."
-        },
-        {
-          "text": "Older people tend to express a preference for dark chocolate."
-        },
-        {
-          "text": "discrimination based on race, religion, gender or sexual preference"
-        },
-        {
-          "text": "the government's preference for tax cuts over greater public spending"
-        }
-      ],
-      "topics": ["Preferences and decisions"],
-      "collocations": {
-        "adjective": ["clear", "definite", "marked"],
-        "verb + preference": ["have", "demonstrate", "display"],
-        "preposition": [
-          "for preference",
-          "in preference to",
-          "preference as to"
-        ],
-        "phrases": ["in order of preference"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a thing that is liked better or best",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a study of consumer preferences"
-        },
-        {
-          "text": "His policy preferences are pretty centrist."
-        },
-        {
-          "text": "She was happy to arrange her schedule to suit their preferences."
-        },
-        {
-          "text": "changing preferences in furniture styles"
-        },
-        {
-          "text": "designs that reflect their individual preferences"
-        },
-        {
-          "text": "modern children's food preferences"
-        },
-        {
-          "text": "their preferences regarding websites"
-        },
-        {
-          "text": "Tastes and preferences vary from individual to individual."
-        }
-      ],
-      "collocations": {
-        "adjective": ["clear", "definite", "marked"],
-        "verb + preference": ["have", "demonstrate", "display"],
-        "preposition": [
-          "for preference",
-          "in preference to",
-          "preference as to"
-        ],
-        "phrases": ["in order of preference"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to treat somebody/something in a way that gives them an advantage over other people or things",
-      "examples": [
-        {
-          "text": "Preference will be given to graduates of this university."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "rather than somebody/something",
-      "examples": [
-        {
-          "text": "She was chosen in preference to her sister."
-        },
-        {
-          "text": "They bought French planes in preference to British ones."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈprefrəns/",
-        "audio": "pr/preference/preference__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈprefrəns/",
-        "audio": "pr/preference/preference__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘promotion’): from Old French, from medieval Latin praeferentia, from Latin praeferre ‘carry in front’, from prae ‘before’ + ferre ‘to bear, carry’."
+	"term": "preference",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a greater interest in or desire for somebody/something than somebody/something else",
+			"sensetop": "preference for somebody/something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "It's a matter of **personal preference**."
+				},
+				{
+					"text": "I can't say that I have any particular preference."
+				},
+				{
+					"text": "Many people **expressed a strong preference** for the original plan.",
+					"contextForm": "preference for somebody/something"
+				},
+				{
+					"text": "Let's make a list of possible speakers, **in order of preference**."
+				},
+				{
+					"text": "He has not expressed a preference as to which school he wants to go to."
+				},
+				{
+					"text": "I travel by plane, for preference."
+				},
+				{
+					"text": "Learners show a preference for one learning style over others."
+				},
+				{
+					"text": "My first preference is for the applicant from Hong Kong."
+				},
+				{
+					"text": "Older people tend to express a preference for dark chocolate."
+				},
+				{
+					"text": "discrimination based on race, religion, gender or sexual preference"
+				},
+				{
+					"text": "the government's preference for tax cuts over greater public spending"
+				}
+			],
+			"topics": ["Preferences and decisions"],
+			"collocations": {
+				"adjective": ["clear", "definite", "marked"],
+				"verb + preference": ["have", "demonstrate", "display"],
+				"preposition": [
+					"for preference",
+					"in preference to",
+					"preference as to"
+				],
+				"phrases": ["in order of preference"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a thing that is liked better or best",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a study of consumer preferences"
+				},
+				{
+					"text": "His policy preferences are pretty centrist."
+				},
+				{
+					"text": "She was happy to arrange her schedule to suit their preferences."
+				},
+				{
+					"text": "changing preferences in furniture styles"
+				},
+				{
+					"text": "designs that reflect their individual preferences"
+				},
+				{
+					"text": "modern children's food preferences"
+				},
+				{
+					"text": "their preferences regarding websites"
+				},
+				{
+					"text": "Tastes and preferences vary from individual to individual."
+				}
+			],
+			"collocations": {
+				"adjective": ["clear", "definite", "marked"],
+				"verb + preference": ["have", "demonstrate", "display"],
+				"preposition": [
+					"for preference",
+					"in preference to",
+					"preference as to"
+				],
+				"phrases": ["in order of preference"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to treat somebody/something in a way that gives them an advantage over other people or things",
+			"examples": [
+				{
+					"text": "Preference will be given to graduates of this university."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "rather than somebody/something",
+			"examples": [
+				{
+					"text": "She was chosen in preference to her sister."
+				},
+				{
+					"text": "They bought French planes in preference to British ones."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈprefrəns/",
+				"audio": "pr/preference/preference__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈprefrəns/",
+				"audio": "pr/preference/preference__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘promotion’): from Old French, from medieval Latin praeferentia, from Latin praeferre ‘carry in front’, from prae ‘before’ + ferre ‘to bear, carry’."
 }

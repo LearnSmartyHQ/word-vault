@@ -1,177 +1,177 @@
 {
-  "term": "late",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "arriving, happening or done after the expected, arranged or usual time",
-      "sensetop": "late for something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I'm sorry I'm late."
-        },
-        {
-          "text": "She's late for work every day.",
-          "contextForm": "late for something"
-        },
-        {
-          "text": "My flight was an hour late."
-        },
-        {
-          "text": "We apologize for the late arrival of this train."
-        },
-        {
-          "text": "Interest will be charged for late payment."
-        },
-        {
-          "text": "Because of the cold weather the crops are later this year."
-        },
-        {
-          "text": "Here is a late news flash."
-        },
-        {
-          "text": "Some children are very late developers."
-        },
-        {
-          "text": "I'm late for work."
-        },
-        {
-          "text": "He was now three weeks late with his rent."
-        },
-        {
-          "text": "She was fashionably late as always."
-        },
-        {
-          "text": "The train was 45 minutes late."
-        },
-        {
-          "text": "You've left it a bit late to start your homework, haven't you?"
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "feel", "seem"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["for", "in", "into"],
-        "phrases": [
-          "an hour, ten minutes, etc. late",
-          "leave it rather, very, etc. late"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "near the end of a period of time, a person’s life, etc.",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "in the late afternoon"
-        },
-        {
-          "text": "in late summer"
-        },
-        {
-          "text": "young people in their late teens *(= aged 18 or 19)*"
-        },
-        {
-          "text": "She married in her late twenties *(= when she was 28 or 29)*."
-        },
-        {
-          "text": "The school was built in the late 1970s."
-        },
-        {
-          "text": "The concert was cancelled at a very **late stage**."
-        },
-        {
-          "text": "United sealed the win with two late goals."
-        },
-        {
-          "text": "Shakespeare's late plays"
-        },
-        {
-          "text": "a late Victorian house"
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "near the end of the day",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Let's go home—**it's getting late**."
-        },
-        {
-          "text": "Look at the time—it's much later than I thought."
-        },
-        {
-          "text": "What is the latest time I can have an appointment?"
-        },
-        {
-          "text": "I don't know what the time is, but it feels quite late."
-        },
-        {
-          "text": "It was now late into the night."
-        },
-        {
-          "text": "What are you doing up at this late hour?"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "no longer alive",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "She spoke of her late husband with passion."
-        },
-        {
-          "text": "The event was organized in memory of the late Stephen Hawking."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "happening after the time when it is possible to do something",
-      "examples": [
-        {
-          "text": "It's too late to save her now."
-        },
-        {
-          "text": "Buy now before it's too late."
-        },
-        {
-          "text": "I’m afraid you’re too late to apply for the job."
-        },
-        {
-          "text": "The doctors did all they could, but it was too late."
-        },
-        {
-          "text": "It's getting too late to do anything today."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/leɪt/",
-        "audio": "la/late/late__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/leɪt/",
-        "audio": "la/late/late__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English læt (adjective; also in the sense ‘slow, tardy’), late (adverb), of Germanic origin; related to German lass, from an Indo-European root shared by Latin lassus ‘weary’ and let."
+	"term": "late",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "arriving, happening or done after the expected, arranged or usual time",
+			"sensetop": "late for something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I'm sorry I'm late."
+				},
+				{
+					"text": "She's late for work every day.",
+					"contextForm": "late for something"
+				},
+				{
+					"text": "My flight was an hour late."
+				},
+				{
+					"text": "We apologize for the late arrival of this train."
+				},
+				{
+					"text": "Interest will be charged for late payment."
+				},
+				{
+					"text": "Because of the cold weather the crops are later this year."
+				},
+				{
+					"text": "Here is a late news flash."
+				},
+				{
+					"text": "Some children are very late developers."
+				},
+				{
+					"text": "I'm late for work."
+				},
+				{
+					"text": "He was now three weeks late with his rent."
+				},
+				{
+					"text": "She was fashionably late as always."
+				},
+				{
+					"text": "The train was 45 minutes late."
+				},
+				{
+					"text": "You've left it a bit late to start your homework, haven't you?"
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "feel", "seem"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["for", "in", "into"],
+				"phrases": [
+					"an hour, ten minutes, etc. late",
+					"leave it rather, very, etc. late"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "near the end of a period of time, a person’s life, etc.",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "in the late afternoon"
+				},
+				{
+					"text": "in late summer"
+				},
+				{
+					"text": "young people in their late teens *(= aged 18 or 19)*"
+				},
+				{
+					"text": "She married in her late twenties *(= when she was 28 or 29)*."
+				},
+				{
+					"text": "The school was built in the late 1970s."
+				},
+				{
+					"text": "The concert was cancelled at a very **late stage**."
+				},
+				{
+					"text": "United sealed the win with two late goals."
+				},
+				{
+					"text": "Shakespeare's late plays"
+				},
+				{
+					"text": "a late Victorian house"
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "near the end of the day",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Let's go home—**it's getting late**."
+				},
+				{
+					"text": "Look at the time—it's much later than I thought."
+				},
+				{
+					"text": "What is the latest time I can have an appointment?"
+				},
+				{
+					"text": "I don't know what the time is, but it feels quite late."
+				},
+				{
+					"text": "It was now late into the night."
+				},
+				{
+					"text": "What are you doing up at this late hour?"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "no longer alive",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "She spoke of her late husband with passion."
+				},
+				{
+					"text": "The event was organized in memory of the late Stephen Hawking."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "happening after the time when it is possible to do something",
+			"examples": [
+				{
+					"text": "It's too late to save her now."
+				},
+				{
+					"text": "Buy now before it's too late."
+				},
+				{
+					"text": "I’m afraid you’re too late to apply for the job."
+				},
+				{
+					"text": "The doctors did all they could, but it was too late."
+				},
+				{
+					"text": "It's getting too late to do anything today."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/leɪt/",
+				"audio": "la/late/late__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/leɪt/",
+				"audio": "la/late/late__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English læt (adjective; also in the sense ‘slow, tardy’), late (adverb), of Germanic origin; related to German lass, from an Indo-European root shared by Latin lassus ‘weary’ and let."
 }

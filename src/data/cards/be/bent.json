@@ -1,92 +1,92 @@
 {
-  "term": "bent",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "b2",
-  "image": "data/images/tw/twisted_bent.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "not straight",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a piece of bent wire"
-        },
-        {
-          "text": "Do this exercise with your knees bent *(= not with your legs straight)*."
-        },
-        {
-          "text": "The lamp post got bent in the crash."
-        },
-        {
-          "text": "Lock your elbows in a slightly bent position."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "look", "become"],
-        "adverb": ["slightly"],
-        "phrases": ["bent double"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "not able to stand up straight, usually as a result of being old or ill",
-      "examples": [
-        {
-          "text": "a small bent old woman"
-        },
-        {
-          "text": "He was **bent double** with laughter."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "dishonest",
-      "labels": "(British English, informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "determined to do something (usually something bad)",
-      "examples": [
-        {
-          "text": "She seems bent on making life difficult for me."
-        },
-        {
-          "text": "to be bent on destruction/revenge"
-        },
-        {
-          "text": "He's your typical supervillain, bent on world domination."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to become angry, anxious or upset",
-      "labels": "(North American English, informal)",
-      "examples": [
-        {
-          "text": "Don't get bent out of shape about it. It was just a mistake!"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/bent/",
-        "audio": "be/bent/bent__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/bent/",
-        "audio": "be/bent/bent__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "bent",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "b2",
+	"image": "data/images/tw/twisted_bent.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "not straight",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a piece of bent wire"
+				},
+				{
+					"text": "Do this exercise with your knees bent *(= not with your legs straight)*."
+				},
+				{
+					"text": "The lamp post got bent in the crash."
+				},
+				{
+					"text": "Lock your elbows in a slightly bent position."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "look", "become"],
+				"adverb": ["slightly"],
+				"phrases": ["bent double"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "not able to stand up straight, usually as a result of being old or ill",
+			"examples": [
+				{
+					"text": "a small bent old woman"
+				},
+				{
+					"text": "He was **bent double** with laughter."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "dishonest",
+			"labels": "(British English, informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "determined to do something (usually something bad)",
+			"examples": [
+				{
+					"text": "She seems bent on making life difficult for me."
+				},
+				{
+					"text": "to be bent on destruction/revenge"
+				},
+				{
+					"text": "He's your typical supervillain, bent on world domination."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to become angry, anxious or upset",
+			"labels": "(North American English, informal)",
+			"examples": [
+				{
+					"text": "Don't get bent out of shape about it. It was just a mistake!"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/bent/",
+				"audio": "be/bent/bent__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/bent/",
+				"audio": "be/bent/bent__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

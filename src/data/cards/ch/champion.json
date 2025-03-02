@@ -1,101 +1,101 @@
 {
-  "term": "champion",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person, team, etc. that has won a competition, especially in a sport",
-      "sensetop": "champion of something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "the **world/European/national/Olympic champion**"
-        },
-        {
-          "text": "the **defending champion** *(= the person who was champion the last time and is trying to be champion again)*"
-        },
-        {
-          "text": "the **reigning champion** *(= the person who is champion now)*"
-        },
-        {
-          "text": "the world basketball champions"
-        },
-        {
-          "text": "a champion sprinter/boxer/swimmer"
-        },
-        {
-          "text": "He became the youngest US Open champion for 88 years."
-        },
-        {
-          "text": "the **heavyweight champion** of the world",
-          "contextForm": "champion of something"
-        },
-        {
-          "text": "a former Italian **champion jockey**"
-        },
-        {
-          "text": "the Commonwealth Games champion in the 5 000 metres"
-        },
-        {
-          "text": "They were champions at the Winter Olympics in Chamonix."
-        },
-        {
-          "text": "The reigning champion will defend her title tonight."
-        },
-        {
-          "text": "The two winners will move onto a one-game final to determine the champion."
-        },
-        {
-          "text": "He was the undisputed heavyweight champion of the world."
-        },
-        {
-          "text": "She is a former Olympic skating champion."
-        },
-        {
-          "text": "The double world sprint champion has announced his retirement."
-        }
-      ],
-      "topics": ["Sports: other sports"],
-      "collocations": {
-        "adjective": ["great", "supreme", "true"],
-        "verb + champion": ["become", "be crowned", "be named"],
-        "champion + verb": ["defend her/​his title"],
-        "champion + noun": ["fighter", "jockey", "sprinter"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person who fights for, or speaks in support of, a group of people or a belief",
-      "sensetop": "champion (of something)",
-      "examples": [
-        {
-          "text": "She was a long-term champion of animal rights and environmental protection."
-        },
-        {
-          "text": "He became a leading champion for victims of miscarriages of justice."
-        },
-        {
-          "text": "She became best known as a vigorous champion of the rail link."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈtʃæmpiən/",
-        "audio": "ch/champion/champion__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈtʃæmpiən/",
-        "audio": "ch/champion/champion__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (denoting a fighting man): from Old French, from medieval Latin campio(n-) ‘fighter’, from Latin campus ‘level ground’, specifically applied to the Campus Martius in Rome, used for games, athletic practice, and military drill."
+	"term": "champion",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person, team, etc. that has won a competition, especially in a sport",
+			"sensetop": "champion of something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "the **world/European/national/Olympic champion**"
+				},
+				{
+					"text": "the **defending champion** *(= the person who was champion the last time and is trying to be champion again)*"
+				},
+				{
+					"text": "the **reigning champion** *(= the person who is champion now)*"
+				},
+				{
+					"text": "the world basketball champions"
+				},
+				{
+					"text": "a champion sprinter/boxer/swimmer"
+				},
+				{
+					"text": "He became the youngest US Open champion for 88 years."
+				},
+				{
+					"text": "the **heavyweight champion** of the world",
+					"contextForm": "champion of something"
+				},
+				{
+					"text": "a former Italian **champion jockey**"
+				},
+				{
+					"text": "the Commonwealth Games champion in the 5 000 metres"
+				},
+				{
+					"text": "They were champions at the Winter Olympics in Chamonix."
+				},
+				{
+					"text": "The reigning champion will defend her title tonight."
+				},
+				{
+					"text": "The two winners will move onto a one-game final to determine the champion."
+				},
+				{
+					"text": "He was the undisputed heavyweight champion of the world."
+				},
+				{
+					"text": "She is a former Olympic skating champion."
+				},
+				{
+					"text": "The double world sprint champion has announced his retirement."
+				}
+			],
+			"topics": ["Sports: other sports"],
+			"collocations": {
+				"adjective": ["great", "supreme", "true"],
+				"verb + champion": ["become", "be crowned", "be named"],
+				"champion + verb": ["defend her/​his title"],
+				"champion + noun": ["fighter", "jockey", "sprinter"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person who fights for, or speaks in support of, a group of people or a belief",
+			"sensetop": "champion (of something)",
+			"examples": [
+				{
+					"text": "She was a long-term champion of animal rights and environmental protection."
+				},
+				{
+					"text": "He became a leading champion for victims of miscarriages of justice."
+				},
+				{
+					"text": "She became best known as a vigorous champion of the rail link."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈtʃæmpiən/",
+				"audio": "ch/champion/champion__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈtʃæmpiən/",
+				"audio": "ch/champion/champion__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (denoting a fighting man): from Old French, from medieval Latin campio(n-) ‘fighter’, from Latin campus ‘level ground’, specifically applied to the Campus Martius in Rome, used for games, athletic practice, and military drill."
 }

@@ -1,59 +1,59 @@
 {
-  "term": "massacre",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the killing of a large number of people especially in a cruel way",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the bloody massacre of innocent civilians"
-        },
-        {
-          "text": "Nobody survived the massacre."
-        },
-        {
-          "text": "He accused the troops of the indiscriminate massacre of civilians."
-        },
-        {
-          "text": "The massacre was carried out by enemy troops."
-        }
-      ],
-      "collocations": {
-        "adjective": ["appalling", "bloody", "brutal"],
-        "verb + massacre": ["be responsible for", "carry out", "commit"],
-        "massacre + verb": ["take place"],
-        "preposition": ["massacre by"],
-        "phrases": ["the victims of a massacre"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a very big defeat in a game or competition",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "The game was a 10–0 massacre for our team."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmæsəkə(r)/",
-        "audio": "ma/massacre/massacre__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmæsəkər/",
-        "audio": "ma/massacre/massacre__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent.: from French, of unknown origin."
+	"term": "massacre",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the killing of a large number of people especially in a cruel way",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the bloody massacre of innocent civilians"
+				},
+				{
+					"text": "Nobody survived the massacre."
+				},
+				{
+					"text": "He accused the troops of the indiscriminate massacre of civilians."
+				},
+				{
+					"text": "The massacre was carried out by enemy troops."
+				}
+			],
+			"collocations": {
+				"adjective": ["appalling", "bloody", "brutal"],
+				"verb + massacre": ["be responsible for", "carry out", "commit"],
+				"massacre + verb": ["take place"],
+				"preposition": ["massacre by"],
+				"phrases": ["the victims of a massacre"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a very big defeat in a game or competition",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "The game was a 10–0 massacre for our team."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmæsəkə(r)/",
+				"audio": "ma/massacre/massacre__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmæsəkər/",
+				"audio": "ma/massacre/massacre__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent.: from French, of unknown origin."
 }

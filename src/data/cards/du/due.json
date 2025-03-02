@@ -1,175 +1,175 @@
 {
-  "term": "due",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "caused by somebody/something; because of somebody/something",
-      "sensetop": "due to somebody/something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The team's success was **largely due to **her efforts."
-        },
-        {
-          "text": "He argues that climate change is **mainly due to** the actions of industrialized countries."
-        },
-        {
-          "text": "The increase in reported cases is **partly due to **growing public awareness of the disease."
-        },
-        {
-          "text": "This increase is **due in part to** the strong economy."
-        },
-        {
-          "text": "Most of the problems were due to human error."
-        },
-        {
-          "text": "The delay to the flight was **due to the fact that **there was ice on the runway."
-        },
-        {
-          "text": "The project had to be abandoned **due to a lack** of government funding."
-        },
-        {
-          "text": "Due to staff shortages, we are unable to offer a full buffet service on this train."
-        }
-      ],
-      "topics": ["Change, cause and effect"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "arranged or expected",
-      "sensetop": "due to do somethingdue for something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "When's the baby due?"
-        },
-        {
-          "text": "The next train is due in five minutes."
-        },
-        {
-          "text": "My essay's due next Friday *(= it has to be given to the teacher by then)*."
-        },
-        {
-          "text": "Rose is due to start school in January.",
-          "contextForm": "due to do something"
-        },
-        {
-          "text": "The band's first album is due for release later this month.",
-          "contextForm": "due for something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "when a sum of money is due, it must be paid immediately",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Payment is due on 1 October."
-        },
-        {
-          "text": "Membership fees are now due for the coming year."
-        }
-      ],
-      "topics": ["Permission and obligation", "Money"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "owed to somebody as a debt, because it is their right or because they have done something to deserve it",
-      "sensetop": "due (to somebody)",
-      "examples": [
-        {
-          "text": "Have they been paid the money that is due to them?"
-        },
-        {
-          "text": "Our thanks are due to the whole team."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "owed something; deserving something",
-      "sensetop": "due somethingdue for something",
-      "examples": [
-        {
-          "text": "I'm still due 15 days' leave.",
-          "contextForm": "due something"
-        },
-        {
-          "text": "She's due for promotion soon.",
-          "contextForm": "due for something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "that is suitable or right in the circumstances",
-      "labels": "(formal)(British English)",
-      "examples": [
-        {
-          "text": "After due consideration, we have decided to appoint Mr Davis to the job."
-        },
-        {
-          "text": "Due allowance should be made for inexperience."
-        },
-        {
-          "text": "He was charged with driving without **due care and attention**."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to give somebody the praise they deserve, even if you do not really want to",
-      "examples": [
-        {
-          "text": "Give credit where credit is due—what the man does, he does well."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "at the right time and not before",
-      "examples": [
-        {
-          "text": "Your request will be dealt with in due course."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used when you are going to disagree, usually quite strongly, with somebody",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "With all due respect, the figures simply do not support you on this."
-        },
-        {
-          "text": "With all due respect, I think you've misunderstood what he said."
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/djuː/",
-        "audio": "du/due/due__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/duː/",
-        "audio": "du/due/due__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in the sense ‘payable’): from Old French deu ‘owed’, based on Latin debitus ‘owed’, from debere ‘owe’ ."
+	"term": "due",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "caused by somebody/something; because of somebody/something",
+			"sensetop": "due to somebody/something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The team's success was **largely due to **her efforts."
+				},
+				{
+					"text": "He argues that climate change is **mainly due to** the actions of industrialized countries."
+				},
+				{
+					"text": "The increase in reported cases is **partly due to **growing public awareness of the disease."
+				},
+				{
+					"text": "This increase is **due in part to** the strong economy."
+				},
+				{
+					"text": "Most of the problems were due to human error."
+				},
+				{
+					"text": "The delay to the flight was **due to the fact that **there was ice on the runway."
+				},
+				{
+					"text": "The project had to be abandoned **due to a lack** of government funding."
+				},
+				{
+					"text": "Due to staff shortages, we are unable to offer a full buffet service on this train."
+				}
+			],
+			"topics": ["Change, cause and effect"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "arranged or expected",
+			"sensetop": "due to do somethingdue for something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "When's the baby due?"
+				},
+				{
+					"text": "The next train is due in five minutes."
+				},
+				{
+					"text": "My essay's due next Friday *(= it has to be given to the teacher by then)*."
+				},
+				{
+					"text": "Rose is due to start school in January.",
+					"contextForm": "due to do something"
+				},
+				{
+					"text": "The band's first album is due for release later this month.",
+					"contextForm": "due for something"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "when a sum of money is due, it must be paid immediately",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Payment is due on 1 October."
+				},
+				{
+					"text": "Membership fees are now due for the coming year."
+				}
+			],
+			"topics": ["Permission and obligation", "Money"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "owed to somebody as a debt, because it is their right or because they have done something to deserve it",
+			"sensetop": "due (to somebody)",
+			"examples": [
+				{
+					"text": "Have they been paid the money that is due to them?"
+				},
+				{
+					"text": "Our thanks are due to the whole team."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "owed something; deserving something",
+			"sensetop": "due somethingdue for something",
+			"examples": [
+				{
+					"text": "I'm still due 15 days' leave.",
+					"contextForm": "due something"
+				},
+				{
+					"text": "She's due for promotion soon.",
+					"contextForm": "due for something"
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "that is suitable or right in the circumstances",
+			"labels": "(formal)(British English)",
+			"examples": [
+				{
+					"text": "After due consideration, we have decided to appoint Mr Davis to the job."
+				},
+				{
+					"text": "Due allowance should be made for inexperience."
+				},
+				{
+					"text": "He was charged with driving without **due care and attention**."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to give somebody the praise they deserve, even if you do not really want to",
+			"examples": [
+				{
+					"text": "Give credit where credit is due—what the man does, he does well."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "at the right time and not before",
+			"examples": [
+				{
+					"text": "Your request will be dealt with in due course."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used when you are going to disagree, usually quite strongly, with somebody",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "With all due respect, the figures simply do not support you on this."
+				},
+				{
+					"text": "With all due respect, I think you've misunderstood what he said."
+				}
+			],
+			"topics": ["Opinion and argument"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/djuː/",
+				"audio": "du/due/due__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/duː/",
+				"audio": "du/due/due__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in the sense ‘payable’): from Old French deu ‘owed’, based on Latin debitus ‘owed’, from debere ‘owe’ ."
 }

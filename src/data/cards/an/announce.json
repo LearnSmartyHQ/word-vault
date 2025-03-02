@@ -1,174 +1,174 @@
 {
-  "term": "announce",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "announce",
-      "heSheIt": "announces"
-    },
-    "pastSimple": "announced",
-    "pastParticiple": "announced",
-    "ingForm": "announcing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to tell people something officially, especially about a decision, plans, etc.",
-      "sensetop": "announce somethingannounce that…it is announced that…announce something to somebodyannounce somebody/something as something",
-      "labels": "(figurative)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He officially **announced his intention** to resign at today's press conference.",
-          "contextForm": "announce something"
-        },
-        {
-          "text": "They haven't formally announced their engagement yet."
-        },
-        {
-          "text": "A ring at the doorbell announced Jack's arrival."
-        },
-        {
-          "text": "We are **pleased to announce** that all five candidates were successful.",
-          "contextForm": "announce that…"
-        },
-        {
-          "text": "It was announced that new speed restrictions would be introduced.",
-          "contextForm": "it is announced that…"
-        },
-        {
-          "text": "The company **announced its decision** to the public in March.",
-          "contextForm": "announce something to somebody"
-        },
-        {
-          "text": "The government yesterday **announced** to the media **plans** to create a million new jobs."
-        },
-        {
-          "text": "She was announced as the winner at last night's ceremony.",
-          "contextForm": "announce somebody/something as something"
-        },
-        {
-          "text": "The company proudly announced the launch of its new range of cars."
-        },
-        {
-          "text": "We expect to announce details of the plan later this week."
-        },
-        {
-          "text": "We regret to announce the death of councillor Alfred Sidebottom."
-        },
-        {
-          "text": "He announced to the crowd that the war was over."
-        }
-      ],
-      "collocations": {
-        "adverb": ["formally", "officially", "publicly"],
-        "verb + announce": ["be expected to", "expect to", "be delighted to"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to give information about something in a public place, especially through a loudspeaker",
-      "sensetop": "announce something+ speechannounce that…",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Has our flight been announced yet?",
-          "contextForm": "announce something"
-        },
-        {
-          "text": "The winners will be announced in reverse order."
-        },
-        {
-          "text": "‘Now boarding flight 897, destination Seattle,’ the loudspeaker announced.",
-          "contextForm": "+ speech"
-        },
-        {
-          "text": "They announced that the flight would be delayed.",
-          "contextForm": "announce that…"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to say something in a loud and/or serious way",
-      "sensetop": "+ speechannounce that…",
-      "examples": [
-        {
-          "text": "‘I've given up eating meat,’ she announced.",
-          "contextForm": "+ speech"
-        },
-        {
-          "text": "She announced that she'd given up eating meat.",
-          "contextForm": "announce that…"
-        }
-      ],
-      "collocations": {
-        "adverb": ["formally", "officially", "publicly"],
-        "verb + announce": ["be expected to", "expect to", "be delighted to"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to tell somebody your name or somebody else’s name when you or they arrive at a place",
-      "sensetop": "announce yourself/somebody",
-      "examples": [
-        {
-          "text": "Would you announce the guests as they arrive? *(= call out their names, for example at a formal party)*"
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to introduce, or to give information about, a programme on the radio or television",
-      "sensetop": "announce something",
-      "cefr": "b2",
-      "examples": [],
-      "topics": ["TV, radio and news"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/əˈnaʊns/",
-        "audio": "an/announce/announce__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/əˈnaʊnsɪz/",
-        "audio": "an/announce/announces__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/əˈnaʊnst/",
-        "audio": "an/announce/announced__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/əˈnaʊnsɪŋ/",
-        "audio": "an/announce/announcing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/əˈnaʊns/",
-        "audio": "an/announce/announce__us_1.mp3"
-      },
-      {
-        "pronunciation": "/əˈnaʊnsɪz/",
-        "audio": "an/announce/announces__us_1.mp3"
-      },
-      {
-        "pronunciation": "/əˈnaʊnst/",
-        "audio": "an/announce/announced__us_1.mp3"
-      },
-      {
-        "pronunciation": "/əˈnaʊnsɪŋ/",
-        "audio": "an/announce/announcing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 15th cent.: from French annoncer, from Latin annuntiare, from ad- ‘to’ + nuntiare ‘declare, announce’ (from nuntius ‘messenger’)."
+	"term": "announce",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "announce",
+			"heSheIt": "announces"
+		},
+		"pastSimple": "announced",
+		"pastParticiple": "announced",
+		"ingForm": "announcing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to tell people something officially, especially about a decision, plans, etc.",
+			"sensetop": "announce somethingannounce that…it is announced that…announce something to somebodyannounce somebody/something as something",
+			"labels": "(figurative)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He officially **announced his intention** to resign at today's press conference.",
+					"contextForm": "announce something"
+				},
+				{
+					"text": "They haven't formally announced their engagement yet."
+				},
+				{
+					"text": "A ring at the doorbell announced Jack's arrival."
+				},
+				{
+					"text": "We are **pleased to announce** that all five candidates were successful.",
+					"contextForm": "announce that…"
+				},
+				{
+					"text": "It was announced that new speed restrictions would be introduced.",
+					"contextForm": "it is announced that…"
+				},
+				{
+					"text": "The company **announced its decision** to the public in March.",
+					"contextForm": "announce something to somebody"
+				},
+				{
+					"text": "The government yesterday **announced** to the media **plans** to create a million new jobs."
+				},
+				{
+					"text": "She was announced as the winner at last night's ceremony.",
+					"contextForm": "announce somebody/something as something"
+				},
+				{
+					"text": "The company proudly announced the launch of its new range of cars."
+				},
+				{
+					"text": "We expect to announce details of the plan later this week."
+				},
+				{
+					"text": "We regret to announce the death of councillor Alfred Sidebottom."
+				},
+				{
+					"text": "He announced to the crowd that the war was over."
+				}
+			],
+			"collocations": {
+				"adverb": ["formally", "officially", "publicly"],
+				"verb + announce": ["be expected to", "expect to", "be delighted to"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to give information about something in a public place, especially through a loudspeaker",
+			"sensetop": "announce something+ speechannounce that…",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Has our flight been announced yet?",
+					"contextForm": "announce something"
+				},
+				{
+					"text": "The winners will be announced in reverse order."
+				},
+				{
+					"text": "‘Now boarding flight 897, destination Seattle,’ the loudspeaker announced.",
+					"contextForm": "+ speech"
+				},
+				{
+					"text": "They announced that the flight would be delayed.",
+					"contextForm": "announce that…"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to say something in a loud and/or serious way",
+			"sensetop": "+ speechannounce that…",
+			"examples": [
+				{
+					"text": "‘I've given up eating meat,’ she announced.",
+					"contextForm": "+ speech"
+				},
+				{
+					"text": "She announced that she'd given up eating meat.",
+					"contextForm": "announce that…"
+				}
+			],
+			"collocations": {
+				"adverb": ["formally", "officially", "publicly"],
+				"verb + announce": ["be expected to", "expect to", "be delighted to"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to tell somebody your name or somebody else’s name when you or they arrive at a place",
+			"sensetop": "announce yourself/somebody",
+			"examples": [
+				{
+					"text": "Would you announce the guests as they arrive? *(= call out their names, for example at a formal party)*"
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to introduce, or to give information about, a programme on the radio or television",
+			"sensetop": "announce something",
+			"cefr": "b2",
+			"examples": [],
+			"topics": ["TV, radio and news"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/əˈnaʊns/",
+				"audio": "an/announce/announce__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/əˈnaʊnsɪz/",
+				"audio": "an/announce/announces__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/əˈnaʊnst/",
+				"audio": "an/announce/announced__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/əˈnaʊnsɪŋ/",
+				"audio": "an/announce/announcing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/əˈnaʊns/",
+				"audio": "an/announce/announce__us_1.mp3"
+			},
+			{
+				"pronunciation": "/əˈnaʊnsɪz/",
+				"audio": "an/announce/announces__us_1.mp3"
+			},
+			{
+				"pronunciation": "/əˈnaʊnst/",
+				"audio": "an/announce/announced__us_1.mp3"
+			},
+			{
+				"pronunciation": "/əˈnaʊnsɪŋ/",
+				"audio": "an/announce/announcing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 15th cent.: from French annoncer, from Latin annuntiare, from ad- ‘to’ + nuntiare ‘declare, announce’ (from nuntius ‘messenger’)."
 }

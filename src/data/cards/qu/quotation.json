@@ -1,113 +1,113 @@
 {
-  "term": "quotation",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a group of words or a short piece of writing taken from a book, play, speech, etc. and repeated because it is interesting or useful",
-      "sensetop": "quotation from something",
-      "labels": "(rather formal)rather informal",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a dictionary of quotations"
-        },
-        {
-          "text": "Two short quotations will illustrate my point."
-        },
-        {
-          "text": "The book began with a quotation from Goethe.",
-          "contextForm": "quotation from something"
-        },
-        {
-          "text": "a direct quotation from a recent speech by the president"
-        },
-        {
-          "text": "It's a quotation from a poem by Keats."
-        },
-        {
-          "text": "My quotation is taken from ‘Hamlet’."
-        },
-        {
-          "text": "Where does that quotation come from?"
-        }
-      ],
-      "topics": ["Literature and writing"],
-      "collocations": {
-        "adjective": ["famous", "memorable", "direct"],
-        "verb + quotation": ["take", "attribute", "cite"],
-        "quotation + verb": ["come from something"],
-        "quotation + noun": ["marks"],
-        "preposition": ["quotation from"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the act of repeating something interesting or useful that another person has written or said",
-      "examples": [
-        {
-          "text": "The writer illustrates his point by quotation from a number of sources."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a statement of how much money a particular piece of work will cost",
-      "labels": "(rather formal)rather informal",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "You need to get a written quotation before they start work."
-        },
-        {
-          "text": "We’ll give you a free quotation for replacing your windows."
-        }
-      ],
-      "synonyms": "estimate",
-      "topics": ["Money"],
-      "collocations": {
-        "adjective": ["written", "free", "detailed"],
-        "verb + quotation": [
-          "give (somebody)",
-          "provide (somebody with)",
-          "supply (somebody with)"
-        ],
-        "preposition": ["quotation for"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a statement of the current value of goods or shares",
-      "labels": "(finance)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the latest quotations from the Stock Exchange"
-        },
-        {
-          "text": "It was the first football club to have a full stock market quotation."
-        }
-      ],
-      "topics": ["Money"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kwəʊˈteɪʃn/",
-        "audio": "qu/quotation/quotation__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kwəʊˈteɪʃn/",
-        "audio": "qu/quotation/quotation__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent. (denoting a marginal reference to a passage of text): from medieval Latin quotatio(n-), from the verb quotare, from quot ‘how many’, or from medieval Latin quota."
+	"term": "quotation",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a group of words or a short piece of writing taken from a book, play, speech, etc. and repeated because it is interesting or useful",
+			"sensetop": "quotation from something",
+			"labels": "(rather formal)rather informal",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a dictionary of quotations"
+				},
+				{
+					"text": "Two short quotations will illustrate my point."
+				},
+				{
+					"text": "The book began with a quotation from Goethe.",
+					"contextForm": "quotation from something"
+				},
+				{
+					"text": "a direct quotation from a recent speech by the president"
+				},
+				{
+					"text": "It's a quotation from a poem by Keats."
+				},
+				{
+					"text": "My quotation is taken from ‘Hamlet’."
+				},
+				{
+					"text": "Where does that quotation come from?"
+				}
+			],
+			"topics": ["Literature and writing"],
+			"collocations": {
+				"adjective": ["famous", "memorable", "direct"],
+				"verb + quotation": ["take", "attribute", "cite"],
+				"quotation + verb": ["come from something"],
+				"quotation + noun": ["marks"],
+				"preposition": ["quotation from"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the act of repeating something interesting or useful that another person has written or said",
+			"examples": [
+				{
+					"text": "The writer illustrates his point by quotation from a number of sources."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a statement of how much money a particular piece of work will cost",
+			"labels": "(rather formal)rather informal",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "You need to get a written quotation before they start work."
+				},
+				{
+					"text": "We’ll give you a free quotation for replacing your windows."
+				}
+			],
+			"synonyms": "estimate",
+			"topics": ["Money"],
+			"collocations": {
+				"adjective": ["written", "free", "detailed"],
+				"verb + quotation": [
+					"give (somebody)",
+					"provide (somebody with)",
+					"supply (somebody with)"
+				],
+				"preposition": ["quotation for"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a statement of the current value of goods or shares",
+			"labels": "(finance)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the latest quotations from the Stock Exchange"
+				},
+				{
+					"text": "It was the first football club to have a full stock market quotation."
+				}
+			],
+			"topics": ["Money"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kwəʊˈteɪʃn/",
+				"audio": "qu/quotation/quotation__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kwəʊˈteɪʃn/",
+				"audio": "qu/quotation/quotation__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent. (denoting a marginal reference to a passage of text): from medieval Latin quotatio(n-), from the verb quotare, from quot ‘how many’, or from medieval Latin quota."
 }

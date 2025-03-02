@@ -1,86 +1,86 @@
 {
-  "term": "format",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the general arrangement, plan, design, etc. of something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "The format of the new quiz show has proved popular."
-        },
-        {
-          "text": "For this year, we have decided to change the format of the conference slightly."
-        },
-        {
-          "text": "The course is different in format from previous ones."
-        },
-        {
-          "text": "Try to experiment with different designs and formats."
-        },
-        {
-          "text": "We will follow the same format as last year."
-        }
-      ],
-      "collocations": {
-        "adjective": ["large", "small", "standard"],
-        "verb + format": ["follow", "use", "change"],
-        "preposition": ["in a/​the format"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the shape and size of a book, magazine, etc.",
-      "examples": [
-        {
-          "text": "They've brought out the magazine in a new format."
-        },
-        {
-          "text": "The book is now available in a slightly smaller format."
-        }
-      ],
-      "collocations": {
-        "adjective": ["large", "small", "standard"],
-        "verb + format": ["follow", "use", "change"],
-        "preposition": ["in a/​the format"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the way in which data is stored or held to be worked on by a computer",
-      "labels": "(computing)",
-      "examples": [
-        {
-          "text": "The images are stored in a digital format within the database."
-        },
-        {
-          "text": "The drive supports the following DVD formats."
-        }
-      ],
-      "collocations": {
-        "adjective": ["large", "small", "standard"],
-        "verb + format": ["follow", "use", "change"],
-        "preposition": ["in a/​the format"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈfɔːmæt/",
-        "audio": "fo/format/format__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈfɔːrmæt/",
-        "audio": "fo/format/format__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 19th cent.: via French and German from Latin formatus (liber) ‘shaped (book)’, past participle of formare ‘to form’."
+	"term": "format",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the general arrangement, plan, design, etc. of something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "The format of the new quiz show has proved popular."
+				},
+				{
+					"text": "For this year, we have decided to change the format of the conference slightly."
+				},
+				{
+					"text": "The course is different in format from previous ones."
+				},
+				{
+					"text": "Try to experiment with different designs and formats."
+				},
+				{
+					"text": "We will follow the same format as last year."
+				}
+			],
+			"collocations": {
+				"adjective": ["large", "small", "standard"],
+				"verb + format": ["follow", "use", "change"],
+				"preposition": ["in a/​the format"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the shape and size of a book, magazine, etc.",
+			"examples": [
+				{
+					"text": "They've brought out the magazine in a new format."
+				},
+				{
+					"text": "The book is now available in a slightly smaller format."
+				}
+			],
+			"collocations": {
+				"adjective": ["large", "small", "standard"],
+				"verb + format": ["follow", "use", "change"],
+				"preposition": ["in a/​the format"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the way in which data is stored or held to be worked on by a computer",
+			"labels": "(computing)",
+			"examples": [
+				{
+					"text": "The images are stored in a digital format within the database."
+				},
+				{
+					"text": "The drive supports the following DVD formats."
+				}
+			],
+			"collocations": {
+				"adjective": ["large", "small", "standard"],
+				"verb + format": ["follow", "use", "change"],
+				"preposition": ["in a/​the format"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈfɔːmæt/",
+				"audio": "fo/format/format__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈfɔːrmæt/",
+				"audio": "fo/format/format__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 19th cent.: via French and German from Latin formatus (liber) ‘shaped (book)’, past participle of formare ‘to form’."
 }

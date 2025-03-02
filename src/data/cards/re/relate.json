@@ -1,121 +1,121 @@
 {
-  "term": "relate",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "relate",
-      "heSheIt": "relates"
-    },
-    "pastSimple": "related",
-    "pastParticiple": "related",
-    "ingForm": "relating"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "show or make a connection between two or more things",
-      "sensetop": "relate somethingrelate A to B",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I found it difficult to relate the two ideas in my mind.",
-          "contextForm": "relate something"
-        },
-        {
-          "text": "In the future, pay increases will be related to productivity.",
-          "contextForm": "relate A to B"
-        },
-        {
-          "text": "Attempts to relate studies on animals to those on humans are not really comparing like with like."
-        }
-      ],
-      "synonyms": "connect",
-      "collocations": {
-        "adverb": ["closely", "directly", "specifically"],
-        "verb + relate": ["be able to", "can", "attempt to"],
-        "preposition": ["to"],
-        "phrases": [
-          "the ability to relate to somebody/​something",
-          "an attempt to relate something"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to give a spoken or written report of something; to tell a story",
-      "sensetop": "relate somethingrelate something to somebodyrelate how, what, etc…relate that…",
-      "labels": "(formal)",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Then he **related a story** about his days working in a research laboratory.",
-          "contextForm": "relate something"
-        },
-        {
-          "text": "She relates her childhood experiences in the first chapters."
-        },
-        {
-          "text": "He related the facts of the case to journalists.",
-          "contextForm": "relate something to somebody"
-        },
-        {
-          "text": "She related how he had run away from home as a boy.",
-          "contextForm": "relate how, what, etc…"
-        },
-        {
-          "text": "The story relates that an angel appeared and told him to sing.",
-          "contextForm": "relate that…"
-        },
-        {
-          "text": "An audio-visual presentation relates the story of the Battle of Hastings."
-        },
-        {
-          "text": "He related the whole conversation to the police."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/rɪˈleɪt/",
-        "audio": "re/relate/relate__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈleɪts/",
-        "audio": "re/relate/relates__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈleɪtɪd/",
-        "audio": "re/relate/related__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈleɪtɪŋ/",
-        "audio": "re/relate/relating__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/rɪˈleɪt/",
-        "audio": "re/relate/relate__us_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈleɪts/",
-        "audio": "re/relate/relates__us_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈleɪtɪd/",
-        "audio": "re/relate/related__us_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈleɪtɪŋ/",
-        "audio": "re/relate/relating__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent.: from Latin relat- ‘brought back’, from the verb referre ‘carry back’, from re- ‘back’ + ferre ‘bring’."
+	"term": "relate",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "relate",
+			"heSheIt": "relates"
+		},
+		"pastSimple": "related",
+		"pastParticiple": "related",
+		"ingForm": "relating"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "show or make a connection between two or more things",
+			"sensetop": "relate somethingrelate A to B",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I found it difficult to relate the two ideas in my mind.",
+					"contextForm": "relate something"
+				},
+				{
+					"text": "In the future, pay increases will be related to productivity.",
+					"contextForm": "relate A to B"
+				},
+				{
+					"text": "Attempts to relate studies on animals to those on humans are not really comparing like with like."
+				}
+			],
+			"synonyms": "connect",
+			"collocations": {
+				"adverb": ["closely", "directly", "specifically"],
+				"verb + relate": ["be able to", "can", "attempt to"],
+				"preposition": ["to"],
+				"phrases": [
+					"the ability to relate to somebody/​something",
+					"an attempt to relate something"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to give a spoken or written report of something; to tell a story",
+			"sensetop": "relate somethingrelate something to somebodyrelate how, what, etc…relate that…",
+			"labels": "(formal)",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Then he **related a story** about his days working in a research laboratory.",
+					"contextForm": "relate something"
+				},
+				{
+					"text": "She relates her childhood experiences in the first chapters."
+				},
+				{
+					"text": "He related the facts of the case to journalists.",
+					"contextForm": "relate something to somebody"
+				},
+				{
+					"text": "She related how he had run away from home as a boy.",
+					"contextForm": "relate how, what, etc…"
+				},
+				{
+					"text": "The story relates that an angel appeared and told him to sing.",
+					"contextForm": "relate that…"
+				},
+				{
+					"text": "An audio-visual presentation relates the story of the Battle of Hastings."
+				},
+				{
+					"text": "He related the whole conversation to the police."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/rɪˈleɪt/",
+				"audio": "re/relate/relate__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈleɪts/",
+				"audio": "re/relate/relates__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈleɪtɪd/",
+				"audio": "re/relate/related__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈleɪtɪŋ/",
+				"audio": "re/relate/relating__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/rɪˈleɪt/",
+				"audio": "re/relate/relate__us_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈleɪts/",
+				"audio": "re/relate/relates__us_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈleɪtɪd/",
+				"audio": "re/relate/related__us_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈleɪtɪŋ/",
+				"audio": "re/relate/relating__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent.: from Latin relat- ‘brought back’, from the verb referre ‘carry back’, from re- ‘back’ + ferre ‘bring’."
 }

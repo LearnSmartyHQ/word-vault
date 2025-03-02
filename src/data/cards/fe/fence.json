@@ -1,123 +1,123 @@
 {
-  "term": "fence",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "image": "data/images/co/countryside.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a structure made of wood or wire supported with posts that is put between two areas of land as a boundary, or around a garden, field, etc. to keep animals in, or to keep people and animals out",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The two women chatted over the garden fence."
-        },
-        {
-          "text": "Security guards with dogs patrolled the **perimeter fence**."
-        },
-        {
-          "text": "The footpath was blocked by a **barbed wire fence**."
-        },
-        {
-          "text": "The house was surrounded by a white **picket fence**."
-        },
-        {
-          "text": "She walked over to the tall wooden privacy fence."
-        },
-        {
-          "text": "There was a cottage garden at the front and a white picket fence."
-        },
-        {
-          "text": "a fence around the site"
-        },
-        {
-          "text": "the airport perimeter fence"
-        },
-        {
-          "text": "the fence line separating the United States from Mexico"
-        }
-      ],
-      "topics": ["Gardens", "Farming"],
-      "collocations": {
-        "adjective": ["high", "tall", "low"],
-        "verb + fence": ["build", "erect", "put up"],
-        "fence + noun": ["post", "line"],
-        "preposition": ["over a/​the fence", "fence around", "fence round"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a structure that horses must jump over in a race or a competition",
-      "examples": []
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a criminal who buys and sells stolen goods",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "said about people who never seem happy with what they have and always think they could be happier in a different place or situation",
-      "labels": "(saying)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to find a solution when you disagree with somebody",
-      "examples": [
-        {
-          "text": "The White House already is struggling to mend fences with Europe."
-        },
-        {
-          "text": "Is it too late to mend fences with your ex-wife?"
-        }
-      ],
-      "topics": ["Discussion and agreement"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to refer to either of two opposite opinions on an issue",
-      "examples": [
-        {
-          "text": "The two countries are often on opposite sides of the fence when it comes to climate change."
-        },
-        {
-          "text": "There are arguments on both sides of the aisle."
-        },
-        {
-          "text": "On the other side of the fence there is anger at the reforms."
-        },
-        {
-          "text": "It is a proposal approved by people on both sides of the political fence."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to avoid becoming involved in deciding or influencing something",
-      "examples": [
-        {
-          "text": "He tends to sit on the fence at meetings."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/fens/",
-        "audio": "fe/fence/fence__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/fens/",
-        "audio": "fe/fence/fence__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in the sense ‘defending, defence’): shortening of defence. Compare with fend."
+	"term": "fence",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"image": "data/images/co/countryside.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a structure made of wood or wire supported with posts that is put between two areas of land as a boundary, or around a garden, field, etc. to keep animals in, or to keep people and animals out",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The two women chatted over the garden fence."
+				},
+				{
+					"text": "Security guards with dogs patrolled the **perimeter fence**."
+				},
+				{
+					"text": "The footpath was blocked by a **barbed wire fence**."
+				},
+				{
+					"text": "The house was surrounded by a white **picket fence**."
+				},
+				{
+					"text": "She walked over to the tall wooden privacy fence."
+				},
+				{
+					"text": "There was a cottage garden at the front and a white picket fence."
+				},
+				{
+					"text": "a fence around the site"
+				},
+				{
+					"text": "the airport perimeter fence"
+				},
+				{
+					"text": "the fence line separating the United States from Mexico"
+				}
+			],
+			"topics": ["Gardens", "Farming"],
+			"collocations": {
+				"adjective": ["high", "tall", "low"],
+				"verb + fence": ["build", "erect", "put up"],
+				"fence + noun": ["post", "line"],
+				"preposition": ["over a/​the fence", "fence around", "fence round"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a structure that horses must jump over in a race or a competition",
+			"examples": []
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a criminal who buys and sells stolen goods",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "said about people who never seem happy with what they have and always think they could be happier in a different place or situation",
+			"labels": "(saying)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to find a solution when you disagree with somebody",
+			"examples": [
+				{
+					"text": "The White House already is struggling to mend fences with Europe."
+				},
+				{
+					"text": "Is it too late to mend fences with your ex-wife?"
+				}
+			],
+			"topics": ["Discussion and agreement"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to refer to either of two opposite opinions on an issue",
+			"examples": [
+				{
+					"text": "The two countries are often on opposite sides of the fence when it comes to climate change."
+				},
+				{
+					"text": "There are arguments on both sides of the aisle."
+				},
+				{
+					"text": "On the other side of the fence there is anger at the reforms."
+				},
+				{
+					"text": "It is a proposal approved by people on both sides of the political fence."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to avoid becoming involved in deciding or influencing something",
+			"examples": [
+				{
+					"text": "He tends to sit on the fence at meetings."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/fens/",
+				"audio": "fe/fence/fence__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/fens/",
+				"audio": "fe/fence/fence__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in the sense ‘defending, defence’): shortening of defence. Compare with fend."
 }

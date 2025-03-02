@@ -1,325 +1,325 @@
 {
-  "term": "introduce",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "introduce",
-      "heSheIt": "introduces"
-    },
-    "pastSimple": "introduced",
-    "pastParticiple": "introduced",
-    "ingForm": "introducing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to tell two or more people who have not met before what each other’s names are; to tell somebody what your name is",
-      "sensetop": "introduce somebodyintroduce somebody as somethingintroduce A to Bintroduce A to B as somethingintroduce A and Bintroduce yourselfintroduce yourself to somebody",
-      "labels": "(formal)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Allow me to introduce my mother.",
-          "contextForm": "introduce somebody"
-        },
-        {
-          "text": "The lead singer introduced each member of the band."
-        },
-        {
-          "text": "He introduced me as a new member of the company.",
-          "contextForm": "introduce somebody as something"
-        },
-        {
-          "text": "He introduced me to a Greek girl at the party.",
-          "contextForm": "introduce A to B"
-        },
-        {
-          "text": "She was introduced to me as a well-known novelist.",
-          "contextForm": "introduce A to B as something"
-        },
-        {
-          "text": "Sue and Jo were introduced by a mutual friend.",
-          "contextForm": "introduce A and B"
-        },
-        {
-          "text": "We have met before, but we haven't been **formally introduced**."
-        },
-        {
-          "text": "Can I introduce myself? I'm Helen Robins.",
-          "contextForm": "introduce yourself"
-        },
-        {
-          "text": "The chairperson introduced herself and opened the discussion."
-        },
-        {
-          "text": "‘Kay, this is Steve.’ ‘Yes, I know—we've already introduced ourselves.’"
-        },
-        {
-          "text": "She made sure she introduced herself to all her new colleagues.",
-          "contextForm": "introduce yourself to somebody"
-        },
-        {
-          "text": "Can I introduce my wife?"
-        },
-        {
-          "text": "We've already been introduced."
-        },
-        {
-          "text": "I briefly introduced him to my parents."
-        },
-        {
-          "text": "She introduced me to her friends."
-        }
-      ],
-      "collocations": {
-        "adverb": ["formally", "properly", "briefly"],
-        "verb + introduce": ["allow me to", "can", "let me"],
-        "preposition": ["as", "to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to be the main speaker in a television or radio show, who gives details about the show and who presents the people who are in it; to tell the audience the name of the person who is going to speak or perform",
-      "sensetop": "introduce somebody/something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The next programme will be introduced by Mary David."
-        },
-        {
-          "text": "It is my pleasure to introduce my first guest on the show tonight…"
-        }
-      ],
-      "topics": ["TV, radio and news"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to mention something for the first time in a piece of writing",
-      "sensetop": "introduce something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**Introduce the topic** and briefly state your own opinion.",
-          "contextForm": "introduce something"
-        },
-        {
-          "text": "Each new idea should be introduced in a new paragraph."
-        },
-        {
-          "text": "In Chapter 3 the author **introduces the concept** of the learner-centred classroom to readers."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to make somebody learn about something or do something for the first time",
-      "sensetop": "introduce somebody to somethingintroduce something to somebody",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The first lecture introduces students to the main topics of the course.",
-          "contextForm": "introduce somebody to something"
-        },
-        {
-          "text": "A neighbour of his introduced him to the world of Brazilian capoeira."
-        },
-        {
-          "text": "She has developed her love of archery since being introduced to the sport by a workmate."
-        },
-        {
-          "text": "It was she who first introduced the pleasures of sailing to me.",
-          "contextForm": "introduce something to somebody"
-        }
-      ],
-      "collocations": {
-        "adverb": ["recently", "first", "initially"],
-        "verb + introduce": ["intend to", "plan to", "want to"],
-        "preposition": ["into"],
-        "phrases": ["newly introduced", "recently introduced"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to make something available for use, discussion, etc. for the first time",
-      "sensetop": "introduce somethingintroduce something to somethingintroduce something into something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The company has recently introduced a new warehouse management system.",
-          "contextForm": "introduce something"
-        },
-        {
-          "text": "**Legislation will be introduced** to ban the sale of these products to children."
-        },
-        {
-          "text": "The new law was introduced in 2021."
-        },
-        {
-          "text": "Psychologists first introduced the term in the early 1990s."
-        },
-        {
-          "text": "to introduce measures/reforms"
-        },
-        {
-          "text": "We are going to introduce a few changes to the system.",
-          "contextForm": "introduce something to something"
-        },
-        {
-          "text": "The government plans to gradually introduce the latest technology into all schools.",
-          "contextForm": "introduce something into something"
-        },
-        {
-          "text": "The company is introducing a new range of products this year."
-        },
-        {
-          "text": "The airline has introduced a cheap return fare to New York."
-        },
-        {
-          "text": "The local authority plans to introduce new regulations on parking."
-        },
-        {
-          "text": "The government has introduced tough new import restrictions."
-        },
-        {
-          "text": "The practice of community policing was introduced in the 1970s."
-        },
-        {
-          "text": "She attempted in vain to introduce some order into the classroom."
-        },
-        {
-          "text": "They recently introduced a yogurt drink into the market."
-        }
-      ],
-      "collocations": {
-        "adverb": ["recently", "first", "initially"],
-        "verb + introduce": ["intend to", "plan to", "want to"],
-        "preposition": ["into"],
-        "phrases": ["newly introduced", "recently introduced"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to be the start of something new",
-      "sensetop": "introduce something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Bands from London introduced the craze for this kind of music."
-        },
-        {
-          "text": "A slow theme introduces the first movement."
-        }
-      ]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to bring a plant, an animal or a disease to a place for the first time",
-      "sensetop": "introduce something (to something) (from something)introduce something into something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Some new species were **introduced accidentally **to Australia from Europe.",
-          "contextForm": "introduce something (to something) (from something)"
-        },
-        {
-          "text": "Vegetation patterns changed when goats were introduced to the island."
-        },
-        {
-          "text": "Diseases were inadvertently introduced into the environment by settlers.",
-          "contextForm": "introduce something into something"
-        }
-      ],
-      "collocations": {
-        "adverb": ["recently", "first", "initially"],
-        "verb + introduce": ["intend to", "plan to", "want to"],
-        "preposition": ["into"],
-        "phrases": ["newly introduced", "recently introduced"]
-      }
-    },
-    {
-      "senseNumber": 8,
-      "definition": "to formally present a new law so that it can be discussed",
-      "sensetop": "introduce something",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "to **introduce a bill** (before Parliament)"
-        }
-      ]
-    },
-    {
-      "senseNumber": 9,
-      "definition": "to put something into something",
-      "sensetop": "introduce something (into something)",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "Particles of glass had been introduced into the baby food."
-        }
-      ]
-    },
-    {
-      "senseNumber": 10,
-      "definition": "to cause something to contain errors",
-      "sensetop": "introduce somethingintroduce something into something",
-      "examples": [
-        {
-          "text": "Measurement error could have been introduced by respondents' recall errors.",
-          "contextForm": "introduce something"
-        },
-        {
-          "text": "The analyst's rankings rely on subjective information, which may introduce a bias into the rankings.",
-          "contextForm": "introduce something into something"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌɪntrəˈdjuːs/",
-        "audio": "in/introduce/introduce__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˌɪntrəˈdjuːsɪz/",
-        "audio": "in/introduce/introduces__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌɪntrəˈdjuːst/",
-        "audio": "in/introduce/introduced__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌɪntrəˈdjuːsɪŋ/",
-        "audio": "in/introduce/introducing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌɪntrəˈduːs/",
-        "audio": "in/introduce/introduce__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˌɪntrəˈduːsɪz/",
-        "audio": "in/introduce/introduces__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌɪntrəˈduːst/",
-        "audio": "in/introduce/introduced__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌɪntrəˈduːsɪŋ/",
-        "audio": "in/introduce/introducing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘bring (a person) into a place or group’): from Latin introducere, from intro- ‘to the inside’ + ducere ‘to lead’."
+	"term": "introduce",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "introduce",
+			"heSheIt": "introduces"
+		},
+		"pastSimple": "introduced",
+		"pastParticiple": "introduced",
+		"ingForm": "introducing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to tell two or more people who have not met before what each other’s names are; to tell somebody what your name is",
+			"sensetop": "introduce somebodyintroduce somebody as somethingintroduce A to Bintroduce A to B as somethingintroduce A and Bintroduce yourselfintroduce yourself to somebody",
+			"labels": "(formal)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Allow me to introduce my mother.",
+					"contextForm": "introduce somebody"
+				},
+				{
+					"text": "The lead singer introduced each member of the band."
+				},
+				{
+					"text": "He introduced me as a new member of the company.",
+					"contextForm": "introduce somebody as something"
+				},
+				{
+					"text": "He introduced me to a Greek girl at the party.",
+					"contextForm": "introduce A to B"
+				},
+				{
+					"text": "She was introduced to me as a well-known novelist.",
+					"contextForm": "introduce A to B as something"
+				},
+				{
+					"text": "Sue and Jo were introduced by a mutual friend.",
+					"contextForm": "introduce A and B"
+				},
+				{
+					"text": "We have met before, but we haven't been **formally introduced**."
+				},
+				{
+					"text": "Can I introduce myself? I'm Helen Robins.",
+					"contextForm": "introduce yourself"
+				},
+				{
+					"text": "The chairperson introduced herself and opened the discussion."
+				},
+				{
+					"text": "‘Kay, this is Steve.’ ‘Yes, I know—we've already introduced ourselves.’"
+				},
+				{
+					"text": "She made sure she introduced herself to all her new colleagues.",
+					"contextForm": "introduce yourself to somebody"
+				},
+				{
+					"text": "Can I introduce my wife?"
+				},
+				{
+					"text": "We've already been introduced."
+				},
+				{
+					"text": "I briefly introduced him to my parents."
+				},
+				{
+					"text": "She introduced me to her friends."
+				}
+			],
+			"collocations": {
+				"adverb": ["formally", "properly", "briefly"],
+				"verb + introduce": ["allow me to", "can", "let me"],
+				"preposition": ["as", "to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to be the main speaker in a television or radio show, who gives details about the show and who presents the people who are in it; to tell the audience the name of the person who is going to speak or perform",
+			"sensetop": "introduce somebody/something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The next programme will be introduced by Mary David."
+				},
+				{
+					"text": "It is my pleasure to introduce my first guest on the show tonight…"
+				}
+			],
+			"topics": ["TV, radio and news"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to mention something for the first time in a piece of writing",
+			"sensetop": "introduce something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**Introduce the topic** and briefly state your own opinion.",
+					"contextForm": "introduce something"
+				},
+				{
+					"text": "Each new idea should be introduced in a new paragraph."
+				},
+				{
+					"text": "In Chapter 3 the author **introduces the concept** of the learner-centred classroom to readers."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to make somebody learn about something or do something for the first time",
+			"sensetop": "introduce somebody to somethingintroduce something to somebody",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The first lecture introduces students to the main topics of the course.",
+					"contextForm": "introduce somebody to something"
+				},
+				{
+					"text": "A neighbour of his introduced him to the world of Brazilian capoeira."
+				},
+				{
+					"text": "She has developed her love of archery since being introduced to the sport by a workmate."
+				},
+				{
+					"text": "It was she who first introduced the pleasures of sailing to me.",
+					"contextForm": "introduce something to somebody"
+				}
+			],
+			"collocations": {
+				"adverb": ["recently", "first", "initially"],
+				"verb + introduce": ["intend to", "plan to", "want to"],
+				"preposition": ["into"],
+				"phrases": ["newly introduced", "recently introduced"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to make something available for use, discussion, etc. for the first time",
+			"sensetop": "introduce somethingintroduce something to somethingintroduce something into something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The company has recently introduced a new warehouse management system.",
+					"contextForm": "introduce something"
+				},
+				{
+					"text": "**Legislation will be introduced** to ban the sale of these products to children."
+				},
+				{
+					"text": "The new law was introduced in 2021."
+				},
+				{
+					"text": "Psychologists first introduced the term in the early 1990s."
+				},
+				{
+					"text": "to introduce measures/reforms"
+				},
+				{
+					"text": "We are going to introduce a few changes to the system.",
+					"contextForm": "introduce something to something"
+				},
+				{
+					"text": "The government plans to gradually introduce the latest technology into all schools.",
+					"contextForm": "introduce something into something"
+				},
+				{
+					"text": "The company is introducing a new range of products this year."
+				},
+				{
+					"text": "The airline has introduced a cheap return fare to New York."
+				},
+				{
+					"text": "The local authority plans to introduce new regulations on parking."
+				},
+				{
+					"text": "The government has introduced tough new import restrictions."
+				},
+				{
+					"text": "The practice of community policing was introduced in the 1970s."
+				},
+				{
+					"text": "She attempted in vain to introduce some order into the classroom."
+				},
+				{
+					"text": "They recently introduced a yogurt drink into the market."
+				}
+			],
+			"collocations": {
+				"adverb": ["recently", "first", "initially"],
+				"verb + introduce": ["intend to", "plan to", "want to"],
+				"preposition": ["into"],
+				"phrases": ["newly introduced", "recently introduced"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to be the start of something new",
+			"sensetop": "introduce something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Bands from London introduced the craze for this kind of music."
+				},
+				{
+					"text": "A slow theme introduces the first movement."
+				}
+			]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to bring a plant, an animal or a disease to a place for the first time",
+			"sensetop": "introduce something (to something) (from something)introduce something into something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Some new species were **introduced accidentally **to Australia from Europe.",
+					"contextForm": "introduce something (to something) (from something)"
+				},
+				{
+					"text": "Vegetation patterns changed when goats were introduced to the island."
+				},
+				{
+					"text": "Diseases were inadvertently introduced into the environment by settlers.",
+					"contextForm": "introduce something into something"
+				}
+			],
+			"collocations": {
+				"adverb": ["recently", "first", "initially"],
+				"verb + introduce": ["intend to", "plan to", "want to"],
+				"preposition": ["into"],
+				"phrases": ["newly introduced", "recently introduced"]
+			}
+		},
+		{
+			"senseNumber": 8,
+			"definition": "to formally present a new law so that it can be discussed",
+			"sensetop": "introduce something",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "to **introduce a bill** (before Parliament)"
+				}
+			]
+		},
+		{
+			"senseNumber": 9,
+			"definition": "to put something into something",
+			"sensetop": "introduce something (into something)",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "Particles of glass had been introduced into the baby food."
+				}
+			]
+		},
+		{
+			"senseNumber": 10,
+			"definition": "to cause something to contain errors",
+			"sensetop": "introduce somethingintroduce something into something",
+			"examples": [
+				{
+					"text": "Measurement error could have been introduced by respondents' recall errors.",
+					"contextForm": "introduce something"
+				},
+				{
+					"text": "The analyst's rankings rely on subjective information, which may introduce a bias into the rankings.",
+					"contextForm": "introduce something into something"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌɪntrəˈdjuːs/",
+				"audio": "in/introduce/introduce__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˌɪntrəˈdjuːsɪz/",
+				"audio": "in/introduce/introduces__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌɪntrəˈdjuːst/",
+				"audio": "in/introduce/introduced__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌɪntrəˈdjuːsɪŋ/",
+				"audio": "in/introduce/introducing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌɪntrəˈduːs/",
+				"audio": "in/introduce/introduce__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˌɪntrəˈduːsɪz/",
+				"audio": "in/introduce/introduces__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌɪntrəˈduːst/",
+				"audio": "in/introduce/introduced__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌɪntrəˈduːsɪŋ/",
+				"audio": "in/introduce/introducing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘bring (a person) into a place or group’): from Latin introducere, from intro- ‘to the inside’ + ducere ‘to lead’."
 }

@@ -1,114 +1,114 @@
 {
-  "term": "induce",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "induce",
-      "heSheIt": "induces"
-    },
-    "pastSimple": "induced",
-    "pastParticiple": "induced",
-    "ingForm": "inducing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to persuade or influence somebody to do something",
-      "sensetop": "induce somebody to do something",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Nothing would induce me to take the job."
-        },
-        {
-          "text": "Large commissions were required to induce banks to participate in deals."
-        },
-        {
-          "text": "No amount of persuasion could induce her to stay longer."
-        }
-      ],
-      "topics": ["Discussion and agreement"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to cause something",
-      "sensetop": "induce something",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "drugs that induce sleep"
-        },
-        {
-          "text": "a drug-induced coma"
-        },
-        {
-          "text": "Hearing loss is often induced by exposure to loud noise."
-        }
-      ],
-      "topics": ["Change, cause and effect"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to make a woman start giving birth to her baby by giving her special drugs; to make a baby start being born by giving the mother special drugs",
-      "sensetop": "induce somebody/something",
-      "labels": "(medical)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "an induced labour"
-        },
-        {
-          "text": "We'll have to induce her."
-        },
-        {
-          "text": "I was admitted and the baby was induced at 35 weeks."
-        }
-      ],
-      "topics": ["Life stages"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈdjuːs/",
-        "audio": "in/induce/induce__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈdjuːsɪz/",
-        "audio": "in/induce/induces__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈdjuːst/",
-        "audio": "in/induce/induced__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈdjuːsɪŋ/",
-        "audio": "in/induce/inducing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈduːs/",
-        "audio": "in/induce/induce__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈduːsɪz/",
-        "audio": "in/induce/induces__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈduːst/",
-        "audio": "in/induce/induced__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈduːsɪŋ/",
-        "audio": "in/induce/inducing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (formerly also as enduce): from Latin inducere ‘lead in’, from in- ‘into’ + ducere ‘to lead’, or from French enduire."
+	"term": "induce",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "induce",
+			"heSheIt": "induces"
+		},
+		"pastSimple": "induced",
+		"pastParticiple": "induced",
+		"ingForm": "inducing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to persuade or influence somebody to do something",
+			"sensetop": "induce somebody to do something",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Nothing would induce me to take the job."
+				},
+				{
+					"text": "Large commissions were required to induce banks to participate in deals."
+				},
+				{
+					"text": "No amount of persuasion could induce her to stay longer."
+				}
+			],
+			"topics": ["Discussion and agreement"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to cause something",
+			"sensetop": "induce something",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "drugs that induce sleep"
+				},
+				{
+					"text": "a drug-induced coma"
+				},
+				{
+					"text": "Hearing loss is often induced by exposure to loud noise."
+				}
+			],
+			"topics": ["Change, cause and effect"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to make a woman start giving birth to her baby by giving her special drugs; to make a baby start being born by giving the mother special drugs",
+			"sensetop": "induce somebody/something",
+			"labels": "(medical)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "an induced labour"
+				},
+				{
+					"text": "We'll have to induce her."
+				},
+				{
+					"text": "I was admitted and the baby was induced at 35 weeks."
+				}
+			],
+			"topics": ["Life stages"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈdjuːs/",
+				"audio": "in/induce/induce__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈdjuːsɪz/",
+				"audio": "in/induce/induces__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈdjuːst/",
+				"audio": "in/induce/induced__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈdjuːsɪŋ/",
+				"audio": "in/induce/inducing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈduːs/",
+				"audio": "in/induce/induce__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈduːsɪz/",
+				"audio": "in/induce/induces__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈduːst/",
+				"audio": "in/induce/induced__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈduːsɪŋ/",
+				"audio": "in/induce/inducing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (formerly also as enduce): from Latin inducere ‘lead in’, from in- ‘into’ + ducere ‘to lead’, or from French enduire."
 }

@@ -1,123 +1,123 @@
 {
-  "term": "widen",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "widen",
-      "heSheIt": "widens"
-    },
-    "pastSimple": "widened",
-    "pastParticiple": "widened",
-    "ingForm": "widening"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to become wider; to make something wider",
-      "sensetop": "widen into somethingwiden outwiden something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Her eyes widened in surprise."
-        },
-        {
-          "text": "Jasmine's eyes widened with disbelief."
-        },
-        {
-          "text": "Here the stream widens into a river.",
-          "contextForm": "widen into something"
-        },
-        {
-          "text": "The road gradually widens out.",
-          "contextForm": "widen out"
-        },
-        {
-          "text": "They may have to widen the road to cope with the increase in traffic.",
-          "contextForm": "widen something"
-        }
-      ],
-      "collocations": {
-        "adverb": ["considerably", "dramatically", "greatly"],
-        "preposition": ["from", "into", "to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to become larger in degree or range; to make something larger in degree or range",
-      "sensetop": "widen something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Another concern is the widening gap between rich and poor."
-        },
-        {
-          "text": "We plan to widen the scope of our existing activities by offering more language courses.",
-          "contextForm": "widen something"
-        },
-        {
-          "text": "The legislation will be widened to include all firearms."
-        },
-        {
-          "text": "The gap between rich and poor has widened considerably."
-        },
-        {
-          "text": "The trade deficit had widened from £26 billion to £30 billion."
-        }
-      ],
-      "collocations": {
-        "adverb": ["considerably", "dramatically", "greatly"],
-        "preposition": ["from", "into", "to"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to consider or include a larger range of options or possibilities, especially when searching for something",
-      "examples": [
-        {
-          "text": "It's time to widen the net in the search for a suitable candidate."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈwaɪdn/",
-        "audio": "wi/widen/widen__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwaɪdnz/",
-        "audio": "wi/widen/widens__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwaɪdnd/",
-        "audio": "wi/widen/widened__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwaɪdnɪŋ/",
-        "audio": "wi/widen/widening__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈwaɪdn/",
-        "audio": "wi/widen/widen__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwaɪdnz/",
-        "audio": "wi/widen/widens__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwaɪdnd/",
-        "audio": "wi/widen/widened__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwaɪdnɪŋ/",
-        "audio": "wi/widen/widening__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "widen",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "widen",
+			"heSheIt": "widens"
+		},
+		"pastSimple": "widened",
+		"pastParticiple": "widened",
+		"ingForm": "widening"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to become wider; to make something wider",
+			"sensetop": "widen into somethingwiden outwiden something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Her eyes widened in surprise."
+				},
+				{
+					"text": "Jasmine's eyes widened with disbelief."
+				},
+				{
+					"text": "Here the stream widens into a river.",
+					"contextForm": "widen into something"
+				},
+				{
+					"text": "The road gradually widens out.",
+					"contextForm": "widen out"
+				},
+				{
+					"text": "They may have to widen the road to cope with the increase in traffic.",
+					"contextForm": "widen something"
+				}
+			],
+			"collocations": {
+				"adverb": ["considerably", "dramatically", "greatly"],
+				"preposition": ["from", "into", "to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to become larger in degree or range; to make something larger in degree or range",
+			"sensetop": "widen something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Another concern is the widening gap between rich and poor."
+				},
+				{
+					"text": "We plan to widen the scope of our existing activities by offering more language courses.",
+					"contextForm": "widen something"
+				},
+				{
+					"text": "The legislation will be widened to include all firearms."
+				},
+				{
+					"text": "The gap between rich and poor has widened considerably."
+				},
+				{
+					"text": "The trade deficit had widened from £26 billion to £30 billion."
+				}
+			],
+			"collocations": {
+				"adverb": ["considerably", "dramatically", "greatly"],
+				"preposition": ["from", "into", "to"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to consider or include a larger range of options or possibilities, especially when searching for something",
+			"examples": [
+				{
+					"text": "It's time to widen the net in the search for a suitable candidate."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈwaɪdn/",
+				"audio": "wi/widen/widen__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwaɪdnz/",
+				"audio": "wi/widen/widens__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwaɪdnd/",
+				"audio": "wi/widen/widened__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwaɪdnɪŋ/",
+				"audio": "wi/widen/widening__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈwaɪdn/",
+				"audio": "wi/widen/widen__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwaɪdnz/",
+				"audio": "wi/widen/widens__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwaɪdnd/",
+				"audio": "wi/widen/widened__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwaɪdnɪŋ/",
+				"audio": "wi/widen/widening__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

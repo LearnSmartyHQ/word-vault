@@ -1,119 +1,119 @@
 {
-  "term": "envelope",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "image": "data/images/st/stationery.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a flat paper container used for sending letters in, with a part that you stick down to close it",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Writing paper and envelopes are provided in your room."
-        },
-        {
-          "text": "a padded/prepaid envelope"
-        },
-        {
-          "text": "He gave her the envelope of certificates."
-        },
-        {
-          "text": "She quickly stuffed the money back into the envelope."
-        },
-        {
-          "text": "I couldn't read the address on the envelope."
-        },
-        {
-          "text": "He had put the letter in the wrong envelope."
-        },
-        {
-          "text": "She scribbled his phone number on the back of an envelope."
-        },
-        {
-          "text": "Please enclose a self-addressed envelope if you would like a reply."
-        },
-        {
-          "text": "a self-addressed stamped envelope"
-        },
-        {
-          "text": "The envelope was marked ‘Personal’."
-        },
-        {
-          "text": "The letter was suspicious, and I considered steaming open the envelope."
-        },
-        {
-          "text": "To apply, use the enclosed reply-paid envelope (no stamp needed)."
-        },
-        {
-          "text": "You don't earn much stuffing envelopes."
-        },
-        {
-          "text": "an envelope addressed in my mother's round handwriting"
-        },
-        {
-          "text": "an official-looking manila envelope"
-        }
-      ],
-      "collocations": {
-        "adjective": ["bulky", "fat", "thick"],
-        "verb + envelope": ["open", "rip open", "slit open"],
-        "envelope + verb": ["contain something", "enclose something"],
-        "preposition": [
-          "in an/​the envelope",
-          "into an/​the envelope",
-          "on an/​the envelope"
-        ],
-        "phrases": ["the back of an envelope"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a flat container made of plastic for keeping papers in",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Each item was tagged and sealed in a plastic envelope."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to talk about planning or calculating something in a way that is not detailed, exact or complete",
-      "examples": [
-        {
-          "text": "We added up our savings on the back of an envelope."
-        },
-        {
-          "text": "**back-of-the-envelope calculations**"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to go beyond the limits of what is allowed or thought to be possible",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "He is a performer who consistently pushes the envelope of TV comedy."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈenvələʊp//ˈɒnvələʊp/",
-        "audio": "en/envelope/envelope__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈenvələʊp//ˈɑːnvələʊp/",
-        "audio": "en/envelope/envelope__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent. (in the sense ‘wrapper, enveloping layer’; originally as envelope): from French enveloppe, from envelopper ‘envelop’. The sense ‘covering of a letter’ dates from the early 18th cent."
+	"term": "envelope",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"image": "data/images/st/stationery.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a flat paper container used for sending letters in, with a part that you stick down to close it",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Writing paper and envelopes are provided in your room."
+				},
+				{
+					"text": "a padded/prepaid envelope"
+				},
+				{
+					"text": "He gave her the envelope of certificates."
+				},
+				{
+					"text": "She quickly stuffed the money back into the envelope."
+				},
+				{
+					"text": "I couldn't read the address on the envelope."
+				},
+				{
+					"text": "He had put the letter in the wrong envelope."
+				},
+				{
+					"text": "She scribbled his phone number on the back of an envelope."
+				},
+				{
+					"text": "Please enclose a self-addressed envelope if you would like a reply."
+				},
+				{
+					"text": "a self-addressed stamped envelope"
+				},
+				{
+					"text": "The envelope was marked ‘Personal’."
+				},
+				{
+					"text": "The letter was suspicious, and I considered steaming open the envelope."
+				},
+				{
+					"text": "To apply, use the enclosed reply-paid envelope (no stamp needed)."
+				},
+				{
+					"text": "You don't earn much stuffing envelopes."
+				},
+				{
+					"text": "an envelope addressed in my mother's round handwriting"
+				},
+				{
+					"text": "an official-looking manila envelope"
+				}
+			],
+			"collocations": {
+				"adjective": ["bulky", "fat", "thick"],
+				"verb + envelope": ["open", "rip open", "slit open"],
+				"envelope + verb": ["contain something", "enclose something"],
+				"preposition": [
+					"in an/​the envelope",
+					"into an/​the envelope",
+					"on an/​the envelope"
+				],
+				"phrases": ["the back of an envelope"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a flat container made of plastic for keeping papers in",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Each item was tagged and sealed in a plastic envelope."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to talk about planning or calculating something in a way that is not detailed, exact or complete",
+			"examples": [
+				{
+					"text": "We added up our savings on the back of an envelope."
+				},
+				{
+					"text": "**back-of-the-envelope calculations**"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to go beyond the limits of what is allowed or thought to be possible",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "He is a performer who consistently pushes the envelope of TV comedy."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈenvələʊp//ˈɒnvələʊp/",
+				"audio": "en/envelope/envelope__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈenvələʊp//ˈɑːnvələʊp/",
+				"audio": "en/envelope/envelope__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent. (in the sense ‘wrapper, enveloping layer’; originally as envelope): from French enveloppe, from envelopper ‘envelop’. The sense ‘covering of a letter’ dates from the early 18th cent."
 }

@@ -1,117 +1,117 @@
 {
-  "term": "slap",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "slap",
-      "heSheIt": "slaps"
-    },
-    "pastSimple": "slapped",
-    "pastParticiple": "slapped",
-    "ingForm": "slapping"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to hit somebody/something with the flat part of your hand",
-      "sensetop": "slap somebody/something (+ adv./prep.)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She slapped his face hard."
-        },
-        {
-          "text": "She slapped him hard across the face."
-        },
-        {
-          "text": "‘Congratulations!’ he said, slapping me on the back."
-        },
-        {
-          "text": "I felt like I had been slapped in the face."
-        },
-        {
-          "text": "She slapped his hand away."
-        },
-        {
-          "text": "She slapped the boy on the leg."
-        },
-        {
-          "text": "I'll slap you if you do that again."
-        }
-      ],
-      "synonyms": "smack",
-      "collocations": {
-        "adverb": ["hard", "gently", "lightly"],
-        "preposition": ["across", "on"],
-        "phrases": ["slap somebody in the face"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to put something on a surface in a quick, careless and often noisy way, especially because you are angry",
-      "sensetop": "slap something + adv./prep.",
-      "examples": [
-        {
-          "text": "He slapped the newspaper down on the desk."
-        },
-        {
-          "text": "She slapped a $10 bill into my hand."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to hit against something with the noise of somebody being slapped",
-      "sensetop": "+ adv./prep.",
-      "examples": [
-        {
-          "text": "The water slapped against the side of the boat."
-        },
-        {
-          "text": "I could hear bare feet slapping down the corridor."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/slæp/",
-        "audio": "sl/slap/slap__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/slæps/",
-        "audio": "sl/slap/slaps__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/slæpt/",
-        "audio": "sl/slap/slapped__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈslæpɪŋ/",
-        "audio": "sl/slap/slapping__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/slæp/",
-        "audio": "sl/slap/slap__us_1.mp3"
-      },
-      {
-        "pronunciation": "/slæps/",
-        "audio": "sl/slap/slaps__us_1.mp3"
-      },
-      {
-        "pronunciation": "/slæpt/",
-        "audio": "sl/slap/slapped__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈslæpɪŋ/",
-        "audio": "sl/slap/slapping__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (as a verb): probably imitative. The noun dates from the mid 17th cent."
+	"term": "slap",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "slap",
+			"heSheIt": "slaps"
+		},
+		"pastSimple": "slapped",
+		"pastParticiple": "slapped",
+		"ingForm": "slapping"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to hit somebody/something with the flat part of your hand",
+			"sensetop": "slap somebody/something (+ adv./prep.)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She slapped his face hard."
+				},
+				{
+					"text": "She slapped him hard across the face."
+				},
+				{
+					"text": "‘Congratulations!’ he said, slapping me on the back."
+				},
+				{
+					"text": "I felt like I had been slapped in the face."
+				},
+				{
+					"text": "She slapped his hand away."
+				},
+				{
+					"text": "She slapped the boy on the leg."
+				},
+				{
+					"text": "I'll slap you if you do that again."
+				}
+			],
+			"synonyms": "smack",
+			"collocations": {
+				"adverb": ["hard", "gently", "lightly"],
+				"preposition": ["across", "on"],
+				"phrases": ["slap somebody in the face"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to put something on a surface in a quick, careless and often noisy way, especially because you are angry",
+			"sensetop": "slap something + adv./prep.",
+			"examples": [
+				{
+					"text": "He slapped the newspaper down on the desk."
+				},
+				{
+					"text": "She slapped a $10 bill into my hand."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to hit against something with the noise of somebody being slapped",
+			"sensetop": "+ adv./prep.",
+			"examples": [
+				{
+					"text": "The water slapped against the side of the boat."
+				},
+				{
+					"text": "I could hear bare feet slapping down the corridor."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/slæp/",
+				"audio": "sl/slap/slap__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/slæps/",
+				"audio": "sl/slap/slaps__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/slæpt/",
+				"audio": "sl/slap/slapped__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈslæpɪŋ/",
+				"audio": "sl/slap/slapping__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/slæp/",
+				"audio": "sl/slap/slap__us_1.mp3"
+			},
+			{
+				"pronunciation": "/slæps/",
+				"audio": "sl/slap/slaps__us_1.mp3"
+			},
+			{
+				"pronunciation": "/slæpt/",
+				"audio": "sl/slap/slapped__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈslæpɪŋ/",
+				"audio": "sl/slap/slapping__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (as a verb): probably imitative. The noun dates from the mid 17th cent."
 }

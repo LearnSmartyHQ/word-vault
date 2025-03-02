@@ -1,188 +1,188 @@
 {
-  "term": "restore",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "restore",
-      "heSheIt": "restores"
-    },
-    "pastSimple": "restored",
-    "pastParticiple": "restored",
-    "ingForm": "restoring"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to bring back a situation or feeling that existed before",
-      "sensetop": "restore somethingrestore something to somebody",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "The measures are intended to **restore** public **confidence** in the economy.",
-          "contextForm": "restore something"
-        },
-        {
-          "text": "**Order was** quickly **restored** after the riots."
-        },
-        {
-          "text": "Such kindness restores your faith in human nature *(= makes you believe most people are kind)*."
-        },
-        {
-          "text": "The operation restored his sight *(= made him able to see again)*."
-        },
-        {
-          "text": "**Peace has** now **been restored** to the area.",
-          "contextForm": "restore something to somebody"
-        },
-        {
-          "text": "Full diplomatic relations have now been restored."
-        },
-        {
-          "text": "Troops were sent to the area to restore order."
-        },
-        {
-          "text": "We need to restore public confidence in the industry."
-        },
-        {
-          "text": "an attempt to restore the company's finances"
-        }
-      ],
-      "collocations": {
-        "adverb": ["quickly", "soon"],
-        "verb + restore": ["need to", "attempt to", "seek to"],
-        "preposition": ["to"],
-        "phrases": [
-          "an attempt to restore something",
-          "an effort to restore something",
-          "be aimed at restoring something"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to bring somebody/something back to a former condition, place or position",
-      "sensetop": "restore somebody/something to something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "He is now fully restored to health."
-        },
-        {
-          "text": "We hope to **restore** the garden **to its former glory** *(= make it as beautiful as it used to be)*."
-        },
-        {
-          "text": "This cream claims to restore your skin to its youthful condition."
-        },
-        {
-          "text": "She was now restored to health and ready to go back to work."
-        },
-        {
-          "text": "The army restored him to the throne."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to repair a building, work of art, piece of furniture, etc. so that it looks as good as it did originally",
-      "sensetop": "restore something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Her job is restoring old paintings."
-        },
-        {
-          "text": "The house has been lovingly restored to the way it looked in 1900 when it was built."
-        },
-        {
-          "text": "The train has been restored to full working order."
-        },
-        {
-          "text": "The interior has recently been extensively restored."
-        },
-        {
-          "text": "The buildings have now been restored to their former glory."
-        },
-        {
-          "text": "The film has been digitally restored and remastered."
-        }
-      ],
-      "topics": ["Buildings", "Art"],
-      "collocations": {
-        "adverb": ["completely", "fully", "partially"],
-        "preposition": ["to"],
-        "phrases": [
-          "newly restored",
-          "recently restored",
-          "restore something to its former glory"
-        ]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to bring a law, tradition, way of working, etc. back into use",
-      "sensetop": "restore something",
-      "examples": [
-        {
-          "text": "to restore ancient traditions"
-        },
-        {
-          "text": "Some people argue that the death penalty should be restored."
-        }
-      ],
-      "synonyms": "reintroduce"
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to give something that was lost or stolen back to somebody",
-      "sensetop": "restore something (to somebody/something)",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "The police have now restored the painting to its rightful owner."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/rɪˈstɔː(r)/",
-        "audio": "re/restore/restore__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈstɔːz/",
-        "audio": "re/restore/restores__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈstɔːd/",
-        "audio": "re/restore/restored__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈstɔːrɪŋ/",
-        "audio": "re/restore/restoring__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/rɪˈstɔːr/",
-        "audio": "re/restore/restore__us_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈstɔːrz/",
-        "audio": "re/restore/restores__us_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈstɔːrd/",
-        "audio": "re/restore/restored__us_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈstɔːrɪŋ/",
-        "audio": "re/restore/restoring__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French restorer, from Latin restaurare ‘rebuild, restore’."
+	"term": "restore",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "restore",
+			"heSheIt": "restores"
+		},
+		"pastSimple": "restored",
+		"pastParticiple": "restored",
+		"ingForm": "restoring"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to bring back a situation or feeling that existed before",
+			"sensetop": "restore somethingrestore something to somebody",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "The measures are intended to **restore** public **confidence** in the economy.",
+					"contextForm": "restore something"
+				},
+				{
+					"text": "**Order was** quickly **restored** after the riots."
+				},
+				{
+					"text": "Such kindness restores your faith in human nature *(= makes you believe most people are kind)*."
+				},
+				{
+					"text": "The operation restored his sight *(= made him able to see again)*."
+				},
+				{
+					"text": "**Peace has** now **been restored** to the area.",
+					"contextForm": "restore something to somebody"
+				},
+				{
+					"text": "Full diplomatic relations have now been restored."
+				},
+				{
+					"text": "Troops were sent to the area to restore order."
+				},
+				{
+					"text": "We need to restore public confidence in the industry."
+				},
+				{
+					"text": "an attempt to restore the company's finances"
+				}
+			],
+			"collocations": {
+				"adverb": ["quickly", "soon"],
+				"verb + restore": ["need to", "attempt to", "seek to"],
+				"preposition": ["to"],
+				"phrases": [
+					"an attempt to restore something",
+					"an effort to restore something",
+					"be aimed at restoring something"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to bring somebody/something back to a former condition, place or position",
+			"sensetop": "restore somebody/something to something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "He is now fully restored to health."
+				},
+				{
+					"text": "We hope to **restore** the garden **to its former glory** *(= make it as beautiful as it used to be)*."
+				},
+				{
+					"text": "This cream claims to restore your skin to its youthful condition."
+				},
+				{
+					"text": "She was now restored to health and ready to go back to work."
+				},
+				{
+					"text": "The army restored him to the throne."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to repair a building, work of art, piece of furniture, etc. so that it looks as good as it did originally",
+			"sensetop": "restore something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Her job is restoring old paintings."
+				},
+				{
+					"text": "The house has been lovingly restored to the way it looked in 1900 when it was built."
+				},
+				{
+					"text": "The train has been restored to full working order."
+				},
+				{
+					"text": "The interior has recently been extensively restored."
+				},
+				{
+					"text": "The buildings have now been restored to their former glory."
+				},
+				{
+					"text": "The film has been digitally restored and remastered."
+				}
+			],
+			"topics": ["Buildings", "Art"],
+			"collocations": {
+				"adverb": ["completely", "fully", "partially"],
+				"preposition": ["to"],
+				"phrases": [
+					"newly restored",
+					"recently restored",
+					"restore something to its former glory"
+				]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to bring a law, tradition, way of working, etc. back into use",
+			"sensetop": "restore something",
+			"examples": [
+				{
+					"text": "to restore ancient traditions"
+				},
+				{
+					"text": "Some people argue that the death penalty should be restored."
+				}
+			],
+			"synonyms": "reintroduce"
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to give something that was lost or stolen back to somebody",
+			"sensetop": "restore something (to somebody/something)",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "The police have now restored the painting to its rightful owner."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/rɪˈstɔː(r)/",
+				"audio": "re/restore/restore__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈstɔːz/",
+				"audio": "re/restore/restores__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈstɔːd/",
+				"audio": "re/restore/restored__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈstɔːrɪŋ/",
+				"audio": "re/restore/restoring__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/rɪˈstɔːr/",
+				"audio": "re/restore/restore__us_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈstɔːrz/",
+				"audio": "re/restore/restores__us_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈstɔːrd/",
+				"audio": "re/restore/restored__us_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈstɔːrɪŋ/",
+				"audio": "re/restore/restoring__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French restorer, from Latin restaurare ‘rebuild, restore’."
 }

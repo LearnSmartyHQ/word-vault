@@ -1,146 +1,146 @@
 {
-  "term": "boundary",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a real or imagined line that marks the limits or edges of something and separates it from other things or places; a dividing line",
-      "labels": "(British English)(British English)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "After the war the national boundaries were redrawn."
-        },
-        {
-          "text": "county boundaries"
-        },
-        {
-          "text": "**boundary changes/disputes**"
-        },
-        {
-          "text": "The fence marks the boundary between my property and hers."
-        },
-        {
-          "text": "Scientists continue to **push back the boundaries** of human knowledge."
-        },
-        {
-          "text": "It is up to the teacher to set the boundary between acceptable and unacceptable behaviour."
-        },
-        {
-          "text": "He could just see her beyond the boundary wall of the cemetery."
-        },
-        {
-          "text": "to extend the boundaries of high art to include some popular music"
-        },
-        {
-          "text": "His policies appeal across party political boundaries."
-        },
-        {
-          "text": "In her performance she had clearly overstepped the boundaries of good taste."
-        },
-        {
-          "text": "She had never strayed beyond the city boundaries."
-        },
-        {
-          "text": "The internet has blurred the boundary between news and entertainment."
-        },
-        {
-          "text": "The boundary was fixed just south of the farm."
-        },
-        {
-          "text": "The river forms the boundary."
-        },
-        {
-          "text": "The state has a boundary with Ontario."
-        },
-        {
-          "text": "They drove across the boundary."
-        },
-        {
-          "text": "This goes beyond the boundaries of what is accepted."
-        },
-        {
-          "text": "This job crosses the traditional boundary between social work and healthcare."
-        },
-        {
-          "text": "We continued along the southern boundary of the county."
-        },
-        {
-          "text": "We had to stop at the boundary."
-        },
-        {
-          "text": "We've just crossed the boundary into Sussex."
-        },
-        {
-          "text": "a boundary dispute with their neighbours"
-        },
-        {
-          "text": "keeping within the boundaries of the law"
-        },
-        {
-          "text": "on the boundary of physics and chemistry"
-        },
-        {
-          "text": "research which extends the boundaries of human knowledge"
-        },
-        {
-          "text": "the boundary between Sussex and Surrey"
-        },
-        {
-          "text": "within the boundaries of the old city walls"
-        }
-      ],
-      "topics": ["Gardens"],
-      "collocations": {
-        "adjective": ["common", "northern", "southern"],
-        "verb + boundary": ["have", "form", "mark"],
-        "boundary + noun": ["fence", "hedge", "line"],
-        "preposition": [
-          "across the boundary",
-          "over the boundary",
-          "along the boundary"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a hit of the ball that crosses the boundary of the playing area and scores extra points",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "He hit 13 boundaries from 183 balls."
-        }
-      ],
-      "topics": ["Sports: ball and racket sports"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to attempt to go beyond what is allowed or thought to be possible",
-      "examples": [
-        {
-          "text": "We aim to push the boundaries of what we can achieve."
-        },
-        {
-          "text": "She pushes her physical limits through various endurance challenges."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈbaʊndri/",
-        "audio": "bo/boundary/boundary__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈbaʊndri/",
-        "audio": "bo/boundary/boundary__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 17th cent.: variant of dialect bounder, from bound ‘boundary’ + -er, perhaps on the pattern of limitary."
+	"term": "boundary",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a real or imagined line that marks the limits or edges of something and separates it from other things or places; a dividing line",
+			"labels": "(British English)(British English)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "After the war the national boundaries were redrawn."
+				},
+				{
+					"text": "county boundaries"
+				},
+				{
+					"text": "**boundary changes/disputes**"
+				},
+				{
+					"text": "The fence marks the boundary between my property and hers."
+				},
+				{
+					"text": "Scientists continue to **push back the boundaries** of human knowledge."
+				},
+				{
+					"text": "It is up to the teacher to set the boundary between acceptable and unacceptable behaviour."
+				},
+				{
+					"text": "He could just see her beyond the boundary wall of the cemetery."
+				},
+				{
+					"text": "to extend the boundaries of high art to include some popular music"
+				},
+				{
+					"text": "His policies appeal across party political boundaries."
+				},
+				{
+					"text": "In her performance she had clearly overstepped the boundaries of good taste."
+				},
+				{
+					"text": "She had never strayed beyond the city boundaries."
+				},
+				{
+					"text": "The internet has blurred the boundary between news and entertainment."
+				},
+				{
+					"text": "The boundary was fixed just south of the farm."
+				},
+				{
+					"text": "The river forms the boundary."
+				},
+				{
+					"text": "The state has a boundary with Ontario."
+				},
+				{
+					"text": "They drove across the boundary."
+				},
+				{
+					"text": "This goes beyond the boundaries of what is accepted."
+				},
+				{
+					"text": "This job crosses the traditional boundary between social work and healthcare."
+				},
+				{
+					"text": "We continued along the southern boundary of the county."
+				},
+				{
+					"text": "We had to stop at the boundary."
+				},
+				{
+					"text": "We've just crossed the boundary into Sussex."
+				},
+				{
+					"text": "a boundary dispute with their neighbours"
+				},
+				{
+					"text": "keeping within the boundaries of the law"
+				},
+				{
+					"text": "on the boundary of physics and chemistry"
+				},
+				{
+					"text": "research which extends the boundaries of human knowledge"
+				},
+				{
+					"text": "the boundary between Sussex and Surrey"
+				},
+				{
+					"text": "within the boundaries of the old city walls"
+				}
+			],
+			"topics": ["Gardens"],
+			"collocations": {
+				"adjective": ["common", "northern", "southern"],
+				"verb + boundary": ["have", "form", "mark"],
+				"boundary + noun": ["fence", "hedge", "line"],
+				"preposition": [
+					"across the boundary",
+					"over the boundary",
+					"along the boundary"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a hit of the ball that crosses the boundary of the playing area and scores extra points",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "He hit 13 boundaries from 183 balls."
+				}
+			],
+			"topics": ["Sports: ball and racket sports"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to attempt to go beyond what is allowed or thought to be possible",
+			"examples": [
+				{
+					"text": "We aim to push the boundaries of what we can achieve."
+				},
+				{
+					"text": "She pushes her physical limits through various endurance challenges."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈbaʊndri/",
+				"audio": "bo/boundary/boundary__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈbaʊndri/",
+				"audio": "bo/boundary/boundary__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 17th cent.: variant of dialect bounder, from bound ‘boundary’ + -er, perhaps on the pattern of limitary."
 }

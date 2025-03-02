@@ -1,148 +1,148 @@
 {
-  "term": "tend",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "tend",
-      "heSheIt": "tends"
-    },
-    "pastSimple": "tended",
-    "pastParticiple": "tended",
-    "ingForm": "tending"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to be likely to do something or to happen in a particular way because this is what often or usually happens",
-      "sensetop": "tend to do something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Women tend to live longer than men."
-        },
-        {
-          "text": "People tend to be happier if they are in a long-term relationship."
-        },
-        {
-          "text": "When I'm tired, I tend to make mistakes."
-        },
-        {
-          "text": "It tends to get very cold here in the winter."
-        },
-        {
-          "text": "People **tend to think** that the problem will never affect them."
-        },
-        {
-          "text": "I **tend to agree** with many of the points you make."
-        },
-        {
-          "text": "I **tend to focus** on dance, but acting and singing are equally important to me."
-        },
-        {
-          "text": "Large class size will tend to increase the use of the lecture."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to take a particular direction or often have a particular quality",
-      "sensetop": "tend (to/towards something)",
-      "examples": [
-        {
-          "text": "His views tend towards the extreme."
-        },
-        {
-          "text": "Prices have tended downwards over recent years."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to care for somebody/something",
-      "sensetop": "tend somebody/somethingtend to somebody/something",
-      "examples": [
-        {
-          "text": "a shepherd tending his sheep",
-          "contextForm": "tend somebody/something"
-        },
-        {
-          "text": "Doctors and nurses tended the injured."
-        },
-        {
-          "text": "well-tended gardens"
-        },
-        {
-          "text": "Ambulance crews were tending to the injured.",
-          "contextForm": "tend to somebody/something"
-        },
-        {
-          "text": "They helped the farmers tend their cattle."
-        },
-        {
-          "text": "She lovingly tended her garden."
-        },
-        {
-          "text": "He tended to her every need."
-        }
-      ],
-      "collocations": {
-        "adverb": ["carefully", "lovingly"],
-        "preposition": ["to"],
-        "phrases": ["well-tended"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to serve customers in a store, bar, etc.",
-      "sensetop": "tend something",
-      "labels": "(North American English)",
-      "examples": [
-        {
-          "text": "He had a job **tending bar** in San Francisco."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/tend/",
-        "audio": "te/tend/tend__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/tendz/",
-        "audio": "te/tend/tends__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtendɪd/",
-        "audio": "te/tend/tended__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtendɪŋ/",
-        "audio": "te/tend/tending__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/tend/",
-        "audio": "te/tend/tend__us_1.mp3"
-      },
-      {
-        "pronunciation": "/tendz/",
-        "audio": "te/tend/tends__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtendɪd/",
-        "audio": "te/tend/tended__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtendɪŋ/",
-        "audio": "te/tend/tending__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "senses 1 to 2 Middle English (in the sense ‘move or be inclined to move in a certain direction’): from Old French tendre ‘stretch, tend’, from Latin tendere.senses 3 to 4 Middle English: shortening of attend."
+	"term": "tend",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "tend",
+			"heSheIt": "tends"
+		},
+		"pastSimple": "tended",
+		"pastParticiple": "tended",
+		"ingForm": "tending"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to be likely to do something or to happen in a particular way because this is what often or usually happens",
+			"sensetop": "tend to do something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Women tend to live longer than men."
+				},
+				{
+					"text": "People tend to be happier if they are in a long-term relationship."
+				},
+				{
+					"text": "When I'm tired, I tend to make mistakes."
+				},
+				{
+					"text": "It tends to get very cold here in the winter."
+				},
+				{
+					"text": "People **tend to think** that the problem will never affect them."
+				},
+				{
+					"text": "I **tend to agree** with many of the points you make."
+				},
+				{
+					"text": "I **tend to focus** on dance, but acting and singing are equally important to me."
+				},
+				{
+					"text": "Large class size will tend to increase the use of the lecture."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to take a particular direction or often have a particular quality",
+			"sensetop": "tend (to/towards something)",
+			"examples": [
+				{
+					"text": "His views tend towards the extreme."
+				},
+				{
+					"text": "Prices have tended downwards over recent years."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to care for somebody/something",
+			"sensetop": "tend somebody/somethingtend to somebody/something",
+			"examples": [
+				{
+					"text": "a shepherd tending his sheep",
+					"contextForm": "tend somebody/something"
+				},
+				{
+					"text": "Doctors and nurses tended the injured."
+				},
+				{
+					"text": "well-tended gardens"
+				},
+				{
+					"text": "Ambulance crews were tending to the injured.",
+					"contextForm": "tend to somebody/something"
+				},
+				{
+					"text": "They helped the farmers tend their cattle."
+				},
+				{
+					"text": "She lovingly tended her garden."
+				},
+				{
+					"text": "He tended to her every need."
+				}
+			],
+			"collocations": {
+				"adverb": ["carefully", "lovingly"],
+				"preposition": ["to"],
+				"phrases": ["well-tended"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to serve customers in a store, bar, etc.",
+			"sensetop": "tend something",
+			"labels": "(North American English)",
+			"examples": [
+				{
+					"text": "He had a job **tending bar** in San Francisco."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/tend/",
+				"audio": "te/tend/tend__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/tendz/",
+				"audio": "te/tend/tends__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtendɪd/",
+				"audio": "te/tend/tended__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtendɪŋ/",
+				"audio": "te/tend/tending__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/tend/",
+				"audio": "te/tend/tend__us_1.mp3"
+			},
+			{
+				"pronunciation": "/tendz/",
+				"audio": "te/tend/tends__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtendɪd/",
+				"audio": "te/tend/tended__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtendɪŋ/",
+				"audio": "te/tend/tending__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "senses 1 to 2 Middle English (in the sense ‘move or be inclined to move in a certain direction’): from Old French tendre ‘stretch, tend’, from Latin tendere.senses 3 to 4 Middle English: shortening of attend."
 }

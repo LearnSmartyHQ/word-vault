@@ -1,136 +1,136 @@
 {
-  "term": "always",
-  "partOfSpeech": "adverb",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "at all times; on every occasion",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "There's **almost always** somebody at home in the evenings."
-        },
-        {
-          "text": "Always lock your car."
-        },
-        {
-          "text": "She always arrives at 7.30."
-        },
-        {
-          "text": "The children always seem to be hungry."
-        },
-        {
-          "text": "Success seems always to be out of reach."
-        },
-        {
-          "text": "Your ideas are **always welcome**."
-        },
-        {
-          "text": "It's not always easy to do the right thing."
-        },
-        {
-          "text": "We're not always this busy!"
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "for a long time; since you can remember",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Pat has always loved gardening."
-        },
-        {
-          "text": "This is the way we've always done it."
-        },
-        {
-          "text": "This painting is very good—Ellie always was very good at art *(= so it is not very surprising)*."
-        },
-        {
-          "text": "Did you always want to be an actor?"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "for all future time",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I'll always love you."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "if you say a person is always doing something, or something is always happening, you mean that they do it, or it happens, very often, and that this is annoying",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She's always criticizing me."
-        },
-        {
-          "text": "That phone's always ringing."
-        },
-        {
-          "text": "Why are you always complaining about my cooking?"
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "used to suggest a possible course of action",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "If it doesn't fit, you can always take it back."
-        },
-        {
-          "text": "If he can't help, there's always John."
-        }
-      ],
-      "topics": ["Suggestions and advice"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "as usually happens or is expected",
-      "examples": [
-        {
-          "text": "As always, Polly was late for school."
-        }
-      ],
-      "synonyms": "as usual"
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that somebody cannot change",
-      "examples": [
-        {
-          "text": "Once an actor, always an actor."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈɔːlweɪz/",
-        "audio": "al/always/always__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈɔːlweɪz/",
-        "audio": "al/always/always__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: genitive case of all way, the inflection probably giving the sense ‘at every time’ as opposed to ‘at one uninterrupted time’: the difference between the two is no longer distinct."
+	"term": "always",
+	"partOfSpeech": "adverb",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "at all times; on every occasion",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "There's **almost always** somebody at home in the evenings."
+				},
+				{
+					"text": "Always lock your car."
+				},
+				{
+					"text": "She always arrives at 7.30."
+				},
+				{
+					"text": "The children always seem to be hungry."
+				},
+				{
+					"text": "Success seems always to be out of reach."
+				},
+				{
+					"text": "Your ideas are **always welcome**."
+				},
+				{
+					"text": "It's not always easy to do the right thing."
+				},
+				{
+					"text": "We're not always this busy!"
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "for a long time; since you can remember",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Pat has always loved gardening."
+				},
+				{
+					"text": "This is the way we've always done it."
+				},
+				{
+					"text": "This painting is very good—Ellie always was very good at art *(= so it is not very surprising)*."
+				},
+				{
+					"text": "Did you always want to be an actor?"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "for all future time",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I'll always love you."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "if you say a person is always doing something, or something is always happening, you mean that they do it, or it happens, very often, and that this is annoying",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She's always criticizing me."
+				},
+				{
+					"text": "That phone's always ringing."
+				},
+				{
+					"text": "Why are you always complaining about my cooking?"
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "used to suggest a possible course of action",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "If it doesn't fit, you can always take it back."
+				},
+				{
+					"text": "If he can't help, there's always John."
+				}
+			],
+			"topics": ["Suggestions and advice"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "as usually happens or is expected",
+			"examples": [
+				{
+					"text": "As always, Polly was late for school."
+				}
+			],
+			"synonyms": "as usual"
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that somebody cannot change",
+			"examples": [
+				{
+					"text": "Once an actor, always an actor."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈɔːlweɪz/",
+				"audio": "al/always/always__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈɔːlweɪz/",
+				"audio": "al/always/always__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: genitive case of all way, the inflection probably giving the sense ‘at every time’ as opposed to ‘at one uninterrupted time’: the difference between the two is no longer distinct."
 }

@@ -1,67 +1,67 @@
 {
-  "term": "patent",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "an official right to be the only person to make, use or sell a product or an invention; a document that proves this",
-      "sensetop": "patent on somethingby patent",
-      "examples": [
-        {
-          "text": "to apply for/obtain/take out a patent on an invention",
-          "contextForm": "patent on something"
-        },
-        {
-          "text": "The device was protected by patent.",
-          "contextForm": "by patent"
-        },
-        {
-          "text": "patent applications/laws"
-        },
-        {
-          "text": "the US Patent Office"
-        },
-        {
-          "text": "Edison took out a patent on the light bulb."
-        },
-        {
-          "text": "In 1843 Bain filed a patent for his fax machine."
-        },
-        {
-          "text": "In 1995 he was granted a patent for his invention."
-        },
-        {
-          "text": "The item is Patent Pending No. 11092001."
-        },
-        {
-          "text": "a leading authority on patent law"
-        }
-      ],
-      "topics": ["Business"],
-      "collocations": {
-        "verb + patent": ["apply for", "file", "get"],
-        "patent + verb": ["expire", "cover", "protect"],
-        "patent + noun": ["application", "protection", "law"],
-        "preposition": ["patent for", "patent on"],
-        "phrases": ["patent pending"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈpætnt//ˈpeɪtnt/",
-        "audio": "pa/patent/patent__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈpætnt/",
-        "audio": "pa/patent/patent__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French, from Latin patent- ‘lying open’, from the verb patere. The noun sense is from letters patent."
+	"term": "patent",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "an official right to be the only person to make, use or sell a product or an invention; a document that proves this",
+			"sensetop": "patent on somethingby patent",
+			"examples": [
+				{
+					"text": "to apply for/obtain/take out a patent on an invention",
+					"contextForm": "patent on something"
+				},
+				{
+					"text": "The device was protected by patent.",
+					"contextForm": "by patent"
+				},
+				{
+					"text": "patent applications/laws"
+				},
+				{
+					"text": "the US Patent Office"
+				},
+				{
+					"text": "Edison took out a patent on the light bulb."
+				},
+				{
+					"text": "In 1843 Bain filed a patent for his fax machine."
+				},
+				{
+					"text": "In 1995 he was granted a patent for his invention."
+				},
+				{
+					"text": "The item is Patent Pending No. 11092001."
+				},
+				{
+					"text": "a leading authority on patent law"
+				}
+			],
+			"topics": ["Business"],
+			"collocations": {
+				"verb + patent": ["apply for", "file", "get"],
+				"patent + verb": ["expire", "cover", "protect"],
+				"patent + noun": ["application", "protection", "law"],
+				"preposition": ["patent for", "patent on"],
+				"phrases": ["patent pending"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈpætnt//ˈpeɪtnt/",
+				"audio": "pa/patent/patent__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈpætnt/",
+				"audio": "pa/patent/patent__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French, from Latin patent- ‘lying open’, from the verb patere. The noun sense is from letters patent."
 }

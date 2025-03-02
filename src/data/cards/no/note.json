@@ -1,383 +1,383 @@
 {
-  "term": "note",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/mo/money.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a short piece of writing to help you remember something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Please **make a note** of the dates."
-        },
-        {
-          "text": "She **made a mental note** *(= decided that she must remember)* to ask Alan about it."
-        },
-        {
-          "text": "**Note to self** *(= a mental instruction)*: book more holidays."
-        },
-        {
-          "text": "I've made a note of the book's title."
-        },
-        {
-          "text": "She kept detailed notes of her travels."
-        },
-        {
-          "text": "She made a mental note to call them in the morning."
-        }
-      ],
-      "collocations": {
-        "adjective": ["brief", "copious", "detailed"],
-        "verb + note": ["jot down", "keep", "make"],
-        "preposition": ["note of", "note on"],
-        "phrases": ["make a mental note (of something/​to do something)"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a short informal letter",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Just a quick note to say thank you for a wonderful evening."
-        },
-        {
-          "text": "She left a note for Ben on the kitchen table."
-        },
-        {
-          "text": "He wrote a note to his parents saying he was leaving."
-        },
-        {
-          "text": "I left a note for Judith on her desk."
-        },
-        {
-          "text": "She left me a note to say my dinner was in the oven."
-        },
-        {
-          "text": "I saw you two passing notes during class."
-        },
-        {
-          "text": "Just a quick note to wish you luck."
-        },
-        {
-          "text": "He gave a handwritten note to the principal."
-        }
-      ],
-      "collocations": {
-        "adjective": ["brief", "little", "quick"],
-        "verb + note": [
-          "scribble (somebody)",
-          "write (somebody)",
-          "send (somebody)"
-        ],
-        "phrases": ["a note of thanks"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "information that you write down when somebody is speaking, or when you are reading a book, etc.",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He sat **taking notes** of everything that was said."
-        },
-        {
-          "text": "Can I borrow your **lecture notes**?"
-        }
-      ],
-      "collocations": {
-        "adjective": ["brief", "copious", "detailed"],
-        "verb + note": ["jot down", "keep", "make"],
-        "preposition": ["note of", "note on"],
-        "phrases": ["make a mental note (of something/​to do something)"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "detailed information that is kept about a particular person, topic or situation",
-      "sensetop": "notes on something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Patients' **medical notes** have gone missing."
-        },
-        {
-          "text": "He **kept notes** on the birds, mammals, reptiles and plants he saw on walks.",
-          "contextForm": "notes on something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "information about a performance, an actor’s career, a piece of music, etc. printed in a special book or on a record cover, etc.",
-      "labels": "(British English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The booklet has full notes on each artist."
-        },
-        {
-          "text": "The catalogue contains detailed notes on each painting."
-        },
-        {
-          "text": "The sleeve notes include a short biography of the performers on this recording."
-        }
-      ],
-      "collocations": {
-        "adjective": ["detailed", "extensive", "explanatory"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "a short comment on a word or passage in a book",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a new edition of ‘Hamlet’, with explanatory notes"
-        },
-        {
-          "text": "See note 3, page 259."
-        }
-      ],
-      "collocations": {
-        "adjective": ["detailed", "extensive", "explanatory"]
-      }
-    },
-    {
-      "senseNumber": 7,
-      "definition": "a piece of paper money",
-      "labels": "(British English)especially in British EnglishNorth American English usually",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a £5 note"
-        },
-        {
-          "text": "We only exchange notes and traveller's cheques."
-        },
-        {
-          "text": "a thick wad of notes"
-        }
-      ],
-      "topics": ["Money", "Shopping"],
-      "collocations": {
-        "adjective": ["five-pound", "ten-euro", "etc."],
-        "… of notes": ["bundle", "roll", "wad"]
-      }
-    },
-    {
-      "senseNumber": 8,
-      "definition": "a single sound of a particular length and pitch (= how high or low a sound is), made by the voice or a musical instrument; the written or printed sign for a musical note",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He played the first few notes of the tune."
-        },
-        {
-          "text": "**high/low notes**"
-        },
-        {
-          "text": "I played a lot of **wrong notes** because I was so nervous."
-        },
-        {
-          "text": "Some of the high notes were difficult for him to sing."
-        },
-        {
-          "text": "She's a bit wobbly on the top notes."
-        }
-      ],
-      "topics": ["Music"],
-      "collocations": {
-        "adjective": ["high", "top", "low"],
-        "verb + note": ["play", "sing", "hit"]
-      }
-    },
-    {
-      "senseNumber": 9,
-      "definition": "a particular quality in something, for example in somebody’s voice or the atmosphere at an event; a comment on something with a particular quality",
-      "sensetop": "note of somethingon a… note",
-      "examples": [
-        {
-          "text": "There was a note of amusement in his voice.",
-          "contextForm": "note of something"
-        },
-        {
-          "text": "It's good to finish **on a positive note**.",
-          "contextForm": "on a… note"
-        },
-        {
-          "text": "**On a more serious note** *(= speaking more seriously)*…"
-        },
-        {
-          "text": "**On a slightly different note** *(= changing the subject slightly)*, let’s talk about…"
-        },
-        {
-          "text": "The year ended on an optimistic note."
-        },
-        {
-          "text": "**As a side note**, the entire festival is free."
-        },
-        {
-          "text": "His remarks injected a note of levity into the proceedings."
-        },
-        {
-          "text": "I detected a faint note of weariness in his voice."
-        },
-        {
-          "text": "On a brighter note…"
-        },
-        {
-          "text": "On a completely unrelated note…"
-        },
-        {
-          "text": "The conference ended on an optimistic note."
-        },
-        {
-          "text": "There was a sad note in her voice."
-        }
-      ],
-      "synonyms": "air",
-      "collocations": {
-        "adjective": ["brighter", "cheerful", "happier"],
-        "verb + note": ["hit", "sound", "strike"],
-        "note + verb": [
-          "creep into somebody’s voice",
-          "enter somebody’s voice"
-        ],
-        "preposition": ["note of"],
-        "phrases": ["a note in somebody’s voice"]
-      }
-    },
-    {
-      "senseNumber": 10,
-      "definition": "an official document with a particular purpose",
-      "examples": [
-        {
-          "text": "a sick note from your doctor"
-        },
-        {
-          "text": "The buyer has to sign a delivery note as proof of receipt."
-        },
-        {
-          "text": "Students returning to school after absence must bring a note from their parents."
-        }
-      ]
-    },
-    {
-      "senseNumber": 11,
-      "definition": "an official letter from the representative of one government to another",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "an exchange of diplomatic notes"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "if two or more people compare notes, they each say what they think about the same event, situation, etc.",
-      "examples": [
-        {
-          "text": "We saw the play separately and compared notes afterwards."
-        },
-        {
-          "text": "Let's compare notes on our experiences."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to do, say or write something that is suitable/not suitable for a particular occasion",
-      "labels": "(especially British English)",
-      "examples": [
-        {
-          "text": "It is a bizarre tale and the author hits just the right note of horror and disbelief."
-        },
-        {
-          "text": "Unfortunately, the president struck the wrong note in his speech, ignoring the public mood."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "of importance or of great interest",
-      "examples": [
-        {
-          "text": "a scientist of note"
-        },
-        {
-          "text": "The museum contains nothing of great note."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to express feelings or opinions of a particular kind",
-      "examples": [
-        {
-          "text": "She sounded a note of warning in her speech."
-        },
-        {
-          "text": "The touch of cynicism struck a slightly sour note."
-        },
-        {
-          "text": "He sounded a cautionary note."
-        },
-        {
-          "text": "His opening remarks struck the right note."
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to pay attention to something and be sure to remember it",
-      "examples": [
-        {
-          "text": "Take note of what he says."
-        },
-        {
-          "text": "Under the new rules the penalty for illegal play is increased. Players take note."
-        },
-        {
-          "text": "He took careful note of the suspicious-looking man in the corner of the bar."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "worth paying attention to",
-      "examples": [
-        {
-          "text": "The frescoes are worthy of note."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/nəʊt/",
-        "audio": "no/note/note__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/nəʊt/",
-        "audio": "no/note/note__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in sense 6 of the noun and both verb senses): from Old French note (noun), noter (verb), from Latin nota ‘a mark’, notare ‘to mark’."
+	"term": "note",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/mo/money.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a short piece of writing to help you remember something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Please **make a note** of the dates."
+				},
+				{
+					"text": "She **made a mental note** *(= decided that she must remember)* to ask Alan about it."
+				},
+				{
+					"text": "**Note to self** *(= a mental instruction)*: book more holidays."
+				},
+				{
+					"text": "I've made a note of the book's title."
+				},
+				{
+					"text": "She kept detailed notes of her travels."
+				},
+				{
+					"text": "She made a mental note to call them in the morning."
+				}
+			],
+			"collocations": {
+				"adjective": ["brief", "copious", "detailed"],
+				"verb + note": ["jot down", "keep", "make"],
+				"preposition": ["note of", "note on"],
+				"phrases": ["make a mental note (of something/​to do something)"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a short informal letter",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Just a quick note to say thank you for a wonderful evening."
+				},
+				{
+					"text": "She left a note for Ben on the kitchen table."
+				},
+				{
+					"text": "He wrote a note to his parents saying he was leaving."
+				},
+				{
+					"text": "I left a note for Judith on her desk."
+				},
+				{
+					"text": "She left me a note to say my dinner was in the oven."
+				},
+				{
+					"text": "I saw you two passing notes during class."
+				},
+				{
+					"text": "Just a quick note to wish you luck."
+				},
+				{
+					"text": "He gave a handwritten note to the principal."
+				}
+			],
+			"collocations": {
+				"adjective": ["brief", "little", "quick"],
+				"verb + note": [
+					"scribble (somebody)",
+					"write (somebody)",
+					"send (somebody)"
+				],
+				"phrases": ["a note of thanks"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "information that you write down when somebody is speaking, or when you are reading a book, etc.",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He sat **taking notes** of everything that was said."
+				},
+				{
+					"text": "Can I borrow your **lecture notes**?"
+				}
+			],
+			"collocations": {
+				"adjective": ["brief", "copious", "detailed"],
+				"verb + note": ["jot down", "keep", "make"],
+				"preposition": ["note of", "note on"],
+				"phrases": ["make a mental note (of something/​to do something)"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "detailed information that is kept about a particular person, topic or situation",
+			"sensetop": "notes on something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Patients' **medical notes** have gone missing."
+				},
+				{
+					"text": "He **kept notes** on the birds, mammals, reptiles and plants he saw on walks.",
+					"contextForm": "notes on something"
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "information about a performance, an actor’s career, a piece of music, etc. printed in a special book or on a record cover, etc.",
+			"labels": "(British English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The booklet has full notes on each artist."
+				},
+				{
+					"text": "The catalogue contains detailed notes on each painting."
+				},
+				{
+					"text": "The sleeve notes include a short biography of the performers on this recording."
+				}
+			],
+			"collocations": {
+				"adjective": ["detailed", "extensive", "explanatory"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "a short comment on a word or passage in a book",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a new edition of ‘Hamlet’, with explanatory notes"
+				},
+				{
+					"text": "See note 3, page 259."
+				}
+			],
+			"collocations": {
+				"adjective": ["detailed", "extensive", "explanatory"]
+			}
+		},
+		{
+			"senseNumber": 7,
+			"definition": "a piece of paper money",
+			"labels": "(British English)especially in British EnglishNorth American English usually",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a £5 note"
+				},
+				{
+					"text": "We only exchange notes and traveller's cheques."
+				},
+				{
+					"text": "a thick wad of notes"
+				}
+			],
+			"topics": ["Money", "Shopping"],
+			"collocations": {
+				"adjective": ["five-pound", "ten-euro", "etc."],
+				"… of notes": ["bundle", "roll", "wad"]
+			}
+		},
+		{
+			"senseNumber": 8,
+			"definition": "a single sound of a particular length and pitch (= how high or low a sound is), made by the voice or a musical instrument; the written or printed sign for a musical note",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He played the first few notes of the tune."
+				},
+				{
+					"text": "**high/low notes**"
+				},
+				{
+					"text": "I played a lot of **wrong notes** because I was so nervous."
+				},
+				{
+					"text": "Some of the high notes were difficult for him to sing."
+				},
+				{
+					"text": "She's a bit wobbly on the top notes."
+				}
+			],
+			"topics": ["Music"],
+			"collocations": {
+				"adjective": ["high", "top", "low"],
+				"verb + note": ["play", "sing", "hit"]
+			}
+		},
+		{
+			"senseNumber": 9,
+			"definition": "a particular quality in something, for example in somebody’s voice or the atmosphere at an event; a comment on something with a particular quality",
+			"sensetop": "note of somethingon a… note",
+			"examples": [
+				{
+					"text": "There was a note of amusement in his voice.",
+					"contextForm": "note of something"
+				},
+				{
+					"text": "It's good to finish **on a positive note**.",
+					"contextForm": "on a… note"
+				},
+				{
+					"text": "**On a more serious note** *(= speaking more seriously)*…"
+				},
+				{
+					"text": "**On a slightly different note** *(= changing the subject slightly)*, let’s talk about…"
+				},
+				{
+					"text": "The year ended on an optimistic note."
+				},
+				{
+					"text": "**As a side note**, the entire festival is free."
+				},
+				{
+					"text": "His remarks injected a note of levity into the proceedings."
+				},
+				{
+					"text": "I detected a faint note of weariness in his voice."
+				},
+				{
+					"text": "On a brighter note…"
+				},
+				{
+					"text": "On a completely unrelated note…"
+				},
+				{
+					"text": "The conference ended on an optimistic note."
+				},
+				{
+					"text": "There was a sad note in her voice."
+				}
+			],
+			"synonyms": "air",
+			"collocations": {
+				"adjective": ["brighter", "cheerful", "happier"],
+				"verb + note": ["hit", "sound", "strike"],
+				"note + verb": [
+					"creep into somebody’s voice",
+					"enter somebody’s voice"
+				],
+				"preposition": ["note of"],
+				"phrases": ["a note in somebody’s voice"]
+			}
+		},
+		{
+			"senseNumber": 10,
+			"definition": "an official document with a particular purpose",
+			"examples": [
+				{
+					"text": "a sick note from your doctor"
+				},
+				{
+					"text": "The buyer has to sign a delivery note as proof of receipt."
+				},
+				{
+					"text": "Students returning to school after absence must bring a note from their parents."
+				}
+			]
+		},
+		{
+			"senseNumber": 11,
+			"definition": "an official letter from the representative of one government to another",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "an exchange of diplomatic notes"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "if two or more people compare notes, they each say what they think about the same event, situation, etc.",
+			"examples": [
+				{
+					"text": "We saw the play separately and compared notes afterwards."
+				},
+				{
+					"text": "Let's compare notes on our experiences."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to do, say or write something that is suitable/not suitable for a particular occasion",
+			"labels": "(especially British English)",
+			"examples": [
+				{
+					"text": "It is a bizarre tale and the author hits just the right note of horror and disbelief."
+				},
+				{
+					"text": "Unfortunately, the president struck the wrong note in his speech, ignoring the public mood."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "of importance or of great interest",
+			"examples": [
+				{
+					"text": "a scientist of note"
+				},
+				{
+					"text": "The museum contains nothing of great note."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to express feelings or opinions of a particular kind",
+			"examples": [
+				{
+					"text": "She sounded a note of warning in her speech."
+				},
+				{
+					"text": "The touch of cynicism struck a slightly sour note."
+				},
+				{
+					"text": "He sounded a cautionary note."
+				},
+				{
+					"text": "His opening remarks struck the right note."
+				}
+			],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to pay attention to something and be sure to remember it",
+			"examples": [
+				{
+					"text": "Take note of what he says."
+				},
+				{
+					"text": "Under the new rules the penalty for illegal play is increased. Players take note."
+				},
+				{
+					"text": "He took careful note of the suspicious-looking man in the corner of the bar."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "worth paying attention to",
+			"examples": [
+				{
+					"text": "The frescoes are worthy of note."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/nəʊt/",
+				"audio": "no/note/note__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/nəʊt/",
+				"audio": "no/note/note__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in sense 6 of the noun and both verb senses): from Old French note (noun), noter (verb), from Latin nota ‘a mark’, notare ‘to mark’."
 }

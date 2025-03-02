@@ -1,78 +1,78 @@
 {
-  "term": "hockey",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "image": "data/images/sp/sports_team.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a game played on a field by two teams of 11 players, with curved sticks and a small hard ball. Teams try to hit the ball into the other team’s goal.",
-      "labels": "(British English)North American English",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **play hockey**"
-        },
-        {
-          "text": "a **hockey stick/pitch/player/team**"
-        },
-        {
-          "text": "He plays in the college hockey team."
-        },
-        {
-          "text": "the Olympic hockey squad"
-        },
-        {
-          "text": "I've started playing hockey with a local club."
-        }
-      ],
-      "topics": ["Sports: ball and racket sports"],
-      "collocations": {
-        "adjective": ["field", "ice", "air"],
-        "verb + hockey": ["play", "watch"],
-        "hockey + noun": ["ball", "mask", "pads"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a game played on ice, in which players use long sticks to hit a hard rubber disc (called a puck) into the other team’s goal",
-      "labels": "(North American English)British English",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She **plays hockey** in the winter."
-        },
-        {
-          "text": "a **hockey stick/puck/rink/player/team**"
-        },
-        {
-          "text": "Every Saturday night people would sit in front of their television sets watching hockey."
-        }
-      ],
-      "topics": ["Sports: other sports"],
-      "collocations": {
-        "adjective": ["field", "ice", "air"],
-        "verb + hockey": ["play", "watch"],
-        "hockey + noun": ["ball", "mask", "pads"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈhɒki/",
-        "audio": "ho/hockey/hockey__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈhɑːki/",
-        "audio": "ho/hockey/hockey__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 16th cent.: of unknown origin."
+	"term": "hockey",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"image": "data/images/sp/sports_team.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a game played on a field by two teams of 11 players, with curved sticks and a small hard ball. Teams try to hit the ball into the other team’s goal.",
+			"labels": "(British English)North American English",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **play hockey**"
+				},
+				{
+					"text": "a **hockey stick/pitch/player/team**"
+				},
+				{
+					"text": "He plays in the college hockey team."
+				},
+				{
+					"text": "the Olympic hockey squad"
+				},
+				{
+					"text": "I've started playing hockey with a local club."
+				}
+			],
+			"topics": ["Sports: ball and racket sports"],
+			"collocations": {
+				"adjective": ["field", "ice", "air"],
+				"verb + hockey": ["play", "watch"],
+				"hockey + noun": ["ball", "mask", "pads"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a game played on ice, in which players use long sticks to hit a hard rubber disc (called a puck) into the other team’s goal",
+			"labels": "(North American English)British English",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She **plays hockey** in the winter."
+				},
+				{
+					"text": "a **hockey stick/puck/rink/player/team**"
+				},
+				{
+					"text": "Every Saturday night people would sit in front of their television sets watching hockey."
+				}
+			],
+			"topics": ["Sports: other sports"],
+			"collocations": {
+				"adjective": ["field", "ice", "air"],
+				"verb + hockey": ["play", "watch"],
+				"hockey + noun": ["ball", "mask", "pads"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈhɒki/",
+				"audio": "ho/hockey/hockey__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈhɑːki/",
+				"audio": "ho/hockey/hockey__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 16th cent.: of unknown origin."
 }

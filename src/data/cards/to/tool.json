@@ -1,138 +1,138 @@
 {
-  "term": "tool",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "image": "data/images/to/tools_diy_2.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an instrument such as a hammer, screwdriver, saw, etc. that you hold in your hand and use for making things, repairing things, etc.",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "garden tools"
-        },
-        {
-          "text": "a cutting tool"
-        },
-        {
-          "text": "Always select the right tool for the job."
-        },
-        {
-          "text": "craftsmen using traditional tools"
-        },
-        {
-          "text": "a set of tools"
-        }
-      ],
-      "collocations": {
-        "adjective": ["general-purpose", "multi-purpose", "basic"],
-        "… of tools": ["set"],
-        "verb + tool": ["use", "sharpen", "down tools"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a thing that helps you to do your job or to achieve something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "research tools like questionnaires"
-        },
-        {
-          "text": "a marketing/management tool"
-        },
-        {
-          "text": "The internet can be a **powerful** teaching **tool**."
-        },
-        {
-          "text": "a **useful/valuable tool**"
-        },
-        {
-          "text": "Some of them carried the guns which were **the tools of their trade** *(= the things they needed to do their job)*."
-        },
-        {
-          "text": "the effectiveness of interest rates as an economic tool"
-        },
-        {
-          "text": "An email newsletter can be a very effective communication tool."
-        },
-        {
-          "text": "They need to use all the tools at their disposal."
-        },
-        {
-          "text": "The internet has become a vital tool for many artists."
-        },
-        {
-          "text": "This dictionary is a great reference tool for advanced learners."
-        },
-        {
-          "text": "We must ensure that education is not used as a political tool."
-        },
-        {
-          "text": "a valuable diagnostic tool for physicians"
-        },
-        {
-          "text": "Technology provides tools to enhance teaching."
-        },
-        {
-          "text": "They are developing new software tools."
-        }
-      ],
-      "collocations": {
-        "adjective": ["new", "effective", "essential"],
-        "verb + tool": ["become", "develop", "provide"],
-        "phrases": ["the tools of the/​somebody’s trade"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a person who is used or controlled by another person or group",
-      "examples": [
-        {
-          "text": "The prime minister was an unwitting tool of the president."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a penis",
-      "labels": "(taboo, slang)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to stop work; to go on strike",
-      "labels": "(British English)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "not intelligent",
-      "labels": "(informal, humorous)",
-      "examples": [
-        {
-          "text": "He's not exactly the sharpest tool in the box, is he?"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/tuːl/",
-        "audio": "to/tool/tool__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/tuːl/",
-        "audio": "to/tool/tool__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English tōl, from a Germanic base meaning ‘prepare’. The verb dates from the early 19th cent."
+	"term": "tool",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"image": "data/images/to/tools_diy_2.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an instrument such as a hammer, screwdriver, saw, etc. that you hold in your hand and use for making things, repairing things, etc.",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "garden tools"
+				},
+				{
+					"text": "a cutting tool"
+				},
+				{
+					"text": "Always select the right tool for the job."
+				},
+				{
+					"text": "craftsmen using traditional tools"
+				},
+				{
+					"text": "a set of tools"
+				}
+			],
+			"collocations": {
+				"adjective": ["general-purpose", "multi-purpose", "basic"],
+				"… of tools": ["set"],
+				"verb + tool": ["use", "sharpen", "down tools"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a thing that helps you to do your job or to achieve something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "research tools like questionnaires"
+				},
+				{
+					"text": "a marketing/management tool"
+				},
+				{
+					"text": "The internet can be a **powerful** teaching **tool**."
+				},
+				{
+					"text": "a **useful/valuable tool**"
+				},
+				{
+					"text": "Some of them carried the guns which were **the tools of their trade** *(= the things they needed to do their job)*."
+				},
+				{
+					"text": "the effectiveness of interest rates as an economic tool"
+				},
+				{
+					"text": "An email newsletter can be a very effective communication tool."
+				},
+				{
+					"text": "They need to use all the tools at their disposal."
+				},
+				{
+					"text": "The internet has become a vital tool for many artists."
+				},
+				{
+					"text": "This dictionary is a great reference tool for advanced learners."
+				},
+				{
+					"text": "We must ensure that education is not used as a political tool."
+				},
+				{
+					"text": "a valuable diagnostic tool for physicians"
+				},
+				{
+					"text": "Technology provides tools to enhance teaching."
+				},
+				{
+					"text": "They are developing new software tools."
+				}
+			],
+			"collocations": {
+				"adjective": ["new", "effective", "essential"],
+				"verb + tool": ["become", "develop", "provide"],
+				"phrases": ["the tools of the/​somebody’s trade"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a person who is used or controlled by another person or group",
+			"examples": [
+				{
+					"text": "The prime minister was an unwitting tool of the president."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a penis",
+			"labels": "(taboo, slang)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to stop work; to go on strike",
+			"labels": "(British English)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "not intelligent",
+			"labels": "(informal, humorous)",
+			"examples": [
+				{
+					"text": "He's not exactly the sharpest tool in the box, is he?"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/tuːl/",
+				"audio": "to/tool/tool__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/tuːl/",
+				"audio": "to/tool/tool__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English tōl, from a Germanic base meaning ‘prepare’. The verb dates from the early 19th cent."
 }

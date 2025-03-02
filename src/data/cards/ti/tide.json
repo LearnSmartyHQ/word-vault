@@ -1,157 +1,157 @@
 {
-  "term": "tide",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a regular rise and fall in the level of the sea, caused by the pull of the moon and sun; the flow of water that happens as the sea rises and falls",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the ebb and flow of the tide"
-        },
-        {
-          "text": "The **tide is in/out**."
-        },
-        {
-          "text": "Is the **tide coming in** or **going out**?"
-        },
-        {
-          "text": "The body was washed up on the beach by the tide."
-        },
-        {
-          "text": "We have to get up early to catch the tide."
-        },
-        {
-          "text": "We went out to sea on the ebb tide."
-        },
-        {
-          "text": "the time of day when the highest tides occur"
-        }
-      ],
-      "topics": ["Transport by water", "Geography"],
-      "collocations": {
-        "adjective": ["strong", "flood", "incoming"],
-        "verb + tide": ["catch"],
-        "tide + verb": ["be in", "be out", "come in"],
-        "tide + noun": ["line", "mark", "pool"],
-        "preposition": ["at… tide", "on a/​the tide"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the direction in which the opinion of a large number of people seems to be moving",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "It takes courage to speak out against the tide of opinion."
-        },
-        {
-          "text": "There is a growing tide of opposition to the idea."
-        },
-        {
-          "text": "a tide of optimism"
-        },
-        {
-          "text": "He didn't have the courage to swim against the political tide."
-        },
-        {
-          "text": "In the early 1990s there was a marked turn of the tide."
-        },
-        {
-          "text": "Seeing the tide was now running in his direction, he renewed his campaign for reform."
-        },
-        {
-          "text": "the shifting tides of history"
-        }
-      ],
-      "topics": ["Opinion and argument"],
-      "collocations": {
-        "adjective": ["growing", "rising", "shifting"],
-        "verb + tide": ["go with", "ride", "go against"],
-        "tide + verb": ["run", "carry somebody/​something along", "turn"],
-        "preposition": ["against a/​the tide", "on a tide", "tide against"],
-        "phrases": ["the tide of history", "the turn of the tide"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a large amount of something unpleasant that is increasing and is difficult to control",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "There is anxiety about the **rising tide** of crime."
-        },
-        {
-          "text": "Measures have been taken to **stem the tide** of pornography *(= stop it from getting worse)*."
-        }
-      ],
-      "collocations": {
-        "adjective": ["growing", "rising", "shifting"],
-        "verb + tide": ["go with", "ride", "go against"],
-        "tide + verb": ["run", "carry somebody/​something along", "turn"],
-        "preposition": ["against a/​the tide", "on a tide", "tide against"],
-        "phrases": ["the tide of history", "the turn of the tide"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a feeling that you suddenly have that gets stronger and stronger",
-      "sensetop": "tide of something",
-      "examples": [
-        {
-          "text": "A tide of rage surged through her."
-        },
-        {
-          "text": "They were carried along on a tide of euphoria."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a time or season of the year",
-      "labels": "(old use)",
-      "examples": [
-        {
-          "text": "Christmastide"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to agree with/oppose the attitudes or opinions that most other people have",
-      "examples": [],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that there is a change in somebody’s luck or in how successful they are being",
-      "examples": [
-        {
-          "text": "The tide turned for the Canadian at the start of the second set."
-        },
-        {
-          "text": "This contract is probably our last chance to turn the tide."
-        }
-      ],
-      "topics": ["Success", "Difficulty and failure"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/taɪd/",
-        "audio": "ti/tide/tide__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/taɪd/",
-        "audio": "ti/tide/tide__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English tīd ‘time, period, era’, of Germanic origin; related to Dutch tijd and German Zeit, also to time. The sense relating to the sea dates from late Middle English."
+	"term": "tide",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a regular rise and fall in the level of the sea, caused by the pull of the moon and sun; the flow of water that happens as the sea rises and falls",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the ebb and flow of the tide"
+				},
+				{
+					"text": "The **tide is in/out**."
+				},
+				{
+					"text": "Is the **tide coming in** or **going out**?"
+				},
+				{
+					"text": "The body was washed up on the beach by the tide."
+				},
+				{
+					"text": "We have to get up early to catch the tide."
+				},
+				{
+					"text": "We went out to sea on the ebb tide."
+				},
+				{
+					"text": "the time of day when the highest tides occur"
+				}
+			],
+			"topics": ["Transport by water", "Geography"],
+			"collocations": {
+				"adjective": ["strong", "flood", "incoming"],
+				"verb + tide": ["catch"],
+				"tide + verb": ["be in", "be out", "come in"],
+				"tide + noun": ["line", "mark", "pool"],
+				"preposition": ["at… tide", "on a/​the tide"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the direction in which the opinion of a large number of people seems to be moving",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "It takes courage to speak out against the tide of opinion."
+				},
+				{
+					"text": "There is a growing tide of opposition to the idea."
+				},
+				{
+					"text": "a tide of optimism"
+				},
+				{
+					"text": "He didn't have the courage to swim against the political tide."
+				},
+				{
+					"text": "In the early 1990s there was a marked turn of the tide."
+				},
+				{
+					"text": "Seeing the tide was now running in his direction, he renewed his campaign for reform."
+				},
+				{
+					"text": "the shifting tides of history"
+				}
+			],
+			"topics": ["Opinion and argument"],
+			"collocations": {
+				"adjective": ["growing", "rising", "shifting"],
+				"verb + tide": ["go with", "ride", "go against"],
+				"tide + verb": ["run", "carry somebody/​something along", "turn"],
+				"preposition": ["against a/​the tide", "on a tide", "tide against"],
+				"phrases": ["the tide of history", "the turn of the tide"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a large amount of something unpleasant that is increasing and is difficult to control",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "There is anxiety about the **rising tide** of crime."
+				},
+				{
+					"text": "Measures have been taken to **stem the tide** of pornography *(= stop it from getting worse)*."
+				}
+			],
+			"collocations": {
+				"adjective": ["growing", "rising", "shifting"],
+				"verb + tide": ["go with", "ride", "go against"],
+				"tide + verb": ["run", "carry somebody/​something along", "turn"],
+				"preposition": ["against a/​the tide", "on a tide", "tide against"],
+				"phrases": ["the tide of history", "the turn of the tide"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a feeling that you suddenly have that gets stronger and stronger",
+			"sensetop": "tide of something",
+			"examples": [
+				{
+					"text": "A tide of rage surged through her."
+				},
+				{
+					"text": "They were carried along on a tide of euphoria."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a time or season of the year",
+			"labels": "(old use)",
+			"examples": [
+				{
+					"text": "Christmastide"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to agree with/oppose the attitudes or opinions that most other people have",
+			"examples": [],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that there is a change in somebody’s luck or in how successful they are being",
+			"examples": [
+				{
+					"text": "The tide turned for the Canadian at the start of the second set."
+				},
+				{
+					"text": "This contract is probably our last chance to turn the tide."
+				}
+			],
+			"topics": ["Success", "Difficulty and failure"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/taɪd/",
+				"audio": "ti/tide/tide__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/taɪd/",
+				"audio": "ti/tide/tide__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English tīd ‘time, period, era’, of Germanic origin; related to Dutch tijd and German Zeit, also to time. The sense relating to the sea dates from late Middle English."
 }

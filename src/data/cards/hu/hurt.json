@@ -1,241 +1,241 @@
 {
-  "term": "hurt",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "hurt",
-      "heSheIt": "hurts"
-    },
-    "pastSimple": "hurt",
-    "pastParticiple": "hurt",
-    "ingForm": "hurting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to cause physical pain to somebody/yourself; to injure somebody/yourself",
-      "sensetop": "hurt somethinghurt yourselfhurt (somebody)",
-      "labels": "(especially British English)(informal)(formal)(especially North American English)(British English)(especially British English)(North American English)(formal)(British English)(North American English)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He hurt his back playing squash.",
-          "contextForm": "hurt something"
-        },
-        {
-          "text": "Strong light hurts my eyes."
-        },
-        {
-          "text": "Did you hurt yourself?",
-          "contextForm": "hurt yourself"
-        },
-        {
-          "text": "Stop it. You're hurting me.",
-          "contextForm": "hurt (somebody)"
-        },
-        {
-          "text": "No one was **seriously hurt** in the accident."
-        },
-        {
-          "text": "My back is really hurting me today."
-        },
-        {
-          "text": "My shoes hurt—they're too tight."
-        },
-        {
-          "text": "I was shaken, but not actually hurt."
-        },
-        {
-          "text": "She fell and hurt her leg quite badly."
-        }
-      ],
-      "topics": ["Health problems"],
-      "collocations": {
-        "adverb": ["badly", "seriously", "actually"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to feel painful",
-      "sensetop": "it hurts when/if…it hurts to do something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "My feet hurt."
-        },
-        {
-          "text": "My head hurts."
-        },
-        {
-          "text": "Ouch! That hurt!"
-        },
-        {
-          "text": "It hurts when I bend my knee.",
-          "contextForm": "it hurts when/if…"
-        },
-        {
-          "text": "It hurts if I move my neck."
-        },
-        {
-          "text": "It hurts to breathe.",
-          "contextForm": "it hurts to do something"
-        },
-        {
-          "text": "My ankle still hurts quite badly."
-        },
-        {
-          "text": "Ouch! It really hurts."
-        },
-        {
-          "text": "I knew it was going to hurt—but not that much!"
-        },
-        {
-          "text": "Does it hurt a lot?"
-        }
-      ],
-      "topics": ["Health problems"],
-      "collocations": {
-        "adverb": ["badly", "a lot", "really"],
-        "verb + hurt": ["be going to", "begin to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to make somebody unhappy or upset",
-      "sensetop": "hurt somebody/somethingit hurts to do somethingit hurts somebody to do something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "What **really hurt** was that he never answered my calls."
-        },
-        {
-          "text": "I'm sorry, I didn't mean to hurt you.",
-          "contextForm": "hurt somebody/something"
-        },
-        {
-          "text": "I didn't want to **hurt his feelings**."
-        },
-        {
-          "text": "It always hurts to lose, especially in the final.",
-          "contextForm": "it hurts to do something"
-        },
-        {
-          "text": "It hurt me to think that he would lie to me.",
-          "contextForm": "it hurts somebody to do something"
-        },
-        {
-          "text": "They never told me why and that really hurt."
-        },
-        {
-          "text": "Are you deliberately trying to hurt me?"
-        },
-        {
-          "text": "Her remarks hurt him deeply."
-        },
-        {
-          "text": "I never meant to hurt anyone."
-        },
-        {
-          "text": "Why would I want to hurt her?"
-        }
-      ],
-      "collocations": {
-        "adverb": ["badly", "deeply", "really"],
-        "verb + hurt": ["attempt to", "try to", "want to"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to feel unhappy or upset",
-      "labels": "(informal)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "I know you're hurting and I want to help you."
-        }
-      ],
-      "topics": ["Feelings"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to have a bad effect on somebody/something",
-      "sensetop": "hurt somebody/something",
-      "examples": [
-        {
-          "text": "Hard work never hurt anyone."
-        },
-        {
-          "text": "Many people on low incomes will be hurt by the government's plans."
-        },
-        {
-          "text": "High interest rates are hurting the local economy."
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to be in a difficult situation because you need something, especially money",
-      "labels": "(North American English)",
-      "examples": [
-        {
-          "text": "His campaign is already hurting for money."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to affect somebody where they will feel it most",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that somebody should do a particular thing",
-      "examples": [
-        {
-          "text": "It wouldn't hurt you to help with the housework occasionally."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be kind and gentle and unwilling to cause unhappiness",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/hɜːt/",
-        "audio": "hu/hurt/hurt__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/hɜːts/",
-        "audio": "hu/hurt/hurts__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈhɜːtɪŋ/",
-        "audio": "hu/hurt/hurting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/hɜːrt/",
-        "audio": "hu/hurt/hurt__us_1.mp3"
-      },
-      {
-        "pronunciation": "/hɜːrts/",
-        "audio": "hu/hurt/hurts__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈhɜːrtɪŋ/",
-        "audio": "hu/hurt/hurting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (originally in the senses ‘ to strike’ and ‘a blow’): from Old French hurter (verb), hurt (noun), perhaps ultimately of Germanic origin."
+	"term": "hurt",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "hurt",
+			"heSheIt": "hurts"
+		},
+		"pastSimple": "hurt",
+		"pastParticiple": "hurt",
+		"ingForm": "hurting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to cause physical pain to somebody/yourself; to injure somebody/yourself",
+			"sensetop": "hurt somethinghurt yourselfhurt (somebody)",
+			"labels": "(especially British English)(informal)(formal)(especially North American English)(British English)(especially British English)(North American English)(formal)(British English)(North American English)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He hurt his back playing squash.",
+					"contextForm": "hurt something"
+				},
+				{
+					"text": "Strong light hurts my eyes."
+				},
+				{
+					"text": "Did you hurt yourself?",
+					"contextForm": "hurt yourself"
+				},
+				{
+					"text": "Stop it. You're hurting me.",
+					"contextForm": "hurt (somebody)"
+				},
+				{
+					"text": "No one was **seriously hurt** in the accident."
+				},
+				{
+					"text": "My back is really hurting me today."
+				},
+				{
+					"text": "My shoes hurt—they're too tight."
+				},
+				{
+					"text": "I was shaken, but not actually hurt."
+				},
+				{
+					"text": "She fell and hurt her leg quite badly."
+				}
+			],
+			"topics": ["Health problems"],
+			"collocations": {
+				"adverb": ["badly", "seriously", "actually"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to feel painful",
+			"sensetop": "it hurts when/if…it hurts to do something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "My feet hurt."
+				},
+				{
+					"text": "My head hurts."
+				},
+				{
+					"text": "Ouch! That hurt!"
+				},
+				{
+					"text": "It hurts when I bend my knee.",
+					"contextForm": "it hurts when/if…"
+				},
+				{
+					"text": "It hurts if I move my neck."
+				},
+				{
+					"text": "It hurts to breathe.",
+					"contextForm": "it hurts to do something"
+				},
+				{
+					"text": "My ankle still hurts quite badly."
+				},
+				{
+					"text": "Ouch! It really hurts."
+				},
+				{
+					"text": "I knew it was going to hurt—but not that much!"
+				},
+				{
+					"text": "Does it hurt a lot?"
+				}
+			],
+			"topics": ["Health problems"],
+			"collocations": {
+				"adverb": ["badly", "a lot", "really"],
+				"verb + hurt": ["be going to", "begin to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to make somebody unhappy or upset",
+			"sensetop": "hurt somebody/somethingit hurts to do somethingit hurts somebody to do something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "What **really hurt** was that he never answered my calls."
+				},
+				{
+					"text": "I'm sorry, I didn't mean to hurt you.",
+					"contextForm": "hurt somebody/something"
+				},
+				{
+					"text": "I didn't want to **hurt his feelings**."
+				},
+				{
+					"text": "It always hurts to lose, especially in the final.",
+					"contextForm": "it hurts to do something"
+				},
+				{
+					"text": "It hurt me to think that he would lie to me.",
+					"contextForm": "it hurts somebody to do something"
+				},
+				{
+					"text": "They never told me why and that really hurt."
+				},
+				{
+					"text": "Are you deliberately trying to hurt me?"
+				},
+				{
+					"text": "Her remarks hurt him deeply."
+				},
+				{
+					"text": "I never meant to hurt anyone."
+				},
+				{
+					"text": "Why would I want to hurt her?"
+				}
+			],
+			"collocations": {
+				"adverb": ["badly", "deeply", "really"],
+				"verb + hurt": ["attempt to", "try to", "want to"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to feel unhappy or upset",
+			"labels": "(informal)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "I know you're hurting and I want to help you."
+				}
+			],
+			"topics": ["Feelings"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to have a bad effect on somebody/something",
+			"sensetop": "hurt somebody/something",
+			"examples": [
+				{
+					"text": "Hard work never hurt anyone."
+				},
+				{
+					"text": "Many people on low incomes will be hurt by the government's plans."
+				},
+				{
+					"text": "High interest rates are hurting the local economy."
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to be in a difficult situation because you need something, especially money",
+			"labels": "(North American English)",
+			"examples": [
+				{
+					"text": "His campaign is already hurting for money."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to affect somebody where they will feel it most",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that somebody should do a particular thing",
+			"examples": [
+				{
+					"text": "It wouldn't hurt you to help with the housework occasionally."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be kind and gentle and unwilling to cause unhappiness",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/hɜːt/",
+				"audio": "hu/hurt/hurt__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/hɜːts/",
+				"audio": "hu/hurt/hurts__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈhɜːtɪŋ/",
+				"audio": "hu/hurt/hurting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/hɜːrt/",
+				"audio": "hu/hurt/hurt__us_1.mp3"
+			},
+			{
+				"pronunciation": "/hɜːrts/",
+				"audio": "hu/hurt/hurts__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈhɜːrtɪŋ/",
+				"audio": "hu/hurt/hurting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (originally in the senses ‘ to strike’ and ‘a blow’): from Old French hurter (verb), hurt (noun), perhaps ultimately of Germanic origin."
 }

@@ -1,129 +1,129 @@
 {
-  "term": "articulate",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "articulate",
-      "heSheIt": "articulates"
-    },
-    "pastSimple": "articulated",
-    "pastParticiple": "articulated",
-    "ingForm": "articulating"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to express or explain your thoughts or feelings clearly in words",
-      "sensetop": "articulate something (to somebody)",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She struggled to articulate her thoughts."
-        },
-        {
-          "text": "It is the school’s duty to articulate its practices to parents."
-        },
-        {
-          "text": "He cannot articulate his feelings very well."
-        },
-        {
-          "text": "You need to articulate clearly what you are trying to achieve."
-        }
-      ],
-      "topics": ["Language"],
-      "collocations": {
-        "adverb": ["clearly", "well", "explicitly"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to speak, pronounce or play something in a clear way",
-      "sensetop": "articulate something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "He was too weak to articulate properly."
-        },
-        {
-          "text": "Every note was carefully articulated.",
-          "contextForm": "articulate something"
-        },
-        {
-          "text": "She spoke slowly, articulating each word clearly."
-        }
-      ],
-      "collocations": {
-        "adverb": ["carefully", "clearly", "well"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to be related to something so that together the two parts form a whole",
-      "sensetop": "articulate (with something)",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "These courses are designed to articulate with university degrees."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to be joined to something else by a joint, so that movement is possible; to join something in this way",
-      "sensetop": "articulate (with something)articulate something",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "bones that articulate with others",
-          "contextForm": "articulate (with something)"
-        },
-        {
-          "text": "a robot with articulated limbs",
-          "contextForm": "articulate something"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɑːˈtɪkjuleɪt/",
-        "audio": "ar/articulate/articulate__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɑːˈtɪkjuleɪts/",
-        "audio": "ar/articulate/articulates__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɑːˈtɪkjuleɪtɪd/",
-        "audio": "ar/articulate/articulated__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɑːˈtɪkjuleɪtɪŋ/",
-        "audio": "ar/articulate/articulating__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɑːrˈtɪkjuleɪt/",
-        "audio": "ar/articulate/articulate__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɑːrˈtɪkjuleɪts/",
-        "audio": "ar/articulate/articulates__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɑːrˈtɪkjuleɪtɪd/",
-        "audio": "ar/articulate/articulated__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɑːrˈtɪkjuleɪtɪŋ/",
-        "audio": "ar/articulate/articulating__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent.: from Latin articulatus, past participle of articulare ‘divide into joints, utter distinctly’, from articulus ‘small connecting part’, diminutive of artus ‘joint’."
+	"term": "articulate",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "articulate",
+			"heSheIt": "articulates"
+		},
+		"pastSimple": "articulated",
+		"pastParticiple": "articulated",
+		"ingForm": "articulating"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to express or explain your thoughts or feelings clearly in words",
+			"sensetop": "articulate something (to somebody)",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She struggled to articulate her thoughts."
+				},
+				{
+					"text": "It is the school’s duty to articulate its practices to parents."
+				},
+				{
+					"text": "He cannot articulate his feelings very well."
+				},
+				{
+					"text": "You need to articulate clearly what you are trying to achieve."
+				}
+			],
+			"topics": ["Language"],
+			"collocations": {
+				"adverb": ["clearly", "well", "explicitly"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to speak, pronounce or play something in a clear way",
+			"sensetop": "articulate something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "He was too weak to articulate properly."
+				},
+				{
+					"text": "Every note was carefully articulated.",
+					"contextForm": "articulate something"
+				},
+				{
+					"text": "She spoke slowly, articulating each word clearly."
+				}
+			],
+			"collocations": {
+				"adverb": ["carefully", "clearly", "well"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to be related to something so that together the two parts form a whole",
+			"sensetop": "articulate (with something)",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "These courses are designed to articulate with university degrees."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to be joined to something else by a joint, so that movement is possible; to join something in this way",
+			"sensetop": "articulate (with something)articulate something",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "bones that articulate with others",
+					"contextForm": "articulate (with something)"
+				},
+				{
+					"text": "a robot with articulated limbs",
+					"contextForm": "articulate something"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɑːˈtɪkjuleɪt/",
+				"audio": "ar/articulate/articulate__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɑːˈtɪkjuleɪts/",
+				"audio": "ar/articulate/articulates__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɑːˈtɪkjuleɪtɪd/",
+				"audio": "ar/articulate/articulated__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɑːˈtɪkjuleɪtɪŋ/",
+				"audio": "ar/articulate/articulating__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɑːrˈtɪkjuleɪt/",
+				"audio": "ar/articulate/articulate__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɑːrˈtɪkjuleɪts/",
+				"audio": "ar/articulate/articulates__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɑːrˈtɪkjuleɪtɪd/",
+				"audio": "ar/articulate/articulated__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɑːrˈtɪkjuleɪtɪŋ/",
+				"audio": "ar/articulate/articulating__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent.: from Latin articulatus, past participle of articulare ‘divide into joints, utter distinctly’, from articulus ‘small connecting part’, diminutive of artus ‘joint’."
 }

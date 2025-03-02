@@ -1,1516 +1,1516 @@
 {
-  "term": "time",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "what is measured in minutes, hours, days, etc.",
-      "sensetop": "in timeover time",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The world exists in time and space."
-        },
-        {
-          "text": "The changing seasons mark the passage of time."
-        },
-        {
-          "text": "A visit to the museum will take you **back in time** to the 1930s.",
-          "contextForm": "in time"
-        },
-        {
-          "text": "**At this point in time**, it seems unlikely that he will write any more books."
-        },
-        {
-          "text": "Perceptions change over time *(= as time passes)*.",
-          "contextForm": "over time"
-        },
-        {
-          "text": "**As time goes on** I love this city more and more."
-        },
-        {
-          "text": "**As time went by** we saw less and less of each other."
-        },
-        {
-          "text": "The main character is able to travel through time."
-        },
-        {
-          "text": "They say that time heals all wounds."
-        },
-        {
-          "text": "Her skills improved with time."
-        },
-        {
-          "text": "It helps to pass the time."
-        },
-        {
-          "text": "Time drags in this job."
-        }
-      ],
-      "topics": ["Time"],
-      "collocations": {
-        "time + verb": ["elapse", "go by", "pass"],
-        "preposition": ["in time", "over time", "through time"],
-        "phrases": ["a matter of time", "the mists of time"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the time shown on a clock in minutes and hours",
-      "labels": "(British English)(North American English)(British English)(North American English)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**What time is it/What’s the time**?"
-        },
-        {
-          "text": "Do you have the time?"
-        },
-        {
-          "text": "**What time do you make it**?"
-        },
-        {
-          "text": "**What time do you have**?"
-        },
-        {
-          "text": "Let me just check the time."
-        },
-        {
-          "text": "The time is now half past ten."
-        },
-        {
-          "text": "Can she **tell the time** yet *(= say what time it is by looking at a clock)*?"
-        },
-        {
-          "text": "Can she **tell time** yet?"
-        },
-        {
-          "text": "My watch **keeps perfect time** *(= always shows the correct time)*."
-        },
-        {
-          "text": "Look at the time! We'll be late."
-        },
-        {
-          "text": "**This time tomorrow** I'll be in Canada."
-        }
-      ],
-      "topics": ["Time"],
-      "collocations": {
-        "adjective": ["good", "perfect", "local"],
-        "verb + time": ["tell", "have", "make"],
-        "time + noun": ["zone"],
-        "preposition": ["ahead of… time", "behind… time"],
-        "phrases": [
-          "at… time in the morning/​afternoon/​evening",
-          "at… time of day",
-          "at… time of the morning/​afternoon/​evening/​night"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the time measured in a particular part of the world",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "6 o’clock local time"
-        },
-        {
-          "text": "We're two hours behind Central European Time."
-        }
-      ],
-      "collocations": {
-        "adjective": ["good", "perfect", "local"],
-        "verb + time": ["tell", "have", "make"],
-        "time + noun": ["zone"],
-        "preposition": ["ahead of… time", "behind… time"],
-        "phrases": [
-          "at… time in the morning/​afternoon/​evening",
-          "at… time of day",
-          "at… time of the morning/​afternoon/​evening/​night"
-        ]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the time when something happens or when something should happen",
-      "sensetop": "time to do somethingtime for somethingtime (that)…by the time (that)…at a… timeat the timearound the time of something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "What time do you finish work?"
-        },
-        {
-          "text": "The baby loves bath time."
-        },
-        {
-          "text": "A computer screen shows arrival and departure times."
-        },
-        {
-          "text": "I think it's time to go to bed.",
-          "contextForm": "time to do something"
-        },
-        {
-          "text": "This is hardly the time to discuss politics."
-        },
-        {
-          "text": "It's time for lunch.",
-          "contextForm": "time for something"
-        },
-        {
-          "text": "It's time the kids were in bed.",
-          "contextForm": "time (that)…"
-        },
-        {
-          "text": "It's time that farmers listened to consumers."
-        },
-        {
-          "text": "By the time you get there the meeting will be over.",
-          "contextForm": "by the time (that)…"
-        },
-        {
-          "text": "Have I called at a bad time? Shall I call back later?",
-          "contextForm": "at a… time"
-        },
-        {
-          "text": "We stock six different beers at any one time."
-        },
-        {
-          "text": "I didn't realize it at the time, but that was the best day of my life.",
-          "contextForm": "at the time"
-        },
-        {
-          "text": "The promotion came at just the **right time** for me."
-        },
-        {
-          "text": "The new product will launch **when the time is right**."
-        },
-        {
-          "text": "You'll feel differently about it **when the time comes** *(= when it happens)*."
-        },
-        {
-          "text": "Several articles were published around the time of his death in 2018.",
-          "contextForm": "around the time of something"
-        },
-        {
-          "text": "Is this an appropriate time to discuss my salary?"
-        },
-        {
-          "text": "It's time for a break."
-        },
-        {
-          "text": "We need to fix a time for the next meeting."
-        },
-        {
-          "text": "At the time of writing, a ceasefire is under discussion."
-        },
-        {
-          "text": "Your time will come."
-        }
-      ],
-      "collocations": {
-        "adjective": ["peak", "prime", "closing"],
-        "verb + time": ["fix", "set", "change"],
-        "time + verb": ["come"],
-        "preposition": ["ahead of time", "behind time", "by the time"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "an amount of time; the amount of time available to work, rest, etc.",
-      "sensetop": "time for somethingtime to do something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I can't go with you—I don't **have time**."
-        },
-        {
-          "text": "He **spends** a lot of his **time** working."
-        },
-        {
-          "text": "Do you have time for a chat?",
-          "contextForm": "time for something"
-        },
-        {
-          "text": "Allow **plenty of time** to get to the airport.",
-          "contextForm": "time to do something"
-        },
-        {
-          "text": "I can probably **make the time** to see them."
-        },
-        {
-          "text": "It **takes time** to make changes in the law."
-        },
-        {
-          "text": "We have **no time to lose** *(= we must hurry)*."
-        },
-        {
-          "text": "We got to the airport with time to spare."
-        },
-        {
-          "text": "She plans to study overseas for an extended **period of time**."
-        },
-        {
-          "text": "What do you like to do in your **free time**?"
-        },
-        {
-          "text": "She doesn’t have much **spare time**."
-        },
-        {
-          "text": "Sorry, I can’t spare the time."
-        },
-        {
-          "text": "Don't **waste** any more **time**!"
-        },
-        {
-          "text": "What a **waste of time**!"
-        },
-        {
-          "text": "**Time's running out** for them to complete the project."
-        },
-        {
-          "text": "I didn't finish the test—**I ran out of time**."
-        },
-        {
-          "text": "**Time's up**—have you worked out the answer yet?"
-        },
-        {
-          "text": "He never takes any **time off** *(= time spent not working)*."
-        },
-        {
-          "text": "Jane's worked here **for some time** *(= for a fairly long period of time)*."
-        },
-        {
-          "text": "Do it now please—not in three hours' time *(= three hours from now)*."
-        },
-        {
-          "text": "The journey time is two hours."
-        },
-        {
-          "text": "I don’t want to take up too much of your precious time."
-        },
-        {
-          "text": "What’s the hurry? We have all the time in the world."
-        },
-        {
-          "text": "A great deal of time has been spent on developing this software."
-        },
-        {
-          "text": "De Niro makes the most of limited screen time."
-        },
-        {
-          "text": "Do you need more time?"
-        },
-        {
-          "text": "He put all his time into the show."
-        },
-        {
-          "text": "I can certainly do the job if you give me time."
-        },
-        {
-          "text": "I can never find time to write letters."
-        },
-        {
-          "text": "I had no time to think."
-        },
-        {
-          "text": "I'll be back in ten minutes' time."
-        },
-        {
-          "text": "The coach plans to give younger players more playing time."
-        },
-        {
-          "text": "They didn't allow much time for discussion."
-        },
-        {
-          "text": "This doesn't leave much time for us to get ready."
-        },
-        {
-          "text": "We had to wait some time before the bus arrived."
-        },
-        {
-          "text": "We will discuss this matter later, if time permits."
-        },
-        {
-          "text": "We're wasting precious time."
-        },
-        {
-          "text": "Where does the time go?"
-        },
-        {
-          "text": "You would save time with a dishwasher."
-        },
-        {
-          "text": "Have you lived abroad for any length of time?"
-        },
-        {
-          "text": "He'd been thinking about quitting his job for quite some time."
-        }
-      ],
-      "collocations": {
-        "adjective": ["considerable", "long", "little"],
-        "… of time": ["amount", "length", "period"],
-        "verb + time": ["have", "need", "give somebody/​something"],
-        "time + verb": ["be up", "run out"],
-        "time + noun": ["frame", "interval", "period"],
-        "preposition": ["at a time", "for a time", "in time"],
-        "phrases": ["all in good time", "all the time", "the entire time"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "a period of time, either long or short, during which you do something or something happens",
-      "sensetop": "for a time",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "His injuries will **take a long time** to heal."
-        },
-        {
-          "text": "It took them a long time to get home."
-        },
-        {
-          "text": "Did you have to wait a long time to see the doctor?"
-        },
-        {
-          "text": "I lived in Egypt for a time.",
-          "contextForm": "for a time"
-        },
-        {
-          "text": "I was only there for **a short time**."
-        },
-        {
-          "text": "The early morning is the best **time of day**."
-        },
-        {
-          "text": "Her parents died **a long time ago**."
-        },
-        {
-          "text": "**At one time** *(= at a period of time in the past)* Emily was my best friend."
-        },
-        {
-          "text": "Mr Curtis was the manager **in my time** *(= when I was working there)*."
-        },
-        {
-          "text": "The leaves start to turn red at this time of (the) year."
-        },
-        {
-          "text": "There's less traffic at this time of day."
-        },
-        {
-          "text": "What are you doing out of bed at this time of night?"
-        },
-        {
-          "text": "It was a fun time for us girls."
-        }
-      ],
-      "topics": ["Time"],
-      "collocations": {
-        "adjective": ["considerable", "long", "little"],
-        "… of time": ["amount", "length", "period"],
-        "verb + time": ["have", "need", "give somebody/​something"],
-        "time + verb": ["be up", "run out"],
-        "time + noun": ["frame", "interval", "period"],
-        "preposition": ["at a time", "for a time", "in time"],
-        "phrases": ["all in good time", "all the time", "the entire time"]
-      }
-    },
-    {
-      "senseNumber": 7,
-      "definition": "a period of history connected with particular events or experiences in people’s lives",
-      "sensetop": "at the time of somethingin… time(s)in times of something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The movie is set at the time of the Russian Revolution.",
-          "contextForm": "at the time of something"
-        },
-        {
-          "text": "the politician who promised ‘peace in our time’",
-          "contextForm": "in… time(s)"
-        },
-        {
-          "text": "in ancient times"
-        },
-        {
-          "text": "The Industrial Revolution took place in Victorian times."
-        },
-        {
-          "text": "the violent times we live in *(= the present period of history)*"
-        },
-        {
-          "text": "in times of trouble",
-          "contextForm": "in times of something"
-        },
-        {
-          "text": "The business was successful, even during difficult times."
-        },
-        {
-          "text": "Times are hard for the unemployed."
-        },
-        {
-          "text": "**Times have changed** since Grandma was young."
-        }
-      ],
-      "topics": ["Time", "History"],
-      "collocations": {
-        "adjective": ["good", "great", "happy"],
-        "time + verb": ["change"],
-        "preposition": [
-          "at a/​the time",
-          "before somebody’s time",
-          "in somebody’s time"
-        ],
-        "phrases": [
-          "from time immemorial",
-          "since time immemorial",
-          "of all time"
-        ]
-      }
-    },
-    {
-      "senseNumber": 8,
-      "definition": "an occasion when you do something or when something happens",
-      "labels": "(especially North American English)(formal)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**Every time** I hear that song I feel happy."
-        },
-        {
-          "text": "It doesn't matter if you don't win every time *(= every time you play)*."
-        },
-        {
-          "text": "**Next time** you're here let's have lunch together."
-        },
-        {
-          "text": "He failed his driving test three times."
-        },
-        {
-          "text": "He's determined to pass **this time**."
-        },
-        {
-          "text": "When was the **last time** you saw her?"
-        },
-        {
-          "text": "I see her two or three **times a week**."
-        },
-        {
-          "text": "**How many times** *(= how often)* do I have to tell you not to do that?"
-        },
-        {
-          "text": "I remember **one time** *(= once)* we had to abandon our car in the snow."
-        },
-        {
-          "text": "**At no time did** I give my consent to the plan."
-        },
-        {
-          "text": "For the first time in history, more than half of us now live in cities."
-        },
-        {
-          "text": "I can remember the first time I met her."
-        },
-        {
-          "text": "I told her not to do it for the umpteenth time."
-        },
-        {
-          "text": "I've told you countless times."
-        },
-        {
-          "text": "The chairlift can take four people at a time."
-        },
-        {
-          "text": "three times out of ten"
-        },
-        {
-          "text": "There were times—sometimes whole weeks—when I thought it wasn't worth trying to complete the project."
-        }
-      ],
-      "collocations": {
-        "adjective": ["that", "this", "final"],
-        "… of times": ["couple", "number"],
-        "verb + time": ["remember", "bide"],
-        "time + verb": ["come", "be ripe"],
-        "preposition": ["at a/​the time", "by the time", "for the… time"],
-        "phrases": [
-          "at the present time",
-          "for the time being",
-          "a number of times"
-        ]
-      }
-    },
-    {
-      "senseNumber": 9,
-      "definition": "an event or occasion that you experience in a particular way",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Did you **have a good time** in Spain?"
-        },
-        {
-          "text": "They're **having a hard time** dealing with her illness."
-        },
-        {
-          "text": "I had an awful time in the hospital."
-        },
-        {
-          "text": "Mike and I shared some really good times."
-        }
-      ],
-      "collocations": {
-        "adjective": ["enjoyable", "fun", "good"],
-        "verb + time": ["have", "enjoy"]
-      }
-    },
-    {
-      "senseNumber": 10,
-      "definition": "how long somebody takes to run a race or complete an event",
-      "examples": [
-        {
-          "text": "The winner's time was 11.6 seconds."
-        },
-        {
-          "text": "She completed the 500 metres **in record time** *(= faster than any previous runner)*."
-        },
-        {
-          "text": "one of the fastest times ever"
-        }
-      ],
-      "collocations": {
-        "adjective": ["fast", "record"],
-        "verb + time": ["clock up", "record"],
-        "time + noun": ["trial"]
-      }
-    },
-    {
-      "senseNumber": 11,
-      "definition": "the number of beats (= units of rhythm) in a bar of music",
-      "examples": [
-        {
-          "text": "This piece is in four-four time."
-        },
-        {
-          "text": "a slow waltz time"
-        },
-        {
-          "text": "The conductor **beat time** with a baton."
-        }
-      ],
-      "collocations": {
-        "adjective": ["waltz", "double", "quick"],
-        "verb + time": ["beat", "keep"],
-        "time + noun": ["signature"],
-        "preposition": ["in time", "in time to", "in time with"]
-      }
-    },
-    {
-      "senseNumber": 12,
-      "definition": "the correct speed and rhythm of a piece of music",
-      "sensetop": "in time to somethingin/out of time",
-      "examples": [
-        {
-          "text": "Try and dance in time to the music *(= with the same speed and rhythm)*.",
-          "contextForm": "in time to something"
-        },
-        {
-          "text": "Clap your hands to **keep time** *(= sing or move with the correct speed and rhythm)*."
-        },
-        {
-          "text": "to play in/out of time *(= follow/not follow the correct speed and rhythm)*",
-          "contextForm": "in/out of time"
-        },
-        {
-          "text": "He always plays in perfect time."
-        }
-      ],
-      "collocations": {
-        "adjective": ["waltz", "double", "quick"],
-        "verb + time": ["beat", "keep"],
-        "time + noun": ["signature"],
-        "preposition": ["in time", "in time to", "in time with"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that something should have happened before now",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "if you do something against time, you do it as fast as you can because you do not have much time",
-      "examples": [
-        {
-          "text": "They're working against time to try and get people out of the rubble alive."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "earlier/later than was expected",
-      "examples": [
-        {
-          "text": "We finished 15 minutes ahead of time."
-        },
-        {
-          "text": "The plane took off an hour behind time."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "having advanced or new ideas that other people use or copy later",
-      "examples": []
-    },
-    {
-      "senseNumber": 1,
-      "definition": "during the whole of a particular period of time",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The letter was in my pocket all the time *(= while I was looking for it)*."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "very often; repeatedly",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She leaves the lights on all the time."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "always",
-      "examples": [
-        {
-          "text": "Our representatives are ready to help you at all times."
-        },
-        {
-          "text": "Hot water is available at all times."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "even when the circumstances are very good",
-      "examples": [
-        {
-          "text": "He's never very happy at the best of times—he'll be much worse now!"
-        }
-      ]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "at one time; together",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She was laughing and crying at the same time."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "used to introduce a fact that is different and must be considered",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "You have to be firm, but at the same time you should try and be sympathetic."
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "separately or in groups of two, three, etc. on each occasion",
-      "examples": [
-        {
-          "text": "We had to go and see the principal one at a time."
-        },
-        {
-          "text": "She ran up the stairs two at a time."
-        },
-        {
-          "text": "He surfs the internet for hours at a time."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "at the age you are (especially when you are not young)",
-      "examples": [
-        {
-          "text": "Eyesight doesn't get any better at my time of life."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "sometimes",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He can be really bad-tempered at times."
-        },
-        {
-          "text": "The rain will become heavy at times in the afternoon."
-        },
-        {
-          "text": "He can be rather moody at times."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to mark or follow the rhythm of music, by waving a stick, tapping your foot (= hitting it against the floor), etc.",
-      "examples": [
-        {
-          "text": "She beat time with her fingers."
-        }
-      ]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "happening before you were born or can remember or before you lived, worked, etc. somewhere",
-      "examples": [
-        {
-          "text": "‘Were you taught by Professor Pascal?’ ‘No, he was before my time.’"
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "before the usual time in somebody’s life when something happens",
-      "examples": [
-        {
-          "text": "She got old before her time."
-        }
-      ],
-      "synonyms": "prematurely"
-    },
-    {
-      "senseNumber": null,
-      "definition": "old-fashioned in your ideas, methods, etc.",
-      "examples": [],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be able to take advantage of opportunities when they come",
-      "examples": [
-        {
-          "text": "His success was down to being in the right place at the right time."
-        }
-      ]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to still be alive after the time when you were expected to die",
-      "examples": [
-        {
-          "text": "He’s been living on borrowed time ever since his last heart attack."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to be doing something that other people are likely to soon stop you from doing",
-      "examples": [
-        {
-          "text": "According to the latest opinion polls, the government is living on borrowed time."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to encourage somebody who has not been successful at something",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Never mind— better luck next time."
-        },
-        {
-          "text": "If you didn't win a prize, better luck next time."
-        }
-      ],
-      "topics": ["Success"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to wait for the right time to do something",
-      "examples": [
-        {
-          "text": "He decided to bide his time until he got an opportunity to talk to her alone."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to do something in order to delay an event, a decision, etc.",
-      "examples": [
-        {
-          "text": "The negotiators kept the gunman talking to buy time for the hostages."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to say or decide that it is time for something to finish",
-      "labels": "(British English)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "a very difficult or unpleasant job or time",
-      "labels": "(old-fashioned)",
-      "examples": [
-        {
-          "text": "I've had a devil of a job finding you."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to spend time in prison",
-      "labels": "(informal)",
-      "examples": [],
-      "topics": ["Crime and punishment"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "whenever there is a choice",
-      "examples": [
-        {
-          "text": "I don't really like cities—give me the countryside every time."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "if you do something for old times’ sake, you do it because it is connected with something good that happened to you in the past",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "for a short period of time but not permanently",
-      "examples": [
-        {
-          "text": "You can leave your suitcase here for the time being."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "beginning on that day; from that time",
-      "labels": "(literary)",
-      "examples": [
-        {
-          "text": "From that time forth she gave me endless friendship and encouragement."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "occasionally but not regularly",
-      "examples": [
-        {
-          "text": "She has to work at weekends from time to time."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to delay something so that you can have more time to make a decision, deal with a problem, etc.",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to deliberately make a situation difficult and unpleasant for somebody",
-      "examples": [
-        {
-          "text": "They really gave me a hard time at the interview."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that you prefer a particular thing or person to the one that has just been mentioned",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "We don't go out much. Give me a quiet night in front of the TV any day!"
-        }
-      ],
-      "topics": ["Preferences and decisions"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to have no difficulties or problems",
-      "examples": [
-        {
-          "text": "He’s had an easy time of it since he married Lucy."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to enjoy yourself very much",
-      "labels": "(old-fashioned, informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to like and be interested in somebody/something",
-      "labels": "(informal, especially British English)",
-      "examples": [
-        {
-          "text": "I've always had a lot of time for Mary."
-        }
-      ],
-      "topics": ["Preferences and decisions"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to dislike somebody/something",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "I have no time for lazy people like Steve."
-        }
-      ],
-      "topics": ["Preferences and decisions"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to have many problems or difficulties to deal with; to not be successful",
-      "labels": "(British English, informal)",
-      "examples": [
-        {
-          "text": "He’s had a thin time of it since losing his job."
-        }
-      ],
-      "topics": ["Difficulty and failure"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to enjoy yourself very much",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to have nothing to do or not be busy",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to enjoy yourself very much; to have a very good time",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "The kids had a whale of a time at the theme park."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "when enough time has passed",
-      "examples": [
-        {
-          "text": "It is possible that in the course of time a cure for cancer will be found."
-        },
-        {
-          "text": "In the course of time, I began to understand."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "when the time is appropriate, usually after a long period",
-      "examples": [
-        {
-          "text": "I have no doubt that she’ll tell us in the fullness of time."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "early; with enough time so that you are not in a hurry",
-      "examples": [
-        {
-          "text": "Get to the airport in good time."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that something will be done or will happen at the appropriate time and not before",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Be patient, Emily! All in good time."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "at the very last moment; just before something bad happens, so that you manage to avoid it, but only just",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "They escaped from the smoke-filled house just in the nick of time."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "so soon or so quickly that it is surprising",
-      "examples": [
-        {
-          "text": "The kids will be leaving home in no time."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "a long time ago in the past",
-      "examples": [
-        {
-          "text": "In olden times people would gather in town squares to gossip and exchange stories."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "how and when you want to, even though this might annoy other people",
-      "examples": [
-        {
-          "text": "He always does the work, but in his own sweet time."
-        },
-        {
-          "text": "She just ignores all the criticism and continues in her own sweet way."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "when you are ready and not sooner",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Don't hassle him! He'll do it in his own good time."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "in your free time and not when you usually work or study",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "after a period of time when a situation has changed",
-      "examples": [
-        {
-          "text": "They learned to accept their stepmother in time."
-        },
-        {
-          "text": "You'll get used to the work in time."
-        }
-      ],
-      "synonyms": "eventually",
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "not late; with enough time to be able to do something",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Will we be in time for the six o'clock train?"
-        },
-        {
-          "text": "The ambulance got there just in time *(= to save somebody's life)*."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that you think somebody should do something soon",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "It's about time you cleaned your room!"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that something will definitely happen, although you are not sure when",
-      "examples": [
-        {
-          "text": "It's only a matter of time before they bring out their own version of the software."
-        }
-      ],
-      "topics": ["Doubt, guessing and certainty"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to change and develop your ideas, way of working, etc. so that you do what is modern and what is expected",
-      "examples": [
-        {
-          "text": "Many complained that the Royal Family had failed to move with the times."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to spend time doing something that is not important while you are waiting for something else to happen",
-      "examples": [
-        {
-          "text": "We killed time playing cards."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say hello to somebody you have not seen for a long time",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to complete a journey quickly",
-      "examples": [
-        {
-          "text": "We made excellent time and arrived in Spain in two days."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to do something quickly or very often because you wish you had started doing it sooner",
-      "examples": [
-        {
-          "text": "I’ll have to work hard now to make up for lost time."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "many times; frequently",
-      "labels": "(old-fashioned)",
-      "examples": []
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to pass the time while you wait for something more interesting",
-      "examples": [
-        {
-          "text": "I'm just marking time in this job—I'm hoping to get into journalism."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to make marching movements without moving forwards",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "on the next, first, etc. occasion that the same thing happens",
-      "examples": [
-        {
-          "text": "He repeated none of the errors he'd made first time round."
-        },
-        {
-          "text": "This time round it was not so easy."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that something is usually true or almost always happens",
-      "examples": [
-        {
-          "text": "Nine times out of ten she gives the right answer."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "almost always",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that something should have happened before now",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to refuse to speak to somebody because you do not like or respect them",
-      "examples": [
-        {
-          "text": "Since the success of her novel, people shake her hand who once wouldn't have given her the time of day."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "now is the best time to do something, not in the future",
-      "labels": "(saying)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "that has ever existed",
-      "examples": [
-        {
-          "text": "Many rated him the best singer of all time."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used, especially at the beginning of stories, to mean ‘a long time ago in the past’",
-      "examples": [
-        {
-          "text": "Once upon a time there was a beautiful princess."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "at the arranged or correct time; not late",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The train arrived right on time."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to say hello to somebody and have a short conversation with them",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to find or create reasons why something has to be delayed, often so you have longer to prepare for it",
-      "examples": [
-        {
-          "text": "His legal team, clearly playing for time, sought to have the case heard a month later."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "a situation in which you have to do something or finish something very fast before it is too late",
-      "examples": [
-        {
-          "text": "Getting food to the starving refugees is now a race against time."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "something that you feel shows what things are like now, especially how bad they are",
-      "examples": [
-        {
-          "text": "The increasing number of people owning guns is an alarming sign of the times."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "it is better to deal with something immediately because if you wait it may become worse or more difficult and cause extra work",
-      "labels": "(saying)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to not think about what will happen in the future",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "I don't know if he'll get better. We're just taking it one day at a time."
-        }
-      ]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to use as much time as you need without hurrying",
-      "examples": [
-        {
-          "text": "There's no rush—take your time."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "used to say you think somebody is late or is too slow in doing something",
-      "examples": [
-        {
-          "text": "You certainly took your time getting here!"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to spend some time away from your usual work or activity in order to rest or do something else instead",
-      "labels": "especially North American English",
-      "examples": [
-        {
-          "text": "She is taking time out from her music career for a year."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "the fact that something has not happened before does not mean that it will never happen",
-      "labels": "(saying, humorous)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used when you have failed to do something twice and hope that you will succeed the third time",
-      "examples": [],
-      "topics": ["Success"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "often; on many or all occasions",
-      "examples": [
-        {
-          "text": "You will get a perfect result time after time if you follow these instructions."
-        },
-        {
-          "text": "Time and again, the girls have shown how strong and determined they can be."
-        }
-      ],
-      "topics": ["Time"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "one and a half times the usual rate of pay",
-      "examples": [
-        {
-          "text": "We get time and a half on Sundays."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "time seems to pass very quickly",
-      "labels": "(saying)",
-      "examples": [
-        {
-          "text": "How time flies! I've got to go now."
-        },
-        {
-          "text": "Time has flown since the holiday began."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "time is valuable, and should not be wasted",
-      "labels": "(saying)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that somebody can wait for something to happen or can wait before doing something",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that something used to happen in the past",
-      "labels": "(old-fashioned)",
-      "examples": [
-        {
-          "text": "Time was when you could go for a walk in the country and not see another person for miles."
-        },
-        {
-          "text": "Time was when we never needed to lock our house at night."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that you will have to wait for some time to find out the result of a situation",
-      "labels": "(saying)",
-      "examples": [
-        {
-          "text": "Only time will tell if the treatment has been successful."
-        }
-      ]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "during the whole of a particular period of time",
-      "examples": [
-        {
-          "text": "My keys were in my pocket the whole time *(= while I was looking for them)*."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "very often; repeatedly",
-      "examples": [
-        {
-          "text": "He drums his fingers on the table the whole time—it's very annoying."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/taɪm/",
-        "audio": "ti/time/time__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/taɪm/",
-        "audio": "ti/time/time__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English tīma, of Germanic origin; related to tide, which it superseded in temporal senses. The earliest of the current verb senses (dating from late Middle English) is ‘do (something) at a particular moment’."
+	"term": "time",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "what is measured in minutes, hours, days, etc.",
+			"sensetop": "in timeover time",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The world exists in time and space."
+				},
+				{
+					"text": "The changing seasons mark the passage of time."
+				},
+				{
+					"text": "A visit to the museum will take you **back in time** to the 1930s.",
+					"contextForm": "in time"
+				},
+				{
+					"text": "**At this point in time**, it seems unlikely that he will write any more books."
+				},
+				{
+					"text": "Perceptions change over time *(= as time passes)*.",
+					"contextForm": "over time"
+				},
+				{
+					"text": "**As time goes on** I love this city more and more."
+				},
+				{
+					"text": "**As time went by** we saw less and less of each other."
+				},
+				{
+					"text": "The main character is able to travel through time."
+				},
+				{
+					"text": "They say that time heals all wounds."
+				},
+				{
+					"text": "Her skills improved with time."
+				},
+				{
+					"text": "It helps to pass the time."
+				},
+				{
+					"text": "Time drags in this job."
+				}
+			],
+			"topics": ["Time"],
+			"collocations": {
+				"time + verb": ["elapse", "go by", "pass"],
+				"preposition": ["in time", "over time", "through time"],
+				"phrases": ["a matter of time", "the mists of time"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the time shown on a clock in minutes and hours",
+			"labels": "(British English)(North American English)(British English)(North American English)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**What time is it/What’s the time**?"
+				},
+				{
+					"text": "Do you have the time?"
+				},
+				{
+					"text": "**What time do you make it**?"
+				},
+				{
+					"text": "**What time do you have**?"
+				},
+				{
+					"text": "Let me just check the time."
+				},
+				{
+					"text": "The time is now half past ten."
+				},
+				{
+					"text": "Can she **tell the time** yet *(= say what time it is by looking at a clock)*?"
+				},
+				{
+					"text": "Can she **tell time** yet?"
+				},
+				{
+					"text": "My watch **keeps perfect time** *(= always shows the correct time)*."
+				},
+				{
+					"text": "Look at the time! We'll be late."
+				},
+				{
+					"text": "**This time tomorrow** I'll be in Canada."
+				}
+			],
+			"topics": ["Time"],
+			"collocations": {
+				"adjective": ["good", "perfect", "local"],
+				"verb + time": ["tell", "have", "make"],
+				"time + noun": ["zone"],
+				"preposition": ["ahead of… time", "behind… time"],
+				"phrases": [
+					"at… time in the morning/​afternoon/​evening",
+					"at… time of day",
+					"at… time of the morning/​afternoon/​evening/​night"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the time measured in a particular part of the world",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "6 o’clock local time"
+				},
+				{
+					"text": "We're two hours behind Central European Time."
+				}
+			],
+			"collocations": {
+				"adjective": ["good", "perfect", "local"],
+				"verb + time": ["tell", "have", "make"],
+				"time + noun": ["zone"],
+				"preposition": ["ahead of… time", "behind… time"],
+				"phrases": [
+					"at… time in the morning/​afternoon/​evening",
+					"at… time of day",
+					"at… time of the morning/​afternoon/​evening/​night"
+				]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the time when something happens or when something should happen",
+			"sensetop": "time to do somethingtime for somethingtime (that)…by the time (that)…at a… timeat the timearound the time of something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "What time do you finish work?"
+				},
+				{
+					"text": "The baby loves bath time."
+				},
+				{
+					"text": "A computer screen shows arrival and departure times."
+				},
+				{
+					"text": "I think it's time to go to bed.",
+					"contextForm": "time to do something"
+				},
+				{
+					"text": "This is hardly the time to discuss politics."
+				},
+				{
+					"text": "It's time for lunch.",
+					"contextForm": "time for something"
+				},
+				{
+					"text": "It's time the kids were in bed.",
+					"contextForm": "time (that)…"
+				},
+				{
+					"text": "It's time that farmers listened to consumers."
+				},
+				{
+					"text": "By the time you get there the meeting will be over.",
+					"contextForm": "by the time (that)…"
+				},
+				{
+					"text": "Have I called at a bad time? Shall I call back later?",
+					"contextForm": "at a… time"
+				},
+				{
+					"text": "We stock six different beers at any one time."
+				},
+				{
+					"text": "I didn't realize it at the time, but that was the best day of my life.",
+					"contextForm": "at the time"
+				},
+				{
+					"text": "The promotion came at just the **right time** for me."
+				},
+				{
+					"text": "The new product will launch **when the time is right**."
+				},
+				{
+					"text": "You'll feel differently about it **when the time comes** *(= when it happens)*."
+				},
+				{
+					"text": "Several articles were published around the time of his death in 2018.",
+					"contextForm": "around the time of something"
+				},
+				{
+					"text": "Is this an appropriate time to discuss my salary?"
+				},
+				{
+					"text": "It's time for a break."
+				},
+				{
+					"text": "We need to fix a time for the next meeting."
+				},
+				{
+					"text": "At the time of writing, a ceasefire is under discussion."
+				},
+				{
+					"text": "Your time will come."
+				}
+			],
+			"collocations": {
+				"adjective": ["peak", "prime", "closing"],
+				"verb + time": ["fix", "set", "change"],
+				"time + verb": ["come"],
+				"preposition": ["ahead of time", "behind time", "by the time"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "an amount of time; the amount of time available to work, rest, etc.",
+			"sensetop": "time for somethingtime to do something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I can't go with you—I don't **have time**."
+				},
+				{
+					"text": "He **spends** a lot of his **time** working."
+				},
+				{
+					"text": "Do you have time for a chat?",
+					"contextForm": "time for something"
+				},
+				{
+					"text": "Allow **plenty of time** to get to the airport.",
+					"contextForm": "time to do something"
+				},
+				{
+					"text": "I can probably **make the time** to see them."
+				},
+				{
+					"text": "It **takes time** to make changes in the law."
+				},
+				{
+					"text": "We have **no time to lose** *(= we must hurry)*."
+				},
+				{
+					"text": "We got to the airport with time to spare."
+				},
+				{
+					"text": "She plans to study overseas for an extended **period of time**."
+				},
+				{
+					"text": "What do you like to do in your **free time**?"
+				},
+				{
+					"text": "She doesn’t have much **spare time**."
+				},
+				{
+					"text": "Sorry, I can’t spare the time."
+				},
+				{
+					"text": "Don't **waste** any more **time**!"
+				},
+				{
+					"text": "What a **waste of time**!"
+				},
+				{
+					"text": "**Time's running out** for them to complete the project."
+				},
+				{
+					"text": "I didn't finish the test—**I ran out of time**."
+				},
+				{
+					"text": "**Time's up**—have you worked out the answer yet?"
+				},
+				{
+					"text": "He never takes any **time off** *(= time spent not working)*."
+				},
+				{
+					"text": "Jane's worked here **for some time** *(= for a fairly long period of time)*."
+				},
+				{
+					"text": "Do it now please—not in three hours' time *(= three hours from now)*."
+				},
+				{
+					"text": "The journey time is two hours."
+				},
+				{
+					"text": "I don’t want to take up too much of your precious time."
+				},
+				{
+					"text": "What’s the hurry? We have all the time in the world."
+				},
+				{
+					"text": "A great deal of time has been spent on developing this software."
+				},
+				{
+					"text": "De Niro makes the most of limited screen time."
+				},
+				{
+					"text": "Do you need more time?"
+				},
+				{
+					"text": "He put all his time into the show."
+				},
+				{
+					"text": "I can certainly do the job if you give me time."
+				},
+				{
+					"text": "I can never find time to write letters."
+				},
+				{
+					"text": "I had no time to think."
+				},
+				{
+					"text": "I'll be back in ten minutes' time."
+				},
+				{
+					"text": "The coach plans to give younger players more playing time."
+				},
+				{
+					"text": "They didn't allow much time for discussion."
+				},
+				{
+					"text": "This doesn't leave much time for us to get ready."
+				},
+				{
+					"text": "We had to wait some time before the bus arrived."
+				},
+				{
+					"text": "We will discuss this matter later, if time permits."
+				},
+				{
+					"text": "We're wasting precious time."
+				},
+				{
+					"text": "Where does the time go?"
+				},
+				{
+					"text": "You would save time with a dishwasher."
+				},
+				{
+					"text": "Have you lived abroad for any length of time?"
+				},
+				{
+					"text": "He'd been thinking about quitting his job for quite some time."
+				}
+			],
+			"collocations": {
+				"adjective": ["considerable", "long", "little"],
+				"… of time": ["amount", "length", "period"],
+				"verb + time": ["have", "need", "give somebody/​something"],
+				"time + verb": ["be up", "run out"],
+				"time + noun": ["frame", "interval", "period"],
+				"preposition": ["at a time", "for a time", "in time"],
+				"phrases": ["all in good time", "all the time", "the entire time"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "a period of time, either long or short, during which you do something or something happens",
+			"sensetop": "for a time",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "His injuries will **take a long time** to heal."
+				},
+				{
+					"text": "It took them a long time to get home."
+				},
+				{
+					"text": "Did you have to wait a long time to see the doctor?"
+				},
+				{
+					"text": "I lived in Egypt for a time.",
+					"contextForm": "for a time"
+				},
+				{
+					"text": "I was only there for **a short time**."
+				},
+				{
+					"text": "The early morning is the best **time of day**."
+				},
+				{
+					"text": "Her parents died **a long time ago**."
+				},
+				{
+					"text": "**At one time** *(= at a period of time in the past)* Emily was my best friend."
+				},
+				{
+					"text": "Mr Curtis was the manager **in my time** *(= when I was working there)*."
+				},
+				{
+					"text": "The leaves start to turn red at this time of (the) year."
+				},
+				{
+					"text": "There's less traffic at this time of day."
+				},
+				{
+					"text": "What are you doing out of bed at this time of night?"
+				},
+				{
+					"text": "It was a fun time for us girls."
+				}
+			],
+			"topics": ["Time"],
+			"collocations": {
+				"adjective": ["considerable", "long", "little"],
+				"… of time": ["amount", "length", "period"],
+				"verb + time": ["have", "need", "give somebody/​something"],
+				"time + verb": ["be up", "run out"],
+				"time + noun": ["frame", "interval", "period"],
+				"preposition": ["at a time", "for a time", "in time"],
+				"phrases": ["all in good time", "all the time", "the entire time"]
+			}
+		},
+		{
+			"senseNumber": 7,
+			"definition": "a period of history connected with particular events or experiences in people’s lives",
+			"sensetop": "at the time of somethingin… time(s)in times of something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The movie is set at the time of the Russian Revolution.",
+					"contextForm": "at the time of something"
+				},
+				{
+					"text": "the politician who promised ‘peace in our time’",
+					"contextForm": "in… time(s)"
+				},
+				{
+					"text": "in ancient times"
+				},
+				{
+					"text": "The Industrial Revolution took place in Victorian times."
+				},
+				{
+					"text": "the violent times we live in *(= the present period of history)*"
+				},
+				{
+					"text": "in times of trouble",
+					"contextForm": "in times of something"
+				},
+				{
+					"text": "The business was successful, even during difficult times."
+				},
+				{
+					"text": "Times are hard for the unemployed."
+				},
+				{
+					"text": "**Times have changed** since Grandma was young."
+				}
+			],
+			"topics": ["Time", "History"],
+			"collocations": {
+				"adjective": ["good", "great", "happy"],
+				"time + verb": ["change"],
+				"preposition": [
+					"at a/​the time",
+					"before somebody’s time",
+					"in somebody’s time"
+				],
+				"phrases": [
+					"from time immemorial",
+					"since time immemorial",
+					"of all time"
+				]
+			}
+		},
+		{
+			"senseNumber": 8,
+			"definition": "an occasion when you do something or when something happens",
+			"labels": "(especially North American English)(formal)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**Every time** I hear that song I feel happy."
+				},
+				{
+					"text": "It doesn't matter if you don't win every time *(= every time you play)*."
+				},
+				{
+					"text": "**Next time** you're here let's have lunch together."
+				},
+				{
+					"text": "He failed his driving test three times."
+				},
+				{
+					"text": "He's determined to pass **this time**."
+				},
+				{
+					"text": "When was the **last time** you saw her?"
+				},
+				{
+					"text": "I see her two or three **times a week**."
+				},
+				{
+					"text": "**How many times** *(= how often)* do I have to tell you not to do that?"
+				},
+				{
+					"text": "I remember **one time** *(= once)* we had to abandon our car in the snow."
+				},
+				{
+					"text": "**At no time did** I give my consent to the plan."
+				},
+				{
+					"text": "For the first time in history, more than half of us now live in cities."
+				},
+				{
+					"text": "I can remember the first time I met her."
+				},
+				{
+					"text": "I told her not to do it for the umpteenth time."
+				},
+				{
+					"text": "I've told you countless times."
+				},
+				{
+					"text": "The chairlift can take four people at a time."
+				},
+				{
+					"text": "three times out of ten"
+				},
+				{
+					"text": "There were times—sometimes whole weeks—when I thought it wasn't worth trying to complete the project."
+				}
+			],
+			"collocations": {
+				"adjective": ["that", "this", "final"],
+				"… of times": ["couple", "number"],
+				"verb + time": ["remember", "bide"],
+				"time + verb": ["come", "be ripe"],
+				"preposition": ["at a/​the time", "by the time", "for the… time"],
+				"phrases": [
+					"at the present time",
+					"for the time being",
+					"a number of times"
+				]
+			}
+		},
+		{
+			"senseNumber": 9,
+			"definition": "an event or occasion that you experience in a particular way",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Did you **have a good time** in Spain?"
+				},
+				{
+					"text": "They're **having a hard time** dealing with her illness."
+				},
+				{
+					"text": "I had an awful time in the hospital."
+				},
+				{
+					"text": "Mike and I shared some really good times."
+				}
+			],
+			"collocations": {
+				"adjective": ["enjoyable", "fun", "good"],
+				"verb + time": ["have", "enjoy"]
+			}
+		},
+		{
+			"senseNumber": 10,
+			"definition": "how long somebody takes to run a race or complete an event",
+			"examples": [
+				{
+					"text": "The winner's time was 11.6 seconds."
+				},
+				{
+					"text": "She completed the 500 metres **in record time** *(= faster than any previous runner)*."
+				},
+				{
+					"text": "one of the fastest times ever"
+				}
+			],
+			"collocations": {
+				"adjective": ["fast", "record"],
+				"verb + time": ["clock up", "record"],
+				"time + noun": ["trial"]
+			}
+		},
+		{
+			"senseNumber": 11,
+			"definition": "the number of beats (= units of rhythm) in a bar of music",
+			"examples": [
+				{
+					"text": "This piece is in four-four time."
+				},
+				{
+					"text": "a slow waltz time"
+				},
+				{
+					"text": "The conductor **beat time** with a baton."
+				}
+			],
+			"collocations": {
+				"adjective": ["waltz", "double", "quick"],
+				"verb + time": ["beat", "keep"],
+				"time + noun": ["signature"],
+				"preposition": ["in time", "in time to", "in time with"]
+			}
+		},
+		{
+			"senseNumber": 12,
+			"definition": "the correct speed and rhythm of a piece of music",
+			"sensetop": "in time to somethingin/out of time",
+			"examples": [
+				{
+					"text": "Try and dance in time to the music *(= with the same speed and rhythm)*.",
+					"contextForm": "in time to something"
+				},
+				{
+					"text": "Clap your hands to **keep time** *(= sing or move with the correct speed and rhythm)*."
+				},
+				{
+					"text": "to play in/out of time *(= follow/not follow the correct speed and rhythm)*",
+					"contextForm": "in/out of time"
+				},
+				{
+					"text": "He always plays in perfect time."
+				}
+			],
+			"collocations": {
+				"adjective": ["waltz", "double", "quick"],
+				"verb + time": ["beat", "keep"],
+				"time + noun": ["signature"],
+				"preposition": ["in time", "in time to", "in time with"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that something should have happened before now",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "if you do something against time, you do it as fast as you can because you do not have much time",
+			"examples": [
+				{
+					"text": "They're working against time to try and get people out of the rubble alive."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "earlier/later than was expected",
+			"examples": [
+				{
+					"text": "We finished 15 minutes ahead of time."
+				},
+				{
+					"text": "The plane took off an hour behind time."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "having advanced or new ideas that other people use or copy later",
+			"examples": []
+		},
+		{
+			"senseNumber": 1,
+			"definition": "during the whole of a particular period of time",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The letter was in my pocket all the time *(= while I was looking for it)*."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "very often; repeatedly",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She leaves the lights on all the time."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "always",
+			"examples": [
+				{
+					"text": "Our representatives are ready to help you at all times."
+				},
+				{
+					"text": "Hot water is available at all times."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "even when the circumstances are very good",
+			"examples": [
+				{
+					"text": "He's never very happy at the best of times—he'll be much worse now!"
+				}
+			]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "at one time; together",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She was laughing and crying at the same time."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "used to introduce a fact that is different and must be considered",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "You have to be firm, but at the same time you should try and be sympathetic."
+				}
+			],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "separately or in groups of two, three, etc. on each occasion",
+			"examples": [
+				{
+					"text": "We had to go and see the principal one at a time."
+				},
+				{
+					"text": "She ran up the stairs two at a time."
+				},
+				{
+					"text": "He surfs the internet for hours at a time."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "at the age you are (especially when you are not young)",
+			"examples": [
+				{
+					"text": "Eyesight doesn't get any better at my time of life."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "sometimes",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He can be really bad-tempered at times."
+				},
+				{
+					"text": "The rain will become heavy at times in the afternoon."
+				},
+				{
+					"text": "He can be rather moody at times."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to mark or follow the rhythm of music, by waving a stick, tapping your foot (= hitting it against the floor), etc.",
+			"examples": [
+				{
+					"text": "She beat time with her fingers."
+				}
+			]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "happening before you were born or can remember or before you lived, worked, etc. somewhere",
+			"examples": [
+				{
+					"text": "‘Were you taught by Professor Pascal?’ ‘No, he was before my time.’"
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "before the usual time in somebody’s life when something happens",
+			"examples": [
+				{
+					"text": "She got old before her time."
+				}
+			],
+			"synonyms": "prematurely"
+		},
+		{
+			"senseNumber": null,
+			"definition": "old-fashioned in your ideas, methods, etc.",
+			"examples": [],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be able to take advantage of opportunities when they come",
+			"examples": [
+				{
+					"text": "His success was down to being in the right place at the right time."
+				}
+			]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to still be alive after the time when you were expected to die",
+			"examples": [
+				{
+					"text": "He’s been living on borrowed time ever since his last heart attack."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to be doing something that other people are likely to soon stop you from doing",
+			"examples": [
+				{
+					"text": "According to the latest opinion polls, the government is living on borrowed time."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to encourage somebody who has not been successful at something",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Never mind— better luck next time."
+				},
+				{
+					"text": "If you didn't win a prize, better luck next time."
+				}
+			],
+			"topics": ["Success"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to wait for the right time to do something",
+			"examples": [
+				{
+					"text": "He decided to bide his time until he got an opportunity to talk to her alone."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to do something in order to delay an event, a decision, etc.",
+			"examples": [
+				{
+					"text": "The negotiators kept the gunman talking to buy time for the hostages."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to say or decide that it is time for something to finish",
+			"labels": "(British English)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "a very difficult or unpleasant job or time",
+			"labels": "(old-fashioned)",
+			"examples": [
+				{
+					"text": "I've had a devil of a job finding you."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to spend time in prison",
+			"labels": "(informal)",
+			"examples": [],
+			"topics": ["Crime and punishment"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "whenever there is a choice",
+			"examples": [
+				{
+					"text": "I don't really like cities—give me the countryside every time."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "if you do something for old times’ sake, you do it because it is connected with something good that happened to you in the past",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "for a short period of time but not permanently",
+			"examples": [
+				{
+					"text": "You can leave your suitcase here for the time being."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "beginning on that day; from that time",
+			"labels": "(literary)",
+			"examples": [
+				{
+					"text": "From that time forth she gave me endless friendship and encouragement."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "occasionally but not regularly",
+			"examples": [
+				{
+					"text": "She has to work at weekends from time to time."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to delay something so that you can have more time to make a decision, deal with a problem, etc.",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to deliberately make a situation difficult and unpleasant for somebody",
+			"examples": [
+				{
+					"text": "They really gave me a hard time at the interview."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that you prefer a particular thing or person to the one that has just been mentioned",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "We don't go out much. Give me a quiet night in front of the TV any day!"
+				}
+			],
+			"topics": ["Preferences and decisions"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to have no difficulties or problems",
+			"examples": [
+				{
+					"text": "He’s had an easy time of it since he married Lucy."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to enjoy yourself very much",
+			"labels": "(old-fashioned, informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to like and be interested in somebody/something",
+			"labels": "(informal, especially British English)",
+			"examples": [
+				{
+					"text": "I've always had a lot of time for Mary."
+				}
+			],
+			"topics": ["Preferences and decisions"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to dislike somebody/something",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "I have no time for lazy people like Steve."
+				}
+			],
+			"topics": ["Preferences and decisions"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to have many problems or difficulties to deal with; to not be successful",
+			"labels": "(British English, informal)",
+			"examples": [
+				{
+					"text": "He’s had a thin time of it since losing his job."
+				}
+			],
+			"topics": ["Difficulty and failure"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to enjoy yourself very much",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to have nothing to do or not be busy",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to enjoy yourself very much; to have a very good time",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "The kids had a whale of a time at the theme park."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "when enough time has passed",
+			"examples": [
+				{
+					"text": "It is possible that in the course of time a cure for cancer will be found."
+				},
+				{
+					"text": "In the course of time, I began to understand."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "when the time is appropriate, usually after a long period",
+			"examples": [
+				{
+					"text": "I have no doubt that she’ll tell us in the fullness of time."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "early; with enough time so that you are not in a hurry",
+			"examples": [
+				{
+					"text": "Get to the airport in good time."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that something will be done or will happen at the appropriate time and not before",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Be patient, Emily! All in good time."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "at the very last moment; just before something bad happens, so that you manage to avoid it, but only just",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "They escaped from the smoke-filled house just in the nick of time."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "so soon or so quickly that it is surprising",
+			"examples": [
+				{
+					"text": "The kids will be leaving home in no time."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "a long time ago in the past",
+			"examples": [
+				{
+					"text": "In olden times people would gather in town squares to gossip and exchange stories."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "how and when you want to, even though this might annoy other people",
+			"examples": [
+				{
+					"text": "He always does the work, but in his own sweet time."
+				},
+				{
+					"text": "She just ignores all the criticism and continues in her own sweet way."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "when you are ready and not sooner",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Don't hassle him! He'll do it in his own good time."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "in your free time and not when you usually work or study",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "after a period of time when a situation has changed",
+			"examples": [
+				{
+					"text": "They learned to accept their stepmother in time."
+				},
+				{
+					"text": "You'll get used to the work in time."
+				}
+			],
+			"synonyms": "eventually",
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "not late; with enough time to be able to do something",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Will we be in time for the six o'clock train?"
+				},
+				{
+					"text": "The ambulance got there just in time *(= to save somebody's life)*."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that you think somebody should do something soon",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "It's about time you cleaned your room!"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that something will definitely happen, although you are not sure when",
+			"examples": [
+				{
+					"text": "It's only a matter of time before they bring out their own version of the software."
+				}
+			],
+			"topics": ["Doubt, guessing and certainty"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to change and develop your ideas, way of working, etc. so that you do what is modern and what is expected",
+			"examples": [
+				{
+					"text": "Many complained that the Royal Family had failed to move with the times."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to spend time doing something that is not important while you are waiting for something else to happen",
+			"examples": [
+				{
+					"text": "We killed time playing cards."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say hello to somebody you have not seen for a long time",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to complete a journey quickly",
+			"examples": [
+				{
+					"text": "We made excellent time and arrived in Spain in two days."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to do something quickly or very often because you wish you had started doing it sooner",
+			"examples": [
+				{
+					"text": "I’ll have to work hard now to make up for lost time."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "many times; frequently",
+			"labels": "(old-fashioned)",
+			"examples": []
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to pass the time while you wait for something more interesting",
+			"examples": [
+				{
+					"text": "I'm just marking time in this job—I'm hoping to get into journalism."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to make marching movements without moving forwards",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "on the next, first, etc. occasion that the same thing happens",
+			"examples": [
+				{
+					"text": "He repeated none of the errors he'd made first time round."
+				},
+				{
+					"text": "This time round it was not so easy."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that something is usually true or almost always happens",
+			"examples": [
+				{
+					"text": "Nine times out of ten she gives the right answer."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "almost always",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that something should have happened before now",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to refuse to speak to somebody because you do not like or respect them",
+			"examples": [
+				{
+					"text": "Since the success of her novel, people shake her hand who once wouldn't have given her the time of day."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "now is the best time to do something, not in the future",
+			"labels": "(saying)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "that has ever existed",
+			"examples": [
+				{
+					"text": "Many rated him the best singer of all time."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used, especially at the beginning of stories, to mean ‘a long time ago in the past’",
+			"examples": [
+				{
+					"text": "Once upon a time there was a beautiful princess."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "at the arranged or correct time; not late",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The train arrived right on time."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to say hello to somebody and have a short conversation with them",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to find or create reasons why something has to be delayed, often so you have longer to prepare for it",
+			"examples": [
+				{
+					"text": "His legal team, clearly playing for time, sought to have the case heard a month later."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "a situation in which you have to do something or finish something very fast before it is too late",
+			"examples": [
+				{
+					"text": "Getting food to the starving refugees is now a race against time."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "something that you feel shows what things are like now, especially how bad they are",
+			"examples": [
+				{
+					"text": "The increasing number of people owning guns is an alarming sign of the times."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "it is better to deal with something immediately because if you wait it may become worse or more difficult and cause extra work",
+			"labels": "(saying)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to not think about what will happen in the future",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "I don't know if he'll get better. We're just taking it one day at a time."
+				}
+			]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to use as much time as you need without hurrying",
+			"examples": [
+				{
+					"text": "There's no rush—take your time."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "used to say you think somebody is late or is too slow in doing something",
+			"examples": [
+				{
+					"text": "You certainly took your time getting here!"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to spend some time away from your usual work or activity in order to rest or do something else instead",
+			"labels": "especially North American English",
+			"examples": [
+				{
+					"text": "She is taking time out from her music career for a year."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "the fact that something has not happened before does not mean that it will never happen",
+			"labels": "(saying, humorous)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used when you have failed to do something twice and hope that you will succeed the third time",
+			"examples": [],
+			"topics": ["Success"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "often; on many or all occasions",
+			"examples": [
+				{
+					"text": "You will get a perfect result time after time if you follow these instructions."
+				},
+				{
+					"text": "Time and again, the girls have shown how strong and determined they can be."
+				}
+			],
+			"topics": ["Time"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "one and a half times the usual rate of pay",
+			"examples": [
+				{
+					"text": "We get time and a half on Sundays."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "time seems to pass very quickly",
+			"labels": "(saying)",
+			"examples": [
+				{
+					"text": "How time flies! I've got to go now."
+				},
+				{
+					"text": "Time has flown since the holiday began."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "time is valuable, and should not be wasted",
+			"labels": "(saying)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that somebody can wait for something to happen or can wait before doing something",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that something used to happen in the past",
+			"labels": "(old-fashioned)",
+			"examples": [
+				{
+					"text": "Time was when you could go for a walk in the country and not see another person for miles."
+				},
+				{
+					"text": "Time was when we never needed to lock our house at night."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that you will have to wait for some time to find out the result of a situation",
+			"labels": "(saying)",
+			"examples": [
+				{
+					"text": "Only time will tell if the treatment has been successful."
+				}
+			]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "during the whole of a particular period of time",
+			"examples": [
+				{
+					"text": "My keys were in my pocket the whole time *(= while I was looking for them)*."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "very often; repeatedly",
+			"examples": [
+				{
+					"text": "He drums his fingers on the table the whole time—it's very annoying."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/taɪm/",
+				"audio": "ti/time/time__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/taɪm/",
+				"audio": "ti/time/time__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English tīma, of Germanic origin; related to tide, which it superseded in temporal senses. The earliest of the current verb senses (dating from late Middle English) is ‘do (something) at a particular moment’."
 }

@@ -1,81 +1,81 @@
 {
-  "term": "sculpture",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a work of art that is a solid figure or object made by carving or shaping wood, stone, clay, metal, etc.",
-      "labels": "(US English)(US English)(US English)(especially British English)(North American English usually)(British English)(North American English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a marble sculpture of Venus"
-        },
-        {
-          "text": "He collects modern sculpture."
-        },
-        {
-          "text": "a sculpture garden/park"
-        },
-        {
-          "text": "a bronze/stone sculpture"
-        },
-        {
-          "text": "She creates sculptures out of scrap materials."
-        },
-        {
-          "text": "Tombs remain the most important monumental sculpture of this period."
-        },
-        {
-          "text": "a sculpture by Henry Moore"
-        },
-        {
-          "text": "a sculpture of a horse"
-        }
-      ],
-      "topics": ["Art"],
-      "collocations": {
-        "adjective": ["abstract", "figurative", "ancient"],
-        "… of sculpture": ["piece", "series", "collection"],
-        "verb + sculpture": ["create", "make", "commission"],
-        "preposition": ["sculpture by", "sculpture of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the art of making sculptures",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "the techniques of sculpture in stone"
-        },
-        {
-          "text": "The frieze shows ancient Greek relief sculpture at its most inventive."
-        },
-        {
-          "text": "She trained in painting and sculpture at Columbia University."
-        }
-      ],
-      "topics": ["Hobbies"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈskʌlptʃə(r)/",
-        "audio": "sc/sculpture/sculpture__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈskʌlptʃər/",
-        "audio": "sc/sculpture/sculpture__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Latin sculptura, from sculpere ‘carve’."
+	"term": "sculpture",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a work of art that is a solid figure or object made by carving or shaping wood, stone, clay, metal, etc.",
+			"labels": "(US English)(US English)(US English)(especially British English)(North American English usually)(British English)(North American English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a marble sculpture of Venus"
+				},
+				{
+					"text": "He collects modern sculpture."
+				},
+				{
+					"text": "a sculpture garden/park"
+				},
+				{
+					"text": "a bronze/stone sculpture"
+				},
+				{
+					"text": "She creates sculptures out of scrap materials."
+				},
+				{
+					"text": "Tombs remain the most important monumental sculpture of this period."
+				},
+				{
+					"text": "a sculpture by Henry Moore"
+				},
+				{
+					"text": "a sculpture of a horse"
+				}
+			],
+			"topics": ["Art"],
+			"collocations": {
+				"adjective": ["abstract", "figurative", "ancient"],
+				"… of sculpture": ["piece", "series", "collection"],
+				"verb + sculpture": ["create", "make", "commission"],
+				"preposition": ["sculpture by", "sculpture of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the art of making sculptures",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "the techniques of sculpture in stone"
+				},
+				{
+					"text": "The frieze shows ancient Greek relief sculpture at its most inventive."
+				},
+				{
+					"text": "She trained in painting and sculpture at Columbia University."
+				}
+			],
+			"topics": ["Hobbies"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈskʌlptʃə(r)/",
+				"audio": "sc/sculpture/sculpture__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈskʌlptʃər/",
+				"audio": "sc/sculpture/sculpture__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Latin sculptura, from sculpere ‘carve’."
 }

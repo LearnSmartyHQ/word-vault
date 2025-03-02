@@ -1,142 +1,142 @@
 {
-  "term": "merit",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the quality of being good and of deserving praise or reward",
-      "sensetop": "without meriton merit",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a work of outstanding artistic merit"
-        },
-        {
-          "text": "The plan is entirely without merit.",
-          "contextForm": "without merit"
-        },
-        {
-          "text": "I want to get the job on merit.",
-          "contextForm": "on merit"
-        },
-        {
-          "text": "He was awarded a certificate of merit for his piano playing."
-        },
-        {
-          "text": "Films are given a rating of one to five stars according to merit."
-        },
-        {
-          "text": "I can see no merit in excluding the child from school."
-        },
-        {
-          "text": "Prizes are awarded entirely on merit."
-        },
-        {
-          "text": "She proved her merit as a serious actress."
-        },
-        {
-          "text": "She was elected on personal merit."
-        },
-        {
-          "text": "The winners are ranked in order of merit."
-        },
-        {
-          "text": "There is lots of merit to the idea."
-        },
-        {
-          "text": "There is some merit in his argument."
-        }
-      ],
-      "synonyms": "worth",
-      "collocations": {
-        "adjective": ["considerable", "exceptional", "great"],
-        "verb + merit": ["have", "argue", "assess"],
-        "merit + noun": ["award", "badge", "pay"],
-        "preposition": ["according to merit", "on merit", "merit in"],
-        "phrases": ["no merit in something/​doing something", "order of merit"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a good feature that deserves praise or reward",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "We will **consider each case on its (own) merits** *(= without considering any other issues, feelings, etc.)*."
-        },
-        {
-          "text": "They weighed up the **relative merits** of the four candidates."
-        },
-        {
-          "text": "I began to question the merits of these new technologies."
-        },
-        {
-          "text": "We need to assess the merits of both proposals before making our decision."
-        },
-        {
-          "text": "Whatever the artist's individual merits, he really can't compete with the great painters."
-        }
-      ],
-      "synonyms": "strength",
-      "collocations": {
-        "adjective": ["considerable", "exceptional", "great"],
-        "verb + merit": ["have", "argue", "assess"],
-        "merit + noun": ["award", "badge", "pay"],
-        "preposition": ["according to merit", "on merit", "merit in"],
-        "phrases": ["no merit in something/​doing something", "order of merit"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a grade in an exam or for a piece of work at school or university that is very good",
-      "labels": "(British English)",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Education"],
-      "collocations": {
-        "adjective": ["considerable", "exceptional", "great"],
-        "verb + merit": ["have", "argue", "assess"],
-        "merit + noun": ["award", "badge", "pay"],
-        "preposition": ["according to merit", "on merit", "merit in"],
-        "phrases": ["no merit in something/​doing something", "order of merit"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a special mark or award given as a reward for good behaviour at school",
-      "labels": "(British English)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "Other schools already have merit systems in place that reward good behaviour and attitudes."
-        }
-      ],
-      "topics": ["Education"],
-      "collocations": {
-        "adjective": ["considerable", "exceptional", "great"],
-        "verb + merit": ["have", "argue", "assess"],
-        "merit + noun": ["award", "badge", "pay"],
-        "preposition": ["according to merit", "on merit", "merit in"],
-        "phrases": ["no merit in something/​doing something", "order of merit"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmerɪt/",
-        "audio": "me/merit/merit__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmerɪt/",
-        "audio": "me/merit/merit__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (originally in the sense ‘deserved reward or punishment’): via Old French from Latin meritum ‘due reward’, from mereri ‘earn, deserve’."
+	"term": "merit",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the quality of being good and of deserving praise or reward",
+			"sensetop": "without meriton merit",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a work of outstanding artistic merit"
+				},
+				{
+					"text": "The plan is entirely without merit.",
+					"contextForm": "without merit"
+				},
+				{
+					"text": "I want to get the job on merit.",
+					"contextForm": "on merit"
+				},
+				{
+					"text": "He was awarded a certificate of merit for his piano playing."
+				},
+				{
+					"text": "Films are given a rating of one to five stars according to merit."
+				},
+				{
+					"text": "I can see no merit in excluding the child from school."
+				},
+				{
+					"text": "Prizes are awarded entirely on merit."
+				},
+				{
+					"text": "She proved her merit as a serious actress."
+				},
+				{
+					"text": "She was elected on personal merit."
+				},
+				{
+					"text": "The winners are ranked in order of merit."
+				},
+				{
+					"text": "There is lots of merit to the idea."
+				},
+				{
+					"text": "There is some merit in his argument."
+				}
+			],
+			"synonyms": "worth",
+			"collocations": {
+				"adjective": ["considerable", "exceptional", "great"],
+				"verb + merit": ["have", "argue", "assess"],
+				"merit + noun": ["award", "badge", "pay"],
+				"preposition": ["according to merit", "on merit", "merit in"],
+				"phrases": ["no merit in something/​doing something", "order of merit"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a good feature that deserves praise or reward",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "We will **consider each case on its (own) merits** *(= without considering any other issues, feelings, etc.)*."
+				},
+				{
+					"text": "They weighed up the **relative merits** of the four candidates."
+				},
+				{
+					"text": "I began to question the merits of these new technologies."
+				},
+				{
+					"text": "We need to assess the merits of both proposals before making our decision."
+				},
+				{
+					"text": "Whatever the artist's individual merits, he really can't compete with the great painters."
+				}
+			],
+			"synonyms": "strength",
+			"collocations": {
+				"adjective": ["considerable", "exceptional", "great"],
+				"verb + merit": ["have", "argue", "assess"],
+				"merit + noun": ["award", "badge", "pay"],
+				"preposition": ["according to merit", "on merit", "merit in"],
+				"phrases": ["no merit in something/​doing something", "order of merit"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a grade in an exam or for a piece of work at school or university that is very good",
+			"labels": "(British English)",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Education"],
+			"collocations": {
+				"adjective": ["considerable", "exceptional", "great"],
+				"verb + merit": ["have", "argue", "assess"],
+				"merit + noun": ["award", "badge", "pay"],
+				"preposition": ["according to merit", "on merit", "merit in"],
+				"phrases": ["no merit in something/​doing something", "order of merit"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a special mark or award given as a reward for good behaviour at school",
+			"labels": "(British English)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "Other schools already have merit systems in place that reward good behaviour and attitudes."
+				}
+			],
+			"topics": ["Education"],
+			"collocations": {
+				"adjective": ["considerable", "exceptional", "great"],
+				"verb + merit": ["have", "argue", "assess"],
+				"merit + noun": ["award", "badge", "pay"],
+				"preposition": ["according to merit", "on merit", "merit in"],
+				"phrases": ["no merit in something/​doing something", "order of merit"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmerɪt/",
+				"audio": "me/merit/merit__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmerɪt/",
+				"audio": "me/merit/merit__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (originally in the sense ‘deserved reward or punishment’): via Old French from Latin meritum ‘due reward’, from mereri ‘earn, deserve’."
 }

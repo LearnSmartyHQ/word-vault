@@ -1,119 +1,119 @@
 {
-  "term": "parade",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a public celebration of a special day or event, usually with bands in the streets and decorated vehicles",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "the Lord Mayor’s parade"
-        },
-        {
-          "text": "St Patrick’s Day parade in New York"
-        },
-        {
-          "text": "The parade is held every year."
-        },
-        {
-          "text": "Thousands of people were at the parade."
-        }
-      ],
-      "synonyms": "procession",
-      "topics": ["Religion and festivals"],
-      "collocations": {
-        "adjective": ["big", "grand", "colourful/​colorful"],
-        "verb + parade": ["have", "hold", "stage"],
-        "parade + verb": ["take place"],
-        "parade + noun": ["ground", "route", "float"],
-        "preposition": ["at a/​the parade", "on parade"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a formal occasion when soldiers march or stand in lines so that they can be inspected (= looked at and approved) by their officers or other important people",
-      "sensetop": "on parade",
-      "labels": "(figurative)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a military parade"
-        },
-        {
-          "text": "They held a parade to mark the soldiers' return."
-        },
-        {
-          "text": "They stood as straight as soldiers on parade.",
-          "contextForm": "on parade"
-        },
-        {
-          "text": "The latest software will be on parade at the exhibition."
-        }
-      ],
-      "topics": ["War and conflict"],
-      "collocations": {
-        "adjective": ["big", "grand", "colourful/​colorful"],
-        "verb + parade": ["have", "hold", "stage"],
-        "parade + verb": ["take place"],
-        "parade + noun": ["ground", "route", "float"],
-        "preposition": ["at a/​the parade", "on parade"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a series of things or people",
-      "examples": [
-        {
-          "text": "Each generation passes through a similar parade of events."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a street with a row of small shops",
-      "labels": "(especially British English)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "a shopping parade"
-        }
-      ],
-      "topics": ["Transport by car or lorry"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "an obvious display of something, particularly in order to impress other people",
-      "sensetop": "parade of wealth, knowledge, etc.",
-      "labels": "(often disapproving)",
-      "examples": [
-        {
-          "text": "Social media is a constant parade of wealth, happiness, success and vanity."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to prevent somebody from enjoying an event; to cause somebody's plans to fail",
-      "labels": "(informal)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/pəˈreɪd/",
-        "audio": "pa/parade/parade__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/pəˈreɪd/",
-        "audio": "pa/parade/parade__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 17th cent.: from French, literally ‘a showing’, from Spanish parada and Italian parata, based on Latin parare ‘prepare, furnish’."
+	"term": "parade",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a public celebration of a special day or event, usually with bands in the streets and decorated vehicles",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "the Lord Mayor’s parade"
+				},
+				{
+					"text": "St Patrick’s Day parade in New York"
+				},
+				{
+					"text": "The parade is held every year."
+				},
+				{
+					"text": "Thousands of people were at the parade."
+				}
+			],
+			"synonyms": "procession",
+			"topics": ["Religion and festivals"],
+			"collocations": {
+				"adjective": ["big", "grand", "colourful/​colorful"],
+				"verb + parade": ["have", "hold", "stage"],
+				"parade + verb": ["take place"],
+				"parade + noun": ["ground", "route", "float"],
+				"preposition": ["at a/​the parade", "on parade"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a formal occasion when soldiers march or stand in lines so that they can be inspected (= looked at and approved) by their officers or other important people",
+			"sensetop": "on parade",
+			"labels": "(figurative)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a military parade"
+				},
+				{
+					"text": "They held a parade to mark the soldiers' return."
+				},
+				{
+					"text": "They stood as straight as soldiers on parade.",
+					"contextForm": "on parade"
+				},
+				{
+					"text": "The latest software will be on parade at the exhibition."
+				}
+			],
+			"topics": ["War and conflict"],
+			"collocations": {
+				"adjective": ["big", "grand", "colourful/​colorful"],
+				"verb + parade": ["have", "hold", "stage"],
+				"parade + verb": ["take place"],
+				"parade + noun": ["ground", "route", "float"],
+				"preposition": ["at a/​the parade", "on parade"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a series of things or people",
+			"examples": [
+				{
+					"text": "Each generation passes through a similar parade of events."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a street with a row of small shops",
+			"labels": "(especially British English)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "a shopping parade"
+				}
+			],
+			"topics": ["Transport by car or lorry"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "an obvious display of something, particularly in order to impress other people",
+			"sensetop": "parade of wealth, knowledge, etc.",
+			"labels": "(often disapproving)",
+			"examples": [
+				{
+					"text": "Social media is a constant parade of wealth, happiness, success and vanity."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to prevent somebody from enjoying an event; to cause somebody's plans to fail",
+			"labels": "(informal)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/pəˈreɪd/",
+				"audio": "pa/parade/parade__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/pəˈreɪd/",
+				"audio": "pa/parade/parade__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 17th cent.: from French, literally ‘a showing’, from Spanish parada and Italian parata, based on Latin parare ‘prepare, furnish’."
 }

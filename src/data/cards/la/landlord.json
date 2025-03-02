@@ -1,49 +1,49 @@
 {
-  "term": "landlord",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person or company that you rent a room, a house, an office, etc. from",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a buy-to-let landlord *(= who buys houses and flats in order to rent them out)*"
-        }
-      ],
-      "topics": ["Houses and homes"],
-      "collocations": {
-        "adjective": ["private", "local", "unscrupulous"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a man who owns or manages a pub or a guest house",
-      "labels": "(British English)",
-      "cefr": "c1",
-      "examples": [],
-      "topics": ["Jobs"],
-      "collocations": {
-        "adjective": ["pub"],
-        "landlord + verb": ["serve somebody"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈlændlɔːd/",
-        "audio": "la/landlord/landlord__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈlændlɔːrd/",
-        "audio": "la/landlord/landlord__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "landlord",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person or company that you rent a room, a house, an office, etc. from",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a buy-to-let landlord *(= who buys houses and flats in order to rent them out)*"
+				}
+			],
+			"topics": ["Houses and homes"],
+			"collocations": {
+				"adjective": ["private", "local", "unscrupulous"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a man who owns or manages a pub or a guest house",
+			"labels": "(British English)",
+			"cefr": "c1",
+			"examples": [],
+			"topics": ["Jobs"],
+			"collocations": {
+				"adjective": ["pub"],
+				"landlord + verb": ["serve somebody"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈlændlɔːd/",
+				"audio": "la/landlord/landlord__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈlændlɔːrd/",
+				"audio": "la/landlord/landlord__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

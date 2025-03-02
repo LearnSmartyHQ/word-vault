@@ -1,99 +1,99 @@
 {
-  "term": "relative",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "considered and judged by being compared with something else",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "You must consider the **relative merits** of the two plans."
-        },
-        {
-          "text": "We need to assess the **relative importance** of each of these factors."
-        },
-        {
-          "text": "We need to assess the relative strengths and weaknesses of each system."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "referring to an earlier noun, sentence or part of a sentence",
-      "labels": "(grammar)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "In ‘the man who came’, ‘who’ is a **relative pronoun** and ‘who came’ is a **relative clause**."
-        }
-      ],
-      "topics": ["Language"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "that exists or that has a particular quality only when compared with something else",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They now live **in relative comfort** *(= compared with how they lived before)*."
-        },
-        {
-          "text": "We won the game with **relative ease**."
-        },
-        {
-          "text": "Given the failure of the previous plan, this turned out to be a relative success."
-        },
-        {
-          "text": "**It's all relative** though, isn't it? We never had any money when I was a kid and $500 was a fortune to us."
-        }
-      ],
-      "synonyms": "comparative"
-    },
-    {
-      "senseNumber": 1,
-      "definition": "in comparison with somebody/something else; in relation to somebody/something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "the position of the sun relative to the earth"
-        },
-        {
-          "text": "The movements of the continents relative to each other can be measured."
-        },
-        {
-          "text": "The company employs too many people relative to the size of its business."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "having a connection with somebody/something; concerning somebody/something",
-      "examples": [
-        {
-          "text": "He may have information relative to the case."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈrelətɪv/",
-        "audio": "re/relative/relative__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈrelətɪv/",
-        "audio": "re/relative/relative__us_4.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French relatif, -ive, from late Latin relativus ‘having reference or relation’, from the verb referre ‘carry back’, from re- ‘back’ + ferre ‘bring’."
+	"term": "relative",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "considered and judged by being compared with something else",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "You must consider the **relative merits** of the two plans."
+				},
+				{
+					"text": "We need to assess the **relative importance** of each of these factors."
+				},
+				{
+					"text": "We need to assess the relative strengths and weaknesses of each system."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "referring to an earlier noun, sentence or part of a sentence",
+			"labels": "(grammar)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "In ‘the man who came’, ‘who’ is a **relative pronoun** and ‘who came’ is a **relative clause**."
+				}
+			],
+			"topics": ["Language"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "that exists or that has a particular quality only when compared with something else",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They now live **in relative comfort** *(= compared with how they lived before)*."
+				},
+				{
+					"text": "We won the game with **relative ease**."
+				},
+				{
+					"text": "Given the failure of the previous plan, this turned out to be a relative success."
+				},
+				{
+					"text": "**It's all relative** though, isn't it? We never had any money when I was a kid and $500 was a fortune to us."
+				}
+			],
+			"synonyms": "comparative"
+		},
+		{
+			"senseNumber": 1,
+			"definition": "in comparison with somebody/something else; in relation to somebody/something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "the position of the sun relative to the earth"
+				},
+				{
+					"text": "The movements of the continents relative to each other can be measured."
+				},
+				{
+					"text": "The company employs too many people relative to the size of its business."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "having a connection with somebody/something; concerning somebody/something",
+			"examples": [
+				{
+					"text": "He may have information relative to the case."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈrelətɪv/",
+				"audio": "re/relative/relative__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈrelətɪv/",
+				"audio": "re/relative/relative__us_4.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French relatif, -ive, from late Latin relativus ‘having reference or relation’, from the verb referre ‘carry back’, from re- ‘back’ + ferre ‘bring’."
 }

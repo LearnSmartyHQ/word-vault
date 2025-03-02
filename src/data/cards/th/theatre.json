@@ -1,202 +1,202 @@
 {
-  "term": "theatre",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/ci/city.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a building or an outdoor area where plays and similar types of entertainment are performed",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Broadway theatres"
-        },
-        {
-          "text": "an open-air theatre"
-        },
-        {
-          "text": "How often do you **go to the theatre**?"
-        },
-        {
-          "text": "She left the theatre a few minutes after the curtain fell."
-        },
-        {
-          "text": "I haven't been to the theatre for a long time."
-        },
-        {
-          "text": "The city's first purpose-built theatre is nearing completion."
-        },
-        {
-          "text": "The pier has a unique little puppet theatre."
-        },
-        {
-          "text": "The theatre was packed for the opening night."
-        },
-        {
-          "text": "There's a bar in the theatre."
-        },
-        {
-          "text": "We were at the theatre last night."
-        }
-      ],
-      "topics": ["Buildings", "Film and theatre"],
-      "collocations": {
-        "adjective": ["large", "little", "small"],
-        "verb + theatre/​theater": ["go to", "visit", "enter"],
-        "theatre/​theater + noun": ["seat", "ticket", "design"],
-        "preposition": ["at a/​the theatre", "in a/​the theatre"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a building in which films are shown",
-      "labels": "(both North American English)British English",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They arrived at the movie theater a few minutes later."
-        },
-        {
-          "text": "I urge you to go see this film when it comes to a theater near you."
-        }
-      ],
-      "collocations": {
-        "adjective": ["large", "little", "small"],
-        "verb + theatre/​theater": ["go to", "visit", "enter"],
-        "theatre/​theater + noun": ["seat", "ticket", "design"],
-        "preposition": ["at a/​the theatre", "in a/​the theatre"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "plays considered as entertainment",
-      "labels": "(British English)(figurative)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "an evening of live music and theatre"
-        },
-        {
-          "text": "I like music, theatre and cinema."
-        },
-        {
-          "text": "current ideas about what makes good theatre *(= what makes good entertainment when performed)*"
-        },
-        {
-          "text": "We're huge fans of **musical theatre**."
-        },
-        {
-          "text": "live/street/youth theatre"
-        },
-        {
-          "text": "a theatre critic"
-        },
-        {
-          "text": "There was some good fringe theatre at the festival."
-        },
-        {
-          "text": "an hour-long theatre piece"
-        },
-        {
-          "text": "the Toronto theatre scene"
-        },
-        {
-          "text": "The Chancellor's speech was an absorbing piece of political theatre."
-        }
-      ],
-      "topics": ["Film and theatre"],
-      "collocations": {
-        "adjective": ["good", "great", "live"],
-        "… of theatre/​theater": ["piece"],
-        "verb + theatre/​theater": ["study"],
-        "theatre/​theater + noun": ["studies", "critic", "piece"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the work of writing, producing and acting in plays",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I want to work in theatre."
-        },
-        {
-          "text": "a theatre troupe/company"
-        },
-        {
-          "text": "He had never done **musical theatre** when he landed the lead role as the Phantom."
-        },
-        {
-          "text": "He was essentially a man of the theatre."
-        },
-        {
-          "text": "He wants to go into the theatre when he finishes university."
-        }
-      ],
-      "topics": ["Film and theatre"],
-      "collocations": {
-        "verb + theatre/​theater": ["be in", "work in", "go into"],
-        "theatre/​theater + noun": ["director", "impresario", "producer"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a room in a hospital used for medical operations",
-      "sensetop": "in theatre",
-      "labels": "(both British English)North American English",
-      "examples": [
-        {
-          "text": "a theatre sister *(= a nurse who helps during operations)*"
-        },
-        {
-          "text": "He's still in theatre.",
-          "contextForm": "in theatre"
-        },
-        {
-          "text": "He's already been taken to theatre for the operation."
-        }
-      ],
-      "collocations": {
-        "adjective": ["operating"],
-        "verb + theatre": ["take to"],
-        "theatre + noun": ["nurse", "sister", "staff"],
-        "preposition": ["in (the) theatre"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "the place in which a war or fighting takes place",
-      "sensetop": "theatre (of war/operations)",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "an intelligence officer in the Pacific theatre"
-        },
-        {
-          "text": "Russia replied by opening up a new theatre of war in the Balkans."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈθɪətə(r)/",
-        "audio": "th/theatre/theatre__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈθiːətər/",
-        "audio": "th/theatre/theatre__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French, or from Latin theatrum, from Greek theatron, from theasthai ‘behold’."
+	"term": "theatre",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/ci/city.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a building or an outdoor area where plays and similar types of entertainment are performed",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Broadway theatres"
+				},
+				{
+					"text": "an open-air theatre"
+				},
+				{
+					"text": "How often do you **go to the theatre**?"
+				},
+				{
+					"text": "She left the theatre a few minutes after the curtain fell."
+				},
+				{
+					"text": "I haven't been to the theatre for a long time."
+				},
+				{
+					"text": "The city's first purpose-built theatre is nearing completion."
+				},
+				{
+					"text": "The pier has a unique little puppet theatre."
+				},
+				{
+					"text": "The theatre was packed for the opening night."
+				},
+				{
+					"text": "There's a bar in the theatre."
+				},
+				{
+					"text": "We were at the theatre last night."
+				}
+			],
+			"topics": ["Buildings", "Film and theatre"],
+			"collocations": {
+				"adjective": ["large", "little", "small"],
+				"verb + theatre/​theater": ["go to", "visit", "enter"],
+				"theatre/​theater + noun": ["seat", "ticket", "design"],
+				"preposition": ["at a/​the theatre", "in a/​the theatre"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a building in which films are shown",
+			"labels": "(both North American English)British English",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They arrived at the movie theater a few minutes later."
+				},
+				{
+					"text": "I urge you to go see this film when it comes to a theater near you."
+				}
+			],
+			"collocations": {
+				"adjective": ["large", "little", "small"],
+				"verb + theatre/​theater": ["go to", "visit", "enter"],
+				"theatre/​theater + noun": ["seat", "ticket", "design"],
+				"preposition": ["at a/​the theatre", "in a/​the theatre"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "plays considered as entertainment",
+			"labels": "(British English)(figurative)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "an evening of live music and theatre"
+				},
+				{
+					"text": "I like music, theatre and cinema."
+				},
+				{
+					"text": "current ideas about what makes good theatre *(= what makes good entertainment when performed)*"
+				},
+				{
+					"text": "We're huge fans of **musical theatre**."
+				},
+				{
+					"text": "live/street/youth theatre"
+				},
+				{
+					"text": "a theatre critic"
+				},
+				{
+					"text": "There was some good fringe theatre at the festival."
+				},
+				{
+					"text": "an hour-long theatre piece"
+				},
+				{
+					"text": "the Toronto theatre scene"
+				},
+				{
+					"text": "The Chancellor's speech was an absorbing piece of political theatre."
+				}
+			],
+			"topics": ["Film and theatre"],
+			"collocations": {
+				"adjective": ["good", "great", "live"],
+				"… of theatre/​theater": ["piece"],
+				"verb + theatre/​theater": ["study"],
+				"theatre/​theater + noun": ["studies", "critic", "piece"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the work of writing, producing and acting in plays",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I want to work in theatre."
+				},
+				{
+					"text": "a theatre troupe/company"
+				},
+				{
+					"text": "He had never done **musical theatre** when he landed the lead role as the Phantom."
+				},
+				{
+					"text": "He was essentially a man of the theatre."
+				},
+				{
+					"text": "He wants to go into the theatre when he finishes university."
+				}
+			],
+			"topics": ["Film and theatre"],
+			"collocations": {
+				"verb + theatre/​theater": ["be in", "work in", "go into"],
+				"theatre/​theater + noun": ["director", "impresario", "producer"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a room in a hospital used for medical operations",
+			"sensetop": "in theatre",
+			"labels": "(both British English)North American English",
+			"examples": [
+				{
+					"text": "a theatre sister *(= a nurse who helps during operations)*"
+				},
+				{
+					"text": "He's still in theatre.",
+					"contextForm": "in theatre"
+				},
+				{
+					"text": "He's already been taken to theatre for the operation."
+				}
+			],
+			"collocations": {
+				"adjective": ["operating"],
+				"verb + theatre": ["take to"],
+				"theatre + noun": ["nurse", "sister", "staff"],
+				"preposition": ["in (the) theatre"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "the place in which a war or fighting takes place",
+			"sensetop": "theatre (of war/operations)",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "an intelligence officer in the Pacific theatre"
+				},
+				{
+					"text": "Russia replied by opening up a new theatre of war in the Balkans."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈθɪətə(r)/",
+				"audio": "th/theatre/theatre__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈθiːətər/",
+				"audio": "th/theatre/theatre__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French, or from Latin theatrum, from Greek theatron, from theasthai ‘behold’."
 }

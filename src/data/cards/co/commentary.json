@@ -1,100 +1,100 @@
 {
-  "term": "commentary",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a spoken description of an event that is given while it is happening, especially on the radio or television",
-      "sensetop": "commentary (on something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a sports commentary"
-        },
-        {
-          "text": "I was listening to the radio commentary on the game."
-        },
-        {
-          "text": "The station provided live commentary on the African Nations Cup."
-        }
-      ],
-      "topics": ["Sports: other sports", "TV, radio and news"],
-      "collocations": {
-        "adjective": ["brief", "live", "running"],
-        "verb + commentary": ["do", "give", "keep up"],
-        "commentary + noun": ["box", "track"],
-        "preposition": ["commentary on"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a written explanation or discussion of something such as a book or a play",
-      "sensetop": "commentary (on something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a critical commentary on the final speech of the play"
-        },
-        {
-          "text": "The deleted scenes have an optional commentary by the director."
-        },
-        {
-          "text": "He wrote a commentary on Paul's Letters to the Romans."
-        }
-      ],
-      "collocations": {
-        "adjective": ["detailed", "critical", "political"],
-        "verb + commentary": ["provide", "offer", "write"],
-        "preposition": ["commentary on"],
-        "phrases": ["be a sad commentary (on something)"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a criticism or discussion of something",
-      "sensetop": "commentary (on something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The petty quarrels were a sad commentary on the state of the government."
-        },
-        {
-          "text": "The movie is a biting commentary on contemporary life in a big city."
-        },
-        {
-          "text": "political commentary"
-        },
-        {
-          "text": "The novel provides a powerful social commentary on post-war Germany."
-        },
-        {
-          "text": "The film is part love story and part social commentary."
-        }
-      ],
-      "collocations": {
-        "adjective": ["detailed", "critical", "political"],
-        "verb + commentary": ["provide", "offer", "write"],
-        "preposition": ["commentary on"],
-        "phrases": ["be a sad commentary (on something)"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkɒməntri/",
-        "audio": "co/commentary/commentary__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkɑːmənteri/",
-        "audio": "co/commentary/commentary__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Latin commentarius, commentarium (adjective, used as a noun), from commentari, frequentative of comminisci ‘devise’."
+	"term": "commentary",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a spoken description of an event that is given while it is happening, especially on the radio or television",
+			"sensetop": "commentary (on something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a sports commentary"
+				},
+				{
+					"text": "I was listening to the radio commentary on the game."
+				},
+				{
+					"text": "The station provided live commentary on the African Nations Cup."
+				}
+			],
+			"topics": ["Sports: other sports", "TV, radio and news"],
+			"collocations": {
+				"adjective": ["brief", "live", "running"],
+				"verb + commentary": ["do", "give", "keep up"],
+				"commentary + noun": ["box", "track"],
+				"preposition": ["commentary on"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a written explanation or discussion of something such as a book or a play",
+			"sensetop": "commentary (on something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a critical commentary on the final speech of the play"
+				},
+				{
+					"text": "The deleted scenes have an optional commentary by the director."
+				},
+				{
+					"text": "He wrote a commentary on Paul's Letters to the Romans."
+				}
+			],
+			"collocations": {
+				"adjective": ["detailed", "critical", "political"],
+				"verb + commentary": ["provide", "offer", "write"],
+				"preposition": ["commentary on"],
+				"phrases": ["be a sad commentary (on something)"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a criticism or discussion of something",
+			"sensetop": "commentary (on something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The petty quarrels were a sad commentary on the state of the government."
+				},
+				{
+					"text": "The movie is a biting commentary on contemporary life in a big city."
+				},
+				{
+					"text": "political commentary"
+				},
+				{
+					"text": "The novel provides a powerful social commentary on post-war Germany."
+				},
+				{
+					"text": "The film is part love story and part social commentary."
+				}
+			],
+			"collocations": {
+				"adjective": ["detailed", "critical", "political"],
+				"verb + commentary": ["provide", "offer", "write"],
+				"preposition": ["commentary on"],
+				"phrases": ["be a sad commentary (on something)"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkɒməntri/",
+				"audio": "co/commentary/commentary__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkɑːmənteri/",
+				"audio": "co/commentary/commentary__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Latin commentarius, commentarium (adjective, used as a noun), from commentari, frequentative of comminisci ‘devise’."
 }

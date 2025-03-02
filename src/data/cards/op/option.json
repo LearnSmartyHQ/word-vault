@@ -1,206 +1,206 @@
 {
-  "term": "option",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "something that you can choose to have or do; the freedom to choose what you do",
-      "sensetop": "option of doing somethingoption of somethingoption to do something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "As I see it, we **have** two **options**…"
-        },
-        {
-          "text": "There are various options open to you."
-        },
-        {
-          "text": "to **explore/consider/look at** all your **options**"
-        },
-        {
-          "text": "We are currently studying all the options available."
-        },
-        {
-          "text": "Going to college was not an option for me."
-        },
-        {
-          "text": "Selling the house was our **only option**."
-        },
-        {
-          "text": "Waiting a year may be your **best option**."
-        },
-        {
-          "text": "We felt this was the most **viable option**."
-        },
-        {
-          "text": "I had **no option but to** *(= I had to)* ask him to leave."
-        },
-        {
-          "text": "Students have the option of studying abroad in their second year.",
-          "contextForm": "option of doing something"
-        },
-        {
-          "text": "He was given one month’s imprisonment without the option of a fine.",
-          "contextForm": "option of something"
-        },
-        {
-          "text": "A savings plan that gives you the option to vary your monthly payments.",
-          "contextForm": "option to do something"
-        },
-        {
-          "text": "This particular model comes with a wide range of options *(= things you can choose to have when buying something but which you will have to pay extra for)*."
-        },
-        {
-          "text": "In most cases, I would go for the cheaper option."
-        },
-        {
-          "text": "Farming is not an attractive career option for many young people."
-        },
-        {
-          "text": "The poor villagers are left with no option but to risk their lives."
-        },
-        {
-          "text": "Your doctor will discuss treatment options with you."
-        },
-        {
-          "text": "Failure is not an option."
-        },
-        {
-          "text": "Deciding on your best option is not easy."
-        },
-        {
-          "text": "Resignation was her only option."
-        },
-        {
-          "text": "You have the option of taking your holiday early."
-        },
-        {
-          "text": "You have the option of working full-time or part-time."
-        }
-      ],
-      "topics": ["Preferences and decisions"],
-      "collocations": {
-        "adjective": ["available", "possible", "viable"],
-        "verb + option": ["choose", "exercise", "select"],
-        "phrases": ["keep your options open", "leave your options open"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a subject that a student can choose to study, but that they do not have to do",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The course offers options in design and computing."
-        }
-      ],
-      "topics": ["Preferences and decisions"],
-      "collocations": {
-        "adjective": ["available", "possible", "viable"],
-        "verb + option": ["choose", "exercise", "select"],
-        "phrases": ["keep your options open", "leave your options open"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the right to buy or sell something at some time in the future",
-      "sensetop": "option on somethingoption to do something",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "share options *(= the right to buy shares in a company)*"
-        },
-        {
-          "text": "We have an option on the house.",
-          "contextForm": "option on something"
-        },
-        {
-          "text": "He has promised me first option on his car *(= the opportunity to buy it before anyone else)*."
-        },
-        {
-          "text": "The property is for rent with an option to buy at any time.",
-          "contextForm": "option to do something"
-        },
-        {
-          "text": "They **exercised an option** on their lease to buy the building."
-        },
-        {
-          "text": "She took up an option in her contract to buy three million shares."
-        }
-      ],
-      "topics": ["Money"],
-      "collocations": {
-        "adjective": ["first", "share", "stock"],
-        "verb + option": ["have", "exercise", "take"],
-        "preposition": ["option on"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "one of the choices you can make when using a computer program",
-      "labels": "(computing)",
-      "cefr": "a2",
-      "examples": [
-        {
-          "text": "Choose the ‘Cut’ option from the Edit menu."
-        },
-        {
-          "text": "Look at the on-screen menu and select the ‘File’ option."
-        }
-      ],
-      "topics": ["Computers"],
-      "collocations": {
-        "adjective": ["available", "possible", "viable"],
-        "verb + option": ["choose", "exercise", "select"],
-        "phrases": ["keep your options open", "leave your options open"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to avoid making a decision now so that you still have a choice in the future",
-      "examples": [
-        {
-          "text": "At the moment I'm keeping my options open and applying for as many different jobs as possible."
-        }
-      ],
-      "topics": ["Preferences and decisions"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "a choice that is thought to be easier because it involves less effort, difficulty, etc.",
-      "labels": "(often disapproving)",
-      "examples": [
-        {
-          "text": "They are anxious that the new course should not be seen as a soft option."
-        },
-        {
-          "text": "He decided to **take the easy option** and give them what they wanted."
-        },
-        {
-          "text": "She could have taken the easy option and left."
-        }
-      ],
-      "topics": ["Preferences and decisions"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈɒpʃn/",
-        "audio": "op/option/option__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈɑːpʃn/",
-        "audio": "op/option/option__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent.: from French, or from Latin optio(n-), from the stem of optare ‘choose’."
+	"term": "option",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "something that you can choose to have or do; the freedom to choose what you do",
+			"sensetop": "option of doing somethingoption of somethingoption to do something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "As I see it, we **have** two **options**…"
+				},
+				{
+					"text": "There are various options open to you."
+				},
+				{
+					"text": "to **explore/consider/look at** all your **options**"
+				},
+				{
+					"text": "We are currently studying all the options available."
+				},
+				{
+					"text": "Going to college was not an option for me."
+				},
+				{
+					"text": "Selling the house was our **only option**."
+				},
+				{
+					"text": "Waiting a year may be your **best option**."
+				},
+				{
+					"text": "We felt this was the most **viable option**."
+				},
+				{
+					"text": "I had **no option but to** *(= I had to)* ask him to leave."
+				},
+				{
+					"text": "Students have the option of studying abroad in their second year.",
+					"contextForm": "option of doing something"
+				},
+				{
+					"text": "He was given one month’s imprisonment without the option of a fine.",
+					"contextForm": "option of something"
+				},
+				{
+					"text": "A savings plan that gives you the option to vary your monthly payments.",
+					"contextForm": "option to do something"
+				},
+				{
+					"text": "This particular model comes with a wide range of options *(= things you can choose to have when buying something but which you will have to pay extra for)*."
+				},
+				{
+					"text": "In most cases, I would go for the cheaper option."
+				},
+				{
+					"text": "Farming is not an attractive career option for many young people."
+				},
+				{
+					"text": "The poor villagers are left with no option but to risk their lives."
+				},
+				{
+					"text": "Your doctor will discuss treatment options with you."
+				},
+				{
+					"text": "Failure is not an option."
+				},
+				{
+					"text": "Deciding on your best option is not easy."
+				},
+				{
+					"text": "Resignation was her only option."
+				},
+				{
+					"text": "You have the option of taking your holiday early."
+				},
+				{
+					"text": "You have the option of working full-time or part-time."
+				}
+			],
+			"topics": ["Preferences and decisions"],
+			"collocations": {
+				"adjective": ["available", "possible", "viable"],
+				"verb + option": ["choose", "exercise", "select"],
+				"phrases": ["keep your options open", "leave your options open"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a subject that a student can choose to study, but that they do not have to do",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The course offers options in design and computing."
+				}
+			],
+			"topics": ["Preferences and decisions"],
+			"collocations": {
+				"adjective": ["available", "possible", "viable"],
+				"verb + option": ["choose", "exercise", "select"],
+				"phrases": ["keep your options open", "leave your options open"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the right to buy or sell something at some time in the future",
+			"sensetop": "option on somethingoption to do something",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "share options *(= the right to buy shares in a company)*"
+				},
+				{
+					"text": "We have an option on the house.",
+					"contextForm": "option on something"
+				},
+				{
+					"text": "He has promised me first option on his car *(= the opportunity to buy it before anyone else)*."
+				},
+				{
+					"text": "The property is for rent with an option to buy at any time.",
+					"contextForm": "option to do something"
+				},
+				{
+					"text": "They **exercised an option** on their lease to buy the building."
+				},
+				{
+					"text": "She took up an option in her contract to buy three million shares."
+				}
+			],
+			"topics": ["Money"],
+			"collocations": {
+				"adjective": ["first", "share", "stock"],
+				"verb + option": ["have", "exercise", "take"],
+				"preposition": ["option on"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "one of the choices you can make when using a computer program",
+			"labels": "(computing)",
+			"cefr": "a2",
+			"examples": [
+				{
+					"text": "Choose the ‘Cut’ option from the Edit menu."
+				},
+				{
+					"text": "Look at the on-screen menu and select the ‘File’ option."
+				}
+			],
+			"topics": ["Computers"],
+			"collocations": {
+				"adjective": ["available", "possible", "viable"],
+				"verb + option": ["choose", "exercise", "select"],
+				"phrases": ["keep your options open", "leave your options open"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to avoid making a decision now so that you still have a choice in the future",
+			"examples": [
+				{
+					"text": "At the moment I'm keeping my options open and applying for as many different jobs as possible."
+				}
+			],
+			"topics": ["Preferences and decisions"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "a choice that is thought to be easier because it involves less effort, difficulty, etc.",
+			"labels": "(often disapproving)",
+			"examples": [
+				{
+					"text": "They are anxious that the new course should not be seen as a soft option."
+				},
+				{
+					"text": "He decided to **take the easy option** and give them what they wanted."
+				},
+				{
+					"text": "She could have taken the easy option and left."
+				}
+			],
+			"topics": ["Preferences and decisions"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈɒpʃn/",
+				"audio": "op/option/option__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈɑːpʃn/",
+				"audio": "op/option/option__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent.: from French, or from Latin optio(n-), from the stem of optare ‘choose’."
 }

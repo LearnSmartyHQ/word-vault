@@ -1,46 +1,46 @@
 {
-  "term": "sausage",
-  "partOfSpeech": "noun",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a mixture of meat, fat, bread, etc. cut into small pieces, put into a long tube of skin, cooked and eaten whole or served cold in thin slices",
-      "examples": [
-        {
-          "text": "**beef/pork sausages**"
-        },
-        {
-          "text": "200g of garlic sausage"
-        }
-      ],
-      "topics": ["Food"],
-      "collocations": {
-        "adjective": ["blood", "garlic", "pork"],
-        "verb + sausage": ["eat", "have", "cook"],
-        "sausage + verb": ["sizzle"],
-        "sausage + noun": ["meat", "skin", "link"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "nothing at all",
-      "labels": "(British English, old-fashioned, informal)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsɒsɪdʒ/",
-        "audio": "sa/sausage/sausage__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsɔːsɪdʒ/",
-        "audio": "sa/sausage/sausage__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old Northern French saussiche, from medieval Latin salsicia, from Latin salsus ‘salted’, past participle of salere ‘to salt’, from sal ‘salt’."
+	"term": "sausage",
+	"partOfSpeech": "noun",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a mixture of meat, fat, bread, etc. cut into small pieces, put into a long tube of skin, cooked and eaten whole or served cold in thin slices",
+			"examples": [
+				{
+					"text": "**beef/pork sausages**"
+				},
+				{
+					"text": "200g of garlic sausage"
+				}
+			],
+			"topics": ["Food"],
+			"collocations": {
+				"adjective": ["blood", "garlic", "pork"],
+				"verb + sausage": ["eat", "have", "cook"],
+				"sausage + verb": ["sizzle"],
+				"sausage + noun": ["meat", "skin", "link"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "nothing at all",
+			"labels": "(British English, old-fashioned, informal)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsɒsɪdʒ/",
+				"audio": "sa/sausage/sausage__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsɔːsɪdʒ/",
+				"audio": "sa/sausage/sausage__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old Northern French saussiche, from medieval Latin salsicia, from Latin salsus ‘salted’, past participle of salere ‘to salt’, from sal ‘salt’."
 }

@@ -1,65 +1,65 @@
 {
-  "term": "bicycle",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/ve/vehicles_cycles.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a road vehicle with two wheels that you ride by pushing the pedals with your feet",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He got on his bicycle and rode off."
-        },
-        {
-          "text": "We went for a **bicycle ride** on Sunday."
-        },
-        {
-          "text": "She spent the day **riding her bicycle** around the lake."
-        },
-        {
-          "text": "a bicycle helmet/wheel"
-        },
-        {
-          "text": "Did you come by bicycle?"
-        },
-        {
-          "text": "I dismounted and began to push my bicycle up the hill."
-        },
-        {
-          "text": "She came off her bicycle when it skidded on some wet leaves."
-        },
-        {
-          "text": "She pedalled her bicycle up the track."
-        }
-      ],
-      "topics": ["Transport by car or lorry", "Sports: other sports"],
-      "collocations": {
-        "verb + bicycle": ["ride", "get on", "mount"],
-        "bicycle + noun": ["ride", "rider", "chain"],
-        "preposition": ["by bicycle", "on a/​the bicycle"],
-        "phrases": [
-          "lean a bicycle against something",
-          "prop a bicycle against something"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈbaɪsɪkl/",
-        "audio": "bi/bicycle/bicycle__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈbaɪsɪkl/",
-        "audio": "bi/bicycle/bicycle__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 19th cent.: from bi- ‘two’ + Greek kuklos ‘wheel’."
+	"term": "bicycle",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/ve/vehicles_cycles.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a road vehicle with two wheels that you ride by pushing the pedals with your feet",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He got on his bicycle and rode off."
+				},
+				{
+					"text": "We went for a **bicycle ride** on Sunday."
+				},
+				{
+					"text": "She spent the day **riding her bicycle** around the lake."
+				},
+				{
+					"text": "a bicycle helmet/wheel"
+				},
+				{
+					"text": "Did you come by bicycle?"
+				},
+				{
+					"text": "I dismounted and began to push my bicycle up the hill."
+				},
+				{
+					"text": "She came off her bicycle when it skidded on some wet leaves."
+				},
+				{
+					"text": "She pedalled her bicycle up the track."
+				}
+			],
+			"topics": ["Transport by car or lorry", "Sports: other sports"],
+			"collocations": {
+				"verb + bicycle": ["ride", "get on", "mount"],
+				"bicycle + noun": ["ride", "rider", "chain"],
+				"preposition": ["by bicycle", "on a/​the bicycle"],
+				"phrases": [
+					"lean a bicycle against something",
+					"prop a bicycle against something"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈbaɪsɪkl/",
+				"audio": "bi/bicycle/bicycle__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈbaɪsɪkl/",
+				"audio": "bi/bicycle/bicycle__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 19th cent.: from bi- ‘two’ + Greek kuklos ‘wheel’."
 }

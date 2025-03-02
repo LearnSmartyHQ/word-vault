@@ -8,21 +8,21 @@ import { getAllCollections } from "./getAllCollections.js";
  * @returns Array of collection slugs where the word appears
  */
 export function searchWordInCollections(word: string): string[] | null {
-  const allCollections: ICollection[] | null = getAllCollections();
-  if (!allCollections) {
-    return null;
-  }
+	const allCollections: ICollection[] | null = getAllCollections();
+	if (!allCollections) {
+		return null;
+	}
 
-  const results: string[] = [];
-  allCollections.forEach((collection) => {
-    const found = collection.categories.some((category) =>
-      category.cards.some((lesson) => lesson.includes(word))
-    );
+	const results: string[] = [];
+	allCollections.forEach((collection) => {
+		const found = collection.categories.some((category) =>
+			category.cards.some((lesson) => lesson.includes(word)),
+		);
 
-    if (found) {
-      results.push(collection.slug);
-    }
-  });
+		if (found) {
+			results.push(collection.slug);
+		}
+	});
 
-  return results;
+	return results;
 }

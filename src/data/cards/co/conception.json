@@ -1,113 +1,113 @@
 {
-  "term": "conception",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an understanding or a belief of what something/somebody is or what something/somebody should be",
-      "sensetop": "conception of somethingconception that…",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Marx’s conception of social justice",
-          "contextForm": "conception of something"
-        },
-        {
-          "text": "He has **no conception of** how difficult life is if you're unemployed."
-        },
-        {
-          "text": "I had to reassess my conception that she was basically an honest person.",
-          "contextForm": "conception that…"
-        },
-        {
-          "text": "He has no conception of what it's like to be unemployed."
-        },
-        {
-          "text": "I had a rather romantic conception of life in the country."
-        },
-        {
-          "text": "Our conception of relationships is largely formed in early childhood."
-        },
-        {
-          "text": "Our conceptions of our own society may not always be accurate."
-        },
-        {
-          "text": "liberal conceptions of the role of the state"
-        },
-        {
-          "text": "You have no conception of what her life is like."
-        },
-        {
-          "text": "The internet challenges traditional conceptions of copyright."
-        },
-        {
-          "text": "We now have a clearer conception of the problem."
-        },
-        {
-          "text": "Saussure began developing his conception of linguistics in 1916."
-        }
-      ],
-      "collocations": {
-        "adjective": ["clear", "distinct", "broad"],
-        "verb + conception": ["have", "develop", "challenge"],
-        "preposition": ["in conception"],
-        "phrases": ["have no conception of something"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the process of forming an idea or a plan",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The plan was brilliant in its conception but failed because of lack of money."
-        }
-      ],
-      "collocations": {
-        "adjective": ["clear", "distinct", "broad"],
-        "verb + conception": ["have", "develop", "challenge"],
-        "preposition": ["in conception"],
-        "phrases": ["have no conception of something"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the process of an egg being fertilized inside a woman’s body so that she becomes pregnant",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the moment of conception"
-        },
-        {
-          "text": "A child is born about 40 weeks after conception takes place."
-        }
-      ],
-      "topics": ["Life stages"],
-      "collocations": {
-        "adjective": ["immaculate"],
-        "verb + conception": ["prevent"],
-        "conception + noun": ["probability", "rate"],
-        "preposition": ["at conception"],
-        "phrases": ["the moment of conception"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kənˈsepʃn/",
-        "audio": "xc/conception/xconception__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kənˈsepʃn/",
-        "audio": "xc/conception/xconception__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: via Old French from Latin conceptio(n-), from the verb concipere, from com- ‘together’ + capere ‘take’."
+	"term": "conception",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an understanding or a belief of what something/somebody is or what something/somebody should be",
+			"sensetop": "conception of somethingconception that…",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Marx’s conception of social justice",
+					"contextForm": "conception of something"
+				},
+				{
+					"text": "He has **no conception of** how difficult life is if you're unemployed."
+				},
+				{
+					"text": "I had to reassess my conception that she was basically an honest person.",
+					"contextForm": "conception that…"
+				},
+				{
+					"text": "He has no conception of what it's like to be unemployed."
+				},
+				{
+					"text": "I had a rather romantic conception of life in the country."
+				},
+				{
+					"text": "Our conception of relationships is largely formed in early childhood."
+				},
+				{
+					"text": "Our conceptions of our own society may not always be accurate."
+				},
+				{
+					"text": "liberal conceptions of the role of the state"
+				},
+				{
+					"text": "You have no conception of what her life is like."
+				},
+				{
+					"text": "The internet challenges traditional conceptions of copyright."
+				},
+				{
+					"text": "We now have a clearer conception of the problem."
+				},
+				{
+					"text": "Saussure began developing his conception of linguistics in 1916."
+				}
+			],
+			"collocations": {
+				"adjective": ["clear", "distinct", "broad"],
+				"verb + conception": ["have", "develop", "challenge"],
+				"preposition": ["in conception"],
+				"phrases": ["have no conception of something"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the process of forming an idea or a plan",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The plan was brilliant in its conception but failed because of lack of money."
+				}
+			],
+			"collocations": {
+				"adjective": ["clear", "distinct", "broad"],
+				"verb + conception": ["have", "develop", "challenge"],
+				"preposition": ["in conception"],
+				"phrases": ["have no conception of something"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the process of an egg being fertilized inside a woman’s body so that she becomes pregnant",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the moment of conception"
+				},
+				{
+					"text": "A child is born about 40 weeks after conception takes place."
+				}
+			],
+			"topics": ["Life stages"],
+			"collocations": {
+				"adjective": ["immaculate"],
+				"verb + conception": ["prevent"],
+				"conception + noun": ["probability", "rate"],
+				"preposition": ["at conception"],
+				"phrases": ["the moment of conception"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kənˈsepʃn/",
+				"audio": "xc/conception/xconception__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kənˈsepʃn/",
+				"audio": "xc/conception/xconception__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: via Old French from Latin conceptio(n-), from the verb concipere, from com- ‘together’ + capere ‘take’."
 }

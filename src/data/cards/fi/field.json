@@ -1,474 +1,474 @@
 {
-  "term": "field",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "image": "data/images/co/countryside.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an area of land in the country used for growing crops or keeping animals in, usually surrounded by a fence, etc.",
-      "sensetop": "in a fieldfield of something",
-      "labels": "(North American English)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "We had to walk across a ploughed field."
-        },
-        {
-          "text": "We camped in a field near the village.",
-          "contextForm": "in a field"
-        },
-        {
-          "text": "People were working in the fields."
-        },
-        {
-          "text": "We saw golden fields of wheat.",
-          "contextForm": "field of something"
-        },
-        {
-          "text": "He planted a field of beans."
-        },
-        {
-          "text": "a **rice/wheat field**"
-        },
-        {
-          "text": "The house overlooks the sugar cane fields."
-        },
-        {
-          "text": "She grew up in the countryside, playing in the woods and fields."
-        },
-        {
-          "text": "There was a big field behind our house."
-        },
-        {
-          "text": "tractors working out in the field"
-        },
-        {
-          "text": "The straw can be chopped and spread on the field."
-        },
-        {
-          "text": "The fields around the village are full of corn."
-        },
-        {
-          "text": "They went walking in the fields outside the city."
-        },
-        {
-          "text": "When I was a child this was all fields."
-        },
-        {
-          "text": "Despite the war, they continued to work the fields."
-        },
-        {
-          "text": "He planted fields full of sunflowers."
-        },
-        {
-          "text": "looking out on the green fields of Shropshire"
-        },
-        {
-          "text": "the green fields of my homeland"
-        },
-        {
-          "text": "The farmer had just ploughed the field, ready for planting the next crop."
-        },
-        {
-          "text": "This weed can cause problems in corn, soybean, and wheat fields."
-        },
-        {
-          "text": "Emerald green rice fields stretched as far as the eye could see."
-        },
-        {
-          "text": "We saw endless fields of sunflowers."
-        }
-      ],
-      "topics": ["Farming"],
-      "collocations": {
-        "adjective": ["cultivated", "ploughed/​plowed", "grass"],
-        "verb + field": ["work in", "cultivate", "work"],
-        "preposition": [
-          "across a/​the field",
-          "through a/​the field",
-          "(out) in a/​the field"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an area of land used for the purpose mentioned",
-      "examples": [
-        {
-          "text": "a landing field"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a large area of land covered with the thing mentioned; an area from which the thing mentioned is obtained",
-      "examples": [
-        {
-          "text": "The territory is covered with snow, bare rock and ice fields."
-        },
-        {
-          "text": "the discovery of the oil and gas fields in the North Sea"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "an area of land used for playing a sport on",
-      "sensetop": "on/off the field",
-      "labels": "British English also",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **football/soccer/sports field**"
-        },
-        {
-          "text": "a baseball/cricket/rugby field"
-        },
-        {
-          "text": "Every player on the field did their best today.",
-          "contextForm": "on/off the field"
-        },
-        {
-          "text": "Players need discipline both on and off the field *(= when they are playing and also in their free time)*."
-        },
-        {
-          "text": "There was huge excitement as the teams came onto the field."
-        },
-        {
-          "text": "Today they **take the field** *(= go on to the field to play a game)* against county champions Essex."
-        },
-        {
-          "text": "The area has golf courses, community gardens, and sports fields."
-        },
-        {
-          "text": "They were walking home from the sports field."
-        },
-        {
-          "text": "From the train we saw people playing at a baseball field."
-        },
-        {
-          "text": "There are soccer fields behind the school."
-        },
-        {
-          "text": "She made a name for herself on the hockey field."
-        },
-        {
-          "text": "He spends his weekends on muddy rugby fields."
-        },
-        {
-          "text": "As soon as she came on the field she made a difference."
-        },
-        {
-          "text": "She limped off the field."
-        },
-        {
-          "text": "He was booed off the field."
-        },
-        {
-          "text": "Players are only reselected if they retain their form on the field (= when they are playing a match)."
-        },
-        {
-          "text": "For Liverpool fans, it was a night to remember both on and off the field (= the match was good and so were the celebrations afterwards)."
-        },
-        {
-          "text": "She passed the ball across the field."
-        },
-        {
-          "text": "He likes to play in the middle of the field."
-        }
-      ],
-      "topics": ["Sports: ball and racket sports"],
-      "collocations": {
-        "adjective": ["playing", "sports", "football"],
-        "verb + field": ["take"],
-        "preposition": ["on a/​the field", "off the field"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "the team that is trying to catch the ball rather than hit it",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "He took the ball early and hit it through a gap in the field."
-        }
-      ],
-      "topics": ["Sports: ball and racket sports"]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "all the people or animals competing in a particular sports event",
-      "examples": [
-        {
-          "text": "The strong field includes three world record holders."
-        },
-        {
-          "text": "She managed to head the field across the finishing line of the London Marathon."
-        },
-        {
-          "text": "His superb technique puts him head and shoulders ahead of the field."
-        }
-      ],
-      "collocations": {
-        "adjective": ["strong", "crowded", "male-dominated"],
-        "verb + the field": ["dominate", "head", "lead"],
-        "the field + verb": ["include somebody"],
-        "preposition": ["ahead of the field"]
-      }
-    },
-    {
-      "senseNumber": 7,
-      "definition": "an area of land where a battle is fought",
-      "sensetop": "in the fieldon the field",
-      "examples": [
-        {
-          "text": "a medal for bravery in the field",
-          "contextForm": "in the field"
-        },
-        {
-          "text": "to die on the **field of battle**",
-          "contextForm": "on the field"
-        },
-        {
-          "text": "a field ambulance/kitchen"
-        }
-      ]
-    },
-    {
-      "senseNumber": 8,
-      "definition": "a particular subject or activity that somebody works in or is interested in",
-      "sensetop": "in a fieldin the field of somethingfield of something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Child development is such an interesting field."
-        },
-        {
-          "text": "Genetic science has developed dramatically since I **entered the field** 40 years ago."
-        },
-        {
-          "text": "All of them are **experts in their** chosen **field**.",
-          "contextForm": "in a field"
-        },
-        {
-          "text": "He was awarded a Nobel Prize for his work in this field."
-        },
-        {
-          "text": "She **works in the field** of adult education.",
-          "contextForm": "in the field of something"
-        },
-        {
-          "text": "I enjoy meeting people in other fields of business."
-        },
-        {
-          "text": "This discovery has opened up a whole new **field of study**.",
-          "contextForm": "field of something"
-        },
-        {
-          "text": "‘How big was the bomb, if it did all that damage?’ ‘I don’t know. Not my field’ *(= that is not one of the subjects I know about)*."
-        },
-        {
-          "text": "people who work in this field"
-        },
-        {
-          "text": "I work in the field of computer science."
-        },
-        {
-          "text": "She has made a huge impact in the field of literary history."
-        },
-        {
-          "text": "Computer modelling is used extensively in the field of climate science."
-        },
-        {
-          "text": "She was a pioneer in the field of digital art."
-        },
-        {
-          "text": "Researchers in the field believe this could be a major breakthrough."
-        },
-        {
-          "text": "You may use libraries or labs depending on your field of research."
-        },
-        {
-          "text": "These academics are world leaders in their respective fields."
-        },
-        {
-          "text": "I can't answer that—I'm afraid it's outside my field."
-        },
-        {
-          "text": "Etymology is not really my field, but I'll try to answer your questions."
-        },
-        {
-          "text": "There has been no solid research in this field."
-        },
-        {
-          "text": "He was equally famous in the fields of politics and of science."
-        }
-      ],
-      "synonyms": "area (4)",
-      "collocations": {
-        "adjective": ["chosen", "specialist", "specialized"],
-        "verb + field": ["work in", "open up"],
-        "preposition": [
-          "in a/​the field",
-          "outside a/​somebody’s field",
-          "field of"
-        ],
-        "phrases": [
-          "an expert in the field",
-          "a leader in the field",
-          "a field of research"
-        ]
-      }
-    },
-    {
-      "senseNumber": 9,
-      "definition": "the fact of people doing practical work or study, rather than working in a library or laboratory",
-      "sensetop": "in the field",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **field study/experiment**"
-        },
-        {
-          "text": "field recordings/observations"
-        },
-        {
-          "text": "Her findings were based on extensive field and laboratory work."
-        },
-        {
-          "text": "We then tested the questionnaire in field conditions."
-        },
-        {
-          "text": "tests carried out in the field",
-          "contextForm": "in the field"
-        },
-        {
-          "text": "In 2020, the first field trials of the vaccine were carried out."
-        },
-        {
-          "text": "In a series of field experiments, we investigated the effect on the frog population."
-        },
-        {
-          "text": "Until further field research has been conducted on these products, caution is recommended with their use."
-        },
-        {
-          "text": "field recordings of natural sounds"
-        },
-        {
-          "text": "This research finding tends to support the field observation that organizations change only when they have to."
-        },
-        {
-          "text": "Companies might use focus groups or field surveys for market research."
-        },
-        {
-          "text": "The researchers went on to conduct a three-year field and laboratory study."
-        },
-        {
-          "text": "The research-and-development unit comes up with new products and tests them in the field."
-        },
-        {
-          "text": "The device can directly measure soil erodibility in the field or laboratory."
-        }
-      ],
-      "collocations": {
-        "verb + field": ["work in"],
-        "field + noun": ["experiment", "investigation", "research"],
-        "preposition": ["in the field"]
-      }
-    },
-    {
-      "senseNumber": 10,
-      "definition": "all the people or products competing in a particular area of business",
-      "examples": [
-        {
-          "text": "They **lead the field** in home entertainment systems."
-        }
-      ],
-      "collocations": {
-        "adjective": ["strong", "crowded", "male-dominated"],
-        "verb + the field": ["dominate", "head", "lead"],
-        "the field + verb": ["include somebody"],
-        "preposition": ["ahead of the field"]
-      }
-    },
-    {
-      "senseNumber": 11,
-      "definition": "an area within which the force mentioned has an effect",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "the earth’s gravitational field"
-        },
-        {
-          "text": "an electromagnetic field"
-        },
-        {
-          "text": "Weak electric fields are emitted by all living organisms."
-        }
-      ],
-      "topics": ["Physics and chemistry"],
-      "collocations": {
-        "adjective": ["energy", "force", "electric"],
-        "field + noun": ["strength"]
-      }
-    },
-    {
-      "senseNumber": 12,
-      "definition": "part of a record that is a separate item of data",
-      "examples": [
-        {
-          "text": "You will need to create separate fields for first name, surname and address."
-        },
-        {
-          "text": "the use of keys to move between fields"
-        }
-      ],
-      "collocations": {
-        "adjective": ["data", "display", "input"],
-        "verb + field": ["create", "move between"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to enable somebody to be successful in a particular area of activity because other people or groups have given up competing with them",
-      "examples": [
-        {
-          "text": "The complete disarray of the opposition parties leaves the field clear for the government to implement urgent reforms."
-        }
-      ],
-      "topics": ["Success"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to create a situation where everyone has the same opportunities",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to have sexual relationships with a lot of different people",
-      "labels": "(informal)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/fiːld/",
-        "audio": "fi/field/field__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/fiːld/",
-        "audio": "fi/field/field__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English feld (also denoting a large tract of open country; compare with veld), of West Germanic origin; related to Dutch veld and German Feld."
+	"term": "field",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"image": "data/images/co/countryside.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an area of land in the country used for growing crops or keeping animals in, usually surrounded by a fence, etc.",
+			"sensetop": "in a fieldfield of something",
+			"labels": "(North American English)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "We had to walk across a ploughed field."
+				},
+				{
+					"text": "We camped in a field near the village.",
+					"contextForm": "in a field"
+				},
+				{
+					"text": "People were working in the fields."
+				},
+				{
+					"text": "We saw golden fields of wheat.",
+					"contextForm": "field of something"
+				},
+				{
+					"text": "He planted a field of beans."
+				},
+				{
+					"text": "a **rice/wheat field**"
+				},
+				{
+					"text": "The house overlooks the sugar cane fields."
+				},
+				{
+					"text": "She grew up in the countryside, playing in the woods and fields."
+				},
+				{
+					"text": "There was a big field behind our house."
+				},
+				{
+					"text": "tractors working out in the field"
+				},
+				{
+					"text": "The straw can be chopped and spread on the field."
+				},
+				{
+					"text": "The fields around the village are full of corn."
+				},
+				{
+					"text": "They went walking in the fields outside the city."
+				},
+				{
+					"text": "When I was a child this was all fields."
+				},
+				{
+					"text": "Despite the war, they continued to work the fields."
+				},
+				{
+					"text": "He planted fields full of sunflowers."
+				},
+				{
+					"text": "looking out on the green fields of Shropshire"
+				},
+				{
+					"text": "the green fields of my homeland"
+				},
+				{
+					"text": "The farmer had just ploughed the field, ready for planting the next crop."
+				},
+				{
+					"text": "This weed can cause problems in corn, soybean, and wheat fields."
+				},
+				{
+					"text": "Emerald green rice fields stretched as far as the eye could see."
+				},
+				{
+					"text": "We saw endless fields of sunflowers."
+				}
+			],
+			"topics": ["Farming"],
+			"collocations": {
+				"adjective": ["cultivated", "ploughed/​plowed", "grass"],
+				"verb + field": ["work in", "cultivate", "work"],
+				"preposition": [
+					"across a/​the field",
+					"through a/​the field",
+					"(out) in a/​the field"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an area of land used for the purpose mentioned",
+			"examples": [
+				{
+					"text": "a landing field"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a large area of land covered with the thing mentioned; an area from which the thing mentioned is obtained",
+			"examples": [
+				{
+					"text": "The territory is covered with snow, bare rock and ice fields."
+				},
+				{
+					"text": "the discovery of the oil and gas fields in the North Sea"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "an area of land used for playing a sport on",
+			"sensetop": "on/off the field",
+			"labels": "British English also",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **football/soccer/sports field**"
+				},
+				{
+					"text": "a baseball/cricket/rugby field"
+				},
+				{
+					"text": "Every player on the field did their best today.",
+					"contextForm": "on/off the field"
+				},
+				{
+					"text": "Players need discipline both on and off the field *(= when they are playing and also in their free time)*."
+				},
+				{
+					"text": "There was huge excitement as the teams came onto the field."
+				},
+				{
+					"text": "Today they **take the field** *(= go on to the field to play a game)* against county champions Essex."
+				},
+				{
+					"text": "The area has golf courses, community gardens, and sports fields."
+				},
+				{
+					"text": "They were walking home from the sports field."
+				},
+				{
+					"text": "From the train we saw people playing at a baseball field."
+				},
+				{
+					"text": "There are soccer fields behind the school."
+				},
+				{
+					"text": "She made a name for herself on the hockey field."
+				},
+				{
+					"text": "He spends his weekends on muddy rugby fields."
+				},
+				{
+					"text": "As soon as she came on the field she made a difference."
+				},
+				{
+					"text": "She limped off the field."
+				},
+				{
+					"text": "He was booed off the field."
+				},
+				{
+					"text": "Players are only reselected if they retain their form on the field (= when they are playing a match)."
+				},
+				{
+					"text": "For Liverpool fans, it was a night to remember both on and off the field (= the match was good and so were the celebrations afterwards)."
+				},
+				{
+					"text": "She passed the ball across the field."
+				},
+				{
+					"text": "He likes to play in the middle of the field."
+				}
+			],
+			"topics": ["Sports: ball and racket sports"],
+			"collocations": {
+				"adjective": ["playing", "sports", "football"],
+				"verb + field": ["take"],
+				"preposition": ["on a/​the field", "off the field"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "the team that is trying to catch the ball rather than hit it",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "He took the ball early and hit it through a gap in the field."
+				}
+			],
+			"topics": ["Sports: ball and racket sports"]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "all the people or animals competing in a particular sports event",
+			"examples": [
+				{
+					"text": "The strong field includes three world record holders."
+				},
+				{
+					"text": "She managed to head the field across the finishing line of the London Marathon."
+				},
+				{
+					"text": "His superb technique puts him head and shoulders ahead of the field."
+				}
+			],
+			"collocations": {
+				"adjective": ["strong", "crowded", "male-dominated"],
+				"verb + the field": ["dominate", "head", "lead"],
+				"the field + verb": ["include somebody"],
+				"preposition": ["ahead of the field"]
+			}
+		},
+		{
+			"senseNumber": 7,
+			"definition": "an area of land where a battle is fought",
+			"sensetop": "in the fieldon the field",
+			"examples": [
+				{
+					"text": "a medal for bravery in the field",
+					"contextForm": "in the field"
+				},
+				{
+					"text": "to die on the **field of battle**",
+					"contextForm": "on the field"
+				},
+				{
+					"text": "a field ambulance/kitchen"
+				}
+			]
+		},
+		{
+			"senseNumber": 8,
+			"definition": "a particular subject or activity that somebody works in or is interested in",
+			"sensetop": "in a fieldin the field of somethingfield of something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Child development is such an interesting field."
+				},
+				{
+					"text": "Genetic science has developed dramatically since I **entered the field** 40 years ago."
+				},
+				{
+					"text": "All of them are **experts in their** chosen **field**.",
+					"contextForm": "in a field"
+				},
+				{
+					"text": "He was awarded a Nobel Prize for his work in this field."
+				},
+				{
+					"text": "She **works in the field** of adult education.",
+					"contextForm": "in the field of something"
+				},
+				{
+					"text": "I enjoy meeting people in other fields of business."
+				},
+				{
+					"text": "This discovery has opened up a whole new **field of study**.",
+					"contextForm": "field of something"
+				},
+				{
+					"text": "‘How big was the bomb, if it did all that damage?’ ‘I don’t know. Not my field’ *(= that is not one of the subjects I know about)*."
+				},
+				{
+					"text": "people who work in this field"
+				},
+				{
+					"text": "I work in the field of computer science."
+				},
+				{
+					"text": "She has made a huge impact in the field of literary history."
+				},
+				{
+					"text": "Computer modelling is used extensively in the field of climate science."
+				},
+				{
+					"text": "She was a pioneer in the field of digital art."
+				},
+				{
+					"text": "Researchers in the field believe this could be a major breakthrough."
+				},
+				{
+					"text": "You may use libraries or labs depending on your field of research."
+				},
+				{
+					"text": "These academics are world leaders in their respective fields."
+				},
+				{
+					"text": "I can't answer that—I'm afraid it's outside my field."
+				},
+				{
+					"text": "Etymology is not really my field, but I'll try to answer your questions."
+				},
+				{
+					"text": "There has been no solid research in this field."
+				},
+				{
+					"text": "He was equally famous in the fields of politics and of science."
+				}
+			],
+			"synonyms": "area (4)",
+			"collocations": {
+				"adjective": ["chosen", "specialist", "specialized"],
+				"verb + field": ["work in", "open up"],
+				"preposition": [
+					"in a/​the field",
+					"outside a/​somebody’s field",
+					"field of"
+				],
+				"phrases": [
+					"an expert in the field",
+					"a leader in the field",
+					"a field of research"
+				]
+			}
+		},
+		{
+			"senseNumber": 9,
+			"definition": "the fact of people doing practical work or study, rather than working in a library or laboratory",
+			"sensetop": "in the field",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **field study/experiment**"
+				},
+				{
+					"text": "field recordings/observations"
+				},
+				{
+					"text": "Her findings were based on extensive field and laboratory work."
+				},
+				{
+					"text": "We then tested the questionnaire in field conditions."
+				},
+				{
+					"text": "tests carried out in the field",
+					"contextForm": "in the field"
+				},
+				{
+					"text": "In 2020, the first field trials of the vaccine were carried out."
+				},
+				{
+					"text": "In a series of field experiments, we investigated the effect on the frog population."
+				},
+				{
+					"text": "Until further field research has been conducted on these products, caution is recommended with their use."
+				},
+				{
+					"text": "field recordings of natural sounds"
+				},
+				{
+					"text": "This research finding tends to support the field observation that organizations change only when they have to."
+				},
+				{
+					"text": "Companies might use focus groups or field surveys for market research."
+				},
+				{
+					"text": "The researchers went on to conduct a three-year field and laboratory study."
+				},
+				{
+					"text": "The research-and-development unit comes up with new products and tests them in the field."
+				},
+				{
+					"text": "The device can directly measure soil erodibility in the field or laboratory."
+				}
+			],
+			"collocations": {
+				"verb + field": ["work in"],
+				"field + noun": ["experiment", "investigation", "research"],
+				"preposition": ["in the field"]
+			}
+		},
+		{
+			"senseNumber": 10,
+			"definition": "all the people or products competing in a particular area of business",
+			"examples": [
+				{
+					"text": "They **lead the field** in home entertainment systems."
+				}
+			],
+			"collocations": {
+				"adjective": ["strong", "crowded", "male-dominated"],
+				"verb + the field": ["dominate", "head", "lead"],
+				"the field + verb": ["include somebody"],
+				"preposition": ["ahead of the field"]
+			}
+		},
+		{
+			"senseNumber": 11,
+			"definition": "an area within which the force mentioned has an effect",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "the earth’s gravitational field"
+				},
+				{
+					"text": "an electromagnetic field"
+				},
+				{
+					"text": "Weak electric fields are emitted by all living organisms."
+				}
+			],
+			"topics": ["Physics and chemistry"],
+			"collocations": {
+				"adjective": ["energy", "force", "electric"],
+				"field + noun": ["strength"]
+			}
+		},
+		{
+			"senseNumber": 12,
+			"definition": "part of a record that is a separate item of data",
+			"examples": [
+				{
+					"text": "You will need to create separate fields for first name, surname and address."
+				},
+				{
+					"text": "the use of keys to move between fields"
+				}
+			],
+			"collocations": {
+				"adjective": ["data", "display", "input"],
+				"verb + field": ["create", "move between"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to enable somebody to be successful in a particular area of activity because other people or groups have given up competing with them",
+			"examples": [
+				{
+					"text": "The complete disarray of the opposition parties leaves the field clear for the government to implement urgent reforms."
+				}
+			],
+			"topics": ["Success"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to create a situation where everyone has the same opportunities",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to have sexual relationships with a lot of different people",
+			"labels": "(informal)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/fiːld/",
+				"audio": "fi/field/field__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/fiːld/",
+				"audio": "fi/field/field__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English feld (also denoting a large tract of open country; compare with veld), of West Germanic origin; related to Dutch veld and German Feld."
 }

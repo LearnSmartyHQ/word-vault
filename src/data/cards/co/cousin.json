@@ -1,104 +1,104 @@
 {
-  "term": "cousin",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a child of your aunt or uncle",
-      "sensetop": "cousin to somebody",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She's my cousin."
-        },
-        {
-          "text": "We're cousins."
-        },
-        {
-          "text": "This is my cousin Richard."
-        },
-        {
-          "text": "He's a **cousin once removed** *(= separated by one generation of our family)*."
-        },
-        {
-          "text": "She's a cousin of the bride."
-        },
-        {
-          "text": "He claims to be a cousin to the King.",
-          "contextForm": "cousin to somebody"
-        },
-        {
-          "text": "Completely out of the blue, she got a letter from her long-lost cousin in New York."
-        },
-        {
-          "text": "I have a new baby cousin."
-        }
-      ],
-      "topics": ["Family and relationships"],
-      "collocations": {
-        "adjective": ["first", "second", "distant"],
-        "phrases": ["cousin once, twice, etc. removed"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person who is in your wider family but who is not closely related to you",
-      "sensetop": "cousin of somebody/sb's",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She's some sort of cousin, I think."
-        },
-        {
-          "text": "He's a **distant cousin** of mine.",
-          "contextForm": "cousin of somebody/sb's"
-        }
-      ],
-      "topics": ["Family and relationships"],
-      "collocations": {
-        "adjective": ["first", "second", "distant"],
-        "phrases": ["cousin once, twice, etc. removed"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a way of describing people from another country who are similar in some way to people in your own country",
-      "examples": [
-        {
-          "text": "our American cousins"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a way of describing things that are similar or related in some way",
-      "examples": [
-        {
-          "text": "Asian elephants are smaller than their African cousins."
-        },
-        {
-          "text": "These pigs are close cousins of the wild hog."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkʌzn/",
-        "audio": "co/cousin/cousin__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkʌzn/",
-        "audio": "co/cousin/cousin__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French cosin, from Latin consobrinus ‘mother's sister's child’, from con- ‘with’ + sobrinus ‘second cousin’ (from soror ‘sister’)."
+	"term": "cousin",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a child of your aunt or uncle",
+			"sensetop": "cousin to somebody",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She's my cousin."
+				},
+				{
+					"text": "We're cousins."
+				},
+				{
+					"text": "This is my cousin Richard."
+				},
+				{
+					"text": "He's a **cousin once removed** *(= separated by one generation of our family)*."
+				},
+				{
+					"text": "She's a cousin of the bride."
+				},
+				{
+					"text": "He claims to be a cousin to the King.",
+					"contextForm": "cousin to somebody"
+				},
+				{
+					"text": "Completely out of the blue, she got a letter from her long-lost cousin in New York."
+				},
+				{
+					"text": "I have a new baby cousin."
+				}
+			],
+			"topics": ["Family and relationships"],
+			"collocations": {
+				"adjective": ["first", "second", "distant"],
+				"phrases": ["cousin once, twice, etc. removed"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person who is in your wider family but who is not closely related to you",
+			"sensetop": "cousin of somebody/sb's",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She's some sort of cousin, I think."
+				},
+				{
+					"text": "He's a **distant cousin** of mine.",
+					"contextForm": "cousin of somebody/sb's"
+				}
+			],
+			"topics": ["Family and relationships"],
+			"collocations": {
+				"adjective": ["first", "second", "distant"],
+				"phrases": ["cousin once, twice, etc. removed"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a way of describing people from another country who are similar in some way to people in your own country",
+			"examples": [
+				{
+					"text": "our American cousins"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a way of describing things that are similar or related in some way",
+			"examples": [
+				{
+					"text": "Asian elephants are smaller than their African cousins."
+				},
+				{
+					"text": "These pigs are close cousins of the wild hog."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkʌzn/",
+				"audio": "co/cousin/cousin__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkʌzn/",
+				"audio": "co/cousin/cousin__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French cosin, from Latin consobrinus ‘mother's sister's child’, from con- ‘with’ + sobrinus ‘second cousin’ (from soror ‘sister’)."
 }

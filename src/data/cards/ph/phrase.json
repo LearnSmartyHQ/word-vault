@@ -1,112 +1,112 @@
 {
-  "term": "phrase",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a group of words that have a particular meaning when used together",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a memorable/catchy phrase"
-        },
-        {
-          "text": "‘Start slowly’ is the key phrase for the first-time marathon runner."
-        },
-        {
-          "text": "She was, in her own favourite phrase, ‘a woman without a past’."
-        },
-        {
-          "text": "colourful words and phrases"
-        },
-        {
-          "text": "He just comes out with the same old stock phrases."
-        },
-        {
-          "text": "Her unfortunate choice of phrase offended most of the audience."
-        },
-        {
-          "text": "In 1998, he trademarked the phrase ‘Freedom of Expression’."
-        }
-      ],
-      "collocations": {
-        "adjective": ["colloquial", "idiomatic", "key"],
-        "verb + phrase": ["employ", "turn", "use"],
-        "phrase + noun": ["book"],
-        "preposition": ["in a/​the phrase"],
-        "phrases": ["a choice of phrase", "a turn of phrase"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a small group of words (usually without a finite verb) that together have a particular meaning and that typically form part of a sentence. ‘the green car’ and ‘on Friday morning’ are phrases.",
-      "labels": "(grammar)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a two-word phrase"
-        }
-      ],
-      "topics": ["Language"],
-      "collocations": {
-        "adjective": ["colloquial", "idiomatic", "key"],
-        "verb + phrase": ["employ", "turn", "use"],
-        "phrase + noun": ["book"],
-        "preposition": ["in a/​the phrase"],
-        "phrases": ["a choice of phrase", "a turn of phrase"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a short series of notes that form a unit within a longer passage in a piece of music",
-      "labels": "(music)",
-      "examples": []
-    },
-    {
-      "senseNumber": 1,
-      "definition": "used to introduce a well-known expression that you have changed slightly in order to be funny",
-      "examples": [
-        {
-          "text": "Tasting is believing, to coin a phrase! *(= the usual phrase is ‘seeing is believing’)*."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "used to show that you are aware that you are using an expression that is not new",
-      "examples": [
-        {
-          "text": "Oh well, no news is good news, to coin a phrase."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "a particular way of describing something",
-      "examples": [
-        {
-          "text": "He is meticulous in his choice of words and turns of phrase."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/freɪz/",
-        "audio": "ph/phrase/phrase__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/freɪz/",
-        "audio": "ph/phrase/phrase__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent. (in the sense ‘style or manner of expression’): via late Latin from Greek phrasis, from phrazein ‘declare, tell’."
+	"term": "phrase",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a group of words that have a particular meaning when used together",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a memorable/catchy phrase"
+				},
+				{
+					"text": "‘Start slowly’ is the key phrase for the first-time marathon runner."
+				},
+				{
+					"text": "She was, in her own favourite phrase, ‘a woman without a past’."
+				},
+				{
+					"text": "colourful words and phrases"
+				},
+				{
+					"text": "He just comes out with the same old stock phrases."
+				},
+				{
+					"text": "Her unfortunate choice of phrase offended most of the audience."
+				},
+				{
+					"text": "In 1998, he trademarked the phrase ‘Freedom of Expression’."
+				}
+			],
+			"collocations": {
+				"adjective": ["colloquial", "idiomatic", "key"],
+				"verb + phrase": ["employ", "turn", "use"],
+				"phrase + noun": ["book"],
+				"preposition": ["in a/​the phrase"],
+				"phrases": ["a choice of phrase", "a turn of phrase"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a small group of words (usually without a finite verb) that together have a particular meaning and that typically form part of a sentence. ‘the green car’ and ‘on Friday morning’ are phrases.",
+			"labels": "(grammar)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a two-word phrase"
+				}
+			],
+			"topics": ["Language"],
+			"collocations": {
+				"adjective": ["colloquial", "idiomatic", "key"],
+				"verb + phrase": ["employ", "turn", "use"],
+				"phrase + noun": ["book"],
+				"preposition": ["in a/​the phrase"],
+				"phrases": ["a choice of phrase", "a turn of phrase"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a short series of notes that form a unit within a longer passage in a piece of music",
+			"labels": "(music)",
+			"examples": []
+		},
+		{
+			"senseNumber": 1,
+			"definition": "used to introduce a well-known expression that you have changed slightly in order to be funny",
+			"examples": [
+				{
+					"text": "Tasting is believing, to coin a phrase! *(= the usual phrase is ‘seeing is believing’)*."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "used to show that you are aware that you are using an expression that is not new",
+			"examples": [
+				{
+					"text": "Oh well, no news is good news, to coin a phrase."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "a particular way of describing something",
+			"examples": [
+				{
+					"text": "He is meticulous in his choice of words and turns of phrase."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/freɪz/",
+				"audio": "ph/phrase/phrase__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/freɪz/",
+				"audio": "ph/phrase/phrase__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent. (in the sense ‘style or manner of expression’): via late Latin from Greek phrasis, from phrazein ‘declare, tell’."
 }

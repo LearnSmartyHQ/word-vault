@@ -1,83 +1,83 @@
 {
-  "term": "veteran",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person who has a lot of experience in a particular area or activity",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the veteran American actor, Clint Eastwood"
-        },
-        {
-          "text": "The speech was given by the veteran British actor and producer, Sir Richard Attenborough."
-        },
-        {
-          "text": "He's a seasoned veteran of the political establishment."
-        },
-        {
-          "text": "He's the seasoned veteran, who has taken the children to the museum many times."
-        },
-        {
-          "text": "a veteran of numerous political campaigns"
-        },
-        {
-          "text": "an eight-year veteran of the New York Yankees"
-        }
-      ],
-      "collocations": {
-        "adjective": ["battle-scarred", "grizzled", "long-time"],
-        "veteran + noun": ["campaigner", "leader", "politician"],
-        "preposition": ["veteran of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person who has been a soldier, sailor, etc. in a war",
-      "labels": "also North American English, informal",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "war veterans"
-        },
-        {
-          "text": "a veteran of the Spanish Civil War"
-        },
-        {
-          "text": "Veterans returned to heroes' welcomes."
-        },
-        {
-          "text": "Were veterans honoured and adequately rewarded for their sacrifice?"
-        },
-        {
-          "text": "veterans who served in Vietnam"
-        }
-      ],
-      "topics": ["War and conflict"],
-      "collocations": {
-        "adjective": ["combat", "war", "army"],
-        "verb + veteran": ["honour/​honor"],
-        "veteran + verb": ["fight", "serve", "return"],
-        "preposition": ["veteran of"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈvetərən/",
-        "audio": "ve/veteran/veteran__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈvetərən/",
-        "audio": "ve/veteran/veteran__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 16th cent.: from French vétéran or Latin veteranus, from vetus ‘old’."
+	"term": "veteran",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person who has a lot of experience in a particular area or activity",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the veteran American actor, Clint Eastwood"
+				},
+				{
+					"text": "The speech was given by the veteran British actor and producer, Sir Richard Attenborough."
+				},
+				{
+					"text": "He's a seasoned veteran of the political establishment."
+				},
+				{
+					"text": "He's the seasoned veteran, who has taken the children to the museum many times."
+				},
+				{
+					"text": "a veteran of numerous political campaigns"
+				},
+				{
+					"text": "an eight-year veteran of the New York Yankees"
+				}
+			],
+			"collocations": {
+				"adjective": ["battle-scarred", "grizzled", "long-time"],
+				"veteran + noun": ["campaigner", "leader", "politician"],
+				"preposition": ["veteran of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person who has been a soldier, sailor, etc. in a war",
+			"labels": "also North American English, informal",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "war veterans"
+				},
+				{
+					"text": "a veteran of the Spanish Civil War"
+				},
+				{
+					"text": "Veterans returned to heroes' welcomes."
+				},
+				{
+					"text": "Were veterans honoured and adequately rewarded for their sacrifice?"
+				},
+				{
+					"text": "veterans who served in Vietnam"
+				}
+			],
+			"topics": ["War and conflict"],
+			"collocations": {
+				"adjective": ["combat", "war", "army"],
+				"verb + veteran": ["honour/​honor"],
+				"veteran + verb": ["fight", "serve", "return"],
+				"preposition": ["veteran of"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈvetərən/",
+				"audio": "ve/veteran/veteran__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈvetərən/",
+				"audio": "ve/veteran/veteran__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 16th cent.: from French vétéran or Latin veteranus, from vetus ‘old’."
 }

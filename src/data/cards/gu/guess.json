@@ -1,288 +1,288 @@
 {
-  "term": "guess",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "guess",
-      "heSheIt": "guesses"
-    },
-    "pastSimple": "guessed",
-    "pastParticiple": "guessed",
-    "ingForm": "guessing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to try and give an answer or make a judgement about something without being sure of all the facts",
-      "sensetop": "guess at somethingguess + adv.guess (that)…guess where, who, etc…guess something",
-      "labels": "(British English)(North American English)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I don't really know. I'm just guessing."
-        },
-        {
-          "text": "We can only guess at her reasons for leaving.",
-          "contextForm": "guess at something"
-        },
-        {
-          "text": "He **guessed right/wrong**.",
-          "contextForm": "guess + adv."
-        },
-        {
-          "text": "I'd guess that she's about 30.",
-          "contextForm": "guess (that)…"
-        },
-        {
-          "text": "Can you guess where I've been?",
-          "contextForm": "guess where, who, etc…"
-        },
-        {
-          "text": "Can you guess his age?",
-          "contextForm": "guess something"
-        },
-        {
-          "text": "I was only guessing at her age."
-        },
-        {
-          "text": "If you think I'm lying, well guess again."
-        },
-        {
-          "text": "That's not the answer. Guess again."
-        },
-        {
-          "text": "We can only guess how fast a dinosaur might have run."
-        },
-        {
-          "text": "What star sign are you? No, let me guess."
-        },
-        {
-          "text": "We can't begin to guess his reasons."
-        },
-        {
-          "text": "What did you get her for Christmas? Let me guess."
-        },
-        {
-          "text": "How old do you think I am? Go on, guess!"
-        }
-      ],
-      "topics": ["Opinion and argument", "Doubt, guessing and certainty"],
-      "collocations": {
-        "adverb": ["correctly", "right", "incorrectly"],
-        "verb + guess": ["can", "can only", "try to"],
-        "preposition": ["at", "from"],
-        "phrases": [
-          "could have guessed",
-          "might have guessed",
-          "should have guessed"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to find the right answer to a question or the truth without knowing all the facts",
-      "sensetop": "guess somethingguess what, where, etc…guess (that)…",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She guessed the answer straight away.",
-          "contextForm": "guess something"
-        },
-        {
-          "text": "**You'll never guess** what she told me.",
-          "contextForm": "guess what, where, etc…"
-        },
-        {
-          "text": "You would never guess (that) she had problems. She’s always so cheerful.",
-          "contextForm": "guess (that)…"
-        },
-        {
-          "text": "So it was Rob who broke the window? **I might have guessed!**"
-        },
-        {
-          "text": "**If I had to guess**, I'd say she was the one responsible for this."
-        },
-        {
-          "text": "If you haven't already guessed, I'm going out with Steve."
-        },
-        {
-          "text": "It's not hard to guess where they went."
-        },
-        {
-          "text": "Jane had guessed wrong about who was responsible for the fire."
-        },
-        {
-          "text": "She guessed from his expression that he had not won."
-        },
-        {
-          "text": "You'll never guess who I saw yesterday!"
-        },
-        {
-          "text": "an easily guessed password"
-        },
-        {
-          "text": "I guessed from John's expression that something was badly wrong."
-        },
-        {
-          "text": "I guessed, rightly, that the keys would be under the doormat."
-        },
-        {
-          "text": "If you can guess my age, I'll buy you a drink!"
-        },
-        {
-          "text": "It's not hard to guess who he's gone to see."
-        },
-        {
-          "text": "You'll never guess where they've gone."
-        },
-        {
-          "text": "You can probably guess how she reacted!"
-        },
-        {
-          "text": "It's impossible to guess what they might have been feeling."
-        }
-      ],
-      "collocations": {
-        "adverb": ["correctly", "right", "incorrectly"],
-        "verb + guess": ["can", "can only", "try to"],
-        "preposition": ["at", "from"],
-        "phrases": [
-          "could have guessed",
-          "might have guessed",
-          "should have guessed"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "used to show that you are going to say something surprising or exciting",
-      "sensetop": "guess what, who, etc…",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Guess what! He's asked me out!"
-        },
-        {
-          "text": "Guess who I've just seen!"
-        },
-        {
-          "text": "Guess how long it took me to get here."
-        },
-        {
-          "text": "Guess who's here!"
-        }
-      ],
-      "collocations": {
-        "adverb": ["correctly", "right", "incorrectly"],
-        "verb + guess": ["can", "can only", "try to"],
-        "preposition": ["at", "from"],
-        "phrases": [
-          "could have guessed",
-          "might have guessed",
-          "should have guessed"
-        ]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to suppose that something is true or likely",
-      "sensetop": "guess (that)…",
-      "labels": "(informal)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I guess (that) you’ll be looking for a new job now."
-        },
-        {
-          "text": "I guess I'm just lucky."
-        },
-        {
-          "text": "He didn't see me, I guess."
-        },
-        {
-          "text": "‘Are you ready to go?’ ‘Yeah, **I guess so**.’"
-        },
-        {
-          "text": "‘They aren't coming, then?’ ‘**I guess not**.’"
-        },
-        {
-          "text": "‘Do you really love her?’ ‘I guess so.’"
-        },
-        {
-          "text": "‘Are you coming with us?’ ‘I guess so.’"
-        },
-        {
-          "text": "‘Can I have another cookie?’ ‘I guess so, but that's the last one.’"
-        },
-        {
-          "text": "I guess you're mad at me."
-        }
-      ],
-      "collocations": {
-        "adverb": ["correctly", "right", "incorrectly"],
-        "verb + guess": ["can", "can only", "try to"],
-        "preposition": ["at", "from"],
-        "phrases": [
-          "could have guessed",
-          "might have guessed",
-          "should have guessed"
-        ]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to not tell somebody about your plans or what is going to happen next",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "It's the kind of book that keeps you guessing right to the end."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɡes/",
-        "audio": "gu/guess/guess__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈɡesɪz/",
-        "audio": "gu/guess/guesses__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɡest/",
-        "audio": "gu/guess/guessed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɡesɪŋ/",
-        "audio": "gu/guess/guessing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɡes/",
-        "audio": "gu/guess/guess__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɡesɪz/",
-        "audio": "gu/guess/guesses__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɡest/",
-        "audio": "gu/guess/guessed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɡesɪŋ/",
-        "audio": "gu/guess/guessing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: origin uncertain; perhaps from Dutch gissen, and probably related to get."
+	"term": "guess",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "guess",
+			"heSheIt": "guesses"
+		},
+		"pastSimple": "guessed",
+		"pastParticiple": "guessed",
+		"ingForm": "guessing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to try and give an answer or make a judgement about something without being sure of all the facts",
+			"sensetop": "guess at somethingguess + adv.guess (that)…guess where, who, etc…guess something",
+			"labels": "(British English)(North American English)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I don't really know. I'm just guessing."
+				},
+				{
+					"text": "We can only guess at her reasons for leaving.",
+					"contextForm": "guess at something"
+				},
+				{
+					"text": "He **guessed right/wrong**.",
+					"contextForm": "guess + adv."
+				},
+				{
+					"text": "I'd guess that she's about 30.",
+					"contextForm": "guess (that)…"
+				},
+				{
+					"text": "Can you guess where I've been?",
+					"contextForm": "guess where, who, etc…"
+				},
+				{
+					"text": "Can you guess his age?",
+					"contextForm": "guess something"
+				},
+				{
+					"text": "I was only guessing at her age."
+				},
+				{
+					"text": "If you think I'm lying, well guess again."
+				},
+				{
+					"text": "That's not the answer. Guess again."
+				},
+				{
+					"text": "We can only guess how fast a dinosaur might have run."
+				},
+				{
+					"text": "What star sign are you? No, let me guess."
+				},
+				{
+					"text": "We can't begin to guess his reasons."
+				},
+				{
+					"text": "What did you get her for Christmas? Let me guess."
+				},
+				{
+					"text": "How old do you think I am? Go on, guess!"
+				}
+			],
+			"topics": ["Opinion and argument", "Doubt, guessing and certainty"],
+			"collocations": {
+				"adverb": ["correctly", "right", "incorrectly"],
+				"verb + guess": ["can", "can only", "try to"],
+				"preposition": ["at", "from"],
+				"phrases": [
+					"could have guessed",
+					"might have guessed",
+					"should have guessed"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to find the right answer to a question or the truth without knowing all the facts",
+			"sensetop": "guess somethingguess what, where, etc…guess (that)…",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She guessed the answer straight away.",
+					"contextForm": "guess something"
+				},
+				{
+					"text": "**You'll never guess** what she told me.",
+					"contextForm": "guess what, where, etc…"
+				},
+				{
+					"text": "You would never guess (that) she had problems. She’s always so cheerful.",
+					"contextForm": "guess (that)…"
+				},
+				{
+					"text": "So it was Rob who broke the window? **I might have guessed!**"
+				},
+				{
+					"text": "**If I had to guess**, I'd say she was the one responsible for this."
+				},
+				{
+					"text": "If you haven't already guessed, I'm going out with Steve."
+				},
+				{
+					"text": "It's not hard to guess where they went."
+				},
+				{
+					"text": "Jane had guessed wrong about who was responsible for the fire."
+				},
+				{
+					"text": "She guessed from his expression that he had not won."
+				},
+				{
+					"text": "You'll never guess who I saw yesterday!"
+				},
+				{
+					"text": "an easily guessed password"
+				},
+				{
+					"text": "I guessed from John's expression that something was badly wrong."
+				},
+				{
+					"text": "I guessed, rightly, that the keys would be under the doormat."
+				},
+				{
+					"text": "If you can guess my age, I'll buy you a drink!"
+				},
+				{
+					"text": "It's not hard to guess who he's gone to see."
+				},
+				{
+					"text": "You'll never guess where they've gone."
+				},
+				{
+					"text": "You can probably guess how she reacted!"
+				},
+				{
+					"text": "It's impossible to guess what they might have been feeling."
+				}
+			],
+			"collocations": {
+				"adverb": ["correctly", "right", "incorrectly"],
+				"verb + guess": ["can", "can only", "try to"],
+				"preposition": ["at", "from"],
+				"phrases": [
+					"could have guessed",
+					"might have guessed",
+					"should have guessed"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "used to show that you are going to say something surprising or exciting",
+			"sensetop": "guess what, who, etc…",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Guess what! He's asked me out!"
+				},
+				{
+					"text": "Guess who I've just seen!"
+				},
+				{
+					"text": "Guess how long it took me to get here."
+				},
+				{
+					"text": "Guess who's here!"
+				}
+			],
+			"collocations": {
+				"adverb": ["correctly", "right", "incorrectly"],
+				"verb + guess": ["can", "can only", "try to"],
+				"preposition": ["at", "from"],
+				"phrases": [
+					"could have guessed",
+					"might have guessed",
+					"should have guessed"
+				]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to suppose that something is true or likely",
+			"sensetop": "guess (that)…",
+			"labels": "(informal)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I guess (that) you’ll be looking for a new job now."
+				},
+				{
+					"text": "I guess I'm just lucky."
+				},
+				{
+					"text": "He didn't see me, I guess."
+				},
+				{
+					"text": "‘Are you ready to go?’ ‘Yeah, **I guess so**.’"
+				},
+				{
+					"text": "‘They aren't coming, then?’ ‘**I guess not**.’"
+				},
+				{
+					"text": "‘Do you really love her?’ ‘I guess so.’"
+				},
+				{
+					"text": "‘Are you coming with us?’ ‘I guess so.’"
+				},
+				{
+					"text": "‘Can I have another cookie?’ ‘I guess so, but that's the last one.’"
+				},
+				{
+					"text": "I guess you're mad at me."
+				}
+			],
+			"collocations": {
+				"adverb": ["correctly", "right", "incorrectly"],
+				"verb + guess": ["can", "can only", "try to"],
+				"preposition": ["at", "from"],
+				"phrases": [
+					"could have guessed",
+					"might have guessed",
+					"should have guessed"
+				]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to not tell somebody about your plans or what is going to happen next",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "It's the kind of book that keeps you guessing right to the end."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɡes/",
+				"audio": "gu/guess/guess__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈɡesɪz/",
+				"audio": "gu/guess/guesses__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɡest/",
+				"audio": "gu/guess/guessed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɡesɪŋ/",
+				"audio": "gu/guess/guessing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɡes/",
+				"audio": "gu/guess/guess__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɡesɪz/",
+				"audio": "gu/guess/guesses__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɡest/",
+				"audio": "gu/guess/guessed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɡesɪŋ/",
+				"audio": "gu/guess/guessing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: origin uncertain; perhaps from Dutch gissen, and probably related to get."
 }

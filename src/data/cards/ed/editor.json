@@ -1,132 +1,132 @@
 {
-  "term": "editor",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person who is in charge of a newspaper, magazine, etc., or part of one, and who decides what should be included",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "the editor of the Washington Post"
-        },
-        {
-          "text": "a newspaper/magazine editor"
-        },
-        {
-          "text": "the sports/financial/fashion editor"
-        },
-        {
-          "text": "a contributing/deputy editor"
-        },
-        {
-          "text": "I got a job as a web editor on the local paper."
-        },
-        {
-          "text": "She was associate editor at the magazine."
-        },
-        {
-          "text": "He is a former editor of the journal."
-        },
-        {
-          "text": "On page 12, our City editor comments on the takeover bid."
-        },
-        {
-          "text": "Russell did a terrific job as book review editor."
-        },
-        {
-          "text": "She's the editor of a national magazine."
-        }
-      ],
-      "topics": ["Literature and writing", "TV, radio and news", "Jobs"],
-      "collocations": {
-        "adjective": ["chief", "executive", "managing"],
-        "phrases": ["a letter to the editor"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person who prepares a book or other written material to be published, for example by checking and correcting the text, making improvements, etc.",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Jenny Cook is a freelance writer and editor based in New York."
-        },
-        {
-          "text": "He finally got a position as an assistant editor at a small publishing house."
-        }
-      ],
-      "topics": ["Jobs"],
-      "collocations": {
-        "adjective": ["general", "assistant", "senior"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a person who prepares a film, radio or television programme for being shown or broadcast by deciding what to include, and what order it should be in",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Kazan hired him as cameraman, editor and producer for ‘The Visitors’ (1972)."
-        }
-      ],
-      "topics": ["Film and theatre", "TV, radio and news", "Jobs"],
-      "collocations": {
-        "adjective": ["general", "assistant", "senior"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a person who works as a journalist for radio or television reporting on a particular area of news",
-      "cefr": "b1",
-      "examples": [
-        {
-          "text": "our economics editor"
-        }
-      ],
-      "topics": ["TV, radio and news", "Jobs"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a person who chooses texts written by one or by several writers and prepares them to be published in a book",
-      "examples": [
-        {
-          "text": "She's the editor of a new collection of ghost stories."
-        }
-      ],
-      "collocations": {
-        "adjective": ["general", "assistant", "senior"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "a program that allows you to change stored text or data",
-      "labels": "(computing)",
-      "examples": [
-        {
-          "text": "There are hundreds of different web editors on the market."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈedɪtə(r)/",
-        "audio": "ed/editor/editor__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈedɪtər/",
-        "audio": "ed/editor/editor__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 17th cent.: from Latin, ‘producer (of games), publisher’, from edit- ‘produced, put out’, from the verb edere."
+	"term": "editor",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person who is in charge of a newspaper, magazine, etc., or part of one, and who decides what should be included",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "the editor of the Washington Post"
+				},
+				{
+					"text": "a newspaper/magazine editor"
+				},
+				{
+					"text": "the sports/financial/fashion editor"
+				},
+				{
+					"text": "a contributing/deputy editor"
+				},
+				{
+					"text": "I got a job as a web editor on the local paper."
+				},
+				{
+					"text": "She was associate editor at the magazine."
+				},
+				{
+					"text": "He is a former editor of the journal."
+				},
+				{
+					"text": "On page 12, our City editor comments on the takeover bid."
+				},
+				{
+					"text": "Russell did a terrific job as book review editor."
+				},
+				{
+					"text": "She's the editor of a national magazine."
+				}
+			],
+			"topics": ["Literature and writing", "TV, radio and news", "Jobs"],
+			"collocations": {
+				"adjective": ["chief", "executive", "managing"],
+				"phrases": ["a letter to the editor"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person who prepares a book or other written material to be published, for example by checking and correcting the text, making improvements, etc.",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Jenny Cook is a freelance writer and editor based in New York."
+				},
+				{
+					"text": "He finally got a position as an assistant editor at a small publishing house."
+				}
+			],
+			"topics": ["Jobs"],
+			"collocations": {
+				"adjective": ["general", "assistant", "senior"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a person who prepares a film, radio or television programme for being shown or broadcast by deciding what to include, and what order it should be in",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Kazan hired him as cameraman, editor and producer for ‘The Visitors’ (1972)."
+				}
+			],
+			"topics": ["Film and theatre", "TV, radio and news", "Jobs"],
+			"collocations": {
+				"adjective": ["general", "assistant", "senior"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a person who works as a journalist for radio or television reporting on a particular area of news",
+			"cefr": "b1",
+			"examples": [
+				{
+					"text": "our economics editor"
+				}
+			],
+			"topics": ["TV, radio and news", "Jobs"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a person who chooses texts written by one or by several writers and prepares them to be published in a book",
+			"examples": [
+				{
+					"text": "She's the editor of a new collection of ghost stories."
+				}
+			],
+			"collocations": {
+				"adjective": ["general", "assistant", "senior"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "a program that allows you to change stored text or data",
+			"labels": "(computing)",
+			"examples": [
+				{
+					"text": "There are hundreds of different web editors on the market."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈedɪtə(r)/",
+				"audio": "ed/editor/editor__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈedɪtər/",
+				"audio": "ed/editor/editor__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 17th cent.: from Latin, ‘producer (of games), publisher’, from edit- ‘produced, put out’, from the verb edere."
 }

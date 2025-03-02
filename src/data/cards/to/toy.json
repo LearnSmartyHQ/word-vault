@@ -1,80 +1,80 @@
 {
-  "term": "toy",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "image": "data/images/to/toys.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an object for children to play with",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**cuddly/stuffed toys**"
-        },
-        {
-          "text": "The children were playing happily with their toys."
-        },
-        {
-          "text": "a toy shop/store"
-        },
-        {
-          "text": "She's an entrepreneur and a designer of children's toys."
-        },
-        {
-          "text": "All kinds of toys can be borrowed from the toy library."
-        },
-        {
-          "text": "Freddie kept snatching toys from the other children."
-        }
-      ],
-      "topics": ["Games and toys", "Shopping"],
-      "collocations": {
-        "adjective": ["cuddly", "fluffy", "plush"],
-        "verb + toy": ["play with", "grab", "snatch"],
-        "toy + noun": ["department", "library", "shop"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an object that you have for fun or pleasure rather than for a serious purpose",
-      "examples": [
-        {
-          "text": "executive toys"
-        },
-        {
-          "text": "My latest toy is this espresso coffee maker."
-        },
-        {
-          "text": "He loved buying cars and expensive toys."
-        },
-        {
-          "text": "We realize that people love shiny new toys and the latest tech gear."
-        }
-      ],
-      "synonyms": "plaything",
-      "collocations": {
-        "adjective": ["cuddly", "fluffy", "plush"],
-        "verb + toy": ["play with", "grab", "snatch"],
-        "toy + noun": ["department", "library", "shop"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/tɔɪ/",
-        "audio": "to/toy/toy__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/tɔɪ/",
-        "audio": "to/toy/toy__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: of unknown origin. The word originally denoted a funny story or remark, later an antic or trick, or a frivolous entertainment. The verb dates from the early 16th cent."
+	"term": "toy",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"image": "data/images/to/toys.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an object for children to play with",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**cuddly/stuffed toys**"
+				},
+				{
+					"text": "The children were playing happily with their toys."
+				},
+				{
+					"text": "a toy shop/store"
+				},
+				{
+					"text": "She's an entrepreneur and a designer of children's toys."
+				},
+				{
+					"text": "All kinds of toys can be borrowed from the toy library."
+				},
+				{
+					"text": "Freddie kept snatching toys from the other children."
+				}
+			],
+			"topics": ["Games and toys", "Shopping"],
+			"collocations": {
+				"adjective": ["cuddly", "fluffy", "plush"],
+				"verb + toy": ["play with", "grab", "snatch"],
+				"toy + noun": ["department", "library", "shop"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an object that you have for fun or pleasure rather than for a serious purpose",
+			"examples": [
+				{
+					"text": "executive toys"
+				},
+				{
+					"text": "My latest toy is this espresso coffee maker."
+				},
+				{
+					"text": "He loved buying cars and expensive toys."
+				},
+				{
+					"text": "We realize that people love shiny new toys and the latest tech gear."
+				}
+			],
+			"synonyms": "plaything",
+			"collocations": {
+				"adjective": ["cuddly", "fluffy", "plush"],
+				"verb + toy": ["play with", "grab", "snatch"],
+				"toy + noun": ["department", "library", "shop"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/tɔɪ/",
+				"audio": "to/toy/toy__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/tɔɪ/",
+				"audio": "to/toy/toy__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: of unknown origin. The word originally denoted a funny story or remark, later an antic or trick, or a frivolous entertainment. The verb dates from the early 16th cent."
 }

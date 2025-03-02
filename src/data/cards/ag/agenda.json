@@ -1,129 +1,129 @@
 {
-  "term": "agenda",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a list of items to be discussed at a meeting",
-      "sensetop": "on the agenda",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "We have a very full agenda of issues to discuss."
-        },
-        {
-          "text": "The next item on the agenda is the publicity budget.",
-          "contextForm": "on the agenda"
-        },
-        {
-          "text": "A copy of the agenda is circulated to delegates a month before the conference."
-        },
-        {
-          "text": "An 18-point agenda was drawn up for the meeting."
-        },
-        {
-          "text": "Safety at work is on the agenda for next month's meeting."
-        },
-        {
-          "text": "The question of pay had been left off the agenda."
-        }
-      ],
-      "topics": ["Working life"],
-      "collocations": {
-        "adjective": ["five-point", "etc.", "hidden"],
-        "verb + agenda": ["have", "agree on", "draw up"],
-        "agenda + noun": ["item"],
-        "preposition": ["on a/​the agenda", "off the agenda", "agenda for"],
-        "phrases": [
-          "firmly on the agenda",
-          "high on the agenda",
-          "an item on the agenda"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a plan of things to be done, or problems to be addressed",
-      "sensetop": "on the agendaagenda for something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "In our company, quality is **high on the agenda**.",
-          "contextForm": "on the agenda"
-        },
-        {
-          "text": "They have been trying to get the issue onto the **political agenda**."
-        },
-        {
-          "text": "Child poverty has been **pushed off the agenda**."
-        },
-        {
-          "text": "Education is now **at the top of the** government's **agenda** *(= most important)*."
-        },
-        {
-          "text": "Cost-cutting is **top of the agenda** for the next quarter."
-        },
-        {
-          "text": "Pressure groups have been accused of trying to **set the agenda** for the government *(= decide what is important)*."
-        },
-        {
-          "text": "The college needs to draw up an agenda for change.",
-          "contextForm": "agenda for something"
-        },
-        {
-          "text": "This is an ambitious agenda that will take time to implement."
-        },
-        {
-          "text": "An expensive holiday is definitely off the agenda this year."
-        },
-        {
-          "text": "Next on the agenda is deciding where we're going to live."
-        },
-        {
-          "text": "The party has a rather narrow political agenda."
-        },
-        {
-          "text": "We have an agreed agenda for action."
-        },
-        {
-          "text": "We were following an agenda set by the students themselves."
-        }
-      ],
-      "topics": ["Working life"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the intention behind what somebody says or does, that is often secret",
-      "examples": [
-        {
-          "text": "The artist is letting **his own agenda** affect what was meant to be a community project."
-        },
-        {
-          "text": "They were pursuing their own agenda."
-        },
-        {
-          "text": "I'm not trying to push any agenda here."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/əˈdʒendə/",
-        "audio": "ag/agenda/agenda__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/əˈdʒendə/",
-        "audio": "ag/agenda/agenda__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 17th cent. (in the sense ‘things to be done’): from Latin, neuter plural of agendum, gerundive of agere ‘do’."
+	"term": "agenda",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a list of items to be discussed at a meeting",
+			"sensetop": "on the agenda",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "We have a very full agenda of issues to discuss."
+				},
+				{
+					"text": "The next item on the agenda is the publicity budget.",
+					"contextForm": "on the agenda"
+				},
+				{
+					"text": "A copy of the agenda is circulated to delegates a month before the conference."
+				},
+				{
+					"text": "An 18-point agenda was drawn up for the meeting."
+				},
+				{
+					"text": "Safety at work is on the agenda for next month's meeting."
+				},
+				{
+					"text": "The question of pay had been left off the agenda."
+				}
+			],
+			"topics": ["Working life"],
+			"collocations": {
+				"adjective": ["five-point", "etc.", "hidden"],
+				"verb + agenda": ["have", "agree on", "draw up"],
+				"agenda + noun": ["item"],
+				"preposition": ["on a/​the agenda", "off the agenda", "agenda for"],
+				"phrases": [
+					"firmly on the agenda",
+					"high on the agenda",
+					"an item on the agenda"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a plan of things to be done, or problems to be addressed",
+			"sensetop": "on the agendaagenda for something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "In our company, quality is **high on the agenda**.",
+					"contextForm": "on the agenda"
+				},
+				{
+					"text": "They have been trying to get the issue onto the **political agenda**."
+				},
+				{
+					"text": "Child poverty has been **pushed off the agenda**."
+				},
+				{
+					"text": "Education is now **at the top of the** government's **agenda** *(= most important)*."
+				},
+				{
+					"text": "Cost-cutting is **top of the agenda** for the next quarter."
+				},
+				{
+					"text": "Pressure groups have been accused of trying to **set the agenda** for the government *(= decide what is important)*."
+				},
+				{
+					"text": "The college needs to draw up an agenda for change.",
+					"contextForm": "agenda for something"
+				},
+				{
+					"text": "This is an ambitious agenda that will take time to implement."
+				},
+				{
+					"text": "An expensive holiday is definitely off the agenda this year."
+				},
+				{
+					"text": "Next on the agenda is deciding where we're going to live."
+				},
+				{
+					"text": "The party has a rather narrow political agenda."
+				},
+				{
+					"text": "We have an agreed agenda for action."
+				},
+				{
+					"text": "We were following an agenda set by the students themselves."
+				}
+			],
+			"topics": ["Working life"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the intention behind what somebody says or does, that is often secret",
+			"examples": [
+				{
+					"text": "The artist is letting **his own agenda** affect what was meant to be a community project."
+				},
+				{
+					"text": "They were pursuing their own agenda."
+				},
+				{
+					"text": "I'm not trying to push any agenda here."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/əˈdʒendə/",
+				"audio": "ag/agenda/agenda__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/əˈdʒendə/",
+				"audio": "ag/agenda/agenda__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 17th cent. (in the sense ‘things to be done’): from Latin, neuter plural of agendum, gerundive of agere ‘do’."
 }

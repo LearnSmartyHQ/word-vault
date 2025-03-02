@@ -1,120 +1,120 @@
 {
-  "term": "ensure",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "ensure",
-      "heSheIt": "ensures"
-    },
-    "pastSimple": "ensured",
-    "pastParticiple": "ensured",
-    "ingForm": "ensuring"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to make sure that something happens or is definite",
-      "sensetop": "ensure somethingensure somebody somethingensure something for somebodyensure (that)…",
-      "examples": [
-        {
-          "text": "We are working to **ensure the safety** of people in the city.",
-          "contextForm": "ensure something"
-        },
-        {
-          "text": "The book ensured his success."
-        },
-        {
-          "text": "We must take steps now to ensure the survival of these animals."
-        },
-        {
-          "text": "Victory ensured them a place in the final.",
-          "contextForm": "ensure somebody something"
-        },
-        {
-          "text": "The system ensures all children equal access to education."
-        },
-        {
-          "text": "The system ensures equal access to education for all children.",
-          "contextForm": "ensure something for somebody"
-        },
-        {
-          "text": "The government needs to ensure (that) workers' rights are respected.",
-          "contextForm": "ensure (that)…"
-        },
-        {
-          "text": "Rent rises were limited in order to ensure that housing remained affordable."
-        },
-        {
-          "text": "Forces were brought in to ensure security for tourists."
-        },
-        {
-          "text": "Please ensure (that) all lights are switched off."
-        },
-        {
-          "text": "The system not only ensures maximum discounts, but also helps the company track usage."
-        },
-        {
-          "text": "provisions designed to ensure safe conditions of work"
-        },
-        {
-          "text": "The therapist must treat the cause of the problem, thereby ensuring the symptoms do not return."
-        },
-        {
-          "text": "The alternative simply ensures that the problem will get worse."
-        }
-      ],
-      "topics": ["Doubt, guessing and certainty"],
-      "collocations": {
-        "adverb": ["practically", "virtually", "effectively"],
-        "verb + ensure": ["must", "aim to", "try to"],
-        "phrases": [
-          "an attempt to ensure something",
-          "efforts to ensure something",
-          "measures to ensure something"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈʃʊə(r)//ɪnˈʃɔː(r)/",
-        "audio": "en/ensure/ensure__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈʃʊəz//ɪnˈʃɔːz/",
-        "audio": "en/ensure/ensures__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈʃʊəd//ɪnˈʃɔːd/",
-        "audio": "en/ensure/ensured__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈʃʊərɪŋ//ɪnˈʃɔːrɪŋ/",
-        "audio": "en/ensure/ensuring__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈʃʊr/",
-        "audio": "en/ensure/ensure__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈʃʊrz/",
-        "audio": "en/ensure/ensures__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈʃʊrd/",
-        "audio": "en/ensure/ensured__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈʃʊrɪŋ/",
-        "audio": "en/ensure/ensuring__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the senses ‘convince’ and ‘make safe’): from Anglo-Norman French enseurer, alteration of Old French aseurer, earlier form of assurer, based on Latin ad- ‘to’ (expressing change) + securus, from se- ‘without’ + cura ‘care’. Compare with insure."
+	"term": "ensure",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "ensure",
+			"heSheIt": "ensures"
+		},
+		"pastSimple": "ensured",
+		"pastParticiple": "ensured",
+		"ingForm": "ensuring"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to make sure that something happens or is definite",
+			"sensetop": "ensure somethingensure somebody somethingensure something for somebodyensure (that)…",
+			"examples": [
+				{
+					"text": "We are working to **ensure the safety** of people in the city.",
+					"contextForm": "ensure something"
+				},
+				{
+					"text": "The book ensured his success."
+				},
+				{
+					"text": "We must take steps now to ensure the survival of these animals."
+				},
+				{
+					"text": "Victory ensured them a place in the final.",
+					"contextForm": "ensure somebody something"
+				},
+				{
+					"text": "The system ensures all children equal access to education."
+				},
+				{
+					"text": "The system ensures equal access to education for all children.",
+					"contextForm": "ensure something for somebody"
+				},
+				{
+					"text": "The government needs to ensure (that) workers' rights are respected.",
+					"contextForm": "ensure (that)…"
+				},
+				{
+					"text": "Rent rises were limited in order to ensure that housing remained affordable."
+				},
+				{
+					"text": "Forces were brought in to ensure security for tourists."
+				},
+				{
+					"text": "Please ensure (that) all lights are switched off."
+				},
+				{
+					"text": "The system not only ensures maximum discounts, but also helps the company track usage."
+				},
+				{
+					"text": "provisions designed to ensure safe conditions of work"
+				},
+				{
+					"text": "The therapist must treat the cause of the problem, thereby ensuring the symptoms do not return."
+				},
+				{
+					"text": "The alternative simply ensures that the problem will get worse."
+				}
+			],
+			"topics": ["Doubt, guessing and certainty"],
+			"collocations": {
+				"adverb": ["practically", "virtually", "effectively"],
+				"verb + ensure": ["must", "aim to", "try to"],
+				"phrases": [
+					"an attempt to ensure something",
+					"efforts to ensure something",
+					"measures to ensure something"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈʃʊə(r)//ɪnˈʃɔː(r)/",
+				"audio": "en/ensure/ensure__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈʃʊəz//ɪnˈʃɔːz/",
+				"audio": "en/ensure/ensures__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈʃʊəd//ɪnˈʃɔːd/",
+				"audio": "en/ensure/ensured__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈʃʊərɪŋ//ɪnˈʃɔːrɪŋ/",
+				"audio": "en/ensure/ensuring__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈʃʊr/",
+				"audio": "en/ensure/ensure__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈʃʊrz/",
+				"audio": "en/ensure/ensures__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈʃʊrd/",
+				"audio": "en/ensure/ensured__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈʃʊrɪŋ/",
+				"audio": "en/ensure/ensuring__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the senses ‘convince’ and ‘make safe’): from Anglo-Norman French enseurer, alteration of Old French aseurer, earlier form of assurer, based on Latin ad- ‘to’ (expressing change) + securus, from se- ‘without’ + cura ‘care’. Compare with insure."
 }

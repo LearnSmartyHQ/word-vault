@@ -1,137 +1,137 @@
 {
-  "term": "mixture",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a combination of different things",
-      "sensetop": "mixture of A and B",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She was a curious mixture, part grand lady, part wild child."
-        },
-        {
-          "text": "The city is a mixture of old and new buildings.",
-          "contextForm": "mixture of A and B"
-        },
-        {
-          "text": "We listened to the news with a mixture of surprise and horror."
-        },
-        {
-          "text": "Anger is often caused by frustration or embarrassment, or a mixture of the two."
-        },
-        {
-          "text": "pastries filled with a mixture of nuts, sugar and rose water"
-        },
-        {
-          "text": "He looked at me with a mixture of amazement and horror."
-        },
-        {
-          "text": "The cloth is made from a mixture of linen and cotton."
-        },
-        {
-          "text": "First dates can be a heady mixture of excitement and nerves."
-        },
-        {
-          "text": "a judicious mixture of young and experienced players"
-        },
-        {
-          "text": "an eclectic mixture of architectural styles"
-        },
-        {
-          "text": "a complex mixture of dance, ritual and architecture"
-        }
-      ],
-      "collocations": {
-        "adjective": ["fascinating", "good", "interesting"],
-        "verb + mixture": ["add something to", "pour", "purée"],
-        "mixture + verb": [
-          "consist of something",
-          "contain something",
-          "have something"
-        ],
-        "preposition": ["with a mixture", "mixture of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a substance made by mixing other substances together",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Spread the cake mixture into a greased baking tin."
-        },
-        {
-          "text": "Add the eggs to the mixture and beat well."
-        },
-        {
-          "text": "Gradually fold the flour into the egg mixture."
-        },
-        {
-          "text": "Pour the cake mixture into the bowl."
-        },
-        {
-          "text": "The mixture contains some ingredients that are difficult to find."
-        },
-        {
-          "text": "An alloy is a mixture of two types of metal."
-        }
-      ],
-      "collocations": {
-        "adjective": ["fascinating", "good", "interesting"],
-        "verb + mixture": ["add something to", "pour", "purée"],
-        "mixture + verb": [
-          "consist of something",
-          "contain something",
-          "have something"
-        ],
-        "preposition": ["with a mixture", "mixture of"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a combination of two or more substances that mix together without any chemical reaction taking place",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "Exposures to chemical mixtures have produced unexpected effects."
-        }
-      ],
-      "collocations": {
-        "adjective": ["fascinating", "good", "interesting"],
-        "verb + mixture": ["add something to", "pour", "purée"],
-        "mixture + verb": [
-          "consist of something",
-          "contain something",
-          "have something"
-        ],
-        "preposition": ["with a mixture", "mixture of"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the act of mixing different substances together",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmɪkstʃə(r)/",
-        "audio": "mi/mixture/mixture__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmɪkstʃər/",
-        "audio": "mi/mixture/mixture__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from French mixture or Latin mixtura, from miscere ‘to mix’."
+	"term": "mixture",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a combination of different things",
+			"sensetop": "mixture of A and B",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She was a curious mixture, part grand lady, part wild child."
+				},
+				{
+					"text": "The city is a mixture of old and new buildings.",
+					"contextForm": "mixture of A and B"
+				},
+				{
+					"text": "We listened to the news with a mixture of surprise and horror."
+				},
+				{
+					"text": "Anger is often caused by frustration or embarrassment, or a mixture of the two."
+				},
+				{
+					"text": "pastries filled with a mixture of nuts, sugar and rose water"
+				},
+				{
+					"text": "He looked at me with a mixture of amazement and horror."
+				},
+				{
+					"text": "The cloth is made from a mixture of linen and cotton."
+				},
+				{
+					"text": "First dates can be a heady mixture of excitement and nerves."
+				},
+				{
+					"text": "a judicious mixture of young and experienced players"
+				},
+				{
+					"text": "an eclectic mixture of architectural styles"
+				},
+				{
+					"text": "a complex mixture of dance, ritual and architecture"
+				}
+			],
+			"collocations": {
+				"adjective": ["fascinating", "good", "interesting"],
+				"verb + mixture": ["add something to", "pour", "purée"],
+				"mixture + verb": [
+					"consist of something",
+					"contain something",
+					"have something"
+				],
+				"preposition": ["with a mixture", "mixture of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a substance made by mixing other substances together",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Spread the cake mixture into a greased baking tin."
+				},
+				{
+					"text": "Add the eggs to the mixture and beat well."
+				},
+				{
+					"text": "Gradually fold the flour into the egg mixture."
+				},
+				{
+					"text": "Pour the cake mixture into the bowl."
+				},
+				{
+					"text": "The mixture contains some ingredients that are difficult to find."
+				},
+				{
+					"text": "An alloy is a mixture of two types of metal."
+				}
+			],
+			"collocations": {
+				"adjective": ["fascinating", "good", "interesting"],
+				"verb + mixture": ["add something to", "pour", "purée"],
+				"mixture + verb": [
+					"consist of something",
+					"contain something",
+					"have something"
+				],
+				"preposition": ["with a mixture", "mixture of"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a combination of two or more substances that mix together without any chemical reaction taking place",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "Exposures to chemical mixtures have produced unexpected effects."
+				}
+			],
+			"collocations": {
+				"adjective": ["fascinating", "good", "interesting"],
+				"verb + mixture": ["add something to", "pour", "purée"],
+				"mixture + verb": [
+					"consist of something",
+					"contain something",
+					"have something"
+				],
+				"preposition": ["with a mixture", "mixture of"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the act of mixing different substances together",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmɪkstʃə(r)/",
+				"audio": "mi/mixture/mixture__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmɪkstʃər/",
+				"audio": "mi/mixture/mixture__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from French mixture or Latin mixtura, from miscere ‘to mix’."
 }

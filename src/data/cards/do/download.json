@@ -1,93 +1,93 @@
 {
-  "term": "download",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "download",
-      "heSheIt": "downloads"
-    },
-    "pastSimple": "downloaded",
-    "pastParticiple": "downloaded",
-    "ingForm": "downloading"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to get data from another computer, usually using the internet",
-      "sensetop": "download somethingdownload something to somethingdownload something onto somethingdownload something from something",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **download files/music/software**",
-          "contextForm": "download something"
-        },
-        {
-          "text": "You can **download the app** for free."
-        },
-        {
-          "text": "You don't need to download the movie—you can stream it."
-        },
-        {
-          "text": "The series is now **available to download**."
-        },
-        {
-          "text": "About 100   000 users **illegally downloaded** episodes of the show."
-        },
-        {
-          "text": "a small program you can download to your desktop",
-          "contextForm": "download something to something"
-        },
-        {
-          "text": "The data was downloaded onto a computer for further analysis.",
-          "contextForm": "download something onto something"
-        },
-        {
-          "text": "If you download pictures from the internet, check the terms of use.",
-          "contextForm": "download something from something"
-        }
-      ],
-      "topics": ["Computers", "Shopping"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌdaʊnˈləʊd/",
-        "audio": "do/download/download__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌdaʊnˈləʊdz/",
-        "audio": "do/download/downloads__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌdaʊnˈləʊdɪd/",
-        "audio": "do/download/downloaded__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌdaʊnˈləʊdɪŋ/",
-        "audio": "do/download/downloading__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌdaʊnˈləʊd/",
-        "audio": "do/download/download__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌdaʊnˈləʊdz/",
-        "audio": "do/download/downloads__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˌdaʊnˈləʊdɪd/",
-        "audio": "do/download/downloaded__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˌdaʊnˈləʊdɪŋ/",
-        "audio": "do/download/downloading__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "download",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "download",
+			"heSheIt": "downloads"
+		},
+		"pastSimple": "downloaded",
+		"pastParticiple": "downloaded",
+		"ingForm": "downloading"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to get data from another computer, usually using the internet",
+			"sensetop": "download somethingdownload something to somethingdownload something onto somethingdownload something from something",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **download files/music/software**",
+					"contextForm": "download something"
+				},
+				{
+					"text": "You can **download the app** for free."
+				},
+				{
+					"text": "You don't need to download the movie—you can stream it."
+				},
+				{
+					"text": "The series is now **available to download**."
+				},
+				{
+					"text": "About 100   000 users **illegally downloaded** episodes of the show."
+				},
+				{
+					"text": "a small program you can download to your desktop",
+					"contextForm": "download something to something"
+				},
+				{
+					"text": "The data was downloaded onto a computer for further analysis.",
+					"contextForm": "download something onto something"
+				},
+				{
+					"text": "If you download pictures from the internet, check the terms of use.",
+					"contextForm": "download something from something"
+				}
+			],
+			"topics": ["Computers", "Shopping"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌdaʊnˈləʊd/",
+				"audio": "do/download/download__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌdaʊnˈləʊdz/",
+				"audio": "do/download/downloads__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌdaʊnˈləʊdɪd/",
+				"audio": "do/download/downloaded__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌdaʊnˈləʊdɪŋ/",
+				"audio": "do/download/downloading__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌdaʊnˈləʊd/",
+				"audio": "do/download/download__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌdaʊnˈləʊdz/",
+				"audio": "do/download/downloads__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˌdaʊnˈləʊdɪd/",
+				"audio": "do/download/downloaded__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˌdaʊnˈləʊdɪŋ/",
+				"audio": "do/download/downloading__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

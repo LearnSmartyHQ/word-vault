@@ -1,196 +1,196 @@
 {
-  "term": "translate",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "translate",
-      "heSheIt": "translates"
-    },
-    "pastSimple": "translated",
-    "pastParticiple": "translated",
-    "ingForm": "translating"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to express the meaning of speech or writing in a different language",
-      "sensetop": "translate something into somethingtranslate something from somethingtranslate something from something into somethingtranslate something as somethingtranslate (something)translate from somethingtranslate into somethingtranslate from something into something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He translated the letter into English.",
-          "contextForm": "translate something into something"
-        },
-        {
-          "text": "Her books have been translated into 24 languages."
-        },
-        {
-          "text": "Can you help me translate this legal jargon into plain English?"
-        },
-        {
-          "text": "This chapter was translated from the French by Oliver Breen.",
-          "contextForm": "translate something from something"
-        },
-        {
-          "text": "His works have been translated from French into countless languages.",
-          "contextForm": "translate something from something into something"
-        },
-        {
-          "text": "‘Suisse’ had been wrongly translated as ‘Sweden’.",
-          "contextForm": "translate something as something"
-        },
-        {
-          "text": "The novel has been widely translated.",
-          "contextForm": "translate (something)"
-        },
-        {
-          "text": "I don't speak Greek so Dina offered to translate for me."
-        },
-        {
-          "text": "My work involves translating from German.",
-          "contextForm": "translate from something"
-        },
-        {
-          "text": "My father dictated in Polish while I translated into English.",
-          "contextForm": "translate into something"
-        },
-        {
-          "text": "I spoke to him through my friend who translated from Arabic into English.",
-          "contextForm": "translate from something into something"
-        }
-      ],
-      "collocations": {
-        "adverb": ["literally", "accurately", "correctly"],
-        "verb + translate": ["attempt to", "try to", "be difficult to"],
-        "preposition": ["as", "for", "from"],
-        "phrases": ["widely translated"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to be changed from one language to another",
-      "sensetop": "translate as something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Most poetry does not translate well."
-        },
-        {
-          "text": "The Welsh name translates as ‘Land's End’.",
-          "contextForm": "translate as something"
-        },
-        {
-          "text": "It's a Spanish word that **roughly translates** as 'unease'."
-        },
-        {
-          "text": "‘Tiramisu’ literally translates as ‘pull-me-up’."
-        }
-      ],
-      "collocations": {
-        "adverb": ["literally", "accurately", "correctly"],
-        "verb + translate": ["attempt to", "try to", "be difficult to"],
-        "preposition": ["as", "for", "from"],
-        "phrases": ["widely translated"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to change something into a different form; to lead to a particular result",
-      "sensetop": "translate something (into something)translate into something",
-      "examples": [
-        {
-          "text": "It's time to translate words into action.",
-          "contextForm": "translate something (into something)"
-        },
-        {
-          "text": "I hope all the hard work will translate into profits.",
-          "contextForm": "translate into something"
-        },
-        {
-          "text": "You need to translate your ideas into practice."
-        },
-        {
-          "text": "A small increase in local spending will translate into a big rise in council tax."
-        },
-        {
-          "text": "Teacher expectations do not automatically translate themselves into student results."
-        },
-        {
-          "text": "The lost trade revenue ultimately translated into job losses at home."
-        },
-        {
-          "text": "Most attempts to translate Shakespeare to the small screen are not successful."
-        },
-        {
-          "text": "The story translates well to the screen."
-        },
-        {
-          "text": "I'm not sure how well the American system would translate to a European context."
-        }
-      ],
-      "collocations": {
-        "adverb": ["well", "easily", "readily"],
-        "verb + translate": ["attempt to", "try to", "be difficult to"],
-        "preposition": ["into"],
-        "phrases": [
-          "translate something into action",
-          "translate something into practice"
-        ]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to understand something in a particular way or give something a particular meaning",
-      "sensetop": "translate (something) (as something)",
-      "examples": [
-        {
-          "text": "the various words and gestures that we translate as love"
-        }
-      ],
-      "synonyms": "interpret"
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/trænzˈleɪt/",
-        "audio": "tr/translate/translate__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/trænzˈleɪts/",
-        "audio": "tr/translate/translates__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/trænzˈleɪtɪd/",
-        "audio": "tr/translate/translated__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/trænzˈleɪtɪŋ/",
-        "audio": "tr/translate/translating__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/trænzˈleɪt/",
-        "audio": "tr/translate/translate__us_2.mp3"
-      },
-      {
-        "pronunciation": "/trænzˈleɪts/",
-        "audio": "tr/translate/translates__us_2.mp3"
-      },
-      {
-        "pronunciation": "/trænzˈleɪtɪd/",
-        "audio": "tr/translate/translated__us_2.mp3"
-      },
-      {
-        "pronunciation": "/trænzˈleɪtɪŋ/",
-        "audio": "tr/translate/translating__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Latin translat- ‘carried across’, past participle of transferre, from trans- ‘across’ + ferre ‘to bear’."
+	"term": "translate",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "translate",
+			"heSheIt": "translates"
+		},
+		"pastSimple": "translated",
+		"pastParticiple": "translated",
+		"ingForm": "translating"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to express the meaning of speech or writing in a different language",
+			"sensetop": "translate something into somethingtranslate something from somethingtranslate something from something into somethingtranslate something as somethingtranslate (something)translate from somethingtranslate into somethingtranslate from something into something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He translated the letter into English.",
+					"contextForm": "translate something into something"
+				},
+				{
+					"text": "Her books have been translated into 24 languages."
+				},
+				{
+					"text": "Can you help me translate this legal jargon into plain English?"
+				},
+				{
+					"text": "This chapter was translated from the French by Oliver Breen.",
+					"contextForm": "translate something from something"
+				},
+				{
+					"text": "His works have been translated from French into countless languages.",
+					"contextForm": "translate something from something into something"
+				},
+				{
+					"text": "‘Suisse’ had been wrongly translated as ‘Sweden’.",
+					"contextForm": "translate something as something"
+				},
+				{
+					"text": "The novel has been widely translated.",
+					"contextForm": "translate (something)"
+				},
+				{
+					"text": "I don't speak Greek so Dina offered to translate for me."
+				},
+				{
+					"text": "My work involves translating from German.",
+					"contextForm": "translate from something"
+				},
+				{
+					"text": "My father dictated in Polish while I translated into English.",
+					"contextForm": "translate into something"
+				},
+				{
+					"text": "I spoke to him through my friend who translated from Arabic into English.",
+					"contextForm": "translate from something into something"
+				}
+			],
+			"collocations": {
+				"adverb": ["literally", "accurately", "correctly"],
+				"verb + translate": ["attempt to", "try to", "be difficult to"],
+				"preposition": ["as", "for", "from"],
+				"phrases": ["widely translated"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to be changed from one language to another",
+			"sensetop": "translate as something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Most poetry does not translate well."
+				},
+				{
+					"text": "The Welsh name translates as ‘Land's End’.",
+					"contextForm": "translate as something"
+				},
+				{
+					"text": "It's a Spanish word that **roughly translates** as 'unease'."
+				},
+				{
+					"text": "‘Tiramisu’ literally translates as ‘pull-me-up’."
+				}
+			],
+			"collocations": {
+				"adverb": ["literally", "accurately", "correctly"],
+				"verb + translate": ["attempt to", "try to", "be difficult to"],
+				"preposition": ["as", "for", "from"],
+				"phrases": ["widely translated"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to change something into a different form; to lead to a particular result",
+			"sensetop": "translate something (into something)translate into something",
+			"examples": [
+				{
+					"text": "It's time to translate words into action.",
+					"contextForm": "translate something (into something)"
+				},
+				{
+					"text": "I hope all the hard work will translate into profits.",
+					"contextForm": "translate into something"
+				},
+				{
+					"text": "You need to translate your ideas into practice."
+				},
+				{
+					"text": "A small increase in local spending will translate into a big rise in council tax."
+				},
+				{
+					"text": "Teacher expectations do not automatically translate themselves into student results."
+				},
+				{
+					"text": "The lost trade revenue ultimately translated into job losses at home."
+				},
+				{
+					"text": "Most attempts to translate Shakespeare to the small screen are not successful."
+				},
+				{
+					"text": "The story translates well to the screen."
+				},
+				{
+					"text": "I'm not sure how well the American system would translate to a European context."
+				}
+			],
+			"collocations": {
+				"adverb": ["well", "easily", "readily"],
+				"verb + translate": ["attempt to", "try to", "be difficult to"],
+				"preposition": ["into"],
+				"phrases": [
+					"translate something into action",
+					"translate something into practice"
+				]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to understand something in a particular way or give something a particular meaning",
+			"sensetop": "translate (something) (as something)",
+			"examples": [
+				{
+					"text": "the various words and gestures that we translate as love"
+				}
+			],
+			"synonyms": "interpret"
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/trænzˈleɪt/",
+				"audio": "tr/translate/translate__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/trænzˈleɪts/",
+				"audio": "tr/translate/translates__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/trænzˈleɪtɪd/",
+				"audio": "tr/translate/translated__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/trænzˈleɪtɪŋ/",
+				"audio": "tr/translate/translating__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/trænzˈleɪt/",
+				"audio": "tr/translate/translate__us_2.mp3"
+			},
+			{
+				"pronunciation": "/trænzˈleɪts/",
+				"audio": "tr/translate/translates__us_2.mp3"
+			},
+			{
+				"pronunciation": "/trænzˈleɪtɪd/",
+				"audio": "tr/translate/translated__us_2.mp3"
+			},
+			{
+				"pronunciation": "/trænzˈleɪtɪŋ/",
+				"audio": "tr/translate/translating__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Latin translat- ‘carried across’, past participle of transferre, from trans- ‘across’ + ferre ‘to bear’."
 }

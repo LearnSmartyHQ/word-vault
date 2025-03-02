@@ -1,124 +1,124 @@
 {
-  "term": "dressed",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "wearing clothes and not naked or wearing clothes for sleeping",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Hurry up and **get dressed**."
-        },
-        {
-          "text": "She lay down on the bed, **fully dressed**."
-        },
-        {
-          "text": "I can't go to the door—I'm not dressed yet."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "wearing clothes of a particular type",
-      "sensetop": "dressed in somethingdressed for somethingdressed as somethingdressed like something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She is always so **smartly dressed**."
-        },
-        {
-          "text": "elegantly/fashionably/neatly dressed"
-        },
-        {
-          "text": "immaculately/impeccably dressed"
-        },
-        {
-          "text": "The bride was dressed in white.",
-          "contextForm": "dressed in something"
-        },
-        {
-          "text": "He was **casually dressed **in jeans and a T-shirt."
-        },
-        {
-          "text": "She was dressed for a business meeting.",
-          "contextForm": "dressed for something"
-        },
-        {
-          "text": "He was dressed as a woman *(= he was wearing women's clothes)*.",
-          "contextForm": "dressed as something"
-        },
-        {
-          "text": "You can't go out dressed like that *(= wearing those clothes)*!",
-          "contextForm": "dressed like something"
-        },
-        {
-          "text": "The twins were dressed identically."
-        },
-        {
-          "text": "She was dressed professionally in a business suit."
-        },
-        {
-          "text": "He is always the best-dressed man in the room."
-        },
-        {
-          "text": "The women were all dressed in blue skirts and white blouses."
-        },
-        {
-          "text": "The waiters were dressed as clowns."
-        },
-        {
-          "text": "a photo of the president dressed like a cowboy"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "cleaned and prepared for cooking or eating",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "Place a spoonful of the dressed crab on each plate."
-        }
-      ],
-      "topics": ["Cooking and eating"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "wearing the kind of clothes that will make people notice and admire you",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "wearing very attractive or formal clothes",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "an offensive way to describe a woman who you think is trying to look younger than she really is, especially by wearing clothes that are designed for young people",
-      "labels": "(British English, informal, offensive)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/drest/",
-        "audio": "dr/dressed/dressed__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/drest/",
-        "audio": "dr/dressed/dressed__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "dressed",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "wearing clothes and not naked or wearing clothes for sleeping",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Hurry up and **get dressed**."
+				},
+				{
+					"text": "She lay down on the bed, **fully dressed**."
+				},
+				{
+					"text": "I can't go to the door—I'm not dressed yet."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "wearing clothes of a particular type",
+			"sensetop": "dressed in somethingdressed for somethingdressed as somethingdressed like something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She is always so **smartly dressed**."
+				},
+				{
+					"text": "elegantly/fashionably/neatly dressed"
+				},
+				{
+					"text": "immaculately/impeccably dressed"
+				},
+				{
+					"text": "The bride was dressed in white.",
+					"contextForm": "dressed in something"
+				},
+				{
+					"text": "He was **casually dressed **in jeans and a T-shirt."
+				},
+				{
+					"text": "She was dressed for a business meeting.",
+					"contextForm": "dressed for something"
+				},
+				{
+					"text": "He was dressed as a woman *(= he was wearing women's clothes)*.",
+					"contextForm": "dressed as something"
+				},
+				{
+					"text": "You can't go out dressed like that *(= wearing those clothes)*!",
+					"contextForm": "dressed like something"
+				},
+				{
+					"text": "The twins were dressed identically."
+				},
+				{
+					"text": "She was dressed professionally in a business suit."
+				},
+				{
+					"text": "He is always the best-dressed man in the room."
+				},
+				{
+					"text": "The women were all dressed in blue skirts and white blouses."
+				},
+				{
+					"text": "The waiters were dressed as clowns."
+				},
+				{
+					"text": "a photo of the president dressed like a cowboy"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "cleaned and prepared for cooking or eating",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "Place a spoonful of the dressed crab on each plate."
+				}
+			],
+			"topics": ["Cooking and eating"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "wearing the kind of clothes that will make people notice and admire you",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "wearing very attractive or formal clothes",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "an offensive way to describe a woman who you think is trying to look younger than she really is, especially by wearing clothes that are designed for young people",
+			"labels": "(British English, informal, offensive)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/drest/",
+				"audio": "dr/dressed/dressed__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/drest/",
+				"audio": "dr/dressed/dressed__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

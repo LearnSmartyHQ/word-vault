@@ -1,108 +1,108 @@
 {
-  "term": "donate",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "donate",
-      "heSheIt": "donates"
-    },
-    "pastSimple": "donated",
-    "pastParticiple": "donated",
-    "ingForm": "donating"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to give money, food, clothes, etc. to somebody/something, especially a charity",
-      "sensetop": "donate something to somebody/somethingdonate to somebody/somethingdonate somethingdonate something for something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He **donated** thousands of pounds **to charity**.",
-          "contextForm": "donate something to somebody/something"
-        },
-        {
-          "text": "People wishing to donate to the appeal can buy a poppy from today until November 11.",
-          "contextForm": "donate to somebody/something"
-        },
-        {
-          "text": "The organization suggests ways to help besides **donating money**.",
-          "contextForm": "donate something"
-        },
-        {
-          "text": "an auction of pieces donated by the artists themselves"
-        },
-        {
-          "text": "I would like to thank our sponsors, The Woodworks, for donating the prizes for this competition.",
-          "contextForm": "donate something for something"
-        }
-      ],
-      "topics": ["Money", "Social issues"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to allow doctors to remove blood, a body organ, etc. in order to help somebody who needs it",
-      "sensetop": "donate somethingdonate something to somebody",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I've been **donating blood** regularly for a few years now.",
-          "contextForm": "donate something"
-        },
-        {
-          "text": "to donate organs/sperm/eggs"
-        },
-        {
-          "text": "All donated blood is tested for HIV and other infections."
-        },
-        {
-          "text": "He donated a kidney to his mother.",
-          "contextForm": "donate something to somebody"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/dəʊˈneɪt/",
-        "audio": "do/donate/donate__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/dəʊˈneɪts/",
-        "audio": "do/donate/donates__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/dəʊˈneɪtɪd/",
-        "audio": "do/donate/donated__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/dəʊˈneɪtɪŋ/",
-        "audio": "do/donate/donating__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈdəʊneɪt/",
-        "audio": "do/donate/donate__us_1_rr.mp3"
-      },
-      {
-        "pronunciation": "/ˈdəʊneɪts/",
-        "audio": "do/donate/donates__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈdəʊneɪtɪd/",
-        "audio": "do/donate/donated__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈdəʊneɪtɪŋ/",
-        "audio": "do/donate/donating__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 18th cent.: back-formation from donation."
+	"term": "donate",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "donate",
+			"heSheIt": "donates"
+		},
+		"pastSimple": "donated",
+		"pastParticiple": "donated",
+		"ingForm": "donating"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to give money, food, clothes, etc. to somebody/something, especially a charity",
+			"sensetop": "donate something to somebody/somethingdonate to somebody/somethingdonate somethingdonate something for something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He **donated** thousands of pounds **to charity**.",
+					"contextForm": "donate something to somebody/something"
+				},
+				{
+					"text": "People wishing to donate to the appeal can buy a poppy from today until November 11.",
+					"contextForm": "donate to somebody/something"
+				},
+				{
+					"text": "The organization suggests ways to help besides **donating money**.",
+					"contextForm": "donate something"
+				},
+				{
+					"text": "an auction of pieces donated by the artists themselves"
+				},
+				{
+					"text": "I would like to thank our sponsors, The Woodworks, for donating the prizes for this competition.",
+					"contextForm": "donate something for something"
+				}
+			],
+			"topics": ["Money", "Social issues"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to allow doctors to remove blood, a body organ, etc. in order to help somebody who needs it",
+			"sensetop": "donate somethingdonate something to somebody",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I've been **donating blood** regularly for a few years now.",
+					"contextForm": "donate something"
+				},
+				{
+					"text": "to donate organs/sperm/eggs"
+				},
+				{
+					"text": "All donated blood is tested for HIV and other infections."
+				},
+				{
+					"text": "He donated a kidney to his mother.",
+					"contextForm": "donate something to somebody"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/dəʊˈneɪt/",
+				"audio": "do/donate/donate__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/dəʊˈneɪts/",
+				"audio": "do/donate/donates__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/dəʊˈneɪtɪd/",
+				"audio": "do/donate/donated__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/dəʊˈneɪtɪŋ/",
+				"audio": "do/donate/donating__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈdəʊneɪt/",
+				"audio": "do/donate/donate__us_1_rr.mp3"
+			},
+			{
+				"pronunciation": "/ˈdəʊneɪts/",
+				"audio": "do/donate/donates__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈdəʊneɪtɪd/",
+				"audio": "do/donate/donated__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈdəʊneɪtɪŋ/",
+				"audio": "do/donate/donating__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 18th cent.: back-formation from donation."
 }

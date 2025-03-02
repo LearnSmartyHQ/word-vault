@@ -1,44 +1,44 @@
 {
-  "term": "aide",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a person who helps another person, especially a politician, in their job",
-      "examples": [
-        {
-          "text": "White House aides"
-        },
-        {
-          "text": "She served as an aide to the former president."
-        },
-        {
-          "text": "The following year he was appointed as a presidential aide."
-        }
-      ],
-      "topics": ["Jobs"],
-      "collocations": {
-        "adjective": ["close", "trusted", "senior"],
-        "verb + aide": ["act as", "serve as", "work as"],
-        "preposition": ["aide to"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/eɪd/",
-        "audio": "ai/aide/aid__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/eɪd/",
-        "audio": "ai/aide/aide__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "aide",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a person who helps another person, especially a politician, in their job",
+			"examples": [
+				{
+					"text": "White House aides"
+				},
+				{
+					"text": "She served as an aide to the former president."
+				},
+				{
+					"text": "The following year he was appointed as a presidential aide."
+				}
+			],
+			"topics": ["Jobs"],
+			"collocations": {
+				"adjective": ["close", "trusted", "senior"],
+				"verb + aide": ["act as", "serve as", "work as"],
+				"preposition": ["aide to"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/eɪd/",
+				"audio": "ai/aide/aid__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/eɪd/",
+				"audio": "ai/aide/aide__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

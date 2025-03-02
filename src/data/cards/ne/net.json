@@ -1,160 +1,160 @@
 {
-  "term": "net",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "image": "data/images/sp/sports_racket.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "material that is made of string, thread or wire twisted or tied together, with small spaces in between; a piece of this material used for a particular purpose",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Unfortunately the animals are often caught in **fishing nets**."
-        },
-        {
-          "text": "She's always peering through the net curtains, spying on the neighbours."
-        },
-        {
-          "text": "They began to cut through the net, one strand at a time."
-        },
-        {
-          "text": "We slept in bamboo beds draped in mosquito nets."
-        },
-        {
-          "text": "The fishermen were mending their nets."
-        },
-        {
-          "text": "He bagged a huge net of carp and bream."
-        }
-      ],
-      "collocations": {
-        "adjective": ["fine", "fine-mesh", "safety"],
-        "verb + net": ["mend", "cast", "spread"],
-        "preposition": ["in a/​the net", "into a/​the net", "over the net"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the frame covered in net that forms the goal",
-      "examples": [
-        {
-          "text": "to kick the ball **into the back of the net**"
-        },
-        {
-          "text": "She shot the ball past the goalkeeper and into an empty net."
-        },
-        {
-          "text": "Kane finally **found the net** in the 78th minute."
-        }
-      ],
-      "collocations": {
-        "adjective": ["fine", "fine-mesh", "safety"],
-        "verb + net": ["mend", "cast", "spread"],
-        "preposition": ["in a/​the net", "into a/​the net", "over the net"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the piece of net between the two players that the ball goes over",
-      "cefr": "a2",
-      "examples": [
-        {
-          "text": "She hit her second serve straight into the net."
-        },
-        {
-          "text": "to hit the ball over the net"
-        }
-      ],
-      "topics": ["Sports: ball and racket sports"],
-      "collocations": {
-        "adjective": ["fine", "fine-mesh", "safety"],
-        "verb + net": ["mend", "cast", "spread"],
-        "preposition": ["in a/​the net", "into a/​the net", "over the net"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a piece of ground with a net around it, used for practising batting and bowling",
-      "examples": [
-        {
-          "text": "He practised bowling all morning in the nets."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "the internet",
-      "labels": "(informal)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He spends his time playing computer games and **surfing the net**."
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "a network of radios or computers that are connected to each other",
-      "examples": [
-        {
-          "text": "A call on the radio net went out that there had been a crash."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to consider a lot of different people, activities, possibilities, etc. when you are looking for something",
-      "examples": [
-        {
-          "text": "It’s worth casting your net wide when applying for your first job."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "when somebody/something slips through the net, an organization or a system fails to find them and deal with them",
-      "examples": [
-        {
-          "text": "We tried to contact all former students, but one or two slipped through the net."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to consider a wide range of possibilities or cover a large area, especially to try to find somebody/something",
-      "examples": [
-        {
-          "text": "They have spread their net far and wide in the search for a new team coach."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to consider or include a larger range of options or possibilities, especially when searching for something",
-      "examples": [
-        {
-          "text": "It's time to widen the net in the search for a suitable candidate."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/net/",
-        "audio": "ne/net/net__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/net/",
-        "audio": "ne/net/net__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "noun Old English net, nett, of Germanic origin; related to Dutch net and German Netz."
+	"term": "net",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"image": "data/images/sp/sports_racket.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "material that is made of string, thread or wire twisted or tied together, with small spaces in between; a piece of this material used for a particular purpose",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Unfortunately the animals are often caught in **fishing nets**."
+				},
+				{
+					"text": "She's always peering through the net curtains, spying on the neighbours."
+				},
+				{
+					"text": "They began to cut through the net, one strand at a time."
+				},
+				{
+					"text": "We slept in bamboo beds draped in mosquito nets."
+				},
+				{
+					"text": "The fishermen were mending their nets."
+				},
+				{
+					"text": "He bagged a huge net of carp and bream."
+				}
+			],
+			"collocations": {
+				"adjective": ["fine", "fine-mesh", "safety"],
+				"verb + net": ["mend", "cast", "spread"],
+				"preposition": ["in a/​the net", "into a/​the net", "over the net"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the frame covered in net that forms the goal",
+			"examples": [
+				{
+					"text": "to kick the ball **into the back of the net**"
+				},
+				{
+					"text": "She shot the ball past the goalkeeper and into an empty net."
+				},
+				{
+					"text": "Kane finally **found the net** in the 78th minute."
+				}
+			],
+			"collocations": {
+				"adjective": ["fine", "fine-mesh", "safety"],
+				"verb + net": ["mend", "cast", "spread"],
+				"preposition": ["in a/​the net", "into a/​the net", "over the net"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the piece of net between the two players that the ball goes over",
+			"cefr": "a2",
+			"examples": [
+				{
+					"text": "She hit her second serve straight into the net."
+				},
+				{
+					"text": "to hit the ball over the net"
+				}
+			],
+			"topics": ["Sports: ball and racket sports"],
+			"collocations": {
+				"adjective": ["fine", "fine-mesh", "safety"],
+				"verb + net": ["mend", "cast", "spread"],
+				"preposition": ["in a/​the net", "into a/​the net", "over the net"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a piece of ground with a net around it, used for practising batting and bowling",
+			"examples": [
+				{
+					"text": "He practised bowling all morning in the nets."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "the internet",
+			"labels": "(informal)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He spends his time playing computer games and **surfing the net**."
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "a network of radios or computers that are connected to each other",
+			"examples": [
+				{
+					"text": "A call on the radio net went out that there had been a crash."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to consider a lot of different people, activities, possibilities, etc. when you are looking for something",
+			"examples": [
+				{
+					"text": "It’s worth casting your net wide when applying for your first job."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "when somebody/something slips through the net, an organization or a system fails to find them and deal with them",
+			"examples": [
+				{
+					"text": "We tried to contact all former students, but one or two slipped through the net."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to consider a wide range of possibilities or cover a large area, especially to try to find somebody/something",
+			"examples": [
+				{
+					"text": "They have spread their net far and wide in the search for a new team coach."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to consider or include a larger range of options or possibilities, especially when searching for something",
+			"examples": [
+				{
+					"text": "It's time to widen the net in the search for a suitable candidate."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/net/",
+				"audio": "ne/net/net__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/net/",
+				"audio": "ne/net/net__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "noun Old English net, nett, of Germanic origin; related to Dutch net and German Netz."
 }

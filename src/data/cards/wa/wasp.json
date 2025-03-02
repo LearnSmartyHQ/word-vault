@@ -1,40 +1,40 @@
 {
-  "term": "wasp",
-  "partOfSpeech": "noun",
-  "image": "data/images/in/insects.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a black and yellow flying insect that can sting",
-      "examples": [
-        {
-          "text": "a wasp sting"
-        },
-        {
-          "text": "a wasps’ nest"
-        }
-      ],
-      "topics": ["Insects, worms, etc."],
-      "collocations": {
-        "wasp + verb": ["crawl", "fly", "sting somebody"],
-        "wasp + noun": ["sting", "nest"],
-        "phrases": ["a wasp’s nest"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/wɒsp/",
-        "audio": "wa/wasp/wasp__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/wɑːsp/",
-        "audio": "wa/wasp/wasp__us_3_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English wæfs, wæps, wæsp, of West Germanic origin, from an Indo-European root shared by Latin vespa; perhaps related to weave (from the web-like form of its nest)."
+	"term": "wasp",
+	"partOfSpeech": "noun",
+	"image": "data/images/in/insects.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a black and yellow flying insect that can sting",
+			"examples": [
+				{
+					"text": "a wasp sting"
+				},
+				{
+					"text": "a wasps’ nest"
+				}
+			],
+			"topics": ["Insects, worms, etc."],
+			"collocations": {
+				"wasp + verb": ["crawl", "fly", "sting somebody"],
+				"wasp + noun": ["sting", "nest"],
+				"phrases": ["a wasp’s nest"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/wɒsp/",
+				"audio": "wa/wasp/wasp__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/wɑːsp/",
+				"audio": "wa/wasp/wasp__us_3_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English wæfs, wæps, wæsp, of West Germanic origin, from an Indo-European root shared by Latin vespa; perhaps related to weave (from the web-like form of its nest)."
 }

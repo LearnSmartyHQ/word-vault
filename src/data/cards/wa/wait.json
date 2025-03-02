@@ -1,441 +1,441 @@
 {
-  "term": "wait",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "wait",
-      "heSheIt": "waits"
-    },
-    "pastSimple": "waited",
-    "pastParticiple": "waited",
-    "ingForm": "waiting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to stay where you are or delay doing something until somebody/something comes or something happens",
-      "sensetop": "wait + adv./prep.wait for somebody/somethingwait for somebody/something to do somethingwait to do somethingwait your turn",
-      "labels": "(especially North American English)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She rang the bell and waited."
-        },
-        {
-          "text": "The President agreed to speak to the waiting journalists."
-        },
-        {
-          "text": "They **waited patiently** while I got ready."
-        },
-        {
-          "text": "I **waited and waited**, but the bus didn't come."
-        },
-        {
-          "text": "Have you been **waiting long**?",
-          "contextForm": "wait + adv./prep."
-        },
-        {
-          "text": "to **wait (for) hours/days/weeks/months/years**"
-        },
-        {
-          "text": "I’ve been waiting (for) twenty minutes."
-        },
-        {
-          "text": "I'll **wait outside** until the meeting's over."
-        },
-        {
-          "text": "I had to **wait in line** at the bank."
-        },
-        {
-          "text": "Wait for me!",
-          "contextForm": "wait for somebody/something"
-        },
-        {
-          "text": "to **wait for a bus**"
-        },
-        {
-          "text": "I'm still **waiting for the results** of my blood test."
-        },
-        {
-          "text": "He smiled, **waiting for an answer** to his question."
-        },
-        {
-          "text": "We're waiting for the rain to stop before we go out.",
-          "contextForm": "wait for somebody/something to do something"
-        },
-        {
-          "text": "Hurry up! We're waiting to go.",
-          "contextForm": "wait to do something"
-        },
-        {
-          "text": "We'll have to wait until it stops raining."
-        },
-        {
-          "text": "You'll just have to wait your turn *(= wait until your turn comes)*.",
-          "contextForm": "wait your turn"
-        },
-        {
-          "text": "He sat waiting to board the plane."
-        },
-        {
-          "text": "We're waiting to hear back from them."
-        },
-        {
-          "text": "We had several months of waiting for something to happen."
-        }
-      ],
-      "collocations": {
-        "adverb": ["a while", "long", "forever"],
-        "verb + wait": ["have to", "must", "can hardly"],
-        "preposition": ["for", "till", "until"],
-        "phrases": [
-          "can’t afford to wait",
-          "keep somebody waiting",
-          "wait a long time"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to hope or watch for something to happen, especially for a long time",
-      "sensetop": "wait for somethingwait for somebody/something to do somethingwait to do somethingwait your chance",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Leeds United had waited for success for eighteen years.",
-          "contextForm": "wait for something"
-        },
-        {
-          "text": "This is just the opportunity I've been waiting for."
-        },
-        {
-          "text": "They are waiting for the right moment to make their move."
-        },
-        {
-          "text": "He's waiting for me to make a mistake.",
-          "contextForm": "wait for somebody/something to do something"
-        },
-        {
-          "text": "I've been **waiting a long time** to say that to her.",
-          "contextForm": "wait to do something"
-        },
-        {
-          "text": "I waited my chance and slipped out when no one was looking.",
-          "contextForm": "wait your chance"
-        },
-        {
-          "text": "We simply cannot afford to wait any longer."
-        },
-        {
-          "text": "I waited with bated breath for what would happen next."
-        },
-        {
-          "text": "Their parents waited anxiously for news."
-        },
-        {
-          "text": "She had to wait a long time for the right man to come along."
-        },
-        {
-          "text": "They waited in vain for a response."
-        },
-        {
-          "text": "We can't wait forever."
-        },
-        {
-          "text": "You might have to wait a while before you get an answer."
-        },
-        {
-          "text": "You'll have to wait until you're older."
-        },
-        {
-          "text": "He was just waiting for the chance to make fun of me."
-        },
-        {
-          "text": "I kept waiting for it to get better but it did not."
-        }
-      ],
-      "collocations": {
-        "adverb": ["a while", "long", "forever"],
-        "verb + wait": ["have to", "must", "can hardly"],
-        "preposition": ["for", "till", "until"],
-        "phrases": [
-          "can’t afford to wait",
-          "keep somebody waiting",
-          "wait a long time"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to be ready for somebody to have or use",
-      "sensetop": "wait for somebodywait to do something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Your car is waiting, sir."
-        },
-        {
-          "text": "When we arrived on the platform, there was a train waiting."
-        },
-        {
-          "text": "There's a letter waiting for you at home.",
-          "contextForm": "wait for somebody"
-        },
-        {
-          "text": "There was a nice surprise waiting for me when I got back."
-        },
-        {
-          "text": "The hotel had a taxi waiting to collect us.",
-          "contextForm": "wait to do something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to be left to be dealt with at a later time because immediate action is not needed",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I've got some calls to make but they **can wait** until tomorrow."
-        },
-        {
-          "text": "I'm afraid this **can't wait**. It's very important."
-        },
-        {
-          "text": "We've just spent a fortune on a new roof, so the new car is going to **have to wait**."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "a thing or person that is very likely to cause danger or a problem in the future because of the condition it is in or the way they behave",
-      "examples": [
-        {
-          "text": "Any one of these nuclear plants may be a disaster waiting to happen."
-        }
-      ],
-      "topics": ["Danger"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "ready to take over a particular job or be used in a particular situation when needed",
-      "examples": [
-        {
-          "text": "She was aware of a whole host of ambitious young managers waiting in the wings."
-        },
-        {
-          "text": "There's a wealth of talent waiting in the wings of British theatre."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used when you are emphasizing that somebody is very excited about something or keen to do it",
-      "examples": [
-        {
-          "text": "The children **can't wait for** Christmas to come."
-        },
-        {
-          "text": "I can hardly wait to see him again."
-        },
-        {
-          "text": "I can't wait to see their new baby."
-        },
-        {
-          "text": "I can hardly wait for my holiday!"
-        },
-        {
-          "text": "I could hardly wait for the weekend."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to make somebody have to wait or be delayed, especially because you arrive late",
-      "examples": [
-        {
-          "text": "I'm sorry to have kept you waiting."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to wait for a situation to become clear or certain",
-      "examples": [
-        {
-          "text": "He waited for the dust to settle after the election before making any new decisions."
-        }
-      ],
-      "topics": ["Doubt, guessing and certainty"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to tell somebody that they must be patient and wait to find out about something later",
-      "examples": [
-        {
-          "text": "We'll just have to wait and see—there's nothing we can do at the moment."
-        },
-        {
-          "text": "a wait-and-see policy"
-        },
-        {
-          "text": "‘Where are we going?’ ‘Wait and see!’"
-        },
-        {
-          "text": "You'll just have to wait and see what you present is."
-        },
-        {
-          "text": "We'll wait and see what the weather's like before we make a decision."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to serve food to people, for example at a formal meal",
-      "labels": "(formal)",
-      "examples": [],
-      "topics": ["Cooking and eating"]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "used to say that you are about to tell somebody something that is surprising",
-      "examples": [
-        {
-          "text": "They're off on a trip, to—wait for it—the Maldives!"
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "used to tell somebody not to start doing something yet, but to wait until you tell them",
-      "examples": []
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to wait for a short time",
-      "examples": [
-        {
-          "text": "Can you wait a second while I make a call?"
-        },
-        {
-          "text": "Hey! Wait a minute! I'll come with you!"
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "used when you have just noticed or remembered something, or had a sudden idea",
-      "examples": [
-        {
-          "text": "Wait a minute—this isn't the right key."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to take care of somebody’s needs so well that they do not have to do anything for themselves",
-      "labels": "(disapproving)",
-      "examples": [
-        {
-          "text": "He seems to expect me to wait on him hand and foot."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to work serving food to people in a restaurant",
-      "labels": "(North American English)",
-      "examples": [],
-      "topics": ["Cooking and eating"]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "used to show that you are very excited about telling or showing something to somebody",
-      "examples": [
-        {
-          "text": "Wait till you see what I've found!"
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "used to threaten to punish somebody or do something bad to them",
-      "examples": [
-        {
-          "text": "Wait till I get my hands on him!"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to suggest that you should all start doing what you have been discussing",
-      "labels": "(informal)",
-      "examples": [],
-      "topics": ["Suggestions and advice"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to tell somebody to do something now rather than later",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "If the car needs cleaning, what are you waiting for?"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to emphasize a threat, warning or promise",
-      "examples": [
-        {
-          "text": "I'll be famous one day, just you wait!"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/weɪt/",
-        "audio": "wa/wait/wait__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/weɪts/",
-        "audio": "wa/wait/waits__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈweɪtɪd/",
-        "audio": "wa/wait/waited__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈweɪtɪŋ/",
-        "audio": "wa/wait/waiting__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/weɪt/",
-        "audio": "wa/wait/wait__us_1.mp3"
-      },
-      {
-        "pronunciation": "/weɪts/",
-        "audio": "wa/wait/waits__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈweɪtɪd/",
-        "audio": "wa/wait/waited__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈweɪtɪŋ/",
-        "audio": "wa/wait/waiting__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old Northern French waitier, of Germanic origin; related to the verb wake. Early senses included ‘lie in wait (for)’, ‘observe carefully’, and ‘be watchful’."
+	"term": "wait",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "wait",
+			"heSheIt": "waits"
+		},
+		"pastSimple": "waited",
+		"pastParticiple": "waited",
+		"ingForm": "waiting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to stay where you are or delay doing something until somebody/something comes or something happens",
+			"sensetop": "wait + adv./prep.wait for somebody/somethingwait for somebody/something to do somethingwait to do somethingwait your turn",
+			"labels": "(especially North American English)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She rang the bell and waited."
+				},
+				{
+					"text": "The President agreed to speak to the waiting journalists."
+				},
+				{
+					"text": "They **waited patiently** while I got ready."
+				},
+				{
+					"text": "I **waited and waited**, but the bus didn't come."
+				},
+				{
+					"text": "Have you been **waiting long**?",
+					"contextForm": "wait + adv./prep."
+				},
+				{
+					"text": "to **wait (for) hours/days/weeks/months/years**"
+				},
+				{
+					"text": "I’ve been waiting (for) twenty minutes."
+				},
+				{
+					"text": "I'll **wait outside** until the meeting's over."
+				},
+				{
+					"text": "I had to **wait in line** at the bank."
+				},
+				{
+					"text": "Wait for me!",
+					"contextForm": "wait for somebody/something"
+				},
+				{
+					"text": "to **wait for a bus**"
+				},
+				{
+					"text": "I'm still **waiting for the results** of my blood test."
+				},
+				{
+					"text": "He smiled, **waiting for an answer** to his question."
+				},
+				{
+					"text": "We're waiting for the rain to stop before we go out.",
+					"contextForm": "wait for somebody/something to do something"
+				},
+				{
+					"text": "Hurry up! We're waiting to go.",
+					"contextForm": "wait to do something"
+				},
+				{
+					"text": "We'll have to wait until it stops raining."
+				},
+				{
+					"text": "You'll just have to wait your turn *(= wait until your turn comes)*.",
+					"contextForm": "wait your turn"
+				},
+				{
+					"text": "He sat waiting to board the plane."
+				},
+				{
+					"text": "We're waiting to hear back from them."
+				},
+				{
+					"text": "We had several months of waiting for something to happen."
+				}
+			],
+			"collocations": {
+				"adverb": ["a while", "long", "forever"],
+				"verb + wait": ["have to", "must", "can hardly"],
+				"preposition": ["for", "till", "until"],
+				"phrases": [
+					"can’t afford to wait",
+					"keep somebody waiting",
+					"wait a long time"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to hope or watch for something to happen, especially for a long time",
+			"sensetop": "wait for somethingwait for somebody/something to do somethingwait to do somethingwait your chance",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Leeds United had waited for success for eighteen years.",
+					"contextForm": "wait for something"
+				},
+				{
+					"text": "This is just the opportunity I've been waiting for."
+				},
+				{
+					"text": "They are waiting for the right moment to make their move."
+				},
+				{
+					"text": "He's waiting for me to make a mistake.",
+					"contextForm": "wait for somebody/something to do something"
+				},
+				{
+					"text": "I've been **waiting a long time** to say that to her.",
+					"contextForm": "wait to do something"
+				},
+				{
+					"text": "I waited my chance and slipped out when no one was looking.",
+					"contextForm": "wait your chance"
+				},
+				{
+					"text": "We simply cannot afford to wait any longer."
+				},
+				{
+					"text": "I waited with bated breath for what would happen next."
+				},
+				{
+					"text": "Their parents waited anxiously for news."
+				},
+				{
+					"text": "She had to wait a long time for the right man to come along."
+				},
+				{
+					"text": "They waited in vain for a response."
+				},
+				{
+					"text": "We can't wait forever."
+				},
+				{
+					"text": "You might have to wait a while before you get an answer."
+				},
+				{
+					"text": "You'll have to wait until you're older."
+				},
+				{
+					"text": "He was just waiting for the chance to make fun of me."
+				},
+				{
+					"text": "I kept waiting for it to get better but it did not."
+				}
+			],
+			"collocations": {
+				"adverb": ["a while", "long", "forever"],
+				"verb + wait": ["have to", "must", "can hardly"],
+				"preposition": ["for", "till", "until"],
+				"phrases": [
+					"can’t afford to wait",
+					"keep somebody waiting",
+					"wait a long time"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to be ready for somebody to have or use",
+			"sensetop": "wait for somebodywait to do something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Your car is waiting, sir."
+				},
+				{
+					"text": "When we arrived on the platform, there was a train waiting."
+				},
+				{
+					"text": "There's a letter waiting for you at home.",
+					"contextForm": "wait for somebody"
+				},
+				{
+					"text": "There was a nice surprise waiting for me when I got back."
+				},
+				{
+					"text": "The hotel had a taxi waiting to collect us.",
+					"contextForm": "wait to do something"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to be left to be dealt with at a later time because immediate action is not needed",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I've got some calls to make but they **can wait** until tomorrow."
+				},
+				{
+					"text": "I'm afraid this **can't wait**. It's very important."
+				},
+				{
+					"text": "We've just spent a fortune on a new roof, so the new car is going to **have to wait**."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "a thing or person that is very likely to cause danger or a problem in the future because of the condition it is in or the way they behave",
+			"examples": [
+				{
+					"text": "Any one of these nuclear plants may be a disaster waiting to happen."
+				}
+			],
+			"topics": ["Danger"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "ready to take over a particular job or be used in a particular situation when needed",
+			"examples": [
+				{
+					"text": "She was aware of a whole host of ambitious young managers waiting in the wings."
+				},
+				{
+					"text": "There's a wealth of talent waiting in the wings of British theatre."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used when you are emphasizing that somebody is very excited about something or keen to do it",
+			"examples": [
+				{
+					"text": "The children **can't wait for** Christmas to come."
+				},
+				{
+					"text": "I can hardly wait to see him again."
+				},
+				{
+					"text": "I can't wait to see their new baby."
+				},
+				{
+					"text": "I can hardly wait for my holiday!"
+				},
+				{
+					"text": "I could hardly wait for the weekend."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to make somebody have to wait or be delayed, especially because you arrive late",
+			"examples": [
+				{
+					"text": "I'm sorry to have kept you waiting."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to wait for a situation to become clear or certain",
+			"examples": [
+				{
+					"text": "He waited for the dust to settle after the election before making any new decisions."
+				}
+			],
+			"topics": ["Doubt, guessing and certainty"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to tell somebody that they must be patient and wait to find out about something later",
+			"examples": [
+				{
+					"text": "We'll just have to wait and see—there's nothing we can do at the moment."
+				},
+				{
+					"text": "a wait-and-see policy"
+				},
+				{
+					"text": "‘Where are we going?’ ‘Wait and see!’"
+				},
+				{
+					"text": "You'll just have to wait and see what you present is."
+				},
+				{
+					"text": "We'll wait and see what the weather's like before we make a decision."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to serve food to people, for example at a formal meal",
+			"labels": "(formal)",
+			"examples": [],
+			"topics": ["Cooking and eating"]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "used to say that you are about to tell somebody something that is surprising",
+			"examples": [
+				{
+					"text": "They're off on a trip, to—wait for it—the Maldives!"
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "used to tell somebody not to start doing something yet, but to wait until you tell them",
+			"examples": []
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to wait for a short time",
+			"examples": [
+				{
+					"text": "Can you wait a second while I make a call?"
+				},
+				{
+					"text": "Hey! Wait a minute! I'll come with you!"
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "used when you have just noticed or remembered something, or had a sudden idea",
+			"examples": [
+				{
+					"text": "Wait a minute—this isn't the right key."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to take care of somebody’s needs so well that they do not have to do anything for themselves",
+			"labels": "(disapproving)",
+			"examples": [
+				{
+					"text": "He seems to expect me to wait on him hand and foot."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to work serving food to people in a restaurant",
+			"labels": "(North American English)",
+			"examples": [],
+			"topics": ["Cooking and eating"]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "used to show that you are very excited about telling or showing something to somebody",
+			"examples": [
+				{
+					"text": "Wait till you see what I've found!"
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "used to threaten to punish somebody or do something bad to them",
+			"examples": [
+				{
+					"text": "Wait till I get my hands on him!"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to suggest that you should all start doing what you have been discussing",
+			"labels": "(informal)",
+			"examples": [],
+			"topics": ["Suggestions and advice"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to tell somebody to do something now rather than later",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "If the car needs cleaning, what are you waiting for?"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to emphasize a threat, warning or promise",
+			"examples": [
+				{
+					"text": "I'll be famous one day, just you wait!"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/weɪt/",
+				"audio": "wa/wait/wait__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/weɪts/",
+				"audio": "wa/wait/waits__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈweɪtɪd/",
+				"audio": "wa/wait/waited__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈweɪtɪŋ/",
+				"audio": "wa/wait/waiting__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/weɪt/",
+				"audio": "wa/wait/wait__us_1.mp3"
+			},
+			{
+				"pronunciation": "/weɪts/",
+				"audio": "wa/wait/waits__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈweɪtɪd/",
+				"audio": "wa/wait/waited__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈweɪtɪŋ/",
+				"audio": "wa/wait/waiting__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old Northern French waitier, of Germanic origin; related to the verb wake. Early senses included ‘lie in wait (for)’, ‘observe carefully’, and ‘be watchful’."
 }

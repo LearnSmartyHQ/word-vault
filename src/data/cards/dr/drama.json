@@ -1,167 +1,167 @@
 {
-  "term": "drama",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a play for the theatre, television or radio",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a costume/period/courtroom/crime drama"
-        },
-        {
-          "text": "a powerful **television drama** about city life"
-        },
-        {
-          "text": "a **drama series** set in an American dance academy"
-        },
-        {
-          "text": "It is a lavish costume drama set in the early twentieth century."
-        },
-        {
-          "text": "The story easily fits into the standard mould of a courtroom drama."
-        },
-        {
-          "text": "a gritty police drama"
-        },
-        {
-          "text": "Millions follow this hospital drama twice a week."
-        },
-        {
-          "text": "The movie is a heart-warming family drama."
-        },
-        {
-          "text": "She stars in a new one-hour drama about a woman judge."
-        },
-        {
-          "text": "a hard-hitting drama about a teenage pregnancy"
-        }
-      ],
-      "topics": ["Film and theatre", "TV, radio and news", "Hobbies"],
-      "collocations": {
-        "adjective": ["compelling", "powerful", "gritty"],
-        "verb + drama": ["write", "create", "produce"],
-        "drama + noun": ["production", "serial", "series"],
-        "preposition": ["in a/​the drama", "drama about"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "plays considered as a form of literature",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "classical/modern drama"
-        },
-        {
-          "text": "a drama critic"
-        },
-        {
-          "text": "a drama school/group"
-        },
-        {
-          "text": "a drama student/teacher"
-        },
-        {
-          "text": "I studied English and Drama at college."
-        },
-        {
-          "text": "It is a first-class piece of costume drama."
-        },
-        {
-          "text": "Television drama is a powerful cultural medium."
-        },
-        {
-          "text": "It is very difficult to write good drama."
-        },
-        {
-          "text": "He's a drama major at Howard University."
-        }
-      ],
-      "topics": ["Film and theatre", "Education"],
-      "collocations": {
-        "adjective": ["compelling", "powerful", "gritty"],
-        "verb + drama": ["write", "create", "produce"],
-        "drama + noun": ["production", "serial", "series"],
-        "preposition": ["in a/​the drama", "drama about"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "an exciting event",
-      "examples": [
-        {
-          "text": "A powerful human drama was unfolding before our eyes."
-        },
-        {
-          "text": "a collection of people watching the drama unfold outside the nightclub"
-        },
-        {
-          "text": "The actor was involved in a real-life drama when he was held up at gunpoint last night."
-        }
-      ],
-      "collocations": {
-        "adjective": ["human", "real-life"],
-        "drama + verb": ["play out", "unfold"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the fact of being exciting",
-      "examples": [
-        {
-          "text": "You couldn't help being thrilled by the drama of the situation."
-        },
-        {
-          "text": "The argument added a touch of drama to an otherwise dull day."
-        },
-        {
-          "text": "The afternoon was full of drama and excitement."
-        },
-        {
-          "text": "Art should deal with the human drama and tragedy of everyday life."
-        },
-        {
-          "text": "The media loved all the drama surrounding their divorce."
-        },
-        {
-          "text": "The arrival of the police heightened the drama further."
-        }
-      ],
-      "collocations": {
-        "adjective": ["high", "human"],
-        "… of drama": ["touch"],
-        "verb + drama": ["be full of", "add", "heighten"],
-        "drama + verb": ["surround something"],
-        "drama + noun": ["queen"],
-        "phrases": ["a moment of drama"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to make a small problem or event seem more important or serious than it really is",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈdrɑːmə/",
-        "audio": "dr/drama/drama__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈdrɑːmə/",
-        "audio": "dr/drama/drama__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 16th cent.: via late Latin from Greek drama, from dran ‘do, act’."
+	"term": "drama",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a play for the theatre, television or radio",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a costume/period/courtroom/crime drama"
+				},
+				{
+					"text": "a powerful **television drama** about city life"
+				},
+				{
+					"text": "a **drama series** set in an American dance academy"
+				},
+				{
+					"text": "It is a lavish costume drama set in the early twentieth century."
+				},
+				{
+					"text": "The story easily fits into the standard mould of a courtroom drama."
+				},
+				{
+					"text": "a gritty police drama"
+				},
+				{
+					"text": "Millions follow this hospital drama twice a week."
+				},
+				{
+					"text": "The movie is a heart-warming family drama."
+				},
+				{
+					"text": "She stars in a new one-hour drama about a woman judge."
+				},
+				{
+					"text": "a hard-hitting drama about a teenage pregnancy"
+				}
+			],
+			"topics": ["Film and theatre", "TV, radio and news", "Hobbies"],
+			"collocations": {
+				"adjective": ["compelling", "powerful", "gritty"],
+				"verb + drama": ["write", "create", "produce"],
+				"drama + noun": ["production", "serial", "series"],
+				"preposition": ["in a/​the drama", "drama about"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "plays considered as a form of literature",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "classical/modern drama"
+				},
+				{
+					"text": "a drama critic"
+				},
+				{
+					"text": "a drama school/group"
+				},
+				{
+					"text": "a drama student/teacher"
+				},
+				{
+					"text": "I studied English and Drama at college."
+				},
+				{
+					"text": "It is a first-class piece of costume drama."
+				},
+				{
+					"text": "Television drama is a powerful cultural medium."
+				},
+				{
+					"text": "It is very difficult to write good drama."
+				},
+				{
+					"text": "He's a drama major at Howard University."
+				}
+			],
+			"topics": ["Film and theatre", "Education"],
+			"collocations": {
+				"adjective": ["compelling", "powerful", "gritty"],
+				"verb + drama": ["write", "create", "produce"],
+				"drama + noun": ["production", "serial", "series"],
+				"preposition": ["in a/​the drama", "drama about"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "an exciting event",
+			"examples": [
+				{
+					"text": "A powerful human drama was unfolding before our eyes."
+				},
+				{
+					"text": "a collection of people watching the drama unfold outside the nightclub"
+				},
+				{
+					"text": "The actor was involved in a real-life drama when he was held up at gunpoint last night."
+				}
+			],
+			"collocations": {
+				"adjective": ["human", "real-life"],
+				"drama + verb": ["play out", "unfold"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the fact of being exciting",
+			"examples": [
+				{
+					"text": "You couldn't help being thrilled by the drama of the situation."
+				},
+				{
+					"text": "The argument added a touch of drama to an otherwise dull day."
+				},
+				{
+					"text": "The afternoon was full of drama and excitement."
+				},
+				{
+					"text": "Art should deal with the human drama and tragedy of everyday life."
+				},
+				{
+					"text": "The media loved all the drama surrounding their divorce."
+				},
+				{
+					"text": "The arrival of the police heightened the drama further."
+				}
+			],
+			"collocations": {
+				"adjective": ["high", "human"],
+				"… of drama": ["touch"],
+				"verb + drama": ["be full of", "add", "heighten"],
+				"drama + verb": ["surround something"],
+				"drama + noun": ["queen"],
+				"phrases": ["a moment of drama"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to make a small problem or event seem more important or serious than it really is",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈdrɑːmə/",
+				"audio": "dr/drama/drama__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈdrɑːmə/",
+				"audio": "dr/drama/drama__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 16th cent.: via late Latin from Greek drama, from dran ‘do, act’."
 }

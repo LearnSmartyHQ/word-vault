@@ -1,89 +1,89 @@
 {
-  "term": "province",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "one of the areas that some countries are divided into with its own local government",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the provinces of Canada"
-        },
-        {
-          "text": "the central province of Ghor"
-        }
-      ],
-      "collocations": {
-        "adjective": ["northern", "southern", "etc."]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "all the parts of a country except the capital city",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The show will tour the provinces after it closes in London."
-        },
-        {
-          "text": "a shy young man from the provinces"
-        },
-        {
-          "text": "She's from the provinces and not familiar with Rome."
-        },
-        {
-          "text": "There are a number of press agencies based in London and in the provinces."
-        }
-      ],
-      "collocations": {
-        "verb + the provinces": ["tour"],
-        "preposition": ["from the province", "in the province"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a person’s particular area of knowledge, interest or responsibility",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "Such decisions are normally the province of higher management."
-        },
-        {
-          "text": "I'm afraid the matter is **outside my province** *(= I cannot or need not deal with it)*."
-        },
-        {
-          "text": "Love should no longer be the sole province of the poet."
-        },
-        {
-          "text": "Once the province of IT departments, these devices are emerging as consumer products."
-        },
-        {
-          "text": "Spirituality is no longer regarded as the exclusive province of organized religion."
-        }
-      ],
-      "collocations": {
-        "adjective": ["exclusive", "sole"],
-        "verb + province": ["become", "remain", "consider something as"],
-        "phrases": ["once the province of…"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈprɒvɪns/",
-        "audio": "pr/province/province__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈprɑːvɪns/",
-        "audio": "pr/province/province__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French, from Latin provincia ‘charge, province’, of uncertain ultimate origin."
+	"term": "province",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "one of the areas that some countries are divided into with its own local government",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the provinces of Canada"
+				},
+				{
+					"text": "the central province of Ghor"
+				}
+			],
+			"collocations": {
+				"adjective": ["northern", "southern", "etc."]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "all the parts of a country except the capital city",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The show will tour the provinces after it closes in London."
+				},
+				{
+					"text": "a shy young man from the provinces"
+				},
+				{
+					"text": "She's from the provinces and not familiar with Rome."
+				},
+				{
+					"text": "There are a number of press agencies based in London and in the provinces."
+				}
+			],
+			"collocations": {
+				"verb + the provinces": ["tour"],
+				"preposition": ["from the province", "in the province"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a person’s particular area of knowledge, interest or responsibility",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "Such decisions are normally the province of higher management."
+				},
+				{
+					"text": "I'm afraid the matter is **outside my province** *(= I cannot or need not deal with it)*."
+				},
+				{
+					"text": "Love should no longer be the sole province of the poet."
+				},
+				{
+					"text": "Once the province of IT departments, these devices are emerging as consumer products."
+				},
+				{
+					"text": "Spirituality is no longer regarded as the exclusive province of organized religion."
+				}
+			],
+			"collocations": {
+				"adjective": ["exclusive", "sole"],
+				"verb + province": ["become", "remain", "consider something as"],
+				"phrases": ["once the province of…"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈprɒvɪns/",
+				"audio": "pr/province/province__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈprɑːvɪns/",
+				"audio": "pr/province/province__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French, from Latin provincia ‘charge, province’, of uncertain ultimate origin."
 }

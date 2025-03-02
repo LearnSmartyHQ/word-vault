@@ -1,140 +1,140 @@
 {
-  "term": "clue",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an object, a piece of evidence or some information that helps the police solve a crime",
-      "sensetop": "clue about somethingclue (as) to something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The burglar left no clues."
-        },
-        {
-          "text": "They are searching for clues about the kidnapping.",
-          "contextForm": "clue about something"
-        },
-        {
-          "text": "The police think the CCTV recording may **offer clues** to the identity of the killer.",
-          "contextForm": "clue (as) to something"
-        },
-        {
-          "text": "So far, the police haven't got any clues as to the motive for the crime."
-        },
-        {
-          "text": "The hat gives a clue to the identity of the killer."
-        },
-        {
-          "text": "The letter yielded no clues."
-        },
-        {
-          "text": "We must have missed some vital clue."
-        },
-        {
-          "text": "a clue as to her whereabouts"
-        },
-        {
-          "text": "Is there any clue as to how the burglars entered the building?"
-        }
-      ],
-      "topics": ["Crime and punishment"],
-      "collocations": {
-        "adjective": ["good", "important", "useful"],
-        "verb + clue": ["contain", "have", "hold"],
-        "preposition": ["clue about", "clue (as) to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a fact or a piece of evidence that helps you discover the answer to a problem",
-      "sensetop": "clue about somethingclue (as) to something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "This data may **provide clues** about the current economic situation.",
-          "contextForm": "clue about something"
-        },
-        {
-          "text": "The trailer **gives** a few important **clues** about the film's plot."
-        },
-        {
-          "text": "Diet may hold the clue to the causes of migraine.",
-          "contextForm": "clue (as) to something"
-        },
-        {
-          "text": "The text offers few clues as to his identity."
-        },
-        {
-          "text": "The picture contains subtle clues about the site's history."
-        },
-        {
-          "text": "This research might provide an important clue about how cancer develops."
-        }
-      ],
-      "collocations": {
-        "adjective": ["good", "important", "useful"],
-        "verb + clue": ["contain", "have", "hold"],
-        "preposition": ["clue about", "clue (as) to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "some words or a piece of information that helps you find the answers to a crossword, a game or a question",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "‘You'll never guess who I saw today!’ ‘Give me a clue.’"
-        },
-        {
-          "text": "a **cryptic clue** *(= one that has a hidden meaning)* from a crossword"
-        }
-      ],
-      "collocations": {
-        "adjective": ["good", "important", "useful"],
-        "verb + clue": ["contain", "have", "hold"],
-        "preposition": ["clue about", "clue (as) to"]
-      }
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to know nothing about something or about how to do something",
-      "examples": [
-        {
-          "text": "I don't have a clue where she lives."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to be very stupid",
-      "labels": "(disapproving)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "Don't ask him to do it—he doesn't have a clue!"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kluː/",
-        "audio": "cl/clue/clue__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kluː/",
-        "audio": "cl/clue/clue__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: variant of clew. The original sense was ‘a ball of thread’; this was used to guide a person out of a labyrinth. Sense (1) dates from the early 17th cent."
+	"term": "clue",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an object, a piece of evidence or some information that helps the police solve a crime",
+			"sensetop": "clue about somethingclue (as) to something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The burglar left no clues."
+				},
+				{
+					"text": "They are searching for clues about the kidnapping.",
+					"contextForm": "clue about something"
+				},
+				{
+					"text": "The police think the CCTV recording may **offer clues** to the identity of the killer.",
+					"contextForm": "clue (as) to something"
+				},
+				{
+					"text": "So far, the police haven't got any clues as to the motive for the crime."
+				},
+				{
+					"text": "The hat gives a clue to the identity of the killer."
+				},
+				{
+					"text": "The letter yielded no clues."
+				},
+				{
+					"text": "We must have missed some vital clue."
+				},
+				{
+					"text": "a clue as to her whereabouts"
+				},
+				{
+					"text": "Is there any clue as to how the burglars entered the building?"
+				}
+			],
+			"topics": ["Crime and punishment"],
+			"collocations": {
+				"adjective": ["good", "important", "useful"],
+				"verb + clue": ["contain", "have", "hold"],
+				"preposition": ["clue about", "clue (as) to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a fact or a piece of evidence that helps you discover the answer to a problem",
+			"sensetop": "clue about somethingclue (as) to something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "This data may **provide clues** about the current economic situation.",
+					"contextForm": "clue about something"
+				},
+				{
+					"text": "The trailer **gives** a few important **clues** about the film's plot."
+				},
+				{
+					"text": "Diet may hold the clue to the causes of migraine.",
+					"contextForm": "clue (as) to something"
+				},
+				{
+					"text": "The text offers few clues as to his identity."
+				},
+				{
+					"text": "The picture contains subtle clues about the site's history."
+				},
+				{
+					"text": "This research might provide an important clue about how cancer develops."
+				}
+			],
+			"collocations": {
+				"adjective": ["good", "important", "useful"],
+				"verb + clue": ["contain", "have", "hold"],
+				"preposition": ["clue about", "clue (as) to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "some words or a piece of information that helps you find the answers to a crossword, a game or a question",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "‘You'll never guess who I saw today!’ ‘Give me a clue.’"
+				},
+				{
+					"text": "a **cryptic clue** *(= one that has a hidden meaning)* from a crossword"
+				}
+			],
+			"collocations": {
+				"adjective": ["good", "important", "useful"],
+				"verb + clue": ["contain", "have", "hold"],
+				"preposition": ["clue about", "clue (as) to"]
+			}
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to know nothing about something or about how to do something",
+			"examples": [
+				{
+					"text": "I don't have a clue where she lives."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to be very stupid",
+			"labels": "(disapproving)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "Don't ask him to do it—he doesn't have a clue!"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kluː/",
+				"audio": "cl/clue/clue__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kluː/",
+				"audio": "cl/clue/clue__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: variant of clew. The original sense was ‘a ball of thread’; this was used to guide a person out of a labyrinth. Sense (1) dates from the early 17th cent."
 }

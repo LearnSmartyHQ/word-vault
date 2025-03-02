@@ -1,158 +1,158 @@
 {
-  "term": "build",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "build",
-      "heSheIt": "builds"
-    },
-    "pastSimple": "built",
-    "pastParticiple": "built",
-    "ingForm": "building"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to make something, especially a building, by putting parts together",
-      "sensetop": "build (something)be built from/of/out of somethingbe built in somethingbuild something for somebodybuild somebody something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They have permission to **build** 200 new **homes**.",
-          "contextForm": "build (something)"
-        },
-        {
-          "text": "to build a plant/facility/structure"
-        },
-        {
-          "text": "We **build** computer **systems** for large companies."
-        },
-        {
-          "text": "Robins build nests almost anywhere."
-        },
-        {
-          "text": "They don't have the money to build roads."
-        },
-        {
-          "text": "They're going to build on the site of the old power station."
-        },
-        {
-          "text": "The **houses are built** out of local stone.",
-          "contextForm": "be built from/of/out of something"
-        },
-        {
-          "text": "apartment blocks built in brick and concrete",
-          "contextForm": "be built in something"
-        },
-        {
-          "text": "They had a house built for them.",
-          "contextForm": "build something for somebody"
-        },
-        {
-          "text": "David built us a shed in the back yard.",
-          "contextForm": "build somebody something"
-        }
-      ],
-      "topics": ["Buildings"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to create or develop something",
-      "sensetop": "build something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They are trying to **build **long-term **relationships**."
-        },
-        {
-          "text": "It is important to build a network of like-minded colleagues."
-        },
-        {
-          "text": "to build a community/society"
-        },
-        {
-          "text": "We want to build a better life."
-        },
-        {
-          "text": "We focused on **building the business** one customer at a time."
-        },
-        {
-          "text": "She has built a reputation as a hard-working judge."
-        },
-        {
-          "text": "He's built a new career for himself."
-        },
-        {
-          "text": "This information will help us build a picture of his attacker."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to become gradually stronger",
-      "examples": [
-        {
-          "text": "The tension and excitement built gradually all day."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "(to have) plans or dreams that are not likely to happen or come true",
-      "examples": [
-        {
-          "text": "As a child he would wander round the boatyards, building castles in the air about owning a boat one day."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that a complicated task will take a long time and should not be rushed",
-      "labels": "(saying)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/bɪld/",
-        "audio": "bu/build/build__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/bɪldz/",
-        "audio": "bu/build/builds__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/bɪlt/",
-        "audio": "bu/build/built__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/ˈbɪldɪŋ/",
-        "audio": "bu/build/building__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/bɪld/",
-        "audio": "bu/build/build__us_1.mp3"
-      },
-      {
-        "pronunciation": "/bɪldz/",
-        "audio": "bu/build/builds__us_1.mp3"
-      },
-      {
-        "pronunciation": "/bɪlt/",
-        "audio": "bu/build/built__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈbɪldɪŋ/",
-        "audio": "bu/build/building__us_3.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English byldan, from bold, botl ‘dwelling’, of Germanic origin; related to bower."
+	"term": "build",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "build",
+			"heSheIt": "builds"
+		},
+		"pastSimple": "built",
+		"pastParticiple": "built",
+		"ingForm": "building"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to make something, especially a building, by putting parts together",
+			"sensetop": "build (something)be built from/of/out of somethingbe built in somethingbuild something for somebodybuild somebody something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They have permission to **build** 200 new **homes**.",
+					"contextForm": "build (something)"
+				},
+				{
+					"text": "to build a plant/facility/structure"
+				},
+				{
+					"text": "We **build** computer **systems** for large companies."
+				},
+				{
+					"text": "Robins build nests almost anywhere."
+				},
+				{
+					"text": "They don't have the money to build roads."
+				},
+				{
+					"text": "They're going to build on the site of the old power station."
+				},
+				{
+					"text": "The **houses are built** out of local stone.",
+					"contextForm": "be built from/of/out of something"
+				},
+				{
+					"text": "apartment blocks built in brick and concrete",
+					"contextForm": "be built in something"
+				},
+				{
+					"text": "They had a house built for them.",
+					"contextForm": "build something for somebody"
+				},
+				{
+					"text": "David built us a shed in the back yard.",
+					"contextForm": "build somebody something"
+				}
+			],
+			"topics": ["Buildings"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to create or develop something",
+			"sensetop": "build something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They are trying to **build **long-term **relationships**."
+				},
+				{
+					"text": "It is important to build a network of like-minded colleagues."
+				},
+				{
+					"text": "to build a community/society"
+				},
+				{
+					"text": "We want to build a better life."
+				},
+				{
+					"text": "We focused on **building the business** one customer at a time."
+				},
+				{
+					"text": "She has built a reputation as a hard-working judge."
+				},
+				{
+					"text": "He's built a new career for himself."
+				},
+				{
+					"text": "This information will help us build a picture of his attacker."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to become gradually stronger",
+			"examples": [
+				{
+					"text": "The tension and excitement built gradually all day."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "(to have) plans or dreams that are not likely to happen or come true",
+			"examples": [
+				{
+					"text": "As a child he would wander round the boatyards, building castles in the air about owning a boat one day."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that a complicated task will take a long time and should not be rushed",
+			"labels": "(saying)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/bɪld/",
+				"audio": "bu/build/build__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/bɪldz/",
+				"audio": "bu/build/builds__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/bɪlt/",
+				"audio": "bu/build/built__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/ˈbɪldɪŋ/",
+				"audio": "bu/build/building__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/bɪld/",
+				"audio": "bu/build/build__us_1.mp3"
+			},
+			{
+				"pronunciation": "/bɪldz/",
+				"audio": "bu/build/builds__us_1.mp3"
+			},
+			{
+				"pronunciation": "/bɪlt/",
+				"audio": "bu/build/built__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈbɪldɪŋ/",
+				"audio": "bu/build/building__us_3.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English byldan, from bold, botl ‘dwelling’, of Germanic origin; related to bower."
 }

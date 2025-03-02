@@ -1,89 +1,89 @@
 {
-  "term": "belong",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "belong",
-      "heSheIt": "belongs"
-    },
-    "pastSimple": "belonged",
-    "pastParticiple": "belonged",
-    "ingForm": "belonging"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to be in the right or suitable place",
-      "sensetop": "+ adv./prep.",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Where do these plates belong *(= where are they kept)*?"
-        },
-        {
-          "text": "Are you sure these documents belong together?"
-        },
-        {
-          "text": "Several of the points you raise do not belong in this discussion."
-        },
-        {
-          "text": "A person like that does not belong in teaching."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to feel comfortable and happy in a particular situation or with a particular group of people",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I don't feel as if I belong here."
-        }
-      ],
-      "topics": ["Feelings"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/bɪˈlɒŋ/",
-        "audio": "be/belong/belong__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/bɪˈlɒŋz/",
-        "audio": "be/belong/belongs__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/bɪˈlɒŋd/",
-        "audio": "be/belong/belonged__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/bɪˈlɒŋɪŋ/",
-        "audio": "be/belong/belonging__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/bɪˈlɔːŋ/",
-        "audio": "be/belong/belong__us_6.mp3"
-      },
-      {
-        "pronunciation": "/bɪˈlɔːŋz/",
-        "audio": "be/belong/belongs__us_1.mp3"
-      },
-      {
-        "pronunciation": "/bɪˈlɔːŋd/",
-        "audio": "be/belong/belonged__us_1.mp3"
-      },
-      {
-        "pronunciation": "/bɪˈlɔːŋɪŋ/",
-        "audio": "be/belong/belonging__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from be- (as an intensifier) + the archaic verb long ‘belong’, based on Old English gelang ‘at hand, together with’."
+	"term": "belong",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "belong",
+			"heSheIt": "belongs"
+		},
+		"pastSimple": "belonged",
+		"pastParticiple": "belonged",
+		"ingForm": "belonging"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to be in the right or suitable place",
+			"sensetop": "+ adv./prep.",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Where do these plates belong *(= where are they kept)*?"
+				},
+				{
+					"text": "Are you sure these documents belong together?"
+				},
+				{
+					"text": "Several of the points you raise do not belong in this discussion."
+				},
+				{
+					"text": "A person like that does not belong in teaching."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to feel comfortable and happy in a particular situation or with a particular group of people",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I don't feel as if I belong here."
+				}
+			],
+			"topics": ["Feelings"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/bɪˈlɒŋ/",
+				"audio": "be/belong/belong__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/bɪˈlɒŋz/",
+				"audio": "be/belong/belongs__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/bɪˈlɒŋd/",
+				"audio": "be/belong/belonged__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/bɪˈlɒŋɪŋ/",
+				"audio": "be/belong/belonging__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/bɪˈlɔːŋ/",
+				"audio": "be/belong/belong__us_6.mp3"
+			},
+			{
+				"pronunciation": "/bɪˈlɔːŋz/",
+				"audio": "be/belong/belongs__us_1.mp3"
+			},
+			{
+				"pronunciation": "/bɪˈlɔːŋd/",
+				"audio": "be/belong/belonged__us_1.mp3"
+			},
+			{
+				"pronunciation": "/bɪˈlɔːŋɪŋ/",
+				"audio": "be/belong/belonging__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from be- (as an intensifier) + the archaic verb long ‘belong’, based on Old English gelang ‘at hand, together with’."
 }

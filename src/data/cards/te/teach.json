@@ -1,205 +1,205 @@
 {
-  "term": "teach",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "teach",
-      "heSheIt": "teaches"
-    },
-    "pastSimple": "taught",
-    "pastParticiple": "taught",
-    "ingForm": "teaching"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to give lessons to students in a school, college, university, etc.; to help somebody learn something by giving information about it",
-      "sensetop": "teach somethingteach something to somebodyteach somebody somethingteach somebodyteach somebody about something",
-      "labels": "(North American English)(especially British English)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She teaches at our local school."
-        },
-        {
-          "text": "He taught for several years before becoming a writer."
-        },
-        {
-          "text": "I'll be teaching history and sociology next term.",
-          "contextForm": "teach something"
-        },
-        {
-          "text": "to **teach** yoga **classes**"
-        },
-        {
-          "text": "to **teach school** *(= teach in a school)*"
-        },
-        {
-          "text": "He teaches English to advanced students.",
-          "contextForm": "teach something to somebody"
-        },
-        {
-          "text": "He teaches them English.",
-          "contextForm": "teach somebody something"
-        },
-        {
-          "text": "My wife teaches undergraduate students.",
-          "contextForm": "teach somebody"
-        },
-        {
-          "text": "Schools should teach children about healthy eating.",
-          "contextForm": "teach somebody about something"
-        },
-        {
-          "text": "information which helps the teacher teach more effectively"
-        },
-        {
-          "text": "I am not qualified to teach this subject."
-        },
-        {
-          "text": "training courses designed to teach managerial techniques"
-        },
-        {
-          "text": "the languages that are commonly taught in schools today"
-        },
-        {
-          "text": "teaching children about the world around them"
-        }
-      ],
-      "topics": ["Education"],
-      "collocations": {
-        "adverb": ["effectively", "well", "commonly"],
-        "verb + teach": ["try to", "be qualified to", "be designed to"],
-        "preposition": ["about", "to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to show somebody how to do something so that they will be able to do it themselves",
-      "sensetop": "teach somebody to do somethingteach somebody how, what, etc…",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Could you teach me to do that?",
-          "contextForm": "teach somebody to do something"
-        },
-        {
-          "text": "I'm trying to teach my daughter to behave."
-        },
-        {
-          "text": "My father taught me how to ride a bike.",
-          "contextForm": "teach somebody how, what, etc…"
-        }
-      ],
-      "collocations": {
-        "adverb": ["effectively", "well", "commonly"],
-        "verb + teach": ["try to", "be qualified to", "be designed to"],
-        "preposition": ["about", "to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to make somebody feel or think in a different way",
-      "sensetop": "teach somebody to do somethingteach somebody that…teach that…teach somebody something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She taught me to be less critical of other people.",
-          "contextForm": "teach somebody to do something"
-        },
-        {
-          "text": "My parents taught me that honesty was always the best policy.",
-          "contextForm": "teach somebody that…"
-        },
-        {
-          "text": "The book teaches that we shouldn't be afraid of change.",
-          "contextForm": "teach that…"
-        },
-        {
-          "text": "Our experience as refugees taught us many valuable lessons.",
-          "contextForm": "teach somebody something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to persuade somebody not to do something again by making them suffer so much that they are afraid to do it",
-      "sensetop": "teach somebody to do somethingteach somebody something",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Lost all your money? **That'll teach you** to gamble.",
-          "contextForm": "teach somebody to do something"
-        },
-        {
-          "text": "I'll teach you to call *(= punish you for calling)* me a liar!"
-        },
-        {
-          "text": "The accident **taught me a lesson** I'll never forget.",
-          "contextForm": "teach somebody something"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to tell or show somebody how to do something that they can already do well, and probably better than you can",
-      "labels": "(British English, informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "(you cannot) successfully make people change their ideas, methods of work, etc., when they have had them for a long time",
-      "labels": "(saying)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to teach students only what is necessary in order to pass a particular test, rather than help them develop a range of skills",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/tiːtʃ/",
-        "audio": "te/teach/teach__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈtiːtʃɪz/",
-        "audio": "te/teach/teaches__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/tɔːt/",
-        "audio": "ta/teach/taught__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈtiːtʃɪŋ/",
-        "audio": "te/teach/teaching__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/tiːtʃ/",
-        "audio": "te/teach/teach__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtiːtʃɪz/",
-        "audio": "te/teach/teaches__us_1.mp3"
-      },
-      {
-        "pronunciation": "/tɔːt/",
-        "audio": "ta/teach/taught__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtiːtʃɪŋ/",
-        "audio": "te/teach/teaching__us_3.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English tǣcan ‘show, present, point out’, of Germanic origin; related to token, from an Indo-European root shared by Greek deiknunai ‘show’, deigma ‘sample’."
+	"term": "teach",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "teach",
+			"heSheIt": "teaches"
+		},
+		"pastSimple": "taught",
+		"pastParticiple": "taught",
+		"ingForm": "teaching"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to give lessons to students in a school, college, university, etc.; to help somebody learn something by giving information about it",
+			"sensetop": "teach somethingteach something to somebodyteach somebody somethingteach somebodyteach somebody about something",
+			"labels": "(North American English)(especially British English)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She teaches at our local school."
+				},
+				{
+					"text": "He taught for several years before becoming a writer."
+				},
+				{
+					"text": "I'll be teaching history and sociology next term.",
+					"contextForm": "teach something"
+				},
+				{
+					"text": "to **teach** yoga **classes**"
+				},
+				{
+					"text": "to **teach school** *(= teach in a school)*"
+				},
+				{
+					"text": "He teaches English to advanced students.",
+					"contextForm": "teach something to somebody"
+				},
+				{
+					"text": "He teaches them English.",
+					"contextForm": "teach somebody something"
+				},
+				{
+					"text": "My wife teaches undergraduate students.",
+					"contextForm": "teach somebody"
+				},
+				{
+					"text": "Schools should teach children about healthy eating.",
+					"contextForm": "teach somebody about something"
+				},
+				{
+					"text": "information which helps the teacher teach more effectively"
+				},
+				{
+					"text": "I am not qualified to teach this subject."
+				},
+				{
+					"text": "training courses designed to teach managerial techniques"
+				},
+				{
+					"text": "the languages that are commonly taught in schools today"
+				},
+				{
+					"text": "teaching children about the world around them"
+				}
+			],
+			"topics": ["Education"],
+			"collocations": {
+				"adverb": ["effectively", "well", "commonly"],
+				"verb + teach": ["try to", "be qualified to", "be designed to"],
+				"preposition": ["about", "to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to show somebody how to do something so that they will be able to do it themselves",
+			"sensetop": "teach somebody to do somethingteach somebody how, what, etc…",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Could you teach me to do that?",
+					"contextForm": "teach somebody to do something"
+				},
+				{
+					"text": "I'm trying to teach my daughter to behave."
+				},
+				{
+					"text": "My father taught me how to ride a bike.",
+					"contextForm": "teach somebody how, what, etc…"
+				}
+			],
+			"collocations": {
+				"adverb": ["effectively", "well", "commonly"],
+				"verb + teach": ["try to", "be qualified to", "be designed to"],
+				"preposition": ["about", "to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to make somebody feel or think in a different way",
+			"sensetop": "teach somebody to do somethingteach somebody that…teach that…teach somebody something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She taught me to be less critical of other people.",
+					"contextForm": "teach somebody to do something"
+				},
+				{
+					"text": "My parents taught me that honesty was always the best policy.",
+					"contextForm": "teach somebody that…"
+				},
+				{
+					"text": "The book teaches that we shouldn't be afraid of change.",
+					"contextForm": "teach that…"
+				},
+				{
+					"text": "Our experience as refugees taught us many valuable lessons.",
+					"contextForm": "teach somebody something"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to persuade somebody not to do something again by making them suffer so much that they are afraid to do it",
+			"sensetop": "teach somebody to do somethingteach somebody something",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Lost all your money? **That'll teach you** to gamble.",
+					"contextForm": "teach somebody to do something"
+				},
+				{
+					"text": "I'll teach you to call *(= punish you for calling)* me a liar!"
+				},
+				{
+					"text": "The accident **taught me a lesson** I'll never forget.",
+					"contextForm": "teach somebody something"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to tell or show somebody how to do something that they can already do well, and probably better than you can",
+			"labels": "(British English, informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "(you cannot) successfully make people change their ideas, methods of work, etc., when they have had them for a long time",
+			"labels": "(saying)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to teach students only what is necessary in order to pass a particular test, rather than help them develop a range of skills",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/tiːtʃ/",
+				"audio": "te/teach/teach__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈtiːtʃɪz/",
+				"audio": "te/teach/teaches__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/tɔːt/",
+				"audio": "ta/teach/taught__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈtiːtʃɪŋ/",
+				"audio": "te/teach/teaching__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/tiːtʃ/",
+				"audio": "te/teach/teach__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtiːtʃɪz/",
+				"audio": "te/teach/teaches__us_1.mp3"
+			},
+			{
+				"pronunciation": "/tɔːt/",
+				"audio": "ta/teach/taught__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtiːtʃɪŋ/",
+				"audio": "te/teach/teaching__us_3.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English tǣcan ‘show, present, point out’, of Germanic origin; related to token, from an Indo-European root shared by Greek deiknunai ‘show’, deigma ‘sample’."
 }

@@ -1,239 +1,239 @@
 {
-  "term": "block",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "image": "data/images/ho/homes.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a large piece of a solid material that is square or rectangular in shape and usually has flat sides",
-      "sensetop": "block of something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The houses are made of concrete blocks with tin roofs."
-        },
-        {
-          "text": "a block of ice/wood",
-          "contextForm": "block of something"
-        },
-        {
-          "text": "The wall was made from massive blocks of stone."
-        }
-      ],
-      "topics": ["Physics and chemistry", "Buildings"],
-      "collocations": {
-        "adjective": ["big", "huge", "large"],
-        "phrases": ["on the chopping block"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a tall building that contains flats or offices; buildings that form part of a school, hospital, etc. which are used for a particular purpose",
-      "labels": "(British English)(British English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **block of flats**"
-        },
-        {
-          "text": "a **tower block**"
-        },
-        {
-          "text": "an **office block**"
-        },
-        {
-          "text": "She lives in a modern **apartment block**."
-        },
-        {
-          "text": "the university’s science block"
-        },
-        {
-          "text": "They live in the next block."
-        },
-        {
-          "text": "The prisoners had been transferred to a different cell block."
-        }
-      ],
-      "topics": ["Buildings"],
-      "collocations": {
-        "adjective": ["high-rise", "tower", "tenement"],
-        "preposition": ["in a/​the block", "block of"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the length of one side of a piece of land or group of buildings, from the place where one street crosses it to the next",
-      "labels": "(North American English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "His apartment is three blocks away from the police station."
-        },
-        {
-          "text": "They walked a few blocks down the street."
-        }
-      ],
-      "topics": ["Transport by car or lorry"],
-      "collocations": {
-        "adjective": ["city"],
-        "preposition": ["around the block", "round the block", "block from"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a group of buildings with streets on all sides",
-      "sensetop": "around the block",
-      "labels": "(North American English)",
-      "cefr": "b1",
-      "examples": [
-        {
-          "text": "She took the dog for a walk around the block.",
-          "contextForm": "around the block"
-        },
-        {
-          "text": "The downtown area covers four **city blocks**."
-        },
-        {
-          "text": "The hotel occupies an entire block."
-        },
-        {
-          "text": "People were queueing round the block to get in."
-        }
-      ],
-      "topics": ["Transport by car or lorry", "Buildings"],
-      "collocations": {
-        "adjective": ["city"],
-        "preposition": ["around the block", "round the block", "block from"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a large area of land",
-      "labels": "(especially North American English)",
-      "examples": []
-    },
-    {
-      "senseNumber": 6,
-      "definition": "an area of land for building a house on",
-      "labels": "(Australian English)",
-      "examples": []
-    },
-    {
-      "senseNumber": 7,
-      "definition": "a quantity of something or an amount of time that is considered as a single unit",
-      "labels": "(British English)",
-      "examples": [
-        {
-          "text": "a block of shares"
-        },
-        {
-          "text": "a block of text in a document"
-        },
-        {
-          "text": "The theatre gives discounts for **block bookings** *(= a large number of tickets bought at the same time)*."
-        },
-        {
-          "text": "The three-hour class is divided into four blocks of 45 minutes each."
-        }
-      ]
-    },
-    {
-      "senseNumber": 8,
-      "definition": "something that makes movement or progress difficult or impossible",
-      "sensetop": "block (to something)",
-      "examples": [
-        {
-          "text": "Lack of training acts as a block to progress in a career."
-        },
-        {
-          "text": "I suddenly had a **mental block** and couldn't remember his name."
-        }
-      ],
-      "collocations": {
-        "adjective": ["mental", "writer’s"],
-        "verb + block": ["experience", "have", "suffer from"]
-      }
-    },
-    {
-      "senseNumber": 9,
-      "definition": "a movement that stops another player from going forward",
-      "examples": []
-    },
-    {
-      "senseNumber": 10,
-      "definition": "the two blocks on the ground that runners push their feet against at the beginning of a race",
-      "examples": []
-    },
-    {
-      "senseNumber": 11,
-      "definition": "(in the past) the piece of wood on which a person’s head was cut off as a punishment",
-      "examples": [],
-      "collocations": {
-        "adjective": ["big", "huge", "large"],
-        "phrases": ["on the chopping block"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "a person who is very similar to their mother or father in the way that they look or behave",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be sold, especially at an auction (= a sale in which items are sold to the person who offers the most money)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to have a lot of experience",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to threaten somebody that you will hit them",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "a person who is new to a place, an organization, etc.",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Despite his six years in politics, he was still regarded by many as the new kid on the block."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to risk losing your job, damaging your reputation, etc. by doing or saying something",
-      "examples": [
-        {
-          "text": "It's not a matter that I'm prepared to put my head on the block for."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/blɒk/",
-        "audio": "bl/block/block__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/blɑːk/",
-        "audio": "bl/block/block__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (denoting a log or tree stump): from Old French bloc (noun), bloquer (verb), from Middle Dutch blok, of unknown ultimate origin."
+	"term": "block",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"image": "data/images/ho/homes.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a large piece of a solid material that is square or rectangular in shape and usually has flat sides",
+			"sensetop": "block of something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The houses are made of concrete blocks with tin roofs."
+				},
+				{
+					"text": "a block of ice/wood",
+					"contextForm": "block of something"
+				},
+				{
+					"text": "The wall was made from massive blocks of stone."
+				}
+			],
+			"topics": ["Physics and chemistry", "Buildings"],
+			"collocations": {
+				"adjective": ["big", "huge", "large"],
+				"phrases": ["on the chopping block"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a tall building that contains flats or offices; buildings that form part of a school, hospital, etc. which are used for a particular purpose",
+			"labels": "(British English)(British English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **block of flats**"
+				},
+				{
+					"text": "a **tower block**"
+				},
+				{
+					"text": "an **office block**"
+				},
+				{
+					"text": "She lives in a modern **apartment block**."
+				},
+				{
+					"text": "the university’s science block"
+				},
+				{
+					"text": "They live in the next block."
+				},
+				{
+					"text": "The prisoners had been transferred to a different cell block."
+				}
+			],
+			"topics": ["Buildings"],
+			"collocations": {
+				"adjective": ["high-rise", "tower", "tenement"],
+				"preposition": ["in a/​the block", "block of"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the length of one side of a piece of land or group of buildings, from the place where one street crosses it to the next",
+			"labels": "(North American English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "His apartment is three blocks away from the police station."
+				},
+				{
+					"text": "They walked a few blocks down the street."
+				}
+			],
+			"topics": ["Transport by car or lorry"],
+			"collocations": {
+				"adjective": ["city"],
+				"preposition": ["around the block", "round the block", "block from"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a group of buildings with streets on all sides",
+			"sensetop": "around the block",
+			"labels": "(North American English)",
+			"cefr": "b1",
+			"examples": [
+				{
+					"text": "She took the dog for a walk around the block.",
+					"contextForm": "around the block"
+				},
+				{
+					"text": "The downtown area covers four **city blocks**."
+				},
+				{
+					"text": "The hotel occupies an entire block."
+				},
+				{
+					"text": "People were queueing round the block to get in."
+				}
+			],
+			"topics": ["Transport by car or lorry", "Buildings"],
+			"collocations": {
+				"adjective": ["city"],
+				"preposition": ["around the block", "round the block", "block from"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a large area of land",
+			"labels": "(especially North American English)",
+			"examples": []
+		},
+		{
+			"senseNumber": 6,
+			"definition": "an area of land for building a house on",
+			"labels": "(Australian English)",
+			"examples": []
+		},
+		{
+			"senseNumber": 7,
+			"definition": "a quantity of something or an amount of time that is considered as a single unit",
+			"labels": "(British English)",
+			"examples": [
+				{
+					"text": "a block of shares"
+				},
+				{
+					"text": "a block of text in a document"
+				},
+				{
+					"text": "The theatre gives discounts for **block bookings** *(= a large number of tickets bought at the same time)*."
+				},
+				{
+					"text": "The three-hour class is divided into four blocks of 45 minutes each."
+				}
+			]
+		},
+		{
+			"senseNumber": 8,
+			"definition": "something that makes movement or progress difficult or impossible",
+			"sensetop": "block (to something)",
+			"examples": [
+				{
+					"text": "Lack of training acts as a block to progress in a career."
+				},
+				{
+					"text": "I suddenly had a **mental block** and couldn't remember his name."
+				}
+			],
+			"collocations": {
+				"adjective": ["mental", "writer’s"],
+				"verb + block": ["experience", "have", "suffer from"]
+			}
+		},
+		{
+			"senseNumber": 9,
+			"definition": "a movement that stops another player from going forward",
+			"examples": []
+		},
+		{
+			"senseNumber": 10,
+			"definition": "the two blocks on the ground that runners push their feet against at the beginning of a race",
+			"examples": []
+		},
+		{
+			"senseNumber": 11,
+			"definition": "(in the past) the piece of wood on which a person’s head was cut off as a punishment",
+			"examples": [],
+			"collocations": {
+				"adjective": ["big", "huge", "large"],
+				"phrases": ["on the chopping block"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "a person who is very similar to their mother or father in the way that they look or behave",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be sold, especially at an auction (= a sale in which items are sold to the person who offers the most money)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to have a lot of experience",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to threaten somebody that you will hit them",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "a person who is new to a place, an organization, etc.",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Despite his six years in politics, he was still regarded by many as the new kid on the block."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to risk losing your job, damaging your reputation, etc. by doing or saying something",
+			"examples": [
+				{
+					"text": "It's not a matter that I'm prepared to put my head on the block for."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/blɒk/",
+				"audio": "bl/block/block__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/blɑːk/",
+				"audio": "bl/block/block__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (denoting a log or tree stump): from Old French bloc (noun), bloquer (verb), from Middle Dutch blok, of unknown ultimate origin."
 }

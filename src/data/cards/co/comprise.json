@@ -1,88 +1,88 @@
 {
-  "term": "comprise",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "comprise",
-      "heSheIt": "comprises"
-    },
-    "pastSimple": "comprised",
-    "pastParticiple": "comprised",
-    "ingForm": ""
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to have somebody/something as parts or members",
-      "sensetop": "comprise somethingbe comprised of somebody/something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "The collection comprises 327 paintings.",
-          "contextForm": "comprise something"
-        },
-        {
-          "text": "a book comprising eight short stories"
-        },
-        {
-          "text": "The committee is comprised of representatives from both the public and private sectors.",
-          "contextForm": "be comprised of somebody/something"
-        }
-      ],
-      "synonyms": "consist of"
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to be the parts or members that form something",
-      "sensetop": "comprise something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Older people comprise a large proportion of those living in poverty."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kəmˈpraɪz/",
-        "audio": "co/comprise/comprise__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpraɪzɪz/",
-        "audio": "co/comprise/comprises__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpraɪzd/",
-        "audio": "co/comprise/comprised__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpraɪzɪŋ/",
-        "audio": "co/comprise/comprising__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kəmˈpraɪz/",
-        "audio": "co/comprise/comprise__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpraɪzɪz/",
-        "audio": "co/comprise/comprises__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpraɪzd/",
-        "audio": "co/comprise/comprised__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpraɪzɪŋ/",
-        "audio": "co/comprise/comprising__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from French, ‘comprised’, feminine past participle of comprendre, from Old French comprehender, from com- ‘together’ + prehendere ‘grasp’."
+	"term": "comprise",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "comprise",
+			"heSheIt": "comprises"
+		},
+		"pastSimple": "comprised",
+		"pastParticiple": "comprised",
+		"ingForm": ""
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to have somebody/something as parts or members",
+			"sensetop": "comprise somethingbe comprised of somebody/something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "The collection comprises 327 paintings.",
+					"contextForm": "comprise something"
+				},
+				{
+					"text": "a book comprising eight short stories"
+				},
+				{
+					"text": "The committee is comprised of representatives from both the public and private sectors.",
+					"contextForm": "be comprised of somebody/something"
+				}
+			],
+			"synonyms": "consist of"
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to be the parts or members that form something",
+			"sensetop": "comprise something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Older people comprise a large proportion of those living in poverty."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kəmˈpraɪz/",
+				"audio": "co/comprise/comprise__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpraɪzɪz/",
+				"audio": "co/comprise/comprises__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpraɪzd/",
+				"audio": "co/comprise/comprised__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpraɪzɪŋ/",
+				"audio": "co/comprise/comprising__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kəmˈpraɪz/",
+				"audio": "co/comprise/comprise__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpraɪzɪz/",
+				"audio": "co/comprise/comprises__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpraɪzd/",
+				"audio": "co/comprise/comprised__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpraɪzɪŋ/",
+				"audio": "co/comprise/comprising__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from French, ‘comprised’, feminine past participle of comprendre, from Old French comprehender, from com- ‘together’ + prehendere ‘grasp’."
 }

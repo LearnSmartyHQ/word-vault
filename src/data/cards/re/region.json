@@ -1,182 +1,182 @@
 {
-  "term": "region",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a large area of land, usually without exact limits or borders",
-      "sensetop": "in the regionacross the regionthroughout the region",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "mountainous/coastal regions"
-        },
-        {
-          "text": "the northern/southern/central, etc. region"
-        },
-        {
-          "text": "This is one of the most densely populated regions of North America."
-        },
-        {
-          "text": "There are more than two million people living in the region.",
-          "contextForm": "in the region"
-        },
-        {
-          "text": "Many new species have been discovered in the Amazon region."
-        },
-        {
-          "text": "Businesses across the region are supporting the project.",
-          "contextForm": "across the region"
-        },
-        {
-          "text": "The plant is found throughout the western region of the country.",
-          "contextForm": "throughout the region"
-        },
-        {
-          "text": "Italy's richest region"
-        },
-        {
-          "text": "Nomads have inhabited this region for thousands of years."
-        },
-        {
-          "text": "Sanitary facilities varied widely from region to region."
-        },
-        {
-          "text": "Sports events across the region have been affected by the weather."
-        },
-        {
-          "text": "The animal is found in the northern regions of Sweden."
-        },
-        {
-          "text": "The champagne-producing region covers 34 500 hectares."
-        },
-        {
-          "text": "This bird is largely confined to the southern regions of the country."
-        },
-        {
-          "text": "This tropical forest region is characterized by frequent heavy rainfall."
-        },
-        {
-          "text": "Twenty participants from the Asia-Pacific region will be invited to the seminar."
-        },
-        {
-          "text": "a sparsely populated region"
-        },
-        {
-          "text": "an attempt to bring peace and stability to a troubled region"
-        },
-        {
-          "text": "oil exploration in remote regions of the Russian Far East"
-        },
-        {
-          "text": "the poorer regions of the continent"
-        },
-        {
-          "text": "Many new species have been discovered in the Amazon region."
-        },
-        {
-          "text": "Soil erosion is particularly serious in dry tropical regions."
-        }
-      ],
-      "topics": ["Geography"],
-      "collocations": {
-        "adjective": ["large", "small", "entire"],
-        "verb + region": ["inhabit", "live in", "occupy"],
-        "region + verb": ["cover somebody/​something"],
-        "preposition": [
-          "across a/​the region",
-          "from a/​the region",
-          "in a/​the region"
-        ],
-        "phrases": ["something varies from region to region"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "one of the areas that a country is divided into, that has its own customs and/or its own government",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Bilbao is the largest city in the Basque region in northern Spain."
-        },
-        {
-          "text": "The country is divided into 17 autonomous regions."
-        }
-      ],
-      "collocations": {
-        "adjective": ["large", "small", "entire"],
-        "verb + region": ["inhabit", "live in", "occupy"],
-        "region + verb": ["cover somebody/​something"],
-        "preposition": [
-          "across a/​the region",
-          "from a/​the region",
-          "in a/​the region"
-        ],
-        "phrases": ["something varies from region to region"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "all of a country except the capital city",
-      "labels": "(British English)",
-      "examples": [
-        {
-          "text": "People in the regions should not have to travel to London to fly to the United States."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a part of the body, usually one that has a particular character or problem",
-      "examples": [
-        {
-          "text": "pains in the abdominal region"
-        },
-        {
-          "text": "cells in a particular region of the brain"
-        },
-        {
-          "text": "tissue from the mouth region"
-        }
-      ],
-      "collocations": {
-        "adjective": ["distinct", "particular", "specific"],
-        "preposition": [
-          "from a/​the region",
-          "in a/​the region",
-          "within a/​the region"
-        ]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "used when you are giving a number, price, etc. to show that it is not exact",
-      "examples": [
-        {
-          "text": "He earns somewhere in the region of €50 000."
-        }
-      ],
-      "synonyms": "approximately"
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈriːdʒən/",
-        "audio": "re/region/region__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈriːdʒən/",
-        "audio": "re/region/region__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French, from Latin regio(n-) ‘direction, district’, from regere ‘to rule, direct’."
+	"term": "region",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a large area of land, usually without exact limits or borders",
+			"sensetop": "in the regionacross the regionthroughout the region",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "mountainous/coastal regions"
+				},
+				{
+					"text": "the northern/southern/central, etc. region"
+				},
+				{
+					"text": "This is one of the most densely populated regions of North America."
+				},
+				{
+					"text": "There are more than two million people living in the region.",
+					"contextForm": "in the region"
+				},
+				{
+					"text": "Many new species have been discovered in the Amazon region."
+				},
+				{
+					"text": "Businesses across the region are supporting the project.",
+					"contextForm": "across the region"
+				},
+				{
+					"text": "The plant is found throughout the western region of the country.",
+					"contextForm": "throughout the region"
+				},
+				{
+					"text": "Italy's richest region"
+				},
+				{
+					"text": "Nomads have inhabited this region for thousands of years."
+				},
+				{
+					"text": "Sanitary facilities varied widely from region to region."
+				},
+				{
+					"text": "Sports events across the region have been affected by the weather."
+				},
+				{
+					"text": "The animal is found in the northern regions of Sweden."
+				},
+				{
+					"text": "The champagne-producing region covers 34 500 hectares."
+				},
+				{
+					"text": "This bird is largely confined to the southern regions of the country."
+				},
+				{
+					"text": "This tropical forest region is characterized by frequent heavy rainfall."
+				},
+				{
+					"text": "Twenty participants from the Asia-Pacific region will be invited to the seminar."
+				},
+				{
+					"text": "a sparsely populated region"
+				},
+				{
+					"text": "an attempt to bring peace and stability to a troubled region"
+				},
+				{
+					"text": "oil exploration in remote regions of the Russian Far East"
+				},
+				{
+					"text": "the poorer regions of the continent"
+				},
+				{
+					"text": "Many new species have been discovered in the Amazon region."
+				},
+				{
+					"text": "Soil erosion is particularly serious in dry tropical regions."
+				}
+			],
+			"topics": ["Geography"],
+			"collocations": {
+				"adjective": ["large", "small", "entire"],
+				"verb + region": ["inhabit", "live in", "occupy"],
+				"region + verb": ["cover somebody/​something"],
+				"preposition": [
+					"across a/​the region",
+					"from a/​the region",
+					"in a/​the region"
+				],
+				"phrases": ["something varies from region to region"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "one of the areas that a country is divided into, that has its own customs and/or its own government",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Bilbao is the largest city in the Basque region in northern Spain."
+				},
+				{
+					"text": "The country is divided into 17 autonomous regions."
+				}
+			],
+			"collocations": {
+				"adjective": ["large", "small", "entire"],
+				"verb + region": ["inhabit", "live in", "occupy"],
+				"region + verb": ["cover somebody/​something"],
+				"preposition": [
+					"across a/​the region",
+					"from a/​the region",
+					"in a/​the region"
+				],
+				"phrases": ["something varies from region to region"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "all of a country except the capital city",
+			"labels": "(British English)",
+			"examples": [
+				{
+					"text": "People in the regions should not have to travel to London to fly to the United States."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a part of the body, usually one that has a particular character or problem",
+			"examples": [
+				{
+					"text": "pains in the abdominal region"
+				},
+				{
+					"text": "cells in a particular region of the brain"
+				},
+				{
+					"text": "tissue from the mouth region"
+				}
+			],
+			"collocations": {
+				"adjective": ["distinct", "particular", "specific"],
+				"preposition": [
+					"from a/​the region",
+					"in a/​the region",
+					"within a/​the region"
+				]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "used when you are giving a number, price, etc. to show that it is not exact",
+			"examples": [
+				{
+					"text": "He earns somewhere in the region of €50 000."
+				}
+			],
+			"synonyms": "approximately"
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈriːdʒən/",
+				"audio": "re/region/region__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈriːdʒən/",
+				"audio": "re/region/region__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French, from Latin regio(n-) ‘direction, district’, from regere ‘to rule, direct’."
 }

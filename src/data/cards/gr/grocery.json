@@ -1,64 +1,64 @@
 {
-  "term": "grocery",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a shop that sells food and other things used in the home. In American English ‘grocery store’ is often used to mean ‘supermarket’.",
-      "labels": "(especially British English)North American English usually",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "the corner grocery store"
-        }
-      ],
-      "collocations": {
-        "adjective": ["corner", "local", "neighbourhood/​neighborhood"],
-        "grocery/​grocery store + noun": ["checkout", "aisle", "shelves"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "food and other goods sold by a grocer or at a supermarket",
-      "labels": "(especially British English)(especially North American English)(especially North American English)(British English)(especially North American English)(North American English, informal)(British English)(North American English)(British English)(British English)(North American English)(British English)(North American English)(British English)(North American English)(North American English)(British English)(especially North American English)(especially British English)(British English)(North American English)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "He walked in and set the bag of groceries down on the floor."
-        },
-        {
-          "text": "Mom wanted me to get the groceries."
-        },
-        {
-          "text": "We have our groceries delivered."
-        },
-        {
-          "text": "my weekly groceries"
-        }
-      ],
-      "topics": ["Shopping"],
-      "collocations": {
-        "adjective": ["weekly"],
-        "… of groceries": ["bag"],
-        "verb + groceries": ["buy", "get", "deliver"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈɡrəʊsəri/",
-        "audio": "gr/grocery/grocery__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈɡrəʊsəri/",
-        "audio": "gr/grocery/grocery__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "grocery",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a shop that sells food and other things used in the home. In American English ‘grocery store’ is often used to mean ‘supermarket’.",
+			"labels": "(especially British English)North American English usually",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "the corner grocery store"
+				}
+			],
+			"collocations": {
+				"adjective": ["corner", "local", "neighbourhood/​neighborhood"],
+				"grocery/​grocery store + noun": ["checkout", "aisle", "shelves"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "food and other goods sold by a grocer or at a supermarket",
+			"labels": "(especially British English)(especially North American English)(especially North American English)(British English)(especially North American English)(North American English, informal)(British English)(North American English)(British English)(British English)(North American English)(British English)(North American English)(British English)(North American English)(North American English)(British English)(especially North American English)(especially British English)(British English)(North American English)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "He walked in and set the bag of groceries down on the floor."
+				},
+				{
+					"text": "Mom wanted me to get the groceries."
+				},
+				{
+					"text": "We have our groceries delivered."
+				},
+				{
+					"text": "my weekly groceries"
+				}
+			],
+			"topics": ["Shopping"],
+			"collocations": {
+				"adjective": ["weekly"],
+				"… of groceries": ["bag"],
+				"verb + groceries": ["buy", "get", "deliver"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈɡrəʊsəri/",
+				"audio": "gr/grocery/grocery__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈɡrəʊsəri/",
+				"audio": "gr/grocery/grocery__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

@@ -1,99 +1,99 @@
 {
-  "term": "interact",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "interact",
-      "heSheIt": "interacts"
-    },
-    "pastSimple": "interacted",
-    "pastParticiple": "interacted",
-    "ingForm": "interacting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to communicate with somebody, especially while you work, play or spend time with them",
-      "sensetop": "interact (with somebody)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Teachers have a limited amount of time to interact with each child."
-        },
-        {
-          "text": "He interacts very well with other children."
-        },
-        {
-          "text": "The only thing he interacts with is his computer!"
-        }
-      ],
-      "collocations": {
-        "adverb": ["well", "socially"],
-        "preposition": ["with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "if one thing interacts with another, or if two things interact, the two things have an effect on each other",
-      "sensetop": "interact (with something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Perfume interacts with the skin's natural chemicals."
-        },
-        {
-          "text": "This hormone interacts closely with other hormones in the body."
-        },
-        {
-          "text": "These devices allow the robot to physically interact with its environment."
-        }
-      ],
-      "collocations": {
-        "adverb": ["closely", "directly", "physically"],
-        "preposition": ["with"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌɪntərˈækt/",
-        "audio": "in/interact/interact__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌɪntərˈækts/",
-        "audio": "in/interact/interacts__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌɪntərˈæktɪd/",
-        "audio": "in/interact/interacted__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌɪntərˈæktɪŋ/",
-        "audio": "in/interact/interacting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌɪntərˈækt/",
-        "audio": "in/interact/interact__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌɪntərˈækts/",
-        "audio": "in/interact/interacts__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌɪntərˈæktɪd/",
-        "audio": "in/interact/interacted__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌɪntərˈæktɪŋ/",
-        "audio": "in/interact/interacting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "interact",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "interact",
+			"heSheIt": "interacts"
+		},
+		"pastSimple": "interacted",
+		"pastParticiple": "interacted",
+		"ingForm": "interacting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to communicate with somebody, especially while you work, play or spend time with them",
+			"sensetop": "interact (with somebody)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Teachers have a limited amount of time to interact with each child."
+				},
+				{
+					"text": "He interacts very well with other children."
+				},
+				{
+					"text": "The only thing he interacts with is his computer!"
+				}
+			],
+			"collocations": {
+				"adverb": ["well", "socially"],
+				"preposition": ["with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "if one thing interacts with another, or if two things interact, the two things have an effect on each other",
+			"sensetop": "interact (with something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Perfume interacts with the skin's natural chemicals."
+				},
+				{
+					"text": "This hormone interacts closely with other hormones in the body."
+				},
+				{
+					"text": "These devices allow the robot to physically interact with its environment."
+				}
+			],
+			"collocations": {
+				"adverb": ["closely", "directly", "physically"],
+				"preposition": ["with"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌɪntərˈækt/",
+				"audio": "in/interact/interact__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌɪntərˈækts/",
+				"audio": "in/interact/interacts__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌɪntərˈæktɪd/",
+				"audio": "in/interact/interacted__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌɪntərˈæktɪŋ/",
+				"audio": "in/interact/interacting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌɪntərˈækt/",
+				"audio": "in/interact/interact__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌɪntərˈækts/",
+				"audio": "in/interact/interacts__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌɪntərˈæktɪd/",
+				"audio": "in/interact/interacted__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌɪntərˈæktɪŋ/",
+				"audio": "in/interact/interacting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

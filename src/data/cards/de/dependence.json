@@ -1,93 +1,93 @@
 {
-  "term": "dependence",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the state of needing the help and support of somebody/something in order to survive or be successful",
-      "sensetop": "dependence on/upon somebody/something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Our relationship was based on mutual dependence."
-        },
-        {
-          "text": "financial/economic dependence"
-        },
-        {
-          "text": "his dependence on his parents",
-          "contextForm": "dependence on/upon somebody/something"
-        },
-        {
-          "text": "the dependence of Europe on imported foods"
-        },
-        {
-          "text": "The government wants to reduce industry's dependence on coal."
-        },
-        {
-          "text": "a heavy dependence on imported materials"
-        },
-        {
-          "text": "her economic dependence on her husband"
-        },
-        {
-          "text": "his total dependence on his family"
-        },
-        {
-          "text": "Their relationship is based on a strong mutual dependence."
-        }
-      ],
-      "collocations": {
-        "adjective": ["great", "heavy", "absolute"],
-        "verb + dependence": ["have", "increase", "reduce"],
-        "preposition": ["dependence  on", "dependence  upon"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the state of being addicted to something (= unable to stop taking or using it)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "**drug/alcohol dependence**"
-        },
-        {
-          "text": "dependence on alcohol"
-        }
-      ],
-      "topics": ["Health problems", "Social issues"],
-      "collocations": {
-        "adjective": ["alcohol", "drug", "nicotine"],
-        "preposition": ["dependence  on"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the fact of one thing being affected by another",
-      "sensetop": "dependence of A and B",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "the close dependence of soil and landforms"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/dɪˈpendəns/",
-        "audio": "de/dependence/dependence__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/dɪˈpendəns/",
-        "audio": "de/dependence/dependence__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘hanging down or something that hangs down’): from Old French dependance, from the verb dependre, from Latin dependere, from de- ‘down’ + pendere ‘hang’."
+	"term": "dependence",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the state of needing the help and support of somebody/something in order to survive or be successful",
+			"sensetop": "dependence on/upon somebody/something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Our relationship was based on mutual dependence."
+				},
+				{
+					"text": "financial/economic dependence"
+				},
+				{
+					"text": "his dependence on his parents",
+					"contextForm": "dependence on/upon somebody/something"
+				},
+				{
+					"text": "the dependence of Europe on imported foods"
+				},
+				{
+					"text": "The government wants to reduce industry's dependence on coal."
+				},
+				{
+					"text": "a heavy dependence on imported materials"
+				},
+				{
+					"text": "her economic dependence on her husband"
+				},
+				{
+					"text": "his total dependence on his family"
+				},
+				{
+					"text": "Their relationship is based on a strong mutual dependence."
+				}
+			],
+			"collocations": {
+				"adjective": ["great", "heavy", "absolute"],
+				"verb + dependence": ["have", "increase", "reduce"],
+				"preposition": ["dependence  on", "dependence  upon"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the state of being addicted to something (= unable to stop taking or using it)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "**drug/alcohol dependence**"
+				},
+				{
+					"text": "dependence on alcohol"
+				}
+			],
+			"topics": ["Health problems", "Social issues"],
+			"collocations": {
+				"adjective": ["alcohol", "drug", "nicotine"],
+				"preposition": ["dependence  on"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the fact of one thing being affected by another",
+			"sensetop": "dependence of A and B",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "the close dependence of soil and landforms"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/dɪˈpendəns/",
+				"audio": "de/dependence/dependence__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/dɪˈpendəns/",
+				"audio": "de/dependence/dependence__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘hanging down or something that hangs down’): from Old French dependance, from the verb dependre, from Latin dependere, from de- ‘down’ + pendere ‘hang’."
 }

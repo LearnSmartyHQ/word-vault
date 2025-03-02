@@ -1,111 +1,111 @@
 {
-  "term": "rotate",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "rotate",
-      "heSheIt": "rotates"
-    },
-    "pastSimple": "rotated",
-    "pastParticiple": "rotated",
-    "ingForm": "rotating"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to move or turn around a central fixed point; to make something do this",
-      "sensetop": "rotate about/around somethingrotate something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Stay well away from the helicopter when its blades start to rotate."
-        },
-        {
-          "text": "winds rotating around the eye of a hurricane",
-          "contextForm": "rotate about/around something"
-        },
-        {
-          "text": "Rotate the wheel through 180 degrees.",
-          "contextForm": "rotate something"
-        },
-        {
-          "text": "Make sure that the propellor can rotate freely."
-        },
-        {
-          "text": "Once the starter motor is rotating, you should be able to get the car going."
-        },
-        {
-          "text": "The blades of the fan rotated rapidly above her."
-        },
-        {
-          "text": "The earth takes 24 hours to rotate on its axis."
-        }
-      ],
-      "collocations": {
-        "adverb": ["quickly", "rapidly", "gently"],
-        "verb + rotate": ["allow something to"],
-        "preposition": ["around", "on", "through"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "if a job rotates, or if people rotate a job, they regularly change the job or regularly change who does the job",
-      "sensetop": "+ adv./prep.rotate something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The EU presidency rotates among the members.",
-          "contextForm": "+ adv./prep."
-        },
-        {
-          "text": "When I joined the company, I rotated around the different sections."
-        },
-        {
-          "text": "We rotate the night shift so no one has to do it all the time.",
-          "contextForm": "rotate something"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/rəʊˈteɪt/",
-        "audio": "ro/rotate/rotate__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/rəʊˈteɪts/",
-        "audio": "ro/rotate/rotates__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/rəʊˈteɪtɪd/",
-        "audio": "ro/rotate/rotated__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/rəʊˈteɪtɪŋ/",
-        "audio": "ro/rotate/rotating__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈrəʊteɪt/",
-        "audio": "ro/rotate/rotate__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈrəʊteɪts/",
-        "audio": "ro/rotate/rotates__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈrəʊteɪtɪd/",
-        "audio": "ro/rotate/rotated__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈrəʊteɪtɪŋ/",
-        "audio": "ro/rotate/rotating__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 17th cent.: from Latin rotat- ‘turned in a circle’, from the verb rotare, from rota ‘wheel’."
+	"term": "rotate",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "rotate",
+			"heSheIt": "rotates"
+		},
+		"pastSimple": "rotated",
+		"pastParticiple": "rotated",
+		"ingForm": "rotating"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to move or turn around a central fixed point; to make something do this",
+			"sensetop": "rotate about/around somethingrotate something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Stay well away from the helicopter when its blades start to rotate."
+				},
+				{
+					"text": "winds rotating around the eye of a hurricane",
+					"contextForm": "rotate about/around something"
+				},
+				{
+					"text": "Rotate the wheel through 180 degrees.",
+					"contextForm": "rotate something"
+				},
+				{
+					"text": "Make sure that the propellor can rotate freely."
+				},
+				{
+					"text": "Once the starter motor is rotating, you should be able to get the car going."
+				},
+				{
+					"text": "The blades of the fan rotated rapidly above her."
+				},
+				{
+					"text": "The earth takes 24 hours to rotate on its axis."
+				}
+			],
+			"collocations": {
+				"adverb": ["quickly", "rapidly", "gently"],
+				"verb + rotate": ["allow something to"],
+				"preposition": ["around", "on", "through"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "if a job rotates, or if people rotate a job, they regularly change the job or regularly change who does the job",
+			"sensetop": "+ adv./prep.rotate something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The EU presidency rotates among the members.",
+					"contextForm": "+ adv./prep."
+				},
+				{
+					"text": "When I joined the company, I rotated around the different sections."
+				},
+				{
+					"text": "We rotate the night shift so no one has to do it all the time.",
+					"contextForm": "rotate something"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/rəʊˈteɪt/",
+				"audio": "ro/rotate/rotate__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/rəʊˈteɪts/",
+				"audio": "ro/rotate/rotates__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/rəʊˈteɪtɪd/",
+				"audio": "ro/rotate/rotated__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/rəʊˈteɪtɪŋ/",
+				"audio": "ro/rotate/rotating__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈrəʊteɪt/",
+				"audio": "ro/rotate/rotate__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈrəʊteɪts/",
+				"audio": "ro/rotate/rotates__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈrəʊteɪtɪd/",
+				"audio": "ro/rotate/rotated__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈrəʊteɪtɪŋ/",
+				"audio": "ro/rotate/rotating__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 17th cent.: from Latin rotat- ‘turned in a circle’, from the verb rotare, from rota ‘wheel’."
 }

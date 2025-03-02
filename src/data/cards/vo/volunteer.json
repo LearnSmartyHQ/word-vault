@@ -1,133 +1,133 @@
 {
-  "term": "volunteer",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person who does a job without being paid for it",
-      "sensetop": "volunteer for/with something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Schools need volunteers to help children to read."
-        },
-        {
-          "text": "She does volunteer work at an orphanage."
-        },
-        {
-          "text": "She was a volunteer for the Red Cross before training as a nurse.",
-          "contextForm": "volunteer for/with something"
-        },
-        {
-          "text": "Volunteers from various organizations are working to save the lives of the earthquake victims."
-        },
-        {
-          "text": "a volunteer firefighter"
-        },
-        {
-          "text": "volunteer helpers/carers"
-        },
-        {
-          "text": "The Centre is run by a group of dedicated volunteers."
-        },
-        {
-          "text": "He worked as a volunteer for Oxfam."
-        },
-        {
-          "text": "The office is staffed by unpaid volunteers."
-        },
-        {
-          "text": "The support our volunteers provide cannot be measured in purely practical terms."
-        }
-      ],
-      "topics": ["Social issues"],
-      "collocations": {
-        "adjective": ["unpaid", "full-time", "part-time"],
-        "… of volunteers": ["army", "band", "group"],
-        "verb + volunteer": ["appeal for", "ask for", "call for"],
-        "volunteer + verb": [
-          "come forward",
-          "man something",
-          "staff something"
-        ],
-        "volunteer + noun": ["staff", "worker", "labour/​labor"],
-        "preposition": ["volunteer for"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person who offers to do something without being forced to do it",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Are there any volunteers to help clear up?"
-        },
-        {
-          "text": "For my next trick, I'll need a volunteer from the audience."
-        },
-        {
-          "text": "The company is looking for volunteers to take part in a trial."
-        },
-        {
-          "text": "Hundreds of volunteers have come forward to offer their help."
-        },
-        {
-          "text": "No volunteers came forward."
-        },
-        {
-          "text": "The charity is appealing for volunteers to take elderly patients to and from hospital."
-        },
-        {
-          "text": "The local community provided volunteers to repair the road."
-        },
-        {
-          "text": "We can't get any volunteers to help in the gardens."
-        }
-      ],
-      "collocations": {
-        "adjective": ["unpaid", "full-time", "part-time"],
-        "… of volunteers": ["army", "band", "group"],
-        "verb + volunteer": ["appeal for", "ask for", "call for"],
-        "volunteer + verb": [
-          "come forward",
-          "man something",
-          "staff something"
-        ],
-        "volunteer + noun": ["staff", "worker", "labour/​labor"],
-        "preposition": ["volunteer for"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a person who chooses to join the armed forces without being forced to join",
-      "cefr": "b2",
-      "examples": [],
-      "topics": ["War and conflict"],
-      "collocations": {
-        "adjective": ["army", "civilian"],
-        "verb + volunteer": ["recruit", "serve as"],
-        "volunteer + noun": ["army", "corps", "force"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌvɒlənˈtɪə(r)/",
-        "audio": "vo/volunteer/volunteer__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌvɑːlənˈtɪr/",
-        "audio": "vo/volunteer/volunteer__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent. (as a noun, with military reference): from French volontaire ‘voluntary’. The change in the ending was due to association with -eer."
+	"term": "volunteer",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person who does a job without being paid for it",
+			"sensetop": "volunteer for/with something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Schools need volunteers to help children to read."
+				},
+				{
+					"text": "She does volunteer work at an orphanage."
+				},
+				{
+					"text": "She was a volunteer for the Red Cross before training as a nurse.",
+					"contextForm": "volunteer for/with something"
+				},
+				{
+					"text": "Volunteers from various organizations are working to save the lives of the earthquake victims."
+				},
+				{
+					"text": "a volunteer firefighter"
+				},
+				{
+					"text": "volunteer helpers/carers"
+				},
+				{
+					"text": "The Centre is run by a group of dedicated volunteers."
+				},
+				{
+					"text": "He worked as a volunteer for Oxfam."
+				},
+				{
+					"text": "The office is staffed by unpaid volunteers."
+				},
+				{
+					"text": "The support our volunteers provide cannot be measured in purely practical terms."
+				}
+			],
+			"topics": ["Social issues"],
+			"collocations": {
+				"adjective": ["unpaid", "full-time", "part-time"],
+				"… of volunteers": ["army", "band", "group"],
+				"verb + volunteer": ["appeal for", "ask for", "call for"],
+				"volunteer + verb": [
+					"come forward",
+					"man something",
+					"staff something"
+				],
+				"volunteer + noun": ["staff", "worker", "labour/​labor"],
+				"preposition": ["volunteer for"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person who offers to do something without being forced to do it",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Are there any volunteers to help clear up?"
+				},
+				{
+					"text": "For my next trick, I'll need a volunteer from the audience."
+				},
+				{
+					"text": "The company is looking for volunteers to take part in a trial."
+				},
+				{
+					"text": "Hundreds of volunteers have come forward to offer their help."
+				},
+				{
+					"text": "No volunteers came forward."
+				},
+				{
+					"text": "The charity is appealing for volunteers to take elderly patients to and from hospital."
+				},
+				{
+					"text": "The local community provided volunteers to repair the road."
+				},
+				{
+					"text": "We can't get any volunteers to help in the gardens."
+				}
+			],
+			"collocations": {
+				"adjective": ["unpaid", "full-time", "part-time"],
+				"… of volunteers": ["army", "band", "group"],
+				"verb + volunteer": ["appeal for", "ask for", "call for"],
+				"volunteer + verb": [
+					"come forward",
+					"man something",
+					"staff something"
+				],
+				"volunteer + noun": ["staff", "worker", "labour/​labor"],
+				"preposition": ["volunteer for"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a person who chooses to join the armed forces without being forced to join",
+			"cefr": "b2",
+			"examples": [],
+			"topics": ["War and conflict"],
+			"collocations": {
+				"adjective": ["army", "civilian"],
+				"verb + volunteer": ["recruit", "serve as"],
+				"volunteer + noun": ["army", "corps", "force"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌvɒlənˈtɪə(r)/",
+				"audio": "vo/volunteer/volunteer__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌvɑːlənˈtɪr/",
+				"audio": "vo/volunteer/volunteer__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent. (as a noun, with military reference): from French volontaire ‘voluntary’. The change in the ending was due to association with -eer."
 }

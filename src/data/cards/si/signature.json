@@ -1,94 +1,94 @@
 {
-  "term": "signature",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "your name as you usually write it, for example at the end of a letter",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Someone had forged her signature on the cheque."
-        },
-        {
-          "text": "They collected 10 000 signatures for their petition."
-        },
-        {
-          "text": "He was attacked for having **put his signature to** the deal."
-        },
-        {
-          "text": "Can you witness my signature on my will, please?"
-        },
-        {
-          "text": "The form requires the signatures of two witnesses."
-        },
-        {
-          "text": "The law recognizes a digital signature for online transactions."
-        },
-        {
-          "text": "The salesperson verifies the signature by comparing it with the one on the card."
-        },
-        {
-          "text": "The will bears her signature."
-        }
-      ],
-      "collocations": {
-        "adjective": ["illegible", "handwritten", "valid"],
-        "verb + signature": ["put", "scrawl", "scribble"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the act of signing something",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Two copies of the contract will be sent to you for signature."
-        }
-      ],
-      "collocations": {
-        "adjective": ["illegible", "handwritten", "valid"],
-        "verb + signature": ["put", "scrawl", "scribble"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a particular quality that makes something different from other similar things and makes it easy to recognize",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Bright colours are his signature."
-        },
-        {
-          "text": "The signature flavours of Thai cookery are coriander and lime."
-        },
-        {
-          "text": "Each song bears the signature of its performer."
-        }
-      ],
-      "collocations": {
-        "adjective": ["characteristic", "distinctive", "telltale"],
-        "verb + signature": ["detect", "bear", "leave"],
-        "preposition": ["signature of"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsɪɡnətʃə(r)/",
-        "audio": "si/signature/signature__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsɪɡnətʃər/",
-        "audio": "si/signature/signature__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent. (as a Scots legal term): from medieval Latin signatura ‘sign manual’ (in late Latin denoting a marking on sheep), from Latin signare ‘to sign, mark’."
+	"term": "signature",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "your name as you usually write it, for example at the end of a letter",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Someone had forged her signature on the cheque."
+				},
+				{
+					"text": "They collected 10 000 signatures for their petition."
+				},
+				{
+					"text": "He was attacked for having **put his signature to** the deal."
+				},
+				{
+					"text": "Can you witness my signature on my will, please?"
+				},
+				{
+					"text": "The form requires the signatures of two witnesses."
+				},
+				{
+					"text": "The law recognizes a digital signature for online transactions."
+				},
+				{
+					"text": "The salesperson verifies the signature by comparing it with the one on the card."
+				},
+				{
+					"text": "The will bears her signature."
+				}
+			],
+			"collocations": {
+				"adjective": ["illegible", "handwritten", "valid"],
+				"verb + signature": ["put", "scrawl", "scribble"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the act of signing something",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Two copies of the contract will be sent to you for signature."
+				}
+			],
+			"collocations": {
+				"adjective": ["illegible", "handwritten", "valid"],
+				"verb + signature": ["put", "scrawl", "scribble"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a particular quality that makes something different from other similar things and makes it easy to recognize",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Bright colours are his signature."
+				},
+				{
+					"text": "The signature flavours of Thai cookery are coriander and lime."
+				},
+				{
+					"text": "Each song bears the signature of its performer."
+				}
+			],
+			"collocations": {
+				"adjective": ["characteristic", "distinctive", "telltale"],
+				"verb + signature": ["detect", "bear", "leave"],
+				"preposition": ["signature of"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsɪɡnətʃə(r)/",
+				"audio": "si/signature/signature__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsɪɡnətʃər/",
+				"audio": "si/signature/signature__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent. (as a Scots legal term): from medieval Latin signatura ‘sign manual’ (in late Latin denoting a marking on sheep), from Latin signare ‘to sign, mark’."
 }

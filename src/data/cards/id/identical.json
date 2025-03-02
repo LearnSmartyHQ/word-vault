@@ -1,70 +1,70 @@
 {
-  "term": "identical",
-  "partOfSpeech": "adjective",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "similar in every detail",
-      "sensetop": "identical to somebody/somethingidentical with somebody/something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a row of identical houses"
-        },
-        {
-          "text": "The two pictures are similar, although not identical."
-        },
-        {
-          "text": "Her dress is almost identical to mine.",
-          "contextForm": "identical to somebody/something"
-        },
-        {
-          "text": "The name on the ticket should be identical with the one in the passport.",
-          "contextForm": "identical with somebody/something"
-        },
-        {
-          "text": "These two models are absolutely identical in appearance."
-        },
-        {
-          "text": "This knife is identical to the one used in the attack."
-        },
-        {
-          "text": "offspring that are genetically identical with the parents"
-        }
-      ],
-      "topics": ["Family and relationships"],
-      "collocations": {
-        "verbs": ["appear", "be", "look"],
-        "adverb": ["absolutely", "completely", "exactly"],
-        "preposition": ["in", "to", "with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the same",
-      "examples": [
-        {
-          "text": "This is the identical room we stayed in last year."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/aɪˈdentɪkl/",
-        "audio": "id/identical/identical__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/aɪˈdentɪkl/",
-        "audio": "id/identical/identical__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent. (as a mathematical term): from medieval Latin identicus, from late Latin identitas, from Latin idem ‘same’."
+	"term": "identical",
+	"partOfSpeech": "adjective",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "similar in every detail",
+			"sensetop": "identical to somebody/somethingidentical with somebody/something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a row of identical houses"
+				},
+				{
+					"text": "The two pictures are similar, although not identical."
+				},
+				{
+					"text": "Her dress is almost identical to mine.",
+					"contextForm": "identical to somebody/something"
+				},
+				{
+					"text": "The name on the ticket should be identical with the one in the passport.",
+					"contextForm": "identical with somebody/something"
+				},
+				{
+					"text": "These two models are absolutely identical in appearance."
+				},
+				{
+					"text": "This knife is identical to the one used in the attack."
+				},
+				{
+					"text": "offspring that are genetically identical with the parents"
+				}
+			],
+			"topics": ["Family and relationships"],
+			"collocations": {
+				"verbs": ["appear", "be", "look"],
+				"adverb": ["absolutely", "completely", "exactly"],
+				"preposition": ["in", "to", "with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the same",
+			"examples": [
+				{
+					"text": "This is the identical room we stayed in last year."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/aɪˈdentɪkl/",
+				"audio": "id/identical/identical__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/aɪˈdentɪkl/",
+				"audio": "id/identical/identical__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent. (as a mathematical term): from medieval Latin identicus, from late Latin identitas, from Latin idem ‘same’."
 }

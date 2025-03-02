@@ -1,180 +1,180 @@
 {
-  "term": "band",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/mu/music_groups_playing.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a small group of musicians who play popular music together, often with a singer or singers",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **rock/punk/jazz band **"
-        },
-        {
-          "text": "He plays drums in a band that he formed with some friends."
-        },
-        {
-          "text": "The band is/are playing a gig in Liverpool tonight."
-        },
-        {
-          "text": "She's a singer with a band."
-        },
-        {
-          "text": "There's nothing like the excitement of seeing a **live band**."
-        },
-        {
-          "text": "her fellow **band members**"
-        },
-        {
-          "text": "He formed a garage band with his friends."
-        },
-        {
-          "text": "He was accompanied onstage by his backing band."
-        },
-        {
-          "text": "They hired a Beatles tribute band to play at the reception."
-        }
-      ],
-      "topics": ["Music"],
-      "collocations": {
-        "adjective": ["big", "brass", "string"],
-        "verb + band": ["form", "start", "join"],
-        "band + verb": ["perform (something)", "play (something)", "strike up"],
-        "band + noun": ["leader", "member", "practice"],
-        "preposition": ["in a/​the band", "with a/​the band"],
-        "phrases": ["a member of the band"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a group of musicians who play brass and percussion instruments",
-      "examples": [
-        {
-          "text": "a military band"
-        },
-        {
-          "text": "We heard a band strike up in the park."
-        },
-        {
-          "text": "The band was/were playing and marching in time."
-        }
-      ],
-      "collocations": {
-        "adjective": ["big", "brass", "string"],
-        "verb + band": ["form", "start", "join"],
-        "band + verb": ["perform (something)", "play (something)", "strike up"],
-        "band + noun": ["leader", "member", "practice"],
-        "preposition": ["in a/​the band", "with a/​the band"],
-        "phrases": ["a member of the band"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a group of people who do something together or who have the same ideas, interests or achievements",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a band of outlaws/rebels"
-        },
-        {
-          "text": "He persuaded a small band of volunteers to help."
-        },
-        {
-          "text": "A band of helpers was/were getting everything ready."
-        },
-        {
-          "text": "They are members of a growing band of enthusiasts."
-        },
-        {
-          "text": "The two men are part of a dwindling band of veterans."
-        },
-        {
-          "text": "He is one of a select band of top class players."
-        },
-        {
-          "text": "The young Irishman joined the elite band of Formula One drivers this week."
-        }
-      ],
-      "topics": ["Family and relationships"],
-      "collocations": {
-        "adjective": ["select", "small", "dwindling"],
-        "verb + band": ["join"],
-        "preposition": ["band of"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a thin flat piece or circle of any material that is put around things, for example to hold them together or to make them stronger",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She always ties her hair back in a band."
-        },
-        {
-          "text": "All babies in the hospital have name bands on their wrists."
-        },
-        {
-          "text": "She wore a simple band of gold *(= a ring)* on her finger."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a line of colour or material on something that is different from what is around it",
-      "examples": [
-        {
-          "text": "a white plate with a blue band around the edge"
-        },
-        {
-          "text": "The light had expanded in a broad band across the sky."
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "a range of radio waves",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "Short-wave radio uses the 20–50-metre band."
-        }
-      ],
-      "topics": ["TV, radio and news"]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "a range of numbers, ages, prices, etc. within which people or things are counted or measured",
-      "examples": [
-        {
-          "text": "the 25–35 age band"
-        },
-        {
-          "text": "Which tax band do you fall into?"
-        }
-      ],
-      "collocations": {
-        "adjective": ["age", "price", "tax"],
-        "verb + band": ["be in", "fall into"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/bænd/",
-        "audio": "ba/band/band__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/bænd/",
-        "audio": "ba/band/band__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "noun senses 4 to 7 late Old English (in the sense of something that restrains), from Old Norse, reinforced in late Middle English by Old French bande, of Germanic origin; related to bind. noun senses 1 to 3 late Middle English: from Old French bande, of Germanic origin; related to banner."
+	"term": "band",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/mu/music_groups_playing.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a small group of musicians who play popular music together, often with a singer or singers",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **rock/punk/jazz band **"
+				},
+				{
+					"text": "He plays drums in a band that he formed with some friends."
+				},
+				{
+					"text": "The band is/are playing a gig in Liverpool tonight."
+				},
+				{
+					"text": "She's a singer with a band."
+				},
+				{
+					"text": "There's nothing like the excitement of seeing a **live band**."
+				},
+				{
+					"text": "her fellow **band members**"
+				},
+				{
+					"text": "He formed a garage band with his friends."
+				},
+				{
+					"text": "He was accompanied onstage by his backing band."
+				},
+				{
+					"text": "They hired a Beatles tribute band to play at the reception."
+				}
+			],
+			"topics": ["Music"],
+			"collocations": {
+				"adjective": ["big", "brass", "string"],
+				"verb + band": ["form", "start", "join"],
+				"band + verb": ["perform (something)", "play (something)", "strike up"],
+				"band + noun": ["leader", "member", "practice"],
+				"preposition": ["in a/​the band", "with a/​the band"],
+				"phrases": ["a member of the band"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a group of musicians who play brass and percussion instruments",
+			"examples": [
+				{
+					"text": "a military band"
+				},
+				{
+					"text": "We heard a band strike up in the park."
+				},
+				{
+					"text": "The band was/were playing and marching in time."
+				}
+			],
+			"collocations": {
+				"adjective": ["big", "brass", "string"],
+				"verb + band": ["form", "start", "join"],
+				"band + verb": ["perform (something)", "play (something)", "strike up"],
+				"band + noun": ["leader", "member", "practice"],
+				"preposition": ["in a/​the band", "with a/​the band"],
+				"phrases": ["a member of the band"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a group of people who do something together or who have the same ideas, interests or achievements",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a band of outlaws/rebels"
+				},
+				{
+					"text": "He persuaded a small band of volunteers to help."
+				},
+				{
+					"text": "A band of helpers was/were getting everything ready."
+				},
+				{
+					"text": "They are members of a growing band of enthusiasts."
+				},
+				{
+					"text": "The two men are part of a dwindling band of veterans."
+				},
+				{
+					"text": "He is one of a select band of top class players."
+				},
+				{
+					"text": "The young Irishman joined the elite band of Formula One drivers this week."
+				}
+			],
+			"topics": ["Family and relationships"],
+			"collocations": {
+				"adjective": ["select", "small", "dwindling"],
+				"verb + band": ["join"],
+				"preposition": ["band of"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a thin flat piece or circle of any material that is put around things, for example to hold them together or to make them stronger",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She always ties her hair back in a band."
+				},
+				{
+					"text": "All babies in the hospital have name bands on their wrists."
+				},
+				{
+					"text": "She wore a simple band of gold *(= a ring)* on her finger."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a line of colour or material on something that is different from what is around it",
+			"examples": [
+				{
+					"text": "a white plate with a blue band around the edge"
+				},
+				{
+					"text": "The light had expanded in a broad band across the sky."
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "a range of radio waves",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "Short-wave radio uses the 20–50-metre band."
+				}
+			],
+			"topics": ["TV, radio and news"]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "a range of numbers, ages, prices, etc. within which people or things are counted or measured",
+			"examples": [
+				{
+					"text": "the 25–35 age band"
+				},
+				{
+					"text": "Which tax band do you fall into?"
+				}
+			],
+			"collocations": {
+				"adjective": ["age", "price", "tax"],
+				"verb + band": ["be in", "fall into"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/bænd/",
+				"audio": "ba/band/band__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/bænd/",
+				"audio": "ba/band/band__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "noun senses 4 to 7 late Old English (in the sense of something that restrains), from Old Norse, reinforced in late Middle English by Old French bande, of Germanic origin; related to bind. noun senses 1 to 3 late Middle English: from Old French bande, of Germanic origin; related to banner."
 }

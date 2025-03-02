@@ -1,161 +1,161 @@
 {
-  "term": "sustain",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "sustain",
-      "heSheIt": "sustains"
-    },
-    "pastSimple": "sustained",
-    "pastParticiple": "sustained",
-    "ingForm": "sustaining"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to provide enough of what somebody/something needs in order to live or exist",
-      "sensetop": "sustain somebody/something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Which planets can sustain life?"
-        },
-        {
-          "text": "I only had a little chocolate to sustain me on my walk."
-        },
-        {
-          "text": "The love and support of his family sustained him during his time in prison."
-        },
-        {
-          "text": "When she lost her job they could no longer sustain their expensive lifestyle."
-        },
-        {
-          "text": "The soil was so badly eroded it could no longer sustain crop production."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to make something continue for some time without becoming less",
-      "sensetop": "sustain something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She managed to sustain everyone's interest until the end of her speech."
-        },
-        {
-          "text": "Kangaroos can sustain high speeds over long distances."
-        },
-        {
-          "text": "the sustaining pedal of a piano *(= that allows a note to continue sounding for a long time)*"
-        },
-        {
-          "text": "This relationship would be very difficult to sustain."
-        }
-      ],
-      "collocations": {
-        "adverb": ["no longer", "barely", "indefinitely"],
-        "verb + sustain": ["be able to", "can", "be unable to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to experience something bad",
-      "sensetop": "sustain something",
-      "labels": "(formal)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "to **sustain damage/an injury/a defeat**"
-        },
-        {
-          "text": "The company **sustained losses** of millions of dollars."
-        }
-      ],
-      "synonyms": "suffer",
-      "topics": ["Health problems"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to provide evidence to support an opinion, a theory, etc.",
-      "sensetop": "sustain something",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "The evidence is not detailed enough to sustain his argument."
-        }
-      ],
-      "synonyms": "uphold",
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to support a weight without breaking or falling",
-      "sensetop": "sustain something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "The ice will not sustain your weight."
-        }
-      ],
-      "synonyms": "bear"
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to decide that a claim, etc. is true or legally valid",
-      "sensetop": "sustain something",
-      "labels": "(law)",
-      "examples": [
-        {
-          "text": "The court sustained his claim that the contract was illegal."
-        },
-        {
-          "text": "**Objection sustained**! (= said by a judge when a lawyer makes an in court)"
-        }
-      ],
-      "synonyms": "uphold"
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/səˈsteɪn/",
-        "audio": "su/sustain/sustain__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈsteɪnz/",
-        "audio": "su/sustain/sustains__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈsteɪnd/",
-        "audio": "su/sustain/sustained__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈsteɪnɪŋ/",
-        "audio": "su/sustain/sustaining__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/səˈsteɪn/",
-        "audio": "su/sustain/sustain__us_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈsteɪnz/",
-        "audio": "su/sustain/sustains__us_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈsteɪnd/",
-        "audio": "su/sustain/sustained__us_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈsteɪnɪŋ/",
-        "audio": "su/sustain/sustaining__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French soustenir, from Latin sustinere, from sub- ‘from below’ + tenere ‘hold’."
+	"term": "sustain",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "sustain",
+			"heSheIt": "sustains"
+		},
+		"pastSimple": "sustained",
+		"pastParticiple": "sustained",
+		"ingForm": "sustaining"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to provide enough of what somebody/something needs in order to live or exist",
+			"sensetop": "sustain somebody/something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Which planets can sustain life?"
+				},
+				{
+					"text": "I only had a little chocolate to sustain me on my walk."
+				},
+				{
+					"text": "The love and support of his family sustained him during his time in prison."
+				},
+				{
+					"text": "When she lost her job they could no longer sustain their expensive lifestyle."
+				},
+				{
+					"text": "The soil was so badly eroded it could no longer sustain crop production."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to make something continue for some time without becoming less",
+			"sensetop": "sustain something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She managed to sustain everyone's interest until the end of her speech."
+				},
+				{
+					"text": "Kangaroos can sustain high speeds over long distances."
+				},
+				{
+					"text": "the sustaining pedal of a piano *(= that allows a note to continue sounding for a long time)*"
+				},
+				{
+					"text": "This relationship would be very difficult to sustain."
+				}
+			],
+			"collocations": {
+				"adverb": ["no longer", "barely", "indefinitely"],
+				"verb + sustain": ["be able to", "can", "be unable to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to experience something bad",
+			"sensetop": "sustain something",
+			"labels": "(formal)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "to **sustain damage/an injury/a defeat**"
+				},
+				{
+					"text": "The company **sustained losses** of millions of dollars."
+				}
+			],
+			"synonyms": "suffer",
+			"topics": ["Health problems"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to provide evidence to support an opinion, a theory, etc.",
+			"sensetop": "sustain something",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "The evidence is not detailed enough to sustain his argument."
+				}
+			],
+			"synonyms": "uphold",
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to support a weight without breaking or falling",
+			"sensetop": "sustain something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "The ice will not sustain your weight."
+				}
+			],
+			"synonyms": "bear"
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to decide that a claim, etc. is true or legally valid",
+			"sensetop": "sustain something",
+			"labels": "(law)",
+			"examples": [
+				{
+					"text": "The court sustained his claim that the contract was illegal."
+				},
+				{
+					"text": "**Objection sustained**! (= said by a judge when a lawyer makes an in court)"
+				}
+			],
+			"synonyms": "uphold"
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/səˈsteɪn/",
+				"audio": "su/sustain/sustain__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈsteɪnz/",
+				"audio": "su/sustain/sustains__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈsteɪnd/",
+				"audio": "su/sustain/sustained__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈsteɪnɪŋ/",
+				"audio": "su/sustain/sustaining__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/səˈsteɪn/",
+				"audio": "su/sustain/sustain__us_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈsteɪnz/",
+				"audio": "su/sustain/sustains__us_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈsteɪnd/",
+				"audio": "su/sustain/sustained__us_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈsteɪnɪŋ/",
+				"audio": "su/sustain/sustaining__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French soustenir, from Latin sustinere, from sub- ‘from below’ + tenere ‘hold’."
 }

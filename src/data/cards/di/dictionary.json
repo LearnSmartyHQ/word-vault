@@ -1,90 +1,90 @@
 {
-  "term": "dictionary",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a book or electronic resource that gives a list of the words of a language in alphabetical order and explains what they mean, or gives a word for them in a foreign language",
-      "sensetop": "in a dictionary",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a Spanish-English dictionary"
-        },
-        {
-          "text": "a slang dictionary"
-        },
-        {
-          "text": "a dictionary of slang"
-        },
-        {
-          "text": "If you don't know the meaning of a word, look it up in the dictionary.",
-          "contextForm": "in a dictionary"
-        },
-        {
-          "text": "I couldn't find the word in the dictionary."
-        },
-        {
-          "text": "You need a dictionary to understand what he's saying half the time."
-        },
-        {
-          "text": "a way of teaching children how to use dictionaries"
-        }
-      ],
-      "topics": ["Education"],
-      "collocations": {
-        "adjective": ["good", "comprehensive", "unabridged"],
-        "verb + dictionary": ["check", "consult", "look something up in"],
-        "dictionary + noun": ["definition", "entry"],
-        "preposition": ["in a/​the dictionary"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a book that explains the words that are used in a particular subject",
-      "examples": [
-        {
-          "text": "a dictionary of mathematics"
-        },
-        {
-          "text": "I decided to consult a medical dictionary."
-        }
-      ],
-      "collocations": {
-        "adjective": ["good", "comprehensive", "unabridged"],
-        "verb + dictionary": ["check", "consult", "look something up in"],
-        "dictionary + noun": ["definition", "entry"],
-        "preposition": ["in a/​the dictionary"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a list of words in electronic form, for example stored in a computer’s spellchecker",
-      "examples": [],
-      "collocations": {
-        "adjective": ["good", "comprehensive", "unabridged"],
-        "verb + dictionary": ["check", "consult", "look something up in"],
-        "dictionary + noun": ["definition", "entry"],
-        "preposition": ["in a/​the dictionary"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈdɪkʃənri/",
-        "audio": "di/dictionary/dictionary__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈdɪkʃəneri/",
-        "audio": "di/dictionary/dictionary__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 16th cent.: from medieval Latin dictionarium (manuale) or dictionarius (liber) ‘manual or book of words’, from Latin dictio, from dicere ‘to say’."
+	"term": "dictionary",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a book or electronic resource that gives a list of the words of a language in alphabetical order and explains what they mean, or gives a word for them in a foreign language",
+			"sensetop": "in a dictionary",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a Spanish-English dictionary"
+				},
+				{
+					"text": "a slang dictionary"
+				},
+				{
+					"text": "a dictionary of slang"
+				},
+				{
+					"text": "If you don't know the meaning of a word, look it up in the dictionary.",
+					"contextForm": "in a dictionary"
+				},
+				{
+					"text": "I couldn't find the word in the dictionary."
+				},
+				{
+					"text": "You need a dictionary to understand what he's saying half the time."
+				},
+				{
+					"text": "a way of teaching children how to use dictionaries"
+				}
+			],
+			"topics": ["Education"],
+			"collocations": {
+				"adjective": ["good", "comprehensive", "unabridged"],
+				"verb + dictionary": ["check", "consult", "look something up in"],
+				"dictionary + noun": ["definition", "entry"],
+				"preposition": ["in a/​the dictionary"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a book that explains the words that are used in a particular subject",
+			"examples": [
+				{
+					"text": "a dictionary of mathematics"
+				},
+				{
+					"text": "I decided to consult a medical dictionary."
+				}
+			],
+			"collocations": {
+				"adjective": ["good", "comprehensive", "unabridged"],
+				"verb + dictionary": ["check", "consult", "look something up in"],
+				"dictionary + noun": ["definition", "entry"],
+				"preposition": ["in a/​the dictionary"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a list of words in electronic form, for example stored in a computer’s spellchecker",
+			"examples": [],
+			"collocations": {
+				"adjective": ["good", "comprehensive", "unabridged"],
+				"verb + dictionary": ["check", "consult", "look something up in"],
+				"dictionary + noun": ["definition", "entry"],
+				"preposition": ["in a/​the dictionary"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈdɪkʃənri/",
+				"audio": "di/dictionary/dictionary__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈdɪkʃəneri/",
+				"audio": "di/dictionary/dictionary__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 16th cent.: from medieval Latin dictionarium (manuale) or dictionarius (liber) ‘manual or book of words’, from Latin dictio, from dicere ‘to say’."
 }

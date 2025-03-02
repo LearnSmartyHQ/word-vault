@@ -1,147 +1,147 @@
 {
-  "term": "pray",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "pray",
-      "heSheIt": "prays"
-    },
-    "pastSimple": "prayed",
-    "pastParticiple": "prayed",
-    "ingForm": "praying"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to speak to God, especially to give thanks or ask for help",
-      "sensetop": "pray for somebody/somethingpray to somebody for somebody/somethingpray to somebodypray (that)…pray to do something+ speech",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They knelt down and prayed."
-        },
-        {
-          "text": "I'll pray for you.",
-          "contextForm": "pray for somebody/something"
-        },
-        {
-          "text": "to pray for peace"
-        },
-        {
-          "text": "She prayed to God for an end to her sufferings.",
-          "contextForm": "pray to somebody for somebody/something"
-        },
-        {
-          "text": "I prayed to the Lord and hoped for the best.",
-          "contextForm": "pray to somebody"
-        },
-        {
-          "text": "We prayed (that) she would recover from her illness.",
-          "contextForm": "pray (that)…"
-        },
-        {
-          "text": "He prayed to be forgiven.",
-          "contextForm": "pray to do something"
-        },
-        {
-          "text": "‘Please God don't let it happen,’ she prayed.",
-          "contextForm": "+ speech"
-        },
-        {
-          "text": "She asked the priest to pray with her."
-        },
-        {
-          "text": "He thought if he prayed hard enough God might eventually listen."
-        },
-        {
-          "text": "Diane prayed over the body for a moment."
-        },
-        {
-          "text": "I silently prayed for my release."
-        },
-        {
-          "text": "She prays constantly for forgiveness."
-        }
-      ],
-      "topics": ["Religion and festivals"],
-      "collocations": {
-        "adverb": ["desperately", "earnestly", "fervently"],
-        "preposition": ["for", "over", "to"],
-        "phrases": ["hope and pray", "let us pray"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to hope very much that something will happen",
-      "sensetop": "pray for somethingpray (that)…",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "We're praying for good weather on Saturday.",
-          "contextForm": "pray for something"
-        },
-        {
-          "text": "I prayed that nobody would notice my mistake.",
-          "contextForm": "pray (that)…"
-        },
-        {
-          "text": "She **hoped and prayed** that Jessie would be back the next day."
-        },
-        {
-          "text": "Let's pray Mick doesn't find out."
-        },
-        {
-          "text": "He was secretly praying that his offer would be rejected."
-        }
-      ],
-      "collocations": {
-        "adverb": ["desperately", "earnestly", "fervently"],
-        "preposition": ["for", "over", "to"],
-        "phrases": ["hope and pray", "let us pray"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/preɪ/",
-        "audio": "pr/pray/pray__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/preɪz/",
-        "audio": "pr/pray/prays__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/preɪd/",
-        "audio": "pr/pray/prayed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈpreɪɪŋ/",
-        "audio": "pr/pray/praying__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/preɪ/",
-        "audio": "pr/pray/pray__us_1.mp3"
-      },
-      {
-        "pronunciation": "/preɪz/",
-        "audio": "pr/pray/prays__us_1.mp3"
-      },
-      {
-        "pronunciation": "/preɪd/",
-        "audio": "pr/pray/prayed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈpreɪɪŋ/",
-        "audio": "pr/pray/praying__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in the sense ‘ask earnestly’): from Old French preier, from late Latin precare, alteration of Latin precari ‘entreat’."
+	"term": "pray",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "pray",
+			"heSheIt": "prays"
+		},
+		"pastSimple": "prayed",
+		"pastParticiple": "prayed",
+		"ingForm": "praying"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to speak to God, especially to give thanks or ask for help",
+			"sensetop": "pray for somebody/somethingpray to somebody for somebody/somethingpray to somebodypray (that)…pray to do something+ speech",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They knelt down and prayed."
+				},
+				{
+					"text": "I'll pray for you.",
+					"contextForm": "pray for somebody/something"
+				},
+				{
+					"text": "to pray for peace"
+				},
+				{
+					"text": "She prayed to God for an end to her sufferings.",
+					"contextForm": "pray to somebody for somebody/something"
+				},
+				{
+					"text": "I prayed to the Lord and hoped for the best.",
+					"contextForm": "pray to somebody"
+				},
+				{
+					"text": "We prayed (that) she would recover from her illness.",
+					"contextForm": "pray (that)…"
+				},
+				{
+					"text": "He prayed to be forgiven.",
+					"contextForm": "pray to do something"
+				},
+				{
+					"text": "‘Please God don't let it happen,’ she prayed.",
+					"contextForm": "+ speech"
+				},
+				{
+					"text": "She asked the priest to pray with her."
+				},
+				{
+					"text": "He thought if he prayed hard enough God might eventually listen."
+				},
+				{
+					"text": "Diane prayed over the body for a moment."
+				},
+				{
+					"text": "I silently prayed for my release."
+				},
+				{
+					"text": "She prays constantly for forgiveness."
+				}
+			],
+			"topics": ["Religion and festivals"],
+			"collocations": {
+				"adverb": ["desperately", "earnestly", "fervently"],
+				"preposition": ["for", "over", "to"],
+				"phrases": ["hope and pray", "let us pray"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to hope very much that something will happen",
+			"sensetop": "pray for somethingpray (that)…",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "We're praying for good weather on Saturday.",
+					"contextForm": "pray for something"
+				},
+				{
+					"text": "I prayed that nobody would notice my mistake.",
+					"contextForm": "pray (that)…"
+				},
+				{
+					"text": "She **hoped and prayed** that Jessie would be back the next day."
+				},
+				{
+					"text": "Let's pray Mick doesn't find out."
+				},
+				{
+					"text": "He was secretly praying that his offer would be rejected."
+				}
+			],
+			"collocations": {
+				"adverb": ["desperately", "earnestly", "fervently"],
+				"preposition": ["for", "over", "to"],
+				"phrases": ["hope and pray", "let us pray"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/preɪ/",
+				"audio": "pr/pray/pray__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/preɪz/",
+				"audio": "pr/pray/prays__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/preɪd/",
+				"audio": "pr/pray/prayed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈpreɪɪŋ/",
+				"audio": "pr/pray/praying__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/preɪ/",
+				"audio": "pr/pray/pray__us_1.mp3"
+			},
+			{
+				"pronunciation": "/preɪz/",
+				"audio": "pr/pray/prays__us_1.mp3"
+			},
+			{
+				"pronunciation": "/preɪd/",
+				"audio": "pr/pray/prayed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈpreɪɪŋ/",
+				"audio": "pr/pray/praying__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in the sense ‘ask earnestly’): from Old French preier, from late Latin precare, alteration of Latin precari ‘entreat’."
 }

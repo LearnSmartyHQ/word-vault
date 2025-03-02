@@ -1,56 +1,56 @@
 {
-  "term": "intermediate",
-  "partOfSpeech": "adjective",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "located between two places, things, states, etc.",
-      "sensetop": "intermediate between A and B",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "an **intermediate stage/step** in a process"
-        },
-        {
-          "text": "Liquid crystals are considered to be intermediate between liquid and solid.",
-          "contextForm": "intermediate between A and B"
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "having more than a basic knowledge of something but not yet advanced; suitable for somebody who is at this level",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "an **intermediate skier/student**"
-        },
-        {
-          "text": "an intermediate coursebook"
-        },
-        {
-          "text": "**pre-/upper-intermediate** classes"
-        }
-      ],
-      "topics": ["Language"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌɪntəˈmiːdiət/",
-        "audio": "in/intermediate/intermediate__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌɪntərˈmiːdiət/",
-        "audio": "in/intermediate/intermediate__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from medieval Latin intermediatus, from Latin intermedius, from inter- ‘between’ + medius ‘middle’."
+	"term": "intermediate",
+	"partOfSpeech": "adjective",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "located between two places, things, states, etc.",
+			"sensetop": "intermediate between A and B",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "an **intermediate stage/step** in a process"
+				},
+				{
+					"text": "Liquid crystals are considered to be intermediate between liquid and solid.",
+					"contextForm": "intermediate between A and B"
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "having more than a basic knowledge of something but not yet advanced; suitable for somebody who is at this level",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "an **intermediate skier/student**"
+				},
+				{
+					"text": "an intermediate coursebook"
+				},
+				{
+					"text": "**pre-/upper-intermediate** classes"
+				}
+			],
+			"topics": ["Language"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌɪntəˈmiːdiət/",
+				"audio": "in/intermediate/intermediate__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌɪntərˈmiːdiət/",
+				"audio": "in/intermediate/intermediate__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from medieval Latin intermediatus, from Latin intermedius, from inter- ‘between’ + medius ‘middle’."
 }

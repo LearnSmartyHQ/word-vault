@@ -1,122 +1,122 @@
 {
-  "term": "kit",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a set of tools or equipment that you use for a particular purpose",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a drum kit"
-        },
-        {
-          "text": "Check the acidity of the soil with a test kit."
-        },
-        {
-          "text": "She keeps an emergency medical kit in her car."
-        },
-        {
-          "text": "There should be a needle and thread in the sewing kit."
-        }
-      ],
-      "collocations": {
-        "adjective": ["emergency", "first-aid", "make-up"],
-        "preposition": ["in a/​the kit"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a set of parts ready to be made into something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a kit for a model plane"
-        },
-        {
-          "text": "She built the doll’s house from a kit."
-        },
-        {
-          "text": "The kit contains everything you need to make six candles."
-        },
-        {
-          "text": "The shed comes in kit form."
-        }
-      ],
-      "collocations": {
-        "adjective": ["construction", "starter"],
-        "verb + kit": ["assemble", "install"],
-        "kit + verb": [
-          "come with something",
-          "consist of something",
-          "contain something"
-        ],
-        "preposition": ["from a kit", "kit for"],
-        "phrases": ["in kit form"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a set of clothes and equipment that you use for a particular activity",
-      "labels": "(British English)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "sports kit"
-        },
-        {
-          "text": "The soldiers packed tents and kits to move to new positions."
-        },
-        {
-          "text": "They left most of their kit at the camp."
-        },
-        {
-          "text": "the official supplier of the England team kit"
-        },
-        {
-          "text": "a teddy bear dressed in a replica Real Madrid kit"
-        },
-        {
-          "text": "I spent Sunday assembling emergency kits for the expedition."
-        }
-      ],
-      "collocations": {
-        "adjective": ["gym", "PE", "sports"],
-        "kit + noun": ["bag"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to take your clothes off",
-      "labels": "(British English, slang)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "everything",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "I had new clothes, a new hairstyle—the whole caboodle."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kɪt/",
-        "audio": "ki/kit/kit__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kɪt/",
-        "audio": "ki/kit/kit__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Middle Dutch kitte ‘wooden vessel’, of unknown origin. The original sense ‘wooden tub’ was later applied to other containers; the use denoting a soldier's equipment (late 18th cent.) probably arose from the idea of a set of articles packed in a container."
+	"term": "kit",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a set of tools or equipment that you use for a particular purpose",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a drum kit"
+				},
+				{
+					"text": "Check the acidity of the soil with a test kit."
+				},
+				{
+					"text": "She keeps an emergency medical kit in her car."
+				},
+				{
+					"text": "There should be a needle and thread in the sewing kit."
+				}
+			],
+			"collocations": {
+				"adjective": ["emergency", "first-aid", "make-up"],
+				"preposition": ["in a/​the kit"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a set of parts ready to be made into something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a kit for a model plane"
+				},
+				{
+					"text": "She built the doll’s house from a kit."
+				},
+				{
+					"text": "The kit contains everything you need to make six candles."
+				},
+				{
+					"text": "The shed comes in kit form."
+				}
+			],
+			"collocations": {
+				"adjective": ["construction", "starter"],
+				"verb + kit": ["assemble", "install"],
+				"kit + verb": [
+					"come with something",
+					"consist of something",
+					"contain something"
+				],
+				"preposition": ["from a kit", "kit for"],
+				"phrases": ["in kit form"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a set of clothes and equipment that you use for a particular activity",
+			"labels": "(British English)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "sports kit"
+				},
+				{
+					"text": "The soldiers packed tents and kits to move to new positions."
+				},
+				{
+					"text": "They left most of their kit at the camp."
+				},
+				{
+					"text": "the official supplier of the England team kit"
+				},
+				{
+					"text": "a teddy bear dressed in a replica Real Madrid kit"
+				},
+				{
+					"text": "I spent Sunday assembling emergency kits for the expedition."
+				}
+			],
+			"collocations": {
+				"adjective": ["gym", "PE", "sports"],
+				"kit + noun": ["bag"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to take your clothes off",
+			"labels": "(British English, slang)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "everything",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "I had new clothes, a new hairstyle—the whole caboodle."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kɪt/",
+				"audio": "ki/kit/kit__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kɪt/",
+				"audio": "ki/kit/kit__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Middle Dutch kitte ‘wooden vessel’, of unknown origin. The original sense ‘wooden tub’ was later applied to other containers; the use denoting a soldier's equipment (late 18th cent.) probably arose from the idea of a set of articles packed in a container."
 }

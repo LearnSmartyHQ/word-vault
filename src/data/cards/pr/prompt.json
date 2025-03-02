@@ -1,123 +1,123 @@
 {
-  "term": "prompt",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "prompt",
-      "heSheIt": "prompts"
-    },
-    "pastSimple": "prompted",
-    "pastParticiple": "prompted",
-    "ingForm": "prompting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to make somebody decide to do something; to cause something to happen",
-      "sensetop": "prompt somethingprompt somebody to do something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "The discovery of the bomb prompted an increase in security.",
-          "contextForm": "prompt something"
-        },
-        {
-          "text": "His speech prompted an angry outburst from a man in the crowd."
-        },
-        {
-          "text": "Her father's struggles with mental health prompted her to pursue psychology as a career.",
-          "contextForm": "prompt somebody to do something"
-        },
-        {
-          "text": "The accusation prompted the resignation of the education minister."
-        },
-        {
-          "text": "The discussion was prompted by a chance remark."
-        },
-        {
-          "text": "The earth tremors prompted worries of a second major earthquake."
-        },
-        {
-          "text": "The incident prompted a full-scale review of police procedures."
-        },
-        {
-          "text": "The news prompted speculation that prices will rise further."
-        },
-        {
-          "text": "What prompted you to choose this area?"
-        }
-      ],
-      "synonyms": "provoke"
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to encourage somebody to speak by asking them questions or suggesting words that they could say",
-      "sensetop": "prompt somebodyprompt somebody to do somethingprompt (somebody) + speech",
-      "labels": "(computing)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She was too nervous to speak and had to be prompted.",
-          "contextForm": "prompt somebody"
-        },
-        {
-          "text": "The program will prompt you to enter data where required."
-        },
-        {
-          "text": "‘And then what happened?’ he prompted.",
-          "contextForm": "prompt (somebody) + speech"
-        }
-      ],
-      "topics": ["Suggestions and advice"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to follow the text of a play and remind the actors what the words are if they forget their lines",
-      "sensetop": "prompt (somebody)",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Film and theatre"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/prɒmpt/",
-        "audio": "pr/prompt/prompt__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/prɒmpts/",
-        "audio": "pr/prompt/prompts__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈprɒmptɪd/",
-        "audio": "pr/prompt/prompted__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈprɒmptɪŋ/",
-        "audio": "pr/prompt/prompting__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/prɑːmpt/",
-        "audio": "pr/prompt/prompt__us_1.mp3"
-      },
-      {
-        "pronunciation": "/prɑːmpts/",
-        "audio": "pr/prompt/prompts__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈprɑːmptɪd/",
-        "audio": "pr/prompt/prompted__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈprɑːmptɪŋ/",
-        "audio": "pr/prompt/prompting__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "prompt",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "prompt",
+			"heSheIt": "prompts"
+		},
+		"pastSimple": "prompted",
+		"pastParticiple": "prompted",
+		"ingForm": "prompting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to make somebody decide to do something; to cause something to happen",
+			"sensetop": "prompt somethingprompt somebody to do something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "The discovery of the bomb prompted an increase in security.",
+					"contextForm": "prompt something"
+				},
+				{
+					"text": "His speech prompted an angry outburst from a man in the crowd."
+				},
+				{
+					"text": "Her father's struggles with mental health prompted her to pursue psychology as a career.",
+					"contextForm": "prompt somebody to do something"
+				},
+				{
+					"text": "The accusation prompted the resignation of the education minister."
+				},
+				{
+					"text": "The discussion was prompted by a chance remark."
+				},
+				{
+					"text": "The earth tremors prompted worries of a second major earthquake."
+				},
+				{
+					"text": "The incident prompted a full-scale review of police procedures."
+				},
+				{
+					"text": "The news prompted speculation that prices will rise further."
+				},
+				{
+					"text": "What prompted you to choose this area?"
+				}
+			],
+			"synonyms": "provoke"
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to encourage somebody to speak by asking them questions or suggesting words that they could say",
+			"sensetop": "prompt somebodyprompt somebody to do somethingprompt (somebody) + speech",
+			"labels": "(computing)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She was too nervous to speak and had to be prompted.",
+					"contextForm": "prompt somebody"
+				},
+				{
+					"text": "The program will prompt you to enter data where required."
+				},
+				{
+					"text": "‘And then what happened?’ he prompted.",
+					"contextForm": "prompt (somebody) + speech"
+				}
+			],
+			"topics": ["Suggestions and advice"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to follow the text of a play and remind the actors what the words are if they forget their lines",
+			"sensetop": "prompt (somebody)",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Film and theatre"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/prɒmpt/",
+				"audio": "pr/prompt/prompt__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/prɒmpts/",
+				"audio": "pr/prompt/prompts__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈprɒmptɪd/",
+				"audio": "pr/prompt/prompted__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈprɒmptɪŋ/",
+				"audio": "pr/prompt/prompting__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/prɑːmpt/",
+				"audio": "pr/prompt/prompt__us_1.mp3"
+			},
+			{
+				"pronunciation": "/prɑːmpts/",
+				"audio": "pr/prompt/prompts__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈprɑːmptɪd/",
+				"audio": "pr/prompt/prompted__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈprɑːmptɪŋ/",
+				"audio": "pr/prompt/prompting__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

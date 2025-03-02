@@ -1,63 +1,63 @@
 {
-  "term": "sacrifice",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the fact of giving up something important or valuable to you in order to get or do something that seems more important; something that you give up in this way",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The makers of the product assured us that there had been no sacrifice of quality."
-        },
-        {
-          "text": "Her parents **made sacrifices** so that she could have a good education."
-        },
-        {
-          "text": "to make the **ultimate/supreme sacrifice** *(= to die for your country, to save a friend, etc.)*"
-        }
-      ],
-      "collocations": {
-        "adjective": ["big", "considerable", "enormous"],
-        "verb + sacrifice": ["be", "make", "involve"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the act of offering something to a god, especially an animal that has been killed in a special way; an animal, etc. that is offered in this way",
-      "sensetop": "sacrifice (to somebody)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "They offered sacrifices to the gods."
-        },
-        {
-          "text": "a human sacrifice *(= a person killed as a )*"
-        }
-      ],
-      "topics": ["Religion and festivals"],
-      "collocations": {
-        "adjective": ["animal", "human", "pagan"],
-        "verb + sacrifice": ["perform", "offer (something as)"],
-        "preposition": ["sacrifice to"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsækrɪfaɪs/",
-        "audio": "sa/sacrifice/sacrifice__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsækrɪfaɪs/",
-        "audio": "sa/sacrifice/sacrifice__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French, from Latin sacrificium; related to sacrificus ‘sacrificial’, from sacer ‘holy’."
+	"term": "sacrifice",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the fact of giving up something important or valuable to you in order to get or do something that seems more important; something that you give up in this way",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The makers of the product assured us that there had been no sacrifice of quality."
+				},
+				{
+					"text": "Her parents **made sacrifices** so that she could have a good education."
+				},
+				{
+					"text": "to make the **ultimate/supreme sacrifice** *(= to die for your country, to save a friend, etc.)*"
+				}
+			],
+			"collocations": {
+				"adjective": ["big", "considerable", "enormous"],
+				"verb + sacrifice": ["be", "make", "involve"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the act of offering something to a god, especially an animal that has been killed in a special way; an animal, etc. that is offered in this way",
+			"sensetop": "sacrifice (to somebody)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "They offered sacrifices to the gods."
+				},
+				{
+					"text": "a human sacrifice *(= a person killed as a )*"
+				}
+			],
+			"topics": ["Religion and festivals"],
+			"collocations": {
+				"adjective": ["animal", "human", "pagan"],
+				"verb + sacrifice": ["perform", "offer (something as)"],
+				"preposition": ["sacrifice to"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsækrɪfaɪs/",
+				"audio": "sa/sacrifice/sacrifice__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsækrɪfaɪs/",
+				"audio": "sa/sacrifice/sacrifice__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French, from Latin sacrificium; related to sacrificus ‘sacrificial’, from sacer ‘holy’."
 }

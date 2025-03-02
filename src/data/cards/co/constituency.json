@@ -1,76 +1,76 @@
 {
-  "term": "constituency",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a district that elects its own representative to parliament",
-      "labels": "(especially British English)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Unemployment is high in her constituency."
-        },
-        {
-          "text": "He owns a house in his Darlington constituency."
-        }
-      ],
-      "topics": ["Politics"],
-      "collocations": {
-        "adjective": ["important", "key", "home"],
-        "verb + constituency": ["represent"],
-        "constituency + noun": ["boundaries", "MP"],
-        "preposition": ["in a/​the constituency"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the people who live in and vote in a particular district",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "constituency opinion"
-        },
-        {
-          "text": "What does/do the constituency think?"
-        }
-      ],
-      "topics": ["Politics"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a particular group of people in society who are likely to support a person, an idea or a product",
-      "examples": [
-        {
-          "text": "There is a strong constituency of support for his proposal."
-        },
-        {
-          "text": "the constituency that is/are in favour of the proposal"
-        }
-      ],
-      "collocations": {
-        "adjective": ["broad", "wider", "core"],
-        "verb + constituency": ["appeal to", "represent", "build"],
-        "preposition": ["in a/​the constituency"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kənˈstɪtʃuənsi/",
-        "audio": "xc/constituency/xconstituency__gb_4.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kənˈstɪtʃuənsi/",
-        "audio": "xc/constituency/xconstituency__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "constituency",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a district that elects its own representative to parliament",
+			"labels": "(especially British English)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Unemployment is high in her constituency."
+				},
+				{
+					"text": "He owns a house in his Darlington constituency."
+				}
+			],
+			"topics": ["Politics"],
+			"collocations": {
+				"adjective": ["important", "key", "home"],
+				"verb + constituency": ["represent"],
+				"constituency + noun": ["boundaries", "MP"],
+				"preposition": ["in a/​the constituency"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the people who live in and vote in a particular district",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "constituency opinion"
+				},
+				{
+					"text": "What does/do the constituency think?"
+				}
+			],
+			"topics": ["Politics"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a particular group of people in society who are likely to support a person, an idea or a product",
+			"examples": [
+				{
+					"text": "There is a strong constituency of support for his proposal."
+				},
+				{
+					"text": "the constituency that is/are in favour of the proposal"
+				}
+			],
+			"collocations": {
+				"adjective": ["broad", "wider", "core"],
+				"verb + constituency": ["appeal to", "represent", "build"],
+				"preposition": ["in a/​the constituency"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kənˈstɪtʃuənsi/",
+				"audio": "xc/constituency/xconstituency__gb_4.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kənˈstɪtʃuənsi/",
+				"audio": "xc/constituency/xconstituency__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

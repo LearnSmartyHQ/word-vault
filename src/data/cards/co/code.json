@@ -1,158 +1,158 @@
 {
-  "term": "code",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a system of words, letters, numbers or symbols that represent a message or record information secretly or in a shorter form",
-      "sensetop": "in code",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **break/crack a code** *(= to understand and read the message)*"
-        },
-        {
-          "text": "It's written in code.",
-          "contextForm": "in code"
-        },
-        {
-          "text": "In the event of the machine not operating correctly, an error code will appear."
-        },
-        {
-          "text": "Tap your code number into the machine."
-        },
-        {
-          "text": "The code was difficult to crack."
-        }
-      ],
-      "collocations": {
-        "adjective": ["area", "dialling", "post"],
-        "verb + code": ["generate"],
-        "code + noun": ["number", "generator"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the numbers that are used for a particular town, area or country, in front of an individual phone number",
-      "labels": "(British English)",
-      "examples": [
-        {
-          "text": "There are three codes for London."
-        }
-      ],
-      "collocations": {
-        "adjective": ["area", "dialling", "post"],
-        "verb + code": ["generate"],
-        "code + noun": ["number", "generator"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a system of computer programming instructions",
-      "labels": "(computing)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Bill **wrote the** computer **code** for the project."
-        },
-        {
-          "text": "**malicious code** that will infect your computer"
-        },
-        {
-          "text": "You only need to add a few **lines of code**."
-        }
-      ],
-      "topics": ["Computers"],
-      "collocations": {
-        "adjective": ["binary", "executable", "HTML"],
-        "verb + code": ["execute", "write", "modify"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a set of moral principles or rules of behaviour that are generally accepted by society or a social group",
-      "examples": [
-        {
-          "text": "The school enforces a strict **code of conduct**."
-        },
-        {
-          "text": "a **code of ethics**"
-        },
-        {
-          "text": "She lives by her own **moral code**."
-        },
-        {
-          "text": "Knights in the Middle Ages had a strong code of honour."
-        },
-        {
-          "text": "There was a rigid code of honour associated with the cult."
-        },
-        {
-          "text": "There should be a clear ethical code for researchers working with human subjects."
-        },
-        {
-          "text": "A long-standing, unwritten code of behaviour governs relations between ministers and civil servants."
-        },
-        {
-          "text": "There is an unwritten code that says ‘Do not date your best friend's ex.’"
-        }
-      ],
-      "collocations": {
-        "adjective": ["strict", "unwritten", "ethical"],
-        "verb + code": ["have", "adopt", "draw up"],
-        "phrases": [
-          "a code of behaviour/​behavior",
-          "a code of conduct",
-          "a code of ethics"
-        ]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a system of laws or written rules that state how people in an institution or a country should behave",
-      "labels": "(North American English)",
-      "examples": [
-        {
-          "text": "The Supreme Council adopted a new criminal code."
-        },
-        {
-          "text": "The theater did not comply with modern **building codes** and was not accessible to wheelchair users."
-        },
-        {
-          "text": "The company has drawn up a new disciplinary code."
-        },
-        {
-          "text": "As a statutory code approved by Parliament, it is not mere guidance."
-        }
-      ],
-      "collocations": {
-        "adjective": ["strict", "unwritten", "ethical"],
-        "verb + code": ["have", "adopt", "draw up"],
-        "phrases": [
-          "a code of behaviour/​behavior",
-          "a code of conduct",
-          "a code of ethics"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kəʊd/",
-        "audio": "co/code/code__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kəʊd/",
-        "audio": "co/code/code__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: via Old French from Latin codex, codic- literally ‘block of wood’, later denoting a block split into leaves or tablets for writing on, hence a book. The term originally denoted a systematic collection of statutes made by Justinian or another of the later Roman emperors; compare with sense (5) (mid 18th cent.), the earliest modern sense."
+	"term": "code",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a system of words, letters, numbers or symbols that represent a message or record information secretly or in a shorter form",
+			"sensetop": "in code",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **break/crack a code** *(= to understand and read the message)*"
+				},
+				{
+					"text": "It's written in code.",
+					"contextForm": "in code"
+				},
+				{
+					"text": "In the event of the machine not operating correctly, an error code will appear."
+				},
+				{
+					"text": "Tap your code number into the machine."
+				},
+				{
+					"text": "The code was difficult to crack."
+				}
+			],
+			"collocations": {
+				"adjective": ["area", "dialling", "post"],
+				"verb + code": ["generate"],
+				"code + noun": ["number", "generator"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the numbers that are used for a particular town, area or country, in front of an individual phone number",
+			"labels": "(British English)",
+			"examples": [
+				{
+					"text": "There are three codes for London."
+				}
+			],
+			"collocations": {
+				"adjective": ["area", "dialling", "post"],
+				"verb + code": ["generate"],
+				"code + noun": ["number", "generator"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a system of computer programming instructions",
+			"labels": "(computing)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Bill **wrote the** computer **code** for the project."
+				},
+				{
+					"text": "**malicious code** that will infect your computer"
+				},
+				{
+					"text": "You only need to add a few **lines of code**."
+				}
+			],
+			"topics": ["Computers"],
+			"collocations": {
+				"adjective": ["binary", "executable", "HTML"],
+				"verb + code": ["execute", "write", "modify"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a set of moral principles or rules of behaviour that are generally accepted by society or a social group",
+			"examples": [
+				{
+					"text": "The school enforces a strict **code of conduct**."
+				},
+				{
+					"text": "a **code of ethics**"
+				},
+				{
+					"text": "She lives by her own **moral code**."
+				},
+				{
+					"text": "Knights in the Middle Ages had a strong code of honour."
+				},
+				{
+					"text": "There was a rigid code of honour associated with the cult."
+				},
+				{
+					"text": "There should be a clear ethical code for researchers working with human subjects."
+				},
+				{
+					"text": "A long-standing, unwritten code of behaviour governs relations between ministers and civil servants."
+				},
+				{
+					"text": "There is an unwritten code that says ‘Do not date your best friend's ex.’"
+				}
+			],
+			"collocations": {
+				"adjective": ["strict", "unwritten", "ethical"],
+				"verb + code": ["have", "adopt", "draw up"],
+				"phrases": [
+					"a code of behaviour/​behavior",
+					"a code of conduct",
+					"a code of ethics"
+				]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a system of laws or written rules that state how people in an institution or a country should behave",
+			"labels": "(North American English)",
+			"examples": [
+				{
+					"text": "The Supreme Council adopted a new criminal code."
+				},
+				{
+					"text": "The theater did not comply with modern **building codes** and was not accessible to wheelchair users."
+				},
+				{
+					"text": "The company has drawn up a new disciplinary code."
+				},
+				{
+					"text": "As a statutory code approved by Parliament, it is not mere guidance."
+				}
+			],
+			"collocations": {
+				"adjective": ["strict", "unwritten", "ethical"],
+				"verb + code": ["have", "adopt", "draw up"],
+				"phrases": [
+					"a code of behaviour/​behavior",
+					"a code of conduct",
+					"a code of ethics"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kəʊd/",
+				"audio": "co/code/code__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kəʊd/",
+				"audio": "co/code/code__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: via Old French from Latin codex, codic- literally ‘block of wood’, later denoting a block split into leaves or tablets for writing on, hence a book. The term originally denoted a systematic collection of statutes made by Justinian or another of the later Roman emperors; compare with sense (5) (mid 18th cent.), the earliest modern sense."
 }

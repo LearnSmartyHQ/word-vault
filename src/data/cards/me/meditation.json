@@ -1,94 +1,94 @@
 {
-  "term": "meditation",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the practice of focusing your mind in silence, especially for religious reasons or in order to make your mind calm",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She found peace through yoga and meditation."
-        },
-        {
-          "text": "She uses music and guided meditation to relax and inspire."
-        },
-        {
-          "text": "Techniques of deep meditation help people under stress."
-        },
-        {
-          "text": "I recently discovered the benefits of meditation."
-        },
-        {
-          "text": "More and more people practise meditation on a regular basis."
-        }
-      ],
-      "topics": ["Religion and festivals"],
-      "collocations": {
-        "adjective": ["deep", "profound", "quiet"],
-        "verb + meditation": ["do", "practise/​practice"],
-        "preposition": ["in meditation", "meditation on"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the activity of thinking deeply about something, especially so that you do not notice the people or things around you",
-      "sensetop": "in meditation",
-      "examples": [
-        {
-          "text": "He was deep in meditation and didn't see me come in.",
-          "contextForm": "in meditation"
-        },
-        {
-          "text": "She stared out of the window in silent meditation."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "serious thoughts on a particular subject that somebody writes down or speaks",
-      "sensetop": "meditation (on something)",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "his meditations on life and art"
-        },
-        {
-          "text": "The novel is an extended meditation on art, love and loss."
-        },
-        {
-          "text": "A rare copy of his ‘Meditations on Love’ has been discovered."
-        },
-        {
-          "text": "She kept a journal of her meditations and dreams."
-        },
-        {
-          "text": "The play contains some fascinating meditations on the nature of genius."
-        }
-      ],
-      "collocations": {
-        "adjective": ["deep", "profound", "quiet"],
-        "verb + meditation": ["do", "practise/​practice"],
-        "preposition": ["in meditation", "meditation on"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌmedɪˈteɪʃn/",
-        "audio": "me/meditation/meditation__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌmedɪˈteɪʃn/",
-        "audio": "me/meditation/meditation__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French, from Latin meditatio(n-), from meditari, from a base meaning ‘measure’; related to mete."
+	"term": "meditation",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the practice of focusing your mind in silence, especially for religious reasons or in order to make your mind calm",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She found peace through yoga and meditation."
+				},
+				{
+					"text": "She uses music and guided meditation to relax and inspire."
+				},
+				{
+					"text": "Techniques of deep meditation help people under stress."
+				},
+				{
+					"text": "I recently discovered the benefits of meditation."
+				},
+				{
+					"text": "More and more people practise meditation on a regular basis."
+				}
+			],
+			"topics": ["Religion and festivals"],
+			"collocations": {
+				"adjective": ["deep", "profound", "quiet"],
+				"verb + meditation": ["do", "practise/​practice"],
+				"preposition": ["in meditation", "meditation on"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the activity of thinking deeply about something, especially so that you do not notice the people or things around you",
+			"sensetop": "in meditation",
+			"examples": [
+				{
+					"text": "He was deep in meditation and didn't see me come in.",
+					"contextForm": "in meditation"
+				},
+				{
+					"text": "She stared out of the window in silent meditation."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "serious thoughts on a particular subject that somebody writes down or speaks",
+			"sensetop": "meditation (on something)",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "his meditations on life and art"
+				},
+				{
+					"text": "The novel is an extended meditation on art, love and loss."
+				},
+				{
+					"text": "A rare copy of his ‘Meditations on Love’ has been discovered."
+				},
+				{
+					"text": "She kept a journal of her meditations and dreams."
+				},
+				{
+					"text": "The play contains some fascinating meditations on the nature of genius."
+				}
+			],
+			"collocations": {
+				"adjective": ["deep", "profound", "quiet"],
+				"verb + meditation": ["do", "practise/​practice"],
+				"preposition": ["in meditation", "meditation on"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌmedɪˈteɪʃn/",
+				"audio": "me/meditation/meditation__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌmedɪˈteɪʃn/",
+				"audio": "me/meditation/meditation__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French, from Latin meditatio(n-), from meditari, from a base meaning ‘measure’; related to mete."
 }

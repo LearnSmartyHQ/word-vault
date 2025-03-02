@@ -1,182 +1,182 @@
 {
-  "term": "deposit",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a sum of money that is given as the first part of a larger payment",
-      "sensetop": "deposit on something",
-      "labels": "(British English)(British English)(especially North American English)(British English)(especially North American English)(British English)(especially North American English)(British English)(British English)(North American English)(British English)(North American English)especially British Englishespecially North American English(North American English)(British English)(especially North American English)(British English)(British English)(British English)(especially North American English)(British English)(North American English)(North American English)(British English)(British English)(especially North American English)(British English also)(British English)(especially North American English)(especially British English)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "They normally ask you to pay $100 (as a) deposit."
-        },
-        {
-          "text": "All deposits are non-refundable."
-        },
-        {
-          "text": "We've put down a five per cent deposit on the house.",
-          "contextForm": "deposit on something"
-        },
-        {
-          "text": "I had to leave a €50 deposit on the bike."
-        },
-        {
-          "text": "We've put down the deposit on our new car."
-        },
-        {
-          "text": "The shop said it would reserve the rug for him if he paid £20 as a deposit."
-        },
-        {
-          "text": "All deposits for holiday cottages are refundable."
-        }
-      ],
-      "synonyms": "down payment",
-      "topics": ["Houses and homes"],
-      "collocations": {
-        "verb + deposit": ["pay", "put down"],
-        "preposition": ["deposit on"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a sum of money that is paid by somebody when they rent something and that is returned to them if they do not lose or damage the thing they are renting",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "to pay a deposit"
-        },
-        {
-          "text": "They'll probably ask you to leave a deposit."
-        },
-        {
-          "text": "The car costs $50 per day in rental, plus a $200 deposit which you will get back at the end of the week."
-        },
-        {
-          "text": "You'll get back your deposit once we've checked the bikes are all right."
-        },
-        {
-          "text": "If furniture is damaged, you will forfeit your deposit."
-        },
-        {
-          "text": "You have to pay a deposit of $1 200 as well as two months' rent."
-        }
-      ],
-      "topics": ["Houses and homes"],
-      "collocations": {
-        "adjective": ["refundable", "returnable", "non-refundable"],
-        "verb + deposit": [
-          "give (somebody)",
-          "leave (somebody)",
-          "pay (somebody)"
-        ],
-        "preposition": ["deposit on"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a sum of money that is paid into a bank account",
-      "labels": "(informal)(informal)(British English)(North American English)(informal)(informal)(informal)(British English)(US English)(formal)(especially North American English)(British English)(especially British English)(especially British English)(North American English usually)(informal)(informal)especially North American English",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Deposits can be made at any branch."
-        },
-        {
-          "text": "Bank deposits have increased by 2.3%."
-        },
-        {
-          "text": "She made a deposit of £60 into her account."
-        }
-      ],
-      "topics": ["Money"],
-      "collocations": {
-        "adjective": ["bank", "building-society", "cash"],
-        "verb + deposit": ["make"],
-        "deposit + noun": ["account"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "(in the British political system) the amount of money that a candidate in an election to Parliament has to pay, and that is returned if he/she gets enough votes",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "All the other candidates **lost their deposits**."
-        }
-      ],
-      "topics": ["Politics"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a layer of a substance that has formed naturally underground",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "**mineral/gold/coal deposits**"
-        },
-        {
-          "text": "The region has many deposits of valuable oil."
-        },
-        {
-          "text": "an area with large mineral deposits"
-        }
-      ],
-      "collocations": {
-        "adjective": ["large", "rich", "thick"],
-        "verb + deposit": ["contain", "have", "form"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "a layer of a substance that has been left somewhere, especially by a river, flood, etc., or is found at the bottom of a liquid",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The rain left a deposit of mud on the windows."
-        },
-        {
-          "text": "fatty deposits in the arteries of the heart"
-        },
-        {
-          "text": "glacial deposits"
-        },
-        {
-          "text": "The floods left a thick deposit of mud over the fields."
-        }
-      ],
-      "topics": ["Geography"],
-      "collocations": {
-        "adjective": ["large", "rich", "thick"],
-        "verb + deposit": ["contain", "have", "form"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "placed in a deposit account",
-      "examples": [
-        {
-          "text": "With interest rates so low, there is little point in having cash on deposit."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/dɪˈpɒzɪt/",
-        "audio": "de/deposit/deposit__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/dɪˈpɑːzɪt/",
-        "audio": "de/deposit/deposit__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent. (especially in the phrases in deposit or on deposit): from Latin depositum (noun), medieval Latin depositare (verb), both from Latin deposit- ‘laid aside’, from the verb deponere."
+	"term": "deposit",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a sum of money that is given as the first part of a larger payment",
+			"sensetop": "deposit on something",
+			"labels": "(British English)(British English)(especially North American English)(British English)(especially North American English)(British English)(especially North American English)(British English)(British English)(North American English)(British English)(North American English)especially British Englishespecially North American English(North American English)(British English)(especially North American English)(British English)(British English)(British English)(especially North American English)(British English)(North American English)(North American English)(British English)(British English)(especially North American English)(British English also)(British English)(especially North American English)(especially British English)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "They normally ask you to pay $100 (as a) deposit."
+				},
+				{
+					"text": "All deposits are non-refundable."
+				},
+				{
+					"text": "We've put down a five per cent deposit on the house.",
+					"contextForm": "deposit on something"
+				},
+				{
+					"text": "I had to leave a €50 deposit on the bike."
+				},
+				{
+					"text": "We've put down the deposit on our new car."
+				},
+				{
+					"text": "The shop said it would reserve the rug for him if he paid £20 as a deposit."
+				},
+				{
+					"text": "All deposits for holiday cottages are refundable."
+				}
+			],
+			"synonyms": "down payment",
+			"topics": ["Houses and homes"],
+			"collocations": {
+				"verb + deposit": ["pay", "put down"],
+				"preposition": ["deposit on"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a sum of money that is paid by somebody when they rent something and that is returned to them if they do not lose or damage the thing they are renting",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "to pay a deposit"
+				},
+				{
+					"text": "They'll probably ask you to leave a deposit."
+				},
+				{
+					"text": "The car costs $50 per day in rental, plus a $200 deposit which you will get back at the end of the week."
+				},
+				{
+					"text": "You'll get back your deposit once we've checked the bikes are all right."
+				},
+				{
+					"text": "If furniture is damaged, you will forfeit your deposit."
+				},
+				{
+					"text": "You have to pay a deposit of $1 200 as well as two months' rent."
+				}
+			],
+			"topics": ["Houses and homes"],
+			"collocations": {
+				"adjective": ["refundable", "returnable", "non-refundable"],
+				"verb + deposit": [
+					"give (somebody)",
+					"leave (somebody)",
+					"pay (somebody)"
+				],
+				"preposition": ["deposit on"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a sum of money that is paid into a bank account",
+			"labels": "(informal)(informal)(British English)(North American English)(informal)(informal)(informal)(British English)(US English)(formal)(especially North American English)(British English)(especially British English)(especially British English)(North American English usually)(informal)(informal)especially North American English",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Deposits can be made at any branch."
+				},
+				{
+					"text": "Bank deposits have increased by 2.3%."
+				},
+				{
+					"text": "She made a deposit of £60 into her account."
+				}
+			],
+			"topics": ["Money"],
+			"collocations": {
+				"adjective": ["bank", "building-society", "cash"],
+				"verb + deposit": ["make"],
+				"deposit + noun": ["account"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "(in the British political system) the amount of money that a candidate in an election to Parliament has to pay, and that is returned if he/she gets enough votes",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "All the other candidates **lost their deposits**."
+				}
+			],
+			"topics": ["Politics"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a layer of a substance that has formed naturally underground",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "**mineral/gold/coal deposits**"
+				},
+				{
+					"text": "The region has many deposits of valuable oil."
+				},
+				{
+					"text": "an area with large mineral deposits"
+				}
+			],
+			"collocations": {
+				"adjective": ["large", "rich", "thick"],
+				"verb + deposit": ["contain", "have", "form"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "a layer of a substance that has been left somewhere, especially by a river, flood, etc., or is found at the bottom of a liquid",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The rain left a deposit of mud on the windows."
+				},
+				{
+					"text": "fatty deposits in the arteries of the heart"
+				},
+				{
+					"text": "glacial deposits"
+				},
+				{
+					"text": "The floods left a thick deposit of mud over the fields."
+				}
+			],
+			"topics": ["Geography"],
+			"collocations": {
+				"adjective": ["large", "rich", "thick"],
+				"verb + deposit": ["contain", "have", "form"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "placed in a deposit account",
+			"examples": [
+				{
+					"text": "With interest rates so low, there is little point in having cash on deposit."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/dɪˈpɒzɪt/",
+				"audio": "de/deposit/deposit__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/dɪˈpɑːzɪt/",
+				"audio": "de/deposit/deposit__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent. (especially in the phrases in deposit or on deposit): from Latin depositum (noun), medieval Latin depositare (verb), both from Latin deposit- ‘laid aside’, from the verb deponere."
 }

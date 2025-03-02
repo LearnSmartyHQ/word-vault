@@ -1,106 +1,106 @@
 {
-  "term": "headline",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the title of a news article printed in large letters, especially at the top of the front page on a newspaper or the home page on a news website",
-      "sensetop": "under a headlinein the headlinesheadline about somebody/something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **newspaper headline**"
-        },
-        {
-          "text": "They ran the story under the headline ‘Home at last!’.",
-          "contextForm": "under a headline"
-        },
-        {
-          "text": "The scandal was in the headlines for several days.",
-          "contextForm": "in the headlines"
-        },
-        {
-          "text": "an alarming headline about possible terrorist attacks",
-          "contextForm": "headline about somebody/something"
-        },
-        {
-          "text": "I just had time to scan the headlines before leaving for work."
-        },
-        {
-          "text": "Journalists don't usually write the headlines for their stories."
-        },
-        {
-          "text": "The Guardian carried the headline ‘Drugs Firms Shamed’."
-        }
-      ],
-      "topics": ["TV, radio and news"],
-      "collocations": {
-        "adjective": ["newspaper", "tabloid", "banner"],
-        "verb + headline": ["carry", "have", "run"],
-        "headline + verb": [
-          "announce something",
-          "blare something",
-          "declare something"
-        ],
-        "headline + noun": ["news"],
-        "preposition": [
-          "in a/​the headline",
-          "under a/​the headline",
-          "with a/​the headline"
-        ],
-        "phrases": ["make headline news"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a short summary of the most important items of news, read at the beginning of a news programme on the radio or television",
-      "cefr": "b1",
-      "examples": [
-        {
-          "text": "Do you mind if I listen to the headlines before we leave?"
-        },
-        {
-          "text": "Let's just hear the news headlines."
-        }
-      ],
-      "topics": ["TV, radio and news"],
-      "collocations": {
-        "adjective": ["news", "national"],
-        "verb + the headlines": ["hear", "look at", "see"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be an important item of news in the media",
-      "examples": [
-        {
-          "text": "He always manages to grab the headlines."
-        },
-        {
-          "text": "The hospital hit the headlines when a number of suspicious deaths occurred."
-        },
-        {
-          "text": "The story was important enough to make the headlines."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈhedlaɪn/",
-        "audio": "he/headline/headline__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈhedlaɪn/",
-        "audio": "he/headline/headline__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "headline",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the title of a news article printed in large letters, especially at the top of the front page on a newspaper or the home page on a news website",
+			"sensetop": "under a headlinein the headlinesheadline about somebody/something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **newspaper headline**"
+				},
+				{
+					"text": "They ran the story under the headline ‘Home at last!’.",
+					"contextForm": "under a headline"
+				},
+				{
+					"text": "The scandal was in the headlines for several days.",
+					"contextForm": "in the headlines"
+				},
+				{
+					"text": "an alarming headline about possible terrorist attacks",
+					"contextForm": "headline about somebody/something"
+				},
+				{
+					"text": "I just had time to scan the headlines before leaving for work."
+				},
+				{
+					"text": "Journalists don't usually write the headlines for their stories."
+				},
+				{
+					"text": "The Guardian carried the headline ‘Drugs Firms Shamed’."
+				}
+			],
+			"topics": ["TV, radio and news"],
+			"collocations": {
+				"adjective": ["newspaper", "tabloid", "banner"],
+				"verb + headline": ["carry", "have", "run"],
+				"headline + verb": [
+					"announce something",
+					"blare something",
+					"declare something"
+				],
+				"headline + noun": ["news"],
+				"preposition": [
+					"in a/​the headline",
+					"under a/​the headline",
+					"with a/​the headline"
+				],
+				"phrases": ["make headline news"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a short summary of the most important items of news, read at the beginning of a news programme on the radio or television",
+			"cefr": "b1",
+			"examples": [
+				{
+					"text": "Do you mind if I listen to the headlines before we leave?"
+				},
+				{
+					"text": "Let's just hear the news headlines."
+				}
+			],
+			"topics": ["TV, radio and news"],
+			"collocations": {
+				"adjective": ["news", "national"],
+				"verb + the headlines": ["hear", "look at", "see"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be an important item of news in the media",
+			"examples": [
+				{
+					"text": "He always manages to grab the headlines."
+				},
+				{
+					"text": "The hospital hit the headlines when a number of suspicious deaths occurred."
+				},
+				{
+					"text": "The story was important enough to make the headlines."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈhedlaɪn/",
+				"audio": "he/headline/headline__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈhedlaɪn/",
+				"audio": "he/headline/headline__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

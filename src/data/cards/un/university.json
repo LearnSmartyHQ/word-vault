@@ -1,116 +1,116 @@
 {
-  "term": "university",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "an institution at the highest level of education where you can study for a degree or do research",
-      "sensetop": "at a/the universityat university",
-      "labels": "(British English)(British English)(British English)(especially British English)(North American English)(North American English)(British English)(British English)(North American English)(North American English)(British English)(both British English, informal)(both especially North American English)(British English)(North American English)(British English)(North American English)(North American English)(British English)(North American English)(North American English, informal)(both British English)(especially British English)(especially North American English)(British English)(North American English)(especially North American English, informal)(especially North American English, informal)(British English)(British English)(British English)(both North American English)British EnglishNorth American EnglishNorth American EnglishBritish EnglishNorth American English",
-      "examples": [
-        {
-          "text": "Is there a university in this town?"
-        },
-        {
-          "text": "Ohio State University"
-        },
-        {
-          "text": "the University of York"
-        },
-        {
-          "text": "York University"
-        },
-        {
-          "text": "She studied at the University of Chicago.",
-          "contextForm": "at a/the university"
-        },
-        {
-          "text": "Both their children are at university.",
-          "contextForm": "at university"
-        },
-        {
-          "text": "He's hoping to **go to university** next year."
-        },
-        {
-          "text": "a **university student/lecturer/professor**"
-        },
-        {
-          "text": "a **university degree/course**"
-        },
-        {
-          "text": "The site lies on the **university campus** next to the lake."
-        },
-        {
-          "text": "I applied to three universities."
-        },
-        {
-          "text": "He goes to Princeton University."
-        },
-        {
-          "text": "Young people may be deterred from entering university."
-        },
-        {
-          "text": "She graduated from the University of Michigan in 1999."
-        },
-        {
-          "text": "She's a graduate of Oxford University."
-        },
-        {
-          "text": "She teaches botany at Syracuse University."
-        },
-        {
-          "text": "I often think of my university days."
-        },
-        {
-          "text": "the pressures of university life"
-        },
-        {
-          "text": "a university entrance exam"
-        },
-        {
-          "text": "There is stiff competition for university places."
-        },
-        {
-          "text": "those who can afford university tuition"
-        },
-        {
-          "text": "His aim was to finish his doctorate and obtain a university chair."
-        }
-      ],
-      "topics": ["Education"],
-      "collocations": {
-        "adjective": ["elite", "leading", "major"],
-        "verb + university": ["attend", "go to", "study at"],
-        "university + noun": ["lecturer", "professor", "researcher"],
-        "preposition": ["at (the) university"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "the experience of life thought of as giving somebody an education, instead of the person gaining formal qualifications",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "a degree from the university of life"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌjuːnɪˈvɜːsəti/",
-        "audio": "un/university/university__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌjuːnɪˈvɜːrsəti/",
-        "audio": "un/university/university__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French universite, from Latin universitas ‘the whole’, in late Latin ‘society, guild’, from universus ‘combined into one, whole’, from uni- ‘one’ + versus ‘turned’ (past participle of vertere)."
+	"term": "university",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "an institution at the highest level of education where you can study for a degree or do research",
+			"sensetop": "at a/the universityat university",
+			"labels": "(British English)(British English)(British English)(especially British English)(North American English)(North American English)(British English)(British English)(North American English)(North American English)(British English)(both British English, informal)(both especially North American English)(British English)(North American English)(British English)(North American English)(North American English)(British English)(North American English)(North American English, informal)(both British English)(especially British English)(especially North American English)(British English)(North American English)(especially North American English, informal)(especially North American English, informal)(British English)(British English)(British English)(both North American English)British EnglishNorth American EnglishNorth American EnglishBritish EnglishNorth American English",
+			"examples": [
+				{
+					"text": "Is there a university in this town?"
+				},
+				{
+					"text": "Ohio State University"
+				},
+				{
+					"text": "the University of York"
+				},
+				{
+					"text": "York University"
+				},
+				{
+					"text": "She studied at the University of Chicago.",
+					"contextForm": "at a/the university"
+				},
+				{
+					"text": "Both their children are at university.",
+					"contextForm": "at university"
+				},
+				{
+					"text": "He's hoping to **go to university** next year."
+				},
+				{
+					"text": "a **university student/lecturer/professor**"
+				},
+				{
+					"text": "a **university degree/course**"
+				},
+				{
+					"text": "The site lies on the **university campus** next to the lake."
+				},
+				{
+					"text": "I applied to three universities."
+				},
+				{
+					"text": "He goes to Princeton University."
+				},
+				{
+					"text": "Young people may be deterred from entering university."
+				},
+				{
+					"text": "She graduated from the University of Michigan in 1999."
+				},
+				{
+					"text": "She's a graduate of Oxford University."
+				},
+				{
+					"text": "She teaches botany at Syracuse University."
+				},
+				{
+					"text": "I often think of my university days."
+				},
+				{
+					"text": "the pressures of university life"
+				},
+				{
+					"text": "a university entrance exam"
+				},
+				{
+					"text": "There is stiff competition for university places."
+				},
+				{
+					"text": "those who can afford university tuition"
+				},
+				{
+					"text": "His aim was to finish his doctorate and obtain a university chair."
+				}
+			],
+			"topics": ["Education"],
+			"collocations": {
+				"adjective": ["elite", "leading", "major"],
+				"verb + university": ["attend", "go to", "study at"],
+				"university + noun": ["lecturer", "professor", "researcher"],
+				"preposition": ["at (the) university"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "the experience of life thought of as giving somebody an education, instead of the person gaining formal qualifications",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "a degree from the university of life"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌjuːnɪˈvɜːsəti/",
+				"audio": "un/university/university__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌjuːnɪˈvɜːrsəti/",
+				"audio": "un/university/university__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French universite, from Latin universitas ‘the whole’, in late Latin ‘society, guild’, from universus ‘combined into one, whole’, from uni- ‘one’ + versus ‘turned’ (past participle of vertere)."
 }

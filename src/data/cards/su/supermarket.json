@@ -1,51 +1,51 @@
 {
-  "term": "supermarket",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/ci/city.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a large shop that sells food, drinks and goods used in the home. People choose what they want from the shelves and pay for it as they leave.",
-      "labels": "(British English)",
-      "examples": [
-        {
-          "text": "I only shop at this supermarket."
-        },
-        {
-          "text": "It is the fifth largest **supermarket chain** in the UK."
-        },
-        {
-          "text": "An increasing amount of organic produce is to be found on **supermarket shelves**."
-        },
-        {
-          "text": "a supermarket checkout/aisle"
-        },
-        {
-          "text": "a supermarket trolley"
-        }
-      ],
-      "topics": ["Shopping"],
-      "collocations": {
-        "adjective": ["leading", "major", "top"],
-        "supermarket + noun": ["chain", "giant", "group"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsuːpəmɑːkɪt/",
-        "audio": "su/supermarket/supermarket__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsuːpərmɑːrkɪt/",
-        "audio": "su/supermarket/supermarket__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "supermarket",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/ci/city.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a large shop that sells food, drinks and goods used in the home. People choose what they want from the shelves and pay for it as they leave.",
+			"labels": "(British English)",
+			"examples": [
+				{
+					"text": "I only shop at this supermarket."
+				},
+				{
+					"text": "It is the fifth largest **supermarket chain** in the UK."
+				},
+				{
+					"text": "An increasing amount of organic produce is to be found on **supermarket shelves**."
+				},
+				{
+					"text": "a supermarket checkout/aisle"
+				},
+				{
+					"text": "a supermarket trolley"
+				}
+			],
+			"topics": ["Shopping"],
+			"collocations": {
+				"adjective": ["leading", "major", "top"],
+				"supermarket + noun": ["chain", "giant", "group"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsuːpəmɑːkɪt/",
+				"audio": "su/supermarket/supermarket__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsuːpərmɑːrkɪt/",
+				"audio": "su/supermarket/supermarket__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

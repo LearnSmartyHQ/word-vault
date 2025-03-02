@@ -1,81 +1,81 @@
 {
-  "term": "amplify",
-  "partOfSpeech": "verb",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "amplify",
-      "heSheIt": "amplifies"
-    },
-    "pastSimple": "amplified",
-    "pastParticiple": "amplified",
-    "ingForm": "amplifying"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to increase something in strength, especially sound",
-      "sensetop": "amplify something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "to **amplify a guitar/an electric current/a signal**"
-        }
-      ],
-      "topics": ["Music"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to add details to a story, statement, etc.",
-      "sensetop": "amplify something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "She refused to amplify further."
-        },
-        {
-          "text": "You may need to amplify this point.",
-          "contextForm": "amplify something"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈæmplɪfaɪ/",
-        "audio": "am/amplify/amplify__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈæmplɪfaɪz/",
-        "audio": "am/amplify/amplifies__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈæmplɪfaɪd/",
-        "audio": "am/amplify/amplified__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈæmplɪfaɪɪŋ/",
-        "audio": "am/amplify/amplifying__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈæmplɪfaɪ/",
-        "audio": "am/amplify/amplify__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈæmplɪfaɪz/",
-        "audio": "am/amplify/amplifies__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈæmplɪfaɪd/",
-        "audio": "am/amplify/amplified__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈæmplɪfaɪɪŋ/",
-        "audio": "am/amplify/amplifying__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the general sense ‘increase, augment’): from Old French amplifier, from Latin amplificare, from amplus ‘large, abundant’."
+	"term": "amplify",
+	"partOfSpeech": "verb",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "amplify",
+			"heSheIt": "amplifies"
+		},
+		"pastSimple": "amplified",
+		"pastParticiple": "amplified",
+		"ingForm": "amplifying"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to increase something in strength, especially sound",
+			"sensetop": "amplify something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "to **amplify a guitar/an electric current/a signal**"
+				}
+			],
+			"topics": ["Music"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to add details to a story, statement, etc.",
+			"sensetop": "amplify something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "She refused to amplify further."
+				},
+				{
+					"text": "You may need to amplify this point.",
+					"contextForm": "amplify something"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈæmplɪfaɪ/",
+				"audio": "am/amplify/amplify__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈæmplɪfaɪz/",
+				"audio": "am/amplify/amplifies__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈæmplɪfaɪd/",
+				"audio": "am/amplify/amplified__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈæmplɪfaɪɪŋ/",
+				"audio": "am/amplify/amplifying__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈæmplɪfaɪ/",
+				"audio": "am/amplify/amplify__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈæmplɪfaɪz/",
+				"audio": "am/amplify/amplifies__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈæmplɪfaɪd/",
+				"audio": "am/amplify/amplified__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈæmplɪfaɪɪŋ/",
+				"audio": "am/amplify/amplifying__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the general sense ‘increase, augment’): from Old French amplifier, from Latin amplificare, from amplus ‘large, abundant’."
 }

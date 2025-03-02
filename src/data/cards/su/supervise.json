@@ -1,98 +1,98 @@
 {
-  "term": "supervise",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "supervise",
-      "heSheIt": "supervises"
-    },
-    "pastSimple": "supervised",
-    "pastParticiple": "supervised",
-    "ingForm": "supervising"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to be in charge of somebody/something and make sure that everything is done correctly, safely, etc.",
-      "sensetop": "supervise (somebody/something)supervise somebody doing something",
-      "examples": [
-        {
-          "text": "to supervise building work",
-          "contextForm": "supervise (somebody/something)"
-        },
-        {
-          "text": "Who is supervising?"
-        },
-        {
-          "text": "She supervised the children playing near the pool.",
-          "contextForm": "supervise somebody doing something"
-        },
-        {
-          "text": "He was directly responsible for supervising the loading of the containers."
-        },
-        {
-          "text": "I will supervise the work personally."
-        },
-        {
-          "text": "The pool is fully supervised by trained staff."
-        },
-        {
-          "text": "a proposal for an internationally supervised ceasefire"
-        },
-        {
-          "text": "During the training period, new employees are closely supervised."
-        },
-        {
-          "text": "The commission is charged with supervising elections."
-        }
-      ],
-      "topics": ["Jobs"],
-      "collocations": {
-        "adverb": ["carefully", "closely", "directly"],
-        "verb + supervise": ["appoint somebody to"],
-        "phrases": ["be responsible for supervising something"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsuːpəvaɪz/",
-        "audio": "su/supervise/supervise__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsuːpəvaɪzɪz/",
-        "audio": "su/supervise/supervises__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsuːpəvaɪzd/",
-        "audio": "su/supervise/supervised__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsuːpəvaɪzɪŋ/",
-        "audio": "su/supervise/supervising__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsuːpərvaɪz/",
-        "audio": "su/supervise/supervise__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsuːpərvaɪzɪz/",
-        "audio": "su/supervise/supervises__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsuːpərvaɪzd/",
-        "audio": "su/supervise/supervised__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsuːpərvaɪzɪŋ/",
-        "audio": "su/supervise/supervising__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 15th cent. (in the sense ‘survey, peruse’): from medieval Latin supervis- ‘surveyed, supervised’, from supervidere, from super- ‘over’ + videre ‘to see’."
+	"term": "supervise",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "supervise",
+			"heSheIt": "supervises"
+		},
+		"pastSimple": "supervised",
+		"pastParticiple": "supervised",
+		"ingForm": "supervising"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to be in charge of somebody/something and make sure that everything is done correctly, safely, etc.",
+			"sensetop": "supervise (somebody/something)supervise somebody doing something",
+			"examples": [
+				{
+					"text": "to supervise building work",
+					"contextForm": "supervise (somebody/something)"
+				},
+				{
+					"text": "Who is supervising?"
+				},
+				{
+					"text": "She supervised the children playing near the pool.",
+					"contextForm": "supervise somebody doing something"
+				},
+				{
+					"text": "He was directly responsible for supervising the loading of the containers."
+				},
+				{
+					"text": "I will supervise the work personally."
+				},
+				{
+					"text": "The pool is fully supervised by trained staff."
+				},
+				{
+					"text": "a proposal for an internationally supervised ceasefire"
+				},
+				{
+					"text": "During the training period, new employees are closely supervised."
+				},
+				{
+					"text": "The commission is charged with supervising elections."
+				}
+			],
+			"topics": ["Jobs"],
+			"collocations": {
+				"adverb": ["carefully", "closely", "directly"],
+				"verb + supervise": ["appoint somebody to"],
+				"phrases": ["be responsible for supervising something"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsuːpəvaɪz/",
+				"audio": "su/supervise/supervise__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsuːpəvaɪzɪz/",
+				"audio": "su/supervise/supervises__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsuːpəvaɪzd/",
+				"audio": "su/supervise/supervised__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsuːpəvaɪzɪŋ/",
+				"audio": "su/supervise/supervising__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsuːpərvaɪz/",
+				"audio": "su/supervise/supervise__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsuːpərvaɪzɪz/",
+				"audio": "su/supervise/supervises__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsuːpərvaɪzd/",
+				"audio": "su/supervise/supervised__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsuːpərvaɪzɪŋ/",
+				"audio": "su/supervise/supervising__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 15th cent. (in the sense ‘survey, peruse’): from medieval Latin supervis- ‘surveyed, supervised’, from supervidere, from super- ‘over’ + videre ‘to see’."
 }

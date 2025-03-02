@@ -1,107 +1,107 @@
 {
-  "term": "infer",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "infer",
-      "heSheIt": "infers"
-    },
-    "pastSimple": "inferred",
-    "pastParticiple": "inferred",
-    "ingForm": "inferring"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to reach an opinion or decide that something is true on the basis of information that is available",
-      "sensetop": "infer something (from something)infer that…",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Much of the meaning must be inferred from the context.",
-          "contextForm": "infer something (from something)"
-        },
-        {
-          "text": "Readers are left to infer the killer’s motives."
-        },
-        {
-          "text": "It is reasonable to infer that the government knew about these deals.",
-          "contextForm": "infer that…"
-        },
-        {
-          "text": "From this study we can reasonably infer that this characteristic is inherited."
-        },
-        {
-          "text": "It is difficult to infer anything from such evidence."
-        },
-        {
-          "text": "It can be inferred from the evidence that the killer was quite a young man."
-        },
-        {
-          "text": "What can we infer about the state of mind of the writer?"
-        }
-      ],
-      "topics": ["Opinion and argument"],
-      "collocations": {
-        "adverb": ["reasonably", "correctly", "incorrectly"],
-        "verb + infer": ["can", "be possible to", "be difficult to"],
-        "preposition": ["from"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to suggest indirectly that something is true",
-      "sensetop": "infer (that)…infer something",
-      "labels": "(non-standard)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "Are you inferring (that) I’m not capable of doing the job?"
-        }
-      ],
-      "topics": ["Suggestions and advice"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈfɜː(r)/",
-        "audio": "in/infer/infer__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɜːz/",
-        "audio": "in/infer/infers__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɜːd/",
-        "audio": "in/infer/inferred__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɜːrɪŋ/",
-        "audio": "in/infer/inferring__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈfɜːr/",
-        "audio": "in/infer/infer__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɜːrz/",
-        "audio": "in/infer/infers__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɜːrd/",
-        "audio": "in/infer/inferred__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɜːrɪŋ/",
-        "audio": "in/infer/inferring__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 15th cent. (in the sense ‘bring about, inflict’): from Latin inferre ‘bring in, bring about’ (in medieval Latin ‘deduce’), from in- ‘into’ + ferre ‘bring’."
+	"term": "infer",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "infer",
+			"heSheIt": "infers"
+		},
+		"pastSimple": "inferred",
+		"pastParticiple": "inferred",
+		"ingForm": "inferring"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to reach an opinion or decide that something is true on the basis of information that is available",
+			"sensetop": "infer something (from something)infer that…",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Much of the meaning must be inferred from the context.",
+					"contextForm": "infer something (from something)"
+				},
+				{
+					"text": "Readers are left to infer the killer’s motives."
+				},
+				{
+					"text": "It is reasonable to infer that the government knew about these deals.",
+					"contextForm": "infer that…"
+				},
+				{
+					"text": "From this study we can reasonably infer that this characteristic is inherited."
+				},
+				{
+					"text": "It is difficult to infer anything from such evidence."
+				},
+				{
+					"text": "It can be inferred from the evidence that the killer was quite a young man."
+				},
+				{
+					"text": "What can we infer about the state of mind of the writer?"
+				}
+			],
+			"topics": ["Opinion and argument"],
+			"collocations": {
+				"adverb": ["reasonably", "correctly", "incorrectly"],
+				"verb + infer": ["can", "be possible to", "be difficult to"],
+				"preposition": ["from"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to suggest indirectly that something is true",
+			"sensetop": "infer (that)…infer something",
+			"labels": "(non-standard)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "Are you inferring (that) I’m not capable of doing the job?"
+				}
+			],
+			"topics": ["Suggestions and advice"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈfɜː(r)/",
+				"audio": "in/infer/infer__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɜːz/",
+				"audio": "in/infer/infers__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɜːd/",
+				"audio": "in/infer/inferred__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɜːrɪŋ/",
+				"audio": "in/infer/inferring__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈfɜːr/",
+				"audio": "in/infer/infer__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɜːrz/",
+				"audio": "in/infer/infers__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɜːrd/",
+				"audio": "in/infer/inferred__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɜːrɪŋ/",
+				"audio": "in/infer/inferring__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 15th cent. (in the sense ‘bring about, inflict’): from Latin inferre ‘bring in, bring about’ (in medieval Latin ‘deduce’), from in- ‘into’ + ferre ‘bring’."
 }

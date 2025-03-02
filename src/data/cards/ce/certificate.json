@@ -1,80 +1,80 @@
 {
-  "term": "certificate",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an official document that may be used to prove that the facts it states are true",
-      "sensetop": "certificate of something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a **birth/marriage/death certificate**"
-        },
-        {
-          "text": "a certificate of motor insurance",
-          "contextForm": "certificate of something"
-        },
-        {
-          "text": "The police are waiting for the doctor to issue a death certificate."
-        },
-        {
-          "text": "a certificate of authenticity"
-        },
-        {
-          "text": "She showed her certificate of insurance."
-        },
-        {
-          "text": "Everyone entering the country needs to show a health certificate."
-        },
-        {
-          "text": "This certificate is an important document. Keep it in a safe place."
-        }
-      ],
-      "topics": ["Life stages"],
-      "collocations": {
-        "adjective": ["birth", "death", "marriage"],
-        "verb + certificate": ["award (somebody)", "issue", "earn"],
-        "preposition": ["certificate of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an official document proving that you have completed a course of study or passed an exam; a qualification obtained after a course of study or an exam",
-      "sensetop": "certificate of something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a Postgraduate Certificate in Education *(= a British qualification for teachers)*"
-        },
-        {
-          "text": "A certificate of completion will be issued to all who complete the course.",
-          "contextForm": "certificate of something"
-        }
-      ],
-      "topics": ["Success", "Education"],
-      "collocations": {
-        "adjective": ["birth", "death", "marriage"],
-        "verb + certificate": ["award (somebody)", "issue", "earn"],
-        "preposition": ["certificate of"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/səˈtɪfɪkət/",
-        "audio": "ce/certificate/certificate__gb_4.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/sərˈtɪfɪkət/",
-        "audio": "ce/certificate/certificate__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘certification’): from French certificat or medieval Latin certificatum, from certificare, from Latin certus ‘certain’."
+	"term": "certificate",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an official document that may be used to prove that the facts it states are true",
+			"sensetop": "certificate of something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a **birth/marriage/death certificate**"
+				},
+				{
+					"text": "a certificate of motor insurance",
+					"contextForm": "certificate of something"
+				},
+				{
+					"text": "The police are waiting for the doctor to issue a death certificate."
+				},
+				{
+					"text": "a certificate of authenticity"
+				},
+				{
+					"text": "She showed her certificate of insurance."
+				},
+				{
+					"text": "Everyone entering the country needs to show a health certificate."
+				},
+				{
+					"text": "This certificate is an important document. Keep it in a safe place."
+				}
+			],
+			"topics": ["Life stages"],
+			"collocations": {
+				"adjective": ["birth", "death", "marriage"],
+				"verb + certificate": ["award (somebody)", "issue", "earn"],
+				"preposition": ["certificate of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an official document proving that you have completed a course of study or passed an exam; a qualification obtained after a course of study or an exam",
+			"sensetop": "certificate of something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a Postgraduate Certificate in Education *(= a British qualification for teachers)*"
+				},
+				{
+					"text": "A certificate of completion will be issued to all who complete the course.",
+					"contextForm": "certificate of something"
+				}
+			],
+			"topics": ["Success", "Education"],
+			"collocations": {
+				"adjective": ["birth", "death", "marriage"],
+				"verb + certificate": ["award (somebody)", "issue", "earn"],
+				"preposition": ["certificate of"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/səˈtɪfɪkət/",
+				"audio": "ce/certificate/certificate__gb_4.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/sərˈtɪfɪkət/",
+				"audio": "ce/certificate/certificate__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘certification’): from French certificat or medieval Latin certificatum, from certificare, from Latin certus ‘certain’."
 }

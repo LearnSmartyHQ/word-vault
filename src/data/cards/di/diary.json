@@ -1,127 +1,127 @@
 {
-  "term": "diary",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a book in which you can write down the experiences you have each day, your private thoughts, etc.",
-      "sensetop": "in a diary",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Do you **keep a diary** *(= write one regularly)*?"
-        },
-        {
-          "text": "Peter began writing his diary in October last year."
-        },
-        {
-          "text": "the diaries of Samuel Pepys"
-        },
-        {
-          "text": "The writer's letters and diaries are being published next year."
-        },
-        {
-          "text": "I think I'm going to start an online diary."
-        },
-        {
-          "text": "a travel/sleep/food diary"
-        },
-        {
-          "text": "‘It's all over,’ he wrote in his diary for April 21.",
-          "contextForm": "in a diary"
-        },
-        {
-          "text": "her **diary entry** for 9 December 2017"
-        },
-        {
-          "text": "He jotted down observations on the animals' habits in his field diary."
-        },
-        {
-          "text": "I started keeping a diary when I was thirteen."
-        },
-        {
-          "text": "No one is allowed to read my diary."
-        },
-        {
-          "text": "I used to keep a secret diary when I was a teenager."
-        },
-        {
-          "text": "She writes her thoughts down in her personal diary every night."
-        },
-        {
-          "text": "The captain recorded in his diary that food supplies were running low."
-        },
-        {
-          "text": "The play is based on the diary of Anne Frank."
-        },
-        {
-          "text": "This was the very last entry in her diary."
-        }
-      ],
-      "collocations": {
-        "adjective": ["detailed", "daily", "personal"],
-        "verb + diary": ["keep", "note something in", "record something in"],
-        "diary + noun": ["entry"],
-        "preposition": ["in a/​your diary"],
-        "phrases": ["an entry in a diary"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a book or an app with spaces for each day of the year in which you can record things you have to do in the future",
-      "sensetop": "in a diary",
-      "labels": "(British English)North American English",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I used to keep a desk diary for business appointments."
-        },
-        {
-          "text": "an appointments diary"
-        },
-        {
-          "text": "I've made a note in my diary.",
-          "contextForm": "in a diary"
-        },
-        {
-          "text": "I didn't have the meeting in my diary."
-        },
-        {
-          "text": "Put it in your diary before you forget."
-        },
-        {
-          "text": "I'm afraid my diary is full for this week, but I could see you next Monday."
-        }
-      ],
-      "topics": ["Working life"],
-      "collocations": {
-        "adjective": ["appointments", "bookings", "engagement"],
-        "verb + diary": [
-          "have something in",
-          "put something in",
-          "write something in"
-        ],
-        "preposition": ["in a/​your diary"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈdaɪəri/",
-        "audio": "di/diary/diary__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈdaɪəri/",
-        "audio": "di/diary/diary__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent.: from Latin diarium, from dies ‘day’."
+	"term": "diary",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a book in which you can write down the experiences you have each day, your private thoughts, etc.",
+			"sensetop": "in a diary",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Do you **keep a diary** *(= write one regularly)*?"
+				},
+				{
+					"text": "Peter began writing his diary in October last year."
+				},
+				{
+					"text": "the diaries of Samuel Pepys"
+				},
+				{
+					"text": "The writer's letters and diaries are being published next year."
+				},
+				{
+					"text": "I think I'm going to start an online diary."
+				},
+				{
+					"text": "a travel/sleep/food diary"
+				},
+				{
+					"text": "‘It's all over,’ he wrote in his diary for April 21.",
+					"contextForm": "in a diary"
+				},
+				{
+					"text": "her **diary entry** for 9 December 2017"
+				},
+				{
+					"text": "He jotted down observations on the animals' habits in his field diary."
+				},
+				{
+					"text": "I started keeping a diary when I was thirteen."
+				},
+				{
+					"text": "No one is allowed to read my diary."
+				},
+				{
+					"text": "I used to keep a secret diary when I was a teenager."
+				},
+				{
+					"text": "She writes her thoughts down in her personal diary every night."
+				},
+				{
+					"text": "The captain recorded in his diary that food supplies were running low."
+				},
+				{
+					"text": "The play is based on the diary of Anne Frank."
+				},
+				{
+					"text": "This was the very last entry in her diary."
+				}
+			],
+			"collocations": {
+				"adjective": ["detailed", "daily", "personal"],
+				"verb + diary": ["keep", "note something in", "record something in"],
+				"diary + noun": ["entry"],
+				"preposition": ["in a/​your diary"],
+				"phrases": ["an entry in a diary"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a book or an app with spaces for each day of the year in which you can record things you have to do in the future",
+			"sensetop": "in a diary",
+			"labels": "(British English)North American English",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I used to keep a desk diary for business appointments."
+				},
+				{
+					"text": "an appointments diary"
+				},
+				{
+					"text": "I've made a note in my diary.",
+					"contextForm": "in a diary"
+				},
+				{
+					"text": "I didn't have the meeting in my diary."
+				},
+				{
+					"text": "Put it in your diary before you forget."
+				},
+				{
+					"text": "I'm afraid my diary is full for this week, but I could see you next Monday."
+				}
+			],
+			"topics": ["Working life"],
+			"collocations": {
+				"adjective": ["appointments", "bookings", "engagement"],
+				"verb + diary": [
+					"have something in",
+					"put something in",
+					"write something in"
+				],
+				"preposition": ["in a/​your diary"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈdaɪəri/",
+				"audio": "di/diary/diary__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈdaɪəri/",
+				"audio": "di/diary/diary__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent.: from Latin diarium, from dies ‘day’."
 }

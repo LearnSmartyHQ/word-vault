@@ -1,49 +1,49 @@
 {
-  "term": "browser",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a computer program that lets you look at or read documents on the World Wide Web",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "What do you use as your default browser?"
-        }
-      ],
-      "topics": ["Phones, email and the internet"],
-      "collocations": {
-        "adjective": ["Internet", "Web", "default"],
-        "verb + browser": ["update", "upgrade"],
-        "browser + noun": ["toolbar", "window"],
-        "preposition": ["on a/​the browser"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person who looks through books, magazines, etc. or at things for sale, but may not seriously intend to buy anything",
-      "examples": [
-        {
-          "text": "There were one or two browsers in the bookstore."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈbraʊzə(r)/",
-        "audio": "br/browser/browser__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈbraʊzər/",
-        "audio": "br/browser/browser__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "browser",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a computer program that lets you look at or read documents on the World Wide Web",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "What do you use as your default browser?"
+				}
+			],
+			"topics": ["Phones, email and the internet"],
+			"collocations": {
+				"adjective": ["Internet", "Web", "default"],
+				"verb + browser": ["update", "upgrade"],
+				"browser + noun": ["toolbar", "window"],
+				"preposition": ["on a/​the browser"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person who looks through books, magazines, etc. or at things for sale, but may not seriously intend to buy anything",
+			"examples": [
+				{
+					"text": "There were one or two browsers in the bookstore."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈbraʊzə(r)/",
+				"audio": "br/browser/browser__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈbraʊzər/",
+				"audio": "br/browser/browser__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

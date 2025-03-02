@@ -1,158 +1,158 @@
 {
-  "term": "spell",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "spell",
-      "heSheIt": "spells"
-    },
-    "pastSimple": "spelt",
-    "pastParticiple": "spelt",
-    "ingForm": "spelling"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to say or write the letters of a word in the correct order",
-      "sensetop": "spell somethingspell something with something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "How do you spell your surname?"
-        },
-        {
-          "text": "You've **spelt** my **name** wrong."
-        },
-        {
-          "text": "I thought her name was Catherine, but it's Kathryn spelt with a ‘K’.",
-          "contextForm": "spell something with something"
-        },
-        {
-          "text": "Should 'internet' be spelled with a capital or lower case i?"
-        },
-        {
-          "text": "‘Nevaeh’ is ‘heaven’ spelled backwards/​backward."
-        },
-        {
-          "text": "Is ‘necessary’ spelled with one ‘s’, or two?"
-        },
-        {
-          "text": "The article spelled ‘survey’ as ‘servay’."
-        }
-      ],
-      "collocations": {
-        "adverb": ["clearly", "explicitly", "fully"],
-        "preposition": ["for", "to"],
-        "verb + spell out": ["have to", "need to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to form words correctly from individual letters",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I've never been able to spell."
-        }
-      ],
-      "collocations": {
-        "adverb": ["clearly", "explicitly", "fully"],
-        "preposition": ["for", "to"],
-        "verb + spell out": ["have to", "need to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to form words when they are put together in a particular order",
-      "sensetop": "spell something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "C—A—T spells ‘cat’."
-        }
-      ],
-      "topics": ["Language"],
-      "collocations": {
-        "adverb": ["clearly", "explicitly", "fully"],
-        "preposition": ["for", "to"],
-        "verb + spell out": ["have to", "need to"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to have something, usually something bad, as a result; to mean something, usually something bad",
-      "sensetop": "spell something (for somebody/something)",
-      "examples": [
-        {
-          "text": "The crop failure spelt disaster for many farmers."
-        },
-        {
-          "text": "This defeat spelt the end of his hopes of winning the title again."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to replace for a short time somebody who is doing a particular activity so that they can rest",
-      "sensetop": "spell somebody",
-      "labels": "(North American English, informal)",
-      "examples": [
-        {
-          "text": "Carter will be here in an hour to spell you."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/spel/",
-        "audio": "sp/spell/spell__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/spelz/",
-        "audio": "sp/spell/spells__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/spelt/",
-        "audio": "sp/spell/spelt__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/speld/",
-        "audio": "sp/spell/spelled__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈspelɪŋ/",
-        "audio": "sp/spell/spelling__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/spel/",
-        "audio": "sp/spell/spell__us_1.mp3"
-      },
-      {
-        "pronunciation": "/spelz/",
-        "audio": "sp/spell/spells__us_1.mp3"
-      },
-      {
-        "pronunciation": "/spelt/",
-        "audio": "sp/spell/spelt__us_1.mp3"
-      },
-      {
-        "pronunciation": "/speld/",
-        "audio": "sp/spell/spelled__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈspelɪŋ/",
-        "audio": "sp/spell/spelling__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "verb Middle English: shortening of Old French espeller, from the Germanic base of spell (noun senses 3 and 4)."
+	"term": "spell",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "spell",
+			"heSheIt": "spells"
+		},
+		"pastSimple": "spelt",
+		"pastParticiple": "spelt",
+		"ingForm": "spelling"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to say or write the letters of a word in the correct order",
+			"sensetop": "spell somethingspell something with something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "How do you spell your surname?"
+				},
+				{
+					"text": "You've **spelt** my **name** wrong."
+				},
+				{
+					"text": "I thought her name was Catherine, but it's Kathryn spelt with a ‘K’.",
+					"contextForm": "spell something with something"
+				},
+				{
+					"text": "Should 'internet' be spelled with a capital or lower case i?"
+				},
+				{
+					"text": "‘Nevaeh’ is ‘heaven’ spelled backwards/​backward."
+				},
+				{
+					"text": "Is ‘necessary’ spelled with one ‘s’, or two?"
+				},
+				{
+					"text": "The article spelled ‘survey’ as ‘servay’."
+				}
+			],
+			"collocations": {
+				"adverb": ["clearly", "explicitly", "fully"],
+				"preposition": ["for", "to"],
+				"verb + spell out": ["have to", "need to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to form words correctly from individual letters",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I've never been able to spell."
+				}
+			],
+			"collocations": {
+				"adverb": ["clearly", "explicitly", "fully"],
+				"preposition": ["for", "to"],
+				"verb + spell out": ["have to", "need to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to form words when they are put together in a particular order",
+			"sensetop": "spell something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "C—A—T spells ‘cat’."
+				}
+			],
+			"topics": ["Language"],
+			"collocations": {
+				"adverb": ["clearly", "explicitly", "fully"],
+				"preposition": ["for", "to"],
+				"verb + spell out": ["have to", "need to"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to have something, usually something bad, as a result; to mean something, usually something bad",
+			"sensetop": "spell something (for somebody/something)",
+			"examples": [
+				{
+					"text": "The crop failure spelt disaster for many farmers."
+				},
+				{
+					"text": "This defeat spelt the end of his hopes of winning the title again."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to replace for a short time somebody who is doing a particular activity so that they can rest",
+			"sensetop": "spell somebody",
+			"labels": "(North American English, informal)",
+			"examples": [
+				{
+					"text": "Carter will be here in an hour to spell you."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/spel/",
+				"audio": "sp/spell/spell__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/spelz/",
+				"audio": "sp/spell/spells__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/spelt/",
+				"audio": "sp/spell/spelt__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/speld/",
+				"audio": "sp/spell/spelled__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈspelɪŋ/",
+				"audio": "sp/spell/spelling__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/spel/",
+				"audio": "sp/spell/spell__us_1.mp3"
+			},
+			{
+				"pronunciation": "/spelz/",
+				"audio": "sp/spell/spells__us_1.mp3"
+			},
+			{
+				"pronunciation": "/spelt/",
+				"audio": "sp/spell/spelt__us_1.mp3"
+			},
+			{
+				"pronunciation": "/speld/",
+				"audio": "sp/spell/spelled__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈspelɪŋ/",
+				"audio": "sp/spell/spelling__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "verb Middle English: shortening of Old French espeller, from the Germanic base of spell (noun senses 3 and 4)."
 }

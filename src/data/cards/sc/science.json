@@ -1,156 +1,156 @@
 {
-  "term": "science",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "knowledge about the structure and behaviour of the natural and physical world, based on facts that you can prove, for example by experiments",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "new developments in **science and technology**"
-        },
-        {
-          "text": "the advance of modern science"
-        },
-        {
-          "text": "the laws of science"
-        },
-        {
-          "text": "His essay is not based on good science."
-        },
-        {
-          "text": "This rule is based on bad science."
-        },
-        {
-          "text": "His experiments have achieved notoriety in the world of science."
-        },
-        {
-          "text": "Research is critical to advancing medical science."
-        },
-        {
-          "text": "The magazine contains a lot of popular science."
-        },
-        {
-          "text": "our ability to understand the science of environmental degradation"
-        }
-      ],
-      "topics": ["Scientific research"],
-      "collocations": {
-        "adjective": ["modern", "bad", "junk"],
-        "verb + science": ["advance", "understand"],
-        "science + noun": ["curriculum", "education", "research"],
-        "preposition": ["science of"],
-        "phrases": [
-          "the advancement of science",
-          "the development of science",
-          "the history of science"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the study of science",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "science students/teachers/classes"
-        },
-        {
-          "text": "She is trying to encourage more young people to study science."
-        },
-        {
-          "text": "a writer of popular science books"
-        },
-        {
-          "text": "I was trying to remember what I had learnt about gravity in school science."
-        }
-      ],
-      "topics": ["Education"],
-      "collocations": {
-        "adjective": ["modern", "bad", "junk"],
-        "verb + science": ["advance", "understand"],
-        "science + noun": ["curriculum", "education", "research"],
-        "preposition": ["science of"],
-        "phrases": [
-          "the advancement of science",
-          "the development of science",
-          "the history of science"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a particular branch of science",
-      "sensetop": "science of something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "medical/environmental science"
-        },
-        {
-          "text": "the biological sciences"
-        },
-        {
-          "text": "to study one of the sciences"
-        },
-        {
-          "text": "He was a pioneer in the science of genetics.",
-          "contextForm": "science of something"
-        },
-        {
-          "text": "Meteorology is the science of the weather."
-        },
-        {
-          "text": "Politics is as much an art form as an exact science."
-        }
-      ],
-      "topics": ["Scientific research", "Education"],
-      "collocations": {
-        "adjective": ["modern", "bad", "junk"],
-        "verb + science": ["advance", "understand"],
-        "science + noun": ["curriculum", "education", "research"],
-        "preposition": ["science of"],
-        "phrases": [
-          "the advancement of science",
-          "the development of science",
-          "the history of science"
-        ]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a system for organizing the knowledge about a particular subject, especially one that deals with aspects of human behaviour or society",
-      "examples": [
-        {
-          "text": "a science of international politics"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to confuse somebody by using technical or complicated language that they do not understand",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsaɪəns/",
-        "audio": "sc/science/science__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsaɪəns/",
-        "audio": "sc/science/science__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (denoting knowledge): from Old French, from Latin scientia, from scire ‘know’."
+	"term": "science",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "knowledge about the structure and behaviour of the natural and physical world, based on facts that you can prove, for example by experiments",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "new developments in **science and technology**"
+				},
+				{
+					"text": "the advance of modern science"
+				},
+				{
+					"text": "the laws of science"
+				},
+				{
+					"text": "His essay is not based on good science."
+				},
+				{
+					"text": "This rule is based on bad science."
+				},
+				{
+					"text": "His experiments have achieved notoriety in the world of science."
+				},
+				{
+					"text": "Research is critical to advancing medical science."
+				},
+				{
+					"text": "The magazine contains a lot of popular science."
+				},
+				{
+					"text": "our ability to understand the science of environmental degradation"
+				}
+			],
+			"topics": ["Scientific research"],
+			"collocations": {
+				"adjective": ["modern", "bad", "junk"],
+				"verb + science": ["advance", "understand"],
+				"science + noun": ["curriculum", "education", "research"],
+				"preposition": ["science of"],
+				"phrases": [
+					"the advancement of science",
+					"the development of science",
+					"the history of science"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the study of science",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "science students/teachers/classes"
+				},
+				{
+					"text": "She is trying to encourage more young people to study science."
+				},
+				{
+					"text": "a writer of popular science books"
+				},
+				{
+					"text": "I was trying to remember what I had learnt about gravity in school science."
+				}
+			],
+			"topics": ["Education"],
+			"collocations": {
+				"adjective": ["modern", "bad", "junk"],
+				"verb + science": ["advance", "understand"],
+				"science + noun": ["curriculum", "education", "research"],
+				"preposition": ["science of"],
+				"phrases": [
+					"the advancement of science",
+					"the development of science",
+					"the history of science"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a particular branch of science",
+			"sensetop": "science of something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "medical/environmental science"
+				},
+				{
+					"text": "the biological sciences"
+				},
+				{
+					"text": "to study one of the sciences"
+				},
+				{
+					"text": "He was a pioneer in the science of genetics.",
+					"contextForm": "science of something"
+				},
+				{
+					"text": "Meteorology is the science of the weather."
+				},
+				{
+					"text": "Politics is as much an art form as an exact science."
+				}
+			],
+			"topics": ["Scientific research", "Education"],
+			"collocations": {
+				"adjective": ["modern", "bad", "junk"],
+				"verb + science": ["advance", "understand"],
+				"science + noun": ["curriculum", "education", "research"],
+				"preposition": ["science of"],
+				"phrases": [
+					"the advancement of science",
+					"the development of science",
+					"the history of science"
+				]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a system for organizing the knowledge about a particular subject, especially one that deals with aspects of human behaviour or society",
+			"examples": [
+				{
+					"text": "a science of international politics"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to confuse somebody by using technical or complicated language that they do not understand",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsaɪəns/",
+				"audio": "sc/science/science__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsaɪəns/",
+				"audio": "sc/science/science__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (denoting knowledge): from Old French, from Latin scientia, from scire ‘know’."
 }

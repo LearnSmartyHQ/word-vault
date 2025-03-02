@@ -1,183 +1,183 @@
 {
-  "term": "gold",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a chemical element. Gold is a yellow precious metal used for making coins, jewellery, beautiful objects, etc.",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**gold coins/jewellery**"
-        },
-        {
-          "text": "He always wore a gold chain."
-        },
-        {
-          "text": "a gold ring/watch/necklace/bracelet"
-        },
-        {
-          "text": "a fall in the **gold price**"
-        },
-        {
-          "text": "The rubies were set in 18-carat gold."
-        },
-        {
-          "text": "made of **solid/pure gold**"
-        },
-        {
-          "text": "He spent weeks panning for gold in the river."
-        },
-        {
-          "text": "In the afternoon he struck a rich vein of gold."
-        }
-      ],
-      "topics": ["Physics and chemistry"],
-      "collocations": {
-        "adjective": ["pure", "real", "solid"],
-        "verb + gold": ["extract", "mine", "produce"],
-        "gold + noun": ["mine", "miner", "mining"],
-        "phrases": ["a vein of gold"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "money, jewellery, etc. that is made of gold",
-      "cefr": "a2",
-      "examples": [
-        {
-          "text": "The hotel was dripping with *(= decorated with a lot of)* gold."
-        },
-        {
-          "text": "They're stockpiling dollars the way nations used to hoard gold."
-        },
-        {
-          "text": "the country’s gold reserves"
-        },
-        {
-          "text": "falling government gold stocks"
-        }
-      ],
-      "topics": ["Clothes and Fashion"],
-      "collocations": {
-        "adjective": ["pure", "real", "solid"],
-        "verb + gold": ["extract", "mine", "produce"],
-        "gold + noun": ["mine", "miner", "mining"],
-        "phrases": ["a vein of gold"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a medal made of gold that is given to the winner of a race or competition",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The team look set to **win** Olympic **gold**."
-        },
-        {
-          "text": "He won three golds and a bronze."
-        },
-        {
-          "text": "She got a gold in the long jump."
-        },
-        {
-          "text": "She's going for gold this time."
-        }
-      ],
-      "topics": ["Sports: other sports"],
-      "collocations": {
-        "adjective": ["Olympic"],
-        "verb + gold": ["get", "take", "win"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the colour of gold",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a sunset of burnished gold"
-        },
-        {
-          "text": "His hair was a pale gold."
-        },
-        {
-          "text": "I love the reds and golds of autumn."
-        }
-      ],
-      "topics": ["Colours and Shapes"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "not everything that seems good, attractive, etc. is actually good, etc.",
-      "labels": "(saying)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "a large prize or reward that somebody hopes for but is unlikely to get",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "behaving in a way that other people approve of",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "The kids have been as good as gold all day."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be a very kind person",
-      "examples": [],
-      "topics": ["Personal qualities"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that it seems easy to make money in a place",
-      "labels": "(saying)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to find or do something that brings you a lot of success or money",
-      "examples": [
-        {
-          "text": "He has struck gold with his latest novel."
-        }
-      ],
-      "topics": ["Success"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "very useful or valuable",
-      "examples": [
-        {
-          "text": "A good mechanic is worth his weight in gold."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɡəʊld/",
-        "audio": "go/gold/gold__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɡəʊld/",
-        "audio": "go/gold/gold__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English, of Germanic origin; related to Dutch goud and German Gold, from an Indo-European root shared by yellow."
+	"term": "gold",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a chemical element. Gold is a yellow precious metal used for making coins, jewellery, beautiful objects, etc.",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**gold coins/jewellery**"
+				},
+				{
+					"text": "He always wore a gold chain."
+				},
+				{
+					"text": "a gold ring/watch/necklace/bracelet"
+				},
+				{
+					"text": "a fall in the **gold price**"
+				},
+				{
+					"text": "The rubies were set in 18-carat gold."
+				},
+				{
+					"text": "made of **solid/pure gold**"
+				},
+				{
+					"text": "He spent weeks panning for gold in the river."
+				},
+				{
+					"text": "In the afternoon he struck a rich vein of gold."
+				}
+			],
+			"topics": ["Physics and chemistry"],
+			"collocations": {
+				"adjective": ["pure", "real", "solid"],
+				"verb + gold": ["extract", "mine", "produce"],
+				"gold + noun": ["mine", "miner", "mining"],
+				"phrases": ["a vein of gold"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "money, jewellery, etc. that is made of gold",
+			"cefr": "a2",
+			"examples": [
+				{
+					"text": "The hotel was dripping with *(= decorated with a lot of)* gold."
+				},
+				{
+					"text": "They're stockpiling dollars the way nations used to hoard gold."
+				},
+				{
+					"text": "the country’s gold reserves"
+				},
+				{
+					"text": "falling government gold stocks"
+				}
+			],
+			"topics": ["Clothes and Fashion"],
+			"collocations": {
+				"adjective": ["pure", "real", "solid"],
+				"verb + gold": ["extract", "mine", "produce"],
+				"gold + noun": ["mine", "miner", "mining"],
+				"phrases": ["a vein of gold"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a medal made of gold that is given to the winner of a race or competition",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The team look set to **win** Olympic **gold**."
+				},
+				{
+					"text": "He won three golds and a bronze."
+				},
+				{
+					"text": "She got a gold in the long jump."
+				},
+				{
+					"text": "She's going for gold this time."
+				}
+			],
+			"topics": ["Sports: other sports"],
+			"collocations": {
+				"adjective": ["Olympic"],
+				"verb + gold": ["get", "take", "win"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the colour of gold",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a sunset of burnished gold"
+				},
+				{
+					"text": "His hair was a pale gold."
+				},
+				{
+					"text": "I love the reds and golds of autumn."
+				}
+			],
+			"topics": ["Colours and Shapes"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "not everything that seems good, attractive, etc. is actually good, etc.",
+			"labels": "(saying)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "a large prize or reward that somebody hopes for but is unlikely to get",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "behaving in a way that other people approve of",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "The kids have been as good as gold all day."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be a very kind person",
+			"examples": [],
+			"topics": ["Personal qualities"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that it seems easy to make money in a place",
+			"labels": "(saying)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to find or do something that brings you a lot of success or money",
+			"examples": [
+				{
+					"text": "He has struck gold with his latest novel."
+				}
+			],
+			"topics": ["Success"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "very useful or valuable",
+			"examples": [
+				{
+					"text": "A good mechanic is worth his weight in gold."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɡəʊld/",
+				"audio": "go/gold/gold__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɡəʊld/",
+				"audio": "go/gold/gold__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English, of Germanic origin; related to Dutch goud and German Gold, from an Indo-European root shared by yellow."
 }

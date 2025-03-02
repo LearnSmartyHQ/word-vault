@@ -1,60 +1,60 @@
 {
-  "term": "magistrate",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "an official who acts as a judge in the lowest courts of law",
-      "examples": [
-        {
-          "text": "to come up before the magistrates"
-        },
-        {
-          "text": "A magistrate ordered that they return to the UK."
-        },
-        {
-          "text": "He is due to appear before magistrates on a charge of assault."
-        },
-        {
-          "text": "She was granted bail by Liverpool magistrates."
-        },
-        {
-          "text": "The prosecutor submits a dossier to an examining magistrate."
-        }
-      ],
-      "topics": ["Law and justice", "Jobs"],
-      "collocations": {
-        "adjective": ["examining", "investigating", "licensing"],
-        "verb + magistrate": [
-          "appoint somebody",
-          "appoint somebody as",
-          "appear before"
-        ],
-        "magistrate + verb": [
-          "hear something",
-          "decide something",
-          "rule something"
-        ],
-        "magistrate + noun": ["judge"],
-        "phrases": ["magistrates’ court"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmædʒɪstreɪt/",
-        "audio": "ma/magistrate/magistrate__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmædʒɪstreɪt/",
-        "audio": "ma/magistrate/magistrate__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Latin magistratus ‘administrator’, from magister ‘master’."
+	"term": "magistrate",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "an official who acts as a judge in the lowest courts of law",
+			"examples": [
+				{
+					"text": "to come up before the magistrates"
+				},
+				{
+					"text": "A magistrate ordered that they return to the UK."
+				},
+				{
+					"text": "He is due to appear before magistrates on a charge of assault."
+				},
+				{
+					"text": "She was granted bail by Liverpool magistrates."
+				},
+				{
+					"text": "The prosecutor submits a dossier to an examining magistrate."
+				}
+			],
+			"topics": ["Law and justice", "Jobs"],
+			"collocations": {
+				"adjective": ["examining", "investigating", "licensing"],
+				"verb + magistrate": [
+					"appoint somebody",
+					"appoint somebody as",
+					"appear before"
+				],
+				"magistrate + verb": [
+					"hear something",
+					"decide something",
+					"rule something"
+				],
+				"magistrate + noun": ["judge"],
+				"phrases": ["magistrates’ court"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmædʒɪstreɪt/",
+				"audio": "ma/magistrate/magistrate__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmædʒɪstreɪt/",
+				"audio": "ma/magistrate/magistrate__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Latin magistratus ‘administrator’, from magister ‘master’."
 }

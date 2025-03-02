@@ -1,70 +1,70 @@
 {
-  "term": "warehouse",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "image": "data/images/bu/buildings.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a building where large quantities of goods are stored, especially before they are sent to shops to be sold",
-      "examples": [
-        {
-          "text": "Police are investigating a fire at a furniture warehouse."
-        },
-        {
-          "text": "He's a warehouse manager for an import company."
-        },
-        {
-          "text": "German police raided a warehouse near Hamburg."
-        },
-        {
-          "text": "He's a warehouse foreman for a removals firm."
-        },
-        {
-          "text": "The facility has over 6 905 square feet of warehouse space."
-        },
-        {
-          "text": "The offices are situated in a converted warehouse."
-        },
-        {
-          "text": "a residential district of warehouses converted into lofts"
-        },
-        {
-          "text": "a warehouse filled with crates"
-        },
-        {
-          "text": "the warehouse district of New Orleans"
-        },
-        {
-          "text": "The company is planning to sell its warehouses in the north."
-        },
-        {
-          "text": "The gallery is in a former warehouse near the docks."
-        }
-      ],
-      "topics": ["Buildings", "Business"],
-      "collocations": {
-        "adjective": ["30 000-square-foot", "etc.", "bonded"],
-        "verb + warehouse": ["build", "convert", "raid"],
-        "warehouse + verb": ["be filled with"],
-        "warehouse + noun": ["manager", "staff", "worker"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈweəhaʊs/",
-        "audio": "wa/warehouse/warehouse__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈwerhaʊs/",
-        "audio": "wa/warehouse/warehouse__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "warehouse",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"image": "data/images/bu/buildings.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a building where large quantities of goods are stored, especially before they are sent to shops to be sold",
+			"examples": [
+				{
+					"text": "Police are investigating a fire at a furniture warehouse."
+				},
+				{
+					"text": "He's a warehouse manager for an import company."
+				},
+				{
+					"text": "German police raided a warehouse near Hamburg."
+				},
+				{
+					"text": "He's a warehouse foreman for a removals firm."
+				},
+				{
+					"text": "The facility has over 6 905 square feet of warehouse space."
+				},
+				{
+					"text": "The offices are situated in a converted warehouse."
+				},
+				{
+					"text": "a residential district of warehouses converted into lofts"
+				},
+				{
+					"text": "a warehouse filled with crates"
+				},
+				{
+					"text": "the warehouse district of New Orleans"
+				},
+				{
+					"text": "The company is planning to sell its warehouses in the north."
+				},
+				{
+					"text": "The gallery is in a former warehouse near the docks."
+				}
+			],
+			"topics": ["Buildings", "Business"],
+			"collocations": {
+				"adjective": ["30 000-square-foot", "etc.", "bonded"],
+				"verb + warehouse": ["build", "convert", "raid"],
+				"warehouse + verb": ["be filled with"],
+				"warehouse + noun": ["manager", "staff", "worker"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈweəhaʊs/",
+				"audio": "wa/warehouse/warehouse__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈwerhaʊs/",
+				"audio": "wa/warehouse/warehouse__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

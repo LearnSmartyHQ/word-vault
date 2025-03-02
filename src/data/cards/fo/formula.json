@@ -1,135 +1,135 @@
 {
-  "term": "formula",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a series of letters, numbers or symbols that represent a rule or law",
-      "labels": "(mathematics)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "This formula is used to calculate the area of a circle."
-        }
-      ],
-      "topics": ["Maths and measurement", "Scientific research"],
-      "collocations": {
-        "adjective": ["complex", "complicated", "simple"],
-        "verb + formula": ["devise", "work out", "apply"],
-        "preposition": ["formula for"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "letters and symbols that show the parts of a chemical compound, etc.",
-      "labels": "(chemistry)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "CO is the formula for carbon monoxide."
-        }
-      ],
-      "collocations": {
-        "adjective": ["complex", "complicated", "simple"],
-        "verb + formula": ["devise", "work out", "apply"],
-        "preposition": ["formula for"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a particular method of doing or achieving something",
-      "sensetop": "formula for something/for doing something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "They're trying to work out a **peace formula** acceptable to both sides in the dispute."
-        },
-        {
-          "text": "All the patients were interviewed according to a standard formula."
-        },
-        {
-          "text": "There's no **magic formula** for a perfect marriage.",
-          "contextForm": "formula for something/for doing something"
-        },
-        {
-          "text": "We think we might have hit on a **winning formula**."
-        },
-        {
-          "text": "Each of his novels follows the same successful formula."
-        },
-        {
-          "text": "What is their formula for success?"
-        },
-        {
-          "text": "The government was forced to find a face-saving formula to cover its misjudgement."
-        }
-      ],
-      "collocations": {
-        "adjective": ["good", "magic", "successful"],
-        "verb + formula": ["have", "follow", "come up with"],
-        "preposition": ["formula for"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a list of the things that something is made from, giving the amount of each substance to use",
-      "examples": [
-        {
-          "text": "the secret formula for the blending of the whisky"
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a type of liquid food for babies, given instead of breast milk",
-      "examples": []
-    },
-    {
-      "senseNumber": 6,
-      "definition": "a class of racing car, based on engine size, etc.",
-      "examples": [
-        {
-          "text": "Formula One™ racing"
-        }
-      ]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "a fixed form of words used in a particular situation",
-      "examples": [
-        {
-          "text": "What are the correct legal formulae for this kind of letter?"
-        },
-        {
-          "text": "The minister keeps coming out with the same tired formulas."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈfɔːmjələ/",
-        "audio": "fo/formula/formula__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/ˈfɔːmjəliː/",
-        "audio": "fo/formula/formulae__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈfɔːrmjələ/",
-        "audio": "fo/formula/formula__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈfɔːrmjəliː/",
-        "audio": "fo/formula/formulae__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 17th cent. (in the sense ‘fixed form of words’): from Latin, diminutive of forma ‘shape, mould’."
+	"term": "formula",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a series of letters, numbers or symbols that represent a rule or law",
+			"labels": "(mathematics)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "This formula is used to calculate the area of a circle."
+				}
+			],
+			"topics": ["Maths and measurement", "Scientific research"],
+			"collocations": {
+				"adjective": ["complex", "complicated", "simple"],
+				"verb + formula": ["devise", "work out", "apply"],
+				"preposition": ["formula for"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "letters and symbols that show the parts of a chemical compound, etc.",
+			"labels": "(chemistry)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "CO is the formula for carbon monoxide."
+				}
+			],
+			"collocations": {
+				"adjective": ["complex", "complicated", "simple"],
+				"verb + formula": ["devise", "work out", "apply"],
+				"preposition": ["formula for"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a particular method of doing or achieving something",
+			"sensetop": "formula for something/for doing something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "They're trying to work out a **peace formula** acceptable to both sides in the dispute."
+				},
+				{
+					"text": "All the patients were interviewed according to a standard formula."
+				},
+				{
+					"text": "There's no **magic formula** for a perfect marriage.",
+					"contextForm": "formula for something/for doing something"
+				},
+				{
+					"text": "We think we might have hit on a **winning formula**."
+				},
+				{
+					"text": "Each of his novels follows the same successful formula."
+				},
+				{
+					"text": "What is their formula for success?"
+				},
+				{
+					"text": "The government was forced to find a face-saving formula to cover its misjudgement."
+				}
+			],
+			"collocations": {
+				"adjective": ["good", "magic", "successful"],
+				"verb + formula": ["have", "follow", "come up with"],
+				"preposition": ["formula for"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a list of the things that something is made from, giving the amount of each substance to use",
+			"examples": [
+				{
+					"text": "the secret formula for the blending of the whisky"
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a type of liquid food for babies, given instead of breast milk",
+			"examples": []
+		},
+		{
+			"senseNumber": 6,
+			"definition": "a class of racing car, based on engine size, etc.",
+			"examples": [
+				{
+					"text": "Formula One™ racing"
+				}
+			]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "a fixed form of words used in a particular situation",
+			"examples": [
+				{
+					"text": "What are the correct legal formulae for this kind of letter?"
+				},
+				{
+					"text": "The minister keeps coming out with the same tired formulas."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈfɔːmjələ/",
+				"audio": "fo/formula/formula__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/ˈfɔːmjəliː/",
+				"audio": "fo/formula/formulae__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈfɔːrmjələ/",
+				"audio": "fo/formula/formula__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈfɔːrmjəliː/",
+				"audio": "fo/formula/formulae__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 17th cent. (in the sense ‘fixed form of words’): from Latin, diminutive of forma ‘shape, mould’."
 }

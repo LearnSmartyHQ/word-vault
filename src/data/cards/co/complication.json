@@ -1,101 +1,101 @@
 {
-  "term": "complication",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a thing that makes a situation more complicated or difficult",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The bad weather added a further complication to our journey."
-        },
-        {
-          "text": "Further complications arose when they published an interview with his family."
-        },
-        {
-          "text": "The presence of an armed gang added a major complication."
-        },
-        {
-          "text": "We always try to avoid any unnecessary complications."
-        }
-      ],
-      "collocations": {
-        "adjective": ["major", "added", "additional"],
-        "verb + complication": ["add", "cause", "avoid"],
-        "complication + verb": ["arise", "ensue", "occur"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a new problem or illness that makes treatment of a previous one more complicated or difficult",
-      "labels": "(medical)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She developed complications after the surgery."
-        },
-        {
-          "text": "Infertility is one of the complications of this type of radiotherapy."
-        },
-        {
-          "text": "the devastating complications of diabetes"
-        },
-        {
-          "text": "complications with her pregnancy."
-        },
-        {
-          "text": "The treatment carries a high risk of complications."
-        },
-        {
-          "text": "She developed complications two weeks after the treatment."
-        },
-        {
-          "text": "He died of complications from cancer surgery."
-        },
-        {
-          "text": "He died from complications related to diabetes."
-        },
-        {
-          "text": "Complications develop if the drug is not used properly."
-        },
-        {
-          "text": "complication rates from eye surgery"
-        }
-      ],
-      "topics": ["Health problems"],
-      "collocations": {
-        "adjective": ["acute", "dangerous", "life-threatening"],
-        "verb + complication": ["develop", "have", "suffer"],
-        "complication + verb": ["arise", "develop", "occur"],
-        "complication + noun": ["rate"],
-        "preposition": [
-          "complication with",
-          "complication from",
-          "complication of"
-        ],
-        "phrases": [
-          "a risk of complications",
-          "complications related to something"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌkɒmplɪˈkeɪʃn/",
-        "audio": "co/complication/complication__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌkɑːmplɪˈkeɪʃn/",
-        "audio": "co/complication/complication__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from late Latin complicatio(n-), from Latin complicare ‘fold together’, from com- ‘together’ + plicare ‘to fold’."
+	"term": "complication",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a thing that makes a situation more complicated or difficult",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The bad weather added a further complication to our journey."
+				},
+				{
+					"text": "Further complications arose when they published an interview with his family."
+				},
+				{
+					"text": "The presence of an armed gang added a major complication."
+				},
+				{
+					"text": "We always try to avoid any unnecessary complications."
+				}
+			],
+			"collocations": {
+				"adjective": ["major", "added", "additional"],
+				"verb + complication": ["add", "cause", "avoid"],
+				"complication + verb": ["arise", "ensue", "occur"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a new problem or illness that makes treatment of a previous one more complicated or difficult",
+			"labels": "(medical)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She developed complications after the surgery."
+				},
+				{
+					"text": "Infertility is one of the complications of this type of radiotherapy."
+				},
+				{
+					"text": "the devastating complications of diabetes"
+				},
+				{
+					"text": "complications with her pregnancy."
+				},
+				{
+					"text": "The treatment carries a high risk of complications."
+				},
+				{
+					"text": "She developed complications two weeks after the treatment."
+				},
+				{
+					"text": "He died of complications from cancer surgery."
+				},
+				{
+					"text": "He died from complications related to diabetes."
+				},
+				{
+					"text": "Complications develop if the drug is not used properly."
+				},
+				{
+					"text": "complication rates from eye surgery"
+				}
+			],
+			"topics": ["Health problems"],
+			"collocations": {
+				"adjective": ["acute", "dangerous", "life-threatening"],
+				"verb + complication": ["develop", "have", "suffer"],
+				"complication + verb": ["arise", "develop", "occur"],
+				"complication + noun": ["rate"],
+				"preposition": [
+					"complication with",
+					"complication from",
+					"complication of"
+				],
+				"phrases": [
+					"a risk of complications",
+					"complications related to something"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌkɒmplɪˈkeɪʃn/",
+				"audio": "co/complication/complication__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌkɑːmplɪˈkeɪʃn/",
+				"audio": "co/complication/complication__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from late Latin complicatio(n-), from Latin complicare ‘fold together’, from com- ‘together’ + plicare ‘to fold’."
 }

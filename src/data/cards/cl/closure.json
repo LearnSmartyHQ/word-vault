@@ -1,91 +1,91 @@
 {
-  "term": "closure",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the situation when a factory, school, hospital, etc. shuts permanently",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "factory closures"
-        },
-        {
-          "text": "The hospital has been threatened with closure."
-        },
-        {
-          "text": "Spending cuts could mean the closure of the village school."
-        },
-        {
-          "text": "Several schools face eventual closure."
-        },
-        {
-          "text": "The factory is under threat of closure."
-        },
-        {
-          "text": "The mine has been saved from closure."
-        }
-      ],
-      "collocations": {
-        "adjective": ["complete", "total", "partial"],
-        "verb + closure": ["be earmarked for", "be threatened with", "face"],
-        "closure + noun": ["plan", "programme/​program", "order"],
-        "phrases": ["under threat of closure"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the temporary closing of a road or bridge",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "There will be road closures and diversions in the area from 8 p.m."
-        },
-        {
-          "text": "The accident caused the complete closure of the road."
-        }
-      ],
-      "topics": ["Transport by car or lorry"],
-      "collocations": {
-        "adjective": ["complete", "total", "partial"],
-        "verb + closure": ["be earmarked for", "be threatened with", "face"],
-        "closure + noun": ["plan", "programme/​program", "order"],
-        "phrases": ["under threat of closure"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the feeling that a difficult or an unpleasant experience has come to an end or been dealt with in an acceptable way",
-      "examples": [
-        {
-          "text": "The conviction of their son's murderer helped to give them a sense of closure."
-        },
-        {
-          "text": "People who lose family members need closure, not false hope."
-        }
-      ],
-      "collocations": {
-        "adjective": ["final", "narrative"],
-        "verb + closure": ["be looking for", "need", "seek"],
-        "phrases": ["a sense of closure"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkləʊʒə(r)/",
-        "audio": "cl/closure/closure__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkləʊʒər/",
-        "audio": "cl/closure/closure__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French, from late Latin clausura, from claus- ‘closed’, from the verb claudere."
+	"term": "closure",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the situation when a factory, school, hospital, etc. shuts permanently",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "factory closures"
+				},
+				{
+					"text": "The hospital has been threatened with closure."
+				},
+				{
+					"text": "Spending cuts could mean the closure of the village school."
+				},
+				{
+					"text": "Several schools face eventual closure."
+				},
+				{
+					"text": "The factory is under threat of closure."
+				},
+				{
+					"text": "The mine has been saved from closure."
+				}
+			],
+			"collocations": {
+				"adjective": ["complete", "total", "partial"],
+				"verb + closure": ["be earmarked for", "be threatened with", "face"],
+				"closure + noun": ["plan", "programme/​program", "order"],
+				"phrases": ["under threat of closure"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the temporary closing of a road or bridge",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "There will be road closures and diversions in the area from 8 p.m."
+				},
+				{
+					"text": "The accident caused the complete closure of the road."
+				}
+			],
+			"topics": ["Transport by car or lorry"],
+			"collocations": {
+				"adjective": ["complete", "total", "partial"],
+				"verb + closure": ["be earmarked for", "be threatened with", "face"],
+				"closure + noun": ["plan", "programme/​program", "order"],
+				"phrases": ["under threat of closure"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the feeling that a difficult or an unpleasant experience has come to an end or been dealt with in an acceptable way",
+			"examples": [
+				{
+					"text": "The conviction of their son's murderer helped to give them a sense of closure."
+				},
+				{
+					"text": "People who lose family members need closure, not false hope."
+				}
+			],
+			"collocations": {
+				"adjective": ["final", "narrative"],
+				"verb + closure": ["be looking for", "need", "seek"],
+				"phrases": ["a sense of closure"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkləʊʒə(r)/",
+				"audio": "cl/closure/closure__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkləʊʒər/",
+				"audio": "cl/closure/closure__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French, from late Latin clausura, from claus- ‘closed’, from the verb claudere."
 }

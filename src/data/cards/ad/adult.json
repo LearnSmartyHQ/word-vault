@@ -1,70 +1,70 @@
 {
-  "term": "adult",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a fully grown person who is legally responsible for their actions",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Children must be accompanied by an adult."
-        },
-        {
-          "text": "I simply can't believe that responsible adults allowed a child to wander the streets."
-        },
-        {
-          "text": "Why can't you two act like civilized adults?"
-        },
-        {
-          "text": "The obesity rate among adults has actually increased."
-        },
-        {
-          "text": "The number of single adult households has doubled in the past 30 years."
-        },
-        {
-          "text": "This book will definitely appeal to teenagers and young adults."
-        },
-        {
-          "text": "What consenting adults do in private is their own business."
-        }
-      ],
-      "synonyms": "grown-up2",
-      "topics": ["Life stages"],
-      "collocations": {
-        "adjective": ["young", "single", "consenting"],
-        "adult + noun": ["education", "literacy", "population"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a fully grown animal",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The fish return to the river as adults in order to breed."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈædʌlt//əˈdʌlt/",
-        "audio": "ad/adult/adult__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/əˈdʌlt//ˈædʌlt/",
-        "audio": "ad/adult/adult__us_2_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent.: from Latin adultus, past participle of adolescere ‘grow to maturity’, from ad- ‘to’ + alescere ‘grow, grow up’, from alere ‘nourish’."
+	"term": "adult",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a fully grown person who is legally responsible for their actions",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Children must be accompanied by an adult."
+				},
+				{
+					"text": "I simply can't believe that responsible adults allowed a child to wander the streets."
+				},
+				{
+					"text": "Why can't you two act like civilized adults?"
+				},
+				{
+					"text": "The obesity rate among adults has actually increased."
+				},
+				{
+					"text": "The number of single adult households has doubled in the past 30 years."
+				},
+				{
+					"text": "This book will definitely appeal to teenagers and young adults."
+				},
+				{
+					"text": "What consenting adults do in private is their own business."
+				}
+			],
+			"synonyms": "grown-up2",
+			"topics": ["Life stages"],
+			"collocations": {
+				"adjective": ["young", "single", "consenting"],
+				"adult + noun": ["education", "literacy", "population"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a fully grown animal",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The fish return to the river as adults in order to breed."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈædʌlt//əˈdʌlt/",
+				"audio": "ad/adult/adult__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/əˈdʌlt//ˈædʌlt/",
+				"audio": "ad/adult/adult__us_2_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent.: from Latin adultus, past participle of adolescere ‘grow to maturity’, from ad- ‘to’ + alescere ‘grow, grow up’, from alere ‘nourish’."
 }

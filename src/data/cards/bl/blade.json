@@ -1,89 +1,89 @@
 {
-  "term": "blade",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "image": "data/images/bl/blades.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the flat part of a knife, tool or machine, which has a sharp edge or edges for cutting",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The machine comes with a plastic guard over the blade to protect the operator."
-        },
-        {
-          "text": "Knife blades are generally made of stainless steel."
-        },
-        {
-          "text": "The prisoner used a hacksaw blade to cut through the bars."
-        },
-        {
-          "text": "He swung the blade with all his strength."
-        },
-        {
-          "text": "The swordsmen weaved and dodged as their blades clashed over and over again."
-        }
-      ],
-      "collocations": {
-        "adjective": ["sharp", "blunt", "dull"],
-        "verb + blade": ["sharpen", "draw", "sheathe"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "one of the flat parts that turn around in an engine or on a helicopter",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the blades of a propeller"
-        },
-        {
-          "text": "rotor blades on a helicopter"
-        }
-      ],
-      "topics": ["Transport by air", "Engineering"],
-      "collocations": {
-        "adjective": ["sharp", "blunt", "dull"],
-        "verb + blade": ["sharpen", "draw", "sheathe"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the flat wide part of an oar (= one of the long straight pieces of wood that are used to row a boat) that goes in the water",
-      "examples": []
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a single flat leaf of grass",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "Not a blade of grass stirred."
-        }
-      ],
-      "topics": ["Plants and trees"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "the flat metal part on the bottom of an ice skate",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/bleɪd/",
-        "audio": "bl/blade/blade__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/bleɪd/",
-        "audio": "bl/blade/blade__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English blæd ‘leaf of a plant’ (also in sense (2)), of Germanic origin; related to Dutch blad and German Blatt."
+	"term": "blade",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"image": "data/images/bl/blades.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the flat part of a knife, tool or machine, which has a sharp edge or edges for cutting",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The machine comes with a plastic guard over the blade to protect the operator."
+				},
+				{
+					"text": "Knife blades are generally made of stainless steel."
+				},
+				{
+					"text": "The prisoner used a hacksaw blade to cut through the bars."
+				},
+				{
+					"text": "He swung the blade with all his strength."
+				},
+				{
+					"text": "The swordsmen weaved and dodged as their blades clashed over and over again."
+				}
+			],
+			"collocations": {
+				"adjective": ["sharp", "blunt", "dull"],
+				"verb + blade": ["sharpen", "draw", "sheathe"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "one of the flat parts that turn around in an engine or on a helicopter",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the blades of a propeller"
+				},
+				{
+					"text": "rotor blades on a helicopter"
+				}
+			],
+			"topics": ["Transport by air", "Engineering"],
+			"collocations": {
+				"adjective": ["sharp", "blunt", "dull"],
+				"verb + blade": ["sharpen", "draw", "sheathe"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the flat wide part of an oar (= one of the long straight pieces of wood that are used to row a boat) that goes in the water",
+			"examples": []
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a single flat leaf of grass",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "Not a blade of grass stirred."
+				}
+			],
+			"topics": ["Plants and trees"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "the flat metal part on the bottom of an ice skate",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/bleɪd/",
+				"audio": "bl/blade/blade__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/bleɪd/",
+				"audio": "bl/blade/blade__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English blæd ‘leaf of a plant’ (also in sense (2)), of Germanic origin; related to Dutch blad and German Blatt."
 }

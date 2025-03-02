@@ -1,101 +1,101 @@
 {
-  "term": "weed",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a wild plant growing where it is not wanted, especially among crops or garden plants",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The yard was overgrown with weeds."
-        },
-        {
-          "text": "Routine maintenance of the garden consists of keeping weeds under control."
-        },
-        {
-          "text": "There were weeds pushing up through the gravel."
-        }
-      ],
-      "topics": ["Plants and trees", "Gardens"],
-      "collocations": {
-        "adjective": ["annual", "perennial", "aquatic"],
-        "verb + weed": ["kill", "clear", "get rid of"],
-        "weed + verb": ["grow", "spread", "spring up"],
-        "weed + noun": ["control", "killer", "trimmer"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "any wild plant without flowers that grows in water and forms a green floating mass",
-      "cefr": "c1",
-      "examples": [],
-      "topics": ["Plants and trees"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "tobacco or cigarettes",
-      "labels": "(humorous)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "I wish I could give up the weed *(= stop smoking)*."
-        }
-      ],
-      "topics": ["Social issues"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the drug cannabis",
-      "labels": "(informal)",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Social issues"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a person with a weak character or body",
-      "labels": "(British English, informal, disapproving)",
-      "examples": [
-        {
-          "text": "Don’t be such a weed!"
-        }
-      ]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "with more problems, work or commitments than you can manage",
-      "examples": [
-        {
-          "text": "The bartender was alone and in the weeds, so we had to wait twenty minutes to order."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "too concerned with the details of something",
-      "examples": [
-        {
-          "text": "I don't want to get too **deep in the weeds** here, but here's the short version:…"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/wiːd/",
-        "audio": "we/weed/weed__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/wiːd/",
-        "audio": "we/weed/weed__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English wēod (noun), wēodian (verb), of unknown origin; related to Dutch wieden (verb)."
+	"term": "weed",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a wild plant growing where it is not wanted, especially among crops or garden plants",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The yard was overgrown with weeds."
+				},
+				{
+					"text": "Routine maintenance of the garden consists of keeping weeds under control."
+				},
+				{
+					"text": "There were weeds pushing up through the gravel."
+				}
+			],
+			"topics": ["Plants and trees", "Gardens"],
+			"collocations": {
+				"adjective": ["annual", "perennial", "aquatic"],
+				"verb + weed": ["kill", "clear", "get rid of"],
+				"weed + verb": ["grow", "spread", "spring up"],
+				"weed + noun": ["control", "killer", "trimmer"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "any wild plant without flowers that grows in water and forms a green floating mass",
+			"cefr": "c1",
+			"examples": [],
+			"topics": ["Plants and trees"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "tobacco or cigarettes",
+			"labels": "(humorous)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "I wish I could give up the weed *(= stop smoking)*."
+				}
+			],
+			"topics": ["Social issues"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the drug cannabis",
+			"labels": "(informal)",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Social issues"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a person with a weak character or body",
+			"labels": "(British English, informal, disapproving)",
+			"examples": [
+				{
+					"text": "Don’t be such a weed!"
+				}
+			]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "with more problems, work or commitments than you can manage",
+			"examples": [
+				{
+					"text": "The bartender was alone and in the weeds, so we had to wait twenty minutes to order."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "too concerned with the details of something",
+			"examples": [
+				{
+					"text": "I don't want to get too **deep in the weeds** here, but here's the short version:…"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/wiːd/",
+				"audio": "we/weed/weed__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/wiːd/",
+				"audio": "we/weed/weed__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English wēod (noun), wēodian (verb), of unknown origin; related to Dutch wieden (verb)."
 }

@@ -1,84 +1,84 @@
 {
-  "term": "embark",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "embark",
-      "heSheIt": "embarks"
-    },
-    "pastSimple": "embarked",
-    "pastParticiple": "embarked",
-    "ingForm": "embarking"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to get onto a ship or plane; to put somebody/something onto a ship or plane",
-      "sensetop": "embark somebody/something",
-      "examples": [
-        {
-          "text": "We stood on the pier and watched as they embarked."
-        },
-        {
-          "text": "They embarked the troops by night.",
-          "contextForm": "embark somebody/something"
-        },
-        {
-          "text": "The invasion force was ready to embark."
-        },
-        {
-          "text": "The team embarked for Italy."
-        },
-        {
-          "text": "They travelled with him to the coast to watch him embark."
-        }
-      ],
-      "topics": ["Transport by water"],
-      "collocations": {
-        "adverb": ["immediately", "reluctantly", "recently"],
-        "verb + embark on/​upon": ["be about to", "be ready to"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪmˈbɑːk/",
-        "audio": "em/embark/embark__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪmˈbɑːks/",
-        "audio": "em/embark/embarks__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪmˈbɑːkt/",
-        "audio": "em/embark/embarked__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪmˈbɑːkɪŋ/",
-        "audio": "em/embark/embarking__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪmˈbɑːrk/",
-        "audio": "em/embark/embark__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪmˈbɑːrks/",
-        "audio": "em/embark/embarks__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪmˈbɑːrkt/",
-        "audio": "em/embark/embarked__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪmˈbɑːrkɪŋ/",
-        "audio": "em/embark/embarking__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent.: from French embarquer, from em- ‘in’ + barque ‘bark, ship’."
+	"term": "embark",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "embark",
+			"heSheIt": "embarks"
+		},
+		"pastSimple": "embarked",
+		"pastParticiple": "embarked",
+		"ingForm": "embarking"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to get onto a ship or plane; to put somebody/something onto a ship or plane",
+			"sensetop": "embark somebody/something",
+			"examples": [
+				{
+					"text": "We stood on the pier and watched as they embarked."
+				},
+				{
+					"text": "They embarked the troops by night.",
+					"contextForm": "embark somebody/something"
+				},
+				{
+					"text": "The invasion force was ready to embark."
+				},
+				{
+					"text": "The team embarked for Italy."
+				},
+				{
+					"text": "They travelled with him to the coast to watch him embark."
+				}
+			],
+			"topics": ["Transport by water"],
+			"collocations": {
+				"adverb": ["immediately", "reluctantly", "recently"],
+				"verb + embark on/​upon": ["be about to", "be ready to"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪmˈbɑːk/",
+				"audio": "em/embark/embark__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪmˈbɑːks/",
+				"audio": "em/embark/embarks__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪmˈbɑːkt/",
+				"audio": "em/embark/embarked__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪmˈbɑːkɪŋ/",
+				"audio": "em/embark/embarking__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪmˈbɑːrk/",
+				"audio": "em/embark/embark__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪmˈbɑːrks/",
+				"audio": "em/embark/embarks__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪmˈbɑːrkt/",
+				"audio": "em/embark/embarked__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪmˈbɑːrkɪŋ/",
+				"audio": "em/embark/embarking__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent.: from French embarquer, from em- ‘in’ + barque ‘bark, ship’."
 }

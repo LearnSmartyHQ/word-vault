@@ -1,88 +1,88 @@
 {
-  "term": "ancestor",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person in your family who lived a long time ago",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "His ancestors had come to America from Ireland."
-        },
-        {
-          "text": "He can trace his ancestors back to the reign of Elizabeth I."
-        },
-        {
-          "text": "He claims as his literary ancestors such giants as Henry James and William Faulkner."
-        },
-        {
-          "text": "Our earliest ancestors lived in a world fraught with danger."
-        },
-        {
-          "text": "The Romans built these monuments to glorify their illustrious ancestors."
-        },
-        {
-          "text": "The builder of the house was a direct ancestor of the present owner."
-        },
-        {
-          "text": "The two species share a common ancestor."
-        },
-        {
-          "text": "They honour/​honor their ancestors and believe in the spirits of nature."
-        },
-        {
-          "text": "a distant ancestor of mine"
-        }
-      ],
-      "synonyms": "forebear",
-      "topics": ["Family and relationships", "History"],
-      "collocations": {
-        "adjective": ["direct", "immediate", "ancient"],
-        "verb + ancestor": ["be descended from", "have", "share"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an animal that lived in the past that a modern animal has developed from",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a reptile that was the common ancestor of lizards and turtles"
-        }
-      ],
-      "collocations": {
-        "adjective": ["direct", "immediate", "ancient"],
-        "verb + ancestor": ["be descended from", "have", "share"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "an early form of a machine that later became more developed",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The ancestor of the modern bicycle was called a penny-farthing."
-        }
-      ],
-      "synonyms": "forerunner"
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈænsestə(r)/",
-        "audio": "an/ancestor/ancestor__gb_4.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈænsestər/",
-        "audio": "an/ancestor/ancestor__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French ancestre, from Latin antecessor, from antecedere, from ante ‘before’ + cedere ‘go’."
+	"term": "ancestor",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person in your family who lived a long time ago",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "His ancestors had come to America from Ireland."
+				},
+				{
+					"text": "He can trace his ancestors back to the reign of Elizabeth I."
+				},
+				{
+					"text": "He claims as his literary ancestors such giants as Henry James and William Faulkner."
+				},
+				{
+					"text": "Our earliest ancestors lived in a world fraught with danger."
+				},
+				{
+					"text": "The Romans built these monuments to glorify their illustrious ancestors."
+				},
+				{
+					"text": "The builder of the house was a direct ancestor of the present owner."
+				},
+				{
+					"text": "The two species share a common ancestor."
+				},
+				{
+					"text": "They honour/​honor their ancestors and believe in the spirits of nature."
+				},
+				{
+					"text": "a distant ancestor of mine"
+				}
+			],
+			"synonyms": "forebear",
+			"topics": ["Family and relationships", "History"],
+			"collocations": {
+				"adjective": ["direct", "immediate", "ancient"],
+				"verb + ancestor": ["be descended from", "have", "share"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an animal that lived in the past that a modern animal has developed from",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a reptile that was the common ancestor of lizards and turtles"
+				}
+			],
+			"collocations": {
+				"adjective": ["direct", "immediate", "ancient"],
+				"verb + ancestor": ["be descended from", "have", "share"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "an early form of a machine that later became more developed",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The ancestor of the modern bicycle was called a penny-farthing."
+				}
+			],
+			"synonyms": "forerunner"
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈænsestə(r)/",
+				"audio": "an/ancestor/ancestor__gb_4.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈænsestər/",
+				"audio": "an/ancestor/ancestor__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French ancestre, from Latin antecessor, from antecedere, from ante ‘before’ + cedere ‘go’."
 }

@@ -1,167 +1,167 @@
 {
-  "term": "adapt",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "adapt",
-      "heSheIt": "adapts"
-    },
-    "pastSimple": "adapted",
-    "pastParticiple": "adapted",
-    "ingForm": "adapting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to change your behaviour in order to deal more successfully with a new situation",
-      "sensetop": "adapt to somethingadapt yourself to something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "It's amazing how soon you adapt."
-        },
-        {
-          "text": "The organisms were forced to adapt in order to survive."
-        },
-        {
-          "text": "Some animals have a remarkable ability to **adapt to** changing **environments**.",
-          "contextForm": "adapt to something"
-        },
-        {
-          "text": "A large organization can be slow to **adapt to change**."
-        },
-        {
-          "text": "The company was able to **adapt to the conditions** and enhance its position."
-        },
-        {
-          "text": "We have had to adapt quickly to the new system."
-        },
-        {
-          "text": "It took him a while to adapt himself to his new surroundings.",
-          "contextForm": "adapt yourself to something"
-        },
-        {
-          "text": "The children have adapted well to the heat."
-        },
-        {
-          "text": "The company can easily adapt to changing demand."
-        },
-        {
-          "text": "We need to assess the new situation and adapt accordingly."
-        }
-      ],
-      "topics": ["Success"],
-      "collocations": {
-        "adverb": ["successfully", "well", "quickly"],
-        "verb + adapt": ["be able to", "can", "be unable to"],
-        "preposition": ["to"],
-        "phrases": [
-          "the ability to adapt",
-          "find it difficult to adapt",
-          "find it hard to adapt"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to change something in order to make it suitable for a new use or situation",
-      "sensetop": "adapt somethingadapt something for something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "These styles can be adapted to suit individual tastes.",
-          "contextForm": "adapt something"
-        },
-        {
-          "text": "We need technology that can be adapted to suit the needs of the future."
-        },
-        {
-          "text": "The gym has been adapted for use by visually impaired students.",
-          "contextForm": "adapt something for something"
-        }
-      ],
-      "collocations": {
-        "preposition": ["for", "from"],
-        "phrases": ["specially adapted"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to change a book or play so that it can be made into a play, film, television drama, etc.",
-      "sensetop": "adapt something for somethingadapt something from somethingadapt somethingadapt something for something from something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Three of her novels have been adapted for television.",
-          "contextForm": "adapt something for something"
-        },
-        {
-          "text": "The radio play had been adapted from a novel.",
-          "contextForm": "adapt something from something"
-        },
-        {
-          "text": "They have adapted her original novel beautifully.",
-          "contextForm": "adapt something"
-        },
-        {
-          "text": "It was adapted for the screen from his original play.",
-          "contextForm": "adapt something for something from something"
-        }
-      ],
-      "topics": [
-        "Literature and writing",
-        "Film and theatre",
-        "TV, radio and news"
-      ],
-      "collocations": {
-        "preposition": ["for", "from"],
-        "phrases": ["specially adapted"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/əˈdæpt/",
-        "audio": "ad/adapt/adapt__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/əˈdæpts/",
-        "audio": "ad/adapt/adapts__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/əˈdæptɪd/",
-        "audio": "ad/adapt/adapted__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/əˈdæptɪŋ/",
-        "audio": "ad/adapt/adapting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/əˈdæpt/",
-        "audio": "ad/adapt/adapt__us_1.mp3"
-      },
-      {
-        "pronunciation": "/əˈdæpts/",
-        "audio": "ad/adapt/adapts__us_1.mp3"
-      },
-      {
-        "pronunciation": "/əˈdæptɪd/",
-        "audio": "ad/adapt/adapted__us_1.mp3"
-      },
-      {
-        "pronunciation": "/əˈdæptɪŋ/",
-        "audio": "ad/adapt/adapting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from French adapter, from Latin adaptare, from ad- ‘to’ + aptare (from aptus ‘fit’)."
+	"term": "adapt",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "adapt",
+			"heSheIt": "adapts"
+		},
+		"pastSimple": "adapted",
+		"pastParticiple": "adapted",
+		"ingForm": "adapting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to change your behaviour in order to deal more successfully with a new situation",
+			"sensetop": "adapt to somethingadapt yourself to something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "It's amazing how soon you adapt."
+				},
+				{
+					"text": "The organisms were forced to adapt in order to survive."
+				},
+				{
+					"text": "Some animals have a remarkable ability to **adapt to** changing **environments**.",
+					"contextForm": "adapt to something"
+				},
+				{
+					"text": "A large organization can be slow to **adapt to change**."
+				},
+				{
+					"text": "The company was able to **adapt to the conditions** and enhance its position."
+				},
+				{
+					"text": "We have had to adapt quickly to the new system."
+				},
+				{
+					"text": "It took him a while to adapt himself to his new surroundings.",
+					"contextForm": "adapt yourself to something"
+				},
+				{
+					"text": "The children have adapted well to the heat."
+				},
+				{
+					"text": "The company can easily adapt to changing demand."
+				},
+				{
+					"text": "We need to assess the new situation and adapt accordingly."
+				}
+			],
+			"topics": ["Success"],
+			"collocations": {
+				"adverb": ["successfully", "well", "quickly"],
+				"verb + adapt": ["be able to", "can", "be unable to"],
+				"preposition": ["to"],
+				"phrases": [
+					"the ability to adapt",
+					"find it difficult to adapt",
+					"find it hard to adapt"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to change something in order to make it suitable for a new use or situation",
+			"sensetop": "adapt somethingadapt something for something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "These styles can be adapted to suit individual tastes.",
+					"contextForm": "adapt something"
+				},
+				{
+					"text": "We need technology that can be adapted to suit the needs of the future."
+				},
+				{
+					"text": "The gym has been adapted for use by visually impaired students.",
+					"contextForm": "adapt something for something"
+				}
+			],
+			"collocations": {
+				"preposition": ["for", "from"],
+				"phrases": ["specially adapted"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to change a book or play so that it can be made into a play, film, television drama, etc.",
+			"sensetop": "adapt something for somethingadapt something from somethingadapt somethingadapt something for something from something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Three of her novels have been adapted for television.",
+					"contextForm": "adapt something for something"
+				},
+				{
+					"text": "The radio play had been adapted from a novel.",
+					"contextForm": "adapt something from something"
+				},
+				{
+					"text": "They have adapted her original novel beautifully.",
+					"contextForm": "adapt something"
+				},
+				{
+					"text": "It was adapted for the screen from his original play.",
+					"contextForm": "adapt something for something from something"
+				}
+			],
+			"topics": [
+				"Literature and writing",
+				"Film and theatre",
+				"TV, radio and news"
+			],
+			"collocations": {
+				"preposition": ["for", "from"],
+				"phrases": ["specially adapted"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/əˈdæpt/",
+				"audio": "ad/adapt/adapt__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/əˈdæpts/",
+				"audio": "ad/adapt/adapts__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/əˈdæptɪd/",
+				"audio": "ad/adapt/adapted__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/əˈdæptɪŋ/",
+				"audio": "ad/adapt/adapting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/əˈdæpt/",
+				"audio": "ad/adapt/adapt__us_1.mp3"
+			},
+			{
+				"pronunciation": "/əˈdæpts/",
+				"audio": "ad/adapt/adapts__us_1.mp3"
+			},
+			{
+				"pronunciation": "/əˈdæptɪd/",
+				"audio": "ad/adapt/adapted__us_1.mp3"
+			},
+			{
+				"pronunciation": "/əˈdæptɪŋ/",
+				"audio": "ad/adapt/adapting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from French adapter, from Latin adaptare, from ad- ‘to’ + aptare (from aptus ‘fit’)."
 }

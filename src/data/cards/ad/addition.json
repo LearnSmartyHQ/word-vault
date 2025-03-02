@@ -1,136 +1,136 @@
 {
-  "term": "addition",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a thing that is added to something else",
-      "sensetop": "addition to something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "All of these technologies are fairly recent additions."
-        },
-        {
-          "text": "the latest addition to our range of cars",
-          "contextForm": "addition to something"
-        },
-        {
-          "text": "This is a **welcome addition** to the literature of western art history."
-        },
-        {
-          "text": "an addition to the family (= another child)"
-        },
-        {
-          "text": "last minute additions to the government’s package of proposals"
-        },
-        {
-          "text": "We have made several additions to the collection recently."
-        }
-      ],
-      "collocations": {
-        "adjective": ["useful", "valuable", "welcome"],
-        "verb + addition": ["make"],
-        "preposition": ["in addition", "addition to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the act of adding something to something else",
-      "sensetop": "addition of something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Add salt, tasting with every addition."
-        },
-        {
-          "text": "Pasta's basic ingredients are flour and water, sometimes **with the addition of** eggs or oil.",
-          "contextForm": "addition of something"
-        }
-      ],
-      "collocations": {
-        "adjective": ["useful", "valuable", "welcome"],
-        "verb + addition": ["make"],
-        "preposition": ["in addition", "addition to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a new part that is added to a building",
-      "sensetop": "addition (to something)",
-      "labels": "(North American English)British English",
-      "examples": [
-        {
-          "text": "architects who specialize in home additions"
-        },
-        {
-          "text": "The addition should match the architecture of the house."
-        },
-        {
-          "text": "a 22 000-square-foot addition designed by a Japanese architect"
-        },
-        {
-          "text": "a family-room addition to his home"
-        }
-      ],
-      "collocations": {
-        "adjective": ["building", "room", "two-story"],
-        "verb + addition": ["build", "design"],
-        "preposition": ["addition to"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the process of adding two or more numbers together to find their total",
-      "cefr": "b1",
-      "examples": [
-        {
-          "text": "children learning addition and subtraction"
-        },
-        {
-          "text": "He worked it out through simple addition."
-        },
-        {
-          "text": "She can do addition, but she hasn't learned subtraction yet."
-        }
-      ],
-      "topics": ["Maths and measurement"],
-      "collocations": {
-        "adjective": ["simple"],
-        "verb + addition": ["do"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "used when you want to mention another person or thing after something else",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "In addition to these arrangements, extra ambulances will be on duty until midnight."
-        },
-        {
-          "text": "There is, in addition, one further point to make."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/əˈdɪʃn/",
-        "audio": "ad/addition/addition__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/əˈdɪʃn/",
-        "audio": "ad/addition/addition__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Latin additio(n-), from the verb addere, from ad- ‘to’ + the base of dare ‘put’."
+	"term": "addition",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a thing that is added to something else",
+			"sensetop": "addition to something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "All of these technologies are fairly recent additions."
+				},
+				{
+					"text": "the latest addition to our range of cars",
+					"contextForm": "addition to something"
+				},
+				{
+					"text": "This is a **welcome addition** to the literature of western art history."
+				},
+				{
+					"text": "an addition to the family (= another child)"
+				},
+				{
+					"text": "last minute additions to the government’s package of proposals"
+				},
+				{
+					"text": "We have made several additions to the collection recently."
+				}
+			],
+			"collocations": {
+				"adjective": ["useful", "valuable", "welcome"],
+				"verb + addition": ["make"],
+				"preposition": ["in addition", "addition to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the act of adding something to something else",
+			"sensetop": "addition of something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Add salt, tasting with every addition."
+				},
+				{
+					"text": "Pasta's basic ingredients are flour and water, sometimes **with the addition of** eggs or oil.",
+					"contextForm": "addition of something"
+				}
+			],
+			"collocations": {
+				"adjective": ["useful", "valuable", "welcome"],
+				"verb + addition": ["make"],
+				"preposition": ["in addition", "addition to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a new part that is added to a building",
+			"sensetop": "addition (to something)",
+			"labels": "(North American English)British English",
+			"examples": [
+				{
+					"text": "architects who specialize in home additions"
+				},
+				{
+					"text": "The addition should match the architecture of the house."
+				},
+				{
+					"text": "a 22 000-square-foot addition designed by a Japanese architect"
+				},
+				{
+					"text": "a family-room addition to his home"
+				}
+			],
+			"collocations": {
+				"adjective": ["building", "room", "two-story"],
+				"verb + addition": ["build", "design"],
+				"preposition": ["addition to"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the process of adding two or more numbers together to find their total",
+			"cefr": "b1",
+			"examples": [
+				{
+					"text": "children learning addition and subtraction"
+				},
+				{
+					"text": "He worked it out through simple addition."
+				},
+				{
+					"text": "She can do addition, but she hasn't learned subtraction yet."
+				}
+			],
+			"topics": ["Maths and measurement"],
+			"collocations": {
+				"adjective": ["simple"],
+				"verb + addition": ["do"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "used when you want to mention another person or thing after something else",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "In addition to these arrangements, extra ambulances will be on duty until midnight."
+				},
+				{
+					"text": "There is, in addition, one further point to make."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/əˈdɪʃn/",
+				"audio": "ad/addition/addition__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/əˈdɪʃn/",
+				"audio": "ad/addition/addition__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Latin additio(n-), from the verb addere, from ad- ‘to’ + the base of dare ‘put’."
 }

@@ -1,110 +1,110 @@
 {
-  "term": "cable",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b2",
-  "image": "data/images/ca/cablecar.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a set of wires, covered in plastic or rubber, that carries electricity, phone signals, etc.",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**fibre-optic cable**"
-        },
-        {
-          "text": "a power cable"
-        },
-        {
-          "text": "overhead/underground/undersea cables"
-        },
-        {
-          "text": "a 10 000-volt cable"
-        },
-        {
-          "text": "a USB cable"
-        },
-        {
-          "text": "a length of electric cable"
-        },
-        {
-          "text": "They're digging up the road to lay cables."
-        },
-        {
-          "text": "Connect the cable to the correct terminal."
-        },
-        {
-          "text": "I plugged the cable into the amplifier."
-        },
-        {
-          "text": "Engineers plan to run the telephone cables under the river."
-        },
-        {
-          "text": "There is a cable running under the road."
-        },
-        {
-          "text": "Roads have to be dug up to lay underground cables."
-        },
-        {
-          "text": "Fibre broadband uses faster and more reliable fibre-optic cables."
-        },
-        {
-          "text": "new cables connecting major cities in Europe"
-        }
-      ],
-      "topics": ["The environment", "Engineering"],
-      "collocations": {
-        "adjective": ["electric", "telephone", "overhead"],
-        "… of cable": ["length"],
-        "verb + cable": ["lay", "run", "attach"],
-        "cable + verb": ["go", "run", "connect something"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "thick strong metal rope used on ships, for supporting bridges, etc.",
-      "cefr": "c1",
-      "examples": [],
-      "topics": ["Transport by water"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a system of broadcasting television programmes along wires rather than by radio waves",
-      "examples": [
-        {
-          "text": "We can receive up to 500 cable channels."
-        },
-        {
-          "text": "We just had cable installed."
-        }
-      ],
-      "collocations": {
-        "verb + cable": ["get", "have", "install"],
-        "cable + noun": ["television", "TV", "channel"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a message sent by electrical signals and printed out",
-      "labels": "(old-fashioned)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkeɪbl/",
-        "audio": "ca/cable/cable__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkeɪbl/",
-        "audio": "ca/cable/cable__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from an Anglo-Norman French variant of Old French chable, from late Latin capulum ‘halter’."
+	"term": "cable",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b2",
+	"image": "data/images/ca/cablecar.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a set of wires, covered in plastic or rubber, that carries electricity, phone signals, etc.",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**fibre-optic cable**"
+				},
+				{
+					"text": "a power cable"
+				},
+				{
+					"text": "overhead/underground/undersea cables"
+				},
+				{
+					"text": "a 10 000-volt cable"
+				},
+				{
+					"text": "a USB cable"
+				},
+				{
+					"text": "a length of electric cable"
+				},
+				{
+					"text": "They're digging up the road to lay cables."
+				},
+				{
+					"text": "Connect the cable to the correct terminal."
+				},
+				{
+					"text": "I plugged the cable into the amplifier."
+				},
+				{
+					"text": "Engineers plan to run the telephone cables under the river."
+				},
+				{
+					"text": "There is a cable running under the road."
+				},
+				{
+					"text": "Roads have to be dug up to lay underground cables."
+				},
+				{
+					"text": "Fibre broadband uses faster and more reliable fibre-optic cables."
+				},
+				{
+					"text": "new cables connecting major cities in Europe"
+				}
+			],
+			"topics": ["The environment", "Engineering"],
+			"collocations": {
+				"adjective": ["electric", "telephone", "overhead"],
+				"… of cable": ["length"],
+				"verb + cable": ["lay", "run", "attach"],
+				"cable + verb": ["go", "run", "connect something"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "thick strong metal rope used on ships, for supporting bridges, etc.",
+			"cefr": "c1",
+			"examples": [],
+			"topics": ["Transport by water"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a system of broadcasting television programmes along wires rather than by radio waves",
+			"examples": [
+				{
+					"text": "We can receive up to 500 cable channels."
+				},
+				{
+					"text": "We just had cable installed."
+				}
+			],
+			"collocations": {
+				"verb + cable": ["get", "have", "install"],
+				"cable + noun": ["television", "TV", "channel"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a message sent by electrical signals and printed out",
+			"labels": "(old-fashioned)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkeɪbl/",
+				"audio": "ca/cable/cable__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkeɪbl/",
+				"audio": "ca/cable/cable__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from an Anglo-Norman French variant of Old French chable, from late Latin capulum ‘halter’."
 }

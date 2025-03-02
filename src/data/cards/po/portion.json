@@ -1,101 +1,101 @@
 {
-  "term": "portion",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "one part of something larger",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a **substantial/significant portion** of the population"
-        },
-        {
-          "text": "Only a small portion of the budget is spent on books."
-        },
-        {
-          "text": "The central portion of the bridge collapsed."
-        },
-        {
-          "text": "You give this portion of the ticket to the inspector and keep the other."
-        },
-        {
-          "text": "She could recite large portions of Shakespeare."
-        }
-      ],
-      "collocations": {
-        "adjective": ["considerable", "good", "huge"],
-        "verb + portion": ["make up", "take up"],
-        "preposition": ["portion of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an amount of food that is large enough for one person",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a **generous portion** of meat"
-        },
-        {
-          "text": "She cut the cake into six small portions."
-        },
-        {
-          "text": "You should eat several portions of fruit a day."
-        },
-        {
-          "text": "Do you serve children’s portions?"
-        },
-        {
-          "text": "This particular type of fish has less than 200 calories per portion."
-        },
-        {
-          "text": "Divide the mixture into individual portions and place them on a baking tray."
-        },
-        {
-          "text": "He ordered a double portion of ham and eggs."
-        }
-      ],
-      "topics": ["Cooking and eating"],
-      "collocations": {
-        "adjective": ["double", "generous", "large"],
-        "verb + portion": ["eat"],
-        "preposition": ["portion of"],
-        "phrases": ["divide something into portions"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a part of something that is shared with other people",
-      "examples": [
-        {
-          "text": "You must accept a portion of the blame for this crisis."
-        }
-      ],
-      "synonyms": "share",
-      "collocations": {
-        "adjective": ["considerable", "good", "huge"],
-        "verb + portion": ["make up", "take up"],
-        "preposition": ["portion of"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈpɔːʃn/",
-        "audio": "po/portion/portion__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈpɔːrʃn/",
-        "audio": "po/portion/portion__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French porcion, from Latin portio(n-), from the phrase pro portione ‘in proportion’."
+	"term": "portion",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "one part of something larger",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a **substantial/significant portion** of the population"
+				},
+				{
+					"text": "Only a small portion of the budget is spent on books."
+				},
+				{
+					"text": "The central portion of the bridge collapsed."
+				},
+				{
+					"text": "You give this portion of the ticket to the inspector and keep the other."
+				},
+				{
+					"text": "She could recite large portions of Shakespeare."
+				}
+			],
+			"collocations": {
+				"adjective": ["considerable", "good", "huge"],
+				"verb + portion": ["make up", "take up"],
+				"preposition": ["portion of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an amount of food that is large enough for one person",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a **generous portion** of meat"
+				},
+				{
+					"text": "She cut the cake into six small portions."
+				},
+				{
+					"text": "You should eat several portions of fruit a day."
+				},
+				{
+					"text": "Do you serve children’s portions?"
+				},
+				{
+					"text": "This particular type of fish has less than 200 calories per portion."
+				},
+				{
+					"text": "Divide the mixture into individual portions and place them on a baking tray."
+				},
+				{
+					"text": "He ordered a double portion of ham and eggs."
+				}
+			],
+			"topics": ["Cooking and eating"],
+			"collocations": {
+				"adjective": ["double", "generous", "large"],
+				"verb + portion": ["eat"],
+				"preposition": ["portion of"],
+				"phrases": ["divide something into portions"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a part of something that is shared with other people",
+			"examples": [
+				{
+					"text": "You must accept a portion of the blame for this crisis."
+				}
+			],
+			"synonyms": "share",
+			"collocations": {
+				"adjective": ["considerable", "good", "huge"],
+				"verb + portion": ["make up", "take up"],
+				"preposition": ["portion of"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈpɔːʃn/",
+				"audio": "po/portion/portion__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈpɔːrʃn/",
+				"audio": "po/portion/portion__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French porcion, from Latin portio(n-), from the phrase pro portione ‘in proportion’."
 }

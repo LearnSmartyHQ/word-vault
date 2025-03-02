@@ -1,191 +1,191 @@
 {
-  "term": "determine",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "determine",
-      "heSheIt": "determines"
-    },
-    "pastSimple": "determined",
-    "pastParticiple": "determined",
-    "ingForm": "determining"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to discover the facts about something; to calculate something exactly",
-      "sensetop": "determine somethingdetermine what, whether, etc…it is determined that…",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "An inquiry was set up to determine the cause of the accident.",
-          "contextForm": "determine something"
-        },
-        {
-          "text": "Try to determine the extent of the problem."
-        },
-        {
-          "text": "We set out to determine exactly what happened that night.",
-          "contextForm": "determine what, whether, etc…"
-        },
-        {
-          "text": "**It is difficult to determine** when drama first appeared in India."
-        },
-        {
-          "text": "It was determined that she had died of natural causes.",
-          "contextForm": "it is determined that…"
-        },
-        {
-          "text": "Computer models help to determine whether a particular area is likely to flood."
-        },
-        {
-          "text": "It is difficult to determine the exact cause of the illness."
-        },
-        {
-          "text": "It should be possible to determine the level of interest."
-        },
-        {
-          "text": "We need a detailed investigation to determine exactly why these cancers are occurring."
-        }
-      ],
-      "synonyms": "establish",
-      "topics": ["Scientific research"],
-      "collocations": {
-        "adverb": ["exactly", "precisely", "reliably"],
-        "verb + determine": ["try to", "be used to", "help to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to make something happen in a particular way or be of a particular type",
-      "sensetop": "determine somethingdetermine where, whether, etc…",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Rural voters in key states will **determine the outcome **of the election.",
-          "contextForm": "determine something"
-        },
-        {
-          "text": "Upbringing plays an important part in determining a person's character."
-        },
-        {
-          "text": "Age and experience will be **determining factors** in our choice of candidate."
-        },
-        {
-          "text": "The physical capabilities of a plant determine where it can and cannot live.",
-          "contextForm": "determine where, whether, etc…"
-        },
-        {
-          "text": "Reproductive success is directly determined by attractiveness to the female."
-        },
-        {
-          "text": "He suggested that alcoholism may be genetically determined."
-        },
-        {
-          "text": "Female employment was determined by economic and social factors."
-        },
-        {
-          "text": "the debate about whether such attitudes are biologically or culturally determined"
-        },
-        {
-          "text": "Their responses to these questions could determine the level, quality and variety of care they received."
-        },
-        {
-          "text": "The success of these plans will be determined largely by the number of members who take part."
-        }
-      ],
-      "collocations": {
-        "adverb": ["biologically", "culturally", "genetically"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to officially decide and/or arrange something",
-      "sensetop": "determine somethingdetermine (that)…",
-      "examples": [
-        {
-          "text": "A date for the meeting has yet to be determined.",
-          "contextForm": "determine something"
-        },
-        {
-          "text": "The court determined (that) the defendant should pay the legal costs.",
-          "contextForm": "determine (that)…"
-        },
-        {
-          "text": "It is not for the police to determine what information should be disclosed."
-        },
-        {
-          "text": "a decision which would ultimately determine the fate of the project"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to decide definitely to do something",
-      "sensetop": "determine to do somethingdetermine on somethingdetermine (that)…",
-      "examples": [
-        {
-          "text": "They determined to start early.",
-          "contextForm": "determine to do something"
-        },
-        {
-          "text": "The government determined on a change of policy.",
-          "contextForm": "determine on something"
-        },
-        {
-          "text": "From that moment, I determined that it should not happen again.",
-          "contextForm": "determine (that)…"
-        },
-        {
-          "text": "As she walked home, she determined to speak to her boss the next day."
-        },
-        {
-          "text": "At seven years old I determined to be a great footballer."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/dɪˈtɜːmɪn/",
-        "audio": "de/determine/determine__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈtɜːmɪnz/",
-        "audio": "de/determine/determines__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈtɜːmɪnd/",
-        "audio": "de/determine/determined__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈtɜːmɪnɪŋ/",
-        "audio": "de/determine/determining__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/dɪˈtɜːrmɪn/",
-        "audio": "de/determine/determine__us_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈtɜːrmɪnz/",
-        "audio": "de/determine/determines__us_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈtɜːrmɪnd/",
-        "audio": "de/determine/determined__us_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈtɜːrmɪnɪŋ/",
-        "audio": "de/determine/determining__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French determiner, from Latin determinare ‘limit, fix’, from de- ‘completely’ + terminare ‘terminate’."
+	"term": "determine",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "determine",
+			"heSheIt": "determines"
+		},
+		"pastSimple": "determined",
+		"pastParticiple": "determined",
+		"ingForm": "determining"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to discover the facts about something; to calculate something exactly",
+			"sensetop": "determine somethingdetermine what, whether, etc…it is determined that…",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "An inquiry was set up to determine the cause of the accident.",
+					"contextForm": "determine something"
+				},
+				{
+					"text": "Try to determine the extent of the problem."
+				},
+				{
+					"text": "We set out to determine exactly what happened that night.",
+					"contextForm": "determine what, whether, etc…"
+				},
+				{
+					"text": "**It is difficult to determine** when drama first appeared in India."
+				},
+				{
+					"text": "It was determined that she had died of natural causes.",
+					"contextForm": "it is determined that…"
+				},
+				{
+					"text": "Computer models help to determine whether a particular area is likely to flood."
+				},
+				{
+					"text": "It is difficult to determine the exact cause of the illness."
+				},
+				{
+					"text": "It should be possible to determine the level of interest."
+				},
+				{
+					"text": "We need a detailed investigation to determine exactly why these cancers are occurring."
+				}
+			],
+			"synonyms": "establish",
+			"topics": ["Scientific research"],
+			"collocations": {
+				"adverb": ["exactly", "precisely", "reliably"],
+				"verb + determine": ["try to", "be used to", "help to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to make something happen in a particular way or be of a particular type",
+			"sensetop": "determine somethingdetermine where, whether, etc…",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Rural voters in key states will **determine the outcome **of the election.",
+					"contextForm": "determine something"
+				},
+				{
+					"text": "Upbringing plays an important part in determining a person's character."
+				},
+				{
+					"text": "Age and experience will be **determining factors** in our choice of candidate."
+				},
+				{
+					"text": "The physical capabilities of a plant determine where it can and cannot live.",
+					"contextForm": "determine where, whether, etc…"
+				},
+				{
+					"text": "Reproductive success is directly determined by attractiveness to the female."
+				},
+				{
+					"text": "He suggested that alcoholism may be genetically determined."
+				},
+				{
+					"text": "Female employment was determined by economic and social factors."
+				},
+				{
+					"text": "the debate about whether such attitudes are biologically or culturally determined"
+				},
+				{
+					"text": "Their responses to these questions could determine the level, quality and variety of care they received."
+				},
+				{
+					"text": "The success of these plans will be determined largely by the number of members who take part."
+				}
+			],
+			"collocations": {
+				"adverb": ["biologically", "culturally", "genetically"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to officially decide and/or arrange something",
+			"sensetop": "determine somethingdetermine (that)…",
+			"examples": [
+				{
+					"text": "A date for the meeting has yet to be determined.",
+					"contextForm": "determine something"
+				},
+				{
+					"text": "The court determined (that) the defendant should pay the legal costs.",
+					"contextForm": "determine (that)…"
+				},
+				{
+					"text": "It is not for the police to determine what information should be disclosed."
+				},
+				{
+					"text": "a decision which would ultimately determine the fate of the project"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to decide definitely to do something",
+			"sensetop": "determine to do somethingdetermine on somethingdetermine (that)…",
+			"examples": [
+				{
+					"text": "They determined to start early.",
+					"contextForm": "determine to do something"
+				},
+				{
+					"text": "The government determined on a change of policy.",
+					"contextForm": "determine on something"
+				},
+				{
+					"text": "From that moment, I determined that it should not happen again.",
+					"contextForm": "determine (that)…"
+				},
+				{
+					"text": "As she walked home, she determined to speak to her boss the next day."
+				},
+				{
+					"text": "At seven years old I determined to be a great footballer."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/dɪˈtɜːmɪn/",
+				"audio": "de/determine/determine__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈtɜːmɪnz/",
+				"audio": "de/determine/determines__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈtɜːmɪnd/",
+				"audio": "de/determine/determined__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈtɜːmɪnɪŋ/",
+				"audio": "de/determine/determining__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/dɪˈtɜːrmɪn/",
+				"audio": "de/determine/determine__us_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈtɜːrmɪnz/",
+				"audio": "de/determine/determines__us_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈtɜːrmɪnd/",
+				"audio": "de/determine/determined__us_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈtɜːrmɪnɪŋ/",
+				"audio": "de/determine/determining__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French determiner, from Latin determinare ‘limit, fix’, from de- ‘completely’ + terminare ‘terminate’."
 }

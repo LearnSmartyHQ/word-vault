@@ -1,161 +1,161 @@
 {
-  "term": "inform",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "inform",
-      "heSheIt": "informs"
-    },
-    "pastSimple": "informed",
-    "pastParticiple": "informed",
-    "ingForm": "informing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to tell somebody about something, especially in an official way",
-      "sensetop": "inform somebodyinform somebody of somethinginform somebody about somethinginform somebody that…inform somebody + speechinform somebody when, where, etc…",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The government took this decision without consulting Parliament or **informing the public**.",
-          "contextForm": "inform somebody"
-        },
-        {
-          "text": "Have the police been informed?"
-        },
-        {
-          "text": "Please inform us of any changes of address.",
-          "contextForm": "inform somebody of something"
-        },
-        {
-          "text": "He went to inform them of his decision."
-        },
-        {
-          "text": "The leaflet informs customers about healthy eating.",
-          "contextForm": "inform somebody about something"
-        },
-        {
-          "text": "I have been **reliably informed** *(= somebody I trust has told me)* that the couple will marry next year.",
-          "contextForm": "inform somebody that…"
-        },
-        {
-          "text": "I am pleased to inform you that you have won first prize in this month’s competition."
-        },
-        {
-          "text": "‘He's already left,’ she informed us.",
-          "contextForm": "inform somebody + speech"
-        },
-        {
-          "text": "I have not been informed when the ceremony will take place.",
-          "contextForm": "inform somebody when, where, etc…"
-        },
-        {
-          "text": "Inform me at once if there are any changes in her condition."
-        },
-        {
-          "text": "A notice informed the guests that formal dress was required."
-        },
-        {
-          "text": "I am not advising you. I am merely informing you of the situation."
-        },
-        {
-          "text": "I regret to inform you that you have been unsuccessful in your application."
-        },
-        {
-          "text": "Many people questioned whether patients were informed adequately of the risks."
-        },
-        {
-          "text": "Next time you decide to take some action, kindly inform me."
-        },
-        {
-          "text": "Students are clearly informed that lateness will not be tolerated."
-        },
-        {
-          "text": "The clinic is required to inform the patient about possible alternative treatments."
-        },
-        {
-          "text": "We will immediately inform you of any changes to the programme."
-        },
-        {
-          "text": "I am reliably informed that there are plans to close this school."
-        },
-        {
-          "text": "The newspaper had done little to inform its readers about the desperate poverty prevailing in New Orleans."
-        }
-      ],
-      "topics": ["Crime and punishment"],
-      "collocations": {
-        "adverb": ["merely", "simply", "regularly"],
-        "verb + inform": ["be pleased to", "regret to", "be required to"],
-        "preposition": ["about", "of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to find out information about something",
-      "sensetop": "inform yourself (of/about something)",
-      "examples": [
-        {
-          "text": "We need time to inform ourselves thoroughly of the problem."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to have an influence on something",
-      "sensetop": "inform something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "Religion informs every aspect of their lives."
-        },
-        {
-          "text": "These guidelines will be used to inform any future decisions."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈfɔːm/",
-        "audio": "in/inform/inform__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɔːmz/",
-        "audio": "in/inform/informs__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɔːmd/",
-        "audio": "in/inform/informed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɔːmɪŋ/",
-        "audio": "in/inform/informing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈfɔːrm/",
-        "audio": "in/inform/inform__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɔːrmz/",
-        "audio": "in/inform/informs__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɔːrmd/",
-        "audio": "in/inform/informed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɔːrmɪŋ/",
-        "audio": "in/inform/informing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English enforme, informe ‘give form or shape to’, also ‘form the mind of, teach’, from Old French enfourmer, from Latin informare ‘shape, fashion, describe’, from in- ‘into’ + forma ‘a form’."
+	"term": "inform",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "inform",
+			"heSheIt": "informs"
+		},
+		"pastSimple": "informed",
+		"pastParticiple": "informed",
+		"ingForm": "informing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to tell somebody about something, especially in an official way",
+			"sensetop": "inform somebodyinform somebody of somethinginform somebody about somethinginform somebody that…inform somebody + speechinform somebody when, where, etc…",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The government took this decision without consulting Parliament or **informing the public**.",
+					"contextForm": "inform somebody"
+				},
+				{
+					"text": "Have the police been informed?"
+				},
+				{
+					"text": "Please inform us of any changes of address.",
+					"contextForm": "inform somebody of something"
+				},
+				{
+					"text": "He went to inform them of his decision."
+				},
+				{
+					"text": "The leaflet informs customers about healthy eating.",
+					"contextForm": "inform somebody about something"
+				},
+				{
+					"text": "I have been **reliably informed** *(= somebody I trust has told me)* that the couple will marry next year.",
+					"contextForm": "inform somebody that…"
+				},
+				{
+					"text": "I am pleased to inform you that you have won first prize in this month’s competition."
+				},
+				{
+					"text": "‘He's already left,’ she informed us.",
+					"contextForm": "inform somebody + speech"
+				},
+				{
+					"text": "I have not been informed when the ceremony will take place.",
+					"contextForm": "inform somebody when, where, etc…"
+				},
+				{
+					"text": "Inform me at once if there are any changes in her condition."
+				},
+				{
+					"text": "A notice informed the guests that formal dress was required."
+				},
+				{
+					"text": "I am not advising you. I am merely informing you of the situation."
+				},
+				{
+					"text": "I regret to inform you that you have been unsuccessful in your application."
+				},
+				{
+					"text": "Many people questioned whether patients were informed adequately of the risks."
+				},
+				{
+					"text": "Next time you decide to take some action, kindly inform me."
+				},
+				{
+					"text": "Students are clearly informed that lateness will not be tolerated."
+				},
+				{
+					"text": "The clinic is required to inform the patient about possible alternative treatments."
+				},
+				{
+					"text": "We will immediately inform you of any changes to the programme."
+				},
+				{
+					"text": "I am reliably informed that there are plans to close this school."
+				},
+				{
+					"text": "The newspaper had done little to inform its readers about the desperate poverty prevailing in New Orleans."
+				}
+			],
+			"topics": ["Crime and punishment"],
+			"collocations": {
+				"adverb": ["merely", "simply", "regularly"],
+				"verb + inform": ["be pleased to", "regret to", "be required to"],
+				"preposition": ["about", "of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to find out information about something",
+			"sensetop": "inform yourself (of/about something)",
+			"examples": [
+				{
+					"text": "We need time to inform ourselves thoroughly of the problem."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to have an influence on something",
+			"sensetop": "inform something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "Religion informs every aspect of their lives."
+				},
+				{
+					"text": "These guidelines will be used to inform any future decisions."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈfɔːm/",
+				"audio": "in/inform/inform__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɔːmz/",
+				"audio": "in/inform/informs__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɔːmd/",
+				"audio": "in/inform/informed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɔːmɪŋ/",
+				"audio": "in/inform/informing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈfɔːrm/",
+				"audio": "in/inform/inform__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɔːrmz/",
+				"audio": "in/inform/informs__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɔːrmd/",
+				"audio": "in/inform/informed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɔːrmɪŋ/",
+				"audio": "in/inform/informing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English enforme, informe ‘give form or shape to’, also ‘form the mind of, teach’, from Old French enfourmer, from Latin informare ‘shape, fashion, describe’, from in- ‘into’ + forma ‘a form’."
 }

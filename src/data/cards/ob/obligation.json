@@ -1,127 +1,127 @@
 {
-  "term": "obligation",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the state of being forced to do something because it is your duty, or because of a law, etc.",
-      "sensetop": "obligation to do somethingunder any/no obligationwithout obligation",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "You are under no obligation to buy anything.",
-          "contextForm": "obligation to do something"
-        },
-        {
-          "text": "She did not feel under any obligation to tell him the truth.",
-          "contextForm": "under any/no obligation"
-        },
-        {
-          "text": "I don't want people coming to see me out of a **sense of obligation**."
-        },
-        {
-          "text": "We will send you an estimate for the work without obligation *(= you do not have to accept it)*.",
-          "contextForm": "without obligation"
-        },
-        {
-          "text": "I am under no obligation to tell you my name."
-        },
-        {
-          "text": "Our mortgage advice is given free and without obligation."
-        }
-      ],
-      "topics": ["Permission and obligation"],
-      "collocations": {
-        "adjective": ["contractual", "legal", "statutory"],
-        "verb + obligation": ["carry out", "discharge", "fulfil/​fulfill"],
-        "obligation + verb": ["arise from something"],
-        "preposition": [
-          "under an obligation",
-          "without obligation",
-          "obligation of"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "something which you must do because you have promised, because of a law, etc.",
-      "sensetop": "obligation to do somethingobligation on somebodyobligation to/toward somebody",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**legal/professional/financial obligations**"
-        },
-        {
-          "text": "They reminded him of his **contractual obligations**."
-        },
-        {
-          "text": "The country has promised to comply with its international obligations."
-        },
-        {
-          "text": "We have a **moral obligation** to protect the environment.",
-          "contextForm": "obligation to do something"
-        },
-        {
-          "text": "I have an obligation under law to protect their confidentiality."
-        },
-        {
-          "text": "I felt that there was a moral obligation on me to tell the story.",
-          "contextForm": "obligation on somebody"
-        },
-        {
-          "text": "We want to **fulfil** our **obligation** to farmers and see they get a fair price."
-        },
-        {
-          "text": "The company did not have enough money to **meet** its **obligations**."
-        },
-        {
-          "text": "We **have an obligation** to our consumers.",
-          "contextForm": "obligation to/toward somebody"
-        },
-        {
-          "text": "I can't travel next month because of family obligations."
-        },
-        {
-          "text": "The builders failed to meet their contractual obligations."
-        },
-        {
-          "text": "obligations arising from your contract of employment"
-        },
-        {
-          "text": "the obligations of citizenship"
-        }
-      ],
-      "synonyms": "commitment",
-      "topics": ["Permission and obligation"],
-      "collocations": {
-        "adjective": ["contractual", "legal", "statutory"],
-        "verb + obligation": ["carry out", "discharge", "fulfil/​fulfill"],
-        "obligation + verb": ["arise from something"],
-        "preposition": [
-          "under an obligation",
-          "without obligation",
-          "obligation of"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌɒblɪˈɡeɪʃn/",
-        "audio": "ob/obligation/obligation__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌɑːblɪˈɡeɪʃn/",
-        "audio": "ob/obligation/obligation__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in the sense ‘formal promise’): via Old French from Latin obligatio(n-), from the verb obligare, from ob- ‘towards’ + ligare ‘to bind’."
+	"term": "obligation",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the state of being forced to do something because it is your duty, or because of a law, etc.",
+			"sensetop": "obligation to do somethingunder any/no obligationwithout obligation",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "You are under no obligation to buy anything.",
+					"contextForm": "obligation to do something"
+				},
+				{
+					"text": "She did not feel under any obligation to tell him the truth.",
+					"contextForm": "under any/no obligation"
+				},
+				{
+					"text": "I don't want people coming to see me out of a **sense of obligation**."
+				},
+				{
+					"text": "We will send you an estimate for the work without obligation *(= you do not have to accept it)*.",
+					"contextForm": "without obligation"
+				},
+				{
+					"text": "I am under no obligation to tell you my name."
+				},
+				{
+					"text": "Our mortgage advice is given free and without obligation."
+				}
+			],
+			"topics": ["Permission and obligation"],
+			"collocations": {
+				"adjective": ["contractual", "legal", "statutory"],
+				"verb + obligation": ["carry out", "discharge", "fulfil/​fulfill"],
+				"obligation + verb": ["arise from something"],
+				"preposition": [
+					"under an obligation",
+					"without obligation",
+					"obligation of"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "something which you must do because you have promised, because of a law, etc.",
+			"sensetop": "obligation to do somethingobligation on somebodyobligation to/toward somebody",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**legal/professional/financial obligations**"
+				},
+				{
+					"text": "They reminded him of his **contractual obligations**."
+				},
+				{
+					"text": "The country has promised to comply with its international obligations."
+				},
+				{
+					"text": "We have a **moral obligation** to protect the environment.",
+					"contextForm": "obligation to do something"
+				},
+				{
+					"text": "I have an obligation under law to protect their confidentiality."
+				},
+				{
+					"text": "I felt that there was a moral obligation on me to tell the story.",
+					"contextForm": "obligation on somebody"
+				},
+				{
+					"text": "We want to **fulfil** our **obligation** to farmers and see they get a fair price."
+				},
+				{
+					"text": "The company did not have enough money to **meet** its **obligations**."
+				},
+				{
+					"text": "We **have an obligation** to our consumers.",
+					"contextForm": "obligation to/toward somebody"
+				},
+				{
+					"text": "I can't travel next month because of family obligations."
+				},
+				{
+					"text": "The builders failed to meet their contractual obligations."
+				},
+				{
+					"text": "obligations arising from your contract of employment"
+				},
+				{
+					"text": "the obligations of citizenship"
+				}
+			],
+			"synonyms": "commitment",
+			"topics": ["Permission and obligation"],
+			"collocations": {
+				"adjective": ["contractual", "legal", "statutory"],
+				"verb + obligation": ["carry out", "discharge", "fulfil/​fulfill"],
+				"obligation + verb": ["arise from something"],
+				"preposition": [
+					"under an obligation",
+					"without obligation",
+					"obligation of"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌɒblɪˈɡeɪʃn/",
+				"audio": "ob/obligation/obligation__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌɑːblɪˈɡeɪʃn/",
+				"audio": "ob/obligation/obligation__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in the sense ‘formal promise’): via Old French from Latin obligatio(n-), from the verb obligare, from ob- ‘towards’ + ligare ‘to bind’."
 }

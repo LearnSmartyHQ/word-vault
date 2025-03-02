@@ -1,65 +1,65 @@
 {
-  "term": "laboratory",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "image": "data/images/la/laboratory_equipment.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a room or building used for scientific research, experiments, testing, etc.",
-      "sensetop": "in a/the laboratory",
-      "examples": [
-        {
-          "text": "a **clinical/research laboratory**"
-        },
-        {
-          "text": "to send a specimen to the laboratory for analysis"
-        },
-        {
-          "text": "The effects of weathering can be simulated in the laboratory.",
-          "contextForm": "in a/the laboratory"
-        },
-        {
-          "text": "**laboratory experiments/tests**"
-        },
-        {
-          "text": "The athletes' reflexes were tested **under laboratory conditions**."
-        },
-        {
-          "text": "She has donated money to establish a pharmaceutical laboratory."
-        },
-        {
-          "text": "They work in a laboratory studying growth patterns."
-        },
-        {
-          "text": "laboratory tests on animals"
-        },
-        {
-          "text": "simulated driving in a laboratory setting"
-        }
-      ],
-      "topics": ["Education", "Scientific research"],
-      "collocations": {
-        "adjective": ["commercial", "industrial", "school"],
-        "laboratory + noun": ["assistant", "scientist", "technician"],
-        "preposition": ["in a/​the laboratory"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ləˈbɒrətri/",
-        "audio": "la/laboratory/laboratory__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈlæbrətɔːri/",
-        "audio": "la/laboratory/laboratory__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 17th cent.: from medieval Latin laboratorium, from Latin laborare ‘to labour’."
+	"term": "laboratory",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"image": "data/images/la/laboratory_equipment.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a room or building used for scientific research, experiments, testing, etc.",
+			"sensetop": "in a/the laboratory",
+			"examples": [
+				{
+					"text": "a **clinical/research laboratory**"
+				},
+				{
+					"text": "to send a specimen to the laboratory for analysis"
+				},
+				{
+					"text": "The effects of weathering can be simulated in the laboratory.",
+					"contextForm": "in a/the laboratory"
+				},
+				{
+					"text": "**laboratory experiments/tests**"
+				},
+				{
+					"text": "The athletes' reflexes were tested **under laboratory conditions**."
+				},
+				{
+					"text": "She has donated money to establish a pharmaceutical laboratory."
+				},
+				{
+					"text": "They work in a laboratory studying growth patterns."
+				},
+				{
+					"text": "laboratory tests on animals"
+				},
+				{
+					"text": "simulated driving in a laboratory setting"
+				}
+			],
+			"topics": ["Education", "Scientific research"],
+			"collocations": {
+				"adjective": ["commercial", "industrial", "school"],
+				"laboratory + noun": ["assistant", "scientist", "technician"],
+				"preposition": ["in a/​the laboratory"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ləˈbɒrətri/",
+				"audio": "la/laboratory/laboratory__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈlæbrətɔːri/",
+				"audio": "la/laboratory/laboratory__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 17th cent.: from medieval Latin laboratorium, from Latin laborare ‘to labour’."
 }

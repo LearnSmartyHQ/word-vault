@@ -1,191 +1,191 @@
 {
-  "term": "appointment",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a formal arrangement to meet or visit somebody at a particular time, especially for a reason connected with their work",
-      "sensetop": "appointment with somebodyappointment for somethingappointment for somebody to do something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I've got a **dental appointment** at 3 o'clock."
-        },
-        {
-          "text": "to book/make/keep an appointment"
-        },
-        {
-          "text": "Do you have an appointment?"
-        },
-        {
-          "text": "She has a doctor's appointment in twenty minutes."
-        },
-        {
-          "text": "Viewing is **by appointment only** *(= only at a time that has been arranged in advance)*."
-        },
-        {
-          "text": "an appointment book"
-        },
-        {
-          "text": "an appointment with my agent/doctor/specialist/consultant",
-          "contextForm": "appointment with somebody"
-        },
-        {
-          "text": "an appointment for a blood test",
-          "contextForm": "appointment for something"
-        },
-        {
-          "text": "She **made an appointment** for her son to see the doctor.",
-          "contextForm": "appointment for somebody to do something"
-        },
-        {
-          "text": "He called without an appointment."
-        },
-        {
-          "text": "Tom has been given an appointment at the local hospital."
-        },
-        {
-          "text": "I assume he'll come at his usual 10 a.m. appointment time."
-        },
-        {
-          "text": "I didn't know if I would get an appointment at such short notice."
-        },
-        {
-          "text": "He failed to keep his appointment."
-        },
-        {
-          "text": "She has already broken three appointments."
-        },
-        {
-          "text": "Patients may be charged for missed appointments."
-        },
-        {
-          "text": "The hospital needs to allow more time for outpatient appointments."
-        }
-      ],
-      "topics": ["Healthcare", "Working life"],
-      "collocations": {
-        "adjective": ["important", "urgent", "first"],
-        "verb + appointment": ["have", "arrange", "book"],
-        "appointment + noun": ["book", "calendar", "time"],
-        "preposition": [
-          "by appointment",
-          "with an appointment",
-          "without an appointment"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the act of choosing a person for a job or position of responsibility; the fact of being chosen for a job, etc.",
-      "sensetop": "appointment to somethingappointment as something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "They **announced the appointments** of key security officials."
-        },
-        {
-          "text": "the appointment of a new captain for the England team"
-        },
-        {
-          "text": "her recent appointment to the post",
-          "contextForm": "appointment to something"
-        },
-        {
-          "text": "his appointment as principal",
-          "contextForm": "appointment as something"
-        },
-        {
-          "text": "appointments and dismissals"
-        },
-        {
-          "text": "The board has confirmed the appointment of Howard Kendall as Sales Manager."
-        },
-        {
-          "text": "The President secured the appointment of a close friend."
-        },
-        {
-          "text": "the first appointments to the new government"
-        }
-      ],
-      "topics": ["Working life"],
-      "collocations": {
-        "adjective": ["key", "formal", "official"],
-        "verb + appointment": ["make", "announce", "confirm"],
-        "appointment + noun": ["process"],
-        "preposition": ["appointment to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a job or position of responsibility",
-      "labels": "especially British English",
-      "examples": [
-        {
-          "text": "a permanent/first appointment"
-        },
-        {
-          "text": "The department wished her success in her new appointment as sales manager."
-        },
-        {
-          "text": "I would like to congratulate you on your appointment."
-        },
-        {
-          "text": "Employees may not hold any other appointments."
-        },
-        {
-          "text": "He takes up his appointment in January."
-        },
-        {
-          "text": "He was offered an appointment in the Education Department."
-        },
-        {
-          "text": "Miss Green resigned her appointment as our regional representative."
-        },
-        {
-          "text": "The college terminated the appointments of six professors."
-        },
-        {
-          "text": "He spent the first month of his new appointment going through the firm's financial records."
-        },
-        {
-          "text": "This is a permanent appointment, requiring commitment and hard work."
-        },
-        {
-          "text": "Those taking up senior government appointments are all vetted."
-        }
-      ],
-      "collocations": {
-        "adjective": ["permanent", "temporary", "lifetime"],
-        "verb + appointment": ["hold", "give somebody", "offer somebody"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a person chosen for a job or position of responsibility",
-      "examples": [
-        {
-          "text": "Government ministers and other political appointments are frequently replaced."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/əˈpɔɪntmənt/",
-        "audio": "ap/appointment/appointment__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/əˈpɔɪntmənt/",
-        "audio": "ap/appointment/appointment__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French apointement, from apointer, from a point ‘to a point’."
+	"term": "appointment",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a formal arrangement to meet or visit somebody at a particular time, especially for a reason connected with their work",
+			"sensetop": "appointment with somebodyappointment for somethingappointment for somebody to do something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I've got a **dental appointment** at 3 o'clock."
+				},
+				{
+					"text": "to book/make/keep an appointment"
+				},
+				{
+					"text": "Do you have an appointment?"
+				},
+				{
+					"text": "She has a doctor's appointment in twenty minutes."
+				},
+				{
+					"text": "Viewing is **by appointment only** *(= only at a time that has been arranged in advance)*."
+				},
+				{
+					"text": "an appointment book"
+				},
+				{
+					"text": "an appointment with my agent/doctor/specialist/consultant",
+					"contextForm": "appointment with somebody"
+				},
+				{
+					"text": "an appointment for a blood test",
+					"contextForm": "appointment for something"
+				},
+				{
+					"text": "She **made an appointment** for her son to see the doctor.",
+					"contextForm": "appointment for somebody to do something"
+				},
+				{
+					"text": "He called without an appointment."
+				},
+				{
+					"text": "Tom has been given an appointment at the local hospital."
+				},
+				{
+					"text": "I assume he'll come at his usual 10 a.m. appointment time."
+				},
+				{
+					"text": "I didn't know if I would get an appointment at such short notice."
+				},
+				{
+					"text": "He failed to keep his appointment."
+				},
+				{
+					"text": "She has already broken three appointments."
+				},
+				{
+					"text": "Patients may be charged for missed appointments."
+				},
+				{
+					"text": "The hospital needs to allow more time for outpatient appointments."
+				}
+			],
+			"topics": ["Healthcare", "Working life"],
+			"collocations": {
+				"adjective": ["important", "urgent", "first"],
+				"verb + appointment": ["have", "arrange", "book"],
+				"appointment + noun": ["book", "calendar", "time"],
+				"preposition": [
+					"by appointment",
+					"with an appointment",
+					"without an appointment"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the act of choosing a person for a job or position of responsibility; the fact of being chosen for a job, etc.",
+			"sensetop": "appointment to somethingappointment as something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "They **announced the appointments** of key security officials."
+				},
+				{
+					"text": "the appointment of a new captain for the England team"
+				},
+				{
+					"text": "her recent appointment to the post",
+					"contextForm": "appointment to something"
+				},
+				{
+					"text": "his appointment as principal",
+					"contextForm": "appointment as something"
+				},
+				{
+					"text": "appointments and dismissals"
+				},
+				{
+					"text": "The board has confirmed the appointment of Howard Kendall as Sales Manager."
+				},
+				{
+					"text": "The President secured the appointment of a close friend."
+				},
+				{
+					"text": "the first appointments to the new government"
+				}
+			],
+			"topics": ["Working life"],
+			"collocations": {
+				"adjective": ["key", "formal", "official"],
+				"verb + appointment": ["make", "announce", "confirm"],
+				"appointment + noun": ["process"],
+				"preposition": ["appointment to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a job or position of responsibility",
+			"labels": "especially British English",
+			"examples": [
+				{
+					"text": "a permanent/first appointment"
+				},
+				{
+					"text": "The department wished her success in her new appointment as sales manager."
+				},
+				{
+					"text": "I would like to congratulate you on your appointment."
+				},
+				{
+					"text": "Employees may not hold any other appointments."
+				},
+				{
+					"text": "He takes up his appointment in January."
+				},
+				{
+					"text": "He was offered an appointment in the Education Department."
+				},
+				{
+					"text": "Miss Green resigned her appointment as our regional representative."
+				},
+				{
+					"text": "The college terminated the appointments of six professors."
+				},
+				{
+					"text": "He spent the first month of his new appointment going through the firm's financial records."
+				},
+				{
+					"text": "This is a permanent appointment, requiring commitment and hard work."
+				},
+				{
+					"text": "Those taking up senior government appointments are all vetted."
+				}
+			],
+			"collocations": {
+				"adjective": ["permanent", "temporary", "lifetime"],
+				"verb + appointment": ["hold", "give somebody", "offer somebody"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a person chosen for a job or position of responsibility",
+			"examples": [
+				{
+					"text": "Government ministers and other political appointments are frequently replaced."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/əˈpɔɪntmənt/",
+				"audio": "ap/appointment/appointment__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/əˈpɔɪntmənt/",
+				"audio": "ap/appointment/appointment__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French apointement, from apointer, from a point ‘to a point’."
 }

@@ -1,75 +1,75 @@
 {
-  "term": "sauce",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a thick liquid that is eaten with food to add taste to it",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "tomato/cranberry/chilli sauce"
-        },
-        {
-          "text": "chicken in a white sauce"
-        },
-        {
-          "text": "ice cream with a hot fudge sauce"
-        },
-        {
-          "text": "pasta sauce *(= sauce that is served with pasta)*"
-        },
-        {
-          "text": "A honey-mustard dipping sauce helped add flavour to the crab cakes."
-        },
-        {
-          "text": "coconut tart served with hot chocolate sauce"
-        },
-        {
-          "text": "Pour the sauce over the pasta."
-        },
-        {
-          "text": "We had lamb with mint sauce."
-        }
-      ],
-      "topics": ["Food"],
-      "collocations": {
-        "adjective": ["thick", "thin", "buttery"],
-        "verb + sauce": ["make", "prepare", "reduce"],
-        "sauce + noun": ["boat", "bottle"],
-        "preposition": ["in sauce", "with sauce"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "talk or behaviour that is annoying or shows no respect",
-      "labels": "(British English, old-fashioned, informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "what one person is allowed to do, another person must be allowed to do in a similar situation",
-      "labels": "(old-fashioned, saying)",
-      "examples": [],
-      "topics": ["Permission and obligation"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/sɔːs/",
-        "audio": "so/sauce/source__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/sɔːs/",
-        "audio": "sa/sauce/sauce__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French, based on Latin salsus ‘salted’, past participle of salere ‘to salt’, from sal ‘salt’. Compare with salad."
+	"term": "sauce",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a thick liquid that is eaten with food to add taste to it",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "tomato/cranberry/chilli sauce"
+				},
+				{
+					"text": "chicken in a white sauce"
+				},
+				{
+					"text": "ice cream with a hot fudge sauce"
+				},
+				{
+					"text": "pasta sauce *(= sauce that is served with pasta)*"
+				},
+				{
+					"text": "A honey-mustard dipping sauce helped add flavour to the crab cakes."
+				},
+				{
+					"text": "coconut tart served with hot chocolate sauce"
+				},
+				{
+					"text": "Pour the sauce over the pasta."
+				},
+				{
+					"text": "We had lamb with mint sauce."
+				}
+			],
+			"topics": ["Food"],
+			"collocations": {
+				"adjective": ["thick", "thin", "buttery"],
+				"verb + sauce": ["make", "prepare", "reduce"],
+				"sauce + noun": ["boat", "bottle"],
+				"preposition": ["in sauce", "with sauce"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "talk or behaviour that is annoying or shows no respect",
+			"labels": "(British English, old-fashioned, informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "what one person is allowed to do, another person must be allowed to do in a similar situation",
+			"labels": "(old-fashioned, saying)",
+			"examples": [],
+			"topics": ["Permission and obligation"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/sɔːs/",
+				"audio": "so/sauce/source__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/sɔːs/",
+				"audio": "sa/sauce/sauce__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French, based on Latin salsus ‘salted’, past participle of salere ‘to salt’, from sal ‘salt’. Compare with salad."
 }

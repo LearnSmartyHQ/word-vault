@@ -1,89 +1,89 @@
 {
-  "term": "backing",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "help and support from somebody to do something; financial support for something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The police gave the proposals their full backing."
-        },
-        {
-          "text": "They have won financial backing from the EU."
-        },
-        {
-          "text": "The teachers have the full backing of the parents."
-        },
-        {
-          "text": "They brought the legal action with the backing of their MP."
-        },
-        {
-          "text": "They want backing for more research."
-        },
-        {
-          "text": "Who's going to provide the backing?"
-        },
-        {
-          "text": "The museum has always received limited financial backing from the local authority."
-        }
-      ],
-      "synonyms": "support",
-      "topics": ["Business", "Money"],
-      "collocations": {
-        "adjective": ["solid", "strong", "full"],
-        "verb + backing": ["have", "gain", "get"],
-        "backing + verb": ["come from somebody/​something"],
-        "preposition": [
-          "with the backing",
-          "without the backing",
-          "backing for"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "material attached to the back of something in order to protect it or make it stronger",
-      "examples": [
-        {
-          "text": "Remove the backing paper from the adhesive tape."
-        },
-        {
-          "text": "The fabric has a special backing for durability."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "music that goes with the main singer or tune",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "a **backing group/singer/track**"
-        },
-        {
-          "text": "Who did the **backing vocals** on that track?"
-        }
-      ],
-      "topics": ["Music"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈbækɪŋ/",
-        "audio": "ba/backing/backing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈbækɪŋ/",
-        "audio": "ba/backing/backing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "backing",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "help and support from somebody to do something; financial support for something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The police gave the proposals their full backing."
+				},
+				{
+					"text": "They have won financial backing from the EU."
+				},
+				{
+					"text": "The teachers have the full backing of the parents."
+				},
+				{
+					"text": "They brought the legal action with the backing of their MP."
+				},
+				{
+					"text": "They want backing for more research."
+				},
+				{
+					"text": "Who's going to provide the backing?"
+				},
+				{
+					"text": "The museum has always received limited financial backing from the local authority."
+				}
+			],
+			"synonyms": "support",
+			"topics": ["Business", "Money"],
+			"collocations": {
+				"adjective": ["solid", "strong", "full"],
+				"verb + backing": ["have", "gain", "get"],
+				"backing + verb": ["come from somebody/​something"],
+				"preposition": [
+					"with the backing",
+					"without the backing",
+					"backing for"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "material attached to the back of something in order to protect it or make it stronger",
+			"examples": [
+				{
+					"text": "Remove the backing paper from the adhesive tape."
+				},
+				{
+					"text": "The fabric has a special backing for durability."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "music that goes with the main singer or tune",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "a **backing group/singer/track**"
+				},
+				{
+					"text": "Who did the **backing vocals** on that track?"
+				}
+			],
+			"topics": ["Music"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈbækɪŋ/",
+				"audio": "ba/backing/backing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈbækɪŋ/",
+				"audio": "ba/backing/backing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

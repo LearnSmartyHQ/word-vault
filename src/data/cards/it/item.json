@@ -1,140 +1,140 @@
 {
-  "term": "item",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "one thing on a list of things to buy, do, talk about, etc.",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "What's the next item on the agenda?"
-        },
-        {
-          "text": "There are plenty of vegetarian items on the menu."
-        },
-        {
-          "text": "She still has five items on her to-do list."
-        },
-        {
-          "text": "Students had to select three topics from the **list of items**."
-        },
-        {
-          "text": "There is a maximum score of two points per test item."
-        }
-      ],
-      "collocations": {
-        "adjective": ["individual", "particular", "single"],
-        "preposition": ["item of", "item about", "item on"],
-        "phrases": ["item by item", "an item on the agenda, list, menu, etc."]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a single object or thing",
-      "sensetop": "item of something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Can I pay for each item separately?"
-        },
-        {
-          "text": "The price of many basic **food items** continues to rise."
-        },
-        {
-          "text": "**household items** such as brushes and bedclothes"
-        },
-        {
-          "text": "A windproof jacket is an essential **item of clothing** for hillwalking.",
-          "contextForm": "item of something"
-        },
-        {
-          "text": "Are there any items of furniture you want to take with you?"
-        },
-        {
-          "text": "The computer was my largest single item of expenditure."
-        },
-        {
-          "text": "This clock is a **collector's item** *(= because it is rare and valuable)*."
-        },
-        {
-          "text": "Each individual item has a number."
-        },
-        {
-          "text": "Several valuable items were stolen."
-        },
-        {
-          "text": "There is a higher tax on luxury items."
-        }
-      ],
-      "topics": ["Shopping"],
-      "collocations": {
-        "adjective": ["individual", "particular", "single"],
-        "preposition": ["item of", "item about", "item on"],
-        "phrases": ["item by item", "an item on the agenda, list, menu, etc."]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a single piece of news in a newspaper, on television, online, etc.",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The following **news item** may be of interest to you."
-        },
-        {
-          "text": "I heard an item on the radio about a new cancer treatment."
-        },
-        {
-          "text": "I came across two items of disturbing news."
-        },
-        {
-          "text": "The Journal is packed with **items of interest** from cover to cover."
-        },
-        {
-          "text": "The programme featured an item on clothes for young children."
-        },
-        {
-          "text": "a news item about wildfires in California"
-        }
-      ],
-      "topics": ["TV, radio and news"],
-      "collocations": {
-        "adjective": ["individual", "particular", "single"],
-        "preposition": ["item of", "item about", "item on"],
-        "phrases": ["item by item", "an item on the agenda, list, menu, etc."]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be involved in a romantic or sexual relationship",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Are they an item?"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈaɪtəm/",
-        "audio": "it/item/item__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈaɪtəm/",
-        "audio": "it/item/item__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (as an adverb): from Latin, ‘in like manner, also’. The noun sense arose (late 16th cent.) from the use of the adverb to introduce each statement in a list."
+	"term": "item",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "one thing on a list of things to buy, do, talk about, etc.",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "What's the next item on the agenda?"
+				},
+				{
+					"text": "There are plenty of vegetarian items on the menu."
+				},
+				{
+					"text": "She still has five items on her to-do list."
+				},
+				{
+					"text": "Students had to select three topics from the **list of items**."
+				},
+				{
+					"text": "There is a maximum score of two points per test item."
+				}
+			],
+			"collocations": {
+				"adjective": ["individual", "particular", "single"],
+				"preposition": ["item of", "item about", "item on"],
+				"phrases": ["item by item", "an item on the agenda, list, menu, etc."]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a single object or thing",
+			"sensetop": "item of something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Can I pay for each item separately?"
+				},
+				{
+					"text": "The price of many basic **food items** continues to rise."
+				},
+				{
+					"text": "**household items** such as brushes and bedclothes"
+				},
+				{
+					"text": "A windproof jacket is an essential **item of clothing** for hillwalking.",
+					"contextForm": "item of something"
+				},
+				{
+					"text": "Are there any items of furniture you want to take with you?"
+				},
+				{
+					"text": "The computer was my largest single item of expenditure."
+				},
+				{
+					"text": "This clock is a **collector's item** *(= because it is rare and valuable)*."
+				},
+				{
+					"text": "Each individual item has a number."
+				},
+				{
+					"text": "Several valuable items were stolen."
+				},
+				{
+					"text": "There is a higher tax on luxury items."
+				}
+			],
+			"topics": ["Shopping"],
+			"collocations": {
+				"adjective": ["individual", "particular", "single"],
+				"preposition": ["item of", "item about", "item on"],
+				"phrases": ["item by item", "an item on the agenda, list, menu, etc."]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a single piece of news in a newspaper, on television, online, etc.",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The following **news item** may be of interest to you."
+				},
+				{
+					"text": "I heard an item on the radio about a new cancer treatment."
+				},
+				{
+					"text": "I came across two items of disturbing news."
+				},
+				{
+					"text": "The Journal is packed with **items of interest** from cover to cover."
+				},
+				{
+					"text": "The programme featured an item on clothes for young children."
+				},
+				{
+					"text": "a news item about wildfires in California"
+				}
+			],
+			"topics": ["TV, radio and news"],
+			"collocations": {
+				"adjective": ["individual", "particular", "single"],
+				"preposition": ["item of", "item about", "item on"],
+				"phrases": ["item by item", "an item on the agenda, list, menu, etc."]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be involved in a romantic or sexual relationship",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Are they an item?"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈaɪtəm/",
+				"audio": "it/item/item__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈaɪtəm/",
+				"audio": "it/item/item__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (as an adverb): from Latin, ‘in like manner, also’. The noun sense arose (late 16th cent.) from the use of the adverb to introduce each statement in a list."
 }

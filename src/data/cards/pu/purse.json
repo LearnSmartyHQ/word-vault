@@ -1,122 +1,122 @@
 {
-  "term": "purse",
-  "partOfSpeech": "noun",
-  "image": "data/images/cl/clothes_bags.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a small bag made of leather, plastic, etc. for carrying coins and often also paper money, cards, etc., used especially by women",
-      "labels": "(especially British English)",
-      "cefr": "a2",
-      "examples": [
-        {
-          "text": "I took a coin out of my purse and gave it to the child."
-        }
-      ],
-      "topics": ["Clothes and Fashion", "Money"],
-      "collocations": {
-        "adjective": ["leather", "change"],
-        "verb + purse": ["open", "snatch", "steal"],
-        "preposition": ["in somebody’s purse"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a small bag for money, keys, etc., carried especially by women",
-      "labels": "(North American English)British and North American English",
-      "cefr": "a2",
-      "examples": [
-        {
-          "text": "She grabbed her purse and headed out the door."
-        },
-        {
-          "text": "I rummaged through my purse for my lip gloss."
-        },
-        {
-          "text": "She had her purse snatched."
-        },
-        {
-          "text": "She slung her black leather purse over her shoulder."
-        },
-        {
-          "text": "She wore pink heels with a matching clutch purse."
-        },
-        {
-          "text": "She fumbled in her purse for her glasses."
-        }
-      ],
-      "topics": ["Clothes and Fashion"],
-      "collocations": {
-        "adjective": ["bulging", "leather", "silk"],
-        "verb + purse": ["clutch", "hold", "carry"],
-        "purse + noun": ["snatcher"],
-        "preposition": ["in somebody’s purse"],
-        "phrases": [
-          "sling a purse over your shoulder",
-          "throw a purse over your shoulder"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the amount of money that is available to a person, an organization or a government to spend",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "We have holidays to suit every purse."
-        },
-        {
-          "text": "Should spending on the arts be met out of the **public purse** *(= from government money)*?"
-        },
-        {
-          "text": "The reforms had drained the public purse."
-        },
-        {
-          "text": "There is no money in the purse for this."
-        }
-      ],
-      "topics": ["Money"],
-      "collocations": {
-        "adjective": ["public"],
-        "verb + purse": ["drain"],
-        "purse + noun": ["strings"],
-        "preposition": ["in the purse"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a sum of money given as a prize in a boxing match",
-      "labels": "(sport)",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Sports: other sports"],
-      "collocations": {
-        "adjective": ["public"],
-        "verb + purse": ["drain"],
-        "purse + noun": ["strings"],
-        "preposition": ["in the purse"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "(you won't) succeed in making something good out of material that does not seem very good at all",
-      "examples": [],
-      "topics": ["Success"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/pɜːs/",
-        "audio": "pu/purse/purse__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/pɜːrs/",
-        "audio": "pu/purse/purse__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Old English, alteration of late Latin bursa ‘purse’, from Greek bursa ‘hide, leather’. The current verb sense (from the notion of drawing purse strings) dates from the early 17th cent."
+	"term": "purse",
+	"partOfSpeech": "noun",
+	"image": "data/images/cl/clothes_bags.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a small bag made of leather, plastic, etc. for carrying coins and often also paper money, cards, etc., used especially by women",
+			"labels": "(especially British English)",
+			"cefr": "a2",
+			"examples": [
+				{
+					"text": "I took a coin out of my purse and gave it to the child."
+				}
+			],
+			"topics": ["Clothes and Fashion", "Money"],
+			"collocations": {
+				"adjective": ["leather", "change"],
+				"verb + purse": ["open", "snatch", "steal"],
+				"preposition": ["in somebody’s purse"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a small bag for money, keys, etc., carried especially by women",
+			"labels": "(North American English)British and North American English",
+			"cefr": "a2",
+			"examples": [
+				{
+					"text": "She grabbed her purse and headed out the door."
+				},
+				{
+					"text": "I rummaged through my purse for my lip gloss."
+				},
+				{
+					"text": "She had her purse snatched."
+				},
+				{
+					"text": "She slung her black leather purse over her shoulder."
+				},
+				{
+					"text": "She wore pink heels with a matching clutch purse."
+				},
+				{
+					"text": "She fumbled in her purse for her glasses."
+				}
+			],
+			"topics": ["Clothes and Fashion"],
+			"collocations": {
+				"adjective": ["bulging", "leather", "silk"],
+				"verb + purse": ["clutch", "hold", "carry"],
+				"purse + noun": ["snatcher"],
+				"preposition": ["in somebody’s purse"],
+				"phrases": [
+					"sling a purse over your shoulder",
+					"throw a purse over your shoulder"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the amount of money that is available to a person, an organization or a government to spend",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "We have holidays to suit every purse."
+				},
+				{
+					"text": "Should spending on the arts be met out of the **public purse** *(= from government money)*?"
+				},
+				{
+					"text": "The reforms had drained the public purse."
+				},
+				{
+					"text": "There is no money in the purse for this."
+				}
+			],
+			"topics": ["Money"],
+			"collocations": {
+				"adjective": ["public"],
+				"verb + purse": ["drain"],
+				"purse + noun": ["strings"],
+				"preposition": ["in the purse"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a sum of money given as a prize in a boxing match",
+			"labels": "(sport)",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Sports: other sports"],
+			"collocations": {
+				"adjective": ["public"],
+				"verb + purse": ["drain"],
+				"purse + noun": ["strings"],
+				"preposition": ["in the purse"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "(you won't) succeed in making something good out of material that does not seem very good at all",
+			"examples": [],
+			"topics": ["Success"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/pɜːs/",
+				"audio": "pu/purse/purse__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/pɜːrs/",
+				"audio": "pu/purse/purse__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Old English, alteration of late Latin bursa ‘purse’, from Greek bursa ‘hide, leather’. The current verb sense (from the notion of drawing purse strings) dates from the early 17th cent."
 }

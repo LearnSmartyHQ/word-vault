@@ -1,123 +1,123 @@
 {
-  "term": "found",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "found",
-      "heSheIt": "founds"
-    },
-    "pastSimple": "founded",
-    "pastParticiple": "founded",
-    "ingForm": "founding"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to start something, such as an organization or an institution, especially by providing money",
-      "sensetop": "found something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to found a club/company/school"
-        },
-        {
-          "text": "Her family founded the college in 1895."
-        },
-        {
-          "text": "the **founding members** of the European Union"
-        },
-        {
-          "text": "He was a founding editor of the journal."
-        },
-        {
-          "text": "He founded a new religion."
-        },
-        {
-          "text": "She founded the company 20 years ago."
-        }
-      ],
-      "synonyms": "establish",
-      "topics": ["History"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to be the first to start building and living in a town or country",
-      "sensetop": "found something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The town was founded by English settlers in 1790."
-        },
-        {
-          "text": "French settlers founded New Orleans."
-        },
-        {
-          "text": "the founding generation of immigrants"
-        }
-      ],
-      "topics": ["History"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to base something on something",
-      "sensetop": "be founded on something",
-      "examples": [
-        {
-          "text": "Their marriage was founded on love and mutual respect.",
-          "contextForm": "be founded on something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to melt metal and pour it into a mould; to make objects using this process",
-      "sensetop": "found something",
-      "labels": "(specialist)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/faʊnd/",
-        "audio": "fo/found/found__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/faʊndz/",
-        "audio": "fo/found/founds__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈfaʊndɪd/",
-        "audio": "fo/found/founded__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈfaʊndɪŋ/",
-        "audio": "fo/found/founding__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/faʊnd/",
-        "audio": "fo/found/found__us_2.mp3"
-      },
-      {
-        "pronunciation": "/faʊndz/",
-        "audio": "fo/found/founds__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈfaʊndɪd/",
-        "audio": "fo/found/founded__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈfaʊndɪŋ/",
-        "audio": "fo/found/founding__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "senses 1 to 3 Middle English: from Old French fonder, from Latin fundare, from fundus ‘bottom, base’. sense 4 early 16th cent.: from French fondre, from Latin fundere ‘melt, pour’."
+	"term": "found",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "found",
+			"heSheIt": "founds"
+		},
+		"pastSimple": "founded",
+		"pastParticiple": "founded",
+		"ingForm": "founding"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to start something, such as an organization or an institution, especially by providing money",
+			"sensetop": "found something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to found a club/company/school"
+				},
+				{
+					"text": "Her family founded the college in 1895."
+				},
+				{
+					"text": "the **founding members** of the European Union"
+				},
+				{
+					"text": "He was a founding editor of the journal."
+				},
+				{
+					"text": "He founded a new religion."
+				},
+				{
+					"text": "She founded the company 20 years ago."
+				}
+			],
+			"synonyms": "establish",
+			"topics": ["History"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to be the first to start building and living in a town or country",
+			"sensetop": "found something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The town was founded by English settlers in 1790."
+				},
+				{
+					"text": "French settlers founded New Orleans."
+				},
+				{
+					"text": "the founding generation of immigrants"
+				}
+			],
+			"topics": ["History"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to base something on something",
+			"sensetop": "be founded on something",
+			"examples": [
+				{
+					"text": "Their marriage was founded on love and mutual respect.",
+					"contextForm": "be founded on something"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to melt metal and pour it into a mould; to make objects using this process",
+			"sensetop": "found something",
+			"labels": "(specialist)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/faʊnd/",
+				"audio": "fo/found/found__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/faʊndz/",
+				"audio": "fo/found/founds__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈfaʊndɪd/",
+				"audio": "fo/found/founded__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈfaʊndɪŋ/",
+				"audio": "fo/found/founding__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/faʊnd/",
+				"audio": "fo/found/found__us_2.mp3"
+			},
+			{
+				"pronunciation": "/faʊndz/",
+				"audio": "fo/found/founds__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈfaʊndɪd/",
+				"audio": "fo/found/founded__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈfaʊndɪŋ/",
+				"audio": "fo/found/founding__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "senses 1 to 3 Middle English: from Old French fonder, from Latin fundare, from fundus ‘bottom, base’. sense 4 early 16th cent.: from French fondre, from Latin fundere ‘melt, pour’."
 }

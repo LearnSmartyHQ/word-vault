@@ -1,94 +1,94 @@
 {
-  "term": "pop",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "popular music of the sort that has been popular since the 1950s, usually with a strong rhythm and simple tunes, often contrasted with rock, soul and other forms of popular music",
-      "labels": "(British English)(especially North American English)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "rock, pop and soul"
-        },
-        {
-          "text": "The album covers a range of genres—from mainstream pop to jazz."
-        }
-      ],
-      "topics": ["Music"],
-      "collocations": {
-        "adjective": ["classic", "indie", "mainstream"],
-        "verb + pop": ["play", "listen to"],
-        "pop + noun": ["classic", "hit", "music"],
-        "preposition": ["in pop"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a short, sharp, explosive sound",
-      "examples": [
-        {
-          "text": "The cork came out of the bottle with a loud pop."
-        }
-      ],
-      "collocations": {
-        "adjective": ["loud", "sudden"],
-        "preposition": ["with a pop"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a sweet fizzy drink (= with bubbles) that is not alcoholic",
-      "labels": "(old-fashioned, informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": 4,
-      "definition": "used as a word for ‘father’, especially as a form of address",
-      "labels": "(especially North American English, old-fashioned, informal)",
-      "examples": [
-        {
-          "text": "Hi, Pop!"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to attack somebody physically or in words",
-      "labels": "(British English, informal)",
-      "examples": [
-        {
-          "text": "Football managers are always taking a pop at referees."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "costing a particular amount for each one",
-      "labels": "(especially North American English, informal)",
-      "examples": [
-        {
-          "text": "We can charge $50 a pop."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/pɒp/",
-        "audio": "po/pop/pop__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/pɑːp/",
-        "audio": "po/pop/pop__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "noun sense 1 late 19th cent.: abbreviation of popular. noun sense 2 mid 19th cent.: abbreviation of poppa. noun senses 3 to 4 late Middle English (in the senses ‘a blow, knock’ and ‘to strike’): imitative."
+	"term": "pop",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "popular music of the sort that has been popular since the 1950s, usually with a strong rhythm and simple tunes, often contrasted with rock, soul and other forms of popular music",
+			"labels": "(British English)(especially North American English)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "rock, pop and soul"
+				},
+				{
+					"text": "The album covers a range of genres—from mainstream pop to jazz."
+				}
+			],
+			"topics": ["Music"],
+			"collocations": {
+				"adjective": ["classic", "indie", "mainstream"],
+				"verb + pop": ["play", "listen to"],
+				"pop + noun": ["classic", "hit", "music"],
+				"preposition": ["in pop"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a short, sharp, explosive sound",
+			"examples": [
+				{
+					"text": "The cork came out of the bottle with a loud pop."
+				}
+			],
+			"collocations": {
+				"adjective": ["loud", "sudden"],
+				"preposition": ["with a pop"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a sweet fizzy drink (= with bubbles) that is not alcoholic",
+			"labels": "(old-fashioned, informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": 4,
+			"definition": "used as a word for ‘father’, especially as a form of address",
+			"labels": "(especially North American English, old-fashioned, informal)",
+			"examples": [
+				{
+					"text": "Hi, Pop!"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to attack somebody physically or in words",
+			"labels": "(British English, informal)",
+			"examples": [
+				{
+					"text": "Football managers are always taking a pop at referees."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "costing a particular amount for each one",
+			"labels": "(especially North American English, informal)",
+			"examples": [
+				{
+					"text": "We can charge $50 a pop."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/pɒp/",
+				"audio": "po/pop/pop__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/pɑːp/",
+				"audio": "po/pop/pop__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "noun sense 1 late 19th cent.: abbreviation of popular. noun sense 2 mid 19th cent.: abbreviation of poppa. noun senses 3 to 4 late Middle English (in the senses ‘a blow, knock’ and ‘to strike’): imitative."
 }

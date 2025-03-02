@@ -1,190 +1,190 @@
 {
-  "term": "justice",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the fair treatment of people",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He pledged to **seek justice** for the victims of the tragedy."
-        },
-        {
-          "text": "Children often have a highly developed **sense of justice**."
-        },
-        {
-          "text": "laws based on the principles of **natural justice**"
-        },
-        {
-          "text": "They are demanding equal rights and justice."
-        },
-        {
-          "text": "Sometimes I feel that there's no justice in the world."
-        },
-        {
-          "text": "We will not get social order until we have economic justice."
-        }
-      ],
-      "topics": ["Social issues"],
-      "collocations": {
-        "adjective": ["distributive", "economic", "environmental"],
-        "verb + justice": ["ask for", "demand", "pursue"],
-        "phrases": ["a sense of justice"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the quality of being fair or reasonable",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Who can deny the justice of their cause?"
-        },
-        {
-          "text": "He demanded, not without justice, that he should be allowed to express his views."
-        }
-      ],
-      "collocations": {
-        "adjective": ["distributive", "economic", "environmental"],
-        "verb + justice": ["ask for", "demand", "pursue"],
-        "phrases": ["a sense of justice"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the legal system used to punish people who have committed crimes",
-      "labels": "(British English)(North American English)(especially North American English)(especially US English)(especially North American English)(British English)(North American English)",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "the **criminal justice** system"
-        },
-        {
-          "text": "The European Court of Justice"
-        },
-        {
-          "text": "the **administration/obstruction of justice**"
-        },
-        {
-          "text": "They were accused of attempting to **pervert the course of justice**."
-        },
-        {
-          "text": "They were accused of attempting to **obstruct justice**."
-        },
-        {
-          "text": "Civilians were not subject to summary justice."
-        },
-        {
-          "text": "So far the robbers have escaped justice."
-        },
-        {
-          "text": "the battle for Taylor to face justice before the High Court"
-        },
-        {
-          "text": "those who are ultimately responsible for dispensing justice"
-        },
-        {
-          "text": "Restorative justice can only work when all parties agree."
-        },
-        {
-          "text": "the deadliest episode of vigilante justice in American history"
-        },
-        {
-          "text": "Some people saw the epidemic as divine justice."
-        }
-      ],
-      "topics": ["Law and justice"],
-      "collocations": {
-        "adjective": ["civil", "criminal", "juvenile"],
-        "verb + justice": ["do", "administer", "deliver"],
-        "justice + noun": ["department", "system"],
-        "phrases": ["a miscarriage of justice", "pervert the course of justice"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a judge in a court (also used before the name of a judge)",
-      "labels": "(North American English)",
-      "examples": []
-    },
-    {
-      "senseNumber": 5,
-      "definition": "used before the name of a judge in a court of appeal",
-      "labels": "(British English, Canadian English)",
-      "examples": [
-        {
-          "text": "Mr Justice Davies"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to arrest somebody for a crime and put them on trial in court",
-      "examples": []
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to treat or represent somebody/something fairly, especially in a way that shows how good, attractive, etc. they are",
-      "examples": [
-        {
-          "text": "That photo doesn't do you justice."
-        },
-        {
-          "text": "He didn’t play as well as he can, but to do him justice, it was his first game since his injury."
-        },
-        {
-          "text": "The review did not do justice to her talents."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to deal with somebody/something correctly and completely",
-      "examples": [
-        {
-          "text": "You cannot do justice to such a complex situation in just a few pages."
-        },
-        {
-          "text": "I didn’t feel well and wasn’t able to do justice to the meal she had cooked *(= I could not eat all the food)*."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to do something as well as you can in order to show other people how good you are",
-      "examples": [
-        {
-          "text": "She didn't do herself justice in the exam."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to tell a lie or to do something in order to prevent the police, etc. from finding out the truth about a crime",
-      "labels": "(law)",
-      "examples": [],
-      "topics": ["Crime and punishment"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈdʒʌstɪs/",
-        "audio": "ju/justice/justice__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈdʒʌstɪs/",
-        "audio": "ju/justice/justice__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Old English iustise ‘administration of the law’, via Old French from Latin justitia, from justus, from jus ‘law, right’."
+	"term": "justice",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the fair treatment of people",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He pledged to **seek justice** for the victims of the tragedy."
+				},
+				{
+					"text": "Children often have a highly developed **sense of justice**."
+				},
+				{
+					"text": "laws based on the principles of **natural justice**"
+				},
+				{
+					"text": "They are demanding equal rights and justice."
+				},
+				{
+					"text": "Sometimes I feel that there's no justice in the world."
+				},
+				{
+					"text": "We will not get social order until we have economic justice."
+				}
+			],
+			"topics": ["Social issues"],
+			"collocations": {
+				"adjective": ["distributive", "economic", "environmental"],
+				"verb + justice": ["ask for", "demand", "pursue"],
+				"phrases": ["a sense of justice"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the quality of being fair or reasonable",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Who can deny the justice of their cause?"
+				},
+				{
+					"text": "He demanded, not without justice, that he should be allowed to express his views."
+				}
+			],
+			"collocations": {
+				"adjective": ["distributive", "economic", "environmental"],
+				"verb + justice": ["ask for", "demand", "pursue"],
+				"phrases": ["a sense of justice"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the legal system used to punish people who have committed crimes",
+			"labels": "(British English)(North American English)(especially North American English)(especially US English)(especially North American English)(British English)(North American English)",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "the **criminal justice** system"
+				},
+				{
+					"text": "The European Court of Justice"
+				},
+				{
+					"text": "the **administration/obstruction of justice**"
+				},
+				{
+					"text": "They were accused of attempting to **pervert the course of justice**."
+				},
+				{
+					"text": "They were accused of attempting to **obstruct justice**."
+				},
+				{
+					"text": "Civilians were not subject to summary justice."
+				},
+				{
+					"text": "So far the robbers have escaped justice."
+				},
+				{
+					"text": "the battle for Taylor to face justice before the High Court"
+				},
+				{
+					"text": "those who are ultimately responsible for dispensing justice"
+				},
+				{
+					"text": "Restorative justice can only work when all parties agree."
+				},
+				{
+					"text": "the deadliest episode of vigilante justice in American history"
+				},
+				{
+					"text": "Some people saw the epidemic as divine justice."
+				}
+			],
+			"topics": ["Law and justice"],
+			"collocations": {
+				"adjective": ["civil", "criminal", "juvenile"],
+				"verb + justice": ["do", "administer", "deliver"],
+				"justice + noun": ["department", "system"],
+				"phrases": ["a miscarriage of justice", "pervert the course of justice"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a judge in a court (also used before the name of a judge)",
+			"labels": "(North American English)",
+			"examples": []
+		},
+		{
+			"senseNumber": 5,
+			"definition": "used before the name of a judge in a court of appeal",
+			"labels": "(British English, Canadian English)",
+			"examples": [
+				{
+					"text": "Mr Justice Davies"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to arrest somebody for a crime and put them on trial in court",
+			"examples": []
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to treat or represent somebody/something fairly, especially in a way that shows how good, attractive, etc. they are",
+			"examples": [
+				{
+					"text": "That photo doesn't do you justice."
+				},
+				{
+					"text": "He didn’t play as well as he can, but to do him justice, it was his first game since his injury."
+				},
+				{
+					"text": "The review did not do justice to her talents."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to deal with somebody/something correctly and completely",
+			"examples": [
+				{
+					"text": "You cannot do justice to such a complex situation in just a few pages."
+				},
+				{
+					"text": "I didn’t feel well and wasn’t able to do justice to the meal she had cooked *(= I could not eat all the food)*."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to do something as well as you can in order to show other people how good you are",
+			"examples": [
+				{
+					"text": "She didn't do herself justice in the exam."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to tell a lie or to do something in order to prevent the police, etc. from finding out the truth about a crime",
+			"labels": "(law)",
+			"examples": [],
+			"topics": ["Crime and punishment"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈdʒʌstɪs/",
+				"audio": "ju/justice/justice__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈdʒʌstɪs/",
+				"audio": "ju/justice/justice__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Old English iustise ‘administration of the law’, via Old French from Latin justitia, from justus, from jus ‘law, right’."
 }

@@ -1,101 +1,101 @@
 {
-  "term": "legal",
-  "partOfSpeech": "adjective",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "connected with the law",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "the **legal profession/system**"
-        },
-        {
-          "text": "to take/seek **legal advice**"
-        },
-        {
-          "text": "a **legal adviser/expert/team**"
-        },
-        {
-          "text": "**legal fees/costs**"
-        },
-        {
-          "text": "They are currently facing a long **legal battle** in the US courts."
-        },
-        {
-          "text": "Campaigners have threatened to mount a **legal challenge** on human rights grounds."
-        },
-        {
-          "text": "She has already paid out thousands of pounds in legal fees."
-        },
-        {
-          "text": "He's planning to go into the legal profession."
-        },
-        {
-          "text": "We were advised to take legal advice."
-        },
-        {
-          "text": "Do you know a good legal adviser?"
-        }
-      ],
-      "topics": ["Law and justice"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "allowed or required by law",
-      "sensetop": "legal for somebodylegal to doit is legal (for somebody) to do something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**legal rights/obligations**"
-        },
-        {
-          "text": "The **legal status** of refugees was defined in the Refugee Convention of 1951."
-        },
-        {
-          "text": "The driver was more than three times over the **legal limit** *(= the amount of alcohol you are allowed to have in your body when you are driving)*."
-        },
-        {
-          "text": "Should euthanasia be made legal?"
-        },
-        {
-          "text": "substances such as alcohol and nicotine that are legal for adults",
-          "contextForm": "legal for somebody"
-        },
-        {
-          "text": "Many of these products are actually legal to use in the United States.",
-          "contextForm": "legal to do"
-        },
-        {
-          "text": "It is **perfectly legal** to charge extra for these services.",
-          "contextForm": "it is legal (for somebody) to do something"
-        }
-      ],
-      "topics": ["Permission and obligation", "Law and justice"],
-      "collocations": {
-        "verbs": ["be", "become", "make something"],
-        "adverb": ["completely", "perfectly"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈliːɡl/",
-        "audio": "le/legal/legal__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈliːɡl/",
-        "audio": "le/legal/legal__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘to do with Mosaic law’): from French, or from Latin legalis, from lex, leg- ‘law’. Compare with loyal."
+	"term": "legal",
+	"partOfSpeech": "adjective",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "connected with the law",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "the **legal profession/system**"
+				},
+				{
+					"text": "to take/seek **legal advice**"
+				},
+				{
+					"text": "a **legal adviser/expert/team**"
+				},
+				{
+					"text": "**legal fees/costs**"
+				},
+				{
+					"text": "They are currently facing a long **legal battle** in the US courts."
+				},
+				{
+					"text": "Campaigners have threatened to mount a **legal challenge** on human rights grounds."
+				},
+				{
+					"text": "She has already paid out thousands of pounds in legal fees."
+				},
+				{
+					"text": "He's planning to go into the legal profession."
+				},
+				{
+					"text": "We were advised to take legal advice."
+				},
+				{
+					"text": "Do you know a good legal adviser?"
+				}
+			],
+			"topics": ["Law and justice"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "allowed or required by law",
+			"sensetop": "legal for somebodylegal to doit is legal (for somebody) to do something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**legal rights/obligations**"
+				},
+				{
+					"text": "The **legal status** of refugees was defined in the Refugee Convention of 1951."
+				},
+				{
+					"text": "The driver was more than three times over the **legal limit** *(= the amount of alcohol you are allowed to have in your body when you are driving)*."
+				},
+				{
+					"text": "Should euthanasia be made legal?"
+				},
+				{
+					"text": "substances such as alcohol and nicotine that are legal for adults",
+					"contextForm": "legal for somebody"
+				},
+				{
+					"text": "Many of these products are actually legal to use in the United States.",
+					"contextForm": "legal to do"
+				},
+				{
+					"text": "It is **perfectly legal** to charge extra for these services.",
+					"contextForm": "it is legal (for somebody) to do something"
+				}
+			],
+			"topics": ["Permission and obligation", "Law and justice"],
+			"collocations": {
+				"verbs": ["be", "become", "make something"],
+				"adverb": ["completely", "perfectly"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈliːɡl/",
+				"audio": "le/legal/legal__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈliːɡl/",
+				"audio": "le/legal/legal__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘to do with Mosaic law’): from French, or from Latin legalis, from lex, leg- ‘law’. Compare with loyal."
 }

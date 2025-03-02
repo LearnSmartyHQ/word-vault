@@ -1,76 +1,76 @@
 {
-  "term": "radar",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a system that uses radio waves to find the position and movement of objects, for example planes and ships, when they cannot be seen",
-      "examples": [
-        {
-          "text": "They located the ship by radar."
-        },
-        {
-          "text": "a radar screen"
-        },
-        {
-          "text": "The aircraft suddenly went off the radar."
-        },
-        {
-          "text": "The submarine is impossible to detect on radar."
-        },
-        {
-          "text": "navigation by radar"
-        }
-      ],
-      "topics": ["Transport by water", "Transport by air"],
-      "collocations": {
-        "adjective": ["enemy", "police", "airborne"],
-        "verb + radar": ["be equipped with"],
-        "radar + noun": ["operator", "station", "system"],
-        "preposition": ["by radar", "on radar"],
-        "phrases": ["off the radar", "on the radar"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that people are not aware of something",
-      "examples": [
-        {
-          "text": "Experts say a lot of corporate crime stays under the radar."
-        },
-        {
-          "text": "The conflict has slipped below the radar of the media."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that people’s attention is on or not on something",
-      "examples": [
-        {
-          "text": "The issue of terrorism is back on the radar screen."
-        },
-        {
-          "text": "Since the scandal broke, all other issues seem to have **disappeared off the radar screen** as far as the media is concerned."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈreɪdɑː(r)/",
-        "audio": "ra/radar/radar__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈreɪdɑːr/",
-        "audio": "ra/radar/radar__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "1940s: from ra(dio) d(etection) a(nd) r(anging)."
+	"term": "radar",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a system that uses radio waves to find the position and movement of objects, for example planes and ships, when they cannot be seen",
+			"examples": [
+				{
+					"text": "They located the ship by radar."
+				},
+				{
+					"text": "a radar screen"
+				},
+				{
+					"text": "The aircraft suddenly went off the radar."
+				},
+				{
+					"text": "The submarine is impossible to detect on radar."
+				},
+				{
+					"text": "navigation by radar"
+				}
+			],
+			"topics": ["Transport by water", "Transport by air"],
+			"collocations": {
+				"adjective": ["enemy", "police", "airborne"],
+				"verb + radar": ["be equipped with"],
+				"radar + noun": ["operator", "station", "system"],
+				"preposition": ["by radar", "on radar"],
+				"phrases": ["off the radar", "on the radar"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that people are not aware of something",
+			"examples": [
+				{
+					"text": "Experts say a lot of corporate crime stays under the radar."
+				},
+				{
+					"text": "The conflict has slipped below the radar of the media."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that people’s attention is on or not on something",
+			"examples": [
+				{
+					"text": "The issue of terrorism is back on the radar screen."
+				},
+				{
+					"text": "Since the scandal broke, all other issues seem to have **disappeared off the radar screen** as far as the media is concerned."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈreɪdɑː(r)/",
+				"audio": "ra/radar/radar__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈreɪdɑːr/",
+				"audio": "ra/radar/radar__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "1940s: from ra(dio) d(etection) a(nd) r(anging)."
 }

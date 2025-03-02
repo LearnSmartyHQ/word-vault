@@ -1,101 +1,101 @@
 {
-  "term": "portrait",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a painting, drawing or photograph of a person, especially of the head and shoulders",
-      "sensetop": "portrait of somebody",
-      "labels": "(US English)(US English)(US English)(especially British English)(North American English usually)(British English)(North American English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a portrait of his wife",
-          "contextForm": "portrait of somebody"
-        },
-        {
-          "text": "a full-length portrait"
-        },
-        {
-          "text": "He had his portrait painted in uniform."
-        },
-        {
-          "text": "a portrait painter"
-        },
-        {
-          "text": "a portrait of the Queen by Annigoni"
-        },
-        {
-          "text": "Vermeer's ‘Portrait of the artist in his studio’"
-        }
-      ],
-      "topics": ["Art"],
-      "collocations": {
-        "adjective": ["full-length", "half-length", "oil"],
-        "verb + portrait": ["do", "draw", "paint"],
-        "portrait + verb": ["hang"],
-        "portrait + noun": ["gallery", "artist", "painter"],
-        "preposition": ["portrait by", "portrait of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a detailed description of somebody/something",
-      "sensetop": "portrait of somebody/something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a portrait of life at the French court",
-          "contextForm": "portrait of somebody/something"
-        },
-        {
-          "text": "The film paints a portrait of a man consumed with jealousy."
-        },
-        {
-          "text": "The book drew a stark portrait of Quebec's urban poor."
-        },
-        {
-          "text": "The novel provides a vivid portrait of the Holberg family."
-        },
-        {
-          "text": "Her first film was a stunning portrait of life in the sugar plantations of her native Martinique."
-        }
-      ],
-      "synonyms": "depiction",
-      "collocations": {
-        "adjective": ["intimate", "vivid", "pen"],
-        "verb + portrait": ["create", "draw", "offer"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the way of printing a document in which the top of the page is one of the shorter sides",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "You can print landscape and portrait pages in the same document."
-        }
-      ],
-      "topics": ["Computers"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈpɔːtreɪt//ˈpɔːtrət/",
-        "audio": "po/portrait/portrait__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈpɔːrtrət/",
-        "audio": "po/portrait/portrait__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent.: from French, past participle (used as a noun) of Old French portraire ‘portray’."
+	"term": "portrait",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a painting, drawing or photograph of a person, especially of the head and shoulders",
+			"sensetop": "portrait of somebody",
+			"labels": "(US English)(US English)(US English)(especially British English)(North American English usually)(British English)(North American English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a portrait of his wife",
+					"contextForm": "portrait of somebody"
+				},
+				{
+					"text": "a full-length portrait"
+				},
+				{
+					"text": "He had his portrait painted in uniform."
+				},
+				{
+					"text": "a portrait painter"
+				},
+				{
+					"text": "a portrait of the Queen by Annigoni"
+				},
+				{
+					"text": "Vermeer's ‘Portrait of the artist in his studio’"
+				}
+			],
+			"topics": ["Art"],
+			"collocations": {
+				"adjective": ["full-length", "half-length", "oil"],
+				"verb + portrait": ["do", "draw", "paint"],
+				"portrait + verb": ["hang"],
+				"portrait + noun": ["gallery", "artist", "painter"],
+				"preposition": ["portrait by", "portrait of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a detailed description of somebody/something",
+			"sensetop": "portrait of somebody/something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a portrait of life at the French court",
+					"contextForm": "portrait of somebody/something"
+				},
+				{
+					"text": "The film paints a portrait of a man consumed with jealousy."
+				},
+				{
+					"text": "The book drew a stark portrait of Quebec's urban poor."
+				},
+				{
+					"text": "The novel provides a vivid portrait of the Holberg family."
+				},
+				{
+					"text": "Her first film was a stunning portrait of life in the sugar plantations of her native Martinique."
+				}
+			],
+			"synonyms": "depiction",
+			"collocations": {
+				"adjective": ["intimate", "vivid", "pen"],
+				"verb + portrait": ["create", "draw", "offer"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the way of printing a document in which the top of the page is one of the shorter sides",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "You can print landscape and portrait pages in the same document."
+				}
+			],
+			"topics": ["Computers"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈpɔːtreɪt//ˈpɔːtrət/",
+				"audio": "po/portrait/portrait__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈpɔːrtrət/",
+				"audio": "po/portrait/portrait__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent.: from French, past participle (used as a noun) of Old French portraire ‘portray’."
 }

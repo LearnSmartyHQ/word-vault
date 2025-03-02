@@ -1,244 +1,244 @@
 {
-  "term": "struggle",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "struggle",
-      "heSheIt": "struggles"
-    },
-    "pastSimple": "struggled",
-    "pastParticiple": "struggled",
-    "ingForm": "struggling"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to try very hard to do something when it is difficult or when there are a lot of problems",
-      "sensetop": "struggle for somethingstruggle to do something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "life as a struggling artist *(= one who is very poor)*"
-        },
-        {
-          "text": "Shona **struggled for breath**.",
-          "contextForm": "struggle for something"
-        },
-        {
-          "text": "a country struggling for independence"
-        },
-        {
-          "text": "The firm is **struggling to cope **with the demand for its products.",
-          "contextForm": "struggle to do something"
-        },
-        {
-          "text": "Local workers were still **struggling to find **employment."
-        },
-        {
-          "text": "Most social enterprises **struggle to survive**."
-        },
-        {
-          "text": "We're already **struggling to keep up with** demand."
-        },
-        {
-          "text": "They struggled just to pay their bills."
-        },
-        {
-          "text": "She struggled for 10 years to achieve success as an actress."
-        },
-        {
-          "text": "I was unemployed and **struggling financially**."
-        },
-        {
-          "text": "The housing market continues to struggle."
-        },
-        {
-          "text": "For years, she struggled to make ends meet."
-        },
-        {
-          "text": "He was really struggling in geometry."
-        },
-        {
-          "text": "I'm really struggling with this essay."
-        },
-        {
-          "text": "The family struggled through the next few years."
-        },
-        {
-          "text": "The team struggled badly last season."
-        },
-        {
-          "text": "They had struggled valiantly to keep the railway operating."
-        },
-        {
-          "text": "He struggled desperately to get to the shore."
-        },
-        {
-          "text": "He struggled hard to keep the boat upright."
-        }
-      ],
-      "topics": ["Difficulty and failure"],
-      "collocations": {
-        "adverb": ["desperately", "hard", "manfully"],
-        "verb + struggle": ["have to"],
-        "preposition": ["against", "along", "down"],
-        "phrases": ["struggle to your feet"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to move somewhere or do something with difficulty",
-      "sensetop": "+ adv./prep.",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I struggled up the hill with the heavy bags."
-        },
-        {
-          "text": "Paul struggled out of his wheelchair."
-        },
-        {
-          "text": "She had to struggle into the tight dress."
-        },
-        {
-          "text": "She struggled to her feet and set off after him."
-        },
-        {
-          "text": "The small boat struggled against the waves."
-        }
-      ],
-      "topics": ["Difficulty and failure"],
-      "collocations": {
-        "adverb": ["badly", "really", "clearly"],
-        "preposition": ["through", "with"],
-        "phrases": ["struggle to make ends meet"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to fight against somebody/something in order to prevent a bad situation or result",
-      "sensetop": "struggle against somebody/somethingstruggle with somebody/something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Chloe **continued to struggle**, but her eyes began to close."
-        },
-        {
-          "text": "He struggled against cancer for two years.",
-          "contextForm": "struggle against somebody/something"
-        },
-        {
-          "text": "We should all struggle against injustice."
-        },
-        {
-          "text": "I have been **struggling with injury **for a couple of years.",
-          "contextForm": "struggle with somebody/something"
-        },
-        {
-          "text": "I am **struggling with** the same **issues **that other people are."
-        },
-        {
-          "text": "Lisa struggled with her conscience before talking to the police."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to fight somebody or try to get away from them",
-      "sensetop": "struggle with somebody+ adj.",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I struggled and screamed for help."
-        },
-        {
-          "text": "James was hit in the mouth as he struggled with the raiders.",
-          "contextForm": "struggle with somebody"
-        },
-        {
-          "text": "How did she manage to **struggle free**?",
-          "contextForm": "+ adj."
-        },
-        {
-          "text": "She struggled furiously but could not get away."
-        },
-        {
-          "text": "She struggled against her attacker."
-        }
-      ],
-      "collocations": {
-        "adverb": ["fiercely", "furiously", "violently"],
-        "preposition": ["against", "with"],
-        "phrases": ["struggle free"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to compete or argue with somebody/something, especially in order to get something",
-      "sensetop": "struggle for somethingstruggle with somebody/something (for something)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "rival leaders struggling for power",
-          "contextForm": "struggle for something"
-        },
-        {
-          "text": "countries struggling with each other for economic and military advantage",
-          "contextForm": "struggle with somebody/something (for something)"
-        },
-        {
-          "text": "The two men struggled for control of the party."
-        },
-        {
-          "text": "The firms are struggling for market share."
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈstrʌɡl/",
-        "audio": "st/struggle/struggle__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈstrʌɡlz/",
-        "audio": "st/struggle/struggles__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈstrʌɡld/",
-        "audio": "st/struggle/struggled__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈstrʌɡlɪŋ/",
-        "audio": "st/struggle/struggling__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈstrʌɡl/",
-        "audio": "st/struggle/struggle__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈstrʌɡlz/",
-        "audio": "st/struggle/struggles__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈstrʌɡld/",
-        "audio": "st/struggle/struggled__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈstrʌɡlɪŋ/",
-        "audio": "st/struggle/struggling__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: frequentative, perhaps of imitative origin. The noun dates from the late 17th cent."
+	"term": "struggle",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "struggle",
+			"heSheIt": "struggles"
+		},
+		"pastSimple": "struggled",
+		"pastParticiple": "struggled",
+		"ingForm": "struggling"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to try very hard to do something when it is difficult or when there are a lot of problems",
+			"sensetop": "struggle for somethingstruggle to do something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "life as a struggling artist *(= one who is very poor)*"
+				},
+				{
+					"text": "Shona **struggled for breath**.",
+					"contextForm": "struggle for something"
+				},
+				{
+					"text": "a country struggling for independence"
+				},
+				{
+					"text": "The firm is **struggling to cope **with the demand for its products.",
+					"contextForm": "struggle to do something"
+				},
+				{
+					"text": "Local workers were still **struggling to find **employment."
+				},
+				{
+					"text": "Most social enterprises **struggle to survive**."
+				},
+				{
+					"text": "We're already **struggling to keep up with** demand."
+				},
+				{
+					"text": "They struggled just to pay their bills."
+				},
+				{
+					"text": "She struggled for 10 years to achieve success as an actress."
+				},
+				{
+					"text": "I was unemployed and **struggling financially**."
+				},
+				{
+					"text": "The housing market continues to struggle."
+				},
+				{
+					"text": "For years, she struggled to make ends meet."
+				},
+				{
+					"text": "He was really struggling in geometry."
+				},
+				{
+					"text": "I'm really struggling with this essay."
+				},
+				{
+					"text": "The family struggled through the next few years."
+				},
+				{
+					"text": "The team struggled badly last season."
+				},
+				{
+					"text": "They had struggled valiantly to keep the railway operating."
+				},
+				{
+					"text": "He struggled desperately to get to the shore."
+				},
+				{
+					"text": "He struggled hard to keep the boat upright."
+				}
+			],
+			"topics": ["Difficulty and failure"],
+			"collocations": {
+				"adverb": ["desperately", "hard", "manfully"],
+				"verb + struggle": ["have to"],
+				"preposition": ["against", "along", "down"],
+				"phrases": ["struggle to your feet"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to move somewhere or do something with difficulty",
+			"sensetop": "+ adv./prep.",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I struggled up the hill with the heavy bags."
+				},
+				{
+					"text": "Paul struggled out of his wheelchair."
+				},
+				{
+					"text": "She had to struggle into the tight dress."
+				},
+				{
+					"text": "She struggled to her feet and set off after him."
+				},
+				{
+					"text": "The small boat struggled against the waves."
+				}
+			],
+			"topics": ["Difficulty and failure"],
+			"collocations": {
+				"adverb": ["badly", "really", "clearly"],
+				"preposition": ["through", "with"],
+				"phrases": ["struggle to make ends meet"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to fight against somebody/something in order to prevent a bad situation or result",
+			"sensetop": "struggle against somebody/somethingstruggle with somebody/something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Chloe **continued to struggle**, but her eyes began to close."
+				},
+				{
+					"text": "He struggled against cancer for two years.",
+					"contextForm": "struggle against somebody/something"
+				},
+				{
+					"text": "We should all struggle against injustice."
+				},
+				{
+					"text": "I have been **struggling with injury **for a couple of years.",
+					"contextForm": "struggle with somebody/something"
+				},
+				{
+					"text": "I am **struggling with** the same **issues **that other people are."
+				},
+				{
+					"text": "Lisa struggled with her conscience before talking to the police."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to fight somebody or try to get away from them",
+			"sensetop": "struggle with somebody+ adj.",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I struggled and screamed for help."
+				},
+				{
+					"text": "James was hit in the mouth as he struggled with the raiders.",
+					"contextForm": "struggle with somebody"
+				},
+				{
+					"text": "How did she manage to **struggle free**?",
+					"contextForm": "+ adj."
+				},
+				{
+					"text": "She struggled furiously but could not get away."
+				},
+				{
+					"text": "She struggled against her attacker."
+				}
+			],
+			"collocations": {
+				"adverb": ["fiercely", "furiously", "violently"],
+				"preposition": ["against", "with"],
+				"phrases": ["struggle free"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to compete or argue with somebody/something, especially in order to get something",
+			"sensetop": "struggle for somethingstruggle with somebody/something (for something)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "rival leaders struggling for power",
+					"contextForm": "struggle for something"
+				},
+				{
+					"text": "countries struggling with each other for economic and military advantage",
+					"contextForm": "struggle with somebody/something (for something)"
+				},
+				{
+					"text": "The two men struggled for control of the party."
+				},
+				{
+					"text": "The firms are struggling for market share."
+				}
+			],
+			"topics": ["Opinion and argument"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈstrʌɡl/",
+				"audio": "st/struggle/struggle__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈstrʌɡlz/",
+				"audio": "st/struggle/struggles__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈstrʌɡld/",
+				"audio": "st/struggle/struggled__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈstrʌɡlɪŋ/",
+				"audio": "st/struggle/struggling__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈstrʌɡl/",
+				"audio": "st/struggle/struggle__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈstrʌɡlz/",
+				"audio": "st/struggle/struggles__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈstrʌɡld/",
+				"audio": "st/struggle/struggled__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈstrʌɡlɪŋ/",
+				"audio": "st/struggle/struggling__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: frequentative, perhaps of imitative origin. The noun dates from the late 17th cent."
 }

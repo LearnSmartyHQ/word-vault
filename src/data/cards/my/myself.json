@@ -1,87 +1,87 @@
 {
-  "term": "myself",
-  "partOfSpeech": "pronoun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "used when the speaker or writer is also the person affected by an action",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I cut myself on a knife."
-        },
-        {
-          "text": "I wrote a message to myself."
-        },
-        {
-          "text": "I found myself unable to speak."
-        },
-        {
-          "text": "I haven't been feeling myself recently *(= I have not felt well)*."
-        },
-        {
-          "text": "I needed space to be myself *(= not influenced by other people)*."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "used to emphasize the fact that the speaker is doing something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I'll speak to her myself."
-        },
-        {
-          "text": "I myself do not agree."
-        }
-      ]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "alone; without anyone else",
-      "examples": [
-        {
-          "text": "I live by myself."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "without help",
-      "examples": [
-        {
-          "text": "I painted the room all by myself."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "for the speaker or writer alone to have or use; not shared",
-      "examples": [
-        {
-          "text": "I had a whole pizza to myself."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/maɪˈself/",
-        "audio": "my/myself/myself__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/maɪˈself/",
-        "audio": "my/myself/myself__us_3.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English me self, from the pronoun me + the adjective self; the change of me to my occurred in Middle English."
+	"term": "myself",
+	"partOfSpeech": "pronoun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "used when the speaker or writer is also the person affected by an action",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I cut myself on a knife."
+				},
+				{
+					"text": "I wrote a message to myself."
+				},
+				{
+					"text": "I found myself unable to speak."
+				},
+				{
+					"text": "I haven't been feeling myself recently *(= I have not felt well)*."
+				},
+				{
+					"text": "I needed space to be myself *(= not influenced by other people)*."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "used to emphasize the fact that the speaker is doing something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I'll speak to her myself."
+				},
+				{
+					"text": "I myself do not agree."
+				}
+			]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "alone; without anyone else",
+			"examples": [
+				{
+					"text": "I live by myself."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "without help",
+			"examples": [
+				{
+					"text": "I painted the room all by myself."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "for the speaker or writer alone to have or use; not shared",
+			"examples": [
+				{
+					"text": "I had a whole pizza to myself."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/maɪˈself/",
+				"audio": "my/myself/myself__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/maɪˈself/",
+				"audio": "my/myself/myself__us_3.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English me self, from the pronoun me + the adjective self; the change of me to my occurred in Middle English."
 }

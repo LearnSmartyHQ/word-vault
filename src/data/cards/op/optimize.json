@@ -1,74 +1,74 @@
 {
-  "term": "optimize",
-  "partOfSpeech": "verb",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "optimize",
-      "heSheIt": "optimizes"
-    },
-    "pastSimple": "optimized",
-    "pastParticiple": "optimized",
-    "ingForm": "optimizing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to make something as good as it can be; to use something in the best possible way",
-      "sensetop": "optimize something",
-      "examples": [
-        {
-          "text": "to optimize the use of resources"
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to change data, software, etc. in order to make it work more efficiently or to make it suitable for a particular purpose",
-      "labels": "(computing)",
-      "examples": [
-        {
-          "text": "It is important that websites are optimized for mobile devices."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈɒptɪmaɪz/",
-        "audio": "op/optimize/optimize__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɒptɪmaɪzɪz/",
-        "audio": "op/optimize/optimizes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɒptɪmaɪzd/",
-        "audio": "op/optimize/optimized__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɒptɪmaɪzɪŋ/",
-        "audio": "op/optimize/optimizing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈɑːptɪmaɪz/",
-        "audio": "op/optimize/optimize__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɑːptɪmaɪzɪz/",
-        "audio": "op/optimize/optimizes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɑːptɪmaɪzd/",
-        "audio": "op/optimize/optimized__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɑːptɪmaɪzɪŋ/",
-        "audio": "op/optimize/optimizing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 19th cent.: from Latin optimus ‘best’ + -ize."
+	"term": "optimize",
+	"partOfSpeech": "verb",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "optimize",
+			"heSheIt": "optimizes"
+		},
+		"pastSimple": "optimized",
+		"pastParticiple": "optimized",
+		"ingForm": "optimizing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to make something as good as it can be; to use something in the best possible way",
+			"sensetop": "optimize something",
+			"examples": [
+				{
+					"text": "to optimize the use of resources"
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to change data, software, etc. in order to make it work more efficiently or to make it suitable for a particular purpose",
+			"labels": "(computing)",
+			"examples": [
+				{
+					"text": "It is important that websites are optimized for mobile devices."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈɒptɪmaɪz/",
+				"audio": "op/optimize/optimize__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɒptɪmaɪzɪz/",
+				"audio": "op/optimize/optimizes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɒptɪmaɪzd/",
+				"audio": "op/optimize/optimized__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɒptɪmaɪzɪŋ/",
+				"audio": "op/optimize/optimizing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈɑːptɪmaɪz/",
+				"audio": "op/optimize/optimize__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɑːptɪmaɪzɪz/",
+				"audio": "op/optimize/optimizes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɑːptɪmaɪzd/",
+				"audio": "op/optimize/optimized__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɑːptɪmaɪzɪŋ/",
+				"audio": "op/optimize/optimizing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 19th cent.: from Latin optimus ‘best’ + -ize."
 }

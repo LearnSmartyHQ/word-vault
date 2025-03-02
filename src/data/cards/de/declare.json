@@ -1,227 +1,227 @@
 {
-  "term": "declare",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "declare",
-      "heSheIt": "declares"
-    },
-    "pastSimple": "declared",
-    "pastParticiple": "declared",
-    "ingForm": "declaring"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to say something officially or publicly",
-      "sensetop": "declare somethingdeclare that…declare something/somebody + noundeclare something to be somethingdeclare something as somethingdeclare something/somebody + adj.",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The government has **declared a state of emergency**.",
-          "contextForm": "declare something"
-        },
-        {
-          "text": "Germany **declared war on** France on 1 August 1914."
-        },
-        {
-          "text": "The government has **declared war on** *(= officially stated its intention to stop)* illiteracy."
-        },
-        {
-          "text": "He will probably have to **declare bankruptcy**."
-        },
-        {
-          "text": "Neither side was able to **declare victory**."
-        },
-        {
-          "text": "She **declared her intention** of running for the presidency."
-        },
-        {
-          "text": "to declare your interest/candidacy"
-        },
-        {
-          "text": "The court declared that strike action was illegal.",
-          "contextForm": "declare that…"
-        },
-        {
-          "text": "In the end, they were **declared winners** of the tournament.",
-          "contextForm": "declare something/somebody + noun"
-        },
-        {
-          "text": "The area has been declared a national park."
-        },
-        {
-          "text": "The painting was declared to be a forgery.",
-          "contextForm": "declare something to be something"
-        },
-        {
-          "text": "Excess weight has been declared as one of the top ten health risks in the world.",
-          "contextForm": "declare something as something"
-        },
-        {
-          "text": "I declare this bridge open.",
-          "contextForm": "declare something/somebody + adj."
-        },
-        {
-          "text": "A doctor had declared him unfit to travel."
-        },
-        {
-          "text": "Kenya was **officially declared** independent on December 12, 1963."
-        },
-        {
-          "text": "The contract was declared void."
-        },
-        {
-          "text": "Martial law was immediately declared."
-        },
-        {
-          "text": "The communists had unilaterally declared a ceasefire."
-        },
-        {
-          "text": "We, the people of Indonesia, hereby declare Indonesia's independence."
-        },
-        {
-          "text": "The day was declared a public holiday."
-        }
-      ],
-      "collocations": {
-        "adverb": ["virtually", "immediately", "promptly"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to state something clearly and definitely",
-      "sensetop": "+ speechdeclare that…declare somethingdeclare yourself + adj./noun",
-      "examples": [
-        {
-          "text": "‘I'll do it!’ Tom declared.",
-          "contextForm": "+ speech"
-        },
-        {
-          "text": "He declared that he was in love with her.",
-          "contextForm": "declare that…"
-        },
-        {
-          "text": "Few people dared to declare their opposition to the regime.",
-          "contextForm": "declare something"
-        },
-        {
-          "text": "She declared herself extremely hurt by his lack of support.",
-          "contextForm": "declare yourself + adj./noun"
-        },
-        {
-          "text": "‘I'm going to win!’ he declared confidently."
-        },
-        {
-          "text": "‘You're here,’ she declared simply."
-        },
-        {
-          "text": "Stravinsky famously declared that music expressed nothing."
-        },
-        {
-          "text": "She proudly declared that she had once been introduced to the Queen."
-        },
-        {
-          "text": "He declared his true feelings to her."
-        }
-      ],
-      "collocations": {
-        "adverb": ["virtually", "immediately", "promptly"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to say clearly and openly who you are or what you intend to do",
-      "sensetop": "declare yourselfdeclare yourself to somebody",
-      "examples": [
-        {
-          "text": "He was the first gay player in a professional sports team to declare himself openly."
-        },
-        {
-          "text": "Only two candidates have declared themselves so far."
-        },
-        {
-          "text": "Freemasons were required by law to declare themselves to the authorities.",
-          "contextForm": "declare yourself to somebody"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to tell the tax authorities how much money you have earned",
-      "sensetop": "declare something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "All income must be declared."
-        }
-      ],
-      "topics": ["Money"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to tell customs officers (= at the border of a country) that you are carrying goods on which you should pay tax",
-      "sensetop": "declare something",
-      "examples": [
-        {
-          "text": "Do you have anything to declare?"
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to decide to end your innings (= the period during which your team is batting) before all your players have batted",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "England declared at 224 for 4 *(= 4 batters* had scored 224 runs)."
-        }
-      ],
-      "topics": ["Sports: ball and racket sports"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/dɪˈkleə(r)/",
-        "audio": "de/declare/declare__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈkleəz/",
-        "audio": "de/declare/declares__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈkleəd/",
-        "audio": "de/declare/declared__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈkleərɪŋ/",
-        "audio": "de/declare/declaring__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/dɪˈkler/",
-        "audio": "de/declare/declare__us_2.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈklerz/",
-        "audio": "de/declare/declares__us_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈklerd/",
-        "audio": "de/declare/declared__us_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈklerɪŋ/",
-        "audio": "de/declare/declaring__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Latin declarare, from de- ‘thoroughly’ + clarare ‘make clear’ (from clarus ‘clear’)."
+	"term": "declare",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "declare",
+			"heSheIt": "declares"
+		},
+		"pastSimple": "declared",
+		"pastParticiple": "declared",
+		"ingForm": "declaring"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to say something officially or publicly",
+			"sensetop": "declare somethingdeclare that…declare something/somebody + noundeclare something to be somethingdeclare something as somethingdeclare something/somebody + adj.",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The government has **declared a state of emergency**.",
+					"contextForm": "declare something"
+				},
+				{
+					"text": "Germany **declared war on** France on 1 August 1914."
+				},
+				{
+					"text": "The government has **declared war on** *(= officially stated its intention to stop)* illiteracy."
+				},
+				{
+					"text": "He will probably have to **declare bankruptcy**."
+				},
+				{
+					"text": "Neither side was able to **declare victory**."
+				},
+				{
+					"text": "She **declared her intention** of running for the presidency."
+				},
+				{
+					"text": "to declare your interest/candidacy"
+				},
+				{
+					"text": "The court declared that strike action was illegal.",
+					"contextForm": "declare that…"
+				},
+				{
+					"text": "In the end, they were **declared winners** of the tournament.",
+					"contextForm": "declare something/somebody + noun"
+				},
+				{
+					"text": "The area has been declared a national park."
+				},
+				{
+					"text": "The painting was declared to be a forgery.",
+					"contextForm": "declare something to be something"
+				},
+				{
+					"text": "Excess weight has been declared as one of the top ten health risks in the world.",
+					"contextForm": "declare something as something"
+				},
+				{
+					"text": "I declare this bridge open.",
+					"contextForm": "declare something/somebody + adj."
+				},
+				{
+					"text": "A doctor had declared him unfit to travel."
+				},
+				{
+					"text": "Kenya was **officially declared** independent on December 12, 1963."
+				},
+				{
+					"text": "The contract was declared void."
+				},
+				{
+					"text": "Martial law was immediately declared."
+				},
+				{
+					"text": "The communists had unilaterally declared a ceasefire."
+				},
+				{
+					"text": "We, the people of Indonesia, hereby declare Indonesia's independence."
+				},
+				{
+					"text": "The day was declared a public holiday."
+				}
+			],
+			"collocations": {
+				"adverb": ["virtually", "immediately", "promptly"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to state something clearly and definitely",
+			"sensetop": "+ speechdeclare that…declare somethingdeclare yourself + adj./noun",
+			"examples": [
+				{
+					"text": "‘I'll do it!’ Tom declared.",
+					"contextForm": "+ speech"
+				},
+				{
+					"text": "He declared that he was in love with her.",
+					"contextForm": "declare that…"
+				},
+				{
+					"text": "Few people dared to declare their opposition to the regime.",
+					"contextForm": "declare something"
+				},
+				{
+					"text": "She declared herself extremely hurt by his lack of support.",
+					"contextForm": "declare yourself + adj./noun"
+				},
+				{
+					"text": "‘I'm going to win!’ he declared confidently."
+				},
+				{
+					"text": "‘You're here,’ she declared simply."
+				},
+				{
+					"text": "Stravinsky famously declared that music expressed nothing."
+				},
+				{
+					"text": "She proudly declared that she had once been introduced to the Queen."
+				},
+				{
+					"text": "He declared his true feelings to her."
+				}
+			],
+			"collocations": {
+				"adverb": ["virtually", "immediately", "promptly"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to say clearly and openly who you are or what you intend to do",
+			"sensetop": "declare yourselfdeclare yourself to somebody",
+			"examples": [
+				{
+					"text": "He was the first gay player in a professional sports team to declare himself openly."
+				},
+				{
+					"text": "Only two candidates have declared themselves so far."
+				},
+				{
+					"text": "Freemasons were required by law to declare themselves to the authorities.",
+					"contextForm": "declare yourself to somebody"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to tell the tax authorities how much money you have earned",
+			"sensetop": "declare something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "All income must be declared."
+				}
+			],
+			"topics": ["Money"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to tell customs officers (= at the border of a country) that you are carrying goods on which you should pay tax",
+			"sensetop": "declare something",
+			"examples": [
+				{
+					"text": "Do you have anything to declare?"
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to decide to end your innings (= the period during which your team is batting) before all your players have batted",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "England declared at 224 for 4 *(= 4 batters* had scored 224 runs)."
+				}
+			],
+			"topics": ["Sports: ball and racket sports"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/dɪˈkleə(r)/",
+				"audio": "de/declare/declare__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈkleəz/",
+				"audio": "de/declare/declares__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈkleəd/",
+				"audio": "de/declare/declared__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈkleərɪŋ/",
+				"audio": "de/declare/declaring__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/dɪˈkler/",
+				"audio": "de/declare/declare__us_2.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈklerz/",
+				"audio": "de/declare/declares__us_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈklerd/",
+				"audio": "de/declare/declared__us_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈklerɪŋ/",
+				"audio": "de/declare/declaring__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Latin declarare, from de- ‘thoroughly’ + clarare ‘make clear’ (from clarus ‘clear’)."
 }

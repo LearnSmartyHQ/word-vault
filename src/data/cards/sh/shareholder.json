@@ -1,51 +1,51 @@
 {
-  "term": "shareholder",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "an owner of shares in a company or business",
-      "examples": [
-        {
-          "text": "the major shareholders in the company"
-        },
-        {
-          "text": "Company shareholders approved the merger."
-        },
-        {
-          "text": "He has attracted new and existing shareholders to invest in his company."
-        },
-        {
-          "text": "He was voicing the concerns of ordinary shareholders."
-        },
-        {
-          "text": "The government is still a majority shareholder in the industry."
-        }
-      ],
-      "topics": ["Business"],
-      "collocations": {
-        "adjective": ["big", "large", "major"],
-        "verb + shareholder": ["defraud", "reward"],
-        "shareholder + verb": ["vote", "approve"],
-        "preposition": ["shareholder in"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈʃeəhəʊldə(r)/",
-        "audio": "sh/shareholder/shareholder__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈʃerhəʊldər/",
-        "audio": "sh/shareholder/shareholder__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "shareholder",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "an owner of shares in a company or business",
+			"examples": [
+				{
+					"text": "the major shareholders in the company"
+				},
+				{
+					"text": "Company shareholders approved the merger."
+				},
+				{
+					"text": "He has attracted new and existing shareholders to invest in his company."
+				},
+				{
+					"text": "He was voicing the concerns of ordinary shareholders."
+				},
+				{
+					"text": "The government is still a majority shareholder in the industry."
+				}
+			],
+			"topics": ["Business"],
+			"collocations": {
+				"adjective": ["big", "large", "major"],
+				"verb + shareholder": ["defraud", "reward"],
+				"shareholder + verb": ["vote", "approve"],
+				"preposition": ["shareholder in"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈʃeəhəʊldə(r)/",
+				"audio": "sh/shareholder/shareholder__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈʃerhəʊldər/",
+				"audio": "sh/shareholder/shareholder__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

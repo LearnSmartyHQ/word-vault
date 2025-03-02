@@ -1,67 +1,67 @@
 {
-  "term": "offender",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person who commits a crime",
-      "labels": "(rather formal)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a **persistent/serious/violent, etc. offender**"
-        },
-        {
-          "text": "a young offender institution"
-        },
-        {
-          "text": "He favours tougher punishments for repeat offenders."
-        },
-        {
-          "text": "He spent some time in a young offender institution."
-        },
-        {
-          "text": "Persistent offenders risk losing their licence."
-        }
-      ],
-      "topics": ["Crime and punishment"],
-      "collocations": {
-        "adjective": ["alleged", "convicted", "first"],
-        "verb + offender": ["sentence"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person or thing that does something wrong",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The report on sexual discrimination at work shows that some of the worst offenders are women."
-        },
-        {
-          "text": "When it comes to pollution, the chemical industry is a major offender."
-        }
-      ],
-      "collocations": {
-        "adjective": ["main", "worst"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/əˈfendə(r)/",
-        "audio": "of/offender/offender__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/əˈfendər/",
-        "audio": "of/offender/offender__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "offender",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person who commits a crime",
+			"labels": "(rather formal)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a **persistent/serious/violent, etc. offender**"
+				},
+				{
+					"text": "a young offender institution"
+				},
+				{
+					"text": "He favours tougher punishments for repeat offenders."
+				},
+				{
+					"text": "He spent some time in a young offender institution."
+				},
+				{
+					"text": "Persistent offenders risk losing their licence."
+				}
+			],
+			"topics": ["Crime and punishment"],
+			"collocations": {
+				"adjective": ["alleged", "convicted", "first"],
+				"verb + offender": ["sentence"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person or thing that does something wrong",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The report on sexual discrimination at work shows that some of the worst offenders are women."
+				},
+				{
+					"text": "When it comes to pollution, the chemical industry is a major offender."
+				}
+			],
+			"collocations": {
+				"adjective": ["main", "worst"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/əˈfendə(r)/",
+				"audio": "of/offender/offender__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/əˈfendər/",
+				"audio": "of/offender/offender__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

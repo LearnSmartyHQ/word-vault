@@ -1,70 +1,70 @@
 {
-  "term": "cottage",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "image": "data/images/ho/homes.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a small house, especially in the country",
-      "sensetop": "in a cottage",
-      "labels": "(British English)",
-      "examples": [
-        {
-          "text": "a **thatched cottage**"
-        },
-        {
-          "text": "a holiday cottage"
-        },
-        {
-          "text": "James lived in a charming country cottage with roses around the door.",
-          "contextForm": "in a cottage"
-        },
-        {
-          "text": "It was her dream to have a little cottage in the country"
-        },
-        {
-          "text": "They built a small guest cottage on their land."
-        },
-        {
-          "text": "They lived in a tied cottage on the estate."
-        },
-        {
-          "text": "They put us up in a guest cottage next to their house."
-        },
-        {
-          "text": "We rented a cottage for a week."
-        },
-        {
-          "text": "We stayed in a cottage on a farm."
-        },
-        {
-          "text": "They rented a holiday cottage in the middle of nowhere."
-        }
-      ],
-      "topics": ["Houses and homes", "Buildings", "Holidays"],
-      "collocations": {
-        "adjective": ["humble", "little", "simple"],
-        "verb + cottage": ["have", "own", "live in"],
-        "cottage + noun": ["home", "garden", "industry"],
-        "preposition": ["in a/​the cottage"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkɒtɪdʒ/",
-        "audio": "co/cottage/cottage__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkɑːtɪdʒ/",
-        "audio": "co/cottage/cottage__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Anglo-Norman French cotage and Anglo-Latin cotagium, from cot, a small shelter for livestock or cote, a shelter for mammals or birds."
+	"term": "cottage",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"image": "data/images/ho/homes.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a small house, especially in the country",
+			"sensetop": "in a cottage",
+			"labels": "(British English)",
+			"examples": [
+				{
+					"text": "a **thatched cottage**"
+				},
+				{
+					"text": "a holiday cottage"
+				},
+				{
+					"text": "James lived in a charming country cottage with roses around the door.",
+					"contextForm": "in a cottage"
+				},
+				{
+					"text": "It was her dream to have a little cottage in the country"
+				},
+				{
+					"text": "They built a small guest cottage on their land."
+				},
+				{
+					"text": "They lived in a tied cottage on the estate."
+				},
+				{
+					"text": "They put us up in a guest cottage next to their house."
+				},
+				{
+					"text": "We rented a cottage for a week."
+				},
+				{
+					"text": "We stayed in a cottage on a farm."
+				},
+				{
+					"text": "They rented a holiday cottage in the middle of nowhere."
+				}
+			],
+			"topics": ["Houses and homes", "Buildings", "Holidays"],
+			"collocations": {
+				"adjective": ["humble", "little", "simple"],
+				"verb + cottage": ["have", "own", "live in"],
+				"cottage + noun": ["home", "garden", "industry"],
+				"preposition": ["in a/​the cottage"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkɒtɪdʒ/",
+				"audio": "co/cottage/cottage__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkɑːtɪdʒ/",
+				"audio": "co/cottage/cottage__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Anglo-Norman French cotage and Anglo-Latin cotagium, from cot, a small shelter for livestock or cote, a shelter for mammals or birds."
 }

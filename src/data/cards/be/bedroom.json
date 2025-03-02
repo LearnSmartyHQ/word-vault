@@ -1,84 +1,84 @@
 {
-  "term": "bedroom",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/be/bedroom.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a room for sleeping in",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "the spare/guest bedroom"
-        },
-        {
-          "text": "a hotel with 20 bedrooms"
-        },
-        {
-          "text": "This is the **master bedroom** *(= the main bedroom of the house)*."
-        },
-        {
-          "text": "Two double bedrooms overlook the front lawn."
-        },
-        {
-          "text": "the bedroom window/door"
-        },
-        {
-          "text": "I went into the bedroom and cried."
-        },
-        {
-          "text": "All the children had separate bedrooms."
-        },
-        {
-          "text": "I told him he could sleep in the spare bedroom."
-        },
-        {
-          "text": "I used to share a bedroom with my brother."
-        },
-        {
-          "text": "There were dirty clothes strewn around the bedroom."
-        },
-        {
-          "text": "They converted the spare bedroom into an office."
-        }
-      ],
-      "topics": ["Houses and homes"],
-      "collocations": {
-        "adjective": ["comfortable", "cosy/​cozy", "big"],
-        "verb + bedroom": ["share", "convert", "decorate"],
-        "bedroom + noun": ["closet", "furniture", "mirror"],
-        "preposition": ["around a/​the bedroom", "in a/​the bedroom"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "having the number of bedrooms mentioned",
-      "examples": [
-        {
-          "text": "a three-bedroomed house"
-        },
-        {
-          "text": "The larger houses are four-bedroom houses."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈbedruːm//ˈbedrʊm/",
-        "audio": "be/bedroom/bedroom__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈbedruːm//ˈbedrʊm/",
-        "audio": "be/bedroom/bedroom__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "bedroom",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/be/bedroom.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a room for sleeping in",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "the spare/guest bedroom"
+				},
+				{
+					"text": "a hotel with 20 bedrooms"
+				},
+				{
+					"text": "This is the **master bedroom** *(= the main bedroom of the house)*."
+				},
+				{
+					"text": "Two double bedrooms overlook the front lawn."
+				},
+				{
+					"text": "the bedroom window/door"
+				},
+				{
+					"text": "I went into the bedroom and cried."
+				},
+				{
+					"text": "All the children had separate bedrooms."
+				},
+				{
+					"text": "I told him he could sleep in the spare bedroom."
+				},
+				{
+					"text": "I used to share a bedroom with my brother."
+				},
+				{
+					"text": "There were dirty clothes strewn around the bedroom."
+				},
+				{
+					"text": "They converted the spare bedroom into an office."
+				}
+			],
+			"topics": ["Houses and homes"],
+			"collocations": {
+				"adjective": ["comfortable", "cosy/​cozy", "big"],
+				"verb + bedroom": ["share", "convert", "decorate"],
+				"bedroom + noun": ["closet", "furniture", "mirror"],
+				"preposition": ["around a/​the bedroom", "in a/​the bedroom"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "having the number of bedrooms mentioned",
+			"examples": [
+				{
+					"text": "a three-bedroomed house"
+				},
+				{
+					"text": "The larger houses are four-bedroom houses."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈbedruːm//ˈbedrʊm/",
+				"audio": "be/bedroom/bedroom__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈbedruːm//ˈbedrʊm/",
+				"audio": "be/bedroom/bedroom__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

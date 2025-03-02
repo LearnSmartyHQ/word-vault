@@ -1,64 +1,64 @@
 {
-  "term": "acid",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a chemical, usually a liquid, that contains hydrogen and has a pH of less than seven. The hydrogen can be replaced by a metal to form a salt. Acids usually have a bitter sharp taste and can often burn holes in or damage things they touch.",
-      "labels": "(chemistry)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "The acid burned a hole in her coat."
-        },
-        {
-          "text": "Stomach acids can break down the poison."
-        },
-        {
-          "text": "You will need a special chemical to neutralize the acid."
-        }
-      ],
-      "topics": ["Physics and chemistry"],
-      "collocations": {
-        "adjective": ["concentrated", "strong", "dilute"],
-        "verb + acid": ["produce", "neutralize"],
-        "acid + verb": ["burn something", "break something down"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a powerful illegal drug that affects people’s minds and makes them see and hear things that are not really there",
-      "labels": "(slang)",
-      "examples": [
-        {
-          "text": "They smoke joints and drop acid."
-        },
-        {
-          "text": "He described the music as ‘Brahms on acid’."
-        }
-      ],
-      "synonyms": "LSD",
-      "collocations": {
-        "verb + acid": ["drop"],
-        "preposition": ["on acid"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈæsɪd/",
-        "audio": "ac/acid/acid__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈæsɪd/",
-        "audio": "ac/acid/acid__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 17th cent. (in the sense ‘sour-tasting’): from Latin acidus, from acere ‘be sour’."
+	"term": "acid",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a chemical, usually a liquid, that contains hydrogen and has a pH of less than seven. The hydrogen can be replaced by a metal to form a salt. Acids usually have a bitter sharp taste and can often burn holes in or damage things they touch.",
+			"labels": "(chemistry)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "The acid burned a hole in her coat."
+				},
+				{
+					"text": "Stomach acids can break down the poison."
+				},
+				{
+					"text": "You will need a special chemical to neutralize the acid."
+				}
+			],
+			"topics": ["Physics and chemistry"],
+			"collocations": {
+				"adjective": ["concentrated", "strong", "dilute"],
+				"verb + acid": ["produce", "neutralize"],
+				"acid + verb": ["burn something", "break something down"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a powerful illegal drug that affects people’s minds and makes them see and hear things that are not really there",
+			"labels": "(slang)",
+			"examples": [
+				{
+					"text": "They smoke joints and drop acid."
+				},
+				{
+					"text": "He described the music as ‘Brahms on acid’."
+				}
+			],
+			"synonyms": "LSD",
+			"collocations": {
+				"verb + acid": ["drop"],
+				"preposition": ["on acid"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈæsɪd/",
+				"audio": "ac/acid/acid__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈæsɪd/",
+				"audio": "ac/acid/acid__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 17th cent. (in the sense ‘sour-tasting’): from Latin acidus, from acere ‘be sour’."
 }

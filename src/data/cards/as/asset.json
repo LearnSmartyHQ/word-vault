@@ -1,120 +1,120 @@
 {
-  "term": "asset",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person or thing that is valuable or useful to somebody/something",
-      "sensetop": "asset to somebody/something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "In his job, patience is an invaluable asset."
-        },
-        {
-          "text": "Being able to speak a foreign language is a major asset."
-        },
-        {
-          "text": "I’m not sure if his forcefulness is an asset or a liability."
-        },
-        {
-          "text": "She'll be an asset to the team.",
-          "contextForm": "asset to somebody/something"
-        },
-        {
-          "text": "Scotland's mountain areas are a natural asset to be proud of."
-        },
-        {
-          "text": "The teachers are the school's biggest asset."
-        },
-        {
-          "text": "The tourist industry requires that the country's cultural assets be made more accessible."
-        },
-        {
-          "text": "Since his injury, Jones has become more of a liability than an asset to the team."
-        }
-      ],
-      "collocations": {
-        "adjective": ["big", "considerable", "great"],
-        "preposition": ["asset to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a thing of value, especially property, that a person or company owns, which can be used or sold to pay debts",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "the net **asset value** of the company"
-        },
-        {
-          "text": "Her assets include shares in the company and a house in France."
-        },
-        {
-          "text": "**asset sales/management**"
-        },
-        {
-          "text": "income from **fixed asset** investments"
-        },
-        {
-          "text": "**financial/capital assets**"
-        },
-        {
-          "text": "to freeze a country’s assets"
-        },
-        {
-          "text": "He transferred all his assets into his wife's name."
-        },
-        {
-          "text": "Liquid assets can be sold more quickly."
-        },
-        {
-          "text": "Net assets have grown to $169 million."
-        },
-        {
-          "text": "The authorities have the power to seize the assets of convicted drug dealers."
-        },
-        {
-          "text": "The business disposed of all its capital assets."
-        },
-        {
-          "text": "The company has increased its UK assets."
-        },
-        {
-          "text": "The courts can order a company's assets to be frozen."
-        },
-        {
-          "text": "They have hidden assets in banks around the world."
-        },
-        {
-          "text": "measures to prevent asset stripping"
-        }
-      ],
-      "topics": ["Money"],
-      "collocations": {
-        "adjective": ["combined", "total", "gross"],
-        "verb + asset": ["have", "hold", "own"],
-        "asset + verb": ["be worth something", "appreciate", "grow"],
-        "asset + noun": ["price", "value", "management"],
-        "phrases": ["assets and liabilities"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈæset/",
-        "audio": "as/asset/asset__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈæset/",
-        "audio": "as/asset/asset__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent. (in the plural in the sense ‘sufficient estate to allow discharge of a will’): from an Anglo-Norman French legal term, from Old French asez ‘enough’, based on Latin ad ‘to’ + satis ‘enough’."
+	"term": "asset",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person or thing that is valuable or useful to somebody/something",
+			"sensetop": "asset to somebody/something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "In his job, patience is an invaluable asset."
+				},
+				{
+					"text": "Being able to speak a foreign language is a major asset."
+				},
+				{
+					"text": "I’m not sure if his forcefulness is an asset or a liability."
+				},
+				{
+					"text": "She'll be an asset to the team.",
+					"contextForm": "asset to somebody/something"
+				},
+				{
+					"text": "Scotland's mountain areas are a natural asset to be proud of."
+				},
+				{
+					"text": "The teachers are the school's biggest asset."
+				},
+				{
+					"text": "The tourist industry requires that the country's cultural assets be made more accessible."
+				},
+				{
+					"text": "Since his injury, Jones has become more of a liability than an asset to the team."
+				}
+			],
+			"collocations": {
+				"adjective": ["big", "considerable", "great"],
+				"preposition": ["asset to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a thing of value, especially property, that a person or company owns, which can be used or sold to pay debts",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "the net **asset value** of the company"
+				},
+				{
+					"text": "Her assets include shares in the company and a house in France."
+				},
+				{
+					"text": "**asset sales/management**"
+				},
+				{
+					"text": "income from **fixed asset** investments"
+				},
+				{
+					"text": "**financial/capital assets**"
+				},
+				{
+					"text": "to freeze a country’s assets"
+				},
+				{
+					"text": "He transferred all his assets into his wife's name."
+				},
+				{
+					"text": "Liquid assets can be sold more quickly."
+				},
+				{
+					"text": "Net assets have grown to $169 million."
+				},
+				{
+					"text": "The authorities have the power to seize the assets of convicted drug dealers."
+				},
+				{
+					"text": "The business disposed of all its capital assets."
+				},
+				{
+					"text": "The company has increased its UK assets."
+				},
+				{
+					"text": "The courts can order a company's assets to be frozen."
+				},
+				{
+					"text": "They have hidden assets in banks around the world."
+				},
+				{
+					"text": "measures to prevent asset stripping"
+				}
+			],
+			"topics": ["Money"],
+			"collocations": {
+				"adjective": ["combined", "total", "gross"],
+				"verb + asset": ["have", "hold", "own"],
+				"asset + verb": ["be worth something", "appreciate", "grow"],
+				"asset + noun": ["price", "value", "management"],
+				"phrases": ["assets and liabilities"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈæset/",
+				"audio": "as/asset/asset__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈæset/",
+				"audio": "as/asset/asset__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent. (in the plural in the sense ‘sufficient estate to allow discharge of a will’): from an Anglo-Norman French legal term, from Old French asez ‘enough’, based on Latin ad ‘to’ + satis ‘enough’."
 }

@@ -1,97 +1,97 @@
 {
-  "term": "wobble",
-  "partOfSpeech": "verb",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "wobble",
-      "heSheIt": "wobbles"
-    },
-    "pastSimple": "wobbled",
-    "pastParticiple": "wobbled",
-    "ingForm": "wobbling"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to move from side to side in an unsteady way; to make something do this",
-      "sensetop": "wobble something",
-      "labels": "(figurative)",
-      "examples": [
-        {
-          "text": "This chair wobbles."
-        },
-        {
-          "text": "Her voice wobbled with emotion."
-        },
-        {
-          "text": "Don't wobble the table—I'm trying to write.",
-          "contextForm": "wobble something"
-        },
-        {
-          "text": "His legs began to wobble under him."
-        },
-        {
-          "text": "The vase wobbled and then crashed to the ground."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to go in a particular direction while moving from side to side in an unsteady way",
-      "sensetop": "+ adv./prep.",
-      "examples": [
-        {
-          "text": "He wobbled off on his bike."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to hesitate or lose confidence about doing something",
-      "examples": [
-        {
-          "text": "Yesterday the president showed the first signs of wobbling over the issue."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈwɒbl/",
-        "audio": "wo/wobble/wobble__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwɒblz/",
-        "audio": "wo/wobble/wobbles__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwɒbld/",
-        "audio": "wo/wobble/wobbled__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwɒblɪŋ/",
-        "audio": "wo/wobble/wobbling__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈwɑːbl/",
-        "audio": "wo/wobble/wobble__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwɑːblz/",
-        "audio": "wo/wobble/wobbles__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwɑːbld/",
-        "audio": "wo/wobble/wobbled__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈwɑːblɪŋ/",
-        "audio": "wo/wobble/wobbling__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 17th cent. (earlier as wabble): of Germanic origin; compare with Old Norse vafla ‘waver’; related to the verb wave."
+	"term": "wobble",
+	"partOfSpeech": "verb",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "wobble",
+			"heSheIt": "wobbles"
+		},
+		"pastSimple": "wobbled",
+		"pastParticiple": "wobbled",
+		"ingForm": "wobbling"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to move from side to side in an unsteady way; to make something do this",
+			"sensetop": "wobble something",
+			"labels": "(figurative)",
+			"examples": [
+				{
+					"text": "This chair wobbles."
+				},
+				{
+					"text": "Her voice wobbled with emotion."
+				},
+				{
+					"text": "Don't wobble the table—I'm trying to write.",
+					"contextForm": "wobble something"
+				},
+				{
+					"text": "His legs began to wobble under him."
+				},
+				{
+					"text": "The vase wobbled and then crashed to the ground."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to go in a particular direction while moving from side to side in an unsteady way",
+			"sensetop": "+ adv./prep.",
+			"examples": [
+				{
+					"text": "He wobbled off on his bike."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to hesitate or lose confidence about doing something",
+			"examples": [
+				{
+					"text": "Yesterday the president showed the first signs of wobbling over the issue."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈwɒbl/",
+				"audio": "wo/wobble/wobble__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwɒblz/",
+				"audio": "wo/wobble/wobbles__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwɒbld/",
+				"audio": "wo/wobble/wobbled__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwɒblɪŋ/",
+				"audio": "wo/wobble/wobbling__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈwɑːbl/",
+				"audio": "wo/wobble/wobble__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwɑːblz/",
+				"audio": "wo/wobble/wobbles__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwɑːbld/",
+				"audio": "wo/wobble/wobbled__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈwɑːblɪŋ/",
+				"audio": "wo/wobble/wobbling__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 17th cent. (earlier as wabble): of Germanic origin; compare with Old Norse vafla ‘waver’; related to the verb wave."
 }

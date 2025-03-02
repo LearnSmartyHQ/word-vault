@@ -1,116 +1,116 @@
 {
-  "term": "convey",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "convey",
-      "heSheIt": "conveys"
-    },
-    "pastSimple": "conveyed",
-    "pastParticiple": "conveyed",
-    "ingForm": "conveying"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to make ideas, feelings, etc. known to somebody",
-      "sensetop": "convey somethingconvey something to somebodyconvey how, what, etc…convey that…",
-      "labels": "(formal)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Colours like red convey a sense of energy and strength.",
-          "contextForm": "convey something"
-        },
-        {
-          "text": "Please convey my apologies to your wife.",
-          "contextForm": "convey something to somebody"
-        },
-        {
-          "text": "He tried desperately to convey how urgent the situation was.",
-          "contextForm": "convey how, what, etc…"
-        },
-        {
-          "text": "She did not wish to convey that they were all at fault.",
-          "contextForm": "convey that…"
-        },
-        {
-          "text": "He managed to convey his enthusiasm to her."
-        },
-        {
-          "text": "The novel vividly conveys the experience of growing up during the war."
-        }
-      ],
-      "synonyms": "communicate",
-      "collocations": {
-        "adverb": ["clearly", "perfectly", "powerfully"],
-        "verb + convey": ["can", "could", "try to"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to take, carry or transport somebody/something from one place to another",
-      "sensetop": "convey somebody/something (from…) (to…)",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "Pipes convey hot water from the boiler to the radiators."
-        },
-        {
-          "text": "A carriage was waiting to convey her home."
-        },
-        {
-          "text": "Flowers from the Isles of Scilly were conveyed by steamer to Penzance."
-        },
-        {
-          "text": "Pipes convey hot water to the radiators."
-        },
-        {
-          "text": "The stone was conveyed by river to the site."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kənˈveɪ/",
-        "audio": "xc/convey/xconvey__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈveɪz/",
-        "audio": "xc/convey/xconveys__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈveɪd/",
-        "audio": "xc/convey/xconveyed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈveɪɪŋ/",
-        "audio": "xc/convey/xconveying__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kənˈveɪ/",
-        "audio": "xc/convey/xconvey__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈveɪz/",
-        "audio": "xc/convey/xconveys__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈveɪd/",
-        "audio": "xc/convey/xconveyed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈveɪɪŋ/",
-        "audio": "xc/convey/xconveying__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in the sense ‘escort’; compare with convoy): from Old French conveier, from medieval Latin conviare, from con- ‘together’ + Latin via ‘way’."
+	"term": "convey",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "convey",
+			"heSheIt": "conveys"
+		},
+		"pastSimple": "conveyed",
+		"pastParticiple": "conveyed",
+		"ingForm": "conveying"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to make ideas, feelings, etc. known to somebody",
+			"sensetop": "convey somethingconvey something to somebodyconvey how, what, etc…convey that…",
+			"labels": "(formal)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Colours like red convey a sense of energy and strength.",
+					"contextForm": "convey something"
+				},
+				{
+					"text": "Please convey my apologies to your wife.",
+					"contextForm": "convey something to somebody"
+				},
+				{
+					"text": "He tried desperately to convey how urgent the situation was.",
+					"contextForm": "convey how, what, etc…"
+				},
+				{
+					"text": "She did not wish to convey that they were all at fault.",
+					"contextForm": "convey that…"
+				},
+				{
+					"text": "He managed to convey his enthusiasm to her."
+				},
+				{
+					"text": "The novel vividly conveys the experience of growing up during the war."
+				}
+			],
+			"synonyms": "communicate",
+			"collocations": {
+				"adverb": ["clearly", "perfectly", "powerfully"],
+				"verb + convey": ["can", "could", "try to"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to take, carry or transport somebody/something from one place to another",
+			"sensetop": "convey somebody/something (from…) (to…)",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "Pipes convey hot water from the boiler to the radiators."
+				},
+				{
+					"text": "A carriage was waiting to convey her home."
+				},
+				{
+					"text": "Flowers from the Isles of Scilly were conveyed by steamer to Penzance."
+				},
+				{
+					"text": "Pipes convey hot water to the radiators."
+				},
+				{
+					"text": "The stone was conveyed by river to the site."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kənˈveɪ/",
+				"audio": "xc/convey/xconvey__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈveɪz/",
+				"audio": "xc/convey/xconveys__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈveɪd/",
+				"audio": "xc/convey/xconveyed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈveɪɪŋ/",
+				"audio": "xc/convey/xconveying__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kənˈveɪ/",
+				"audio": "xc/convey/xconvey__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈveɪz/",
+				"audio": "xc/convey/xconveys__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈveɪd/",
+				"audio": "xc/convey/xconveyed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈveɪɪŋ/",
+				"audio": "xc/convey/xconveying__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in the sense ‘escort’; compare with convoy): from Old French conveier, from medieval Latin conviare, from con- ‘together’ + Latin via ‘way’."
 }

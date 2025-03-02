@@ -1,135 +1,135 @@
 {
-  "term": "thread",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "image": "data/images/ro/rope_thread_string.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a thin string of cotton, wool, silk, etc. used for sewing or making cloth",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a needle and thread"
-        },
-        {
-          "text": "a robe embroidered with gold thread"
-        },
-        {
-          "text": "the delicate threads of a spider’s web"
-        },
-        {
-          "text": "You've pulled a thread in your jumper."
-        }
-      ],
-      "collocations": {
-        "adjective": ["strong", "delicate", "fine"],
-        "… of thread": ["length", "piece"],
-        "verb + thread": ["spin", "pull", "cut"],
-        "phrases": ["hanging by a thread", "needle and thread"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an idea or a feature that is part of something greater; an idea that connects the different parts of something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "A **common thread** runs through these discussions."
-        },
-        {
-          "text": "The author skilfully draws together the different threads of the plot."
-        },
-        {
-          "text": "I **lost the thread** of the argument *(= I could no longer follow it)*."
-        },
-        {
-          "text": "The speaker **lost his thread** *(= forgot what he wanted to say)* halfway through the talk."
-        },
-        {
-          "text": "As the film progresses, the threads of the plot slowly begin to unravel."
-        },
-        {
-          "text": "I found it hard to follow the main thread of his argument."
-        },
-        {
-          "text": "On studying the different historians' accounts, common threads emerge."
-        },
-        {
-          "text": "Apart from one or two loose threads, the police now had the complete picture of what happened."
-        }
-      ],
-      "collocations": {
-        "adjective": ["central", "main", "common"],
-        "verb + thread": ["have", "follow", "trace"],
-        "thread + verb": ["run through something", "connect", "link"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a long, thin line of something",
-      "sensetop": "thread (of something)",
-      "examples": [
-        {
-          "text": "A thread of light emerged from the keyhole."
-        },
-        {
-          "text": "a silvery thread of water"
-        },
-        {
-          "text": "Thin threads of blood glittered on his forehead and cheeks."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a series of connected messages on email, social media, etc. that have been sent by different people",
-      "labels": "(computing)",
-      "cefr": "c1",
-      "examples": [],
-      "topics": ["Phones, email and the internet"],
-      "collocations": {
-        "adjective": ["comment", "discussion"],
-        "verb + thread": ["open", "start"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "the raised line that runs around the length of a screw and that allows it to be fixed in place by twisting",
-      "examples": []
-    },
-    {
-      "senseNumber": 6,
-      "definition": "clothes",
-      "labels": "(North American English, old-fashioned, informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be in great danger",
-      "examples": [],
-      "topics": ["Danger"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to return to an earlier situation or way of life after a period doing something else",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/θred/",
-        "audio": "th/thread/thread__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/θred/",
-        "audio": "th/thread/thread__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English thrǣd (noun), of Germanic origin; related to Dutch draad and German Draht, also to the verb throw. The verb dates from late Middle English."
+	"term": "thread",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"image": "data/images/ro/rope_thread_string.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a thin string of cotton, wool, silk, etc. used for sewing or making cloth",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a needle and thread"
+				},
+				{
+					"text": "a robe embroidered with gold thread"
+				},
+				{
+					"text": "the delicate threads of a spider’s web"
+				},
+				{
+					"text": "You've pulled a thread in your jumper."
+				}
+			],
+			"collocations": {
+				"adjective": ["strong", "delicate", "fine"],
+				"… of thread": ["length", "piece"],
+				"verb + thread": ["spin", "pull", "cut"],
+				"phrases": ["hanging by a thread", "needle and thread"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an idea or a feature that is part of something greater; an idea that connects the different parts of something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "A **common thread** runs through these discussions."
+				},
+				{
+					"text": "The author skilfully draws together the different threads of the plot."
+				},
+				{
+					"text": "I **lost the thread** of the argument *(= I could no longer follow it)*."
+				},
+				{
+					"text": "The speaker **lost his thread** *(= forgot what he wanted to say)* halfway through the talk."
+				},
+				{
+					"text": "As the film progresses, the threads of the plot slowly begin to unravel."
+				},
+				{
+					"text": "I found it hard to follow the main thread of his argument."
+				},
+				{
+					"text": "On studying the different historians' accounts, common threads emerge."
+				},
+				{
+					"text": "Apart from one or two loose threads, the police now had the complete picture of what happened."
+				}
+			],
+			"collocations": {
+				"adjective": ["central", "main", "common"],
+				"verb + thread": ["have", "follow", "trace"],
+				"thread + verb": ["run through something", "connect", "link"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a long, thin line of something",
+			"sensetop": "thread (of something)",
+			"examples": [
+				{
+					"text": "A thread of light emerged from the keyhole."
+				},
+				{
+					"text": "a silvery thread of water"
+				},
+				{
+					"text": "Thin threads of blood glittered on his forehead and cheeks."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a series of connected messages on email, social media, etc. that have been sent by different people",
+			"labels": "(computing)",
+			"cefr": "c1",
+			"examples": [],
+			"topics": ["Phones, email and the internet"],
+			"collocations": {
+				"adjective": ["comment", "discussion"],
+				"verb + thread": ["open", "start"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "the raised line that runs around the length of a screw and that allows it to be fixed in place by twisting",
+			"examples": []
+		},
+		{
+			"senseNumber": 6,
+			"definition": "clothes",
+			"labels": "(North American English, old-fashioned, informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be in great danger",
+			"examples": [],
+			"topics": ["Danger"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to return to an earlier situation or way of life after a period doing something else",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/θred/",
+				"audio": "th/thread/thread__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/θred/",
+				"audio": "th/thread/thread__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English thrǣd (noun), of Germanic origin; related to Dutch draad and German Draht, also to the verb throw. The verb dates from late Middle English."
 }

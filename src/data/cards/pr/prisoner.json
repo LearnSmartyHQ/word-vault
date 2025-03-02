@@ -1,98 +1,98 @@
 {
-  "term": "prisoner",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person who is kept in prison as a punishment, or while they are waiting for trial",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The number of prisoners serving life sentences has fallen."
-        },
-        {
-          "text": "They called for the **prisoners** to be **released**."
-        },
-        {
-          "text": "They are demanding the release of all **political prisoners**."
-        },
-        {
-          "text": "international minimum standards for the treatment of prisoners"
-        },
-        {
-          "text": "Over 2 million prisoners are currently incarcerated in the US."
-        },
-        {
-          "text": "They were allowed only limited contact with their fellow prisoners."
-        }
-      ],
-      "topics": ["Crime and punishment"],
-      "collocations": {
-        "adjective": ["virtual", "political", "life"],
-        "verb + prisoner": ["capture", "take", "detain"],
-        "phrases": [
-          "hold somebody prisoner",
-          "keep somebody prisoner",
-          "a prisoner of conscience"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person who has been captured, for example by an enemy, and is being kept somewhere",
-      "labels": "(figurative)(figurative)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He was **taken prisoner** by rebel soldiers."
-        },
-        {
-          "text": "They are **holding** her **prisoner** and demanding a large ransom."
-        },
-        {
-          "text": "For three days they **kept** him a **prisoner**."
-        },
-        {
-          "text": "She is afraid to go out and has become a virtual prisoner in her own home."
-        },
-        {
-          "text": "He was a prisoner of his own ignorance."
-        },
-        {
-          "text": "They had captured over 100 prisoners."
-        },
-        {
-          "text": "They were kept prisoner for eight months in a tiny flat."
-        }
-      ],
-      "collocations": {
-        "adjective": ["virtual", "political", "life"],
-        "verb + prisoner": ["capture", "take", "detain"],
-        "phrases": [
-          "hold somebody prisoner",
-          "keep somebody prisoner",
-          "a prisoner of conscience"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈprɪznə(r)/",
-        "audio": "pr/prisoner/prisoner__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈprɪznər/",
-        "audio": "pr/prisoner/prisoner__us_3.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French prisonier, from prison, from Latin prensio(n-), variant of prehensio(n-) ‘laying hold of’, from the verb prehendere."
+	"term": "prisoner",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person who is kept in prison as a punishment, or while they are waiting for trial",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The number of prisoners serving life sentences has fallen."
+				},
+				{
+					"text": "They called for the **prisoners** to be **released**."
+				},
+				{
+					"text": "They are demanding the release of all **political prisoners**."
+				},
+				{
+					"text": "international minimum standards for the treatment of prisoners"
+				},
+				{
+					"text": "Over 2 million prisoners are currently incarcerated in the US."
+				},
+				{
+					"text": "They were allowed only limited contact with their fellow prisoners."
+				}
+			],
+			"topics": ["Crime and punishment"],
+			"collocations": {
+				"adjective": ["virtual", "political", "life"],
+				"verb + prisoner": ["capture", "take", "detain"],
+				"phrases": [
+					"hold somebody prisoner",
+					"keep somebody prisoner",
+					"a prisoner of conscience"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person who has been captured, for example by an enemy, and is being kept somewhere",
+			"labels": "(figurative)(figurative)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He was **taken prisoner** by rebel soldiers."
+				},
+				{
+					"text": "They are **holding** her **prisoner** and demanding a large ransom."
+				},
+				{
+					"text": "For three days they **kept** him a **prisoner**."
+				},
+				{
+					"text": "She is afraid to go out and has become a virtual prisoner in her own home."
+				},
+				{
+					"text": "He was a prisoner of his own ignorance."
+				},
+				{
+					"text": "They had captured over 100 prisoners."
+				},
+				{
+					"text": "They were kept prisoner for eight months in a tiny flat."
+				}
+			],
+			"collocations": {
+				"adjective": ["virtual", "political", "life"],
+				"verb + prisoner": ["capture", "take", "detain"],
+				"phrases": [
+					"hold somebody prisoner",
+					"keep somebody prisoner",
+					"a prisoner of conscience"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈprɪznə(r)/",
+				"audio": "pr/prisoner/prisoner__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈprɪznər/",
+				"audio": "pr/prisoner/prisoner__us_3.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French prisonier, from prison, from Latin prensio(n-), variant of prehensio(n-) ‘laying hold of’, from the verb prehendere."
 }

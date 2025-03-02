@@ -1,87 +1,87 @@
 {
-  "term": "buffer",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a thing or person that reduces a shock or protects somebody/something against difficulties",
-      "sensetop": "buffer against somethingbuffer between A and B",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Support from family and friends acts as a buffer against stress.",
-          "contextForm": "buffer against something"
-        },
-        {
-          "text": "She often had to act as a buffer between father and son.",
-          "contextForm": "buffer between A and B"
-        },
-        {
-          "text": "The organization acts as a buffer between the management and the union."
-        },
-        {
-          "text": "a **buffer state** *(= a small country between two powerful states that helps keep peace between them)*"
-        },
-        {
-          "text": "a **buffer zone** *(= an area of land between two opposing armies or countries)*"
-        },
-        {
-          "text": "Peacekeepers have been sent in to establish a buffer zone between the rival forces."
-        }
-      ],
-      "collocations": {
-        "verb + buffer": ["act as", "provide", "use something as"],
-        "buffer + noun": ["state", "zone"],
-        "preposition": ["buffer against", "buffer between"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "one of two round metal devices on the front or end of a train, or at the end of a railway track, that reduce the shock if the train hits something",
-      "labels": "(British English)",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Transport by bus and train"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "an area in a computer’s memory where data can be stored for a short time",
-      "labels": "(computing)",
-      "examples": []
-    },
-    {
-      "senseNumber": 4,
-      "definition": "an informal way of referring to an old man that shows that you do not respect him",
-      "labels": "(British English, old-fashioned, informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "if a plan, somebody’s career, etc. hits the buffers, it suddenly stops being successful",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "The former tennis star’s comeback trail hit the buffers yesterday when she lost in straight sets."
-        }
-      ],
-      "topics": ["Difficulty and failure"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈbʌfə(r)/",
-        "audio": "bu/buffer/buffer__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈbʌfər/",
-        "audio": "bu/buffer/buffer__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "noun senses 1 to 2 mid 19th cent.: probably from obsolete buff (verb), imitative of the sound of a blow to a soft body. noun sense 3 mid 18th cent.: probably from obsolete buff (imitative of the sound of a blow to a soft body), or from dialect buff ‘stutter, splutter’ (possibly the same word). In late Middle English buffer had the sense ‘stammerer’."
+	"term": "buffer",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a thing or person that reduces a shock or protects somebody/something against difficulties",
+			"sensetop": "buffer against somethingbuffer between A and B",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Support from family and friends acts as a buffer against stress.",
+					"contextForm": "buffer against something"
+				},
+				{
+					"text": "She often had to act as a buffer between father and son.",
+					"contextForm": "buffer between A and B"
+				},
+				{
+					"text": "The organization acts as a buffer between the management and the union."
+				},
+				{
+					"text": "a **buffer state** *(= a small country between two powerful states that helps keep peace between them)*"
+				},
+				{
+					"text": "a **buffer zone** *(= an area of land between two opposing armies or countries)*"
+				},
+				{
+					"text": "Peacekeepers have been sent in to establish a buffer zone between the rival forces."
+				}
+			],
+			"collocations": {
+				"verb + buffer": ["act as", "provide", "use something as"],
+				"buffer + noun": ["state", "zone"],
+				"preposition": ["buffer against", "buffer between"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "one of two round metal devices on the front or end of a train, or at the end of a railway track, that reduce the shock if the train hits something",
+			"labels": "(British English)",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Transport by bus and train"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "an area in a computer’s memory where data can be stored for a short time",
+			"labels": "(computing)",
+			"examples": []
+		},
+		{
+			"senseNumber": 4,
+			"definition": "an informal way of referring to an old man that shows that you do not respect him",
+			"labels": "(British English, old-fashioned, informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "if a plan, somebody’s career, etc. hits the buffers, it suddenly stops being successful",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "The former tennis star’s comeback trail hit the buffers yesterday when she lost in straight sets."
+				}
+			],
+			"topics": ["Difficulty and failure"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈbʌfə(r)/",
+				"audio": "bu/buffer/buffer__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈbʌfər/",
+				"audio": "bu/buffer/buffer__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "noun senses 1 to 2 mid 19th cent.: probably from obsolete buff (verb), imitative of the sound of a blow to a soft body. noun sense 3 mid 18th cent.: probably from obsolete buff (imitative of the sound of a blow to a soft body), or from dialect buff ‘stutter, splutter’ (possibly the same word). In late Middle English buffer had the sense ‘stammerer’."
 }

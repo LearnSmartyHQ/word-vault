@@ -1,103 +1,103 @@
 {
-  "term": "author",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person who writes books or the person who wrote a particular book",
-      "labels": "(US English)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Who is your favourite author?"
-        },
-        {
-          "text": "He is the author of three books on art."
-        },
-        {
-          "text": "**best-selling author** Paul Theroux"
-        },
-        {
-          "text": "the **lead author** of the report"
-        },
-        {
-          "text": "the author of a novel/study/article"
-        },
-        {
-          "text": "Who's the author?"
-        },
-        {
-          "text": "According to report author Matt Blaze, the technique requires no special skill."
-        },
-        {
-          "text": "Really quick **author's note**: This is the last chapter of the story."
-        },
-        {
-          "text": "The film is based on a novel written by a French author."
-        },
-        {
-          "text": "The report's authors point to a recent study of American college students."
-        },
-        {
-          "text": "Her ambition was to become a published author."
-        },
-        {
-          "text": "Primarily a children's author, she has also written books for adults."
-        },
-        {
-          "text": "Scott is the author of ‘Waverley’."
-        },
-        {
-          "text": "Stephen King is an author I've never read."
-        },
-        {
-          "text": "The study's authors conclude that there is insufficient evidence to justify the policy."
-        },
-        {
-          "text": "the anonymous author of this pamphlet"
-        }
-      ],
-      "topics": ["Literature and writing"],
-      "collocations": {
-        "adjective": ["best-selling", "prolific", "famous"],
-        "verb + author": ["read", "cite", "quote"],
-        "author + verb": [
-          "write (something)",
-          "argue something",
-          "conclude something"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the person who creates or starts something, especially a plan or an idea",
-      "examples": [
-        {
-          "text": "As the author of the proposal I cannot agree with you."
-        },
-        {
-          "text": "He is the author of a plan to bring peace to the region."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈɔːθə(r)/",
-        "audio": "au/author/author__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈɔːθər/",
-        "audio": "au/author/author__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in the sense ‘a person who invents or causes something’): from Old French autor, from Latin auctor, from augere ‘increase, originate, promote’. The spelling with th arose in the 15th cent., and perhaps became established under the influence of authentic."
+	"term": "author",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person who writes books or the person who wrote a particular book",
+			"labels": "(US English)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Who is your favourite author?"
+				},
+				{
+					"text": "He is the author of three books on art."
+				},
+				{
+					"text": "**best-selling author** Paul Theroux"
+				},
+				{
+					"text": "the **lead author** of the report"
+				},
+				{
+					"text": "the author of a novel/study/article"
+				},
+				{
+					"text": "Who's the author?"
+				},
+				{
+					"text": "According to report author Matt Blaze, the technique requires no special skill."
+				},
+				{
+					"text": "Really quick **author's note**: This is the last chapter of the story."
+				},
+				{
+					"text": "The film is based on a novel written by a French author."
+				},
+				{
+					"text": "The report's authors point to a recent study of American college students."
+				},
+				{
+					"text": "Her ambition was to become a published author."
+				},
+				{
+					"text": "Primarily a children's author, she has also written books for adults."
+				},
+				{
+					"text": "Scott is the author of ‘Waverley’."
+				},
+				{
+					"text": "Stephen King is an author I've never read."
+				},
+				{
+					"text": "The study's authors conclude that there is insufficient evidence to justify the policy."
+				},
+				{
+					"text": "the anonymous author of this pamphlet"
+				}
+			],
+			"topics": ["Literature and writing"],
+			"collocations": {
+				"adjective": ["best-selling", "prolific", "famous"],
+				"verb + author": ["read", "cite", "quote"],
+				"author + verb": [
+					"write (something)",
+					"argue something",
+					"conclude something"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the person who creates or starts something, especially a plan or an idea",
+			"examples": [
+				{
+					"text": "As the author of the proposal I cannot agree with you."
+				},
+				{
+					"text": "He is the author of a plan to bring peace to the region."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈɔːθə(r)/",
+				"audio": "au/author/author__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈɔːθər/",
+				"audio": "au/author/author__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in the sense ‘a person who invents or causes something’): from Old French autor, from Latin auctor, from augere ‘increase, originate, promote’. The spelling with th arose in the 15th cent., and perhaps became established under the influence of authentic."
 }

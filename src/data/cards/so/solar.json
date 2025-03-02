@@ -1,60 +1,60 @@
 {
-  "term": "solar",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "of or connected with the sun",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**solar radiation**"
-        },
-        {
-          "text": "a **solar eclipse**"
-        },
-        {
-          "text": "**solar wind**"
-        },
-        {
-          "text": "the solar cycle"
-        }
-      ],
-      "topics": ["Space", "Physics and chemistry"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "using the sun’s energy",
-      "labels": "(especially British English)(especially North American English)(North American English)",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "solar heating"
-        },
-        {
-          "text": "a satellite telephone with **solar-powered** batteries"
-        }
-      ],
-      "topics": ["The environment", "Physics and chemistry"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsəʊlə(r)/",
-        "audio": "so/solar/solar__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsəʊlər/",
-        "audio": "so/solar/solar__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Latin solaris, from sol ‘sun’."
+	"term": "solar",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "of or connected with the sun",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**solar radiation**"
+				},
+				{
+					"text": "a **solar eclipse**"
+				},
+				{
+					"text": "**solar wind**"
+				},
+				{
+					"text": "the solar cycle"
+				}
+			],
+			"topics": ["Space", "Physics and chemistry"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "using the sun’s energy",
+			"labels": "(especially British English)(especially North American English)(North American English)",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "solar heating"
+				},
+				{
+					"text": "a satellite telephone with **solar-powered** batteries"
+				}
+			],
+			"topics": ["The environment", "Physics and chemistry"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsəʊlə(r)/",
+				"audio": "so/solar/solar__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsəʊlər/",
+				"audio": "so/solar/solar__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Latin solaris, from sol ‘sun’."
 }

@@ -1,60 +1,60 @@
 {
-  "term": "statue",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "image": "data/images/ci/city.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a figure of a person or an animal in stone, metal, etc., usually the same size as in real life or larger",
-      "labels": "(US English)(US English)(US English)(especially British English)(North American English usually)(British English)(North American English)",
-      "examples": [
-        {
-          "text": "a **bronze/marble statue**"
-        },
-        {
-          "text": "a statue of Apollo"
-        },
-        {
-          "text": "The protesters toppled a statue of King George III."
-        },
-        {
-          "text": "The statue stands in one of the main squares."
-        },
-        {
-          "text": "a statue of the Virgin"
-        },
-        {
-          "text": "the dedicatory inscription on the statue base"
-        },
-        {
-          "text": "the unveiling of a statue to Lord Brown"
-        }
-      ],
-      "topics": ["Art"],
-      "collocations": {
-        "adjective": ["colossal", "enormous", "giant"],
-        "verb + statue": ["erect", "put up", "unveil"],
-        "statue + verb": ["be", "stand"],
-        "statue + noun": ["base"],
-        "preposition": ["statue of", "statue to"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈstætʃuː/",
-        "audio": "st/statue/statue__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈstætʃuː/",
-        "audio": "st/statue/statue__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French, from Latin statua, from stare ‘to stand’."
+	"term": "statue",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"image": "data/images/ci/city.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a figure of a person or an animal in stone, metal, etc., usually the same size as in real life or larger",
+			"labels": "(US English)(US English)(US English)(especially British English)(North American English usually)(British English)(North American English)",
+			"examples": [
+				{
+					"text": "a **bronze/marble statue**"
+				},
+				{
+					"text": "a statue of Apollo"
+				},
+				{
+					"text": "The protesters toppled a statue of King George III."
+				},
+				{
+					"text": "The statue stands in one of the main squares."
+				},
+				{
+					"text": "a statue of the Virgin"
+				},
+				{
+					"text": "the dedicatory inscription on the statue base"
+				},
+				{
+					"text": "the unveiling of a statue to Lord Brown"
+				}
+			],
+			"topics": ["Art"],
+			"collocations": {
+				"adjective": ["colossal", "enormous", "giant"],
+				"verb + statue": ["erect", "put up", "unveil"],
+				"statue + verb": ["be", "stand"],
+				"statue + noun": ["base"],
+				"preposition": ["statue of", "statue to"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈstætʃuː/",
+				"audio": "st/statue/statue__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈstætʃuː/",
+				"audio": "st/statue/statue__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French, from Latin statua, from stare ‘to stand’."
 }

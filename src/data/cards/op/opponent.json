@@ -1,92 +1,92 @@
 {
-  "term": "opponent",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person that you are playing or fighting against in a game, competition, argument, etc.",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a political opponent"
-        },
-        {
-          "text": "a worthy/formidable/fierce/tough/staunch opponent"
-        },
-        {
-          "text": "The team's opponents are unbeaten so far this season."
-        },
-        {
-          "text": "He has knocked out 15 opponents in 20 fights."
-        },
-        {
-          "text": "Today she faces her toughest opponent on Centre Court."
-        },
-        {
-          "text": "He drew his sword and turned to face his opponent."
-        },
-        {
-          "text": "She proved a formidable opponent in the debating chamber."
-        }
-      ],
-      "synonyms": "adversary",
-      "topics": ["Opinion and argument", "Games and toys"],
-      "collocations": {
-        "adjective": ["chief", "main", "dangerous"],
-        "verb + opponent": ["attack", "hit", "fight"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person who is against something and tries to change or stop it",
-      "sensetop": "opponent of something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "opponents of abortion",
-          "contextForm": "opponent of something"
-        },
-        {
-          "text": "opponents of the regime"
-        },
-        {
-          "text": "the most outspoken opponents of the war"
-        },
-        {
-          "text": "Opponents argue that the scheme would be prohibitively expensive."
-        },
-        {
-          "text": "There were violent clashes between supporters and opponents of the government."
-        },
-        {
-          "text": "The regime has been accused of torturing and killing its opponents."
-        },
-        {
-          "text": "He has emerged as a leading opponent of the reforms."
-        }
-      ],
-      "collocations": {
-        "adjective": ["chief", "leading", "main"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/əˈpəʊnənt/",
-        "audio": "op/opponent/opponent__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/əˈpəʊnənt/",
-        "audio": "op/opponent/opponent__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent. (denoting a person opening an academic debate by proposing objections to a philosophical or religious thesis): from Latin opponent- ‘setting against’, from the verb opponere, from ob- ‘against’ + ponere ‘place’."
+	"term": "opponent",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person that you are playing or fighting against in a game, competition, argument, etc.",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a political opponent"
+				},
+				{
+					"text": "a worthy/formidable/fierce/tough/staunch opponent"
+				},
+				{
+					"text": "The team's opponents are unbeaten so far this season."
+				},
+				{
+					"text": "He has knocked out 15 opponents in 20 fights."
+				},
+				{
+					"text": "Today she faces her toughest opponent on Centre Court."
+				},
+				{
+					"text": "He drew his sword and turned to face his opponent."
+				},
+				{
+					"text": "She proved a formidable opponent in the debating chamber."
+				}
+			],
+			"synonyms": "adversary",
+			"topics": ["Opinion and argument", "Games and toys"],
+			"collocations": {
+				"adjective": ["chief", "main", "dangerous"],
+				"verb + opponent": ["attack", "hit", "fight"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person who is against something and tries to change or stop it",
+			"sensetop": "opponent of something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "opponents of abortion",
+					"contextForm": "opponent of something"
+				},
+				{
+					"text": "opponents of the regime"
+				},
+				{
+					"text": "the most outspoken opponents of the war"
+				},
+				{
+					"text": "Opponents argue that the scheme would be prohibitively expensive."
+				},
+				{
+					"text": "There were violent clashes between supporters and opponents of the government."
+				},
+				{
+					"text": "The regime has been accused of torturing and killing its opponents."
+				},
+				{
+					"text": "He has emerged as a leading opponent of the reforms."
+				}
+			],
+			"collocations": {
+				"adjective": ["chief", "leading", "main"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/əˈpəʊnənt/",
+				"audio": "op/opponent/opponent__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/əˈpəʊnənt/",
+				"audio": "op/opponent/opponent__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent. (denoting a person opening an academic debate by proposing objections to a philosophical or religious thesis): from Latin opponent- ‘setting against’, from the verb opponere, from ob- ‘against’ + ponere ‘place’."
 }

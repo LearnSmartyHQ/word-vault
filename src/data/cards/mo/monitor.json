@@ -1,129 +1,129 @@
 {
-  "term": "monitor",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a screen that shows information from a computer; a television screen used to show particular kinds of information",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The details of today's flights are displayed on the monitor."
-        },
-        {
-          "text": "The pages are designed to be viewed on a **computer monitor**."
-        },
-        {
-          "text": "We included the costs of monitor, keyboard, mouse and speakers."
-        },
-        {
-          "text": "The security staff can see all the outside of the building on their CCTV monitors."
-        },
-        {
-          "text": "the display quality on LCD monitors has greatly improved."
-        },
-        {
-          "text": "The laboratory is replete with banks of video monitors."
-        }
-      ],
-      "topics": ["TV, radio and news", "Computers"],
-      "collocations": {
-        "adjective": ["colour/​color", "digital", "CCTV"],
-        "preposition": ["on a/​the monitor"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a piece of equipment used to check or record something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "He was lying there hooked up to a heart monitor."
-        },
-        {
-          "text": "Mia kept a two-way baby monitor in the living room so Harry's cries could be heard."
-        },
-        {
-          "text": "A nurse checked his monitor for changes in ECG rhythms, pulse and oxygen saturation."
-        },
-        {
-          "text": "The heart monitor shows the strength of your pulse."
-        }
-      ],
-      "topics": ["Healthcare"],
-      "collocations": {
-        "adjective": ["baby", "foetal/​fetal", "heart"],
-        "monitor + verb": [
-          "detect something",
-          "display something",
-          "show something"
-        ],
-        "phrases": ["hooked up to a monitor"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a person whose job is to check that something is done fairly and honestly, especially in a foreign country",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "UN monitors declared the referendum fair."
-        },
-        {
-          "text": "The EU has agreed to provide monitors for the crossing."
-        },
-        {
-          "text": "Monitors or observers help to build trust between the two sides."
-        }
-      ],
-      "topics": ["Jobs"],
-      "collocations": {
-        "adjective": ["UN", "ceasefire", "election"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a student in a school who performs special duties, such as helping the teacher",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "He was a star pupil and the class monitor."
-        }
-      ],
-      "topics": ["Education"],
-      "collocations": {
-        "adjective": ["UN", "ceasefire", "election"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a large tropical lizard (= a type of reptile)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "A large monitor lizard, prehistoric in its beauty, stared at us."
-        }
-      ],
-      "topics": ["Animals"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmɒnɪtə(r)/",
-        "audio": "mo/monitor/monitor__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmɑːnɪtər/",
-        "audio": "mo/monitor/monitor__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 16th cent. (in sense (3)): from Latin, from monit- ‘warned’, from the verb monere. Sense (2) dates from the 1930s."
+	"term": "monitor",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a screen that shows information from a computer; a television screen used to show particular kinds of information",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The details of today's flights are displayed on the monitor."
+				},
+				{
+					"text": "The pages are designed to be viewed on a **computer monitor**."
+				},
+				{
+					"text": "We included the costs of monitor, keyboard, mouse and speakers."
+				},
+				{
+					"text": "The security staff can see all the outside of the building on their CCTV monitors."
+				},
+				{
+					"text": "the display quality on LCD monitors has greatly improved."
+				},
+				{
+					"text": "The laboratory is replete with banks of video monitors."
+				}
+			],
+			"topics": ["TV, radio and news", "Computers"],
+			"collocations": {
+				"adjective": ["colour/​color", "digital", "CCTV"],
+				"preposition": ["on a/​the monitor"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a piece of equipment used to check or record something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "He was lying there hooked up to a heart monitor."
+				},
+				{
+					"text": "Mia kept a two-way baby monitor in the living room so Harry's cries could be heard."
+				},
+				{
+					"text": "A nurse checked his monitor for changes in ECG rhythms, pulse and oxygen saturation."
+				},
+				{
+					"text": "The heart monitor shows the strength of your pulse."
+				}
+			],
+			"topics": ["Healthcare"],
+			"collocations": {
+				"adjective": ["baby", "foetal/​fetal", "heart"],
+				"monitor + verb": [
+					"detect something",
+					"display something",
+					"show something"
+				],
+				"phrases": ["hooked up to a monitor"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a person whose job is to check that something is done fairly and honestly, especially in a foreign country",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "UN monitors declared the referendum fair."
+				},
+				{
+					"text": "The EU has agreed to provide monitors for the crossing."
+				},
+				{
+					"text": "Monitors or observers help to build trust between the two sides."
+				}
+			],
+			"topics": ["Jobs"],
+			"collocations": {
+				"adjective": ["UN", "ceasefire", "election"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a student in a school who performs special duties, such as helping the teacher",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "He was a star pupil and the class monitor."
+				}
+			],
+			"topics": ["Education"],
+			"collocations": {
+				"adjective": ["UN", "ceasefire", "election"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a large tropical lizard (= a type of reptile)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "A large monitor lizard, prehistoric in its beauty, stared at us."
+				}
+			],
+			"topics": ["Animals"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmɒnɪtə(r)/",
+				"audio": "mo/monitor/monitor__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmɑːnɪtər/",
+				"audio": "mo/monitor/monitor__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 16th cent. (in sense (3)): from Latin, from monit- ‘warned’, from the verb monere. Sense (2) dates from the 1930s."
 }

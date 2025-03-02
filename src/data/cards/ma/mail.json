@@ -1,180 +1,180 @@
 {
-  "term": "mail",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the official system used for sending and delivering letters, packages, etc.",
-      "sensetop": "in the mailby mailthrough the mailvia mail",
-      "labels": "British English also(especially North American English)(especially North American English)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a mail service/train/van"
-        },
-        {
-          "text": "the Royal Mail"
-        },
-        {
-          "text": "regular/postal mail *(= rather than email)*"
-        },
-        {
-          "text": "Hard copies of the documents are in the mail to you.",
-          "contextForm": "in the mail"
-        },
-        {
-          "text": "We do our business by mail.",
-          "contextForm": "by mail"
-        },
-        {
-          "text": "Never send cash through the mail.",
-          "contextForm": "through the mail"
-        },
-        {
-          "text": "We did not get any message via mail or email.",
-          "contextForm": "via mail"
-        },
-        {
-          "text": "If we want to send something to another department, we use the internal mail."
-        },
-        {
-          "text": "Send it by first-class mail."
-        },
-        {
-          "text": "Millions of people registered to vote by mail."
-        },
-        {
-          "text": "If you're sending correspondence through the mail these days, why not design your own stamps?"
-        }
-      ],
-      "collocations": {
-        "adjective": ["certified", "registered", "express"],
-        "… of mail": ["item", "piece", "sackful"],
-        "verb + mail": ["post", "send", "get"],
-        "mail + verb": ["come", "go"],
-        "mail + noun": ["delivery", "order", "message"],
-        "preposition": ["by mail", "in the mail"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "letters, packages, etc. that are sent and delivered",
-      "sensetop": "in the mail",
-      "labels": "British English alsoBritish EnglishNorth American EnglishBritish EnglishNorth American EnglishBritish EnglishNorth American EnglishBritish English(British English)(North American English)(British English)North American English(British English)(North American English)British EnglishNorth American English",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "There isn't much mail today."
-        },
-        {
-          "text": "I sat down to open the mail."
-        },
-        {
-          "text": "to send/receive/deliver mail"
-        },
-        {
-          "text": "Is there a letter from them in the mail?",
-          "contextForm": "in the mail"
-        },
-        {
-          "text": "Remember to cancel mail delivery when you go on vacation."
-        },
-        {
-          "text": "Has the mail come yet?"
-        },
-        {
-          "text": "Some people let their assistants handle the mail."
-        },
-        {
-          "text": "The mail is collected twice a day."
-        },
-        {
-          "text": "The postcode allows the mail to be sorted automatically."
-        },
-        {
-          "text": "We had our mail redirected when we moved out."
-        }
-      ],
-      "collocations": {
-        "adjective": ["certified", "registered", "express"],
-        "… of mail": ["item", "piece", "sackful"],
-        "verb + mail": ["post", "send", "get"],
-        "mail + verb": ["come", "go"],
-        "mail + noun": ["delivery", "order", "message"],
-        "preposition": ["by mail", "in the mail"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "messages/a message sent or received on a computer",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Check regularly for new mail."
-        },
-        {
-          "text": "She checked her mail before leaving the hotel."
-        },
-        {
-          "text": "You've got mail."
-        },
-        {
-          "text": "incoming/outgoing mail"
-        },
-        {
-          "text": "The company's **mail server** was down."
-        },
-        {
-          "text": "You can delete your mails with a single swipe."
-        }
-      ],
-      "topics": ["Phones, email and the internet"],
-      "collocations": {
-        "adjective": ["certified", "registered", "express"],
-        "… of mail": ["item", "piece", "sackful"],
-        "verb + mail": ["post", "send", "get"],
-        "mail + verb": ["come", "go"],
-        "mail + noun": ["delivery", "order", "message"],
-        "preposition": ["by mail", "in the mail"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "used in the title of some newspapers",
-      "examples": [
-        {
-          "text": "the Mail on Sunday"
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "armour (= clothing to protect the body when fighting) made of small metal rings linked together",
-      "examples": [
-        {
-          "text": "a coat of mail"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/meɪl/",
-        "audio": "ma/mail/mail__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/meɪl/",
-        "audio": "ma/mail/mail__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in the sense ‘travelling bag’): from Old French male ‘wallet’, of West Germanic origin. The sense “by post” dates from the mid 17th cent."
+	"term": "mail",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the official system used for sending and delivering letters, packages, etc.",
+			"sensetop": "in the mailby mailthrough the mailvia mail",
+			"labels": "British English also(especially North American English)(especially North American English)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a mail service/train/van"
+				},
+				{
+					"text": "the Royal Mail"
+				},
+				{
+					"text": "regular/postal mail *(= rather than email)*"
+				},
+				{
+					"text": "Hard copies of the documents are in the mail to you.",
+					"contextForm": "in the mail"
+				},
+				{
+					"text": "We do our business by mail.",
+					"contextForm": "by mail"
+				},
+				{
+					"text": "Never send cash through the mail.",
+					"contextForm": "through the mail"
+				},
+				{
+					"text": "We did not get any message via mail or email.",
+					"contextForm": "via mail"
+				},
+				{
+					"text": "If we want to send something to another department, we use the internal mail."
+				},
+				{
+					"text": "Send it by first-class mail."
+				},
+				{
+					"text": "Millions of people registered to vote by mail."
+				},
+				{
+					"text": "If you're sending correspondence through the mail these days, why not design your own stamps?"
+				}
+			],
+			"collocations": {
+				"adjective": ["certified", "registered", "express"],
+				"… of mail": ["item", "piece", "sackful"],
+				"verb + mail": ["post", "send", "get"],
+				"mail + verb": ["come", "go"],
+				"mail + noun": ["delivery", "order", "message"],
+				"preposition": ["by mail", "in the mail"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "letters, packages, etc. that are sent and delivered",
+			"sensetop": "in the mail",
+			"labels": "British English alsoBritish EnglishNorth American EnglishBritish EnglishNorth American EnglishBritish EnglishNorth American EnglishBritish English(British English)(North American English)(British English)North American English(British English)(North American English)British EnglishNorth American English",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "There isn't much mail today."
+				},
+				{
+					"text": "I sat down to open the mail."
+				},
+				{
+					"text": "to send/receive/deliver mail"
+				},
+				{
+					"text": "Is there a letter from them in the mail?",
+					"contextForm": "in the mail"
+				},
+				{
+					"text": "Remember to cancel mail delivery when you go on vacation."
+				},
+				{
+					"text": "Has the mail come yet?"
+				},
+				{
+					"text": "Some people let their assistants handle the mail."
+				},
+				{
+					"text": "The mail is collected twice a day."
+				},
+				{
+					"text": "The postcode allows the mail to be sorted automatically."
+				},
+				{
+					"text": "We had our mail redirected when we moved out."
+				}
+			],
+			"collocations": {
+				"adjective": ["certified", "registered", "express"],
+				"… of mail": ["item", "piece", "sackful"],
+				"verb + mail": ["post", "send", "get"],
+				"mail + verb": ["come", "go"],
+				"mail + noun": ["delivery", "order", "message"],
+				"preposition": ["by mail", "in the mail"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "messages/a message sent or received on a computer",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Check regularly for new mail."
+				},
+				{
+					"text": "She checked her mail before leaving the hotel."
+				},
+				{
+					"text": "You've got mail."
+				},
+				{
+					"text": "incoming/outgoing mail"
+				},
+				{
+					"text": "The company's **mail server** was down."
+				},
+				{
+					"text": "You can delete your mails with a single swipe."
+				}
+			],
+			"topics": ["Phones, email and the internet"],
+			"collocations": {
+				"adjective": ["certified", "registered", "express"],
+				"… of mail": ["item", "piece", "sackful"],
+				"verb + mail": ["post", "send", "get"],
+				"mail + verb": ["come", "go"],
+				"mail + noun": ["delivery", "order", "message"],
+				"preposition": ["by mail", "in the mail"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "used in the title of some newspapers",
+			"examples": [
+				{
+					"text": "the Mail on Sunday"
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "armour (= clothing to protect the body when fighting) made of small metal rings linked together",
+			"examples": [
+				{
+					"text": "a coat of mail"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/meɪl/",
+				"audio": "ma/mail/mail__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/meɪl/",
+				"audio": "ma/mail/mail__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in the sense ‘travelling bag’): from Old French male ‘wallet’, of West Germanic origin. The sense “by post” dates from the mid 17th cent."
 }

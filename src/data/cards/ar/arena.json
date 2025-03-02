@@ -1,103 +1,103 @@
 {
-  "term": "arena",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a place with a flat open area in the middle and seats around it where people can watch sports and entertainment",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a concert at Wembley Arena"
-        },
-        {
-          "text": "an indoor **sports arena**"
-        },
-        {
-          "text": "a hockey/basketball arena"
-        },
-        {
-          "text": "plans to construct a new downtown arena"
-        },
-        {
-          "text": "He left the arena to loud applause."
-        },
-        {
-          "text": "The Hurricanes have a new home arena."
-        },
-        {
-          "text": "The rider has to halt the horse in the arena."
-        }
-      ],
-      "topics": ["Sports: other sports"],
-      "collocations": {
-        "adjective": ["Olympic", "sports", "training"],
-        "verb + arena": ["build", "leave"],
-        "arena + noun": ["floor"],
-        "preposition": ["in an/​the arena", "into an/​the arena"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an area of activity that interests the public, especially one where there is a lot of opposition between different groups or countries",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the **political/international arena**"
-        },
-        {
-          "text": "I want to work outside the arena of competition."
-        },
-        {
-          "text": "Some documents have now emerged into the public arena."
-        },
-        {
-          "text": "The company has been very successful in the commercial arena."
-        },
-        {
-          "text": "The conference should provide an arena for marketing our new products."
-        },
-        {
-          "text": "This observation also applies in the environmental policy arena."
-        },
-        {
-          "text": "Trades unions are active both in individual workplaces and in the wider arena of the state."
-        },
-        {
-          "text": "the challenges of bringing a business into the online arena"
-        },
-        {
-          "text": "Space became an arena for global competition between the United States and the Soviet Union."
-        }
-      ],
-      "topics": ["Politics"],
-      "collocations": {
-        "adjective": ["global", "international", "national"],
-        "verb + arena": ["create", "provide", "emerge into"],
-        "preposition": [
-          "in an/​the arena",
-          "within an/​the arena",
-          "outside an/​the arena"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/əˈriːnə/",
-        "audio": "ar/arena/arena__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/əˈriːnə/",
-        "audio": "ar/arena/arena__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 17th cent.: from Latin harena, arena ‘sand, sand-strewn place of combat’."
+	"term": "arena",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a place with a flat open area in the middle and seats around it where people can watch sports and entertainment",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a concert at Wembley Arena"
+				},
+				{
+					"text": "an indoor **sports arena**"
+				},
+				{
+					"text": "a hockey/basketball arena"
+				},
+				{
+					"text": "plans to construct a new downtown arena"
+				},
+				{
+					"text": "He left the arena to loud applause."
+				},
+				{
+					"text": "The Hurricanes have a new home arena."
+				},
+				{
+					"text": "The rider has to halt the horse in the arena."
+				}
+			],
+			"topics": ["Sports: other sports"],
+			"collocations": {
+				"adjective": ["Olympic", "sports", "training"],
+				"verb + arena": ["build", "leave"],
+				"arena + noun": ["floor"],
+				"preposition": ["in an/​the arena", "into an/​the arena"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an area of activity that interests the public, especially one where there is a lot of opposition between different groups or countries",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the **political/international arena**"
+				},
+				{
+					"text": "I want to work outside the arena of competition."
+				},
+				{
+					"text": "Some documents have now emerged into the public arena."
+				},
+				{
+					"text": "The company has been very successful in the commercial arena."
+				},
+				{
+					"text": "The conference should provide an arena for marketing our new products."
+				},
+				{
+					"text": "This observation also applies in the environmental policy arena."
+				},
+				{
+					"text": "Trades unions are active both in individual workplaces and in the wider arena of the state."
+				},
+				{
+					"text": "the challenges of bringing a business into the online arena"
+				},
+				{
+					"text": "Space became an arena for global competition between the United States and the Soviet Union."
+				}
+			],
+			"topics": ["Politics"],
+			"collocations": {
+				"adjective": ["global", "international", "national"],
+				"verb + arena": ["create", "provide", "emerge into"],
+				"preposition": [
+					"in an/​the arena",
+					"within an/​the arena",
+					"outside an/​the arena"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/əˈriːnə/",
+				"audio": "ar/arena/arena__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/əˈriːnə/",
+				"audio": "ar/arena/arena__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 17th cent.: from Latin harena, arena ‘sand, sand-strewn place of combat’."
 }

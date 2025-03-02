@@ -1,97 +1,97 @@
 {
-  "term": "coal",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a hard black mineral that is found below the ground and burnt to produce heat",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I put more coal on the fire."
-        },
-        {
-          "text": "a lump of coal"
-        },
-        {
-          "text": "**coal mining**"
-        },
-        {
-          "text": "She sat by the coal fire in the kitchen."
-        },
-        {
-          "text": "Plans were being drawn up for the privatization of the coal industry."
-        },
-        {
-          "text": "These men had spent their lives breathing coal dust."
-        },
-        {
-          "text": "There are substantial reserves of methane gas trapped in coal seams in the area."
-        },
-        {
-          "text": "opencast coal mining"
-        },
-        {
-          "text": "Put some more coal on the fire."
-        }
-      ],
-      "topics": ["The environment"],
-      "collocations": {
-        "adjective": ["clean", "smokeless", "hard"],
-        "… of coal": ["lump", "piece"],
-        "verb + coal": ["mine", "produce", "burn"],
-        "coal + verb": ["burn"],
-        "coal + noun": ["fire", "mine", "pit"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a piece of coal, especially one that is burning",
-      "examples": [
-        {
-          "text": "A hot coal fell out of the fire and burnt the carpet."
-        },
-        {
-          "text": "Red-hot coals glowed in the fireplace."
-        }
-      ],
-      "collocations": {
-        "adjective": ["burning", "glowing", "hot"],
-        "coal + verb": ["glow"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to take goods to a place where there are already plenty of them; to supply something where it is not needed",
-      "labels": "(British English)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to criticize somebody severely because they have done something wrong",
-      "examples": [
-        {
-          "text": "I was hauled over the coals by my boss for being late."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kəʊl/",
-        "audio": "co/coal/coal__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kəʊl/",
-        "audio": "co/coal/coal__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English col (in the senses ‘glowing ember’ and ‘charred remnant’), of Germanic origin; related to Dutch kool and German Kohle. The sense ‘combustible mineral used as fuel’ dates from Middle English."
+	"term": "coal",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a hard black mineral that is found below the ground and burnt to produce heat",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I put more coal on the fire."
+				},
+				{
+					"text": "a lump of coal"
+				},
+				{
+					"text": "**coal mining**"
+				},
+				{
+					"text": "She sat by the coal fire in the kitchen."
+				},
+				{
+					"text": "Plans were being drawn up for the privatization of the coal industry."
+				},
+				{
+					"text": "These men had spent their lives breathing coal dust."
+				},
+				{
+					"text": "There are substantial reserves of methane gas trapped in coal seams in the area."
+				},
+				{
+					"text": "opencast coal mining"
+				},
+				{
+					"text": "Put some more coal on the fire."
+				}
+			],
+			"topics": ["The environment"],
+			"collocations": {
+				"adjective": ["clean", "smokeless", "hard"],
+				"… of coal": ["lump", "piece"],
+				"verb + coal": ["mine", "produce", "burn"],
+				"coal + verb": ["burn"],
+				"coal + noun": ["fire", "mine", "pit"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a piece of coal, especially one that is burning",
+			"examples": [
+				{
+					"text": "A hot coal fell out of the fire and burnt the carpet."
+				},
+				{
+					"text": "Red-hot coals glowed in the fireplace."
+				}
+			],
+			"collocations": {
+				"adjective": ["burning", "glowing", "hot"],
+				"coal + verb": ["glow"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to take goods to a place where there are already plenty of them; to supply something where it is not needed",
+			"labels": "(British English)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to criticize somebody severely because they have done something wrong",
+			"examples": [
+				{
+					"text": "I was hauled over the coals by my boss for being late."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kəʊl/",
+				"audio": "co/coal/coal__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kəʊl/",
+				"audio": "co/coal/coal__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English col (in the senses ‘glowing ember’ and ‘charred remnant’), of Germanic origin; related to Dutch kool and German Kohle. The sense ‘combustible mineral used as fuel’ dates from Middle English."
 }

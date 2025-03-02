@@ -1,604 +1,604 @@
 {
-  "term": "think",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "think",
-      "heSheIt": "thinks"
-    },
-    "pastSimple": "thought",
-    "pastParticiple": "thought",
-    "ingForm": "thinking"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to have a particular idea or opinion about something/somebody; to believe something",
-      "sensetop": "think (that)…it is thought that…think somethingthink something about somethingthink something of somethingthink sothink somebody/something + adj.think somebody/something + nounbe thought to be somebody/somethingthink of somebody/something as somebody/something",
-      "labels": "(informal)(British English)(North American English)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Do you **really think** (that) he'll win?",
-          "contextForm": "think (that)…"
-        },
-        {
-          "text": "I thought I heard a scream."
-        },
-        {
-          "text": "I didn't think people were allowed to park here."
-        },
-        {
-          "text": "**Am I right in thinking** that you used to live here?"
-        },
-        {
-          "text": "I think this is their house, but I'm not sure."
-        },
-        {
-          "text": "He ought to resign, I think."
-        },
-        {
-          "text": "That's my opinion, but you might **think otherwise** *(= have a different opinion)*."
-        },
-        {
-          "text": "We'll need about 20 chairs, **I should think**."
-        },
-        {
-          "text": "I **can't help thinking** (that) things could have been different."
-        },
-        {
-          "text": "It was once thought that the sun travelled around the earth.",
-          "contextForm": "it is thought that…"
-        },
-        {
-          "text": "Well, I like it. What do you think?",
-          "contextForm": "think something"
-        },
-        {
-          "text": "What did you think about the idea?",
-          "contextForm": "think something about something"
-        },
-        {
-          "text": "What did you think of the film?",
-          "contextForm": "think something of something"
-        },
-        {
-          "text": "‘Is he any good?’ ‘I don't think so.’",
-          "contextForm": "think so"
-        },
-        {
-          "text": "‘Will we make it in time?’ ‘I think so.’"
-        },
-        {
-          "text": "I **think it** highly unlikely that I'll get the job.",
-          "contextForm": "think somebody/something + adj."
-        },
-        {
-          "text": "She thought him kind and generous."
-        },
-        {
-          "text": "It was better than I thought possible."
-        },
-        {
-          "text": "I thought it a good idea to go with him.",
-          "contextForm": "think somebody/something + noun"
-        },
-        {
-          "text": "He's thought to be one of the richest men in Europe.",
-          "contextForm": "be thought to be somebody/something"
-        },
-        {
-          "text": "I think of this place as my home.",
-          "contextForm": "think of somebody/something as somebody/something"
-        },
-        {
-          "text": "She is thought of as a possible director."
-        },
-        {
-          "text": "Do you think (that) they’ll come?"
-        },
-        {
-          "text": "I didn't think you liked sports."
-        },
-        {
-          "text": "Did you honestly think I would agree to that?"
-        },
-        {
-          "text": "I personally think it's all been a lot of fuss over nothing."
-        },
-        {
-          "text": "I'm inclined to think we've been a little harsh on her."
-        },
-        {
-          "text": "I still don't know what he really thinks about it."
-        }
-      ],
-      "topics": ["Opinion and argument"],
-      "collocations": {
-        "adverb": ["really", "personally", "honestly"],
-        "verb + think": ["be inclined to"],
-        "preposition": ["about", "of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to use your mind to consider something, to form connected ideas, to try to solve problems, etc.",
-      "sensetop": "think about somethingthink what, how, etc…",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Are animals able to think?"
-        },
-        {
-          "text": "Let me think *(= give me time before I answer)*."
-        },
-        {
-          "text": "Stop and think for a moment before making any decisions."
-        },
-        {
-          "text": "I'm sorry, **I wasn't thinking** *(= said when you have upset or offended somebody accidentally)*."
-        },
-        {
-          "text": "I can't tell you now—I'll have to **think about it**.",
-          "contextForm": "think about something"
-        },
-        {
-          "text": "The government needs to **think carefully** about the issues raised."
-        },
-        {
-          "text": "All he ever thinks about is money."
-        },
-        {
-          "text": "He was trying to think what to do.",
-          "contextForm": "think what, how, etc…"
-        },
-        {
-          "text": "She had thought very deeply about this problem."
-        },
-        {
-          "text": "He seemed to have lost the ability to think rationally."
-        },
-        {
-          "text": "She thought long and hard before accepting his offer."
-        },
-        {
-          "text": "Think about what you are going to do next."
-        }
-      ],
-      "collocations": {
-        "adverb": ["carefully", "deeply", "hard"],
-        "verb + think": ["dread to", "hate to", "shudder to"],
-        "preposition": ["about", "of"],
-        "phrases": ["not think straight", "think big"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to have ideas, words or images in your mind",
-      "sensetop": "think somethingthink what, how, etc…+ speech",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "You're very quiet. What are you thinking?",
-          "contextForm": "think something"
-        },
-        {
-          "text": "I was just thinking what a long way it is.",
-          "contextForm": "think what, how, etc…"
-        },
-        {
-          "text": "‘I must be crazy,’ she thought.",
-          "contextForm": "+ speech"
-        },
-        {
-          "text": "‘What can I do now?’ he thought frantically."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to form an idea of something; to imagine something",
-      "sensetop": "think where, how, etc…think (that)…think (something)",
-      "labels": "(especially British English)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "We couldn't think where you'd gone.",
-          "contextForm": "think where, how, etc…"
-        },
-        {
-          "text": "Just think how nice it would be to see them again."
-        },
-        {
-          "text": "I hate to think what would have happened if we hadn't arrived."
-        },
-        {
-          "text": "I **like to think** (that) he would help if I needed it.",
-          "contextForm": "think (that)…"
-        },
-        {
-          "text": "I can’t think (that) he would be so stupid."
-        },
-        {
-          "text": "If I'm home late, my mother always thinks the worst.",
-          "contextForm": "think (something)"
-        },
-        {
-          "text": "**Just think**—we'll be lying on the beach this time tomorrow."
-        },
-        {
-          "text": "Try to **think yourself into** the role."
-        }
-      ],
-      "collocations": {
-        "adverb": ["suddenly"],
-        "preposition": ["of"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to expect something",
-      "sensetop": "think (that)…think to do something",
-      "labels": "(formal)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I never thought (that) I’d see her again.",
-          "contextForm": "think (that)…"
-        },
-        {
-          "text": "The job took longer than we thought."
-        },
-        {
-          "text": "You'd think she'd have been grateful for my help *(= but she wasn't)*."
-        },
-        {
-          "text": "I never thought you would carry out your threat."
-        },
-        {
-          "text": "Who would have thought to find you here?",
-          "contextForm": "think to do something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to think in a particular way or on a particular subject",
-      "sensetop": "+ adj.think something",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Let's think positive.",
-          "contextForm": "+ adj."
-        },
-        {
-          "text": "You need to **think big** *(= aim to achieve a lot)*."
-        },
-        {
-          "text": "If you want to make money, you've got to think money.",
-          "contextForm": "think something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "used in questions to show that you are angry or surprised",
-      "sensetop": "think (that)…",
-      "examples": [
-        {
-          "text": "What do you think you're doing?"
-        }
-      ]
-    },
-    {
-      "senseNumber": 8,
-      "definition": "used to make something you say sound less definite or more polite",
-      "sensetop": "think (that)…think so",
-      "examples": [
-        {
-          "text": "I thought we could go out tonight.",
-          "contextForm": "think (that)…"
-        },
-        {
-          "text": "Twenty guests are enough, I would have thought."
-        },
-        {
-          "text": "**Do you think** you could open the window?"
-        },
-        {
-          "text": "‘You've made a mistake.’ ‘I don't think so.’",
-          "contextForm": "think so"
-        }
-      ]
-    },
-    {
-      "senseNumber": 9,
-      "definition": "to intend something; to have a plan about something",
-      "sensetop": "think (that…)",
-      "examples": [
-        {
-          "text": "I think I'll go for a swim."
-        },
-        {
-          "text": "I'm thinking in terms of about 70 guests at the wedding."
-        }
-      ]
-    },
-    {
-      "senseNumber": 10,
-      "definition": "to remember something; to have something come into your mind",
-      "sensetop": "think to do somethingthink where, what, etc…",
-      "examples": [
-        {
-          "text": "I didn't think *(= it did not occur to me)* to tell her.",
-          "contextForm": "think to do something"
-        },
-        {
-          "text": "I can't think where I put the keys.",
-          "contextForm": "think where, what, etc…"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to behave in a very confident way that annoys other people, for example by telling them what to do",
-      "labels": "(disapproving)",
-      "examples": [
-        {
-          "text": "She was acting as if she owned the place."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used when you suddenly remember something or realize that it might be important",
-      "examples": [
-        {
-          "text": "Come to think of it, he did mention seeing you."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that you and another person must both be very clever because you have had the same idea or agree about something",
-      "labels": "(informal, humorous)",
-      "examples": [],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say very strongly that you do not agree with something, or that something is not possible",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Me? Fail? I don't think so."
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to draw attention to a fact that is not obvious or has not previously been mentioned",
-      "examples": [
-        {
-          "text": "It was a difficult situation, when you think about it."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that you hope or believe that something is true",
-      "examples": [
-        {
-          "text": "I like to think I'm broad-minded."
-        },
-        {
-          "text": "I’d like to think that you were helping me because you wanted to, not because you felt you had to."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "that is what I expected or suspected",
-      "examples": [
-        {
-          "text": "‘He said he'd forgotten.’ ‘I thought as much.’"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used when you are thinking or trying to remember something",
-      "examples": [
-        {
-          "text": "Now let me see—where did he say he lived?"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to consider it right or acceptable to do something; to decide or choose to do something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "You must do as you think fit *(= but I don't agree with your decision)*."
-        },
-        {
-          "text": "The newspaper did not see fit to publish my letter *(= and I criticize it for that)*."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to say or think bad things about somebody",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "Don't speak ill of the dead."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to consider a situation again and perhaps change your idea or intention",
-      "examples": [
-        {
-          "text": "You really should think again about that."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to say what your thoughts are as you have them",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to have a higher opinion of somebody",
-      "examples": [
-        {
-          "text": "She has behaved appallingly—I must say I thought better of her."
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to decide not to do something after thinking further about it",
-      "examples": [
-        {
-          "text": "Rosie was about to protest but thought better of it."
-        }
-      ],
-      "synonyms": "reconsider"
-    },
-    {
-      "senseNumber": null,
-      "definition": "to form your own opinions and make decisions without depending on others",
-      "examples": [],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to say or think bad things about somebody",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "I wouldn't want them to think ill of me."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to consider an activity to be normal and not particularly unusual or difficult",
-      "examples": [
-        {
-          "text": "She thinks nothing of walking thirty miles a day."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used as a polite response when somebody has said sorry to you or thanked you",
-      "labels": "(formal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be able to think and react to things very quickly and effectively without any preparation",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to think about something, or how to do something, in a way that is new, different or shows imagination",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to think in a clear or logical way",
-      "examples": [
-        {
-          "text": "The drugs were affecting her and she couldn't think straight."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to think carefully before deciding to do something",
-      "examples": [
-        {
-          "text": "You should think twice about employing someone you've never met."
-        }
-      ],
-      "topics": ["Preferences and decisions"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to have a very good, poor, etc. opinion of somebody/something",
-      "examples": [
-        {
-          "text": "He thinks the world of his daughter."
-        },
-        {
-          "text": "I don't think much of her idea."
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to show that you are surprised or shocked by something",
-      "examples": [
-        {
-          "text": "To think that my mother wrote all those books and I never knew!"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/θɪŋk/",
-        "audio": "th/think/think__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/θɪŋks/",
-        "audio": "th/think/thinks__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/θɔːt/",
-        "audio": "th/think/thought__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈθɪŋkɪŋ/",
-        "audio": "th/think/thinking__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/θɪŋk/",
-        "audio": "th/think/think__us_1.mp3"
-      },
-      {
-        "pronunciation": "/θɪŋks/",
-        "audio": "th/think/thinks__us_1.mp3"
-      },
-      {
-        "pronunciation": "/θɔːt/",
-        "audio": "th/think/thought__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈθɪŋkɪŋ/",
-        "audio": "th/think/thinking__us_3.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English thencan, of Germanic origin; related to Dutch and German denken."
+	"term": "think",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "think",
+			"heSheIt": "thinks"
+		},
+		"pastSimple": "thought",
+		"pastParticiple": "thought",
+		"ingForm": "thinking"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to have a particular idea or opinion about something/somebody; to believe something",
+			"sensetop": "think (that)…it is thought that…think somethingthink something about somethingthink something of somethingthink sothink somebody/something + adj.think somebody/something + nounbe thought to be somebody/somethingthink of somebody/something as somebody/something",
+			"labels": "(informal)(British English)(North American English)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Do you **really think** (that) he'll win?",
+					"contextForm": "think (that)…"
+				},
+				{
+					"text": "I thought I heard a scream."
+				},
+				{
+					"text": "I didn't think people were allowed to park here."
+				},
+				{
+					"text": "**Am I right in thinking** that you used to live here?"
+				},
+				{
+					"text": "I think this is their house, but I'm not sure."
+				},
+				{
+					"text": "He ought to resign, I think."
+				},
+				{
+					"text": "That's my opinion, but you might **think otherwise** *(= have a different opinion)*."
+				},
+				{
+					"text": "We'll need about 20 chairs, **I should think**."
+				},
+				{
+					"text": "I **can't help thinking** (that) things could have been different."
+				},
+				{
+					"text": "It was once thought that the sun travelled around the earth.",
+					"contextForm": "it is thought that…"
+				},
+				{
+					"text": "Well, I like it. What do you think?",
+					"contextForm": "think something"
+				},
+				{
+					"text": "What did you think about the idea?",
+					"contextForm": "think something about something"
+				},
+				{
+					"text": "What did you think of the film?",
+					"contextForm": "think something of something"
+				},
+				{
+					"text": "‘Is he any good?’ ‘I don't think so.’",
+					"contextForm": "think so"
+				},
+				{
+					"text": "‘Will we make it in time?’ ‘I think so.’"
+				},
+				{
+					"text": "I **think it** highly unlikely that I'll get the job.",
+					"contextForm": "think somebody/something + adj."
+				},
+				{
+					"text": "She thought him kind and generous."
+				},
+				{
+					"text": "It was better than I thought possible."
+				},
+				{
+					"text": "I thought it a good idea to go with him.",
+					"contextForm": "think somebody/something + noun"
+				},
+				{
+					"text": "He's thought to be one of the richest men in Europe.",
+					"contextForm": "be thought to be somebody/something"
+				},
+				{
+					"text": "I think of this place as my home.",
+					"contextForm": "think of somebody/something as somebody/something"
+				},
+				{
+					"text": "She is thought of as a possible director."
+				},
+				{
+					"text": "Do you think (that) they’ll come?"
+				},
+				{
+					"text": "I didn't think you liked sports."
+				},
+				{
+					"text": "Did you honestly think I would agree to that?"
+				},
+				{
+					"text": "I personally think it's all been a lot of fuss over nothing."
+				},
+				{
+					"text": "I'm inclined to think we've been a little harsh on her."
+				},
+				{
+					"text": "I still don't know what he really thinks about it."
+				}
+			],
+			"topics": ["Opinion and argument"],
+			"collocations": {
+				"adverb": ["really", "personally", "honestly"],
+				"verb + think": ["be inclined to"],
+				"preposition": ["about", "of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to use your mind to consider something, to form connected ideas, to try to solve problems, etc.",
+			"sensetop": "think about somethingthink what, how, etc…",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Are animals able to think?"
+				},
+				{
+					"text": "Let me think *(= give me time before I answer)*."
+				},
+				{
+					"text": "Stop and think for a moment before making any decisions."
+				},
+				{
+					"text": "I'm sorry, **I wasn't thinking** *(= said when you have upset or offended somebody accidentally)*."
+				},
+				{
+					"text": "I can't tell you now—I'll have to **think about it**.",
+					"contextForm": "think about something"
+				},
+				{
+					"text": "The government needs to **think carefully** about the issues raised."
+				},
+				{
+					"text": "All he ever thinks about is money."
+				},
+				{
+					"text": "He was trying to think what to do.",
+					"contextForm": "think what, how, etc…"
+				},
+				{
+					"text": "She had thought very deeply about this problem."
+				},
+				{
+					"text": "He seemed to have lost the ability to think rationally."
+				},
+				{
+					"text": "She thought long and hard before accepting his offer."
+				},
+				{
+					"text": "Think about what you are going to do next."
+				}
+			],
+			"collocations": {
+				"adverb": ["carefully", "deeply", "hard"],
+				"verb + think": ["dread to", "hate to", "shudder to"],
+				"preposition": ["about", "of"],
+				"phrases": ["not think straight", "think big"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to have ideas, words or images in your mind",
+			"sensetop": "think somethingthink what, how, etc…+ speech",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "You're very quiet. What are you thinking?",
+					"contextForm": "think something"
+				},
+				{
+					"text": "I was just thinking what a long way it is.",
+					"contextForm": "think what, how, etc…"
+				},
+				{
+					"text": "‘I must be crazy,’ she thought.",
+					"contextForm": "+ speech"
+				},
+				{
+					"text": "‘What can I do now?’ he thought frantically."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to form an idea of something; to imagine something",
+			"sensetop": "think where, how, etc…think (that)…think (something)",
+			"labels": "(especially British English)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "We couldn't think where you'd gone.",
+					"contextForm": "think where, how, etc…"
+				},
+				{
+					"text": "Just think how nice it would be to see them again."
+				},
+				{
+					"text": "I hate to think what would have happened if we hadn't arrived."
+				},
+				{
+					"text": "I **like to think** (that) he would help if I needed it.",
+					"contextForm": "think (that)…"
+				},
+				{
+					"text": "I can’t think (that) he would be so stupid."
+				},
+				{
+					"text": "If I'm home late, my mother always thinks the worst.",
+					"contextForm": "think (something)"
+				},
+				{
+					"text": "**Just think**—we'll be lying on the beach this time tomorrow."
+				},
+				{
+					"text": "Try to **think yourself into** the role."
+				}
+			],
+			"collocations": {
+				"adverb": ["suddenly"],
+				"preposition": ["of"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to expect something",
+			"sensetop": "think (that)…think to do something",
+			"labels": "(formal)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I never thought (that) I’d see her again.",
+					"contextForm": "think (that)…"
+				},
+				{
+					"text": "The job took longer than we thought."
+				},
+				{
+					"text": "You'd think she'd have been grateful for my help *(= but she wasn't)*."
+				},
+				{
+					"text": "I never thought you would carry out your threat."
+				},
+				{
+					"text": "Who would have thought to find you here?",
+					"contextForm": "think to do something"
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to think in a particular way or on a particular subject",
+			"sensetop": "+ adj.think something",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Let's think positive.",
+					"contextForm": "+ adj."
+				},
+				{
+					"text": "You need to **think big** *(= aim to achieve a lot)*."
+				},
+				{
+					"text": "If you want to make money, you've got to think money.",
+					"contextForm": "think something"
+				}
+			]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "used in questions to show that you are angry or surprised",
+			"sensetop": "think (that)…",
+			"examples": [
+				{
+					"text": "What do you think you're doing?"
+				}
+			]
+		},
+		{
+			"senseNumber": 8,
+			"definition": "used to make something you say sound less definite or more polite",
+			"sensetop": "think (that)…think so",
+			"examples": [
+				{
+					"text": "I thought we could go out tonight.",
+					"contextForm": "think (that)…"
+				},
+				{
+					"text": "Twenty guests are enough, I would have thought."
+				},
+				{
+					"text": "**Do you think** you could open the window?"
+				},
+				{
+					"text": "‘You've made a mistake.’ ‘I don't think so.’",
+					"contextForm": "think so"
+				}
+			]
+		},
+		{
+			"senseNumber": 9,
+			"definition": "to intend something; to have a plan about something",
+			"sensetop": "think (that…)",
+			"examples": [
+				{
+					"text": "I think I'll go for a swim."
+				},
+				{
+					"text": "I'm thinking in terms of about 70 guests at the wedding."
+				}
+			]
+		},
+		{
+			"senseNumber": 10,
+			"definition": "to remember something; to have something come into your mind",
+			"sensetop": "think to do somethingthink where, what, etc…",
+			"examples": [
+				{
+					"text": "I didn't think *(= it did not occur to me)* to tell her.",
+					"contextForm": "think to do something"
+				},
+				{
+					"text": "I can't think where I put the keys.",
+					"contextForm": "think where, what, etc…"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to behave in a very confident way that annoys other people, for example by telling them what to do",
+			"labels": "(disapproving)",
+			"examples": [
+				{
+					"text": "She was acting as if she owned the place."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used when you suddenly remember something or realize that it might be important",
+			"examples": [
+				{
+					"text": "Come to think of it, he did mention seeing you."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that you and another person must both be very clever because you have had the same idea or agree about something",
+			"labels": "(informal, humorous)",
+			"examples": [],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say very strongly that you do not agree with something, or that something is not possible",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Me? Fail? I don't think so."
+				}
+			],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to draw attention to a fact that is not obvious or has not previously been mentioned",
+			"examples": [
+				{
+					"text": "It was a difficult situation, when you think about it."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that you hope or believe that something is true",
+			"examples": [
+				{
+					"text": "I like to think I'm broad-minded."
+				},
+				{
+					"text": "I’d like to think that you were helping me because you wanted to, not because you felt you had to."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "that is what I expected or suspected",
+			"examples": [
+				{
+					"text": "‘He said he'd forgotten.’ ‘I thought as much.’"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used when you are thinking or trying to remember something",
+			"examples": [
+				{
+					"text": "Now let me see—where did he say he lived?"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to consider it right or acceptable to do something; to decide or choose to do something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "You must do as you think fit *(= but I don't agree with your decision)*."
+				},
+				{
+					"text": "The newspaper did not see fit to publish my letter *(= and I criticize it for that)*."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to say or think bad things about somebody",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "Don't speak ill of the dead."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to consider a situation again and perhaps change your idea or intention",
+			"examples": [
+				{
+					"text": "You really should think again about that."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to say what your thoughts are as you have them",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to have a higher opinion of somebody",
+			"examples": [
+				{
+					"text": "She has behaved appallingly—I must say I thought better of her."
+				}
+			],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to decide not to do something after thinking further about it",
+			"examples": [
+				{
+					"text": "Rosie was about to protest but thought better of it."
+				}
+			],
+			"synonyms": "reconsider"
+		},
+		{
+			"senseNumber": null,
+			"definition": "to form your own opinions and make decisions without depending on others",
+			"examples": [],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to say or think bad things about somebody",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "I wouldn't want them to think ill of me."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to consider an activity to be normal and not particularly unusual or difficult",
+			"examples": [
+				{
+					"text": "She thinks nothing of walking thirty miles a day."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used as a polite response when somebody has said sorry to you or thanked you",
+			"labels": "(formal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be able to think and react to things very quickly and effectively without any preparation",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to think about something, or how to do something, in a way that is new, different or shows imagination",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to think in a clear or logical way",
+			"examples": [
+				{
+					"text": "The drugs were affecting her and she couldn't think straight."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to think carefully before deciding to do something",
+			"examples": [
+				{
+					"text": "You should think twice about employing someone you've never met."
+				}
+			],
+			"topics": ["Preferences and decisions"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to have a very good, poor, etc. opinion of somebody/something",
+			"examples": [
+				{
+					"text": "He thinks the world of his daughter."
+				},
+				{
+					"text": "I don't think much of her idea."
+				}
+			],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to show that you are surprised or shocked by something",
+			"examples": [
+				{
+					"text": "To think that my mother wrote all those books and I never knew!"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/θɪŋk/",
+				"audio": "th/think/think__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/θɪŋks/",
+				"audio": "th/think/thinks__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/θɔːt/",
+				"audio": "th/think/thought__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈθɪŋkɪŋ/",
+				"audio": "th/think/thinking__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/θɪŋk/",
+				"audio": "th/think/think__us_1.mp3"
+			},
+			{
+				"pronunciation": "/θɪŋks/",
+				"audio": "th/think/thinks__us_1.mp3"
+			},
+			{
+				"pronunciation": "/θɔːt/",
+				"audio": "th/think/thought__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈθɪŋkɪŋ/",
+				"audio": "th/think/thinking__us_3.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English thencan, of Germanic origin; related to Dutch and German denken."
 }

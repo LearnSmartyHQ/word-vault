@@ -1,127 +1,127 @@
 {
-  "term": "separate",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "forming a unit by itself; not joined to something else",
-      "sensetop": "separate from somebody/something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They have begun to sleep in **separate rooms**."
-        },
-        {
-          "text": "Raw meat must be **kept separate** from cooked meat.",
-          "contextForm": "separate from somebody/something"
-        },
-        {
-          "text": "The school is housed in two separate buildings."
-        },
-        {
-          "text": "Write a list of names on a separate piece of paper."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "become", "remain"],
-        "adverb": ["somewhat", "very", "essentially"],
-        "preposition": ["from"],
-        "phrases": ["go your separate ways"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "different; not connected",
-      "sensetop": "separate from something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **separate incident/issue**"
-        },
-        {
-          "text": "The companies now exist as two **separate entities**."
-        },
-        {
-          "text": "I try to **keep** my private life **separate** from my work.",
-          "contextForm": "separate from something"
-        },
-        {
-          "text": "This is a **completely separate** matter."
-        },
-        {
-          "text": "It happened **on** three **separate occasions**."
-        },
-        {
-          "text": "Their ultimate political goal is the creation of a **separate state**."
-        },
-        {
-          "text": "For the past three years they have been leading totally separate lives."
-        },
-        {
-          "text": "The two groups are essentially separate and independent."
-        },
-        {
-          "text": "to merge the two previously separate businesses"
-        },
-        {
-          "text": "species from widely separate parts of the world"
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "become", "remain"],
-        "adverb": ["somewhat", "very", "essentially"],
-        "preposition": ["from"],
-        "phrases": ["go your separate ways"]
-      }
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to end a relationship with somebody",
-      "examples": [
-        {
-          "text": "When the business was sold they went their separate ways."
-        },
-        {
-          "text": "They decided to go their separate ways after being together for five years."
-        },
-        {
-          "text": "When we finished school, we all went our separate ways."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to go in a different direction from somebody you have been travelling with",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "in a separate envelope",
-      "labels": "(business)",
-      "examples": [
-        {
-          "text": "The information you requested is being forwarded to you under separate cover."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈseprət/",
-        "audio": "se/separate/separate__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈseprət/",
-        "audio": "se/separate/separate__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Latin separat- ‘disjoined, divided’, from the verb separare, from se- ‘apart’ + parare ‘prepare’."
+	"term": "separate",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "forming a unit by itself; not joined to something else",
+			"sensetop": "separate from somebody/something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They have begun to sleep in **separate rooms**."
+				},
+				{
+					"text": "Raw meat must be **kept separate** from cooked meat.",
+					"contextForm": "separate from somebody/something"
+				},
+				{
+					"text": "The school is housed in two separate buildings."
+				},
+				{
+					"text": "Write a list of names on a separate piece of paper."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "become", "remain"],
+				"adverb": ["somewhat", "very", "essentially"],
+				"preposition": ["from"],
+				"phrases": ["go your separate ways"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "different; not connected",
+			"sensetop": "separate from something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **separate incident/issue**"
+				},
+				{
+					"text": "The companies now exist as two **separate entities**."
+				},
+				{
+					"text": "I try to **keep** my private life **separate** from my work.",
+					"contextForm": "separate from something"
+				},
+				{
+					"text": "This is a **completely separate** matter."
+				},
+				{
+					"text": "It happened **on** three **separate occasions**."
+				},
+				{
+					"text": "Their ultimate political goal is the creation of a **separate state**."
+				},
+				{
+					"text": "For the past three years they have been leading totally separate lives."
+				},
+				{
+					"text": "The two groups are essentially separate and independent."
+				},
+				{
+					"text": "to merge the two previously separate businesses"
+				},
+				{
+					"text": "species from widely separate parts of the world"
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "become", "remain"],
+				"adverb": ["somewhat", "very", "essentially"],
+				"preposition": ["from"],
+				"phrases": ["go your separate ways"]
+			}
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to end a relationship with somebody",
+			"examples": [
+				{
+					"text": "When the business was sold they went their separate ways."
+				},
+				{
+					"text": "They decided to go their separate ways after being together for five years."
+				},
+				{
+					"text": "When we finished school, we all went our separate ways."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to go in a different direction from somebody you have been travelling with",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "in a separate envelope",
+			"labels": "(business)",
+			"examples": [
+				{
+					"text": "The information you requested is being forwarded to you under separate cover."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈseprət/",
+				"audio": "se/separate/separate__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈseprət/",
+				"audio": "se/separate/separate__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Latin separat- ‘disjoined, divided’, from the verb separare, from se- ‘apart’ + parare ‘prepare’."
 }

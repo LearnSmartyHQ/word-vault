@@ -1,82 +1,82 @@
 {
-  "term": "poison",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a substance that causes death or harm if it gets into the body",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Some mushrooms contain a deadly poison."
-        },
-        {
-          "text": "How did he die? Was it poison?"
-        },
-        {
-          "text": "The dog was killed by rat poison *(= poison intended to kill )."
-        },
-        {
-          "text": "to hunt with poison arrows"
-        },
-        {
-          "text": "bombs containing poison gas"
-        },
-        {
-          "text": "She had laced his drink with poison."
-        }
-      ],
-      "collocations": {
-        "adjective": ["potent", "powerful", "strong"],
-        "… of poison": ["trace"],
-        "verb + poison": ["administer", "give somebody", "inject"],
-        "poison + noun": ["gas", "pill", "arrow"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an idea, a feeling, etc. that is extremely harmful",
-      "examples": [
-        {
-          "text": "the poison of racial hatred"
-        },
-        {
-          "text": "These words were pure poison to me."
-        },
-        {
-          "text": "groups that are spreading the poison of sectarianism"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that different people like different things; what one person likes very much, another person does not like at all",
-      "labels": "(saying)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to ask somebody what alcoholic drink they would like",
-      "labels": "(old-fashioned, informal, humorous)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈpɔɪzn/",
-        "audio": "po/poison/poison__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈpɔɪzn/",
-        "audio": "po/poison/poison__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (denoting a harmful medicinal draught): from Old French poison ‘magic potion’, from Latin potio(n-) ‘potion’, related to potare ‘to drink’."
+	"term": "poison",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a substance that causes death or harm if it gets into the body",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Some mushrooms contain a deadly poison."
+				},
+				{
+					"text": "How did he die? Was it poison?"
+				},
+				{
+					"text": "The dog was killed by rat poison *(= poison intended to kill )."
+				},
+				{
+					"text": "to hunt with poison arrows"
+				},
+				{
+					"text": "bombs containing poison gas"
+				},
+				{
+					"text": "She had laced his drink with poison."
+				}
+			],
+			"collocations": {
+				"adjective": ["potent", "powerful", "strong"],
+				"… of poison": ["trace"],
+				"verb + poison": ["administer", "give somebody", "inject"],
+				"poison + noun": ["gas", "pill", "arrow"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an idea, a feeling, etc. that is extremely harmful",
+			"examples": [
+				{
+					"text": "the poison of racial hatred"
+				},
+				{
+					"text": "These words were pure poison to me."
+				},
+				{
+					"text": "groups that are spreading the poison of sectarianism"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that different people like different things; what one person likes very much, another person does not like at all",
+			"labels": "(saying)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to ask somebody what alcoholic drink they would like",
+			"labels": "(old-fashioned, informal, humorous)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈpɔɪzn/",
+				"audio": "po/poison/poison__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈpɔɪzn/",
+				"audio": "po/poison/poison__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (denoting a harmful medicinal draught): from Old French poison ‘magic potion’, from Latin potio(n-) ‘potion’, related to potare ‘to drink’."
 }

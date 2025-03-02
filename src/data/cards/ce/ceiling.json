@@ -1,103 +1,103 @@
 {
-  "term": "ceiling",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the top inside surface of a room",
-      "sensetop": "on a ceilingceiling of something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a large room with a **high ceiling**"
-        },
-        {
-          "text": "The **walls and ceiling** were painted white."
-        },
-        {
-          "text": "A large chandelier **hangs from the ceiling**."
-        },
-        {
-          "text": "a fly on the ceiling",
-          "contextForm": "on a ceiling"
-        },
-        {
-          "text": "The ceiling of her room was low.",
-          "contextForm": "ceiling of something"
-        },
-        {
-          "text": "She lay on her back staring up at the ceiling."
-        },
-        {
-          "text": "The bathroom has mirrors from ceiling to floor."
-        },
-        {
-          "text": "The palace is famous for its 17th-century painted ceilings."
-        }
-      ],
-      "topics": ["Houses and homes"],
-      "collocations": {
-        "adjective": ["high", "low", "tall"],
-        "verb + ceiling": ["paint", "plaster", "reach"],
-        "ceiling + verb": ["collapse"],
-        "ceiling + noun": ["fan", "light", "tile"],
-        "preposition": ["on the ceiling"],
-        "phrases": ["from ceiling to floor", "from floor to ceiling"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the highest limit or amount of something",
-      "examples": [
-        {
-          "text": "The government has decided to lift price ceilings on bread and milk."
-        },
-        {
-          "text": "The reality is the economy is **hitting the ceiling** and the growth rate must slow."
-        },
-        {
-          "text": "They've put a $50 ceiling on their admission charge."
-        },
-        {
-          "text": "a ceiling on imports"
-        },
-        {
-          "text": "They have put a ceiling on the price of petrol."
-        }
-      ],
-      "collocations": {
-        "adjective": ["debt", "expenditure", "price"],
-        "verb + ceiling": ["impose", "place", "put"],
-        "preposition": ["ceiling on"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the greatest height at which a particular aircraft is able to fly",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "an aircraft with a ceiling of 20 000 feet"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsiːlɪŋ/",
-        "audio": "ce/ceiling/ceiling__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsiːlɪŋ/",
-        "audio": "ce/ceiling/ceiling__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (denoting the action of lining the interior of a room with plaster or panelling): from ceil (perhaps related to Latin celare, French céler ‘conceal’) + -ing. Sense (1) dates from the mid 16th cent."
+	"term": "ceiling",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the top inside surface of a room",
+			"sensetop": "on a ceilingceiling of something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a large room with a **high ceiling**"
+				},
+				{
+					"text": "The **walls and ceiling** were painted white."
+				},
+				{
+					"text": "A large chandelier **hangs from the ceiling**."
+				},
+				{
+					"text": "a fly on the ceiling",
+					"contextForm": "on a ceiling"
+				},
+				{
+					"text": "The ceiling of her room was low.",
+					"contextForm": "ceiling of something"
+				},
+				{
+					"text": "She lay on her back staring up at the ceiling."
+				},
+				{
+					"text": "The bathroom has mirrors from ceiling to floor."
+				},
+				{
+					"text": "The palace is famous for its 17th-century painted ceilings."
+				}
+			],
+			"topics": ["Houses and homes"],
+			"collocations": {
+				"adjective": ["high", "low", "tall"],
+				"verb + ceiling": ["paint", "plaster", "reach"],
+				"ceiling + verb": ["collapse"],
+				"ceiling + noun": ["fan", "light", "tile"],
+				"preposition": ["on the ceiling"],
+				"phrases": ["from ceiling to floor", "from floor to ceiling"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the highest limit or amount of something",
+			"examples": [
+				{
+					"text": "The government has decided to lift price ceilings on bread and milk."
+				},
+				{
+					"text": "The reality is the economy is **hitting the ceiling** and the growth rate must slow."
+				},
+				{
+					"text": "They've put a $50 ceiling on their admission charge."
+				},
+				{
+					"text": "a ceiling on imports"
+				},
+				{
+					"text": "They have put a ceiling on the price of petrol."
+				}
+			],
+			"collocations": {
+				"adjective": ["debt", "expenditure", "price"],
+				"verb + ceiling": ["impose", "place", "put"],
+				"preposition": ["ceiling on"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the greatest height at which a particular aircraft is able to fly",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "an aircraft with a ceiling of 20 000 feet"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsiːlɪŋ/",
+				"audio": "ce/ceiling/ceiling__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsiːlɪŋ/",
+				"audio": "ce/ceiling/ceiling__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (denoting the action of lining the interior of a room with plaster or panelling): from ceil (perhaps related to Latin celare, French céler ‘conceal’) + -ing. Sense (1) dates from the mid 16th cent."
 }

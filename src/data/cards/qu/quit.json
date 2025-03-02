@@ -1,187 +1,187 @@
 {
-  "term": "quit",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "quit",
-      "heSheIt": "quits"
-    },
-    "pastSimple": "quit",
-    "pastParticiple": "quit",
-    "ingForm": "quitting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to leave your job, school, etc.",
-      "sensetop": "quit as somethingquit something",
-      "labels": "(informal)(North American English)(North American English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "If I don't get more money I'll quit."
-        },
-        {
-          "text": "He quit in protest over the decision."
-        },
-        {
-          "text": "He has decided to quit as manager of the team.",
-          "contextForm": "quit as something"
-        },
-        {
-          "text": "to **quit your job**",
-          "contextForm": "quit something"
-        },
-        {
-          "text": "He quit the show last year because of bad health."
-        },
-        {
-          "text": "She quit school at 16."
-        },
-        {
-          "text": "I am considering quitting my job to start a business."
-        },
-        {
-          "text": "I thought about working part-time, or quitting altogether."
-        },
-        {
-          "text": "In this job you have to know when to quit."
-        },
-        {
-          "text": "Their longest-serving employee is threatening to quit over pay."
-        },
-        {
-          "text": "He was forced to quit college and find work."
-        }
-      ],
-      "collocations": {
-        "adverb": ["altogether", "abruptly", "suddenly"],
-        "verb + quit": ["try to", "decide to", "be ready to"],
-        "preposition": ["as", "over"],
-        "phrases": [
-          "give notice to quit",
-          "issue notice to quit",
-          "know when to quit"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to stop doing something",
-      "sensetop": "quit doing somethingquit something",
-      "labels": "(especially North American English, informal)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I've quit teaching.",
-          "contextForm": "quit doing something"
-        },
-        {
-          "text": "You don't know me, so quit trying to act like you do."
-        },
-        {
-          "text": "She finally quit working at age 76."
-        },
-        {
-          "text": "Just quit it!",
-          "contextForm": "quit something"
-        },
-        {
-          "text": "We only just started. We're not going to quit now."
-        }
-      ],
-      "topics": ["Mental health", "Social issues"],
-      "collocations": {
-        "adverb": ["altogether", "abruptly", "suddenly"],
-        "verb + quit": ["try to", "decide to", "be ready to"],
-        "preposition": ["as", "over"],
-        "phrases": [
-          "give notice to quit",
-          "issue notice to quit",
-          "know when to quit"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to leave the place where you live",
-      "sensetop": "quit (something)",
-      "examples": [
-        {
-          "text": "We decided it was time to quit the city."
-        },
-        {
-          "text": "The landlord gave them all **notice to quit**."
-        },
-        {
-          "text": "I decide to quit town and lie low for a while."
-        }
-      ],
-      "collocations": {
-        "adverb": ["altogether", "abruptly", "suddenly"],
-        "verb + quit": ["try to", "decide to", "be ready to"],
-        "preposition": ["as", "over"],
-        "phrases": [
-          "give notice to quit",
-          "issue notice to quit",
-          "know when to quit"
-        ]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to close a computer program or application",
-      "sensetop": "quit (something)",
-      "cefr": "b1",
-      "examples": [
-        {
-          "text": "I quit the app and restarted it."
-        }
-      ],
-      "topics": ["Computers"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kwɪt/",
-        "audio": "qu/quit/quit__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kwɪts/",
-        "audio": "qu/quit/quits__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkwɪtɪd/",
-        "audio": "qu/quit/quitted__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkwɪtɪŋ/",
-        "audio": "qu/quit/quitting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kwɪt/",
-        "audio": "qu/quit/quit__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kwɪts/",
-        "audio": "qu/quit/quits__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkwɪtɪd/",
-        "audio": "qu/quit/quitted__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkwɪtɪŋ/",
-        "audio": "qu/quit/quitting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in the sense ‘set free’): from Old French quiter (verb), quite (adjective), from Latin quietus, past participle of quiescere ‘be still’, from quies ‘quiet’."
+	"term": "quit",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "quit",
+			"heSheIt": "quits"
+		},
+		"pastSimple": "quit",
+		"pastParticiple": "quit",
+		"ingForm": "quitting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to leave your job, school, etc.",
+			"sensetop": "quit as somethingquit something",
+			"labels": "(informal)(North American English)(North American English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "If I don't get more money I'll quit."
+				},
+				{
+					"text": "He quit in protest over the decision."
+				},
+				{
+					"text": "He has decided to quit as manager of the team.",
+					"contextForm": "quit as something"
+				},
+				{
+					"text": "to **quit your job**",
+					"contextForm": "quit something"
+				},
+				{
+					"text": "He quit the show last year because of bad health."
+				},
+				{
+					"text": "She quit school at 16."
+				},
+				{
+					"text": "I am considering quitting my job to start a business."
+				},
+				{
+					"text": "I thought about working part-time, or quitting altogether."
+				},
+				{
+					"text": "In this job you have to know when to quit."
+				},
+				{
+					"text": "Their longest-serving employee is threatening to quit over pay."
+				},
+				{
+					"text": "He was forced to quit college and find work."
+				}
+			],
+			"collocations": {
+				"adverb": ["altogether", "abruptly", "suddenly"],
+				"verb + quit": ["try to", "decide to", "be ready to"],
+				"preposition": ["as", "over"],
+				"phrases": [
+					"give notice to quit",
+					"issue notice to quit",
+					"know when to quit"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to stop doing something",
+			"sensetop": "quit doing somethingquit something",
+			"labels": "(especially North American English, informal)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I've quit teaching.",
+					"contextForm": "quit doing something"
+				},
+				{
+					"text": "You don't know me, so quit trying to act like you do."
+				},
+				{
+					"text": "She finally quit working at age 76."
+				},
+				{
+					"text": "Just quit it!",
+					"contextForm": "quit something"
+				},
+				{
+					"text": "We only just started. We're not going to quit now."
+				}
+			],
+			"topics": ["Mental health", "Social issues"],
+			"collocations": {
+				"adverb": ["altogether", "abruptly", "suddenly"],
+				"verb + quit": ["try to", "decide to", "be ready to"],
+				"preposition": ["as", "over"],
+				"phrases": [
+					"give notice to quit",
+					"issue notice to quit",
+					"know when to quit"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to leave the place where you live",
+			"sensetop": "quit (something)",
+			"examples": [
+				{
+					"text": "We decided it was time to quit the city."
+				},
+				{
+					"text": "The landlord gave them all **notice to quit**."
+				},
+				{
+					"text": "I decide to quit town and lie low for a while."
+				}
+			],
+			"collocations": {
+				"adverb": ["altogether", "abruptly", "suddenly"],
+				"verb + quit": ["try to", "decide to", "be ready to"],
+				"preposition": ["as", "over"],
+				"phrases": [
+					"give notice to quit",
+					"issue notice to quit",
+					"know when to quit"
+				]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to close a computer program or application",
+			"sensetop": "quit (something)",
+			"cefr": "b1",
+			"examples": [
+				{
+					"text": "I quit the app and restarted it."
+				}
+			],
+			"topics": ["Computers"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kwɪt/",
+				"audio": "qu/quit/quit__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kwɪts/",
+				"audio": "qu/quit/quits__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkwɪtɪd/",
+				"audio": "qu/quit/quitted__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkwɪtɪŋ/",
+				"audio": "qu/quit/quitting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kwɪt/",
+				"audio": "qu/quit/quit__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kwɪts/",
+				"audio": "qu/quit/quits__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkwɪtɪd/",
+				"audio": "qu/quit/quitted__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkwɪtɪŋ/",
+				"audio": "qu/quit/quitting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in the sense ‘set free’): from Old French quiter (verb), quite (adjective), from Latin quietus, past participle of quiescere ‘be still’, from quies ‘quiet’."
 }

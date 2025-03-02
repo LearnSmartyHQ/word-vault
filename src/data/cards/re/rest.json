@@ -1,257 +1,257 @@
 {
-  "term": "rest",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "image": "data/images/mu/music_string_instruments.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the part of something that remains",
-      "sensetop": "the rest of somethingfor the rest of something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Take what you want and throw the rest away."
-        },
-        {
-          "text": "The country enjoys friendly relations with **the rest of the world**.",
-          "contextForm": "the rest of something"
-        },
-        {
-          "text": "How would you like to **spend the rest** of the day?"
-        },
-        {
-          "text": "I'm not doing this job for **the rest of my life**.",
-          "contextForm": "for the rest of something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the people or things that remain; the others",
-      "sensetop": "the rest of something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The first question was difficult, but the rest were pretty easy."
-        },
-        {
-          "text": "Don't blame Alex. He's human, like the rest of us.",
-          "contextForm": "the rest of something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a period of relaxing, sleeping or doing nothing after a period of activity",
-      "sensetop": "rest from something",
-      "labels": "especially North American English",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I had a good night's rest."
-        },
-        {
-          "text": "We stopped for a well-earned rest."
-        },
-        {
-          "text": "to **have/take a rest** from all your hard work",
-          "contextForm": "rest from something"
-        },
-        {
-          "text": "Try to **get some rest**—you have a busy day tomorrow."
-        },
-        {
-          "text": "There are no matches tomorrow, which is a **rest day**, but the tournament resumes on Monday."
-        },
-        {
-          "text": "Get some rest while you can."
-        },
-        {
-          "text": "Her heart would find no rest until she knew the truth."
-        },
-        {
-          "text": "I apologize for disturbing your rest."
-        },
-        {
-          "text": "I had a good long rest before the party."
-        },
-        {
-          "text": "I need my beauty rest."
-        },
-        {
-          "text": "I was hospitalized many times and put on bed rest for six months."
-        },
-        {
-          "text": "The body requires a healthy diet and adequate rest."
-        },
-        {
-          "text": "The doctor advised him to take a complete rest from football."
-        },
-        {
-          "text": "You need a rest from all your hard work."
-        }
-      ],
-      "topics": ["Healthcare"],
-      "collocations": {
-        "adjective": ["complete", "good", "long"],
-        "verb + rest": ["find", "get", "have"],
-        "rest + noun": ["break", "day", "interval"],
-        "preposition": ["at rest", "rest from"],
-        "phrases": ["a day of rest"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "an object that is used to support or hold something",
-      "examples": [
-        {
-          "text": "an armrest *(= for example on a seat or chair)*"
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a period of silence between notes; a sign that shows a rest between notes",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Music"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used at the end of a list to mean everything else that you might expect to be on the list",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "He wants a big house and an expensive car and all the rest of it."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that the actual amount or number of something is much higher than somebody has stated",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "‘It cost 250 pounds…’ ‘And the rest, and the rest!’"
-        }
-      ]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "not moving",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "At rest the insect looks like a dead leaf."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "dead and therefore free from trouble or worry. People say ‘at rest’ to avoid saying ‘dead’.",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "She now **lies at rest** in the churchyard."
-        }
-      ],
-      "topics": ["Life stages"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to stop moving",
-      "examples": [
-        {
-          "text": "The car crashed through the barrier and came to rest in a field."
-        },
-        {
-          "text": "His eyes came to rest on Clara's face."
-        },
-        {
-          "text": "The ball rolled down the hill and came to rest against a tree."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "apart from that; considering other matters",
-      "labels": "(British English, formal)",
-      "examples": [
-        {
-          "text": "The book has some interesting passages about the author's childhood. For the rest, it is extremely dull."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to tell somebody to stop talking about something because they are annoying you",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Give it a rest! You’ve been complaining all day."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to stop doing something for a while",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to bury somebody. People say ‘to lay somebody to rest’ to avoid saying ‘to bury’ somebody.",
-      "examples": [
-        {
-          "text": "George was laid to rest beside his parents."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to stop something by showing it is not true",
-      "examples": [
-        {
-          "text": "The announcement finally laid all the speculation about their future to rest."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used when somebody is complaining that they have a lot of work to do",
-      "labels": "(usually humorous)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to do or say something to make somebody stop worrying about something",
-      "examples": [],
-      "synonyms": "reassure"
-    },
-    {
-      "senseNumber": null,
-      "definition": "used when you are telling a story to say that you do not need to tell the end of it, because everyone knows it already",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/rest/",
-        "audio": "re/rest/rest__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/rest/",
-        "audio": "re/rest/rest__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "noun senses 3 to 5 Old English ræst, rest (noun), ræstan, restan (verb), of Germanic origin, from a root meaning ‘league’ or ‘mile’ (referring to a distance after which one rests). noun senses 1 to 2 late Middle English: from Old French reste (noun), rester (verb), from Latin restare ‘remain’, from re- ‘back’ + stare ‘to stand’."
+	"term": "rest",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"image": "data/images/mu/music_string_instruments.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the part of something that remains",
+			"sensetop": "the rest of somethingfor the rest of something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Take what you want and throw the rest away."
+				},
+				{
+					"text": "The country enjoys friendly relations with **the rest of the world**.",
+					"contextForm": "the rest of something"
+				},
+				{
+					"text": "How would you like to **spend the rest** of the day?"
+				},
+				{
+					"text": "I'm not doing this job for **the rest of my life**.",
+					"contextForm": "for the rest of something"
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the people or things that remain; the others",
+			"sensetop": "the rest of something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The first question was difficult, but the rest were pretty easy."
+				},
+				{
+					"text": "Don't blame Alex. He's human, like the rest of us.",
+					"contextForm": "the rest of something"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a period of relaxing, sleeping or doing nothing after a period of activity",
+			"sensetop": "rest from something",
+			"labels": "especially North American English",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I had a good night's rest."
+				},
+				{
+					"text": "We stopped for a well-earned rest."
+				},
+				{
+					"text": "to **have/take a rest** from all your hard work",
+					"contextForm": "rest from something"
+				},
+				{
+					"text": "Try to **get some rest**—you have a busy day tomorrow."
+				},
+				{
+					"text": "There are no matches tomorrow, which is a **rest day**, but the tournament resumes on Monday."
+				},
+				{
+					"text": "Get some rest while you can."
+				},
+				{
+					"text": "Her heart would find no rest until she knew the truth."
+				},
+				{
+					"text": "I apologize for disturbing your rest."
+				},
+				{
+					"text": "I had a good long rest before the party."
+				},
+				{
+					"text": "I need my beauty rest."
+				},
+				{
+					"text": "I was hospitalized many times and put on bed rest for six months."
+				},
+				{
+					"text": "The body requires a healthy diet and adequate rest."
+				},
+				{
+					"text": "The doctor advised him to take a complete rest from football."
+				},
+				{
+					"text": "You need a rest from all your hard work."
+				}
+			],
+			"topics": ["Healthcare"],
+			"collocations": {
+				"adjective": ["complete", "good", "long"],
+				"verb + rest": ["find", "get", "have"],
+				"rest + noun": ["break", "day", "interval"],
+				"preposition": ["at rest", "rest from"],
+				"phrases": ["a day of rest"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "an object that is used to support or hold something",
+			"examples": [
+				{
+					"text": "an armrest *(= for example on a seat or chair)*"
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a period of silence between notes; a sign that shows a rest between notes",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Music"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used at the end of a list to mean everything else that you might expect to be on the list",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "He wants a big house and an expensive car and all the rest of it."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that the actual amount or number of something is much higher than somebody has stated",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "‘It cost 250 pounds…’ ‘And the rest, and the rest!’"
+				}
+			]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "not moving",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "At rest the insect looks like a dead leaf."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "dead and therefore free from trouble or worry. People say ‘at rest’ to avoid saying ‘dead’.",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "She now **lies at rest** in the churchyard."
+				}
+			],
+			"topics": ["Life stages"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to stop moving",
+			"examples": [
+				{
+					"text": "The car crashed through the barrier and came to rest in a field."
+				},
+				{
+					"text": "His eyes came to rest on Clara's face."
+				},
+				{
+					"text": "The ball rolled down the hill and came to rest against a tree."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "apart from that; considering other matters",
+			"labels": "(British English, formal)",
+			"examples": [
+				{
+					"text": "The book has some interesting passages about the author's childhood. For the rest, it is extremely dull."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to tell somebody to stop talking about something because they are annoying you",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Give it a rest! You’ve been complaining all day."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to stop doing something for a while",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to bury somebody. People say ‘to lay somebody to rest’ to avoid saying ‘to bury’ somebody.",
+			"examples": [
+				{
+					"text": "George was laid to rest beside his parents."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to stop something by showing it is not true",
+			"examples": [
+				{
+					"text": "The announcement finally laid all the speculation about their future to rest."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used when somebody is complaining that they have a lot of work to do",
+			"labels": "(usually humorous)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to do or say something to make somebody stop worrying about something",
+			"examples": [],
+			"synonyms": "reassure"
+		},
+		{
+			"senseNumber": null,
+			"definition": "used when you are telling a story to say that you do not need to tell the end of it, because everyone knows it already",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/rest/",
+				"audio": "re/rest/rest__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/rest/",
+				"audio": "re/rest/rest__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "noun senses 3 to 5 Old English ræst, rest (noun), ræstan, restan (verb), of Germanic origin, from a root meaning ‘league’ or ‘mile’ (referring to a distance after which one rests). noun senses 1 to 2 late Middle English: from Old French reste (noun), rester (verb), from Latin restare ‘remain’, from re- ‘back’ + stare ‘to stand’."
 }

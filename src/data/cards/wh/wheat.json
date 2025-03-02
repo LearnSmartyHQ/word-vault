@@ -1,51 +1,51 @@
 {
-  "term": "wheat",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "image": "data/images/ce/cereals.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a plant grown for its grain that is used to produce the flour for bread, cakes, pasta, etc.; the grain of this plant",
-      "labels": "(North American English)",
-      "examples": [
-        {
-          "text": "wheat flour"
-        }
-      ],
-      "topics": ["Farming", "Food"],
-      "collocations": {
-        "adjective": ["ripe", "cracked", "whole"],
-        "… of wheat": ["ear", "grain", "bag"],
-        "verb + wheat": ["grow", "plant", "sow"],
-        "wheat + verb": ["grow"],
-        "wheat + noun": ["crop", "harvest", "field"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to recognize the difference between useful or valuable people or things and those that are not useful or have no value",
-      "examples": [
-        {
-          "text": "We sifted through the application forms to separate the wheat from the chaff."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/wiːt/",
-        "audio": "wh/wheat/wheat__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/wiːt/",
-        "audio": "wh/wheat/wheat__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English hwǣte of Germanic origin; related to Dutch weit, German Weizen, also to white."
+	"term": "wheat",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"image": "data/images/ce/cereals.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a plant grown for its grain that is used to produce the flour for bread, cakes, pasta, etc.; the grain of this plant",
+			"labels": "(North American English)",
+			"examples": [
+				{
+					"text": "wheat flour"
+				}
+			],
+			"topics": ["Farming", "Food"],
+			"collocations": {
+				"adjective": ["ripe", "cracked", "whole"],
+				"… of wheat": ["ear", "grain", "bag"],
+				"verb + wheat": ["grow", "plant", "sow"],
+				"wheat + verb": ["grow"],
+				"wheat + noun": ["crop", "harvest", "field"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to recognize the difference between useful or valuable people or things and those that are not useful or have no value",
+			"examples": [
+				{
+					"text": "We sifted through the application forms to separate the wheat from the chaff."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/wiːt/",
+				"audio": "wh/wheat/wheat__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/wiːt/",
+				"audio": "wh/wheat/wheat__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English hwǣte of Germanic origin; related to Dutch weit, German Weizen, also to white."
 }

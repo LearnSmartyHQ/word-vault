@@ -1,204 +1,204 @@
 {
-  "term": "dive",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "dive",
-      "heSheIt": "dives"
-    },
-    "pastSimple": "dived",
-    "pastParticiple": "dived",
-    "ingForm": "diving"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to jump into water with your head and arms going in first",
-      "sensetop": "dive (from/off something) (into something)dive off somethingdive in",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "We dived into the river to cool off.",
-          "contextForm": "dive (from/off something) (into something)"
-        },
-        {
-          "text": "He dived off the bridge.",
-          "contextForm": "dive off something"
-        },
-        {
-          "text": "Sam walked to the deep end of the pool and dived in.",
-          "contextForm": "dive in"
-        },
-        {
-          "text": "He dived head first into the water."
-        },
-        {
-          "text": "She dived from the top diving board."
-        }
-      ],
-      "topics": ["Sports: water sports"],
-      "collocations": {
-        "adverb": ["deep", "head first", "down"],
-        "preposition": ["for", "from", "into"],
-        "phrases": ["go diving"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to swim underwater wearing breathing equipment, collecting or looking at things",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "to dive for pearls"
-        },
-        {
-          "text": "The main purpose of his holiday to Greece was to go diving."
-        }
-      ],
-      "topics": ["Hobbies"],
-      "collocations": {
-        "adverb": ["deep", "head first", "down"],
-        "preposition": ["for", "from", "into"],
-        "phrases": ["go diving"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to go to a deeper level underwater",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "The submarine dived to avoid being seen."
-        },
-        {
-          "text": "The whale dived as the harpoon struck it."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to go steeply down through the air",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "The seagulls soared then dived."
-        },
-        {
-          "text": "The plane dived down to attack."
-        },
-        {
-          "text": "The plane suddenly dived from 10 000 feet to 5 000."
-        },
-        {
-          "text": "Unlike some birds, it does not dive vertically."
-        }
-      ],
-      "topics": ["Transport by air", "Birds"],
-      "collocations": {
-        "adverb": ["suddenly", "vertically"],
-        "preposition": ["from", "to"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to move or jump quickly in a particular direction, especially to avoid something, to try to catch a ball, etc.",
-      "sensetop": "dive for something+ adv./prep.",
-      "labels": "(informal)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "We heard an explosion and **dived for cover** *(= got into a place where we would be protected)*.",
-          "contextForm": "dive for something"
-        },
-        {
-          "text": "The goalie dived for the ball, but missed it."
-        },
-        {
-          "text": "It started to rain so we dived into the nearest cafe.",
-          "contextForm": "+ adv./prep."
-        },
-        {
-          "text": "He dived headlong into the ditch."
-        }
-      ],
-      "collocations": {
-        "adverb": ["head first", "headlong", "back"],
-        "preposition": ["beneath", "into", "through"],
-        "phrases": ["dive for cover"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to fall deliberately when somebody tackles you",
-      "cefr": "c1",
-      "examples": [],
-      "topics": ["Sports: ball and racket sports"],
-      "collocations": {
-        "adverb": ["deep", "head first", "down"],
-        "preposition": ["for", "from", "into"],
-        "phrases": ["go diving"]
-      }
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to fall suddenly",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The share price dived from 75p to an all-time low of 50p."
-        }
-      ],
-      "synonyms": "plunge",
-      "topics": ["Money"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/daɪv/",
-        "audio": "di/dive/dive__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/daɪvz/",
-        "audio": "di/dive/dives__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/daɪvd/",
-        "audio": "di/dive/dived__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/dəʊv/",
-        "audio": "do/dive/dove__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/ˈdaɪvɪŋ/",
-        "audio": "di/dive/diving__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/daɪv/",
-        "audio": "di/dive/dive__us_1.mp3"
-      },
-      {
-        "pronunciation": "/daɪvz/",
-        "audio": "di/dive/dives__us_1.mp3"
-      },
-      {
-        "pronunciation": "/daɪvd/",
-        "audio": "di/dive/dived__us_2.mp3"
-      },
-      {
-        "pronunciation": "/dəʊv/",
-        "audio": "do/dive/dove__us_3.mp3"
-      },
-      {
-        "pronunciation": "/ˈdaɪvɪŋ/",
-        "audio": "di/dive/diving__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English dūfan ‘dive, sink’ and dȳfan ‘immerse’, of Germanic origin; related to deep and dip."
+	"term": "dive",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "dive",
+			"heSheIt": "dives"
+		},
+		"pastSimple": "dived",
+		"pastParticiple": "dived",
+		"ingForm": "diving"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to jump into water with your head and arms going in first",
+			"sensetop": "dive (from/off something) (into something)dive off somethingdive in",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "We dived into the river to cool off.",
+					"contextForm": "dive (from/off something) (into something)"
+				},
+				{
+					"text": "He dived off the bridge.",
+					"contextForm": "dive off something"
+				},
+				{
+					"text": "Sam walked to the deep end of the pool and dived in.",
+					"contextForm": "dive in"
+				},
+				{
+					"text": "He dived head first into the water."
+				},
+				{
+					"text": "She dived from the top diving board."
+				}
+			],
+			"topics": ["Sports: water sports"],
+			"collocations": {
+				"adverb": ["deep", "head first", "down"],
+				"preposition": ["for", "from", "into"],
+				"phrases": ["go diving"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to swim underwater wearing breathing equipment, collecting or looking at things",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "to dive for pearls"
+				},
+				{
+					"text": "The main purpose of his holiday to Greece was to go diving."
+				}
+			],
+			"topics": ["Hobbies"],
+			"collocations": {
+				"adverb": ["deep", "head first", "down"],
+				"preposition": ["for", "from", "into"],
+				"phrases": ["go diving"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to go to a deeper level underwater",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "The submarine dived to avoid being seen."
+				},
+				{
+					"text": "The whale dived as the harpoon struck it."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to go steeply down through the air",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "The seagulls soared then dived."
+				},
+				{
+					"text": "The plane dived down to attack."
+				},
+				{
+					"text": "The plane suddenly dived from 10 000 feet to 5 000."
+				},
+				{
+					"text": "Unlike some birds, it does not dive vertically."
+				}
+			],
+			"topics": ["Transport by air", "Birds"],
+			"collocations": {
+				"adverb": ["suddenly", "vertically"],
+				"preposition": ["from", "to"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to move or jump quickly in a particular direction, especially to avoid something, to try to catch a ball, etc.",
+			"sensetop": "dive for something+ adv./prep.",
+			"labels": "(informal)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "We heard an explosion and **dived for cover** *(= got into a place where we would be protected)*.",
+					"contextForm": "dive for something"
+				},
+				{
+					"text": "The goalie dived for the ball, but missed it."
+				},
+				{
+					"text": "It started to rain so we dived into the nearest cafe.",
+					"contextForm": "+ adv./prep."
+				},
+				{
+					"text": "He dived headlong into the ditch."
+				}
+			],
+			"collocations": {
+				"adverb": ["head first", "headlong", "back"],
+				"preposition": ["beneath", "into", "through"],
+				"phrases": ["dive for cover"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to fall deliberately when somebody tackles you",
+			"cefr": "c1",
+			"examples": [],
+			"topics": ["Sports: ball and racket sports"],
+			"collocations": {
+				"adverb": ["deep", "head first", "down"],
+				"preposition": ["for", "from", "into"],
+				"phrases": ["go diving"]
+			}
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to fall suddenly",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The share price dived from 75p to an all-time low of 50p."
+				}
+			],
+			"synonyms": "plunge",
+			"topics": ["Money"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/daɪv/",
+				"audio": "di/dive/dive__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/daɪvz/",
+				"audio": "di/dive/dives__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/daɪvd/",
+				"audio": "di/dive/dived__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/dəʊv/",
+				"audio": "do/dive/dove__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/ˈdaɪvɪŋ/",
+				"audio": "di/dive/diving__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/daɪv/",
+				"audio": "di/dive/dive__us_1.mp3"
+			},
+			{
+				"pronunciation": "/daɪvz/",
+				"audio": "di/dive/dives__us_1.mp3"
+			},
+			{
+				"pronunciation": "/daɪvd/",
+				"audio": "di/dive/dived__us_2.mp3"
+			},
+			{
+				"pronunciation": "/dəʊv/",
+				"audio": "do/dive/dove__us_3.mp3"
+			},
+			{
+				"pronunciation": "/ˈdaɪvɪŋ/",
+				"audio": "di/dive/diving__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English dūfan ‘dive, sink’ and dȳfan ‘immerse’, of Germanic origin; related to deep and dip."
 }

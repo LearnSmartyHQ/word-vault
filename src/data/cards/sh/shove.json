@@ -1,141 +1,141 @@
 {
-  "term": "shove",
-  "partOfSpeech": "verb",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "shove",
-      "heSheIt": "shoves"
-    },
-    "pastSimple": "shoved",
-    "pastParticiple": "shoved",
-    "ingForm": "shoving"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to push somebody/something in a rough way",
-      "sensetop": "+ adv./prep.shove somebody/something (+ adv./prep.)",
-      "examples": [
-        {
-          "text": "The crowd was **pushing and shoving** to get a better view."
-        },
-        {
-          "text": "The door wouldn't open no matter how hard she shoved.",
-          "contextForm": "+ adv./prep."
-        },
-        {
-          "text": "He shoved her down the stairs.",
-          "contextForm": "shove somebody/something (+ adv./prep.)"
-        },
-        {
-          "text": "He shoved me roughly aside."
-        },
-        {
-          "text": "He was shoved to the ground."
-        },
-        {
-          "text": "He shoved the girl out of his way."
-        },
-        {
-          "text": "We shoved our way through the crowd."
-        },
-        {
-          "text": "Harry was shoving his way to the front of the hall."
-        }
-      ],
-      "collocations": {
-        "adverb": ["forcefully", "hard", "roughly"],
-        "preposition": ["down", "in", "into"],
-        "phrases": [
-          "push and shove",
-          "shove your hands in your pockets",
-          "shove your hands into your pockets"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to put something somewhere roughly or carelessly",
-      "sensetop": "shove something + adv./prep.",
-      "labels": "(informal)(figurative)",
-      "examples": [
-        {
-          "text": "She shoved the book into her bag and hurried off."
-        },
-        {
-          "text": "He came over and shoved a piece of paper into my hand."
-        },
-        {
-          "text": "Shove your suitcase under the bed."
-        },
-        {
-          "text": "Could he be lying? She shoved the thought to the back of her mind."
-        },
-        {
-          "text": "A leaflet was shoved through my letter box."
-        },
-        {
-          "text": "She shoved the letter in a drawer."
-        }
-      ],
-      "collocations": {
-        "adverb": ["forcefully", "hard", "roughly"],
-        "preposition": ["down", "in", "into"],
-        "phrases": [
-          "push and shove",
-          "shove your hands in your pockets",
-          "shove your hands into your pockets"
-        ]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say rudely that you will not accept or do something",
-      "labels": "(especially North American English, informal)",
-      "examples": [
-        {
-          "text": "‘The boss wants that report now.’ ‘Yeah? Tell him he can shove it.’"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ʃʌv/",
-        "audio": "sh/shove/shove__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ʃʌvz/",
-        "audio": "sh/shove/shoves__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ʃʌvd/",
-        "audio": "sh/shove/shoved__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈʃʌvɪŋ/",
-        "audio": "sh/shove/shoving__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ʃʌv/",
-        "audio": "sh/shove/shove__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ʃʌvz/",
-        "audio": "sh/shove/shoves__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ʃʌvd/",
-        "audio": "sh/shove/shoved__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈʃʌvɪŋ/",
-        "audio": "sh/shove/shoving__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English scūfan (verb), of Germanic origin; related to Dutch schuiven and German schieben, also to shuffle."
+	"term": "shove",
+	"partOfSpeech": "verb",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "shove",
+			"heSheIt": "shoves"
+		},
+		"pastSimple": "shoved",
+		"pastParticiple": "shoved",
+		"ingForm": "shoving"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to push somebody/something in a rough way",
+			"sensetop": "+ adv./prep.shove somebody/something (+ adv./prep.)",
+			"examples": [
+				{
+					"text": "The crowd was **pushing and shoving** to get a better view."
+				},
+				{
+					"text": "The door wouldn't open no matter how hard she shoved.",
+					"contextForm": "+ adv./prep."
+				},
+				{
+					"text": "He shoved her down the stairs.",
+					"contextForm": "shove somebody/something (+ adv./prep.)"
+				},
+				{
+					"text": "He shoved me roughly aside."
+				},
+				{
+					"text": "He was shoved to the ground."
+				},
+				{
+					"text": "He shoved the girl out of his way."
+				},
+				{
+					"text": "We shoved our way through the crowd."
+				},
+				{
+					"text": "Harry was shoving his way to the front of the hall."
+				}
+			],
+			"collocations": {
+				"adverb": ["forcefully", "hard", "roughly"],
+				"preposition": ["down", "in", "into"],
+				"phrases": [
+					"push and shove",
+					"shove your hands in your pockets",
+					"shove your hands into your pockets"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to put something somewhere roughly or carelessly",
+			"sensetop": "shove something + adv./prep.",
+			"labels": "(informal)(figurative)",
+			"examples": [
+				{
+					"text": "She shoved the book into her bag and hurried off."
+				},
+				{
+					"text": "He came over and shoved a piece of paper into my hand."
+				},
+				{
+					"text": "Shove your suitcase under the bed."
+				},
+				{
+					"text": "Could he be lying? She shoved the thought to the back of her mind."
+				},
+				{
+					"text": "A leaflet was shoved through my letter box."
+				},
+				{
+					"text": "She shoved the letter in a drawer."
+				}
+			],
+			"collocations": {
+				"adverb": ["forcefully", "hard", "roughly"],
+				"preposition": ["down", "in", "into"],
+				"phrases": [
+					"push and shove",
+					"shove your hands in your pockets",
+					"shove your hands into your pockets"
+				]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say rudely that you will not accept or do something",
+			"labels": "(especially North American English, informal)",
+			"examples": [
+				{
+					"text": "‘The boss wants that report now.’ ‘Yeah? Tell him he can shove it.’"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ʃʌv/",
+				"audio": "sh/shove/shove__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ʃʌvz/",
+				"audio": "sh/shove/shoves__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ʃʌvd/",
+				"audio": "sh/shove/shoved__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈʃʌvɪŋ/",
+				"audio": "sh/shove/shoving__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ʃʌv/",
+				"audio": "sh/shove/shove__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ʃʌvz/",
+				"audio": "sh/shove/shoves__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ʃʌvd/",
+				"audio": "sh/shove/shoved__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈʃʌvɪŋ/",
+				"audio": "sh/shove/shoving__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English scūfan (verb), of Germanic origin; related to Dutch schuiven and German schieben, also to shuffle."
 }

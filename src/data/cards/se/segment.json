@@ -1,63 +1,63 @@
 {
-  "term": "segment",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "image": "data/images/fr/fruit_citrus.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a part of something that is separate from the other parts or can be considered separately",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She cleaned a small segment of the painting."
-        },
-        {
-          "text": "Lines divided the area into segments."
-        },
-        {
-          "text": "The changes will affect only a small segment of the population."
-        },
-        {
-          "text": "They divided the bone into equal segments."
-        }
-      ],
-      "topics": ["Maths and measurement"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "one of the sections of an orange, a lemon, etc.",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Food"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a part of a circle separated from the rest by a single line",
-      "labels": "(geometry)",
-      "examples": []
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the smallest speech sound that a word can be divided into",
-      "labels": "(phonetics)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈseɡmənt/",
-        "audio": "se/segment/segment__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈseɡmənt/",
-        "audio": "se/segment/segment__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent. (as a term in geometry): from Latin segmentum, from secare ‘to cut’. The verb dates from the mid 19th cent."
+	"term": "segment",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"image": "data/images/fr/fruit_citrus.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a part of something that is separate from the other parts or can be considered separately",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She cleaned a small segment of the painting."
+				},
+				{
+					"text": "Lines divided the area into segments."
+				},
+				{
+					"text": "The changes will affect only a small segment of the population."
+				},
+				{
+					"text": "They divided the bone into equal segments."
+				}
+			],
+			"topics": ["Maths and measurement"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "one of the sections of an orange, a lemon, etc.",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Food"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a part of a circle separated from the rest by a single line",
+			"labels": "(geometry)",
+			"examples": []
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the smallest speech sound that a word can be divided into",
+			"labels": "(phonetics)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈseɡmənt/",
+				"audio": "se/segment/segment__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈseɡmənt/",
+				"audio": "se/segment/segment__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent. (as a term in geometry): from Latin segmentum, from secare ‘to cut’. The verb dates from the mid 19th cent."
 }

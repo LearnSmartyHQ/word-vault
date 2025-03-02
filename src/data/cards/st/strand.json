@@ -1,97 +1,97 @@
 {
-  "term": "strand",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a single thin piece of thread, wire, hair, etc.",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "He pulled at a loose strand of wool in his sweater."
-        },
-        {
-          "text": "a few strands of dark hair"
-        },
-        {
-          "text": "She wore a single strand of pearls around her neck."
-        },
-        {
-          "text": "He brushed a strand of hair from my face."
-        },
-        {
-          "text": "She pushed a stray strand of hair out of her eyes."
-        },
-        {
-          "text": "She tucked a strand of long dark hair behind her ear."
-        },
-        {
-          "text": "She wove the four coloured strands together into a ribbon."
-        },
-        {
-          "text": "a loose strand of hair"
-        },
-        {
-          "text": "Thin strands of copper wire can be bent easily."
-        }
-      ],
-      "topics": ["Appearance"],
-      "collocations": {
-        "adjective": ["long", "thick", "thin"],
-        "verb + strand": ["twirl", "twist", "weave"],
-        "preposition": ["strand of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "one of the different parts of an idea, a plan, a story, etc.",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "We heard every strand of political opinion."
-        },
-        {
-          "text": "The author draws the different strands of the plot together in the final chapter."
-        },
-        {
-          "text": "There are three main strands to the policy."
-        },
-        {
-          "text": "There are various strands in feminist thinking."
-        }
-      ],
-      "collocations": {
-        "adjective": ["important", "main", "different"],
-        "verb + strand": ["bring together", "draw together", "pull together"],
-        "strand + verb": ["come together"],
-        "preposition": ["strand to", "strand in", "strand within"],
-        "phrases": ["strands of opinion", "strands of thought"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the land along the edge of the sea or ocean, or of a lake or river",
-      "labels": "(literary or Irish English)",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Geography"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/strænd/",
-        "audio": "st/strand/strand__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/strænd/",
-        "audio": "st/strand/strand__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "noun senses 1 to 2 late 15th cent.: of unknown origin. noun sense 3 Old English (as a noun), of unknown origin. The verb dates from the early 17th cent."
+	"term": "strand",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a single thin piece of thread, wire, hair, etc.",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "He pulled at a loose strand of wool in his sweater."
+				},
+				{
+					"text": "a few strands of dark hair"
+				},
+				{
+					"text": "She wore a single strand of pearls around her neck."
+				},
+				{
+					"text": "He brushed a strand of hair from my face."
+				},
+				{
+					"text": "She pushed a stray strand of hair out of her eyes."
+				},
+				{
+					"text": "She tucked a strand of long dark hair behind her ear."
+				},
+				{
+					"text": "She wove the four coloured strands together into a ribbon."
+				},
+				{
+					"text": "a loose strand of hair"
+				},
+				{
+					"text": "Thin strands of copper wire can be bent easily."
+				}
+			],
+			"topics": ["Appearance"],
+			"collocations": {
+				"adjective": ["long", "thick", "thin"],
+				"verb + strand": ["twirl", "twist", "weave"],
+				"preposition": ["strand of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "one of the different parts of an idea, a plan, a story, etc.",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "We heard every strand of political opinion."
+				},
+				{
+					"text": "The author draws the different strands of the plot together in the final chapter."
+				},
+				{
+					"text": "There are three main strands to the policy."
+				},
+				{
+					"text": "There are various strands in feminist thinking."
+				}
+			],
+			"collocations": {
+				"adjective": ["important", "main", "different"],
+				"verb + strand": ["bring together", "draw together", "pull together"],
+				"strand + verb": ["come together"],
+				"preposition": ["strand to", "strand in", "strand within"],
+				"phrases": ["strands of opinion", "strands of thought"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the land along the edge of the sea or ocean, or of a lake or river",
+			"labels": "(literary or Irish English)",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Geography"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/strænd/",
+				"audio": "st/strand/strand__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/strænd/",
+				"audio": "st/strand/strand__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "noun senses 1 to 2 late 15th cent.: of unknown origin. noun sense 3 Old English (as a noun), of unknown origin. The verb dates from the early 17th cent."
 }

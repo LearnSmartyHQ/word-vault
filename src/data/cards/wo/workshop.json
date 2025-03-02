@@ -1,116 +1,116 @@
 {
-  "term": "workshop",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a period of discussion and practical work on a particular subject, in which a group of people share their knowledge and experience",
-      "labels": "(British English)(especially British English)(North American English)(North American English)(British English)(British English)(North American English)(North American English)(British English)(both British English, informal)(both especially North American English)(British English)(North American English)(British English)(North American English)(North American English)(British English)(North American English)(North American English, informal)(both British English)(especially British English)(especially North American English)(British English)(North American English)(especially North American English, informal)(especially North American English, informal)(British English)(British English)(British English)(both North American English)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "There will be the opportunity for practical theatre work in drama workshops."
-        },
-        {
-          "text": "She was invited to participate in a poetry workshop on campus."
-        },
-        {
-          "text": "There are two management development workshops per year."
-        },
-        {
-          "text": "a workshop for teachers"
-        },
-        {
-          "text": "a workshop aimed at brainstorming new marketing ideas"
-        },
-        {
-          "text": "We will be running a series of workshops for students."
-        },
-        {
-          "text": "The workshop covered a wide range of issues."
-        },
-        {
-          "text": "The company holds regular skills development workshops."
-        },
-        {
-          "text": "The Institute will host a special two-day workshop on new building materials."
-        },
-        {
-          "text": "The Careers Advisory Service will be running a series of workshops for students."
-        },
-        {
-          "text": "In the one-day workshop, she taught us the importance of breathing exercises."
-        },
-        {
-          "text": "I learned these new skills at a workshop on databases."
-        },
-        {
-          "text": "Everyone in Personnel has attended a media skills workshop."
-        },
-        {
-          "text": "During the workshop, they each practised their part in the performance."
-        }
-      ],
-      "collocations": {
-        "adjective": ["day-long", "two-day", "weekend"],
-        "… of workshops": ["series"],
-        "verb + workshop": ["hold", "host", "offer"],
-        "workshop + verb": [
-          "cover something",
-          "examine something",
-          "focus on something"
-        ],
-        "workshop + noun": ["discussion", "session", "leader"],
-        "preposition": [
-          "at a/​the workshop",
-          "during a/​the workshop",
-          "in a/​the workshop"
-        ],
-        "phrases": ["a member of a workshop", "a participant in a workshop"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a room or building in which things are made or repaired using tools or machines",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "The craftsmen worked in a freezing cold workshop."
-        },
-        {
-          "text": "a car repair workshop"
-        },
-        {
-          "text": "He set up a workshop for his carving."
-        },
-        {
-          "text": "The workshop employs 25 full-time workers."
-        }
-      ],
-      "topics": ["Business"],
-      "collocations": {
-        "adjective": ["craft", "design", "pottery"],
-        "verb + workshop": ["set up"],
-        "workshop + verb": ["employ somebody"],
-        "preposition": ["in a/​the workshop"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈwɜːkʃɒp/",
-        "audio": "wo/workshop/workshop__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈwɜːrkʃɑːp/",
-        "audio": "wo/workshop/workshop__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "workshop",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a period of discussion and practical work on a particular subject, in which a group of people share their knowledge and experience",
+			"labels": "(British English)(especially British English)(North American English)(North American English)(British English)(British English)(North American English)(North American English)(British English)(both British English, informal)(both especially North American English)(British English)(North American English)(British English)(North American English)(North American English)(British English)(North American English)(North American English, informal)(both British English)(especially British English)(especially North American English)(British English)(North American English)(especially North American English, informal)(especially North American English, informal)(British English)(British English)(British English)(both North American English)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "There will be the opportunity for practical theatre work in drama workshops."
+				},
+				{
+					"text": "She was invited to participate in a poetry workshop on campus."
+				},
+				{
+					"text": "There are two management development workshops per year."
+				},
+				{
+					"text": "a workshop for teachers"
+				},
+				{
+					"text": "a workshop aimed at brainstorming new marketing ideas"
+				},
+				{
+					"text": "We will be running a series of workshops for students."
+				},
+				{
+					"text": "The workshop covered a wide range of issues."
+				},
+				{
+					"text": "The company holds regular skills development workshops."
+				},
+				{
+					"text": "The Institute will host a special two-day workshop on new building materials."
+				},
+				{
+					"text": "The Careers Advisory Service will be running a series of workshops for students."
+				},
+				{
+					"text": "In the one-day workshop, she taught us the importance of breathing exercises."
+				},
+				{
+					"text": "I learned these new skills at a workshop on databases."
+				},
+				{
+					"text": "Everyone in Personnel has attended a media skills workshop."
+				},
+				{
+					"text": "During the workshop, they each practised their part in the performance."
+				}
+			],
+			"collocations": {
+				"adjective": ["day-long", "two-day", "weekend"],
+				"… of workshops": ["series"],
+				"verb + workshop": ["hold", "host", "offer"],
+				"workshop + verb": [
+					"cover something",
+					"examine something",
+					"focus on something"
+				],
+				"workshop + noun": ["discussion", "session", "leader"],
+				"preposition": [
+					"at a/​the workshop",
+					"during a/​the workshop",
+					"in a/​the workshop"
+				],
+				"phrases": ["a member of a workshop", "a participant in a workshop"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a room or building in which things are made or repaired using tools or machines",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "The craftsmen worked in a freezing cold workshop."
+				},
+				{
+					"text": "a car repair workshop"
+				},
+				{
+					"text": "He set up a workshop for his carving."
+				},
+				{
+					"text": "The workshop employs 25 full-time workers."
+				}
+			],
+			"topics": ["Business"],
+			"collocations": {
+				"adjective": ["craft", "design", "pottery"],
+				"verb + workshop": ["set up"],
+				"workshop + verb": ["employ somebody"],
+				"preposition": ["in a/​the workshop"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈwɜːkʃɒp/",
+				"audio": "wo/workshop/workshop__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈwɜːrkʃɑːp/",
+				"audio": "wo/workshop/workshop__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

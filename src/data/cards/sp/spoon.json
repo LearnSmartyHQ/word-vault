@@ -1,82 +1,82 @@
 {
-  "term": "spoon",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "image": "data/images/cu/cutlery.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a tool that has a handle with a shallow bowl at the end, used for mixing, serving and eating food",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a plastic/metal spoon"
-        },
-        {
-          "text": "a soup spoon"
-        },
-        {
-          "text": "Wait until the chocolate melts completely, stirring with a spoon."
-        },
-        {
-          "text": "Press the top down gently with the back of a spoon."
-        },
-        {
-          "text": "Thai food is eaten with a spoon."
-        },
-        {
-          "text": "I stirred my coffee with the sugar spoon."
-        },
-        {
-          "text": "The children argued over who should lick the spoon."
-        },
-        {
-          "text": "a 5 ml measuring spoon"
-        }
-      ],
-      "topics": ["Cooking and eating"],
-      "collocations": {
-        "adjective": ["slotted", "serving", "soup"],
-        "verb + spoon": ["pick up", "put down", "hold"],
-        "preposition": ["spoon of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the amount that a spoon can hold",
-      "examples": [
-        {
-          "text": "two spoons of sugar"
-        }
-      ],
-      "collocations": {
-        "adjective": ["slotted", "serving", "soup"],
-        "verb + spoon": ["pick up", "put down", "hold"],
-        "preposition": ["spoon of"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "having rich parents",
-      "labels": "(saying)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/spuːn/",
-        "audio": "sp/spoon/spoon__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/spuːn/",
-        "audio": "sp/spoon/spoon__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English spōn ‘chip of wood’, of Germanic origin; related to German Span ‘shaving’. The current noun sense is of Scandinavian origin. The verb dates from the early 18th cent."
+	"term": "spoon",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"image": "data/images/cu/cutlery.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a tool that has a handle with a shallow bowl at the end, used for mixing, serving and eating food",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a plastic/metal spoon"
+				},
+				{
+					"text": "a soup spoon"
+				},
+				{
+					"text": "Wait until the chocolate melts completely, stirring with a spoon."
+				},
+				{
+					"text": "Press the top down gently with the back of a spoon."
+				},
+				{
+					"text": "Thai food is eaten with a spoon."
+				},
+				{
+					"text": "I stirred my coffee with the sugar spoon."
+				},
+				{
+					"text": "The children argued over who should lick the spoon."
+				},
+				{
+					"text": "a 5 ml measuring spoon"
+				}
+			],
+			"topics": ["Cooking and eating"],
+			"collocations": {
+				"adjective": ["slotted", "serving", "soup"],
+				"verb + spoon": ["pick up", "put down", "hold"],
+				"preposition": ["spoon of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the amount that a spoon can hold",
+			"examples": [
+				{
+					"text": "two spoons of sugar"
+				}
+			],
+			"collocations": {
+				"adjective": ["slotted", "serving", "soup"],
+				"verb + spoon": ["pick up", "put down", "hold"],
+				"preposition": ["spoon of"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "having rich parents",
+			"labels": "(saying)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/spuːn/",
+				"audio": "sp/spoon/spoon__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/spuːn/",
+				"audio": "sp/spoon/spoon__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English spōn ‘chip of wood’, of Germanic origin; related to German Span ‘shaving’. The current noun sense is of Scandinavian origin. The verb dates from the early 18th cent."
 }

@@ -1,127 +1,127 @@
 {
-  "term": "profession",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a type of job that needs special training or skill, especially one that needs a high level of education",
-      "sensetop": "by profession",
-      "labels": "(British English)(British English)(British English)(North American English)(especially North American English)(especially British English)(especially North American English)(both especially British English)(especially North American English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "the **medical/legal/teaching profession**"
-        },
-        {
-          "text": "to enter/go into/join a profession"
-        },
-        {
-          "text": "the caring professions *(= that involve looking after people)*"
-        },
-        {
-          "text": "She was at the very top of her profession."
-        },
-        {
-          "text": "senior members of the profession"
-        },
-        {
-          "text": "He was a lawyer by profession.",
-          "contextForm": "by profession"
-        },
-        {
-          "text": "It's time to change your profession for something more exciting."
-        },
-        {
-          "text": "He entered the legal profession after college."
-        },
-        {
-          "text": "What made you choose this profession?"
-        },
-        {
-          "text": "We are members of an old and noble profession."
-        },
-        {
-          "text": "She was shocked at her daughter's choice of profession."
-        },
-        {
-          "text": "a job where people can learn the profession"
-        },
-        {
-          "text": "the primary reason why nurses leave the profession"
-        },
-        {
-          "text": "I joined the profession when I was in my early twenties."
-        },
-        {
-          "text": "He's making an impact in his chosen profession."
-        }
-      ],
-      "topics": ["Jobs"],
-      "collocations": {
-        "adjective": ["chosen", "noble", "caring"],
-        "verb + profession": ["practise/​practice", "enter", "go into"],
-        "preposition": ["by profession", "in a/​somebody’s/​the profession"],
-        "phrases": [
-          "a choice of profession",
-          "the top of somebody’s profession",
-          "the oldest profession"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "all the people who work in a particular type of profession",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The legal profession has/have always resisted change."
-        },
-        {
-          "text": "the licensing laws that regulate the profession"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the traditional jobs that need a high level of education and training, such as being a doctor or a lawyer",
-      "examples": [
-        {
-          "text": "employment in industry and the professions"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a statement about what you believe, feel or think about something, that is sometimes made publicly",
-      "sensetop": "profession of something",
-      "examples": [
-        {
-          "text": "a profession of faith"
-        },
-        {
-          "text": "His professions of love did not seem sincere."
-        }
-      ],
-      "synonyms": "declaration"
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/prəˈfeʃn/",
-        "audio": "pr/profession/profession__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/prəˈfeʃn/",
-        "audio": "pr/profession/profession__us_3.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (denoting the vow made on entering a religious order): via Old French from Latin professio(n-), from profiteri ‘declare publicly’, from pro- ‘before’ + fateri ‘confess’. Senses (1) and (2) derive from the notion of an occupation that one “professes” to be skilled in."
+	"term": "profession",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a type of job that needs special training or skill, especially one that needs a high level of education",
+			"sensetop": "by profession",
+			"labels": "(British English)(British English)(British English)(North American English)(especially North American English)(especially British English)(especially North American English)(both especially British English)(especially North American English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "the **medical/legal/teaching profession**"
+				},
+				{
+					"text": "to enter/go into/join a profession"
+				},
+				{
+					"text": "the caring professions *(= that involve looking after people)*"
+				},
+				{
+					"text": "She was at the very top of her profession."
+				},
+				{
+					"text": "senior members of the profession"
+				},
+				{
+					"text": "He was a lawyer by profession.",
+					"contextForm": "by profession"
+				},
+				{
+					"text": "It's time to change your profession for something more exciting."
+				},
+				{
+					"text": "He entered the legal profession after college."
+				},
+				{
+					"text": "What made you choose this profession?"
+				},
+				{
+					"text": "We are members of an old and noble profession."
+				},
+				{
+					"text": "She was shocked at her daughter's choice of profession."
+				},
+				{
+					"text": "a job where people can learn the profession"
+				},
+				{
+					"text": "the primary reason why nurses leave the profession"
+				},
+				{
+					"text": "I joined the profession when I was in my early twenties."
+				},
+				{
+					"text": "He's making an impact in his chosen profession."
+				}
+			],
+			"topics": ["Jobs"],
+			"collocations": {
+				"adjective": ["chosen", "noble", "caring"],
+				"verb + profession": ["practise/​practice", "enter", "go into"],
+				"preposition": ["by profession", "in a/​somebody’s/​the profession"],
+				"phrases": [
+					"a choice of profession",
+					"the top of somebody’s profession",
+					"the oldest profession"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "all the people who work in a particular type of profession",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The legal profession has/have always resisted change."
+				},
+				{
+					"text": "the licensing laws that regulate the profession"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the traditional jobs that need a high level of education and training, such as being a doctor or a lawyer",
+			"examples": [
+				{
+					"text": "employment in industry and the professions"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a statement about what you believe, feel or think about something, that is sometimes made publicly",
+			"sensetop": "profession of something",
+			"examples": [
+				{
+					"text": "a profession of faith"
+				},
+				{
+					"text": "His professions of love did not seem sincere."
+				}
+			],
+			"synonyms": "declaration"
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/prəˈfeʃn/",
+				"audio": "pr/profession/profession__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/prəˈfeʃn/",
+				"audio": "pr/profession/profession__us_3.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (denoting the vow made on entering a religious order): via Old French from Latin professio(n-), from profiteri ‘declare publicly’, from pro- ‘before’ + fateri ‘confess’. Senses (1) and (2) derive from the notion of an occupation that one “professes” to be skilled in."
 }

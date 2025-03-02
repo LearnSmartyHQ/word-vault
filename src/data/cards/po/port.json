@@ -1,140 +1,140 @@
 {
-  "term": "port",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a town or city with a harbour, especially one where ships load and unload goods",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a container/fishing port"
-        },
-        {
-          "text": "Rotterdam is a major port."
-        },
-        {
-          "text": "the **port city** of Gdansk"
-        },
-        {
-          "text": "the Black Sea ports"
-        },
-        {
-          "text": "a port city/​town"
-        },
-        {
-          "text": "the German port of Kiel"
-        }
-      ],
-      "topics": ["Transport by water", "Geography"],
-      "collocations": {
-        "adjective": ["bustling", "busy", "major"],
-        "verb + port": ["come into", "enter", "reach"],
-        "port + noun": ["area", "city", "town"],
-        "preposition": ["in port", "into port"],
-        "phrases": ["a port of call", "a port of entry"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a place where ships load and unload goods or shelter from storms",
-      "sensetop": "in/into port",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a naval port"
-        },
-        {
-          "text": "a container/ferry port"
-        },
-        {
-          "text": "The ship spent four days in port.",
-          "contextForm": "in/into port"
-        },
-        {
-          "text": "They reached port at last."
-        },
-        {
-          "text": "**port of entry** *(= a place where people or goods can enter a country)*"
-        },
-        {
-          "text": "the port authorities"
-        },
-        {
-          "text": "She tried to steer the boat into port."
-        },
-        {
-          "text": "There was a spontaneous welcome for anyone who put into port on the island."
-        }
-      ],
-      "topics": ["Geography"],
-      "collocations": {
-        "adjective": ["bustling", "busy", "major"],
-        "verb + port": ["come into", "enter", "reach"],
-        "port + noun": ["area", "city", "town"],
-        "preposition": ["in port", "into port"],
-        "phrases": ["a port of call", "a port of entry"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a strong sweet wine, usually dark red, that is made in Portugal. It is usually drunk at the end of a meal.",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Drinks"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a glass of port",
-      "examples": []
-    },
-    {
-      "senseNumber": 5,
-      "definition": "the side of a ship or aircraft that is on the left when you are facing forward",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "the port side"
-        }
-      ],
-      "topics": ["Transport by water", "Sports: water sports"]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "a place on a computer where you can attach another piece of equipment, often using a cable",
-      "labels": "(computing)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "the modem port"
-        }
-      ],
-      "topics": ["Computers"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "if you are in great trouble, you take any help that is offered",
-      "labels": "(saying)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/pɔːt/",
-        "audio": "po/port/port__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/pɔːrt/",
-        "audio": "po/port/port__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "noun senses 1 to 2 Old English, from Latin portus ‘haven, harbour’, reinforced in Middle English by Old French. noun senses 3 to 4 shortened form of Oporto, a major port in Portugal from which the wine is shipped. noun sense 5 mid 16th cent.: probably originally the side containing an entry port or facing the port (quayside) for loading. noun sense 6 Old English (in the sense ‘gateway’), from Latin porta ‘gate’; reinforced in Middle English by Old French porte. The later sense ‘opening in the side of a ship’ led to the general sense ‘opening’."
+	"term": "port",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a town or city with a harbour, especially one where ships load and unload goods",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a container/fishing port"
+				},
+				{
+					"text": "Rotterdam is a major port."
+				},
+				{
+					"text": "the **port city** of Gdansk"
+				},
+				{
+					"text": "the Black Sea ports"
+				},
+				{
+					"text": "a port city/​town"
+				},
+				{
+					"text": "the German port of Kiel"
+				}
+			],
+			"topics": ["Transport by water", "Geography"],
+			"collocations": {
+				"adjective": ["bustling", "busy", "major"],
+				"verb + port": ["come into", "enter", "reach"],
+				"port + noun": ["area", "city", "town"],
+				"preposition": ["in port", "into port"],
+				"phrases": ["a port of call", "a port of entry"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a place where ships load and unload goods or shelter from storms",
+			"sensetop": "in/into port",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a naval port"
+				},
+				{
+					"text": "a container/ferry port"
+				},
+				{
+					"text": "The ship spent four days in port.",
+					"contextForm": "in/into port"
+				},
+				{
+					"text": "They reached port at last."
+				},
+				{
+					"text": "**port of entry** *(= a place where people or goods can enter a country)*"
+				},
+				{
+					"text": "the port authorities"
+				},
+				{
+					"text": "She tried to steer the boat into port."
+				},
+				{
+					"text": "There was a spontaneous welcome for anyone who put into port on the island."
+				}
+			],
+			"topics": ["Geography"],
+			"collocations": {
+				"adjective": ["bustling", "busy", "major"],
+				"verb + port": ["come into", "enter", "reach"],
+				"port + noun": ["area", "city", "town"],
+				"preposition": ["in port", "into port"],
+				"phrases": ["a port of call", "a port of entry"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a strong sweet wine, usually dark red, that is made in Portugal. It is usually drunk at the end of a meal.",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Drinks"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a glass of port",
+			"examples": []
+		},
+		{
+			"senseNumber": 5,
+			"definition": "the side of a ship or aircraft that is on the left when you are facing forward",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "the port side"
+				}
+			],
+			"topics": ["Transport by water", "Sports: water sports"]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "a place on a computer where you can attach another piece of equipment, often using a cable",
+			"labels": "(computing)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "the modem port"
+				}
+			],
+			"topics": ["Computers"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "if you are in great trouble, you take any help that is offered",
+			"labels": "(saying)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/pɔːt/",
+				"audio": "po/port/port__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/pɔːrt/",
+				"audio": "po/port/port__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "noun senses 1 to 2 Old English, from Latin portus ‘haven, harbour’, reinforced in Middle English by Old French. noun senses 3 to 4 shortened form of Oporto, a major port in Portugal from which the wine is shipped. noun sense 5 mid 16th cent.: probably originally the side containing an entry port or facing the port (quayside) for loading. noun sense 6 Old English (in the sense ‘gateway’), from Latin porta ‘gate’; reinforced in Middle English by Old French porte. The later sense ‘opening in the side of a ship’ led to the general sense ‘opening’."
 }

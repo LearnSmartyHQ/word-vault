@@ -1,88 +1,88 @@
 {
-  "term": "calculation",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the act or process of using numbers to find out an amount",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Cathy did a rough calculation."
-        },
-        {
-          "text": "By my calculation(s), we made a profit of £20 000 last year."
-        },
-        {
-          "text": "Our guess was confirmed by calculation."
-        },
-        {
-          "text": "If your calculations are correct, then we will make a large profit."
-        },
-        {
-          "text": "It turned out that our calculations were incorrect."
-        },
-        {
-          "text": "She did a rapid calculation in her head."
-        },
-        {
-          "text": "The calculations are based on average annual data."
-        },
-        {
-          "text": "We cannot make a precise calculation of the price until we have all the costs."
-        },
-        {
-          "text": "an exact calculation of the amount spent so far"
-        }
-      ],
-      "topics": ["Maths and measurement"],
-      "collocations": {
-        "adjective": ["accurate", "correct", "exact"],
-        "verb + calculation": ["do", "make", "perform"],
-        "phrases": ["a method of calculation"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the process of using your judgement to decide what the results would be of doing something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Decisions are shaped by political calculations."
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "careful planning for yourself without caring about other people",
-      "labels": "(disapproving)",
-      "examples": [
-        {
-          "text": "an act of cold calculation"
-        }
-      ],
-      "collocations": {
-        "adjective": ["cold", "cool", "rational"],
-        "… of calculation": ["act"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌkælkjuˈleɪʃn/",
-        "audio": "ca/calculation/calculation__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌkælkjuˈleɪʃn/",
-        "audio": "ca/calculation/calculation__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: via Old French from late Latin calculatio(n-), from the verb calculare, from calculus ‘a small pebble ’(as used on an abacus)."
+	"term": "calculation",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the act or process of using numbers to find out an amount",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Cathy did a rough calculation."
+				},
+				{
+					"text": "By my calculation(s), we made a profit of £20 000 last year."
+				},
+				{
+					"text": "Our guess was confirmed by calculation."
+				},
+				{
+					"text": "If your calculations are correct, then we will make a large profit."
+				},
+				{
+					"text": "It turned out that our calculations were incorrect."
+				},
+				{
+					"text": "She did a rapid calculation in her head."
+				},
+				{
+					"text": "The calculations are based on average annual data."
+				},
+				{
+					"text": "We cannot make a precise calculation of the price until we have all the costs."
+				},
+				{
+					"text": "an exact calculation of the amount spent so far"
+				}
+			],
+			"topics": ["Maths and measurement"],
+			"collocations": {
+				"adjective": ["accurate", "correct", "exact"],
+				"verb + calculation": ["do", "make", "perform"],
+				"phrases": ["a method of calculation"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the process of using your judgement to decide what the results would be of doing something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Decisions are shaped by political calculations."
+				}
+			],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "careful planning for yourself without caring about other people",
+			"labels": "(disapproving)",
+			"examples": [
+				{
+					"text": "an act of cold calculation"
+				}
+			],
+			"collocations": {
+				"adjective": ["cold", "cool", "rational"],
+				"… of calculation": ["act"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌkælkjuˈleɪʃn/",
+				"audio": "ca/calculation/calculation__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌkælkjuˈleɪʃn/",
+				"audio": "ca/calculation/calculation__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: via Old French from late Latin calculatio(n-), from the verb calculare, from calculus ‘a small pebble ’(as used on an abacus)."
 }

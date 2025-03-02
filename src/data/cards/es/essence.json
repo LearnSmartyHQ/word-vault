@@ -1,93 +1,93 @@
 {
-  "term": "essence",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the most important quality or feature of something, that makes it what it is",
-      "sensetop": "in essence",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "His paintings capture the essence of France."
-        },
-        {
-          "text": "In essence *(= when you consider the most important points)*, your situation isn't so different from mine.",
-          "contextForm": "in essence"
-        },
-        {
-          "text": "His paintings embody the very essence of the immediate post-war years."
-        },
-        {
-          "text": "His theory was not new in essence."
-        },
-        {
-          "text": "His work misses the essence of what Eastern religion is about."
-        },
-        {
-          "text": "The freedom to pick your leaders is the essence of a democracy."
-        },
-        {
-          "text": "The girl has her own spiritual essence."
-        },
-        {
-          "text": "They distilled the essence of their message into three principles."
-        },
-        {
-          "text": "Like so many peasant foods, the essence of pasta is its simplicity."
-        }
-      ],
-      "collocations": {
-        "adjective": ["real", "true", "very"],
-        "verb + essence": ["capture", "distil", "embody"],
-        "preposition": ["in essence", "essence of"],
-        "phrases": ["of the essence"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a liquid taken from a plant, etc. that contains its smell and taste in a very strong form",
-      "labels": "(British English)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "essence of rose"
-        },
-        {
-          "text": "**coffee/vanilla/almond essence**"
-        }
-      ],
-      "collocations": {
-        "adjective": ["almond", "coffee", "vanilla"],
-        "… of essence": ["drop"],
-        "verb + essence": ["add", "use"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "necessary and very important",
-      "examples": [
-        {
-          "text": "In this situation **time is of the essence** *(= we must do things as quickly as possible)*."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈesns/",
-        "audio": "es/essence/essence__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈesns/",
-        "audio": "es/essence/essence__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: via Old French from Latin essentia, from esse ‘be’."
+	"term": "essence",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the most important quality or feature of something, that makes it what it is",
+			"sensetop": "in essence",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "His paintings capture the essence of France."
+				},
+				{
+					"text": "In essence *(= when you consider the most important points)*, your situation isn't so different from mine.",
+					"contextForm": "in essence"
+				},
+				{
+					"text": "His paintings embody the very essence of the immediate post-war years."
+				},
+				{
+					"text": "His theory was not new in essence."
+				},
+				{
+					"text": "His work misses the essence of what Eastern religion is about."
+				},
+				{
+					"text": "The freedom to pick your leaders is the essence of a democracy."
+				},
+				{
+					"text": "The girl has her own spiritual essence."
+				},
+				{
+					"text": "They distilled the essence of their message into three principles."
+				},
+				{
+					"text": "Like so many peasant foods, the essence of pasta is its simplicity."
+				}
+			],
+			"collocations": {
+				"adjective": ["real", "true", "very"],
+				"verb + essence": ["capture", "distil", "embody"],
+				"preposition": ["in essence", "essence of"],
+				"phrases": ["of the essence"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a liquid taken from a plant, etc. that contains its smell and taste in a very strong form",
+			"labels": "(British English)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "essence of rose"
+				},
+				{
+					"text": "**coffee/vanilla/almond essence**"
+				}
+			],
+			"collocations": {
+				"adjective": ["almond", "coffee", "vanilla"],
+				"… of essence": ["drop"],
+				"verb + essence": ["add", "use"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "necessary and very important",
+			"examples": [
+				{
+					"text": "In this situation **time is of the essence** *(= we must do things as quickly as possible)*."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈesns/",
+				"audio": "es/essence/essence__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈesns/",
+				"audio": "es/essence/essence__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: via Old French from Latin essentia, from esse ‘be’."
 }

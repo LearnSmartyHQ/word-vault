@@ -1,142 +1,142 @@
 {
-  "term": "stimulate",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "stimulate",
-      "heSheIt": "stimulates"
-    },
-    "pastSimple": "stimulated",
-    "pastParticiple": "stimulated",
-    "ingForm": "stimulating"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to make something develop or become more active; to encourage something",
-      "sensetop": "stimulate something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "The exhibition has stimulated interest in her work."
-        },
-        {
-          "text": "The article can be used to stimulate discussion among students."
-        },
-        {
-          "text": "a government package designed to stimulate economic growth"
-        },
-        {
-          "text": "The economy is recovering, stimulated in part by government spending."
-        },
-        {
-          "text": "This tax policy is artificially stimulating demand."
-        },
-        {
-          "text": "Any increase in industrial activity will stimulate demand for electricity."
-        },
-        {
-          "text": "The company is trying to stimulate confidence amongst its investors."
-        },
-        {
-          "text": "The course will stimulate interest in the development of modern society."
-        },
-        {
-          "text": "The first workshop is intended to stimulate ideas."
-        },
-        {
-          "text": "This new government initiative is designed to stimulate economic growth."
-        }
-      ],
-      "collocations": {
-        "adverb": ["greatly", "significantly", "strongly"],
-        "verb + stimulate": ["help (to)", "be designed to", "be intended to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to make somebody interested and excited about something",
-      "sensetop": "stimulate somebodystimulate somebody to do something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Parents should give children books that stimulate them.",
-          "contextForm": "stimulate somebody"
-        },
-        {
-          "text": "Both men and women are stimulated by erotic photos *(= sexually)*."
-        },
-        {
-          "text": "The conference stimulated him to study the subject in more depth.",
-          "contextForm": "stimulate somebody to do something"
-        },
-        {
-          "text": "These materials are designed to stimulate students intellectually."
-        },
-        {
-          "text": "activities designed to stimulate the children intellectually"
-        },
-        {
-          "text": "Stimulate the patient to activity but don't push him too hard."
-        }
-      ],
-      "topics": ["Feelings"],
-      "collocations": {
-        "adverb": ["greatly", "significantly", "strongly"],
-        "verb + stimulate": ["help (to)", "be designed to", "be intended to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to make a part of the body function",
-      "sensetop": "stimulate something",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "The women were given fertility drugs to stimulate the ovaries."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈstɪmjuleɪt/",
-        "audio": "st/stimulate/stimulate__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈstɪmjuleɪts/",
-        "audio": "st/stimulate/stimulates__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈstɪmjuleɪtɪd/",
-        "audio": "st/stimulate/stimulated__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈstɪmjuleɪtɪŋ/",
-        "audio": "st/stimulate/stimulating__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈstɪmjuleɪt/",
-        "audio": "st/stimulate/stimulate__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈstɪmjuleɪts/",
-        "audio": "st/stimulate/stimulates__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈstɪmjuleɪtɪd/",
-        "audio": "st/stimulate/stimulated__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈstɪmjuleɪtɪŋ/",
-        "audio": "st/stimulate/stimulating__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent. (in the sense ‘sting, afflict’): from Latin stimulat- ‘urged, goaded’, from the verb stimulare."
+	"term": "stimulate",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "stimulate",
+			"heSheIt": "stimulates"
+		},
+		"pastSimple": "stimulated",
+		"pastParticiple": "stimulated",
+		"ingForm": "stimulating"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to make something develop or become more active; to encourage something",
+			"sensetop": "stimulate something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "The exhibition has stimulated interest in her work."
+				},
+				{
+					"text": "The article can be used to stimulate discussion among students."
+				},
+				{
+					"text": "a government package designed to stimulate economic growth"
+				},
+				{
+					"text": "The economy is recovering, stimulated in part by government spending."
+				},
+				{
+					"text": "This tax policy is artificially stimulating demand."
+				},
+				{
+					"text": "Any increase in industrial activity will stimulate demand for electricity."
+				},
+				{
+					"text": "The company is trying to stimulate confidence amongst its investors."
+				},
+				{
+					"text": "The course will stimulate interest in the development of modern society."
+				},
+				{
+					"text": "The first workshop is intended to stimulate ideas."
+				},
+				{
+					"text": "This new government initiative is designed to stimulate economic growth."
+				}
+			],
+			"collocations": {
+				"adverb": ["greatly", "significantly", "strongly"],
+				"verb + stimulate": ["help (to)", "be designed to", "be intended to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to make somebody interested and excited about something",
+			"sensetop": "stimulate somebodystimulate somebody to do something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Parents should give children books that stimulate them.",
+					"contextForm": "stimulate somebody"
+				},
+				{
+					"text": "Both men and women are stimulated by erotic photos *(= sexually)*."
+				},
+				{
+					"text": "The conference stimulated him to study the subject in more depth.",
+					"contextForm": "stimulate somebody to do something"
+				},
+				{
+					"text": "These materials are designed to stimulate students intellectually."
+				},
+				{
+					"text": "activities designed to stimulate the children intellectually"
+				},
+				{
+					"text": "Stimulate the patient to activity but don't push him too hard."
+				}
+			],
+			"topics": ["Feelings"],
+			"collocations": {
+				"adverb": ["greatly", "significantly", "strongly"],
+				"verb + stimulate": ["help (to)", "be designed to", "be intended to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to make a part of the body function",
+			"sensetop": "stimulate something",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "The women were given fertility drugs to stimulate the ovaries."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈstɪmjuleɪt/",
+				"audio": "st/stimulate/stimulate__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈstɪmjuleɪts/",
+				"audio": "st/stimulate/stimulates__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈstɪmjuleɪtɪd/",
+				"audio": "st/stimulate/stimulated__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈstɪmjuleɪtɪŋ/",
+				"audio": "st/stimulate/stimulating__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈstɪmjuleɪt/",
+				"audio": "st/stimulate/stimulate__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈstɪmjuleɪts/",
+				"audio": "st/stimulate/stimulates__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈstɪmjuleɪtɪd/",
+				"audio": "st/stimulate/stimulated__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈstɪmjuleɪtɪŋ/",
+				"audio": "st/stimulate/stimulating__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent. (in the sense ‘sting, afflict’): from Latin stimulat- ‘urged, goaded’, from the verb stimulare."
 }

@@ -1,181 +1,181 @@
 {
-  "term": "reserve",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a supply of something that is available to be used in the future or when it is needed",
-      "sensetop": "reserve of something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "cash/foreign currency reserves"
-        },
-        {
-          "text": "large oil and gas reserves"
-        },
-        {
-          "text": "reserve funds"
-        },
-        {
-          "text": "He discovered unexpected reserves of strength.",
-          "contextForm": "reserve of something"
-        },
-        {
-          "text": "The country has the world's largest reserves of coal."
-        },
-        {
-          "text": "The company has substantial reserves of capital."
-        }
-      ],
-      "topics": ["Money"],
-      "collocations": {
-        "adjective": ["great", "huge", "large"],
-        "verb + reserve": ["have", "hold something in", "keep something in"],
-        "reserve + verb": ["be available", "dwindle", "fall"],
-        "reserve + noun": ["assets", "currency", "funds"],
-        "preposition": ["in reserve", "reserve of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a piece of land that is a protected area for animals, plants, etc.",
-      "labels": "North American English also",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a wildlife/forest reserve"
-        }
-      ],
-      "topics": ["The environment", "Hobbies"],
-      "collocations": {
-        "adjective": ["national", "bird", "forest"],
-        "verb + reserve": ["create", "establish"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "an area of land in the US that is kept separate for native North Americans to live in",
-      "examples": [],
-      "collocations": {
-        "adjective": ["national", "bird", "forest"],
-        "verb + reserve": ["create", "establish"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the quality that somebody has when they do not talk easily to other people about their ideas, feelings, etc.",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She found it difficult to make friends because of her natural reserve."
-        },
-        {
-          "text": "Jaime always talked to people without reserve."
-        }
-      ],
-      "synonyms": "reticence",
-      "topics": ["Opinion and argument"],
-      "collocations": {
-        "adjective": ["deep", "natural"],
-        "preposition": ["with reserve", "without reserve"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a feeling that you do not want to accept or agree to something, etc. until you are quite sure that it is all right to do so",
-      "sensetop": "with reservewithout reserve",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "Any contract should be treated with reserve until it has been checked.",
-          "contextForm": "with reserve"
-        },
-        {
-          "text": "She trusted him without reserve *(= completely)*.",
-          "contextForm": "without reserve"
-        }
-      ],
-      "collocations": {
-        "adjective": ["deep", "natural"],
-        "preposition": ["with reserve", "without reserve"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "an extra player who plays in a team when one of the other players is injured or not available to play",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Sports: ball and racket sports"],
-      "collocations": {
-        "verb + reserve": ["play in"],
-        "reserve + noun": ["side", "team", "goalkeeper"]
-      }
-    },
-    {
-      "senseNumber": 7,
-      "definition": "a team that is below the level of the main team",
-      "examples": [],
-      "collocations": {
-        "verb + reserve": ["play in"],
-        "reserve + noun": ["side", "team", "goalkeeper"]
-      }
-    },
-    {
-      "senseNumber": 8,
-      "definition": "an extra military force, etc. that is not part of a country’s regular forces, but is available to be used when needed",
-      "examples": [
-        {
-          "text": "the Army Reserve"
-        },
-        {
-          "text": "the reserve police"
-        }
-      ],
-      "collocations": {
-        "adjective": ["air-force", "army", "marine"],
-        "reserve + noun": ["army", "force", "police"]
-      }
-    },
-    {
-      "senseNumber": 9,
-      "definition": "the lowest price that somebody will accept for something, especially something that is sold at an auction",
-      "examples": [
-        {
-          "text": "The painting failed to reach to its reserve and was withdrawn from the sale."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "available to be used in the future or when needed",
-      "examples": [
-        {
-          "text": "The money was being **kept in reserve** for their retirement."
-        },
-        {
-          "text": "200 police officers were **held in reserve**."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/rɪˈzɜːv/",
-        "audio": "re/reserve/reserve__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/rɪˈzɜːrv/",
-        "audio": "re/reserve/reserve__us_4.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "reserve",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a supply of something that is available to be used in the future or when it is needed",
+			"sensetop": "reserve of something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "cash/foreign currency reserves"
+				},
+				{
+					"text": "large oil and gas reserves"
+				},
+				{
+					"text": "reserve funds"
+				},
+				{
+					"text": "He discovered unexpected reserves of strength.",
+					"contextForm": "reserve of something"
+				},
+				{
+					"text": "The country has the world's largest reserves of coal."
+				},
+				{
+					"text": "The company has substantial reserves of capital."
+				}
+			],
+			"topics": ["Money"],
+			"collocations": {
+				"adjective": ["great", "huge", "large"],
+				"verb + reserve": ["have", "hold something in", "keep something in"],
+				"reserve + verb": ["be available", "dwindle", "fall"],
+				"reserve + noun": ["assets", "currency", "funds"],
+				"preposition": ["in reserve", "reserve of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a piece of land that is a protected area for animals, plants, etc.",
+			"labels": "North American English also",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a wildlife/forest reserve"
+				}
+			],
+			"topics": ["The environment", "Hobbies"],
+			"collocations": {
+				"adjective": ["national", "bird", "forest"],
+				"verb + reserve": ["create", "establish"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "an area of land in the US that is kept separate for native North Americans to live in",
+			"examples": [],
+			"collocations": {
+				"adjective": ["national", "bird", "forest"],
+				"verb + reserve": ["create", "establish"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the quality that somebody has when they do not talk easily to other people about their ideas, feelings, etc.",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She found it difficult to make friends because of her natural reserve."
+				},
+				{
+					"text": "Jaime always talked to people without reserve."
+				}
+			],
+			"synonyms": "reticence",
+			"topics": ["Opinion and argument"],
+			"collocations": {
+				"adjective": ["deep", "natural"],
+				"preposition": ["with reserve", "without reserve"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a feeling that you do not want to accept or agree to something, etc. until you are quite sure that it is all right to do so",
+			"sensetop": "with reservewithout reserve",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "Any contract should be treated with reserve until it has been checked.",
+					"contextForm": "with reserve"
+				},
+				{
+					"text": "She trusted him without reserve *(= completely)*.",
+					"contextForm": "without reserve"
+				}
+			],
+			"collocations": {
+				"adjective": ["deep", "natural"],
+				"preposition": ["with reserve", "without reserve"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "an extra player who plays in a team when one of the other players is injured or not available to play",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Sports: ball and racket sports"],
+			"collocations": {
+				"verb + reserve": ["play in"],
+				"reserve + noun": ["side", "team", "goalkeeper"]
+			}
+		},
+		{
+			"senseNumber": 7,
+			"definition": "a team that is below the level of the main team",
+			"examples": [],
+			"collocations": {
+				"verb + reserve": ["play in"],
+				"reserve + noun": ["side", "team", "goalkeeper"]
+			}
+		},
+		{
+			"senseNumber": 8,
+			"definition": "an extra military force, etc. that is not part of a country’s regular forces, but is available to be used when needed",
+			"examples": [
+				{
+					"text": "the Army Reserve"
+				},
+				{
+					"text": "the reserve police"
+				}
+			],
+			"collocations": {
+				"adjective": ["air-force", "army", "marine"],
+				"reserve + noun": ["army", "force", "police"]
+			}
+		},
+		{
+			"senseNumber": 9,
+			"definition": "the lowest price that somebody will accept for something, especially something that is sold at an auction",
+			"examples": [
+				{
+					"text": "The painting failed to reach to its reserve and was withdrawn from the sale."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "available to be used in the future or when needed",
+			"examples": [
+				{
+					"text": "The money was being **kept in reserve** for their retirement."
+				},
+				{
+					"text": "200 police officers were **held in reserve**."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/rɪˈzɜːv/",
+				"audio": "re/reserve/reserve__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/rɪˈzɜːrv/",
+				"audio": "re/reserve/reserve__us_4.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

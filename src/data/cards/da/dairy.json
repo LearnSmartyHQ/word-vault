@@ -1,56 +1,56 @@
 {
-  "term": "dairy",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "milk, cheese and other milk products",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "The doctor told me to eat less red meat and dairy."
-        }
-      ],
-      "topics": ["Food"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a place on a farm where milk is kept and where butter and cheese are made",
-      "cefr": "c1",
-      "examples": [],
-      "topics": ["Farming"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a company that sells milk, cheese and other milk products",
-      "examples": []
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a small local shop",
-      "labels": "(New Zealand English)",
-      "examples": [
-        {
-          "text": "I went to buy a paper at the corner dairy."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈdeəri/",
-        "audio": "da/dairy/dairy__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈderi/",
-        "audio": "da/dairy/dairy__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English deierie, from deie ‘dairymaid’ (in Old English dǣge ‘female servant’), of Germanic origin; related to Old Norse deigja, also to dough and to the second element of Old English hlǣfdige (see lady)."
+	"term": "dairy",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "milk, cheese and other milk products",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "The doctor told me to eat less red meat and dairy."
+				}
+			],
+			"topics": ["Food"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a place on a farm where milk is kept and where butter and cheese are made",
+			"cefr": "c1",
+			"examples": [],
+			"topics": ["Farming"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a company that sells milk, cheese and other milk products",
+			"examples": []
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a small local shop",
+			"labels": "(New Zealand English)",
+			"examples": [
+				{
+					"text": "I went to buy a paper at the corner dairy."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈdeəri/",
+				"audio": "da/dairy/dairy__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈderi/",
+				"audio": "da/dairy/dairy__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English deierie, from deie ‘dairymaid’ (in Old English dǣge ‘female servant’), of Germanic origin; related to Old Norse deigja, also to dough and to the second element of Old English hlǣfdige (see lady)."
 }

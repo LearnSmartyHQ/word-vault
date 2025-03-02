@@ -1,152 +1,152 @@
 {
-  "term": "shelter",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the fact of having a place to live or stay, considered as a basic human need",
-      "sensetop": "without shelter",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Human beings need food, clothing and shelter."
-        },
-        {
-          "text": "Thousands of people are without shelter following the wildfires.",
-          "contextForm": "without shelter"
-        },
-        {
-          "text": "The nuns won't refuse you shelter."
-        },
-        {
-          "text": "They were anxious to find shelter for the night."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "protection from rain, danger, or attack",
-      "sensetop": "shelter from somethingshelter of something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **take shelter** from the storm",
-          "contextForm": "shelter from something"
-        },
-        {
-          "text": "People were desperately seeking shelter from the gunfire."
-        },
-        {
-          "text": "The sand dunes **provided shelter** from the wind."
-        },
-        {
-          "text": "The fox was running for the shelter of the trees.",
-          "contextForm": "shelter of something"
-        },
-        {
-          "text": "She was standing in the shelter of the doorway."
-        },
-        {
-          "text": "The great elm trees gave shelter from the wind."
-        },
-        {
-          "text": "We had to leave the shelter of the trees."
-        },
-        {
-          "text": "He took shelter from the rain under a bridge."
-        }
-      ],
-      "collocations": {
-        "verb + shelter": [
-          "afford (somebody)",
-          "give (somebody)",
-          "offer (somebody)"
-        ],
-        "preposition": [
-          "in the shelter of",
-          "under the shelter of",
-          "shelter from"
-        ],
-        "phrases": ["shelter for the night"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a structure built to give protection, especially from the weather or from attack",
-      "sensetop": "shelter for somebody/something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They built a rough shelter from old pieces of wood."
-        },
-        {
-          "text": "He helped construct temporary shelters in 10 villages before the rains came."
-        },
-        {
-          "text": "an air-raid shelter"
-        },
-        {
-          "text": "a bomb shelter"
-        },
-        {
-          "text": "Pupils have been sent home and schools have been turned into emergency shelters."
-        },
-        {
-          "text": "a shelter for cattle",
-          "contextForm": "shelter for somebody/something"
-        }
-      ],
-      "topics": ["Buildings"],
-      "collocations": {
-        "adjective": ["makeshift", "temporary", "stone"],
-        "verb + shelter": ["build", "construct", "erect"],
-        "preposition": ["in a/​the shelter", "shelter for"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a building, usually owned by a charity, that provides a place to stay for people without a home, or protection for people or animals who have been badly treated",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a night shelter for homeless people"
-        },
-        {
-          "text": "an animal shelter"
-        },
-        {
-          "text": "She works as a volunteer at a homeless shelter."
-        },
-        {
-          "text": "You'll be safer in the shelter."
-        }
-      ],
-      "topics": ["Houses and homes", "Social issues"],
-      "collocations": {
-        "adjective": ["makeshift", "temporary", "stone"],
-        "verb + shelter": ["build", "construct", "erect"],
-        "preposition": ["in a/​the shelter", "shelter for"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈʃeltə(r)/",
-        "audio": "sh/shelter/shelter__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈʃeltər/",
-        "audio": "sh/shelter/shelter__us_3.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent.: perhaps an alteration of sheld, an old spelling of shield, + -ure."
+	"term": "shelter",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the fact of having a place to live or stay, considered as a basic human need",
+			"sensetop": "without shelter",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Human beings need food, clothing and shelter."
+				},
+				{
+					"text": "Thousands of people are without shelter following the wildfires.",
+					"contextForm": "without shelter"
+				},
+				{
+					"text": "The nuns won't refuse you shelter."
+				},
+				{
+					"text": "They were anxious to find shelter for the night."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "protection from rain, danger, or attack",
+			"sensetop": "shelter from somethingshelter of something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **take shelter** from the storm",
+					"contextForm": "shelter from something"
+				},
+				{
+					"text": "People were desperately seeking shelter from the gunfire."
+				},
+				{
+					"text": "The sand dunes **provided shelter** from the wind."
+				},
+				{
+					"text": "The fox was running for the shelter of the trees.",
+					"contextForm": "shelter of something"
+				},
+				{
+					"text": "She was standing in the shelter of the doorway."
+				},
+				{
+					"text": "The great elm trees gave shelter from the wind."
+				},
+				{
+					"text": "We had to leave the shelter of the trees."
+				},
+				{
+					"text": "He took shelter from the rain under a bridge."
+				}
+			],
+			"collocations": {
+				"verb + shelter": [
+					"afford (somebody)",
+					"give (somebody)",
+					"offer (somebody)"
+				],
+				"preposition": [
+					"in the shelter of",
+					"under the shelter of",
+					"shelter from"
+				],
+				"phrases": ["shelter for the night"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a structure built to give protection, especially from the weather or from attack",
+			"sensetop": "shelter for somebody/something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They built a rough shelter from old pieces of wood."
+				},
+				{
+					"text": "He helped construct temporary shelters in 10 villages before the rains came."
+				},
+				{
+					"text": "an air-raid shelter"
+				},
+				{
+					"text": "a bomb shelter"
+				},
+				{
+					"text": "Pupils have been sent home and schools have been turned into emergency shelters."
+				},
+				{
+					"text": "a shelter for cattle",
+					"contextForm": "shelter for somebody/something"
+				}
+			],
+			"topics": ["Buildings"],
+			"collocations": {
+				"adjective": ["makeshift", "temporary", "stone"],
+				"verb + shelter": ["build", "construct", "erect"],
+				"preposition": ["in a/​the shelter", "shelter for"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a building, usually owned by a charity, that provides a place to stay for people without a home, or protection for people or animals who have been badly treated",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a night shelter for homeless people"
+				},
+				{
+					"text": "an animal shelter"
+				},
+				{
+					"text": "She works as a volunteer at a homeless shelter."
+				},
+				{
+					"text": "You'll be safer in the shelter."
+				}
+			],
+			"topics": ["Houses and homes", "Social issues"],
+			"collocations": {
+				"adjective": ["makeshift", "temporary", "stone"],
+				"verb + shelter": ["build", "construct", "erect"],
+				"preposition": ["in a/​the shelter", "shelter for"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈʃeltə(r)/",
+				"audio": "sh/shelter/shelter__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈʃeltər/",
+				"audio": "sh/shelter/shelter__us_3.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent.: perhaps an alteration of sheld, an old spelling of shield, + -ure."
 }

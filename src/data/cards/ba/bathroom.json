@@ -1,85 +1,85 @@
 {
-  "term": "bathroom",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/ba/bathroom.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a room in which there is a bath, a washbasin and often a toilet",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Go and wash your hands in the bathroom."
-        },
-        {
-          "text": "The master bedroom also has an **en suite bathroom**."
-        },
-        {
-          "text": "The **family bathroom** has a washbasin, toilet, and bath with shower attachment."
-        },
-        {
-          "text": "She stared at herself in the bathroom mirror."
-        },
-        {
-          "text": "The best boats have cabins with private bathrooms."
-        },
-        {
-          "text": "Sorry I'm late! Dad was hogging the bathroom."
-        },
-        {
-          "text": "He weighed himself on the bathroom scales."
-        }
-      ],
-      "topics": ["Houses and homes"],
-      "collocations": {
-        "adjective": ["steamy", "large", "spacious"],
-        "verb + bathroom": ["go to", "use", "clean"],
-        "bathroom + noun": ["cabinet", "cupboard", "accessories"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a room in which there is a toilet, a sink and sometimes a bath or shower",
-      "labels": "(North American English)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I have to **go to the bathroom** *(= use the toilet)*."
-        },
-        {
-          "text": "Where's the bathroom? *(= for example in a restaurant)*"
-        },
-        {
-          "text": "We were allowed to stop occasionally for bathroom breaks."
-        },
-        {
-          "text": "Bill asked if he could use the bathroom."
-        }
-      ],
-      "collocations": {
-        "adjective": ["steamy", "large", "spacious"],
-        "verb + bathroom": ["go to", "use", "clean"],
-        "bathroom + noun": ["cabinet", "cupboard", "accessories"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈbɑːθruːm//ˈbɑːθrʊm/",
-        "audio": "ba/bathroom/bathroom__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈbæθruːm//ˈbæθrʊm/",
-        "audio": "ba/bathroom/bathroom__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "bathroom",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/ba/bathroom.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a room in which there is a bath, a washbasin and often a toilet",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Go and wash your hands in the bathroom."
+				},
+				{
+					"text": "The master bedroom also has an **en suite bathroom**."
+				},
+				{
+					"text": "The **family bathroom** has a washbasin, toilet, and bath with shower attachment."
+				},
+				{
+					"text": "She stared at herself in the bathroom mirror."
+				},
+				{
+					"text": "The best boats have cabins with private bathrooms."
+				},
+				{
+					"text": "Sorry I'm late! Dad was hogging the bathroom."
+				},
+				{
+					"text": "He weighed himself on the bathroom scales."
+				}
+			],
+			"topics": ["Houses and homes"],
+			"collocations": {
+				"adjective": ["steamy", "large", "spacious"],
+				"verb + bathroom": ["go to", "use", "clean"],
+				"bathroom + noun": ["cabinet", "cupboard", "accessories"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a room in which there is a toilet, a sink and sometimes a bath or shower",
+			"labels": "(North American English)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I have to **go to the bathroom** *(= use the toilet)*."
+				},
+				{
+					"text": "Where's the bathroom? *(= for example in a restaurant)*"
+				},
+				{
+					"text": "We were allowed to stop occasionally for bathroom breaks."
+				},
+				{
+					"text": "Bill asked if he could use the bathroom."
+				}
+			],
+			"collocations": {
+				"adjective": ["steamy", "large", "spacious"],
+				"verb + bathroom": ["go to", "use", "clean"],
+				"bathroom + noun": ["cabinet", "cupboard", "accessories"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈbɑːθruːm//ˈbɑːθrʊm/",
+				"audio": "ba/bathroom/bathroom__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈbæθruːm//ˈbæθrʊm/",
+				"audio": "ba/bathroom/bathroom__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

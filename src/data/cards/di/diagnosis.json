@@ -1,75 +1,75 @@
 {
-  "term": "diagnosis",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "the act of discovering or identifying the exact cause of an illness or a problem",
-      "sensetop": "diagnosis (of something)",
-      "examples": [
-        {
-          "text": "a diagnosis of lung cancer"
-        },
-        {
-          "text": "They are waiting for the doctor's diagnosis."
-        },
-        {
-          "text": "An accurate **diagnosis was made** after a series of tests."
-        },
-        {
-          "text": "They are using new methods of diagnosis."
-        },
-        {
-          "text": "Further tests have confirmed the diagnosis."
-        },
-        {
-          "text": "Patients may suffer from some of the symptoms years before diagnosis."
-        },
-        {
-          "text": "The doctor cannot give a diagnosis without knowing the full medical history."
-        },
-        {
-          "text": "Without the results of the blood test, the doctor could only make a tentative diagnosis."
-        },
-        {
-          "text": "clinical diagnosis of schizophrenia"
-        },
-        {
-          "text": "the diagnosis of the disease"
-        }
-      ],
-      "topics": ["Healthcare"],
-      "collocations": {
-        "adjective": ["accurate", "correct", "right"],
-        "verb + diagnosis": ["establish", "give", "make"],
-        "preposition": ["after diagnosis", "before diagnosis", "diagnosis of"],
-        "phrases": ["a method of diagnosis"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌdaɪəɡˈnəʊsɪs/",
-        "audio": "di/diagnosis/diagnosis__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˌdaɪəɡˈnəʊsiːz/",
-        "audio": "di/diagnosis/diagnoses__gb_4.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌdaɪəɡˈnəʊsɪs/",
-        "audio": "di/diagnosis/diagnosis__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌdaɪəɡˈnəʊsiːz/",
-        "audio": "di/diagnosis/diagnoses__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 17th cent.: modern Latin, from Greek, from diagignōskein ‘distinguish, discern’, from dia ‘apart’ + gignōskein ‘recognize, know’."
+	"term": "diagnosis",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "the act of discovering or identifying the exact cause of an illness or a problem",
+			"sensetop": "diagnosis (of something)",
+			"examples": [
+				{
+					"text": "a diagnosis of lung cancer"
+				},
+				{
+					"text": "They are waiting for the doctor's diagnosis."
+				},
+				{
+					"text": "An accurate **diagnosis was made** after a series of tests."
+				},
+				{
+					"text": "They are using new methods of diagnosis."
+				},
+				{
+					"text": "Further tests have confirmed the diagnosis."
+				},
+				{
+					"text": "Patients may suffer from some of the symptoms years before diagnosis."
+				},
+				{
+					"text": "The doctor cannot give a diagnosis without knowing the full medical history."
+				},
+				{
+					"text": "Without the results of the blood test, the doctor could only make a tentative diagnosis."
+				},
+				{
+					"text": "clinical diagnosis of schizophrenia"
+				},
+				{
+					"text": "the diagnosis of the disease"
+				}
+			],
+			"topics": ["Healthcare"],
+			"collocations": {
+				"adjective": ["accurate", "correct", "right"],
+				"verb + diagnosis": ["establish", "give", "make"],
+				"preposition": ["after diagnosis", "before diagnosis", "diagnosis of"],
+				"phrases": ["a method of diagnosis"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌdaɪəɡˈnəʊsɪs/",
+				"audio": "di/diagnosis/diagnosis__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˌdaɪəɡˈnəʊsiːz/",
+				"audio": "di/diagnosis/diagnoses__gb_4.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌdaɪəɡˈnəʊsɪs/",
+				"audio": "di/diagnosis/diagnosis__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌdaɪəɡˈnəʊsiːz/",
+				"audio": "di/diagnosis/diagnoses__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 17th cent.: modern Latin, from Greek, from diagignōskein ‘distinguish, discern’, from dia ‘apart’ + gignōskein ‘recognize, know’."
 }

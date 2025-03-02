@@ -1,150 +1,150 @@
 {
-  "term": "invitation",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a spoken or written request to somebody to do something or to go somewhere",
-      "sensetop": "invitation to somethinginvitation for somethinginvitation from somebody/somethinginvitation to do something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **issue/extend an invitation**"
-        },
-        {
-          "text": "to **accept/turn down/decline an invitation**"
-        },
-        {
-          "text": "I **received an invitation** to the party",
-          "contextForm": "invitation to something"
-        },
-        {
-          "text": "She repeated her invitation for dinner at her place.",
-          "contextForm": "invitation for something"
-        },
-        {
-          "text": "We got a wedding invitation from Alex and Chris.",
-          "contextForm": "invitation from somebody/something"
-        },
-        {
-          "text": "I have an **open invitation** *(= not restricted to a particular date)* to visit my friend in Japan.",
-          "contextForm": "invitation to do something"
-        },
-        {
-          "text": "I must sadly decline your generous invitation."
-        },
-        {
-          "text": "I'm on the invitation list."
-        },
-        {
-          "text": "The head extended an invitation to all parents to come and see the school."
-        },
-        {
-          "text": "We'd love to take up your invitation to visit you sometime."
-        },
-        {
-          "text": "I got a baby shower invitation from a friend."
-        },
-        {
-          "text": "Have you received your invitation to the exhibition?"
-        }
-      ],
-      "collocations": {
-        "adjective": ["kind", "formal", "open"],
-        "verb + invitation": ["get", "have", "receive"],
-        "invitation + noun": ["list", "card"],
-        "preposition": [
-          "at somebody’s invitation",
-          "by invitation",
-          "invitation from"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the act of inviting somebody or of being invited",
-      "sensetop": "at the invitation of somebody",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He produced an official letter of invitation."
-        },
-        {
-          "text": "Admission is **by invitation only**."
-        },
-        {
-          "text": "A concert was held at the invitation of the mayor.",
-          "contextForm": "at the invitation of somebody"
-        }
-      ],
-      "collocations": {
-        "adjective": ["kind", "formal", "open"],
-        "verb + invitation": ["get", "have", "receive"],
-        "invitation + noun": ["list", "card"],
-        "preposition": [
-          "at somebody’s invitation",
-          "by invitation",
-          "invitation from"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a card or piece of paper that you use to invite somebody to something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "We've already sent out the invitations."
-        },
-        {
-          "text": "Have you ordered the wedding invitations yet?"
-        }
-      ],
-      "collocations": {
-        "adjective": ["kind", "formal", "open"],
-        "verb + invitation": ["get", "have", "receive"],
-        "invitation + noun": ["list", "card"],
-        "preposition": [
-          "at somebody’s invitation",
-          "by invitation",
-          "invitation from"
-        ]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "something that encourages somebody to do something or encourages something to happen, usually something bad",
-      "sensetop": "invitation to somebody (to do something)invitation to something",
-      "examples": [
-        {
-          "text": "Leaving the doors unlocked is an **open invitation** to burglars.",
-          "contextForm": "invitation to somebody (to do something)"
-        },
-        {
-          "text": "Putting the kids in charge was an invitation to disaster.",
-          "contextForm": "invitation to something"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌɪnvɪˈteɪʃn/",
-        "audio": "in/invitation/invitation__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌɪnvɪˈteɪʃn/",
-        "audio": "in/invitation/invitation__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from French, or from Latin invitatio(n-), from invitare."
+	"term": "invitation",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a spoken or written request to somebody to do something or to go somewhere",
+			"sensetop": "invitation to somethinginvitation for somethinginvitation from somebody/somethinginvitation to do something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **issue/extend an invitation**"
+				},
+				{
+					"text": "to **accept/turn down/decline an invitation**"
+				},
+				{
+					"text": "I **received an invitation** to the party",
+					"contextForm": "invitation to something"
+				},
+				{
+					"text": "She repeated her invitation for dinner at her place.",
+					"contextForm": "invitation for something"
+				},
+				{
+					"text": "We got a wedding invitation from Alex and Chris.",
+					"contextForm": "invitation from somebody/something"
+				},
+				{
+					"text": "I have an **open invitation** *(= not restricted to a particular date)* to visit my friend in Japan.",
+					"contextForm": "invitation to do something"
+				},
+				{
+					"text": "I must sadly decline your generous invitation."
+				},
+				{
+					"text": "I'm on the invitation list."
+				},
+				{
+					"text": "The head extended an invitation to all parents to come and see the school."
+				},
+				{
+					"text": "We'd love to take up your invitation to visit you sometime."
+				},
+				{
+					"text": "I got a baby shower invitation from a friend."
+				},
+				{
+					"text": "Have you received your invitation to the exhibition?"
+				}
+			],
+			"collocations": {
+				"adjective": ["kind", "formal", "open"],
+				"verb + invitation": ["get", "have", "receive"],
+				"invitation + noun": ["list", "card"],
+				"preposition": [
+					"at somebody’s invitation",
+					"by invitation",
+					"invitation from"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the act of inviting somebody or of being invited",
+			"sensetop": "at the invitation of somebody",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He produced an official letter of invitation."
+				},
+				{
+					"text": "Admission is **by invitation only**."
+				},
+				{
+					"text": "A concert was held at the invitation of the mayor.",
+					"contextForm": "at the invitation of somebody"
+				}
+			],
+			"collocations": {
+				"adjective": ["kind", "formal", "open"],
+				"verb + invitation": ["get", "have", "receive"],
+				"invitation + noun": ["list", "card"],
+				"preposition": [
+					"at somebody’s invitation",
+					"by invitation",
+					"invitation from"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a card or piece of paper that you use to invite somebody to something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "We've already sent out the invitations."
+				},
+				{
+					"text": "Have you ordered the wedding invitations yet?"
+				}
+			],
+			"collocations": {
+				"adjective": ["kind", "formal", "open"],
+				"verb + invitation": ["get", "have", "receive"],
+				"invitation + noun": ["list", "card"],
+				"preposition": [
+					"at somebody’s invitation",
+					"by invitation",
+					"invitation from"
+				]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "something that encourages somebody to do something or encourages something to happen, usually something bad",
+			"sensetop": "invitation to somebody (to do something)invitation to something",
+			"examples": [
+				{
+					"text": "Leaving the doors unlocked is an **open invitation** to burglars.",
+					"contextForm": "invitation to somebody (to do something)"
+				},
+				{
+					"text": "Putting the kids in charge was an invitation to disaster.",
+					"contextForm": "invitation to something"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌɪnvɪˈteɪʃn/",
+				"audio": "in/invitation/invitation__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌɪnvɪˈteɪʃn/",
+				"audio": "in/invitation/invitation__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from French, or from Latin invitatio(n-), from invitare."
 }

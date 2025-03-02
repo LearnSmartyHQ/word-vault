@@ -1,158 +1,158 @@
 {
-  "term": "progress",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the process of improving or developing, or of getting nearer to achieving or completing something",
-      "sensetop": "progress in somethingprogress in doing somethingprogress on somethingprogress towards something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I think we're **making progress**."
-        },
-        {
-          "text": "We will continue to **monitor progress** over the next few months."
-        },
-        {
-          "text": "economic/scientific/technological progress"
-        },
-        {
-          "text": "**rapid/good progress**"
-        },
-        {
-          "text": "We hope to see some **real progress** by March."
-        },
-        {
-          "text": "James is making **steady progress** in his recovery.",
-          "contextForm": "progress in something"
-        },
-        {
-          "text": "Police are making **significant progress** in fighting computer crime.",
-          "contextForm": "progress in doing something"
-        },
-        {
-          "text": "The two sides have made very **slow progress** in resolving the dispute."
-        },
-        {
-          "text": "There's been no **sign of progress** on this issue.",
-          "contextForm": "progress on something"
-        },
-        {
-          "text": "The company is making progress towards this target.",
-          "contextForm": "progress towards something"
-        },
-        {
-          "text": "They asked for a **progress report** on the building work."
-        },
-        {
-          "text": "You can follow the progress of the project on our website."
-        },
-        {
-          "text": "He's making good progress in maths."
-        },
-        {
-          "text": "How much progress have the builders made on the extension?"
-        },
-        {
-          "text": "I was frustrated by my apparent lack of progress when I started the violin."
-        },
-        {
-          "text": "Regular tests enable the teacher to monitor the progress of each child."
-        },
-        {
-          "text": "The book traced his steady progress from petty theft to serious crime."
-        },
-        {
-          "text": "We have made significant progress in the fight against HIV/​AIDS."
-        },
-        {
-          "text": "Who can halt this man's inexorable progress towards yet another championship?"
-        },
-        {
-          "text": "At the present rate of progress we won't be finished by July."
-        },
-        {
-          "text": "Technological progress is changing the demand for labour."
-        }
-      ],
-      "topics": ["Success"],
-      "collocations": {
-        "adjective": ["considerable", "dramatic", "excellent"],
-        "verb + progress": ["achieve", "make", "chart"],
-        "progress + verb": ["continue", "slow", "stall"],
-        "progress + noun": ["report", "note"],
-        "preposition": ["in progress", "progress from… to…", "progress in"],
-        "phrases": [
-          "a lack of progress",
-          "the march of progress",
-          "a rate of progress"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "movement forwards or towards a place",
-      "examples": [
-        {
-          "text": "She watched his slow progress down the steep slope."
-        },
-        {
-          "text": "There wasn't much traffic so we made good progress."
-        },
-        {
-          "text": "We watched the ship's stately progress out of the docks."
-        }
-      ],
-      "collocations": {
-        "adjective": ["considerable", "dramatic", "excellent"],
-        "verb + progress": ["achieve", "make", "chart"],
-        "progress + verb": ["continue", "slow", "stall"],
-        "progress + noun": ["report", "note"],
-        "preposition": ["in progress", "progress from… to…", "progress in"],
-        "phrases": [
-          "a lack of progress",
-          "the march of progress",
-          "a rate of progress"
-        ]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "happening at this time",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "Work on the new offices is now in progress."
-        },
-        {
-          "text": "Please be quiet—examination in progress."
-        },
-        {
-          "text": "I have one file for completed work and one for work in progress."
-        },
-        {
-          "text": "There was a cricket match in progress."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈprəʊɡres/",
-        "audio": "pr/progress/progress__gb_4.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈprɑːɡres//ˈprɑːɡrəs/",
-        "audio": "pr/progress/progress__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (as a noun): from Latin progressus ‘an advance’, from the verb progredi, from pro- ‘forward’ + gradi ‘to walk’. The verb became obsolete in British English use at the end of the 17th cent. and was readopted from American English in the early 19th cent."
+	"term": "progress",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the process of improving or developing, or of getting nearer to achieving or completing something",
+			"sensetop": "progress in somethingprogress in doing somethingprogress on somethingprogress towards something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I think we're **making progress**."
+				},
+				{
+					"text": "We will continue to **monitor progress** over the next few months."
+				},
+				{
+					"text": "economic/scientific/technological progress"
+				},
+				{
+					"text": "**rapid/good progress**"
+				},
+				{
+					"text": "We hope to see some **real progress** by March."
+				},
+				{
+					"text": "James is making **steady progress** in his recovery.",
+					"contextForm": "progress in something"
+				},
+				{
+					"text": "Police are making **significant progress** in fighting computer crime.",
+					"contextForm": "progress in doing something"
+				},
+				{
+					"text": "The two sides have made very **slow progress** in resolving the dispute."
+				},
+				{
+					"text": "There's been no **sign of progress** on this issue.",
+					"contextForm": "progress on something"
+				},
+				{
+					"text": "The company is making progress towards this target.",
+					"contextForm": "progress towards something"
+				},
+				{
+					"text": "They asked for a **progress report** on the building work."
+				},
+				{
+					"text": "You can follow the progress of the project on our website."
+				},
+				{
+					"text": "He's making good progress in maths."
+				},
+				{
+					"text": "How much progress have the builders made on the extension?"
+				},
+				{
+					"text": "I was frustrated by my apparent lack of progress when I started the violin."
+				},
+				{
+					"text": "Regular tests enable the teacher to monitor the progress of each child."
+				},
+				{
+					"text": "The book traced his steady progress from petty theft to serious crime."
+				},
+				{
+					"text": "We have made significant progress in the fight against HIV/​AIDS."
+				},
+				{
+					"text": "Who can halt this man's inexorable progress towards yet another championship?"
+				},
+				{
+					"text": "At the present rate of progress we won't be finished by July."
+				},
+				{
+					"text": "Technological progress is changing the demand for labour."
+				}
+			],
+			"topics": ["Success"],
+			"collocations": {
+				"adjective": ["considerable", "dramatic", "excellent"],
+				"verb + progress": ["achieve", "make", "chart"],
+				"progress + verb": ["continue", "slow", "stall"],
+				"progress + noun": ["report", "note"],
+				"preposition": ["in progress", "progress from… to…", "progress in"],
+				"phrases": [
+					"a lack of progress",
+					"the march of progress",
+					"a rate of progress"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "movement forwards or towards a place",
+			"examples": [
+				{
+					"text": "She watched his slow progress down the steep slope."
+				},
+				{
+					"text": "There wasn't much traffic so we made good progress."
+				},
+				{
+					"text": "We watched the ship's stately progress out of the docks."
+				}
+			],
+			"collocations": {
+				"adjective": ["considerable", "dramatic", "excellent"],
+				"verb + progress": ["achieve", "make", "chart"],
+				"progress + verb": ["continue", "slow", "stall"],
+				"progress + noun": ["report", "note"],
+				"preposition": ["in progress", "progress from… to…", "progress in"],
+				"phrases": [
+					"a lack of progress",
+					"the march of progress",
+					"a rate of progress"
+				]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "happening at this time",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "Work on the new offices is now in progress."
+				},
+				{
+					"text": "Please be quiet—examination in progress."
+				},
+				{
+					"text": "I have one file for completed work and one for work in progress."
+				},
+				{
+					"text": "There was a cricket match in progress."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈprəʊɡres/",
+				"audio": "pr/progress/progress__gb_4.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈprɑːɡres//ˈprɑːɡrəs/",
+				"audio": "pr/progress/progress__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (as a noun): from Latin progressus ‘an advance’, from the verb progredi, from pro- ‘forward’ + gradi ‘to walk’. The verb became obsolete in British English use at the end of the 17th cent. and was readopted from American English in the early 19th cent."
 }

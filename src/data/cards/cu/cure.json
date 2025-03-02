@@ -1,177 +1,177 @@
 {
-  "term": "cure",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "cure",
-      "heSheIt": "cures"
-    },
-    "pastSimple": "cured",
-    "pastParticiple": "cured",
-    "ingForm": "curing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to make a person or an animal healthy again after an illness",
-      "sensetop": "cure somebodycure somebody of something",
-      "labels": "(British English)(informal)(British English)(North American English)(British English)(British English)(British English)(British English)(North American English)(British English)(North American English)(British English)(British English)(British English)(North American English)(British English)(British English)",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Will you be able to cure him, Doctor?",
-          "contextForm": "cure somebody"
-        },
-        {
-          "text": "The doctor managed to cure her of her illness.",
-          "contextForm": "cure somebody of something"
-        },
-        {
-          "text": "He was now completely cured of his illness."
-        },
-        {
-          "text": "She still believed that somehow she could be miraculously cured."
-        },
-        {
-          "text": "She was miraculously cured."
-        },
-        {
-          "text": "They hope to cure her of her cancer."
-        }
-      ],
-      "topics": ["Healthcare"],
-      "collocations": {
-        "adverb": ["completely", "miraculously"],
-        "preposition": ["of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to make an illness go away",
-      "sensetop": "cure somethingcure something with something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "It is better to prevent rather than **cure diseases**.",
-          "contextForm": "cure something"
-        },
-        {
-          "text": "Finding it early is the key to **curing** most **cancers**."
-        },
-        {
-          "text": "TB is a serious illness, but it can be cured."
-        },
-        {
-          "text": "The disease can be cured with antibiotics.",
-          "contextForm": "cure something with something"
-        }
-      ],
-      "topics": ["Healthcare"],
-      "collocations": {
-        "adverb": ["completely", "miraculously"],
-        "preposition": ["of"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to deal with a problem successfully",
-      "sensetop": "cure somethingcure something with something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "I finally managed to cure the rattling noise in my car.",
-          "contextForm": "cure something"
-        },
-        {
-          "text": "Charities alone can't cure basic social injustices."
-        },
-        {
-          "text": "He bought some special software that was supposed to cure hard disk problems."
-        },
-        {
-          "text": "Most of the team's faults could be cured with good coaching.",
-          "contextForm": "cure something with something"
-        }
-      ],
-      "topics": ["Success"],
-      "collocations": {
-        "adverb": ["completely", "miraculously"],
-        "preposition": ["of"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to stop somebody from behaving in a particular way, especially a way that is bad or annoying",
-      "sensetop": "cure somebody of something",
-      "examples": [
-        {
-          "text": "I thought I had finally cured him of this annoying habit."
-        }
-      ],
-      "collocations": {
-        "adverb": ["completely", "miraculously"],
-        "preposition": ["of"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to treat food or tobacco with smoke, salt or heat, etc. in order to preserve it",
-      "sensetop": "cure something",
-      "examples": [
-        {
-          "text": "cured ham/bacon"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that what you are going to do will either be very successful or fail completely",
-      "labels": "(British English)",
-      "examples": [],
-      "topics": ["Success", "Difficulty and failure"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kjʊə(r)/",
-        "audio": "cu/cure/cure__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kjʊəz/",
-        "audio": "cu/cure/cures__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kjʊəd/",
-        "audio": "cu/cure/cured__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkjʊərɪŋ/",
-        "audio": "cu/cure/curing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kjʊr/",
-        "audio": "cu/cure/cure__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kjʊrz/",
-        "audio": "cu/cure/cures__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kjʊrd/",
-        "audio": "cu/cure/cured__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkjʊrɪŋ/",
-        "audio": "cu/cure/curing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (as a noun): from Old French curer (verb), cure (noun), both from Latin curare ‘take care of’, from cura ‘care’. The original noun senses were ‘care, concern, responsibility’, in particular spiritual care. In late Middle English the senses ‘medical care’ and ‘successful medical treatment’ arose, and hence ‘remedy’."
+	"term": "cure",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "cure",
+			"heSheIt": "cures"
+		},
+		"pastSimple": "cured",
+		"pastParticiple": "cured",
+		"ingForm": "curing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to make a person or an animal healthy again after an illness",
+			"sensetop": "cure somebodycure somebody of something",
+			"labels": "(British English)(informal)(British English)(North American English)(British English)(British English)(British English)(British English)(North American English)(British English)(North American English)(British English)(British English)(British English)(North American English)(British English)(British English)",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Will you be able to cure him, Doctor?",
+					"contextForm": "cure somebody"
+				},
+				{
+					"text": "The doctor managed to cure her of her illness.",
+					"contextForm": "cure somebody of something"
+				},
+				{
+					"text": "He was now completely cured of his illness."
+				},
+				{
+					"text": "She still believed that somehow she could be miraculously cured."
+				},
+				{
+					"text": "She was miraculously cured."
+				},
+				{
+					"text": "They hope to cure her of her cancer."
+				}
+			],
+			"topics": ["Healthcare"],
+			"collocations": {
+				"adverb": ["completely", "miraculously"],
+				"preposition": ["of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to make an illness go away",
+			"sensetop": "cure somethingcure something with something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "It is better to prevent rather than **cure diseases**.",
+					"contextForm": "cure something"
+				},
+				{
+					"text": "Finding it early is the key to **curing** most **cancers**."
+				},
+				{
+					"text": "TB is a serious illness, but it can be cured."
+				},
+				{
+					"text": "The disease can be cured with antibiotics.",
+					"contextForm": "cure something with something"
+				}
+			],
+			"topics": ["Healthcare"],
+			"collocations": {
+				"adverb": ["completely", "miraculously"],
+				"preposition": ["of"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to deal with a problem successfully",
+			"sensetop": "cure somethingcure something with something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "I finally managed to cure the rattling noise in my car.",
+					"contextForm": "cure something"
+				},
+				{
+					"text": "Charities alone can't cure basic social injustices."
+				},
+				{
+					"text": "He bought some special software that was supposed to cure hard disk problems."
+				},
+				{
+					"text": "Most of the team's faults could be cured with good coaching.",
+					"contextForm": "cure something with something"
+				}
+			],
+			"topics": ["Success"],
+			"collocations": {
+				"adverb": ["completely", "miraculously"],
+				"preposition": ["of"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to stop somebody from behaving in a particular way, especially a way that is bad or annoying",
+			"sensetop": "cure somebody of something",
+			"examples": [
+				{
+					"text": "I thought I had finally cured him of this annoying habit."
+				}
+			],
+			"collocations": {
+				"adverb": ["completely", "miraculously"],
+				"preposition": ["of"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to treat food or tobacco with smoke, salt or heat, etc. in order to preserve it",
+			"sensetop": "cure something",
+			"examples": [
+				{
+					"text": "cured ham/bacon"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that what you are going to do will either be very successful or fail completely",
+			"labels": "(British English)",
+			"examples": [],
+			"topics": ["Success", "Difficulty and failure"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kjʊə(r)/",
+				"audio": "cu/cure/cure__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kjʊəz/",
+				"audio": "cu/cure/cures__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kjʊəd/",
+				"audio": "cu/cure/cured__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkjʊərɪŋ/",
+				"audio": "cu/cure/curing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kjʊr/",
+				"audio": "cu/cure/cure__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kjʊrz/",
+				"audio": "cu/cure/cures__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kjʊrd/",
+				"audio": "cu/cure/cured__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkjʊrɪŋ/",
+				"audio": "cu/cure/curing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (as a noun): from Old French curer (verb), cure (noun), both from Latin curare ‘take care of’, from cura ‘care’. The original noun senses were ‘care, concern, responsibility’, in particular spiritual care. In late Middle English the senses ‘medical care’ and ‘successful medical treatment’ arose, and hence ‘remedy’."
 }

@@ -1,58 +1,58 @@
 {
-  "term": "saint",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person that the Christian Church recognizes as being very holy, because of the way they have lived or died",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "St John"
-        },
-        {
-          "text": "St Valentine’s Day"
-        },
-        {
-          "text": "The children were all named after saints."
-        }
-      ],
-      "topics": ["Religion and festivals"],
-      "collocations": {
-        "adjective": ["patron", "Buddhist", "Catholic"],
-        "verb + saint": ["canonize", "venerate", "become"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a very good, kind or patient person",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She's a saint to go on living with that man."
-        },
-        {
-          "text": "His behaviour would try **the patience of a saint**."
-        }
-      ],
-      "topics": ["Personal qualities"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/seɪnt//snt/",
-        "audio": "sa/saint/saint__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/seɪnt/",
-        "audio": "sa/saint/saint__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English, from Old French seint, from Latin sanctus ‘holy’, past participle of sancire ‘consecrate’."
+	"term": "saint",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person that the Christian Church recognizes as being very holy, because of the way they have lived or died",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "St John"
+				},
+				{
+					"text": "St Valentine’s Day"
+				},
+				{
+					"text": "The children were all named after saints."
+				}
+			],
+			"topics": ["Religion and festivals"],
+			"collocations": {
+				"adjective": ["patron", "Buddhist", "Catholic"],
+				"verb + saint": ["canonize", "venerate", "become"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a very good, kind or patient person",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She's a saint to go on living with that man."
+				},
+				{
+					"text": "His behaviour would try **the patience of a saint**."
+				}
+			],
+			"topics": ["Personal qualities"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/seɪnt//snt/",
+				"audio": "sa/saint/saint__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/seɪnt/",
+				"audio": "sa/saint/saint__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English, from Old French seint, from Latin sanctus ‘holy’, past participle of sancire ‘consecrate’."
 }

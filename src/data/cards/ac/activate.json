@@ -1,70 +1,70 @@
 {
-  "term": "activate",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "activate",
-      "heSheIt": "activates"
-    },
-    "pastSimple": "activated",
-    "pastParticiple": "activated",
-    "ingForm": "activating"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to make something such as a device or chemical process start working",
-      "sensetop": "activate something",
-      "examples": [
-        {
-          "text": "The burglar alarm is activated by movement."
-        },
-        {
-          "text": "The gene is activated by a specific protein."
-        }
-      ],
-      "topics": ["Engineering", "Physics and chemistry"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈæktɪveɪt/",
-        "audio": "ac/activate/activate__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈæktɪveɪts/",
-        "audio": "ac/activate/activates__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈæktɪveɪtɪd/",
-        "audio": "ac/activate/activated__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈæktɪveɪtɪŋ/",
-        "audio": "ac/activate/activating__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈæktɪveɪt/",
-        "audio": "ac/activate/activate__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈæktɪveɪts/",
-        "audio": "ac/activate/activates__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈæktɪveɪtɪd/",
-        "audio": "ac/activate/activated__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈæktɪveɪtɪŋ/",
-        "audio": "ac/activate/activating__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "activate",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "activate",
+			"heSheIt": "activates"
+		},
+		"pastSimple": "activated",
+		"pastParticiple": "activated",
+		"ingForm": "activating"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to make something such as a device or chemical process start working",
+			"sensetop": "activate something",
+			"examples": [
+				{
+					"text": "The burglar alarm is activated by movement."
+				},
+				{
+					"text": "The gene is activated by a specific protein."
+				}
+			],
+			"topics": ["Engineering", "Physics and chemistry"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈæktɪveɪt/",
+				"audio": "ac/activate/activate__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈæktɪveɪts/",
+				"audio": "ac/activate/activates__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈæktɪveɪtɪd/",
+				"audio": "ac/activate/activated__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈæktɪveɪtɪŋ/",
+				"audio": "ac/activate/activating__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈæktɪveɪt/",
+				"audio": "ac/activate/activate__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈæktɪveɪts/",
+				"audio": "ac/activate/activates__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈæktɪveɪtɪd/",
+				"audio": "ac/activate/activated__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈæktɪveɪtɪŋ/",
+				"audio": "ac/activate/activating__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

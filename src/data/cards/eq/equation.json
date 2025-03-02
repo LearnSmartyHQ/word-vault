@@ -1,83 +1,83 @@
 {
-  "term": "equation",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a statement showing that two amounts or values are equal, for example 2x + y = 54",
-      "labels": "(mathematics)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the numbers on the right-hand side of the equation"
-        },
-        {
-          "text": "the equation for a straight line"
-        },
-        {
-          "text": "The ideal gas equation is derived from this model."
-        },
-        {
-          "text": "This can be shown by a simple equation."
-        },
-        {
-          "text": "the range of values of ξ which would satisfy this equation"
-        }
-      ],
-      "topics": ["Maths and measurement"],
-      "collocations": {
-        "adjective": ["basic", "simple", "complex"],
-        "verb + equation": ["solve", "work out", "derive"],
-        "preposition": ["equation for"],
-        "phrases": ["a side of the equation"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the act of making something equal or considering something as equal (= of equating them)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The equation of wealth with happiness can be dangerous."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a problem or situation in which several things must be considered and dealt with",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "When children **enter the equation**, further tensions may arise within a marriage."
-        },
-        {
-          "text": "Money also **comes into the equation**."
-        },
-        {
-          "text": "The availability of public transport is also **part of the equation**."
-        }
-      ],
-      "collocations": {
-        "verb + equation": ["be a part of", "come into", "enter"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪˈkweɪʒn/",
-        "audio": "eq/equation/equation__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪˈkweɪʒn/",
-        "audio": "eq/equation/equation__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Latin aequatio(n-), from aequare ‘make equal’, from aequus ‘even, level, equal’."
+	"term": "equation",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a statement showing that two amounts or values are equal, for example 2x + y = 54",
+			"labels": "(mathematics)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the numbers on the right-hand side of the equation"
+				},
+				{
+					"text": "the equation for a straight line"
+				},
+				{
+					"text": "The ideal gas equation is derived from this model."
+				},
+				{
+					"text": "This can be shown by a simple equation."
+				},
+				{
+					"text": "the range of values of ξ which would satisfy this equation"
+				}
+			],
+			"topics": ["Maths and measurement"],
+			"collocations": {
+				"adjective": ["basic", "simple", "complex"],
+				"verb + equation": ["solve", "work out", "derive"],
+				"preposition": ["equation for"],
+				"phrases": ["a side of the equation"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the act of making something equal or considering something as equal (= of equating them)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The equation of wealth with happiness can be dangerous."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a problem or situation in which several things must be considered and dealt with",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "When children **enter the equation**, further tensions may arise within a marriage."
+				},
+				{
+					"text": "Money also **comes into the equation**."
+				},
+				{
+					"text": "The availability of public transport is also **part of the equation**."
+				}
+			],
+			"collocations": {
+				"verb + equation": ["be a part of", "come into", "enter"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪˈkweɪʒn/",
+				"audio": "eq/equation/equation__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪˈkweɪʒn/",
+				"audio": "eq/equation/equation__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Latin aequatio(n-), from aequare ‘make equal’, from aequus ‘even, level, equal’."
 }

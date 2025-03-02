@@ -1,61 +1,61 @@
 {
-  "term": "dominant",
-  "partOfSpeech": "adjective",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "more important, powerful or easy to notice than other things",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "The firm has achieved a dominant position in the world market."
-        },
-        {
-          "text": "The dominant feature of the room was the large fireplace."
-        },
-        {
-          "text": "Banks have a dominant role in most countries' economies."
-        },
-        {
-          "text": "London is dominant within the UK economy."
-        },
-        {
-          "text": "No one group appears to be overwhelmingly dominant."
-        },
-        {
-          "text": "The state of the economy has been the dominant theme of the election."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "seem", "become"],
-        "adverb": ["extremely", "fairly", "very"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a dominant gene causes a person to have a particular physical characteristic, for example brown eyes, even if only one of their parents has passed on this gene",
-      "labels": "(biology)",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Biology"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈdɒmɪnənt/",
-        "audio": "do/dominant/dominant__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈdɑːmɪnənt/",
-        "audio": "do/dominant/dominant__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: via Old French from Latin dominant- ‘ruling, governing’, from the verb dominari, from dominus ‘lord, master’."
+	"term": "dominant",
+	"partOfSpeech": "adjective",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "more important, powerful or easy to notice than other things",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "The firm has achieved a dominant position in the world market."
+				},
+				{
+					"text": "The dominant feature of the room was the large fireplace."
+				},
+				{
+					"text": "Banks have a dominant role in most countries' economies."
+				},
+				{
+					"text": "London is dominant within the UK economy."
+				},
+				{
+					"text": "No one group appears to be overwhelmingly dominant."
+				},
+				{
+					"text": "The state of the economy has been the dominant theme of the election."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "seem", "become"],
+				"adverb": ["extremely", "fairly", "very"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a dominant gene causes a person to have a particular physical characteristic, for example brown eyes, even if only one of their parents has passed on this gene",
+			"labels": "(biology)",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Biology"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈdɒmɪnənt/",
+				"audio": "do/dominant/dominant__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈdɑːmɪnənt/",
+				"audio": "do/dominant/dominant__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: via Old French from Latin dominant- ‘ruling, governing’, from the verb dominari, from dominus ‘lord, master’."
 }

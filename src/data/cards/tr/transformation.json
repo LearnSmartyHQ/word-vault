@@ -1,79 +1,79 @@
 {
-  "term": "transformation",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a complete change in somebody/something",
-      "sensetop": "transformation (from something) (to/into something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The way in which we work has **undergone a** complete **transformation** in the past decade."
-        },
-        {
-          "text": "What a transformation! You look great."
-        },
-        {
-          "text": "the country’s transformation from dictatorship to democracy",
-          "contextForm": "transformation (from something) (to/into something)"
-        },
-        {
-          "text": "Going to college brought about a dramatic transformation in her outlook."
-        },
-        {
-          "text": "Were you surprised at his transformation from revolutionary hero to tyrant?"
-        },
-        {
-          "text": "Japan's transformation into an economic superpower"
-        },
-        {
-          "text": "The transformation from disused docks into city-centre cultural venue took three years."
-        },
-        {
-          "text": "This decision marked a fundamental transformation in policy."
-        }
-      ],
-      "collocations": {
-        "adjective": ["amazing", "complete", "dramatic"],
-        "… of transformations": ["series"],
-        "verb + transformation": ["go through", "undergo", "make"],
-        "transformation + verb": ["begin", "happen", "occur"],
-        "transformation + noun": ["process"],
-        "preposition": [
-          "transformation from",
-          "transformation in",
-          "transformation into"
-        ],
-        "phrases": ["a/​the process of transformation"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the process of making institutions and organizations more democratic",
-      "examples": [
-        {
-          "text": "a lack of transformation in the private sector"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌtrænsfəˈmeɪʃn/",
-        "audio": "tr/transformation/transformation__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌtrænsfərˈmeɪʃn/",
-        "audio": "tr/transformation/transformation__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French, or from late Latin transformatio(n-), from the verb transformare (see trans-, form)."
+	"term": "transformation",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a complete change in somebody/something",
+			"sensetop": "transformation (from something) (to/into something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The way in which we work has **undergone a** complete **transformation** in the past decade."
+				},
+				{
+					"text": "What a transformation! You look great."
+				},
+				{
+					"text": "the country’s transformation from dictatorship to democracy",
+					"contextForm": "transformation (from something) (to/into something)"
+				},
+				{
+					"text": "Going to college brought about a dramatic transformation in her outlook."
+				},
+				{
+					"text": "Were you surprised at his transformation from revolutionary hero to tyrant?"
+				},
+				{
+					"text": "Japan's transformation into an economic superpower"
+				},
+				{
+					"text": "The transformation from disused docks into city-centre cultural venue took three years."
+				},
+				{
+					"text": "This decision marked a fundamental transformation in policy."
+				}
+			],
+			"collocations": {
+				"adjective": ["amazing", "complete", "dramatic"],
+				"… of transformations": ["series"],
+				"verb + transformation": ["go through", "undergo", "make"],
+				"transformation + verb": ["begin", "happen", "occur"],
+				"transformation + noun": ["process"],
+				"preposition": [
+					"transformation from",
+					"transformation in",
+					"transformation into"
+				],
+				"phrases": ["a/​the process of transformation"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the process of making institutions and organizations more democratic",
+			"examples": [
+				{
+					"text": "a lack of transformation in the private sector"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌtrænsfəˈmeɪʃn/",
+				"audio": "tr/transformation/transformation__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌtrænsfərˈmeɪʃn/",
+				"audio": "tr/transformation/transformation__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French, or from late Latin transformatio(n-), from the verb transformare (see trans-, form)."
 }

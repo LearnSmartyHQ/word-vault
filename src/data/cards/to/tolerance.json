@@ -1,117 +1,117 @@
 {
-  "term": "tolerance",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the quality of being willing to accept or tolerate somebody/something, especially opinions or behaviour that you may not agree with, or people who are not like you",
-      "sensetop": "tolerance (of/for somebody/something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She had no tolerance for jokes of any kind."
-        },
-        {
-          "text": "religious tolerance"
-        },
-        {
-          "text": "a reputation for tolerance of alternative lifestyles"
-        },
-        {
-          "text": "He watched the kids throw water around with amused tolerance."
-        },
-        {
-          "text": "She was showing greater tolerance towards her younger sister than before."
-        },
-        {
-          "text": "The policy required greater tolerance of foreigners."
-        },
-        {
-          "text": "Your lack of tolerance is disappointing."
-        },
-        {
-          "text": "a plea for greater tolerance of religious diversity"
-        },
-        {
-          "text": "They have shown remarkable tolerance of the delays."
-        },
-        {
-          "text": "We must fight prejudice and encourage an attitude of tolerance to others."
-        }
-      ],
-      "topics": [
-        "Discussion and agreement",
-        "Personal qualities",
-        "Social issues"
-      ],
-      "collocations": {
-        "adjective": ["great", "political", "racial"],
-        "… of tolerance": ["degree", "level"],
-        "verb + tolerance": ["have", "show", "learn"],
-        "preposition": [
-          "tolerance for",
-          "tolerance of",
-          "tolerance towards/​toward"
-        ],
-        "phrases": ["a lack of tolerance"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the ability to suffer something, especially pain, difficult conditions, etc. without being harmed",
-      "sensetop": "tolerance (to something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "tolerance to cold"
-        },
-        {
-          "text": "Tolerance to alcohol decreases with age."
-        },
-        {
-          "text": "He proved his high tolerance for pain."
-        },
-        {
-          "text": "We group plants according to their light and heat tolerances."
-        },
-        {
-          "text": "Some children have a low tolerance for boredom."
-        }
-      ],
-      "collocations": {
-        "adjective": ["high", "low", "decreased"],
-        "… of tolerance": ["level"],
-        "verb + tolerance": ["have", "develop", "improve"],
-        "tolerance + noun": ["level"],
-        "preposition": ["tolerance for", "tolerance to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the amount by which the measurement of a value can vary without causing problems",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "They were working to a tolerance of 0.0001 of a centimetre."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈtɒlərəns/",
-        "audio": "to/tolerance/tolerance__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈtɑːlərəns/",
-        "audio": "to/tolerance/tolerance__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (denoting the action of bearing hardship, or the ability to bear pain and hardship): via Old French from Latin tolerantia, from tolerare."
+	"term": "tolerance",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the quality of being willing to accept or tolerate somebody/something, especially opinions or behaviour that you may not agree with, or people who are not like you",
+			"sensetop": "tolerance (of/for somebody/something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She had no tolerance for jokes of any kind."
+				},
+				{
+					"text": "religious tolerance"
+				},
+				{
+					"text": "a reputation for tolerance of alternative lifestyles"
+				},
+				{
+					"text": "He watched the kids throw water around with amused tolerance."
+				},
+				{
+					"text": "She was showing greater tolerance towards her younger sister than before."
+				},
+				{
+					"text": "The policy required greater tolerance of foreigners."
+				},
+				{
+					"text": "Your lack of tolerance is disappointing."
+				},
+				{
+					"text": "a plea for greater tolerance of religious diversity"
+				},
+				{
+					"text": "They have shown remarkable tolerance of the delays."
+				},
+				{
+					"text": "We must fight prejudice and encourage an attitude of tolerance to others."
+				}
+			],
+			"topics": [
+				"Discussion and agreement",
+				"Personal qualities",
+				"Social issues"
+			],
+			"collocations": {
+				"adjective": ["great", "political", "racial"],
+				"… of tolerance": ["degree", "level"],
+				"verb + tolerance": ["have", "show", "learn"],
+				"preposition": [
+					"tolerance for",
+					"tolerance of",
+					"tolerance towards/​toward"
+				],
+				"phrases": ["a lack of tolerance"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the ability to suffer something, especially pain, difficult conditions, etc. without being harmed",
+			"sensetop": "tolerance (to something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "tolerance to cold"
+				},
+				{
+					"text": "Tolerance to alcohol decreases with age."
+				},
+				{
+					"text": "He proved his high tolerance for pain."
+				},
+				{
+					"text": "We group plants according to their light and heat tolerances."
+				},
+				{
+					"text": "Some children have a low tolerance for boredom."
+				}
+			],
+			"collocations": {
+				"adjective": ["high", "low", "decreased"],
+				"… of tolerance": ["level"],
+				"verb + tolerance": ["have", "develop", "improve"],
+				"tolerance + noun": ["level"],
+				"preposition": ["tolerance for", "tolerance to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the amount by which the measurement of a value can vary without causing problems",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "They were working to a tolerance of 0.0001 of a centimetre."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈtɒlərəns/",
+				"audio": "to/tolerance/tolerance__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈtɑːlərəns/",
+				"audio": "to/tolerance/tolerance__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (denoting the action of bearing hardship, or the ability to bear pain and hardship): via Old French from Latin tolerantia, from tolerare."
 }

@@ -1,118 +1,118 @@
 {
-  "term": "dependent",
-  "partOfSpeech": "adjective",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "needing somebody/something in order to survive or be successful",
-      "sensetop": "dependent on/upon somebody/somethingdependent on/upon somebody/something for something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a woman with several dependent children"
-        },
-        {
-          "text": "You can't be dependent on your parents all your life.",
-          "contextForm": "dependent on/upon somebody/something"
-        },
-        {
-          "text": "The festival is heavily dependent on sponsorship for its success.",
-          "contextForm": "dependent on/upon somebody/something for something"
-        },
-        {
-          "text": "74% of people in the survey were at least partially dependent on their cars."
-        },
-        {
-          "text": "Jane had never met anyone so utterly dependent."
-        },
-        {
-          "text": "Many of the patients are closely dependent on staff for day-to-day emotional support."
-        },
-        {
-          "text": "Modern science is critically dependent on high-performance computing."
-        },
-        {
-          "text": "Small companies are dependent upon the local economy."
-        },
-        {
-          "text": "The country is heavily dependent on oil and gas imports."
-        },
-        {
-          "text": "The land is dry and wholly dependent on irrigation."
-        },
-        {
-          "text": "The various organs of the body do not function in isolation but are mutually dependent."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "feel", "become"],
-        "adverb": ["closely", "deeply", "greatly"],
-        "preposition": ["on", "upon"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "addicted to something (= unable to stop taking or using it)",
-      "sensetop": "dependent on/upon something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "to be dependent on drugs"
-        }
-      ],
-      "topics": ["Health problems", "Social issues"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "affected or decided by something",
-      "sensetop": "dependent on/upon something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "A child's development is dependent on many factors."
-        },
-        {
-          "text": "The price is dependent on how many extras you choose."
-        },
-        {
-          "text": "Your access to a good education is largely dependent on where you live."
-        },
-        {
-          "text": "The amount of benefit you receive is entirely dependent on the amount you have paid in."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be"],
-        "adverb": ["strongly", "entirely", "fully"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "secondary to another clause, phrase or word",
-      "sensetop": "dependent on something",
-      "labels": "(grammar)",
-      "examples": [
-        {
-          "text": "The word ‘because’ forces the clause to be dependent on some other main clause."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/dɪˈpendənt/",
-        "audio": "de/dependent/dependent__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/dɪˈpendənt/",
-        "audio": "de/dependent/dependent__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English dependant ‘hanging down’, from Old French, present participle of dependre, from Latin dependere, from de- ‘down’ + pendere ‘hang’. The spelling change in the 16th cent. was due to association with the Latin participial stem dependent-."
+	"term": "dependent",
+	"partOfSpeech": "adjective",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "needing somebody/something in order to survive or be successful",
+			"sensetop": "dependent on/upon somebody/somethingdependent on/upon somebody/something for something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a woman with several dependent children"
+				},
+				{
+					"text": "You can't be dependent on your parents all your life.",
+					"contextForm": "dependent on/upon somebody/something"
+				},
+				{
+					"text": "The festival is heavily dependent on sponsorship for its success.",
+					"contextForm": "dependent on/upon somebody/something for something"
+				},
+				{
+					"text": "74% of people in the survey were at least partially dependent on their cars."
+				},
+				{
+					"text": "Jane had never met anyone so utterly dependent."
+				},
+				{
+					"text": "Many of the patients are closely dependent on staff for day-to-day emotional support."
+				},
+				{
+					"text": "Modern science is critically dependent on high-performance computing."
+				},
+				{
+					"text": "Small companies are dependent upon the local economy."
+				},
+				{
+					"text": "The country is heavily dependent on oil and gas imports."
+				},
+				{
+					"text": "The land is dry and wholly dependent on irrigation."
+				},
+				{
+					"text": "The various organs of the body do not function in isolation but are mutually dependent."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "feel", "become"],
+				"adverb": ["closely", "deeply", "greatly"],
+				"preposition": ["on", "upon"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "addicted to something (= unable to stop taking or using it)",
+			"sensetop": "dependent on/upon something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "to be dependent on drugs"
+				}
+			],
+			"topics": ["Health problems", "Social issues"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "affected or decided by something",
+			"sensetop": "dependent on/upon something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "A child's development is dependent on many factors."
+				},
+				{
+					"text": "The price is dependent on how many extras you choose."
+				},
+				{
+					"text": "Your access to a good education is largely dependent on where you live."
+				},
+				{
+					"text": "The amount of benefit you receive is entirely dependent on the amount you have paid in."
+				}
+			],
+			"collocations": {
+				"verbs": ["be"],
+				"adverb": ["strongly", "entirely", "fully"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "secondary to another clause, phrase or word",
+			"sensetop": "dependent on something",
+			"labels": "(grammar)",
+			"examples": [
+				{
+					"text": "The word ‘because’ forces the clause to be dependent on some other main clause."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/dɪˈpendənt/",
+				"audio": "de/dependent/dependent__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/dɪˈpendənt/",
+				"audio": "de/dependent/dependent__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English dependant ‘hanging down’, from Old French, present participle of dependre, from Latin dependere, from de- ‘down’ + pendere ‘hang’. The spelling change in the 16th cent. was due to association with the Latin participial stem dependent-."
 }

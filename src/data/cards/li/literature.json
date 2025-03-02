@@ -1,83 +1,83 @@
 {
-  "term": "literature",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "pieces of writing that are valued as works of art, especially novels, plays and poems (in contrast to technical books and newspapers, magazines, etc.)",
-      "labels": "(US English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "English/American/French literature"
-        },
-        {
-          "text": "children's literature"
-        },
-        {
-          "text": "great **works of literature**"
-        },
-        {
-          "text": "For most people, the desire to study literature begins with a love of reading."
-        }
-      ],
-      "topics": ["Literature and writing"],
-      "collocations": {
-        "adjective": ["classical", "contemporary", "modern"],
-        "… of literature": ["piece", "work"],
-        "verb + literature": ["read", "study", "teach"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "pieces of writing or printed information on a particular subject",
-      "sensetop": "literature on somethingliterature about something",
-      "examples": [
-        {
-          "text": "sales literature"
-        },
-        {
-          "text": "a review of the **scientific literature** on the topic",
-          "contextForm": "literature on something"
-        },
-        {
-          "text": "I've read all the available literature on keeping rabbits."
-        },
-        {
-          "text": "I picked up some literature about pensions.",
-          "contextForm": "literature about something"
-        },
-        {
-          "text": "Chapter 1 **reviews the literature** and discusses the main types of sources available."
-        }
-      ],
-      "collocations": {
-        "adjective": ["extensive", "vast", "voluminous"],
-        "… of literature": ["body"],
-        "preposition": [
-          "literature about",
-          "literature concerning",
-          "literature on"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈlɪtrətʃə(r)/",
-        "audio": "li/literature/literature__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈlɪtrətʃər//ˈlɪtrətʃʊr/",
-        "audio": "li/literature/literature__us_7.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘knowledge of books’): via French from Latin litteratura, from littera ‘letter of the alphabet’, (plural) ‘epistle, literature, culture’."
+	"term": "literature",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "pieces of writing that are valued as works of art, especially novels, plays and poems (in contrast to technical books and newspapers, magazines, etc.)",
+			"labels": "(US English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "English/American/French literature"
+				},
+				{
+					"text": "children's literature"
+				},
+				{
+					"text": "great **works of literature**"
+				},
+				{
+					"text": "For most people, the desire to study literature begins with a love of reading."
+				}
+			],
+			"topics": ["Literature and writing"],
+			"collocations": {
+				"adjective": ["classical", "contemporary", "modern"],
+				"… of literature": ["piece", "work"],
+				"verb + literature": ["read", "study", "teach"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "pieces of writing or printed information on a particular subject",
+			"sensetop": "literature on somethingliterature about something",
+			"examples": [
+				{
+					"text": "sales literature"
+				},
+				{
+					"text": "a review of the **scientific literature** on the topic",
+					"contextForm": "literature on something"
+				},
+				{
+					"text": "I've read all the available literature on keeping rabbits."
+				},
+				{
+					"text": "I picked up some literature about pensions.",
+					"contextForm": "literature about something"
+				},
+				{
+					"text": "Chapter 1 **reviews the literature** and discusses the main types of sources available."
+				}
+			],
+			"collocations": {
+				"adjective": ["extensive", "vast", "voluminous"],
+				"… of literature": ["body"],
+				"preposition": [
+					"literature about",
+					"literature concerning",
+					"literature on"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈlɪtrətʃə(r)/",
+				"audio": "li/literature/literature__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈlɪtrətʃər//ˈlɪtrətʃʊr/",
+				"audio": "li/literature/literature__us_7.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘knowledge of books’): via French from Latin litteratura, from littera ‘letter of the alphabet’, (plural) ‘epistle, literature, culture’."
 }

@@ -1,78 +1,78 @@
 {
-  "term": "imagery",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "language that produces pictures in the minds of people reading or listening",
-      "labels": "(US English)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "poetic imagery"
-        },
-        {
-          "text": "He evokes complex imagery with a single well-placed word."
-        },
-        {
-          "text": "Illustration may come between the text and the reader's own mental imagery."
-        },
-        {
-          "text": "The poem is full of religious imagery."
-        }
-      ],
-      "topics": ["Literature and writing"],
-      "collocations": {
-        "adjective": ["evocative", "graphic", "powerful"],
-        "verb + imagery": ["draw on", "employ", "use"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "pictures, photographs, etc.",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "satellite imagery *(= for example, photographs of the earth taken from space)*"
-        },
-        {
-          "text": "She worked on the computer-generated imagery for the movie."
-        },
-        {
-          "text": "The team used aerial imagery to recreate the scene."
-        },
-        {
-          "text": "The cartoons featured racist and insensitive imagery."
-        },
-        {
-          "text": "Visual imagery is very compelling."
-        },
-        {
-          "text": "The montages contain vivid and disturbing imagery."
-        }
-      ],
-      "collocations": {
-        "adjective": ["evocative", "graphic", "powerful"],
-        "verb + imagery": ["draw on", "employ", "use"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈɪmɪdʒəri/",
-        "audio": "im/imagery/imagery__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈɪmɪdʒəri/",
-        "audio": "im/imagery/imagery__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in the senses ‘statuary, carved images collectively’): from Old French imagerie, from imager ‘make an image’, from image, from Latin imago."
+	"term": "imagery",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "language that produces pictures in the minds of people reading or listening",
+			"labels": "(US English)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "poetic imagery"
+				},
+				{
+					"text": "He evokes complex imagery with a single well-placed word."
+				},
+				{
+					"text": "Illustration may come between the text and the reader's own mental imagery."
+				},
+				{
+					"text": "The poem is full of religious imagery."
+				}
+			],
+			"topics": ["Literature and writing"],
+			"collocations": {
+				"adjective": ["evocative", "graphic", "powerful"],
+				"verb + imagery": ["draw on", "employ", "use"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "pictures, photographs, etc.",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "satellite imagery *(= for example, photographs of the earth taken from space)*"
+				},
+				{
+					"text": "She worked on the computer-generated imagery for the movie."
+				},
+				{
+					"text": "The team used aerial imagery to recreate the scene."
+				},
+				{
+					"text": "The cartoons featured racist and insensitive imagery."
+				},
+				{
+					"text": "Visual imagery is very compelling."
+				},
+				{
+					"text": "The montages contain vivid and disturbing imagery."
+				}
+			],
+			"collocations": {
+				"adjective": ["evocative", "graphic", "powerful"],
+				"verb + imagery": ["draw on", "employ", "use"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈɪmɪdʒəri/",
+				"audio": "im/imagery/imagery__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈɪmɪdʒəri/",
+				"audio": "im/imagery/imagery__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in the senses ‘statuary, carved images collectively’): from Old French imagerie, from imager ‘make an image’, from image, from Latin imago."
 }

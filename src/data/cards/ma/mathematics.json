@@ -1,87 +1,87 @@
 {
-  "term": "mathematics",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the study of numbers and shapes. Branches of mathematics include arithmetic, algebra, geometry and trigonometry.",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "the school mathematics curriculum"
-        },
-        {
-          "text": "applied/pure mathematics"
-        },
-        {
-          "text": "Both science and mathematics show us that the universe has not been around for an infinite duration of time."
-        },
-        {
-          "text": "Galileo was appointed professor of mathematics at the University of Padua."
-        },
-        {
-          "text": "There is a whole field of applied mathematics which is eminently practical."
-        },
-        {
-          "text": "Astronomy in this mould becomes a branch of pure mathematics."
-        }
-      ],
-      "topics": ["Education", "Maths and measurement"],
-      "collocations": {
-        "adjective": ["applied", "pure", "school"],
-        "phrases": ["a branch of mathematics"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the process of calculating using numbers",
-      "cefr": "a2",
-      "examples": [
-        {
-          "text": "He worked out the very difficult mathematics in great detail."
-        },
-        {
-          "text": "Her proof is a remarkable piece of mathematics."
-        },
-        {
-          "text": "The mathematics of baseball is/are very interesting."
-        }
-      ],
-      "topics": ["Maths and measurement"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌmæθəˈmætɪks/",
-        "audio": "ma/mathematics/mathematics__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/mæθs/",
-        "audio": "ma/mathematics/maths__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/mæθ/",
-        "audio": "ma/mathematics/math__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌmæθəˈmætɪks/",
-        "audio": "ma/mathematics/mathematics__us_1.mp3"
-      },
-      {
-        "pronunciation": "/mæθs/",
-        "audio": "ma/mathematics/maths__us_3.mp3"
-      },
-      {
-        "pronunciation": "/mæθ/",
-        "audio": "ma/mathematics/math__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent.: plural of obsolete mathematic ‘mathematics’, from Old French mathematique, from Latin (ars) mathematica ‘mathematical (art)’, from Greek mathēmatikē (tekhnē), from the base of manthanein ‘learn’."
+	"term": "mathematics",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the study of numbers and shapes. Branches of mathematics include arithmetic, algebra, geometry and trigonometry.",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "the school mathematics curriculum"
+				},
+				{
+					"text": "applied/pure mathematics"
+				},
+				{
+					"text": "Both science and mathematics show us that the universe has not been around for an infinite duration of time."
+				},
+				{
+					"text": "Galileo was appointed professor of mathematics at the University of Padua."
+				},
+				{
+					"text": "There is a whole field of applied mathematics which is eminently practical."
+				},
+				{
+					"text": "Astronomy in this mould becomes a branch of pure mathematics."
+				}
+			],
+			"topics": ["Education", "Maths and measurement"],
+			"collocations": {
+				"adjective": ["applied", "pure", "school"],
+				"phrases": ["a branch of mathematics"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the process of calculating using numbers",
+			"cefr": "a2",
+			"examples": [
+				{
+					"text": "He worked out the very difficult mathematics in great detail."
+				},
+				{
+					"text": "Her proof is a remarkable piece of mathematics."
+				},
+				{
+					"text": "The mathematics of baseball is/are very interesting."
+				}
+			],
+			"topics": ["Maths and measurement"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌmæθəˈmætɪks/",
+				"audio": "ma/mathematics/mathematics__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/mæθs/",
+				"audio": "ma/mathematics/maths__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/mæθ/",
+				"audio": "ma/mathematics/math__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌmæθəˈmætɪks/",
+				"audio": "ma/mathematics/mathematics__us_1.mp3"
+			},
+			{
+				"pronunciation": "/mæθs/",
+				"audio": "ma/mathematics/maths__us_3.mp3"
+			},
+			{
+				"pronunciation": "/mæθ/",
+				"audio": "ma/mathematics/math__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent.: plural of obsolete mathematic ‘mathematics’, from Old French mathematique, from Latin (ars) mathematica ‘mathematical (art)’, from Greek mathēmatikē (tekhnē), from the base of manthanein ‘learn’."
 }

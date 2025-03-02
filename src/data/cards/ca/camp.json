@@ -1,171 +1,171 @@
 {
-  "term": "camp",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a place where people live temporarily in tents or temporary buildings",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Let's return to camp."
-        },
-        {
-          "text": "to pitch/set up camp *(= put up tents)*"
-        },
-        {
-          "text": "to break/strike camp *(= take down tents)*"
-        },
-        {
-          "text": "We broke camp early the next morning."
-        },
-        {
-          "text": "We pitched camp just outside the woods."
-        }
-      ],
-      "collocations": {
-        "adjective": ["makeshift", "temporary", "day"],
-        "verb + camp": ["establish", "make", "pitch"],
-        "camp + verb": ["be located"],
-        "camp + noun": ["fire", "site"],
-        "preposition": ["at (a/​the) camp"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a place where children go in the summer and take part in sports and other activities",
-      "sensetop": "at camp",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a tennis/soccer camp"
-        },
-        {
-          "text": "I used to attend a summer music camp for five weeks."
-        },
-        {
-          "text": "He spent two weeks at camp this summer.",
-          "contextForm": "at camp"
-        },
-        {
-          "text": "a **camp counsellor** *(= somebody who works with young people at a summer camp)*"
-        }
-      ],
-      "collocations": {
-        "adjective": ["makeshift", "temporary", "day"],
-        "verb + camp": ["establish", "make", "pitch"],
-        "camp + verb": ["be located"],
-        "camp + noun": ["fire", "site"],
-        "preposition": ["at (a/​the) camp"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a place where people are kept in temporary buildings or tents, especially by a government and often for long periods",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They criticized the appalling conditions in the **refugee camps**."
-        },
-        {
-          "text": "a detention/an internment camp"
-        },
-        {
-          "text": "They were repeatedly beaten by camp guards."
-        }
-      ],
-      "topics": ["Social issues"],
-      "collocations": {
-        "adjective": ["concentration", "detention", "internment"],
-        "verb + camp": ["be sent to", "enter", "liberate"],
-        "camp + noun": ["inmate", "guard", "survivor"],
-        "preposition": ["in a/​the camp"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a place where soldiers live while they are training or fighting",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "an army camp"
-        }
-      ],
-      "topics": ["War and conflict"],
-      "collocations": {
-        "adjective": ["makeshift", "temporary", "day"],
-        "verb + camp": ["establish", "make", "pitch"],
-        "camp + verb": ["be located"],
-        "camp + noun": ["fire", "site"],
-        "preposition": ["at (a/​the) camp"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a group of people who have the same ideas about something and oppose people with other ideas",
-      "examples": [
-        {
-          "text": "the socialist camp"
-        },
-        {
-          "text": "We were in opposing camps."
-        },
-        {
-          "text": "The region split into two armed camps."
-        },
-        {
-          "text": "People are split into two camps on this issue."
-        },
-        {
-          "text": "He was a politician who switched camps when it suited him."
-        }
-      ],
-      "collocations": {
-        "adjective": ["hostile", "opposing", "rival"],
-        "verb + camp": ["divide into", "split into"],
-        "preposition": ["in a/​the camp"],
-        "phrases": ["have a foot in both camps"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "one of the sides in a competition and the people connected with it",
-      "examples": [
-        {
-          "text": "There was an air of confidence in the England camp."
-        }
-      ],
-      "collocations": {
-        "adjective": ["hostile", "opposing", "rival"],
-        "verb + camp": ["divide into", "split into"],
-        "preposition": ["in a/​the camp"],
-        "phrases": ["have a foot in both camps"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be involved in or connected with two different groups, especially ones that oppose each other",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kæmp/",
-        "audio": "ca/camp/camp__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kæmp/",
-        "audio": "ca/camp/camp_1_us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "noun early 16th cent.: from French camp, champ, from Italian campo, from Latin campus ‘level ground’, specifically applied to the Campus Martius in Rome, used for games, athletic practice, and military drill."
+	"term": "camp",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a place where people live temporarily in tents or temporary buildings",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Let's return to camp."
+				},
+				{
+					"text": "to pitch/set up camp *(= put up tents)*"
+				},
+				{
+					"text": "to break/strike camp *(= take down tents)*"
+				},
+				{
+					"text": "We broke camp early the next morning."
+				},
+				{
+					"text": "We pitched camp just outside the woods."
+				}
+			],
+			"collocations": {
+				"adjective": ["makeshift", "temporary", "day"],
+				"verb + camp": ["establish", "make", "pitch"],
+				"camp + verb": ["be located"],
+				"camp + noun": ["fire", "site"],
+				"preposition": ["at (a/​the) camp"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a place where children go in the summer and take part in sports and other activities",
+			"sensetop": "at camp",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a tennis/soccer camp"
+				},
+				{
+					"text": "I used to attend a summer music camp for five weeks."
+				},
+				{
+					"text": "He spent two weeks at camp this summer.",
+					"contextForm": "at camp"
+				},
+				{
+					"text": "a **camp counsellor** *(= somebody who works with young people at a summer camp)*"
+				}
+			],
+			"collocations": {
+				"adjective": ["makeshift", "temporary", "day"],
+				"verb + camp": ["establish", "make", "pitch"],
+				"camp + verb": ["be located"],
+				"camp + noun": ["fire", "site"],
+				"preposition": ["at (a/​the) camp"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a place where people are kept in temporary buildings or tents, especially by a government and often for long periods",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They criticized the appalling conditions in the **refugee camps**."
+				},
+				{
+					"text": "a detention/an internment camp"
+				},
+				{
+					"text": "They were repeatedly beaten by camp guards."
+				}
+			],
+			"topics": ["Social issues"],
+			"collocations": {
+				"adjective": ["concentration", "detention", "internment"],
+				"verb + camp": ["be sent to", "enter", "liberate"],
+				"camp + noun": ["inmate", "guard", "survivor"],
+				"preposition": ["in a/​the camp"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a place where soldiers live while they are training or fighting",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "an army camp"
+				}
+			],
+			"topics": ["War and conflict"],
+			"collocations": {
+				"adjective": ["makeshift", "temporary", "day"],
+				"verb + camp": ["establish", "make", "pitch"],
+				"camp + verb": ["be located"],
+				"camp + noun": ["fire", "site"],
+				"preposition": ["at (a/​the) camp"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a group of people who have the same ideas about something and oppose people with other ideas",
+			"examples": [
+				{
+					"text": "the socialist camp"
+				},
+				{
+					"text": "We were in opposing camps."
+				},
+				{
+					"text": "The region split into two armed camps."
+				},
+				{
+					"text": "People are split into two camps on this issue."
+				},
+				{
+					"text": "He was a politician who switched camps when it suited him."
+				}
+			],
+			"collocations": {
+				"adjective": ["hostile", "opposing", "rival"],
+				"verb + camp": ["divide into", "split into"],
+				"preposition": ["in a/​the camp"],
+				"phrases": ["have a foot in both camps"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "one of the sides in a competition and the people connected with it",
+			"examples": [
+				{
+					"text": "There was an air of confidence in the England camp."
+				}
+			],
+			"collocations": {
+				"adjective": ["hostile", "opposing", "rival"],
+				"verb + camp": ["divide into", "split into"],
+				"preposition": ["in a/​the camp"],
+				"phrases": ["have a foot in both camps"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be involved in or connected with two different groups, especially ones that oppose each other",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kæmp/",
+				"audio": "ca/camp/camp__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kæmp/",
+				"audio": "ca/camp/camp_1_us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "noun early 16th cent.: from French camp, champ, from Italian campo, from Latin campus ‘level ground’, specifically applied to the Campus Martius in Rome, used for games, athletic practice, and military drill."
 }

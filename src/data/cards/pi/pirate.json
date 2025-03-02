@@ -1,58 +1,58 @@
 {
-  "term": "pirate",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "(especially in the past) a person on a ship who attacks other ships at sea in order to steal from them",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "There were reports that a pirate ship had come looking for treasure in the cove."
-        }
-      ],
-      "topics": ["Transport by water"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person who makes illegal copies of books, computer programs, etc., in order to sell them",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a pirate edition"
-        },
-        {
-          "text": "software pirates"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a person or an organization that broadcasts illegally",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a pirate radio station"
-        }
-      ],
-      "topics": ["Crime and punishment"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈpaɪrət/",
-        "audio": "pi/pirate/pirate__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈpaɪrət/",
-        "audio": "pi/pirate/pirate__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Latin pirata, from Greek peiratēs, from peirein ‘to attempt, attack’ (from peira ‘an attempt’)."
+	"term": "pirate",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "(especially in the past) a person on a ship who attacks other ships at sea in order to steal from them",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "There were reports that a pirate ship had come looking for treasure in the cove."
+				}
+			],
+			"topics": ["Transport by water"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person who makes illegal copies of books, computer programs, etc., in order to sell them",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a pirate edition"
+				},
+				{
+					"text": "software pirates"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a person or an organization that broadcasts illegally",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a pirate radio station"
+				}
+			],
+			"topics": ["Crime and punishment"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈpaɪrət/",
+				"audio": "pi/pirate/pirate__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈpaɪrət/",
+				"audio": "pi/pirate/pirate__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Latin pirata, from Greek peiratēs, from peirein ‘to attempt, attack’ (from peira ‘an attempt’)."
 }

@@ -1,91 +1,91 @@
 {
-  "term": "south",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/co/compasses.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the direction that is on your right when you watch the sun rise; one of the four main points of the compass",
-      "sensetop": "to the south (of…)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Which way is south?"
-        },
-        {
-          "text": "warmer weather coming from the south"
-        },
-        {
-          "text": "a south-facing garden"
-        },
-        {
-          "text": "He lives to the south of *(= further south than)* the city.",
-          "contextForm": "to the south (of…)"
-        },
-        {
-          "text": "views of distant mountains to north and south"
-        }
-      ],
-      "topics": ["Geography"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the southern part of a country, a region or the world",
-      "sensetop": "in the south",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "birds flying to the south for the winter"
-        },
-        {
-          "text": "Houses are less expensive in the North than in the South *(= of the country)*.",
-          "contextForm": "in the south"
-        },
-        {
-          "text": "They bought a villa in the South of France."
-        }
-      ],
-      "topics": ["Geography"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the southern states of the US",
-      "examples": [
-        {
-          "text": "The South used to rely heavily on agriculture."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the poorer countries in the southern half of the world",
-      "examples": [
-        {
-          "text": "The South comprises many diverse countries."
-        },
-        {
-          "text": "the vast informal economies of the Global South"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/saʊθ/",
-        "audio": "so/south/south__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/saʊθ/",
-        "audio": "so/south/south__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English sūth, of Germanic origin; related to Low German sud."
+	"term": "south",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/co/compasses.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the direction that is on your right when you watch the sun rise; one of the four main points of the compass",
+			"sensetop": "to the south (of…)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Which way is south?"
+				},
+				{
+					"text": "warmer weather coming from the south"
+				},
+				{
+					"text": "a south-facing garden"
+				},
+				{
+					"text": "He lives to the south of *(= further south than)* the city.",
+					"contextForm": "to the south (of…)"
+				},
+				{
+					"text": "views of distant mountains to north and south"
+				}
+			],
+			"topics": ["Geography"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the southern part of a country, a region or the world",
+			"sensetop": "in the south",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "birds flying to the south for the winter"
+				},
+				{
+					"text": "Houses are less expensive in the North than in the South *(= of the country)*.",
+					"contextForm": "in the south"
+				},
+				{
+					"text": "They bought a villa in the South of France."
+				}
+			],
+			"topics": ["Geography"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the southern states of the US",
+			"examples": [
+				{
+					"text": "The South used to rely heavily on agriculture."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the poorer countries in the southern half of the world",
+			"examples": [
+				{
+					"text": "The South comprises many diverse countries."
+				},
+				{
+					"text": "the vast informal economies of the Global South"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/saʊθ/",
+				"audio": "so/south/south__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/saʊθ/",
+				"audio": "so/south/south__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English sūth, of Germanic origin; related to Low German sud."
 }

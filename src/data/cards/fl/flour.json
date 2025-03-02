@@ -1,62 +1,62 @@
 {
-  "term": "flour",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a fine white or brown powder made from grain, especially wheat, and used in cooking for making bread, cakes, etc.",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Sift the flour and salt into a bowl."
-        },
-        {
-          "text": "wheat/rice flour"
-        },
-        {
-          "text": "Wholemeal flour is more nutritious than white flour."
-        },
-        {
-          "text": "Blend the flour with a little milk to make a smooth paste."
-        },
-        {
-          "text": "Rub the butter into the flour."
-        }
-      ],
-      "topics": ["Food"],
-      "collocations": {
-        "adjective": ["bread", "cake", "all-purpose"],
-        "… of flour": ["bag", "cup", "sack"],
-        "verb + flour": ["use", "add", "blend"],
-        "flour + noun": ["mill"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "fine soft powder made from the seeds or roots of vegetables",
-      "examples": [
-        {
-          "text": "manioc flour"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈflaʊə(r)/",
-        "audio": "fl/flour/flour__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈflaʊər/",
-        "audio": "fl/flour/flour__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: a specific use of flower in the sense ‘the best part’, used originally to mean ‘the finest quality of ground wheat’. The spelling flower remained in use alongside flour until the early 19th cent."
+	"term": "flour",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a fine white or brown powder made from grain, especially wheat, and used in cooking for making bread, cakes, etc.",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Sift the flour and salt into a bowl."
+				},
+				{
+					"text": "wheat/rice flour"
+				},
+				{
+					"text": "Wholemeal flour is more nutritious than white flour."
+				},
+				{
+					"text": "Blend the flour with a little milk to make a smooth paste."
+				},
+				{
+					"text": "Rub the butter into the flour."
+				}
+			],
+			"topics": ["Food"],
+			"collocations": {
+				"adjective": ["bread", "cake", "all-purpose"],
+				"… of flour": ["bag", "cup", "sack"],
+				"verb + flour": ["use", "add", "blend"],
+				"flour + noun": ["mill"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "fine soft powder made from the seeds or roots of vegetables",
+			"examples": [
+				{
+					"text": "manioc flour"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈflaʊə(r)/",
+				"audio": "fl/flour/flour__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈflaʊər/",
+				"audio": "fl/flour/flour__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: a specific use of flower in the sense ‘the best part’, used originally to mean ‘the finest quality of ground wheat’. The spelling flower remained in use alongside flour until the early 19th cent."
 }

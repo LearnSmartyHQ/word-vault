@@ -1,103 +1,103 @@
 {
-  "term": "manufacture",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "manufacture",
-      "heSheIt": "manufactures"
-    },
-    "pastSimple": "manufactured",
-    "pastParticiple": "manufactured",
-    "ingForm": "manufacturing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to make goods in large quantities, using machines",
-      "sensetop": "manufacture something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "manufactured goods"
-        },
-        {
-          "text": "This company manufactures the equipment used to make contact lenses."
-        }
-      ],
-      "synonyms": "mass-produce",
-      "topics": ["Business"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to invent a story, an excuse, etc.",
-      "sensetop": "manufacture something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a news story manufactured by an unscrupulous journalist"
-        },
-        {
-          "text": "The evidence against him had been largely manufactured."
-        },
-        {
-          "text": "There were claims that the entire row had been manufactured by the press."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to produce a substance",
-      "sensetop": "manufacture something",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "Vitamins cannot be manufactured by our bodies."
-        },
-        {
-          "text": "Plants use the sun's light to manufacture their food."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌmænjuˈfæktʃə(r)/",
-        "audio": "ma/manufacture/manufacture__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/ˌmænjuˈfæktʃəz/",
-        "audio": "ma/manufacture/manufactures__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌmænjuˈfæktʃəd/",
-        "audio": "ma/manufacture/manufactured__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌmænjuˈfæktʃərɪŋ/",
-        "audio": "ma/manufacture/manufacturing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌmænjuˈfæktʃər/",
-        "audio": "ma/manufacture/manufacture__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌmænjuˈfæktʃərz/",
-        "audio": "ma/manufacture/manufactures__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌmænjuˈfæktʃərd/",
-        "audio": "ma/manufacture/manufactured__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˌmænjuˈfæktʃərɪŋ/",
-        "audio": "ma/manufacture/manufacturing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent. (as noun, denoting something made by hand): from French (re-formed by association with Latin manu factum ‘made by hand’), from Italian manifattura. The verb dates from the mid 17th cent."
+	"term": "manufacture",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "manufacture",
+			"heSheIt": "manufactures"
+		},
+		"pastSimple": "manufactured",
+		"pastParticiple": "manufactured",
+		"ingForm": "manufacturing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to make goods in large quantities, using machines",
+			"sensetop": "manufacture something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "manufactured goods"
+				},
+				{
+					"text": "This company manufactures the equipment used to make contact lenses."
+				}
+			],
+			"synonyms": "mass-produce",
+			"topics": ["Business"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to invent a story, an excuse, etc.",
+			"sensetop": "manufacture something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a news story manufactured by an unscrupulous journalist"
+				},
+				{
+					"text": "The evidence against him had been largely manufactured."
+				},
+				{
+					"text": "There were claims that the entire row had been manufactured by the press."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to produce a substance",
+			"sensetop": "manufacture something",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "Vitamins cannot be manufactured by our bodies."
+				},
+				{
+					"text": "Plants use the sun's light to manufacture their food."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌmænjuˈfæktʃə(r)/",
+				"audio": "ma/manufacture/manufacture__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/ˌmænjuˈfæktʃəz/",
+				"audio": "ma/manufacture/manufactures__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌmænjuˈfæktʃəd/",
+				"audio": "ma/manufacture/manufactured__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌmænjuˈfæktʃərɪŋ/",
+				"audio": "ma/manufacture/manufacturing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌmænjuˈfæktʃər/",
+				"audio": "ma/manufacture/manufacture__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌmænjuˈfæktʃərz/",
+				"audio": "ma/manufacture/manufactures__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌmænjuˈfæktʃərd/",
+				"audio": "ma/manufacture/manufactured__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˌmænjuˈfæktʃərɪŋ/",
+				"audio": "ma/manufacture/manufacturing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent. (as noun, denoting something made by hand): from French (re-formed by association with Latin manu factum ‘made by hand’), from Italian manifattura. The verb dates from the mid 17th cent."
 }

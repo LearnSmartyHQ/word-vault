@@ -1,79 +1,79 @@
 {
-  "term": "bass",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "image": "data/images/mu/music_string_instruments.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the lowest tone or part in music, for instruments or voices",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "He always plays his stereo with the bass turned right up."
-        },
-        {
-          "text": "He sings bass."
-        }
-      ],
-      "topics": ["Music"],
-      "collocations": {
-        "adjective": ["loud", "pounding", "throbbing"],
-        "verb + bass": ["turn down", "turn up"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an electric guitar that plays very low notes",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a bass player"
-        },
-        {
-          "text": "bass and drums"
-        },
-        {
-          "text": "Eilís Phillips on *(= playing)* bass"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a man’s singing voice with a low range; a man with a bass voice",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "He answered my question in a surprisingly deep bass."
-        }
-      ],
-      "topics": ["Music"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a musical part that is written for a bass voice",
-      "examples": []
-    },
-    {
-      "senseNumber": 5,
-      "definition": "the largest musical instrument in the violin family, which plays very low notes",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/beɪs/",
-        "audio": "ba/bass/bass__gb_6.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/beɪs/",
-        "audio": "ba/bass/bass__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: alteration of the adjective base."
+	"term": "bass",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"image": "data/images/mu/music_string_instruments.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the lowest tone or part in music, for instruments or voices",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "He always plays his stereo with the bass turned right up."
+				},
+				{
+					"text": "He sings bass."
+				}
+			],
+			"topics": ["Music"],
+			"collocations": {
+				"adjective": ["loud", "pounding", "throbbing"],
+				"verb + bass": ["turn down", "turn up"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an electric guitar that plays very low notes",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a bass player"
+				},
+				{
+					"text": "bass and drums"
+				},
+				{
+					"text": "Eilís Phillips on *(= playing)* bass"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a man’s singing voice with a low range; a man with a bass voice",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "He answered my question in a surprisingly deep bass."
+				}
+			],
+			"topics": ["Music"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a musical part that is written for a bass voice",
+			"examples": []
+		},
+		{
+			"senseNumber": 5,
+			"definition": "the largest musical instrument in the violin family, which plays very low notes",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/beɪs/",
+				"audio": "ba/bass/bass__gb_6.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/beɪs/",
+				"audio": "ba/bass/bass__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: alteration of the adjective base."
 }

@@ -1,67 +1,67 @@
 {
-  "term": "capsule",
-  "partOfSpeech": "noun",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a small container that has a measured amount of a medicine inside and that dissolves (= becomes part of a liquid) when you swallow it (= make it go down your throat into your stomach)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The medicine can be taken in tablet or capsule form."
-        },
-        {
-          "text": "Take two 30ml capsules a day."
-        }
-      ],
-      "topics": ["Healthcare"],
-      "collocations": {
-        "adjective": ["gelatin", "cyanide", "fish oil"],
-        "verb + capsule": ["swallow", "take"],
-        "capsule + verb": ["contain something"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a small plastic container with a substance or liquid inside",
-      "examples": [
-        {
-          "text": "To avoid capture, he swallowed a cyanide capsule."
-        },
-        {
-          "text": "capsules containing a poisonous drug"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the part of a spacecraft in which people travel and that often separates from the main rocket",
-      "examples": [
-        {
-          "text": "the cramped conditions of a space capsule"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a shell or container for seeds or eggs in some plants and animals",
-      "labels": "(specialist)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkæpsjuːl/",
-        "audio": "ca/capsule/capsule__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkæpsl//ˈkæpsuːl/",
-        "audio": "ca/capsule/capsule__us_4.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the general sense ‘small container’): via French from Latin capsula, diminutive of capsa related to capere ‘to hold’."
+	"term": "capsule",
+	"partOfSpeech": "noun",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a small container that has a measured amount of a medicine inside and that dissolves (= becomes part of a liquid) when you swallow it (= make it go down your throat into your stomach)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The medicine can be taken in tablet or capsule form."
+				},
+				{
+					"text": "Take two 30ml capsules a day."
+				}
+			],
+			"topics": ["Healthcare"],
+			"collocations": {
+				"adjective": ["gelatin", "cyanide", "fish oil"],
+				"verb + capsule": ["swallow", "take"],
+				"capsule + verb": ["contain something"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a small plastic container with a substance or liquid inside",
+			"examples": [
+				{
+					"text": "To avoid capture, he swallowed a cyanide capsule."
+				},
+				{
+					"text": "capsules containing a poisonous drug"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the part of a spacecraft in which people travel and that often separates from the main rocket",
+			"examples": [
+				{
+					"text": "the cramped conditions of a space capsule"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a shell or container for seeds or eggs in some plants and animals",
+			"labels": "(specialist)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkæpsjuːl/",
+				"audio": "ca/capsule/capsule__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkæpsl//ˈkæpsuːl/",
+				"audio": "ca/capsule/capsule__us_4.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the general sense ‘small container’): via French from Latin capsula, diminutive of capsa related to capere ‘to hold’."
 }

@@ -1,465 +1,465 @@
 {
-  "term": "live",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "live",
-      "heSheIt": "lives"
-    },
-    "pastSimple": "lived",
-    "pastParticiple": "lived",
-    "ingForm": "living"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to have your home in a particular place",
-      "sensetop": "live + adv./prep.",
-      "labels": "(informal)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to live in a house/a flat/an apartment"
-        },
-        {
-          "text": "We used to live in London."
-        },
-        {
-          "text": "people living in rural areas"
-        },
-        {
-          "text": "We **live in a world** where technological advance is the norm."
-        },
-        {
-          "text": "Where do you live?"
-        },
-        {
-          "text": "She needs to find **somewhere to live**."
-        },
-        {
-          "text": "It's a great **place to live**."
-        },
-        {
-          "text": "Both her children still **live at home**."
-        },
-        {
-          "text": "He **lived and worked** there until his death in 2015."
-        },
-        {
-          "text": "Where do these plates live *(= where are they usually kept)*?"
-        },
-        {
-          "text": "I live in an old farmhouse."
-        },
-        {
-          "text": "She lives quite near here."
-        },
-        {
-          "text": "He lives in Cape Town."
-        },
-        {
-          "text": "I'm not going to live here permanently."
-        },
-        {
-          "text": "The couple have lived apart for two years."
-        },
-        {
-          "text": "She's lived at this same address for four years."
-        },
-        {
-          "text": "They lived among the people of this remote island."
-        },
-        {
-          "text": "We went to live in Canada when I was three."
-        },
-        {
-          "text": "You can live there quite cheaply."
-        },
-        {
-          "text": "They live in a society that is among the most liberal in Western Europe."
-        },
-        {
-          "text": "Her family has lived in the community since 1962."
-        }
-      ],
-      "collocations": {
-        "adverb": ["alone", "together", "apart"],
-        "verb + live": ["come to", "go to"],
-        "preposition": ["among", "at", "in"],
-        "phrases": ["live at home", "a place to live"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to remain alive",
-      "sensetop": "live to do something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The doctors said he only had six months to live."
-        },
-        {
-          "text": "Spiders can live for several days without food."
-        },
-        {
-          "text": "Women **live longer** than men in general."
-        },
-        {
-          "text": "Who wants to **live forever**? I don't."
-        },
-        {
-          "text": "She **lived to see** her first grandchild.",
-          "contextForm": "live to do something"
-        },
-        {
-          "text": "He lived to the age of 95."
-        },
-        {
-          "text": "I shall remember this day for as long as I live."
-        },
-        {
-          "text": "I absolutely could not live without my phone!"
-        }
-      ],
-      "collocations": {
-        "adverb": ["longer", "forever", "happily (ever after)"],
-        "preposition": ["in", "through", "with"],
-        "phrases": [
-          "(for) as long as you live",
-          "learn to live with something",
-          "live a life of something"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to be alive, especially at a particular time",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "When did Handel live?"
-        },
-        {
-          "text": "Luther lived at a time when the Bible was only available in Latin."
-        },
-        {
-          "text": "He's the greatest player who **ever lived**."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to spend your life in a particular way",
-      "sensetop": "live + adv./prep.live somethinglive + noun",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He **lived in poverty** most of his life.",
-          "contextForm": "live + adv./prep."
-        },
-        {
-          "text": "to **live in fear/peace/harmony**"
-        },
-        {
-          "text": "Most of the people **live well**, with nice houses and plenty to eat."
-        },
-        {
-          "text": "She lived a very peaceful life.",
-          "contextForm": "live something"
-        },
-        {
-          "text": "They lived their lives to the full."
-        },
-        {
-          "text": "She **lived and died** a single woman.",
-          "contextForm": "live + noun"
-        },
-        {
-          "text": "He was living quietly with his family."
-        },
-        {
-          "text": "All she wanted was to get married and live happily ever after."
-        },
-        {
-          "text": "He's now living a life of luxury in Australia."
-        },
-        {
-          "text": "She tried to live vicariously through her children."
-        },
-        {
-          "text": "They lived frugally off a diet of beans and lentils."
-        },
-        {
-          "text": "They'll have enough money to live comfortably."
-        },
-        {
-          "text": "Tonight she felt like living dangerously."
-        },
-        {
-          "text": "the need to live as harmoniously as possible with everyone else"
-        }
-      ],
-      "collocations": {
-        "adverb": ["longer", "forever", "happily (ever after)"],
-        "preposition": ["in", "through", "with"],
-        "phrases": [
-          "(for) as long as you live",
-          "learn to live with something",
-          "live a life of something"
-        ]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to continue to exist or be remembered",
-      "sensetop": "live + adv./prep.",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "This moment will live in our memory for many years to come."
-        },
-        {
-          "text": "Her words have lived with me all my life."
-        }
-      ],
-      "synonyms": "remain"
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to have a full and exciting life",
-      "examples": [
-        {
-          "text": "I don't want to be stuck in an office all my life—I want to live!"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to have enough money to be able to live a very comfortable life",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "if two people are or live in each other’s pockets, they are too close to each other or spend too much time with each other",
-      "labels": "(British English)",
-      "examples": []
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to still be alive after the time when you were expected to die",
-      "examples": [
-        {
-          "text": "He’s been living on borrowed time ever since his last heart attack."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to be doing something that other people are likely to soon stop you from doing",
-      "examples": [
-        {
-          "text": "According to the latest opinion polls, the government is living on borrowed time."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "the way of life of a different social group, especially one much richer than you",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to live a happy and comfortable life with no problems or responsibilities",
-      "labels": "(old-fashioned, informal, often disapproving)",
-      "examples": [
-        {
-          "text": "The two crooks had been living the life of Riley."
-        },
-        {
-          "text": "He planned to retire early and then lead the life of Riley."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be very enthusiastic about something",
-      "examples": [
-        {
-          "text": "He just lives and breathes football."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that you should accept other people’s opinions and behaviour even though they are different from your own",
-      "labels": "(saying)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to earn money by clever or sometimes dishonest means",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to have a way of life that seems perfect",
-      "examples": [
-        {
-          "text": "With her own TV show and a flat in Paris, she is living the dream."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to spend all the money you earn on basic needs such as food without being able to save any money",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to behave as though society, etc. has not changed, when in fact it has",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to live together and have a sexual relationship without being married",
-      "labels": "(old-fashioned or humorous)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to enjoy yourself in an exciting way, usually spending a lot of money",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to keep something important about yourself a secret from other people, so that they do not know what you really think, what you are really like, etc.",
-      "examples": [
-        {
-          "text": "He lived a lie for thirty years, ‘married’ to two women."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to have enough money to be able to afford expensive things, food, drink, etc.",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to eat whatever food you can grow, kill or find yourself",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to live or sleep outdoors, usually because you have no home and no money",
-      "labels": "(British English)",
-      "examples": [
-        {
-          "text": "young people sleeping rough on the streets"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that although you have failed or had a bad experience, you will continue",
-      "labels": "(saying)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to survive a difficult or dangerous experience so that you can tell others what really happened",
-      "examples": [],
-      "topics": ["Danger"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be unaware of popular culture and important events that are happening in the world",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Unless you’ve been living under a rock for the last few decades, you’ll be aware that Arctic sea ice is melting."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that you hope somebody/something will live or last for a long time",
-      "examples": [
-        {
-          "text": "Long live the King!"
-        },
-        {
-          "text": "Long live public libraries!"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "you should not criticize other people, because they will easily find ways of criticizing you",
-      "labels": "(saying)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to tell somebody that if they have not had a particular experience their life is not complete",
-      "examples": [
-        {
-          "text": "You've never been to New York? You haven't lived!"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to express surprise at something new or unexpected you have been told",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/lɪv/",
-        "audio": "li/live/live__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/lɪvz/",
-        "audio": "li/live/lives__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/lɪvd/",
-        "audio": "li/live/lived__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈlɪvɪŋ/",
-        "audio": "li/live/living__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/lɪv/",
-        "audio": "li/live/live__us_1.mp3"
-      },
-      {
-        "pronunciation": "/lɪvz/",
-        "audio": "li/live/lives__us_2.mp3"
-      },
-      {
-        "pronunciation": "/lɪvd/",
-        "audio": "li/live/lived__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈlɪvɪŋ/",
-        "audio": "li/live/living__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English libban, lifian, of Germanic origin; related to Dutch leven and German leben, also to life and leave (verb)."
+	"term": "live",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "live",
+			"heSheIt": "lives"
+		},
+		"pastSimple": "lived",
+		"pastParticiple": "lived",
+		"ingForm": "living"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to have your home in a particular place",
+			"sensetop": "live + adv./prep.",
+			"labels": "(informal)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to live in a house/a flat/an apartment"
+				},
+				{
+					"text": "We used to live in London."
+				},
+				{
+					"text": "people living in rural areas"
+				},
+				{
+					"text": "We **live in a world** where technological advance is the norm."
+				},
+				{
+					"text": "Where do you live?"
+				},
+				{
+					"text": "She needs to find **somewhere to live**."
+				},
+				{
+					"text": "It's a great **place to live**."
+				},
+				{
+					"text": "Both her children still **live at home**."
+				},
+				{
+					"text": "He **lived and worked** there until his death in 2015."
+				},
+				{
+					"text": "Where do these plates live *(= where are they usually kept)*?"
+				},
+				{
+					"text": "I live in an old farmhouse."
+				},
+				{
+					"text": "She lives quite near here."
+				},
+				{
+					"text": "He lives in Cape Town."
+				},
+				{
+					"text": "I'm not going to live here permanently."
+				},
+				{
+					"text": "The couple have lived apart for two years."
+				},
+				{
+					"text": "She's lived at this same address for four years."
+				},
+				{
+					"text": "They lived among the people of this remote island."
+				},
+				{
+					"text": "We went to live in Canada when I was three."
+				},
+				{
+					"text": "You can live there quite cheaply."
+				},
+				{
+					"text": "They live in a society that is among the most liberal in Western Europe."
+				},
+				{
+					"text": "Her family has lived in the community since 1962."
+				}
+			],
+			"collocations": {
+				"adverb": ["alone", "together", "apart"],
+				"verb + live": ["come to", "go to"],
+				"preposition": ["among", "at", "in"],
+				"phrases": ["live at home", "a place to live"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to remain alive",
+			"sensetop": "live to do something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The doctors said he only had six months to live."
+				},
+				{
+					"text": "Spiders can live for several days without food."
+				},
+				{
+					"text": "Women **live longer** than men in general."
+				},
+				{
+					"text": "Who wants to **live forever**? I don't."
+				},
+				{
+					"text": "She **lived to see** her first grandchild.",
+					"contextForm": "live to do something"
+				},
+				{
+					"text": "He lived to the age of 95."
+				},
+				{
+					"text": "I shall remember this day for as long as I live."
+				},
+				{
+					"text": "I absolutely could not live without my phone!"
+				}
+			],
+			"collocations": {
+				"adverb": ["longer", "forever", "happily (ever after)"],
+				"preposition": ["in", "through", "with"],
+				"phrases": [
+					"(for) as long as you live",
+					"learn to live with something",
+					"live a life of something"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to be alive, especially at a particular time",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "When did Handel live?"
+				},
+				{
+					"text": "Luther lived at a time when the Bible was only available in Latin."
+				},
+				{
+					"text": "He's the greatest player who **ever lived**."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to spend your life in a particular way",
+			"sensetop": "live + adv./prep.live somethinglive + noun",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He **lived in poverty** most of his life.",
+					"contextForm": "live + adv./prep."
+				},
+				{
+					"text": "to **live in fear/peace/harmony**"
+				},
+				{
+					"text": "Most of the people **live well**, with nice houses and plenty to eat."
+				},
+				{
+					"text": "She lived a very peaceful life.",
+					"contextForm": "live something"
+				},
+				{
+					"text": "They lived their lives to the full."
+				},
+				{
+					"text": "She **lived and died** a single woman.",
+					"contextForm": "live + noun"
+				},
+				{
+					"text": "He was living quietly with his family."
+				},
+				{
+					"text": "All she wanted was to get married and live happily ever after."
+				},
+				{
+					"text": "He's now living a life of luxury in Australia."
+				},
+				{
+					"text": "She tried to live vicariously through her children."
+				},
+				{
+					"text": "They lived frugally off a diet of beans and lentils."
+				},
+				{
+					"text": "They'll have enough money to live comfortably."
+				},
+				{
+					"text": "Tonight she felt like living dangerously."
+				},
+				{
+					"text": "the need to live as harmoniously as possible with everyone else"
+				}
+			],
+			"collocations": {
+				"adverb": ["longer", "forever", "happily (ever after)"],
+				"preposition": ["in", "through", "with"],
+				"phrases": [
+					"(for) as long as you live",
+					"learn to live with something",
+					"live a life of something"
+				]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to continue to exist or be remembered",
+			"sensetop": "live + adv./prep.",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "This moment will live in our memory for many years to come."
+				},
+				{
+					"text": "Her words have lived with me all my life."
+				}
+			],
+			"synonyms": "remain"
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to have a full and exciting life",
+			"examples": [
+				{
+					"text": "I don't want to be stuck in an office all my life—I want to live!"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to have enough money to be able to live a very comfortable life",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "if two people are or live in each other’s pockets, they are too close to each other or spend too much time with each other",
+			"labels": "(British English)",
+			"examples": []
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to still be alive after the time when you were expected to die",
+			"examples": [
+				{
+					"text": "He’s been living on borrowed time ever since his last heart attack."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to be doing something that other people are likely to soon stop you from doing",
+			"examples": [
+				{
+					"text": "According to the latest opinion polls, the government is living on borrowed time."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "the way of life of a different social group, especially one much richer than you",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to live a happy and comfortable life with no problems or responsibilities",
+			"labels": "(old-fashioned, informal, often disapproving)",
+			"examples": [
+				{
+					"text": "The two crooks had been living the life of Riley."
+				},
+				{
+					"text": "He planned to retire early and then lead the life of Riley."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be very enthusiastic about something",
+			"examples": [
+				{
+					"text": "He just lives and breathes football."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that you should accept other people’s opinions and behaviour even though they are different from your own",
+			"labels": "(saying)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to earn money by clever or sometimes dishonest means",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to have a way of life that seems perfect",
+			"examples": [
+				{
+					"text": "With her own TV show and a flat in Paris, she is living the dream."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to spend all the money you earn on basic needs such as food without being able to save any money",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to behave as though society, etc. has not changed, when in fact it has",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to live together and have a sexual relationship without being married",
+			"labels": "(old-fashioned or humorous)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to enjoy yourself in an exciting way, usually spending a lot of money",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to keep something important about yourself a secret from other people, so that they do not know what you really think, what you are really like, etc.",
+			"examples": [
+				{
+					"text": "He lived a lie for thirty years, ‘married’ to two women."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to have enough money to be able to afford expensive things, food, drink, etc.",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to eat whatever food you can grow, kill or find yourself",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to live or sleep outdoors, usually because you have no home and no money",
+			"labels": "(British English)",
+			"examples": [
+				{
+					"text": "young people sleeping rough on the streets"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that although you have failed or had a bad experience, you will continue",
+			"labels": "(saying)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to survive a difficult or dangerous experience so that you can tell others what really happened",
+			"examples": [],
+			"topics": ["Danger"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be unaware of popular culture and important events that are happening in the world",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Unless you’ve been living under a rock for the last few decades, you’ll be aware that Arctic sea ice is melting."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that you hope somebody/something will live or last for a long time",
+			"examples": [
+				{
+					"text": "Long live the King!"
+				},
+				{
+					"text": "Long live public libraries!"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "you should not criticize other people, because they will easily find ways of criticizing you",
+			"labels": "(saying)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to tell somebody that if they have not had a particular experience their life is not complete",
+			"examples": [
+				{
+					"text": "You've never been to New York? You haven't lived!"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to express surprise at something new or unexpected you have been told",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/lɪv/",
+				"audio": "li/live/live__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/lɪvz/",
+				"audio": "li/live/lives__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/lɪvd/",
+				"audio": "li/live/lived__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈlɪvɪŋ/",
+				"audio": "li/live/living__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/lɪv/",
+				"audio": "li/live/live__us_1.mp3"
+			},
+			{
+				"pronunciation": "/lɪvz/",
+				"audio": "li/live/lives__us_2.mp3"
+			},
+			{
+				"pronunciation": "/lɪvd/",
+				"audio": "li/live/lived__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈlɪvɪŋ/",
+				"audio": "li/live/living__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English libban, lifian, of Germanic origin; related to Dutch leven and German leben, also to life and leave (verb)."
 }

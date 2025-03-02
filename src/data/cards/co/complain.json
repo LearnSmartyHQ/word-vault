@@ -1,119 +1,119 @@
 {
-  "term": "complain",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "complain",
-      "heSheIt": "complains"
-    },
-    "pastSimple": "complained",
-    "pastParticiple": "complained",
-    "ingForm": "complaining"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to say that you are annoyed, unhappy or not satisfied about somebody/something",
-      "sensetop": "complain to somebodycomplain about somethingcomplain to somebody about somethingcomplain of somethingcomplain at somethingcomplain (that)…+ speech",
-      "labels": "(informal)British English",
-      "examples": [
-        {
-          "text": "She never complains, but she's obviously exhausted."
-        },
-        {
-          "text": "‘How are you?’ ‘Oh, **I can't complain** *(= I'm all right)*.’"
-        },
-        {
-          "text": "Annoyed residents have complained to the police.",
-          "contextForm": "complain to somebody"
-        },
-        {
-          "text": "Shoppers complained about the lack of toilet facilities.",
-          "contextForm": "complain about something"
-        },
-        {
-          "text": "I'm going to complain to the manager about this.",
-          "contextForm": "complain to somebody about something"
-        },
-        {
-          "text": "The defendant complained of intimidation during the investigation.",
-          "contextForm": "complain of something"
-        },
-        {
-          "text": "She complained at the unfairness of it all.",
-          "contextForm": "complain at something"
-        },
-        {
-          "text": "He **complained bitterly** that he had been unfairly treated.",
-          "contextForm": "complain (that)…"
-        },
-        {
-          "text": "‘It's not fair,’ she complained.",
-          "contextForm": "+ speech"
-        },
-        {
-          "text": "All the guests complained about the noise."
-        },
-        {
-          "text": "He really has no right to complain."
-        },
-        {
-          "text": "I'm going to complain to the authorities about this!"
-        },
-        {
-          "text": "It was entirely my own idea, so I can hardly complain."
-        },
-        {
-          "text": "She complained bitterly about the lack of help she received."
-        }
-      ],
-      "topics": ["Feelings"],
-      "collocations": {
-        "adverb": ["bitterly", "loudly", "constantly"],
-        "verb + complain": ["cannot", "can hardly", "have cause to"],
-        "preposition": ["about", "at", "to"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kəmˈpleɪn/",
-        "audio": "co/complain/complain__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpleɪnz/",
-        "audio": "co/complain/complains__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpleɪnd/",
-        "audio": "co/complain/complained__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpleɪnɪŋ/",
-        "audio": "co/complain/complaining__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kəmˈpleɪn/",
-        "audio": "co/complain/complain__us_2.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpleɪnz/",
-        "audio": "co/complain/complains__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpleɪnd/",
-        "audio": "co/complain/complained__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kəmˈpleɪnɪŋ/",
-        "audio": "co/complain/complaining__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French complaindre, from medieval Latin complangere ‘bewail’, from Latin com- (expressing intensive force) + plangere ‘to lament’."
+	"term": "complain",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "complain",
+			"heSheIt": "complains"
+		},
+		"pastSimple": "complained",
+		"pastParticiple": "complained",
+		"ingForm": "complaining"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to say that you are annoyed, unhappy or not satisfied about somebody/something",
+			"sensetop": "complain to somebodycomplain about somethingcomplain to somebody about somethingcomplain of somethingcomplain at somethingcomplain (that)…+ speech",
+			"labels": "(informal)British English",
+			"examples": [
+				{
+					"text": "She never complains, but she's obviously exhausted."
+				},
+				{
+					"text": "‘How are you?’ ‘Oh, **I can't complain** *(= I'm all right)*.’"
+				},
+				{
+					"text": "Annoyed residents have complained to the police.",
+					"contextForm": "complain to somebody"
+				},
+				{
+					"text": "Shoppers complained about the lack of toilet facilities.",
+					"contextForm": "complain about something"
+				},
+				{
+					"text": "I'm going to complain to the manager about this.",
+					"contextForm": "complain to somebody about something"
+				},
+				{
+					"text": "The defendant complained of intimidation during the investigation.",
+					"contextForm": "complain of something"
+				},
+				{
+					"text": "She complained at the unfairness of it all.",
+					"contextForm": "complain at something"
+				},
+				{
+					"text": "He **complained bitterly** that he had been unfairly treated.",
+					"contextForm": "complain (that)…"
+				},
+				{
+					"text": "‘It's not fair,’ she complained.",
+					"contextForm": "+ speech"
+				},
+				{
+					"text": "All the guests complained about the noise."
+				},
+				{
+					"text": "He really has no right to complain."
+				},
+				{
+					"text": "I'm going to complain to the authorities about this!"
+				},
+				{
+					"text": "It was entirely my own idea, so I can hardly complain."
+				},
+				{
+					"text": "She complained bitterly about the lack of help she received."
+				}
+			],
+			"topics": ["Feelings"],
+			"collocations": {
+				"adverb": ["bitterly", "loudly", "constantly"],
+				"verb + complain": ["cannot", "can hardly", "have cause to"],
+				"preposition": ["about", "at", "to"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kəmˈpleɪn/",
+				"audio": "co/complain/complain__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpleɪnz/",
+				"audio": "co/complain/complains__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpleɪnd/",
+				"audio": "co/complain/complained__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpleɪnɪŋ/",
+				"audio": "co/complain/complaining__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kəmˈpleɪn/",
+				"audio": "co/complain/complain__us_2.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpleɪnz/",
+				"audio": "co/complain/complains__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpleɪnd/",
+				"audio": "co/complain/complained__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kəmˈpleɪnɪŋ/",
+				"audio": "co/complain/complaining__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French complaindre, from medieval Latin complangere ‘bewail’, from Latin com- (expressing intensive force) + plangere ‘to lament’."
 }

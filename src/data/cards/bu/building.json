@@ -1,126 +1,126 @@
 {
-  "term": "building",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/bu/buildings.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a structure such as a house or school that has a roof and walls",
-      "labels": "(British English)(British English)(especially North American English)(British English)(British English)(North American English)(British English)(especially British English)(British English)(British English)(especially British English)(especially British English)(North American English usually)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a tall/high-rise/ten-storey building"
-        },
-        {
-          "text": "Housing is limited and most people live in high-rise **apartment buildings.**"
-        },
-        {
-          "text": "The architects have presented the design of a new **office building**."
-        },
-        {
-          "text": "the restoration of **historic buildings**"
-        },
-        {
-          "text": "to **design/construct/erect a building**"
-        },
-        {
-          "text": "The old industrial **buildings have** all **been demolished**."
-        },
-        {
-          "text": "In 2018 the building was converted into a house."
-        },
-        {
-          "text": "Several new buildings are now being put up."
-        },
-        {
-          "text": "The building was gutted by fire."
-        },
-        {
-          "text": "The opera house is one of the city's landmark buildings."
-        },
-        {
-          "text": "The Blue Mosque at Isfahan is the most beautiful building I have ever seen."
-        },
-        {
-          "text": "Both architects specialize in the restoration of historic buildings."
-        },
-        {
-          "text": "They're renovating the old farm buildings."
-        },
-        {
-          "text": "The prices of commercial and residential buildings increased by 13.4%."
-        },
-        {
-          "text": "They were refused planning permission for a modern extension because it was a Grade II listed building."
-        }
-      ],
-      "topics": ["Buildings"],
-      "collocations": {
-        "adjective": ["big", "high-rise", "huge"],
-        "verb + building": ["design", "build", "construct"],
-        "building + verb": ["collapse", "house something", "sit"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the process and work of making a structure",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "the building of the school"
-        },
-        {
-          "text": "There's building work going on next door."
-        },
-        {
-          "text": "the building trade"
-        },
-        {
-          "text": "**building materials**"
-        },
-        {
-          "text": "building projects/regulations/codes"
-        }
-      ],
-      "topics": ["Buildings"],
-      "collocations": {
-        "adjective": ["road", "brand", "community"],
-        "building + noun": ["company", "contractor", "firm"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the creation or development of something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The building of a consensus is not going to be an easy process."
-        },
-        {
-          "text": "The party is emphasizing community building as one of its key policies."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈbɪldɪŋ/",
-        "audio": "bu/building/building__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈbɪldɪŋ/",
-        "audio": "bu/building/building__us_3.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "building",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/bu/buildings.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a structure such as a house or school that has a roof and walls",
+			"labels": "(British English)(British English)(especially North American English)(British English)(British English)(North American English)(British English)(especially British English)(British English)(British English)(especially British English)(especially British English)(North American English usually)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a tall/high-rise/ten-storey building"
+				},
+				{
+					"text": "Housing is limited and most people live in high-rise **apartment buildings.**"
+				},
+				{
+					"text": "The architects have presented the design of a new **office building**."
+				},
+				{
+					"text": "the restoration of **historic buildings**"
+				},
+				{
+					"text": "to **design/construct/erect a building**"
+				},
+				{
+					"text": "The old industrial **buildings have** all **been demolished**."
+				},
+				{
+					"text": "In 2018 the building was converted into a house."
+				},
+				{
+					"text": "Several new buildings are now being put up."
+				},
+				{
+					"text": "The building was gutted by fire."
+				},
+				{
+					"text": "The opera house is one of the city's landmark buildings."
+				},
+				{
+					"text": "The Blue Mosque at Isfahan is the most beautiful building I have ever seen."
+				},
+				{
+					"text": "Both architects specialize in the restoration of historic buildings."
+				},
+				{
+					"text": "They're renovating the old farm buildings."
+				},
+				{
+					"text": "The prices of commercial and residential buildings increased by 13.4%."
+				},
+				{
+					"text": "They were refused planning permission for a modern extension because it was a Grade II listed building."
+				}
+			],
+			"topics": ["Buildings"],
+			"collocations": {
+				"adjective": ["big", "high-rise", "huge"],
+				"verb + building": ["design", "build", "construct"],
+				"building + verb": ["collapse", "house something", "sit"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the process and work of making a structure",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "the building of the school"
+				},
+				{
+					"text": "There's building work going on next door."
+				},
+				{
+					"text": "the building trade"
+				},
+				{
+					"text": "**building materials**"
+				},
+				{
+					"text": "building projects/regulations/codes"
+				}
+			],
+			"topics": ["Buildings"],
+			"collocations": {
+				"adjective": ["road", "brand", "community"],
+				"building + noun": ["company", "contractor", "firm"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the creation or development of something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The building of a consensus is not going to be an easy process."
+				},
+				{
+					"text": "The party is emphasizing community building as one of its key policies."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈbɪldɪŋ/",
+				"audio": "bu/building/building__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈbɪldɪŋ/",
+				"audio": "bu/building/building__us_3.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

@@ -1,51 +1,51 @@
 {
-  "term": "mosquito",
-  "partOfSpeech": "noun",
-  "image": "data/images/in/insects.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a flying insect that bites humans and animals and drinks their blood. One type of mosquito can spread the disease malaria.",
-      "examples": [
-        {
-          "text": "I was awake all night scratching my mosquito bites."
-        },
-        {
-          "text": "He swatted the mosquito with a newspaper."
-        },
-        {
-          "text": "Stay indoors when mosquitoes are out."
-        },
-        {
-          "text": "This strain of mosquito carries malaria and yellow fever."
-        },
-        {
-          "text": "fish that feed on mosquito larvae"
-        }
-      ],
-      "topics": ["Insects, worms, etc."],
-      "collocations": {
-        "adjective": ["infected", "malaria"],
-        "… of mosquitoes": ["swarm"],
-        "verb + mosquito": ["swat", "kill", "attract"],
-        "mosquito + verb": ["fly", "be out", "buzz"],
-        "mosquito + noun": ["bite", "larva", "species"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/məˈskiːtəʊ//mɒˈskiːtəʊ/",
-        "audio": "mo/mosquito/mosquito__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/məˈskiːtəʊ/",
-        "audio": "mo/mosquito/mosquito__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent.: from Spanish and Portuguese, diminutive of mosca, from Latin musca ‘fly’."
+	"term": "mosquito",
+	"partOfSpeech": "noun",
+	"image": "data/images/in/insects.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a flying insect that bites humans and animals and drinks their blood. One type of mosquito can spread the disease malaria.",
+			"examples": [
+				{
+					"text": "I was awake all night scratching my mosquito bites."
+				},
+				{
+					"text": "He swatted the mosquito with a newspaper."
+				},
+				{
+					"text": "Stay indoors when mosquitoes are out."
+				},
+				{
+					"text": "This strain of mosquito carries malaria and yellow fever."
+				},
+				{
+					"text": "fish that feed on mosquito larvae"
+				}
+			],
+			"topics": ["Insects, worms, etc."],
+			"collocations": {
+				"adjective": ["infected", "malaria"],
+				"… of mosquitoes": ["swarm"],
+				"verb + mosquito": ["swat", "kill", "attract"],
+				"mosquito + verb": ["fly", "be out", "buzz"],
+				"mosquito + noun": ["bite", "larva", "species"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/məˈskiːtəʊ//mɒˈskiːtəʊ/",
+				"audio": "mo/mosquito/mosquito__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/məˈskiːtəʊ/",
+				"audio": "mo/mosquito/mosquito__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent.: from Spanish and Portuguese, diminutive of mosca, from Latin musca ‘fly’."
 }

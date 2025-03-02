@@ -1,79 +1,79 @@
 {
-  "term": "disposal",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the act of getting rid of something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The council is responsible for **waste disposal** and street cleaning."
-        },
-        {
-          "text": "sewage disposal systems"
-        },
-        {
-          "text": "the problems of the ultimate disposal of nuclear waste"
-        },
-        {
-          "text": "She was charged with the unlawful disposal of human remains."
-        },
-        {
-          "text": "The waste must be taken to an approved disposal facility."
-        }
-      ],
-      "topics": ["The environment"],
-      "collocations": {
-        "adjective": ["safe", "illegal", "ultimate"],
-        "disposal + noun": ["facility", "site", "method"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the sale of part of a business, property, etc.",
-      "labels": "(business)",
-      "examples": [
-        {
-          "text": "The next step is to think about disposal of your assets."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a machine connected to the waste pipe of a kitchen sink, for cutting food waste into small pieces",
-      "labels": "(both North American English)(both British English)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "available for use as you prefer/somebody prefers",
-      "examples": [
-        {
-          "text": "He will have a car at his disposal for the whole month."
-        },
-        {
-          "text": "Well, I'm at your disposal *(= I am ready to help you in any way I can)*."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/dɪˈspəʊzl/",
-        "audio": "di/disposal/disposal__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/dɪˈspəʊzl/",
-        "audio": "di/disposal/disposal__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "disposal",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the act of getting rid of something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The council is responsible for **waste disposal** and street cleaning."
+				},
+				{
+					"text": "sewage disposal systems"
+				},
+				{
+					"text": "the problems of the ultimate disposal of nuclear waste"
+				},
+				{
+					"text": "She was charged with the unlawful disposal of human remains."
+				},
+				{
+					"text": "The waste must be taken to an approved disposal facility."
+				}
+			],
+			"topics": ["The environment"],
+			"collocations": {
+				"adjective": ["safe", "illegal", "ultimate"],
+				"disposal + noun": ["facility", "site", "method"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the sale of part of a business, property, etc.",
+			"labels": "(business)",
+			"examples": [
+				{
+					"text": "The next step is to think about disposal of your assets."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a machine connected to the waste pipe of a kitchen sink, for cutting food waste into small pieces",
+			"labels": "(both North American English)(both British English)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "available for use as you prefer/somebody prefers",
+			"examples": [
+				{
+					"text": "He will have a car at his disposal for the whole month."
+				},
+				{
+					"text": "Well, I'm at your disposal *(= I am ready to help you in any way I can)*."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/dɪˈspəʊzl/",
+				"audio": "di/disposal/disposal__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/dɪˈspəʊzl/",
+				"audio": "di/disposal/disposal__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

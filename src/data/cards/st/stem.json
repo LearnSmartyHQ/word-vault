@@ -1,88 +1,88 @@
 {
-  "term": "stem",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "image": "data/images/pl/plants.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the main long, thin part of a plant above the ground from which the leaves or flowers grow; a smaller part that grows from this and supports flowers or leaves",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "long, trailing stems of ivy"
-        },
-        {
-          "text": "a tall plant with branching stems"
-        },
-        {
-          "text": "There are several leaves on each stem."
-        },
-        {
-          "text": "When the bush has finished flowering, cut back all the stems."
-        }
-      ],
-      "topics": ["Plants and trees"],
-      "collocations": {
-        "adjective": ["long", "tall", "short"],
-        "verb + stem": ["break", "cut", "cut back"],
-        "stem + verb": ["break"],
-        "preposition": ["on a/​the stem"],
-        "phrases": ["the base of the stem"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the long, thin part of a wine glass between the bowl and the base",
-      "examples": []
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the thin tube of a tobacco pipe",
-      "examples": []
-    },
-    {
-      "senseNumber": 4,
-      "definition": "having one or more stems of the type mentioned",
-      "examples": [
-        {
-          "text": "a long-stemmed rose"
-        },
-        {
-          "text": "slender-stemmed wine glasses"
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "the main part of a word that stays the same when endings are added to it",
-      "labels": "(grammar)",
-      "examples": [
-        {
-          "text": "‘Writ’ is the stem of the forms ‘writes’, ‘writing’ and ‘written’."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "all the way from the front of a ship to the back",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/stem/",
-        "audio": "st/stem/stem__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/stem/",
-        "audio": "st/stem/stem__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "noun Old English stemn, stefn, of Germanic origin; related to Dutch stam and German Stamm. Sense (4) is related to Dutch steven, German Steven."
+	"term": "stem",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"image": "data/images/pl/plants.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the main long, thin part of a plant above the ground from which the leaves or flowers grow; a smaller part that grows from this and supports flowers or leaves",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "long, trailing stems of ivy"
+				},
+				{
+					"text": "a tall plant with branching stems"
+				},
+				{
+					"text": "There are several leaves on each stem."
+				},
+				{
+					"text": "When the bush has finished flowering, cut back all the stems."
+				}
+			],
+			"topics": ["Plants and trees"],
+			"collocations": {
+				"adjective": ["long", "tall", "short"],
+				"verb + stem": ["break", "cut", "cut back"],
+				"stem + verb": ["break"],
+				"preposition": ["on a/​the stem"],
+				"phrases": ["the base of the stem"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the long, thin part of a wine glass between the bowl and the base",
+			"examples": []
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the thin tube of a tobacco pipe",
+			"examples": []
+		},
+		{
+			"senseNumber": 4,
+			"definition": "having one or more stems of the type mentioned",
+			"examples": [
+				{
+					"text": "a long-stemmed rose"
+				},
+				{
+					"text": "slender-stemmed wine glasses"
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "the main part of a word that stays the same when endings are added to it",
+			"labels": "(grammar)",
+			"examples": [
+				{
+					"text": "‘Writ’ is the stem of the forms ‘writes’, ‘writing’ and ‘written’."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "all the way from the front of a ship to the back",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/stem/",
+				"audio": "st/stem/stem__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/stem/",
+				"audio": "st/stem/stem__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "noun Old English stemn, stefn, of Germanic origin; related to Dutch stam and German Stamm. Sense (4) is related to Dutch steven, German Steven."
 }

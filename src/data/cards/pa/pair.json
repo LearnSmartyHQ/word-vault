@@ -1,199 +1,199 @@
 {
-  "term": "pair",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "two things of the same type, especially when they are used or worn together",
-      "sensetop": "pair (of something)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **pair of shoes/boots**"
-        },
-        {
-          "text": "a pair of gloves/earrings"
-        },
-        {
-          "text": "She pulled on the pair of socks he handed her."
-        },
-        {
-          "text": "a huge pair of eyes"
-        },
-        {
-          "text": "A pair of hands grasped her shoulders."
-        },
-        {
-          "text": "a pair of aces/kings *(= two playing cards that have the same value)*"
-        },
-        {
-          "text": "The winner will receive a pair of tickets to Reykjavik."
-        },
-        {
-          "text": "The vase is one of a **matching pair**."
-        },
-        {
-          "text": "Vermeer painted the two pictures as a pair."
-        },
-        {
-          "text": "This sculpture was originally one of a pair owned by the King of France."
-        },
-        {
-          "text": "a clean pair of socks"
-        }
-      ],
-      "topics": ["Clothes and Fashion"],
-      "collocations": {
-        "adjective": ["matching", "identical", "clean"],
-        "preposition": ["in a/​the pair", "in pairs", "pair of"],
-        "phrases": ["one of a pair"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an object consisting of two parts that are joined together",
-      "sensetop": "pair (of something)",
-      "labels": "North American English",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **pair of trousers/pants/jeans**"
-        },
-        {
-          "text": "a **pair of glasses/binoculars/scissors**"
-        },
-        {
-          "text": "Buy one pair of glasses and get a second pair free."
-        },
-        {
-          "text": "He was wearing a nice pair of denim jeans."
-        }
-      ],
-      "topics": ["Clothes and Fashion"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "two people who are doing something together or who have a particular relationship",
-      "labels": "(informal)British English",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Get pairs of students to act out the dialogue in front of the class."
-        },
-        {
-          "text": "Get the students to do the exercise as **pair work** *(= two students work together)*."
-        },
-        {
-          "text": "I've had enough of the pair of you!"
-        },
-        {
-          "text": "They might seem an unlikely pair, but they've been friends for years."
-        },
-        {
-          "text": "I thought they would make a good pair so I arranged for them to meet."
-        },
-        {
-          "text": "The pair were matched for age."
-        },
-        {
-          "text": "They make an odd pair."
-        }
-      ],
-      "collocations": {
-        "adjective": ["happy", "odd"],
-        "verb + pair": ["match", "make"],
-        "preposition": ["in a/​the pair"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "two animals or birds of the same type that are producing young together",
-      "examples": [
-        {
-          "text": "a breeding pair"
-        },
-        {
-          "text": "a pair of swans"
-        },
-        {
-          "text": "**pair bonding** *(= the process of animals forming a pair for breeding)*"
-        },
-        {
-          "text": "The dominant pair is/are called the alpha male and female."
-        }
-      ],
-      "collocations": {
-        "adjective": ["breeding", "mating", "nesting"],
-        "pair + verb": ["breed", "mate"],
-        "preposition": ["pair of"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "two horses working together to pull a carriage",
-      "examples": [
-        {
-          "text": "a carriage and pair"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "in groups of two objects or people",
-      "examples": [
-        {
-          "text": "Students worked in pairs on the project."
-        },
-        {
-          "text": "These candles only come in pairs."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that you are too busy to do anything else",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "a person who can do, or is doing, a job",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "We need an extra pair of hands if we're going to finish on time."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "a person that you can trust to do a job well",
-      "labels": "(especially British English)",
-      "examples": [
-        {
-          "text": "Colleagues regard him as a safe pair of hands."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/peə(r)/",
-        "audio": "pa/pair/pair__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/per/",
-        "audio": "pa/pair/pair__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French paire, from Latin paria ‘equal things’, neuter plural of par ‘equal’. Formerly phrases such as a pair of gloves were expressed without of, as in a pair gloves (compare with German ein Paar Handschuhe)."
+	"term": "pair",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "two things of the same type, especially when they are used or worn together",
+			"sensetop": "pair (of something)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **pair of shoes/boots**"
+				},
+				{
+					"text": "a pair of gloves/earrings"
+				},
+				{
+					"text": "She pulled on the pair of socks he handed her."
+				},
+				{
+					"text": "a huge pair of eyes"
+				},
+				{
+					"text": "A pair of hands grasped her shoulders."
+				},
+				{
+					"text": "a pair of aces/kings *(= two playing cards that have the same value)*"
+				},
+				{
+					"text": "The winner will receive a pair of tickets to Reykjavik."
+				},
+				{
+					"text": "The vase is one of a **matching pair**."
+				},
+				{
+					"text": "Vermeer painted the two pictures as a pair."
+				},
+				{
+					"text": "This sculpture was originally one of a pair owned by the King of France."
+				},
+				{
+					"text": "a clean pair of socks"
+				}
+			],
+			"topics": ["Clothes and Fashion"],
+			"collocations": {
+				"adjective": ["matching", "identical", "clean"],
+				"preposition": ["in a/​the pair", "in pairs", "pair of"],
+				"phrases": ["one of a pair"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an object consisting of two parts that are joined together",
+			"sensetop": "pair (of something)",
+			"labels": "North American English",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **pair of trousers/pants/jeans**"
+				},
+				{
+					"text": "a **pair of glasses/binoculars/scissors**"
+				},
+				{
+					"text": "Buy one pair of glasses and get a second pair free."
+				},
+				{
+					"text": "He was wearing a nice pair of denim jeans."
+				}
+			],
+			"topics": ["Clothes and Fashion"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "two people who are doing something together or who have a particular relationship",
+			"labels": "(informal)British English",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Get pairs of students to act out the dialogue in front of the class."
+				},
+				{
+					"text": "Get the students to do the exercise as **pair work** *(= two students work together)*."
+				},
+				{
+					"text": "I've had enough of the pair of you!"
+				},
+				{
+					"text": "They might seem an unlikely pair, but they've been friends for years."
+				},
+				{
+					"text": "I thought they would make a good pair so I arranged for them to meet."
+				},
+				{
+					"text": "The pair were matched for age."
+				},
+				{
+					"text": "They make an odd pair."
+				}
+			],
+			"collocations": {
+				"adjective": ["happy", "odd"],
+				"verb + pair": ["match", "make"],
+				"preposition": ["in a/​the pair"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "two animals or birds of the same type that are producing young together",
+			"examples": [
+				{
+					"text": "a breeding pair"
+				},
+				{
+					"text": "a pair of swans"
+				},
+				{
+					"text": "**pair bonding** *(= the process of animals forming a pair for breeding)*"
+				},
+				{
+					"text": "The dominant pair is/are called the alpha male and female."
+				}
+			],
+			"collocations": {
+				"adjective": ["breeding", "mating", "nesting"],
+				"pair + verb": ["breed", "mate"],
+				"preposition": ["pair of"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "two horses working together to pull a carriage",
+			"examples": [
+				{
+					"text": "a carriage and pair"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "in groups of two objects or people",
+			"examples": [
+				{
+					"text": "Students worked in pairs on the project."
+				},
+				{
+					"text": "These candles only come in pairs."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that you are too busy to do anything else",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "a person who can do, or is doing, a job",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "We need an extra pair of hands if we're going to finish on time."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "a person that you can trust to do a job well",
+			"labels": "(especially British English)",
+			"examples": [
+				{
+					"text": "Colleagues regard him as a safe pair of hands."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/peə(r)/",
+				"audio": "pa/pair/pair__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/per/",
+				"audio": "pa/pair/pair__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French paire, from Latin paria ‘equal things’, neuter plural of par ‘equal’. Formerly phrases such as a pair of gloves were expressed without of, as in a pair gloves (compare with German ein Paar Handschuhe)."
 }

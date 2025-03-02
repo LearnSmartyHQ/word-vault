@@ -1,172 +1,172 @@
 {
-  "term": "slide",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "slide",
-      "heSheIt": "slides"
-    },
-    "pastSimple": "slid",
-    "pastParticiple": "slid",
-    "ingForm": "sliding"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to move easily over a smooth or wet surface; to make something move in this way",
-      "sensetop": "+ adv./prep.slide something + adv./prep.slide + adjslide something + adj.",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "As I turned left on a bend, my car started to slide."
-        },
-        {
-          "text": "We slid down the grassy slope.",
-          "contextForm": "+ adv./prep."
-        },
-        {
-          "text": "A plane slid off the runway in Denver on Sunday."
-        },
-        {
-          "text": "The drawers slide in and out easily."
-        },
-        {
-          "text": "She slid her hand along the rail.",
-          "contextForm": "slide something + adv./prep."
-        },
-        {
-          "text": "You can slide the front seats forward if necessary."
-        },
-        {
-          "text": "The automatic doors slid open.",
-          "contextForm": "slide + adj"
-        },
-        {
-          "text": "Quietly, she slid the drawer shut.",
-          "contextForm": "slide something + adj."
-        },
-        {
-          "text": "Tears slid slowly down his pale cheek."
-        },
-        {
-          "text": "The melting snow began to slide from the sloping roofs."
-        },
-        {
-          "text": "a vehicle that will slide smoothly across snow"
-        }
-      ],
-      "collocations": {
-        "adverb": ["slowly", "quickly", "easily"],
-        "preposition": ["across", "along", "down"],
-        "phrases": ["slide open"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to move quickly and quietly, for example in order not to be noticed; to make something move in this way",
-      "sensetop": "+ adv./prep.slide something + adv./prep.",
-      "examples": [
-        {
-          "text": "He slid into bed.",
-          "contextForm": "+ adv./prep."
-        },
-        {
-          "text": "She slid out while no one was looking."
-        },
-        {
-          "text": "The man slid the money quickly into his pocket.",
-          "contextForm": "slide something + adv./prep."
-        },
-        {
-          "text": "He slid a shy look at Claire."
-        },
-        {
-          "text": "The moon slid silently behind a cloud."
-        },
-        {
-          "text": "Her eyes slid away from his own in embarrassment."
-        }
-      ],
-      "synonyms": "slip",
-      "collocations": {
-        "adverb": ["slowly", "quickly", "easily"],
-        "preposition": ["across", "along", "down"],
-        "phrases": ["slide open"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to become gradually lower or of less value",
-      "sensetop": "slide (from…) (to…)",
-      "examples": [
-        {
-          "text": "Shares slid to a 10-year low."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to move gradually into a worse situation",
-      "sensetop": "slide (down/into/towards something)",
-      "examples": [
-        {
-          "text": "The industry has slid into decline."
-        },
-        {
-          "text": "They were sliding towards bankruptcy."
-        },
-        {
-          "text": "He got depressed and began to **let things slide** *(= failed to give things the attention they needed)*."
-        },
-        {
-          "text": "The Hong Kong economy was sliding into recession."
-        },
-        {
-          "text": "The economy is sliding rapidly downhill."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/slaɪd/",
-        "audio": "sl/slide/slide__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/slaɪdz/",
-        "audio": "sl/slide/slides__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/slɪd/",
-        "audio": "sl/slide/slid__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈslaɪdɪŋ/",
-        "audio": "sl/slide/sliding__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/slaɪd/",
-        "audio": "sl/slide/slide__us_1.mp3"
-      },
-      {
-        "pronunciation": "/slaɪdz/",
-        "audio": "sl/slide/slides__us_1.mp3"
-      },
-      {
-        "pronunciation": "/slɪd/",
-        "audio": "sl/slide/slid__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈslaɪdɪŋ/",
-        "audio": "sl/slide/sliding__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English slīdan (verb); related to sled and sledge. The noun, first in the sense ‘act of sliding’, is recorded from the late 16th cent."
+	"term": "slide",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "slide",
+			"heSheIt": "slides"
+		},
+		"pastSimple": "slid",
+		"pastParticiple": "slid",
+		"ingForm": "sliding"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to move easily over a smooth or wet surface; to make something move in this way",
+			"sensetop": "+ adv./prep.slide something + adv./prep.slide + adjslide something + adj.",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "As I turned left on a bend, my car started to slide."
+				},
+				{
+					"text": "We slid down the grassy slope.",
+					"contextForm": "+ adv./prep."
+				},
+				{
+					"text": "A plane slid off the runway in Denver on Sunday."
+				},
+				{
+					"text": "The drawers slide in and out easily."
+				},
+				{
+					"text": "She slid her hand along the rail.",
+					"contextForm": "slide something + adv./prep."
+				},
+				{
+					"text": "You can slide the front seats forward if necessary."
+				},
+				{
+					"text": "The automatic doors slid open.",
+					"contextForm": "slide + adj"
+				},
+				{
+					"text": "Quietly, she slid the drawer shut.",
+					"contextForm": "slide something + adj."
+				},
+				{
+					"text": "Tears slid slowly down his pale cheek."
+				},
+				{
+					"text": "The melting snow began to slide from the sloping roofs."
+				},
+				{
+					"text": "a vehicle that will slide smoothly across snow"
+				}
+			],
+			"collocations": {
+				"adverb": ["slowly", "quickly", "easily"],
+				"preposition": ["across", "along", "down"],
+				"phrases": ["slide open"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to move quickly and quietly, for example in order not to be noticed; to make something move in this way",
+			"sensetop": "+ adv./prep.slide something + adv./prep.",
+			"examples": [
+				{
+					"text": "He slid into bed.",
+					"contextForm": "+ adv./prep."
+				},
+				{
+					"text": "She slid out while no one was looking."
+				},
+				{
+					"text": "The man slid the money quickly into his pocket.",
+					"contextForm": "slide something + adv./prep."
+				},
+				{
+					"text": "He slid a shy look at Claire."
+				},
+				{
+					"text": "The moon slid silently behind a cloud."
+				},
+				{
+					"text": "Her eyes slid away from his own in embarrassment."
+				}
+			],
+			"synonyms": "slip",
+			"collocations": {
+				"adverb": ["slowly", "quickly", "easily"],
+				"preposition": ["across", "along", "down"],
+				"phrases": ["slide open"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to become gradually lower or of less value",
+			"sensetop": "slide (from…) (to…)",
+			"examples": [
+				{
+					"text": "Shares slid to a 10-year low."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to move gradually into a worse situation",
+			"sensetop": "slide (down/into/towards something)",
+			"examples": [
+				{
+					"text": "The industry has slid into decline."
+				},
+				{
+					"text": "They were sliding towards bankruptcy."
+				},
+				{
+					"text": "He got depressed and began to **let things slide** *(= failed to give things the attention they needed)*."
+				},
+				{
+					"text": "The Hong Kong economy was sliding into recession."
+				},
+				{
+					"text": "The economy is sliding rapidly downhill."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/slaɪd/",
+				"audio": "sl/slide/slide__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/slaɪdz/",
+				"audio": "sl/slide/slides__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/slɪd/",
+				"audio": "sl/slide/slid__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈslaɪdɪŋ/",
+				"audio": "sl/slide/sliding__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/slaɪd/",
+				"audio": "sl/slide/slide__us_1.mp3"
+			},
+			{
+				"pronunciation": "/slaɪdz/",
+				"audio": "sl/slide/slides__us_1.mp3"
+			},
+			{
+				"pronunciation": "/slɪd/",
+				"audio": "sl/slide/slid__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈslaɪdɪŋ/",
+				"audio": "sl/slide/sliding__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English slīdan (verb); related to sled and sledge. The noun, first in the sense ‘act of sliding’, is recorded from the late 16th cent."
 }

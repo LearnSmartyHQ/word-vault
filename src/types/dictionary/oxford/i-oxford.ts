@@ -2,65 +2,65 @@ import type { IIdiom } from "../i-idiom.js";
 import type { LevelA2CTypes } from "../level-a2c-types.js";
 
 export interface IOxford {
-  term: string;
-  partOfSpeech?: string;
-  image?: string;
-  cefr?: LevelA2CTypes;
-  academic?: boolean;
-  ox3000?: boolean;
-  ox5000?: boolean;
-  verbForms?: IOxfordVerbForms;
-  definitions: IOxfordDefinition[];
-  pronunciations: IOxfordPronunciations;
-  wordOrigin?: string;
-  idioms?: IIdiom[];
+	term: string;
+	partOfSpeech?: string;
+	image?: string;
+	cefr?: LevelA2CTypes;
+	academic?: boolean;
+	ox3000?: boolean;
+	ox5000?: boolean;
+	verbForms?: IOxfordVerbForms;
+	definitions: IOxfordDefinition[];
+	pronunciations: IOxfordPronunciations;
+	wordOrigin?: string;
+	idioms?: IIdiom[];
 }
 
-export type IOxfordPronunciationRegion = 'uk' | 'us';
+export type IOxfordPronunciationRegion = "uk" | "us";
 
 export interface IOxfordPronunciations {
-  uk: IOxfordPronunciation[];
-  us: IOxfordPronunciation[];
+	uk: IOxfordPronunciation[];
+	us: IOxfordPronunciation[];
 }
 
 export interface IOxfordPronunciation {
-  pronunciation: string;
-  audio: string;
+	pronunciation: string;
+	audio: string;
 }
 
 export interface IOxfordDefinitionExample {
-  text: string;
-  contextForm?: string;
+	text: string;
+	contextForm?: string;
 }
 
 export interface IOxfordDefinition {
-  senseNumber?: number;
-  partOfSpeech?: string;
-  cefr: LevelA2CTypes;
-  oxford3000?: boolean;
-  oxford5000?: boolean;
-  definition: string;
-  sensetop?: string;
-  labels?: string;
-  examples: IOxfordDefinitionExample[];
-  synonyms?: string[];
-  antonyms?: string[];
-  collocations?: IOxfordCollocations;
+	senseNumber?: number;
+	partOfSpeech?: string;
+	cefr: LevelA2CTypes;
+	oxford3000?: boolean;
+	oxford5000?: boolean;
+	definition: string;
+	sensetop?: string;
+	labels?: string;
+	examples: IOxfordDefinitionExample[];
+	synonyms?: string[];
+	antonyms?: string[];
+	collocations?: IOxfordCollocations;
 }
 
 export interface IOxfordVerbForms {
-  presentSimple: {
-    iYouWeThey: string;
-    heSheIt: string;
-  };
-  pastSimple: string;
-  pastParticiple: string;
-  ingForm: string;
+	presentSimple: {
+		iYouWeThey: string;
+		heSheIt: string;
+	};
+	pastSimple: string;
+	pastParticiple: string;
+	ingForm: string;
 }
 
 export interface IOxfordCollocations {
-  adverb?: string[];
-  phrases?: string[];
-  verbPlusAbandon?: string[];
-  prepositions?: string[];
+	adverb?: string[];
+	phrases?: string[];
+	verbPlusAbandon?: string[];
+	prepositions?: string[];
 }

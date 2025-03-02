@@ -1,131 +1,131 @@
 {
-  "term": "instruct",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "instruct",
-      "heSheIt": "instructs"
-    },
-    "pastSimple": "instructed",
-    "pastParticiple": "instructed",
-    "ingForm": "instructing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to tell somebody to do something, especially in a formal or official way",
-      "sensetop": "instruct somebody to do somethinginstruct somebody where, what, etc…instruct somebodyinstruct that…instruct (somebody) + speech",
-      "labels": "(formal)(British English also)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The letter instructed him to report to headquarters immediately.",
-          "contextForm": "instruct somebody to do something"
-        },
-        {
-          "text": "You will be instructed where to go as soon as the plane is ready.",
-          "contextForm": "instruct somebody where, what, etc…"
-        },
-        {
-          "text": "She arrived at 10 o'clock **as instructed**.",
-          "contextForm": "instruct somebody"
-        },
-        {
-          "text": "He instructed that a wall be built around the city.",
-          "contextForm": "instruct that…"
-        },
-        {
-          "text": "He instructed that a wall should be built around the city."
-        },
-        {
-          "text": "‘Put it there,’ she instructed (them).",
-          "contextForm": "instruct (somebody) + speech"
-        },
-        {
-          "text": "I took the pills as instructed."
-        },
-        {
-          "text": "You were explicitly instructed to wait here."
-        }
-      ],
-      "synonyms": "direct, order",
-      "collocations": {
-        "adverb": ["carefully", "explicitly", "specifically"],
-        "phrases": ["as instructed"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to teach somebody something, especially a practical skill",
-      "sensetop": "instruct somebody (in something)",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "All our staff have been instructed in sign language."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to give somebody information about something",
-      "sensetop": "be instructed that…",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "We have been instructed that a decision will not be made before the end of the week.",
-          "contextForm": "be instructed that…"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to employ somebody to represent you in a legal situation, especially as a lawyer",
-      "sensetop": "instruct somebody (to do something)",
-      "labels": "(law)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈstrʌkt/",
-        "audio": "in/instruct/instruct__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈstrʌkts/",
-        "audio": "in/instruct/instructs__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈstrʌktɪd/",
-        "audio": "in/instruct/instructed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈstrʌktɪŋ/",
-        "audio": "in/instruct/instructing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈstrʌkt/",
-        "audio": "in/instruct/instruct__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈstrʌkts/",
-        "audio": "in/instruct/instructs__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈstrʌktɪd/",
-        "audio": "in/instruct/instructed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈstrʌktɪŋ/",
-        "audio": "in/instruct/instructing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in sense (2)): from Latin instruct- ‘constructed, equipped, taught’, from the verb instruere, from in- ‘upon, towards’ + struere ‘pile up’."
+	"term": "instruct",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "instruct",
+			"heSheIt": "instructs"
+		},
+		"pastSimple": "instructed",
+		"pastParticiple": "instructed",
+		"ingForm": "instructing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to tell somebody to do something, especially in a formal or official way",
+			"sensetop": "instruct somebody to do somethinginstruct somebody where, what, etc…instruct somebodyinstruct that…instruct (somebody) + speech",
+			"labels": "(formal)(British English also)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The letter instructed him to report to headquarters immediately.",
+					"contextForm": "instruct somebody to do something"
+				},
+				{
+					"text": "You will be instructed where to go as soon as the plane is ready.",
+					"contextForm": "instruct somebody where, what, etc…"
+				},
+				{
+					"text": "She arrived at 10 o'clock **as instructed**.",
+					"contextForm": "instruct somebody"
+				},
+				{
+					"text": "He instructed that a wall be built around the city.",
+					"contextForm": "instruct that…"
+				},
+				{
+					"text": "He instructed that a wall should be built around the city."
+				},
+				{
+					"text": "‘Put it there,’ she instructed (them).",
+					"contextForm": "instruct (somebody) + speech"
+				},
+				{
+					"text": "I took the pills as instructed."
+				},
+				{
+					"text": "You were explicitly instructed to wait here."
+				}
+			],
+			"synonyms": "direct, order",
+			"collocations": {
+				"adverb": ["carefully", "explicitly", "specifically"],
+				"phrases": ["as instructed"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to teach somebody something, especially a practical skill",
+			"sensetop": "instruct somebody (in something)",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "All our staff have been instructed in sign language."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to give somebody information about something",
+			"sensetop": "be instructed that…",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "We have been instructed that a decision will not be made before the end of the week.",
+					"contextForm": "be instructed that…"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to employ somebody to represent you in a legal situation, especially as a lawyer",
+			"sensetop": "instruct somebody (to do something)",
+			"labels": "(law)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈstrʌkt/",
+				"audio": "in/instruct/instruct__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈstrʌkts/",
+				"audio": "in/instruct/instructs__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈstrʌktɪd/",
+				"audio": "in/instruct/instructed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈstrʌktɪŋ/",
+				"audio": "in/instruct/instructing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈstrʌkt/",
+				"audio": "in/instruct/instruct__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈstrʌkts/",
+				"audio": "in/instruct/instructs__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈstrʌktɪd/",
+				"audio": "in/instruct/instructed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈstrʌktɪŋ/",
+				"audio": "in/instruct/instructing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in sense (2)): from Latin instruct- ‘constructed, equipped, taught’, from the verb instruere, from in- ‘upon, towards’ + struere ‘pile up’."
 }

@@ -1,208 +1,208 @@
 {
-  "term": "lip",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "image": "data/images/bo/body_face.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "either of the two soft edges at the opening to the mouth",
-      "sensetop": "on the lips",
-      "labels": "(informal)(formal)(British English)(British English)(disapproving)(both informal, often disapproving)(informal, disapproving)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The assistant **pursed her lips**."
-        },
-        {
-          "text": "your **upper/lower/top/bottom lip**"
-        },
-        {
-          "text": "She kissed him on the lips.",
-          "contextForm": "on the lips"
-        },
-        {
-          "text": "He raised the bottle to his lips and took a large swig from it."
-        },
-        {
-          "text": "He bit his lip nervously, trying not to cry."
-        },
-        {
-          "text": "Her lips curled contemptuously."
-        },
-        {
-          "text": "He licked his lips hungrily."
-        },
-        {
-          "text": "She has full, pouty lips."
-        },
-        {
-          "text": "He nervously moistened his lips with his tongue."
-        },
-        {
-          "text": "She wiped her lips with the back of her hand."
-        },
-        {
-          "text": "His lips brushed her cheek."
-        },
-        {
-          "text": "Their lips met and the kiss was soft."
-        },
-        {
-          "text": "There was a slight smile on her lips."
-        }
-      ],
-      "topics": ["Body"],
-      "collocations": {
-        "adjective": ["top", "upper", "bottom"],
-        "verb + lip": ["bite", "chew", "press together"],
-        "lip + verb": ["move", "part", "meet"],
-        "preposition": ["around your lip", "round your lip", "between your lip"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "having the type of lips mentioned",
-      "examples": [
-        {
-          "text": "thin-lipped"
-        },
-        {
-          "text": "thick-lipped"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the edge of a container or a hollow place in the ground",
-      "sensetop": "lip (of something)",
-      "examples": [
-        {
-          "text": "He ran his finger around the lip of the cup."
-        },
-        {
-          "text": "Lava bubbled a few feet below the lip of the crater."
-        }
-      ],
-      "synonyms": "rim"
-    },
-    {
-      "senseNumber": 4,
-      "definition": "words spoken to somebody that are rude and show a lack of respect for that person",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Don't let him **give you** any **lip**!"
-        },
-        {
-          "text": "I’ve just about had enough of your lip!"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to stop yourself from saying something or from showing an emotion",
-      "examples": [
-        {
-          "text": "I bit my lip and forced myself to be calm."
-        }
-      ]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to move your tongue over your lips, especially before eating something good",
-      "examples": []
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to show that you are excited about something and want it to happen soon",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "They were licking their lips at the thought of clinching the deal."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that you will not repeat somebody’s secret to other people",
-      "examples": []
-    },
-    {
-      "senseNumber": 1,
-      "definition": "if words do not pass your lips, you say nothing",
-      "examples": []
-    },
-    {
-      "senseNumber": 2,
-      "definition": "if food or drink does not pass your lips, you eat or drink nothing",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "if something is on everyone’s lips, they are all talking about it",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to tell somebody to listen carefully to what you are saying",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Read my lips: no new taxes *(= I promise there will be no new taxes)*."
-        }
-      ]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to move your lips, apart noisily, especially before eating something good",
-      "examples": []
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to show that you are excited about something and want it to happen soon",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "They were smacking their lips at the thought of clinching the deal."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to keep calm and hide your feelings when you are in pain or in a difficult situation",
-      "examples": [
-        {
-          "text": "He was taught to keep a stiff upper lip and never to cry in public."
-        },
-        {
-          "text": "Their reaction contrasts sharply with the stiff upper lip of the English."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "nothing is completely certain until it really happens because things can easily go wrong",
-      "labels": "(saying)",
-      "examples": [],
-      "topics": ["Doubt, guessing and certainty"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/lɪp/",
-        "audio": "li/lip/lip__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/lɪp/",
-        "audio": "li/lip/lip__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English lippa, of Germanic origin; related to Dutch lip and German Lippe, from an Indo-European root shared by Latin labia, labra ‘lips’."
+	"term": "lip",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"image": "data/images/bo/body_face.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "either of the two soft edges at the opening to the mouth",
+			"sensetop": "on the lips",
+			"labels": "(informal)(formal)(British English)(British English)(disapproving)(both informal, often disapproving)(informal, disapproving)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The assistant **pursed her lips**."
+				},
+				{
+					"text": "your **upper/lower/top/bottom lip**"
+				},
+				{
+					"text": "She kissed him on the lips.",
+					"contextForm": "on the lips"
+				},
+				{
+					"text": "He raised the bottle to his lips and took a large swig from it."
+				},
+				{
+					"text": "He bit his lip nervously, trying not to cry."
+				},
+				{
+					"text": "Her lips curled contemptuously."
+				},
+				{
+					"text": "He licked his lips hungrily."
+				},
+				{
+					"text": "She has full, pouty lips."
+				},
+				{
+					"text": "He nervously moistened his lips with his tongue."
+				},
+				{
+					"text": "She wiped her lips with the back of her hand."
+				},
+				{
+					"text": "His lips brushed her cheek."
+				},
+				{
+					"text": "Their lips met and the kiss was soft."
+				},
+				{
+					"text": "There was a slight smile on her lips."
+				}
+			],
+			"topics": ["Body"],
+			"collocations": {
+				"adjective": ["top", "upper", "bottom"],
+				"verb + lip": ["bite", "chew", "press together"],
+				"lip + verb": ["move", "part", "meet"],
+				"preposition": ["around your lip", "round your lip", "between your lip"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "having the type of lips mentioned",
+			"examples": [
+				{
+					"text": "thin-lipped"
+				},
+				{
+					"text": "thick-lipped"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the edge of a container or a hollow place in the ground",
+			"sensetop": "lip (of something)",
+			"examples": [
+				{
+					"text": "He ran his finger around the lip of the cup."
+				},
+				{
+					"text": "Lava bubbled a few feet below the lip of the crater."
+				}
+			],
+			"synonyms": "rim"
+		},
+		{
+			"senseNumber": 4,
+			"definition": "words spoken to somebody that are rude and show a lack of respect for that person",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Don't let him **give you** any **lip**!"
+				},
+				{
+					"text": "I’ve just about had enough of your lip!"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to stop yourself from saying something or from showing an emotion",
+			"examples": [
+				{
+					"text": "I bit my lip and forced myself to be calm."
+				}
+			]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to move your tongue over your lips, especially before eating something good",
+			"examples": []
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to show that you are excited about something and want it to happen soon",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "They were licking their lips at the thought of clinching the deal."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that you will not repeat somebody’s secret to other people",
+			"examples": []
+		},
+		{
+			"senseNumber": 1,
+			"definition": "if words do not pass your lips, you say nothing",
+			"examples": []
+		},
+		{
+			"senseNumber": 2,
+			"definition": "if food or drink does not pass your lips, you eat or drink nothing",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "if something is on everyone’s lips, they are all talking about it",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to tell somebody to listen carefully to what you are saying",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Read my lips: no new taxes *(= I promise there will be no new taxes)*."
+				}
+			]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to move your lips, apart noisily, especially before eating something good",
+			"examples": []
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to show that you are excited about something and want it to happen soon",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "They were smacking their lips at the thought of clinching the deal."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to keep calm and hide your feelings when you are in pain or in a difficult situation",
+			"examples": [
+				{
+					"text": "He was taught to keep a stiff upper lip and never to cry in public."
+				},
+				{
+					"text": "Their reaction contrasts sharply with the stiff upper lip of the English."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "nothing is completely certain until it really happens because things can easily go wrong",
+			"labels": "(saying)",
+			"examples": [],
+			"topics": ["Doubt, guessing and certainty"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/lɪp/",
+				"audio": "li/lip/lip__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/lɪp/",
+				"audio": "li/lip/lip__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English lippa, of Germanic origin; related to Dutch lip and German Lippe, from an Indo-European root shared by Latin labia, labra ‘lips’."
 }

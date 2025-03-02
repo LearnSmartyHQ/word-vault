@@ -1,163 +1,163 @@
 {
-  "term": "sum",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an amount of money",
-      "sensetop": "sum (of something)",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "You will be fined the sum of £200."
-        },
-        {
-          "text": "a **large sum of money**"
-        },
-        {
-          "text": "The judge awarded them an **undisclosed** six-figure **sum** in damages."
-        },
-        {
-          "text": "**Huge sums** have been invested in this project."
-        },
-        {
-          "text": "The team has raised **substantial sums** for local charities."
-        },
-        {
-          "text": "£200 was an astronomical sum of money in 1547."
-        },
-        {
-          "text": "For his first book he received the princely sum of $400."
-        },
-        {
-          "text": "He joined the club two years ago for a record sum."
-        },
-        {
-          "text": "It seemed an absurdly high sum to pay for a coat."
-        },
-        {
-          "text": "Some of the paintings should fetch a tidy sum at today's auction."
-        },
-        {
-          "text": "The charity pays a nominal sum to lease the premises."
-        },
-        {
-          "text": "The gangsters offered him a sum equivalent to a whole year's earnings."
-        },
-        {
-          "text": "The landlord has the right to recover any sums payable under this lease."
-        },
-        {
-          "text": "We eventually agreed a sum and I gave him a cheque."
-        },
-        {
-          "text": "You will have to go to court to recover these sums."
-        },
-        {
-          "text": "a project that cost vast sums of public money"
-        }
-      ],
-      "topics": ["Money"],
-      "collocations": {
-        "adjective": ["considerable", "generous", "good"],
-        "verb + sum": ["borrow", "earn", "fetch"],
-        "sum + verb": ["be due", "be payable", "be equal to something"],
-        "phrases": ["a sum of money"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the number you get when you add two or more numbers together",
-      "sensetop": "sum (of something)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "The sum of 7 and 12 is 19."
-        },
-        {
-          "text": "Calculate the sum of the following figures."
-        }
-      ],
-      "topics": ["Maths and measurement"],
-      "collocations": {
-        "verb + sum": ["calculate", "find", "work out"],
-        "preposition": ["sum of"],
-        "phrases": ["greater, less, more, etc. than the sum of its/​the parts"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "all of something, especially when you think that it is not very much",
-      "sensetop": "the sum of something",
-      "examples": [
-        {
-          "text": "This is the sum of my achievements so far."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a simple problem that involves calculating numbers",
-      "examples": [
-        {
-          "text": "to **do a sum** in your head"
-        },
-        {
-          "text": "I was good at sums at school."
-        },
-        {
-          "text": "If I've got my sums right, I should be able to afford the rent."
-        },
-        {
-          "text": "I did a quick sum to work out how much it would cost."
-        },
-        {
-          "text": "The company got its sums wrong when estimating how many customers it would attract."
-        }
-      ],
-      "collocations": {
-        "adjective": ["difficult", "easy"],
-        "verb + sum": ["do"],
-        "phrases": ["get your sums right/​wrong"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be better or more effective as a group than you would think just by looking at the individual members of the group",
-      "examples": [
-        {
-          "text": "The team is greater than the sum of its parts."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to introduce a short statement of the main points of a discussion, speech, etc.",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "In sum, we have no chance of winning the case."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/sʌm/",
-        "audio": "su/sum/sum__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/sʌm/",
-        "audio": "su/sum/sum__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: via Old French from Latin summa ‘main part, sum total’, feminine of summus ‘highest’."
+	"term": "sum",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an amount of money",
+			"sensetop": "sum (of something)",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "You will be fined the sum of £200."
+				},
+				{
+					"text": "a **large sum of money**"
+				},
+				{
+					"text": "The judge awarded them an **undisclosed** six-figure **sum** in damages."
+				},
+				{
+					"text": "**Huge sums** have been invested in this project."
+				},
+				{
+					"text": "The team has raised **substantial sums** for local charities."
+				},
+				{
+					"text": "£200 was an astronomical sum of money in 1547."
+				},
+				{
+					"text": "For his first book he received the princely sum of $400."
+				},
+				{
+					"text": "He joined the club two years ago for a record sum."
+				},
+				{
+					"text": "It seemed an absurdly high sum to pay for a coat."
+				},
+				{
+					"text": "Some of the paintings should fetch a tidy sum at today's auction."
+				},
+				{
+					"text": "The charity pays a nominal sum to lease the premises."
+				},
+				{
+					"text": "The gangsters offered him a sum equivalent to a whole year's earnings."
+				},
+				{
+					"text": "The landlord has the right to recover any sums payable under this lease."
+				},
+				{
+					"text": "We eventually agreed a sum and I gave him a cheque."
+				},
+				{
+					"text": "You will have to go to court to recover these sums."
+				},
+				{
+					"text": "a project that cost vast sums of public money"
+				}
+			],
+			"topics": ["Money"],
+			"collocations": {
+				"adjective": ["considerable", "generous", "good"],
+				"verb + sum": ["borrow", "earn", "fetch"],
+				"sum + verb": ["be due", "be payable", "be equal to something"],
+				"phrases": ["a sum of money"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the number you get when you add two or more numbers together",
+			"sensetop": "sum (of something)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "The sum of 7 and 12 is 19."
+				},
+				{
+					"text": "Calculate the sum of the following figures."
+				}
+			],
+			"topics": ["Maths and measurement"],
+			"collocations": {
+				"verb + sum": ["calculate", "find", "work out"],
+				"preposition": ["sum of"],
+				"phrases": ["greater, less, more, etc. than the sum of its/​the parts"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "all of something, especially when you think that it is not very much",
+			"sensetop": "the sum of something",
+			"examples": [
+				{
+					"text": "This is the sum of my achievements so far."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a simple problem that involves calculating numbers",
+			"examples": [
+				{
+					"text": "to **do a sum** in your head"
+				},
+				{
+					"text": "I was good at sums at school."
+				},
+				{
+					"text": "If I've got my sums right, I should be able to afford the rent."
+				},
+				{
+					"text": "I did a quick sum to work out how much it would cost."
+				},
+				{
+					"text": "The company got its sums wrong when estimating how many customers it would attract."
+				}
+			],
+			"collocations": {
+				"adjective": ["difficult", "easy"],
+				"verb + sum": ["do"],
+				"phrases": ["get your sums right/​wrong"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be better or more effective as a group than you would think just by looking at the individual members of the group",
+			"examples": [
+				{
+					"text": "The team is greater than the sum of its parts."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to introduce a short statement of the main points of a discussion, speech, etc.",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "In sum, we have no chance of winning the case."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/sʌm/",
+				"audio": "su/sum/sum__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/sʌm/",
+				"audio": "su/sum/sum__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: via Old French from Latin summa ‘main part, sum total’, feminine of summus ‘highest’."
 }

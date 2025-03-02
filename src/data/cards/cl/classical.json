@@ -1,102 +1,102 @@
 {
-  "term": "classical",
-  "partOfSpeech": "adjective",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "relating to classical music",
-      "labels": "(British English)(especially North American English)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a classical composer/musician/pianist"
-        },
-        {
-          "text": "a classical concert"
-        }
-      ],
-      "topics": ["Music"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "widely accepted and used for a long time; traditional in style or idea",
-      "examples": [
-        {
-          "text": "the classical economics of Smith and Ricardo"
-        },
-        {
-          "text": "the classical theory of unemployment"
-        },
-        {
-          "text": "**classical** and modern **ballet/dance**"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "connected with or influenced by the culture of ancient Greece and Rome",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "classical studies"
-        },
-        {
-          "text": "a classical scholar *(= an expert in Latin and Greek)*"
-        },
-        {
-          "text": "classical architecture"
-        }
-      ],
-      "topics": ["History", "Buildings"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "with all the features you would expect to find; very typical",
-      "labels": "more frequent",
-      "examples": [
-        {
-          "text": "These are classical examples of food allergy."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "ancient in its form and no longer used in a spoken form",
-      "examples": [
-        {
-          "text": "classical Arabic"
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "simple and attractive",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the classical elegance of the design"
-        }
-      ],
-      "topics": ["Art"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈklæsɪkl/",
-        "audio": "cl/classical/classical__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈklæsɪkl/",
-        "audio": "cl/classical/classical__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent. (in the sense ‘outstanding of its kind’): from Latin classicus ‘belonging to a class’ (later ‘of the highest class’, from classis ‘a division of the Roman people, a grade, or a class of pupils’) + -al."
+	"term": "classical",
+	"partOfSpeech": "adjective",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "relating to classical music",
+			"labels": "(British English)(especially North American English)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a classical composer/musician/pianist"
+				},
+				{
+					"text": "a classical concert"
+				}
+			],
+			"topics": ["Music"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "widely accepted and used for a long time; traditional in style or idea",
+			"examples": [
+				{
+					"text": "the classical economics of Smith and Ricardo"
+				},
+				{
+					"text": "the classical theory of unemployment"
+				},
+				{
+					"text": "**classical** and modern **ballet/dance**"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "connected with or influenced by the culture of ancient Greece and Rome",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "classical studies"
+				},
+				{
+					"text": "a classical scholar *(= an expert in Latin and Greek)*"
+				},
+				{
+					"text": "classical architecture"
+				}
+			],
+			"topics": ["History", "Buildings"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "with all the features you would expect to find; very typical",
+			"labels": "more frequent",
+			"examples": [
+				{
+					"text": "These are classical examples of food allergy."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "ancient in its form and no longer used in a spoken form",
+			"examples": [
+				{
+					"text": "classical Arabic"
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "simple and attractive",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the classical elegance of the design"
+				}
+			],
+			"topics": ["Art"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈklæsɪkl/",
+				"audio": "cl/classical/classical__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈklæsɪkl/",
+				"audio": "cl/classical/classical__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent. (in the sense ‘outstanding of its kind’): from Latin classicus ‘belonging to a class’ (later ‘of the highest class’, from classis ‘a division of the Roman people, a grade, or a class of pupils’) + -al."
 }

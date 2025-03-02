@@ -1,49 +1,49 @@
 {
-  "term": "councillor",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a member of a city or county council",
-      "examples": [
-        {
-          "text": "Councillor Ann Jones"
-        },
-        {
-          "text": "Talk to your local councillor about the problem."
-        },
-        {
-          "text": "He is the area's only Green county councillor."
-        },
-        {
-          "text": "She served as a Conservative councillor for Harwich for many years."
-        },
-        {
-          "text": "Talk to your city councillor about the problem."
-        }
-      ],
-      "topics": ["Politics"],
-      "collocations": {
-        "adjective": ["borough", "city", "county"],
-        "verb + councillor": ["elect somebody (as)"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkaʊnsələ(r)/",
-        "audio": "co/councillor/councillor__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkaʊnsələr/",
-        "audio": "co/councillor/councillor__us_2_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: alteration of counsellor, by association with council."
+	"term": "councillor",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a member of a city or county council",
+			"examples": [
+				{
+					"text": "Councillor Ann Jones"
+				},
+				{
+					"text": "Talk to your local councillor about the problem."
+				},
+				{
+					"text": "He is the area's only Green county councillor."
+				},
+				{
+					"text": "She served as a Conservative councillor for Harwich for many years."
+				},
+				{
+					"text": "Talk to your city councillor about the problem."
+				}
+			],
+			"topics": ["Politics"],
+			"collocations": {
+				"adjective": ["borough", "city", "county"],
+				"verb + councillor": ["elect somebody (as)"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkaʊnsələ(r)/",
+				"audio": "co/councillor/councillor__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkaʊnsələr/",
+				"audio": "co/councillor/councillor__us_2_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: alteration of counsellor, by association with council."
 }

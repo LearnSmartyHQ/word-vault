@@ -1,129 +1,129 @@
 {
-  "term": "inherit",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "inherit",
-      "heSheIt": "inherits"
-    },
-    "pastSimple": "inherited",
-    "pastParticiple": "inherited",
-    "ingForm": "inheriting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to receive money, property, etc. from somebody when they die",
-      "sensetop": "inherit something from somebodyinherit (something)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "She inherited a fortune from her father.",
-          "contextForm": "inherit something from somebody"
-        },
-        {
-          "text": "He will inherit the title on the death of his uncle.",
-          "contextForm": "inherit (something)"
-        },
-        {
-          "text": "Does he know that she stands to inherit?"
-        },
-        {
-          "text": "He stood to inherit (= was likely to inherit) property worth over five million."
-        },
-        {
-          "text": "She inherited some money from her mother."
-        }
-      ],
-      "topics": ["Money"],
-      "collocations": {
-        "verb + inherit": ["stand to"],
-        "preposition": ["from"],
-        "phrases": ["be genetically inherited"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to have qualities, physical features, etc. that are similar to those of your parents, grandparents, etc.",
-      "sensetop": "inherit somethinginherit something from somebody",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "He has inherited his mother's patience.",
-          "contextForm": "inherit something"
-        },
-        {
-          "text": "Is this an inherited disease?"
-        },
-        {
-          "text": "How many of these traits are genetically inherited?"
-        },
-        {
-          "text": "She inherited a passion for music from her grandfather.",
-          "contextForm": "inherit something from somebody"
-        }
-      ],
-      "topics": ["Family and relationships"],
-      "collocations": {
-        "verb + inherit": ["stand to"],
-        "preposition": ["from"],
-        "phrases": ["be genetically inherited"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "if you inherit a particular situation from somebody, you are now responsible for dealing with it, especially because you have replaced that person in their job",
-      "sensetop": "inherit something (from somebody)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "policies inherited from the previous administration"
-        },
-        {
-          "text": "I inherited a number of problems from my predecessor."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈherɪt/",
-        "audio": "in/inherit/inherit__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈherɪts/",
-        "audio": "in/inherit/inherits__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈherɪtɪd/",
-        "audio": "in/inherit/inherited__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈherɪtɪŋ/",
-        "audio": "in/inherit/inheriting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈherɪt/",
-        "audio": "in/inherit/inherit__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈherɪts/",
-        "audio": "in/inherit/inherits__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈherɪtɪd/",
-        "audio": "in/inherit/inherited__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈherɪtɪŋ/",
-        "audio": "in/inherit/inheriting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English enherite ‘receive as a right’, from Old French enheriter, from late Latin inhereditare ‘appoint as heir’, from Latin in- ‘in’ + heres, hered- ‘heir’."
+	"term": "inherit",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "inherit",
+			"heSheIt": "inherits"
+		},
+		"pastSimple": "inherited",
+		"pastParticiple": "inherited",
+		"ingForm": "inheriting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to receive money, property, etc. from somebody when they die",
+			"sensetop": "inherit something from somebodyinherit (something)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "She inherited a fortune from her father.",
+					"contextForm": "inherit something from somebody"
+				},
+				{
+					"text": "He will inherit the title on the death of his uncle.",
+					"contextForm": "inherit (something)"
+				},
+				{
+					"text": "Does he know that she stands to inherit?"
+				},
+				{
+					"text": "He stood to inherit (= was likely to inherit) property worth over five million."
+				},
+				{
+					"text": "She inherited some money from her mother."
+				}
+			],
+			"topics": ["Money"],
+			"collocations": {
+				"verb + inherit": ["stand to"],
+				"preposition": ["from"],
+				"phrases": ["be genetically inherited"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to have qualities, physical features, etc. that are similar to those of your parents, grandparents, etc.",
+			"sensetop": "inherit somethinginherit something from somebody",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "He has inherited his mother's patience.",
+					"contextForm": "inherit something"
+				},
+				{
+					"text": "Is this an inherited disease?"
+				},
+				{
+					"text": "How many of these traits are genetically inherited?"
+				},
+				{
+					"text": "She inherited a passion for music from her grandfather.",
+					"contextForm": "inherit something from somebody"
+				}
+			],
+			"topics": ["Family and relationships"],
+			"collocations": {
+				"verb + inherit": ["stand to"],
+				"preposition": ["from"],
+				"phrases": ["be genetically inherited"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "if you inherit a particular situation from somebody, you are now responsible for dealing with it, especially because you have replaced that person in their job",
+			"sensetop": "inherit something (from somebody)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "policies inherited from the previous administration"
+				},
+				{
+					"text": "I inherited a number of problems from my predecessor."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈherɪt/",
+				"audio": "in/inherit/inherit__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈherɪts/",
+				"audio": "in/inherit/inherits__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈherɪtɪd/",
+				"audio": "in/inherit/inherited__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈherɪtɪŋ/",
+				"audio": "in/inherit/inheriting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈherɪt/",
+				"audio": "in/inherit/inherit__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈherɪts/",
+				"audio": "in/inherit/inherits__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈherɪtɪd/",
+				"audio": "in/inherit/inherited__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈherɪtɪŋ/",
+				"audio": "in/inherit/inheriting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English enherite ‘receive as a right’, from Old French enheriter, from late Latin inhereditare ‘appoint as heir’, from Latin in- ‘in’ + heres, hered- ‘heir’."
 }

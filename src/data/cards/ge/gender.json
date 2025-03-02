@@ -1,67 +1,67 @@
 {
-  "term": "gender",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the fact of being male or female, especially when considered with reference to social and cultural differences, rather than differences in biology; members of a particular gender as a group",
-      "labels": "British EnglishNorth American English",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "issues of class, race and gender"
-        },
-        {
-          "text": "traditional concepts of gender"
-        },
-        {
-          "text": "Levels of physical activity did not differ between genders."
-        },
-        {
-          "text": "**gender differences/relations/roles/equality**"
-        },
-        {
-          "text": "She examines the interplay between changing gender divisions and urban change."
-        },
-        {
-          "text": "The government is working on tackling gender inequalities in employment."
-        }
-      ],
-      "topics": ["People in society"],
-      "collocations": {
-        "adjective": ["female", "male", "same"],
-        "gender + noun": ["relations", "differences", "divisions"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "each of the classes (masculine, feminine and sometimes neuter) into which nouns, pronouns and adjectives are divided; the division of nouns, pronouns and adjectives into these different genders. Different genders may have different endings, etc.",
-      "labels": "(grammar)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "In French the adjective must agree with the noun in number and gender."
-        }
-      ],
-      "topics": ["Language"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈdʒendə(r)/",
-        "audio": "ge/gender/gender__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈdʒendər/",
-        "audio": "ge/gender/gender__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French gendre (modern genre), based on Latin genus ‘birth, family, nation’. The earliest meanings were ‘kind, sort, genus’ and ‘type or class of noun, etc.’ (which was also a sense of Latin genus)."
+	"term": "gender",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the fact of being male or female, especially when considered with reference to social and cultural differences, rather than differences in biology; members of a particular gender as a group",
+			"labels": "British EnglishNorth American English",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "issues of class, race and gender"
+				},
+				{
+					"text": "traditional concepts of gender"
+				},
+				{
+					"text": "Levels of physical activity did not differ between genders."
+				},
+				{
+					"text": "**gender differences/relations/roles/equality**"
+				},
+				{
+					"text": "She examines the interplay between changing gender divisions and urban change."
+				},
+				{
+					"text": "The government is working on tackling gender inequalities in employment."
+				}
+			],
+			"topics": ["People in society"],
+			"collocations": {
+				"adjective": ["female", "male", "same"],
+				"gender + noun": ["relations", "differences", "divisions"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "each of the classes (masculine, feminine and sometimes neuter) into which nouns, pronouns and adjectives are divided; the division of nouns, pronouns and adjectives into these different genders. Different genders may have different endings, etc.",
+			"labels": "(grammar)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "In French the adjective must agree with the noun in number and gender."
+				}
+			],
+			"topics": ["Language"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈdʒendə(r)/",
+				"audio": "ge/gender/gender__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈdʒendər/",
+				"audio": "ge/gender/gender__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French gendre (modern genre), based on Latin genus ‘birth, family, nation’. The earliest meanings were ‘kind, sort, genus’ and ‘type or class of noun, etc.’ (which was also a sense of Latin genus)."
 }

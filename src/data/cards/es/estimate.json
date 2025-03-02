@@ -1,134 +1,134 @@
 {
-  "term": "estimate",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "estimate",
-      "heSheIt": "estimates"
-    },
-    "pastSimple": "estimated",
-    "pastParticiple": "estimated",
-    "ingForm": "estimating"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to form an idea of the cost, size, value, etc. of something, but without calculating it exactly",
-      "sensetop": "estimate somethingestimate something at somethingestimate something from somethingestimate something as somethingestimate something to do somethingestimate (that)…it is estimated (that)…estimate how many, large, etc…",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **estimate the cost/value/number** of something",
-          "contextForm": "estimate something"
-        },
-        {
-          "text": "The satellite will cost an estimated £400 million."
-        },
-        {
-          "text": "Police estimate the crowd at 30 000.",
-          "contextForm": "estimate something at something"
-        },
-        {
-          "text": "All variables can be estimated from the data.",
-          "contextForm": "estimate something from something"
-        },
-        {
-          "text": "The number of breeding pairs was estimated as the number of pairs building nests.",
-          "contextForm": "estimate something as something"
-        },
-        {
-          "text": "The deal is estimated to be worth around $1.5 million.",
-          "contextForm": "estimate something to do something"
-        },
-        {
-          "text": "We estimated (that) it would cost about €5 000.",
-          "contextForm": "estimate (that)…"
-        },
-        {
-          "text": "It is estimated (that) the project will last four years.",
-          "contextForm": "it is estimated (that)…"
-        },
-        {
-          "text": "It is hard to estimate how many children have dyslexia.",
-          "contextForm": "estimate how many, large, etc…"
-        },
-        {
-          "text": "Estimate the time it will take to complete each section."
-        },
-        {
-          "text": "Samples are usually used to estimate parameters."
-        },
-        {
-          "text": "The scale of the problem has been estimated by a number of different surveys."
-        },
-        {
-          "text": "This made it possible to estimate the effect of workplace ventilation."
-        },
-        {
-          "text": "The results of the survey were used to estimate the preferences of the population at large."
-        },
-        {
-          "text": "The strike was officially estimated to have cost $80 million."
-        },
-        {
-          "text": "We estimated that the distance would be roughly 200 km."
-        },
-        {
-          "text": "It is conservatively estimated that about half a million people died in the famine."
-        }
-      ],
-      "topics": ["Opinion and argument"],
-      "collocations": {
-        "adverb": ["currently", "initially", "originally"],
-        "verb + estimate": [
-          "be difficult to",
-          "be hard to",
-          "be impossible to"
-        ],
-        "preposition": ["at"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈestɪmeɪt/",
-        "audio": "es/estimate/estimate__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/ˈestɪmeɪts/",
-        "audio": "es/estimate/estimates__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈestɪmeɪtɪd/",
-        "audio": "es/estimate/estimated__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈestɪmeɪtɪŋ/",
-        "audio": "es/estimate/estimating__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈestɪmeɪt/",
-        "audio": "es/estimate/estimate__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈestɪmeɪts/",
-        "audio": "es/estimate/estimates__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈestɪmeɪtɪd/",
-        "audio": "es/estimate/estimated__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈestɪmeɪtɪŋ/",
-        "audio": "es/estimate/estimating__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "estimate",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "estimate",
+			"heSheIt": "estimates"
+		},
+		"pastSimple": "estimated",
+		"pastParticiple": "estimated",
+		"ingForm": "estimating"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to form an idea of the cost, size, value, etc. of something, but without calculating it exactly",
+			"sensetop": "estimate somethingestimate something at somethingestimate something from somethingestimate something as somethingestimate something to do somethingestimate (that)…it is estimated (that)…estimate how many, large, etc…",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **estimate the cost/value/number** of something",
+					"contextForm": "estimate something"
+				},
+				{
+					"text": "The satellite will cost an estimated £400 million."
+				},
+				{
+					"text": "Police estimate the crowd at 30 000.",
+					"contextForm": "estimate something at something"
+				},
+				{
+					"text": "All variables can be estimated from the data.",
+					"contextForm": "estimate something from something"
+				},
+				{
+					"text": "The number of breeding pairs was estimated as the number of pairs building nests.",
+					"contextForm": "estimate something as something"
+				},
+				{
+					"text": "The deal is estimated to be worth around $1.5 million.",
+					"contextForm": "estimate something to do something"
+				},
+				{
+					"text": "We estimated (that) it would cost about €5 000.",
+					"contextForm": "estimate (that)…"
+				},
+				{
+					"text": "It is estimated (that) the project will last four years.",
+					"contextForm": "it is estimated (that)…"
+				},
+				{
+					"text": "It is hard to estimate how many children have dyslexia.",
+					"contextForm": "estimate how many, large, etc…"
+				},
+				{
+					"text": "Estimate the time it will take to complete each section."
+				},
+				{
+					"text": "Samples are usually used to estimate parameters."
+				},
+				{
+					"text": "The scale of the problem has been estimated by a number of different surveys."
+				},
+				{
+					"text": "This made it possible to estimate the effect of workplace ventilation."
+				},
+				{
+					"text": "The results of the survey were used to estimate the preferences of the population at large."
+				},
+				{
+					"text": "The strike was officially estimated to have cost $80 million."
+				},
+				{
+					"text": "We estimated that the distance would be roughly 200 km."
+				},
+				{
+					"text": "It is conservatively estimated that about half a million people died in the famine."
+				}
+			],
+			"topics": ["Opinion and argument"],
+			"collocations": {
+				"adverb": ["currently", "initially", "originally"],
+				"verb + estimate": [
+					"be difficult to",
+					"be hard to",
+					"be impossible to"
+				],
+				"preposition": ["at"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈestɪmeɪt/",
+				"audio": "es/estimate/estimate__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/ˈestɪmeɪts/",
+				"audio": "es/estimate/estimates__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈestɪmeɪtɪd/",
+				"audio": "es/estimate/estimated__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈestɪmeɪtɪŋ/",
+				"audio": "es/estimate/estimating__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈestɪmeɪt/",
+				"audio": "es/estimate/estimate__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈestɪmeɪts/",
+				"audio": "es/estimate/estimates__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈestɪmeɪtɪd/",
+				"audio": "es/estimate/estimated__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈestɪmeɪtɪŋ/",
+				"audio": "es/estimate/estimating__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

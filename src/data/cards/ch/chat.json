@@ -1,128 +1,128 @@
 {
-  "term": "chat",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "chat",
-      "heSheIt": "chats"
-    },
-    "pastSimple": "chatted",
-    "pastParticiple": "chatted",
-    "ingForm": "chatting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to talk in a friendly, informal way to somebody",
-      "sensetop": "chat to/with somebodychat awaychat away to/with somebodychat about something/somebody",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I'm sorry I can't stop to chat."
-        },
-        {
-          "text": "The two of us **got chatting** *(= started chatting)* at the bus stop."
-        },
-        {
-          "text": "My kids spend hours chatting on the phone to their friends.",
-          "contextForm": "chat to/with somebody"
-        },
-        {
-          "text": "Within minutes of being introduced they were chatting away like old friends.",
-          "contextForm": "chat away"
-        },
-        {
-          "text": "Everyone here chats away to you as though they've known you for decades.",
-          "contextForm": "chat away to/with somebody"
-        },
-        {
-          "text": "What were you chatting about?",
-          "contextForm": "chat about something/somebody"
-        },
-        {
-          "text": "George was in the kitchen chatting to some friends."
-        },
-        {
-          "text": "I spent a happy half-hour chatting with a friend."
-        },
-        {
-          "text": "They chatted away to each other."
-        },
-        {
-          "text": "We chatted briefly about the weather."
-        },
-        {
-          "text": "You will have a chance to circulate and chat informally."
-        }
-      ],
-      "collocations": {
-        "adverb": ["briefly", "amiably", "amicably"],
-        "preposition": ["about", "to", "with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to exchange messages with somebody on the internet, when you can see and reply to messages immediately and have a written conversation",
-      "sensetop": "chat (to/with somebody)chat about something/somebody",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I've been chatting online with my best friend.",
-          "contextForm": "chat (to/with somebody)"
-        },
-        {
-          "text": "I use social media to chat about stuff as well.",
-          "contextForm": "chat about something/somebody"
-        }
-      ],
-      "topics": ["Phones, email and the internet"],
-      "collocations": {
-        "adverb": ["briefly", "amiably", "amicably"],
-        "preposition": ["about", "to", "with"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/tʃæt/",
-        "audio": "ch/chat/chat__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/tʃæts/",
-        "audio": "ch/chat/chats__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtʃætɪd/",
-        "audio": "ch/chat/chatted__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtʃætɪŋ/",
-        "audio": "ch/chat/chatting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/tʃæt/",
-        "audio": "ch/chat/chat__us_1.mp3"
-      },
-      {
-        "pronunciation": "/tʃæts/",
-        "audio": "ch/chat/chats__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtʃætɪd/",
-        "audio": "ch/chat/chatted__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtʃætɪŋ/",
-        "audio": "ch/chat/chatting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: shortening of chatter."
+	"term": "chat",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "chat",
+			"heSheIt": "chats"
+		},
+		"pastSimple": "chatted",
+		"pastParticiple": "chatted",
+		"ingForm": "chatting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to talk in a friendly, informal way to somebody",
+			"sensetop": "chat to/with somebodychat awaychat away to/with somebodychat about something/somebody",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I'm sorry I can't stop to chat."
+				},
+				{
+					"text": "The two of us **got chatting** *(= started chatting)* at the bus stop."
+				},
+				{
+					"text": "My kids spend hours chatting on the phone to their friends.",
+					"contextForm": "chat to/with somebody"
+				},
+				{
+					"text": "Within minutes of being introduced they were chatting away like old friends.",
+					"contextForm": "chat away"
+				},
+				{
+					"text": "Everyone here chats away to you as though they've known you for decades.",
+					"contextForm": "chat away to/with somebody"
+				},
+				{
+					"text": "What were you chatting about?",
+					"contextForm": "chat about something/somebody"
+				},
+				{
+					"text": "George was in the kitchen chatting to some friends."
+				},
+				{
+					"text": "I spent a happy half-hour chatting with a friend."
+				},
+				{
+					"text": "They chatted away to each other."
+				},
+				{
+					"text": "We chatted briefly about the weather."
+				},
+				{
+					"text": "You will have a chance to circulate and chat informally."
+				}
+			],
+			"collocations": {
+				"adverb": ["briefly", "amiably", "amicably"],
+				"preposition": ["about", "to", "with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to exchange messages with somebody on the internet, when you can see and reply to messages immediately and have a written conversation",
+			"sensetop": "chat (to/with somebody)chat about something/somebody",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I've been chatting online with my best friend.",
+					"contextForm": "chat (to/with somebody)"
+				},
+				{
+					"text": "I use social media to chat about stuff as well.",
+					"contextForm": "chat about something/somebody"
+				}
+			],
+			"topics": ["Phones, email and the internet"],
+			"collocations": {
+				"adverb": ["briefly", "amiably", "amicably"],
+				"preposition": ["about", "to", "with"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/tʃæt/",
+				"audio": "ch/chat/chat__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/tʃæts/",
+				"audio": "ch/chat/chats__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtʃætɪd/",
+				"audio": "ch/chat/chatted__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtʃætɪŋ/",
+				"audio": "ch/chat/chatting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/tʃæt/",
+				"audio": "ch/chat/chat__us_1.mp3"
+			},
+			{
+				"pronunciation": "/tʃæts/",
+				"audio": "ch/chat/chats__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtʃætɪd/",
+				"audio": "ch/chat/chatted__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtʃætɪŋ/",
+				"audio": "ch/chat/chatting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: shortening of chatter."
 }

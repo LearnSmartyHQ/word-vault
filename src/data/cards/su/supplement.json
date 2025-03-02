@@ -1,141 +1,141 @@
 {
-  "term": "supplement",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a thing that is added to something else to improve or complete it",
-      "sensetop": "supplement to something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "**vitamin/dietary supplements** *(= vitamins and other foods eaten in addition to what you usually eat)*"
-        },
-        {
-          "text": "Industrial sponsorship is a supplement to government funding.",
-          "contextForm": "supplement to something"
-        },
-        {
-          "text": "The farmer adds a supplement to the horse's feed."
-        },
-        {
-          "text": "women who take a daily supplement of folic acid"
-        },
-        {
-          "text": "means-tested supplements to the basic pension"
-        }
-      ],
-      "collocations": {
-        "adjective": ["useful", "valuable", "colour/​color"],
-        "verb + supplement": [
-          "provide (somebody/​something with)",
-          "add",
-          "take"
-        ],
-        "preposition": ["supplement to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an extra separate section, often in the form of a magazine, that is sold with a newspaper",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "the Sunday **colour supplements**"
-        },
-        {
-          "text": "Our special supplement is packed with ideas for healthy hair."
-        }
-      ],
-      "topics": ["TV, radio and news"],
-      "collocations": {
-        "adjective": ["useful", "valuable", "colour/​color"],
-        "verb + supplement": [
-          "provide (somebody/​something with)",
-          "add",
-          "take"
-        ],
-        "preposition": ["supplement to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a book or a section at the end of a book that gives extra information or deals with a special subject",
-      "sensetop": "supplement (to something)",
-      "examples": [
-        {
-          "text": "the supplement to the Oxford English Dictionary"
-        },
-        {
-          "text": "a supplement to the main report"
-        },
-        {
-          "text": "You can use these books as supplements to the basic English course."
-        }
-      ],
-      "collocations": {
-        "adjective": ["useful", "valuable", "colour/​color"],
-        "verb + supplement": [
-          "provide (somebody/​something with)",
-          "add",
-          "take"
-        ],
-        "preposition": ["supplement to"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "an amount of money that you pay for an extra service or item, especially in addition to the basic cost of a holiday",
-      "sensetop": "supplement (for something)supplement on somethingat/for a supplement",
-      "labels": "(British English)",
-      "examples": [
-        {
-          "text": "There is a £10 supplement for a single room.",
-          "contextForm": "supplement (for something)"
-        },
-        {
-          "text": "There is a supplement on rooms with a sea view.",
-          "contextForm": "supplement on something"
-        },
-        {
-          "text": "Safety deposit boxes are available at a supplement.",
-          "contextForm": "at/for a supplement"
-        },
-        {
-          "text": "If you want to travel on a different day a flight supplement is payable."
-        },
-        {
-          "text": "We charge a small supplement for this service."
-        },
-        {
-          "text": "Weekend flights carry a supplement."
-        }
-      ],
-      "synonyms": "surcharge",
-      "collocations": {
-        "adjective": ["additional", "extra", "$100"],
-        "verb + supplement": ["add", "charge", "carry"],
-        "supplement + verb": ["be payable"],
-        "preposition": ["at a supplement", "supplement for", "supplement on"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsʌplɪmənt/",
-        "audio": "su/supplement/supplement__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsʌplɪmənt/",
-        "audio": "su/supplement/supplement__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Latin supplementum, from supplere ‘fill up, complete’, from sub- ‘from below’ + plere ‘fill’."
+	"term": "supplement",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a thing that is added to something else to improve or complete it",
+			"sensetop": "supplement to something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "**vitamin/dietary supplements** *(= vitamins and other foods eaten in addition to what you usually eat)*"
+				},
+				{
+					"text": "Industrial sponsorship is a supplement to government funding.",
+					"contextForm": "supplement to something"
+				},
+				{
+					"text": "The farmer adds a supplement to the horse's feed."
+				},
+				{
+					"text": "women who take a daily supplement of folic acid"
+				},
+				{
+					"text": "means-tested supplements to the basic pension"
+				}
+			],
+			"collocations": {
+				"adjective": ["useful", "valuable", "colour/​color"],
+				"verb + supplement": [
+					"provide (somebody/​something with)",
+					"add",
+					"take"
+				],
+				"preposition": ["supplement to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an extra separate section, often in the form of a magazine, that is sold with a newspaper",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "the Sunday **colour supplements**"
+				},
+				{
+					"text": "Our special supplement is packed with ideas for healthy hair."
+				}
+			],
+			"topics": ["TV, radio and news"],
+			"collocations": {
+				"adjective": ["useful", "valuable", "colour/​color"],
+				"verb + supplement": [
+					"provide (somebody/​something with)",
+					"add",
+					"take"
+				],
+				"preposition": ["supplement to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a book or a section at the end of a book that gives extra information or deals with a special subject",
+			"sensetop": "supplement (to something)",
+			"examples": [
+				{
+					"text": "the supplement to the Oxford English Dictionary"
+				},
+				{
+					"text": "a supplement to the main report"
+				},
+				{
+					"text": "You can use these books as supplements to the basic English course."
+				}
+			],
+			"collocations": {
+				"adjective": ["useful", "valuable", "colour/​color"],
+				"verb + supplement": [
+					"provide (somebody/​something with)",
+					"add",
+					"take"
+				],
+				"preposition": ["supplement to"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "an amount of money that you pay for an extra service or item, especially in addition to the basic cost of a holiday",
+			"sensetop": "supplement (for something)supplement on somethingat/for a supplement",
+			"labels": "(British English)",
+			"examples": [
+				{
+					"text": "There is a £10 supplement for a single room.",
+					"contextForm": "supplement (for something)"
+				},
+				{
+					"text": "There is a supplement on rooms with a sea view.",
+					"contextForm": "supplement on something"
+				},
+				{
+					"text": "Safety deposit boxes are available at a supplement.",
+					"contextForm": "at/for a supplement"
+				},
+				{
+					"text": "If you want to travel on a different day a flight supplement is payable."
+				},
+				{
+					"text": "We charge a small supplement for this service."
+				},
+				{
+					"text": "Weekend flights carry a supplement."
+				}
+			],
+			"synonyms": "surcharge",
+			"collocations": {
+				"adjective": ["additional", "extra", "$100"],
+				"verb + supplement": ["add", "charge", "carry"],
+				"supplement + verb": ["be payable"],
+				"preposition": ["at a supplement", "supplement for", "supplement on"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsʌplɪmənt/",
+				"audio": "su/supplement/supplement__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsʌplɪmənt/",
+				"audio": "su/supplement/supplement__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Latin supplementum, from supplere ‘fill up, complete’, from sub- ‘from below’ + plere ‘fill’."
 }

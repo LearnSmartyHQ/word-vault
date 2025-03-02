@@ -1,129 +1,129 @@
 {
-  "term": "prescription",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an official piece of paper on which a doctor writes the type of medicine you should have, and which enables you to get it from a chemist's",
-      "sensetop": "prescription for somethingon prescriptionby prescription",
-      "labels": "(British English)(North American English)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The doctor gave me a prescription for antibiotics.",
-          "contextForm": "prescription for something"
-        },
-        {
-          "text": "Antibiotics are only available on prescription.",
-          "contextForm": "on prescription"
-        },
-        {
-          "text": "Antibiotics are only available by prescription.",
-          "contextForm": "by prescription"
-        },
-        {
-          "text": "They are not available without a prescription."
-        },
-        {
-          "text": "**prescription drugs/medication(s)**"
-        },
-        {
-          "text": "I just get a repeat prescription every week."
-        },
-        {
-          "text": "She scribbled on her prescription pad and handed me a sheet."
-        },
-        {
-          "text": "the usual prescription for asthma"
-        },
-        {
-          "text": "the rising rate of drug prescriptions for emotional and psychological complaints"
-        }
-      ],
-      "topics": ["Healthcare"],
-      "collocations": {
-        "adjective": ["medical", "free", "repeat"],
-        "verb + prescription": ["give somebody", "write", "write out"],
-        "prescription + noun": ["charges", "cost", "benefit"],
-        "preposition": [
-          "by prescription",
-          "on prescription",
-          "without (a) prescription"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "medicine that your doctor has ordered for you",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The pharmacist will make up your prescription."
-        },
-        {
-          "text": "Physicians often underestimate retail prescription costs."
-        },
-        {
-          "text": "The drug will be covered by Medicare's new prescription benefit."
-        },
-        {
-          "text": "The pharmacist dispenses prescriptions for antidepressants."
-        },
-        {
-          "text": "You are entitled to free prescriptions."
-        }
-      ],
-      "topics": ["Healthcare"],
-      "collocations": {
-        "adjective": ["medical", "free", "repeat"],
-        "verb + prescription": ["give somebody", "write", "write out"],
-        "prescription + noun": ["charges", "cost", "benefit"],
-        "preposition": [
-          "by prescription",
-          "on prescription",
-          "without (a) prescription"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the act of prescribing medicine",
-      "examples": [
-        {
-          "text": "The prescription of drugs is a doctor's responsibility."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a plan or a suggestion for making something happen or for improving it",
-      "sensetop": "prescription (for something)",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "a prescription for happiness"
-        },
-        {
-          "text": "Both parties will be outlining their prescription for economic recovery."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/prɪˈskrɪpʃn/",
-        "audio": "pr/prescription/prescription__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/prɪˈskrɪpʃn/",
-        "audio": "pr/prescription/prescription__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (as a legal term): via Old French from Latin praescriptio(n-), from the verb praescribere ‘direct in writing’, from prae ‘before’ + scribere ‘write’. Senses (1) to (3) date from the late 16th cent."
+	"term": "prescription",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an official piece of paper on which a doctor writes the type of medicine you should have, and which enables you to get it from a chemist's",
+			"sensetop": "prescription for somethingon prescriptionby prescription",
+			"labels": "(British English)(North American English)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The doctor gave me a prescription for antibiotics.",
+					"contextForm": "prescription for something"
+				},
+				{
+					"text": "Antibiotics are only available on prescription.",
+					"contextForm": "on prescription"
+				},
+				{
+					"text": "Antibiotics are only available by prescription.",
+					"contextForm": "by prescription"
+				},
+				{
+					"text": "They are not available without a prescription."
+				},
+				{
+					"text": "**prescription drugs/medication(s)**"
+				},
+				{
+					"text": "I just get a repeat prescription every week."
+				},
+				{
+					"text": "She scribbled on her prescription pad and handed me a sheet."
+				},
+				{
+					"text": "the usual prescription for asthma"
+				},
+				{
+					"text": "the rising rate of drug prescriptions for emotional and psychological complaints"
+				}
+			],
+			"topics": ["Healthcare"],
+			"collocations": {
+				"adjective": ["medical", "free", "repeat"],
+				"verb + prescription": ["give somebody", "write", "write out"],
+				"prescription + noun": ["charges", "cost", "benefit"],
+				"preposition": [
+					"by prescription",
+					"on prescription",
+					"without (a) prescription"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "medicine that your doctor has ordered for you",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The pharmacist will make up your prescription."
+				},
+				{
+					"text": "Physicians often underestimate retail prescription costs."
+				},
+				{
+					"text": "The drug will be covered by Medicare's new prescription benefit."
+				},
+				{
+					"text": "The pharmacist dispenses prescriptions for antidepressants."
+				},
+				{
+					"text": "You are entitled to free prescriptions."
+				}
+			],
+			"topics": ["Healthcare"],
+			"collocations": {
+				"adjective": ["medical", "free", "repeat"],
+				"verb + prescription": ["give somebody", "write", "write out"],
+				"prescription + noun": ["charges", "cost", "benefit"],
+				"preposition": [
+					"by prescription",
+					"on prescription",
+					"without (a) prescription"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the act of prescribing medicine",
+			"examples": [
+				{
+					"text": "The prescription of drugs is a doctor's responsibility."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a plan or a suggestion for making something happen or for improving it",
+			"sensetop": "prescription (for something)",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "a prescription for happiness"
+				},
+				{
+					"text": "Both parties will be outlining their prescription for economic recovery."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/prɪˈskrɪpʃn/",
+				"audio": "pr/prescription/prescription__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/prɪˈskrɪpʃn/",
+				"audio": "pr/prescription/prescription__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (as a legal term): via Old French from Latin praescriptio(n-), from the verb praescribere ‘direct in writing’, from prae ‘before’ + scribere ‘write’. Senses (1) to (3) date from the late 16th cent."
 }

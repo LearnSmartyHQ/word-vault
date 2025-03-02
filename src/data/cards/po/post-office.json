@@ -1,60 +1,60 @@
 {
-  "term": "post office",
-  "partOfSpeech": "noun",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a place where you can buy stamps, send letters, etc.",
-      "cefr": "a1",
-      "examples": [
-        {
-          "text": "Where's the main post office?"
-        },
-        {
-          "text": "You can buy your stamps at the post office."
-        },
-        {
-          "text": "a post office counter"
-        }
-      ],
-      "topics": ["Buildings"],
-      "collocations": {
-        "adjective": ["head", "main", "local"],
-        "verb + post office": ["go to"],
-        "post office + noun": ["clerk", "worker", "counter"],
-        "preposition": ["at a/​the post office"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the national organization in many countries that is responsible for collecting and delivering letters, etc.",
-      "cefr": "a1",
-      "examples": [
-        {
-          "text": "He works for the Post Office."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a children’s game in which imaginary letters are exchanged for kisses",
-      "labels": "(North American English)British English",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈpəʊst ɒfɪs/",
-        "audio": "po/post-office/post_office_1_gb_4.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈpəʊst ɑːfɪs/",
-        "audio": "po/post-office/post_office_1_us_4.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "post office",
+	"partOfSpeech": "noun",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a place where you can buy stamps, send letters, etc.",
+			"cefr": "a1",
+			"examples": [
+				{
+					"text": "Where's the main post office?"
+				},
+				{
+					"text": "You can buy your stamps at the post office."
+				},
+				{
+					"text": "a post office counter"
+				}
+			],
+			"topics": ["Buildings"],
+			"collocations": {
+				"adjective": ["head", "main", "local"],
+				"verb + post office": ["go to"],
+				"post office + noun": ["clerk", "worker", "counter"],
+				"preposition": ["at a/​the post office"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the national organization in many countries that is responsible for collecting and delivering letters, etc.",
+			"cefr": "a1",
+			"examples": [
+				{
+					"text": "He works for the Post Office."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a children’s game in which imaginary letters are exchanged for kisses",
+			"labels": "(North American English)British English",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈpəʊst ɒfɪs/",
+				"audio": "po/post-office/post_office_1_gb_4.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈpəʊst ɑːfɪs/",
+				"audio": "po/post-office/post_office_1_us_4.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

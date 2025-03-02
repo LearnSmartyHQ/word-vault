@@ -1,83 +1,83 @@
 {
-  "term": "sandwich",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "two slices of bread, often spread with butter, with a layer of meat, cheese, etc. between them",
-      "labels": "also British English, informal",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a ham/tuna/egg sandwich"
-        },
-        {
-          "text": "a grilled cheese sandwich"
-        },
-        {
-          "text": "a toasted sandwich"
-        },
-        {
-          "text": "a **sandwich bar** *(= a place that sells sandwiches)*"
-        },
-        {
-          "text": "I'm going to grab a sandwich *(= buy one quickly)* and sit in the park."
-        },
-        {
-          "text": "We ate turkey sandwiches and wild blueberries."
-        },
-        {
-          "text": "He made two rounds of tuna sandwiches."
-        },
-        {
-          "text": "What would you like in your sandwich?"
-        },
-        {
-          "text": "a peanut butter and jelly sandwich"
-        },
-        {
-          "text": "I nipped out earlier to buy a sandwich for lunch."
-        }
-      ],
-      "topics": ["Food"],
-      "collocations": {
-        "adjective": ["cheese", "ham", "peanut butter"],
-        "… of sandwiches": ["plate", "round"],
-        "verb + sandwich": ["make", "order", "eat"],
-        "sandwich + noun": ["filling", "bag", "box"],
-        "preposition": ["in a/​the sandwich"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a sponge cake consisting of two layers with jam and/or cream between them",
-      "labels": "(British English)",
-      "examples": [
-        {
-          "text": "a chocolate sponge sandwich"
-        },
-        {
-          "text": "a sandwich tin *(= for baking such a cake in)*"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsænwɪtʃ//ˈsænwɪdʒ/",
-        "audio": "sa/sandwich/sandwich__gb_8.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsænwɪtʃ//ˈsænwɪdʒ/",
-        "audio": "sa/sandwich/sandwich__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 18th cent.: named after the 4th Earl of Sandwich (1718–92), an English nobleman said to have eaten food in this form so as not to leave the gaming table."
+	"term": "sandwich",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "two slices of bread, often spread with butter, with a layer of meat, cheese, etc. between them",
+			"labels": "also British English, informal",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a ham/tuna/egg sandwich"
+				},
+				{
+					"text": "a grilled cheese sandwich"
+				},
+				{
+					"text": "a toasted sandwich"
+				},
+				{
+					"text": "a **sandwich bar** *(= a place that sells sandwiches)*"
+				},
+				{
+					"text": "I'm going to grab a sandwich *(= buy one quickly)* and sit in the park."
+				},
+				{
+					"text": "We ate turkey sandwiches and wild blueberries."
+				},
+				{
+					"text": "He made two rounds of tuna sandwiches."
+				},
+				{
+					"text": "What would you like in your sandwich?"
+				},
+				{
+					"text": "a peanut butter and jelly sandwich"
+				},
+				{
+					"text": "I nipped out earlier to buy a sandwich for lunch."
+				}
+			],
+			"topics": ["Food"],
+			"collocations": {
+				"adjective": ["cheese", "ham", "peanut butter"],
+				"… of sandwiches": ["plate", "round"],
+				"verb + sandwich": ["make", "order", "eat"],
+				"sandwich + noun": ["filling", "bag", "box"],
+				"preposition": ["in a/​the sandwich"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a sponge cake consisting of two layers with jam and/or cream between them",
+			"labels": "(British English)",
+			"examples": [
+				{
+					"text": "a chocolate sponge sandwich"
+				},
+				{
+					"text": "a sandwich tin *(= for baking such a cake in)*"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsænwɪtʃ//ˈsænwɪdʒ/",
+				"audio": "sa/sandwich/sandwich__gb_8.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsænwɪtʃ//ˈsænwɪdʒ/",
+				"audio": "sa/sandwich/sandwich__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 18th cent.: named after the 4th Earl of Sandwich (1718–92), an English nobleman said to have eaten food in this form so as not to leave the gaming table."
 }

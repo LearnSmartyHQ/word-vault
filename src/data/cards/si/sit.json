@@ -1,380 +1,380 @@
 {
-  "term": "sit",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "sit",
-      "heSheIt": "sits"
-    },
-    "pastSimple": "sat",
-    "pastParticiple": "sat",
-    "ingForm": "sitting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to rest your weight on your bottom with your back straight, for example on/in a chair",
-      "sensetop": "+ adv./prep.sit doing something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She sat and stared at the letter in front of her."
-        },
-        {
-          "text": "May I sit here?",
-          "contextForm": "+ adv./prep."
-        },
-        {
-          "text": "Don't just sit there—do something!"
-        },
-        {
-          "text": "Just **sit still!**"
-        },
-        {
-          "text": "He went and sat beside her."
-        },
-        {
-          "text": "the man who had sat next to me on the plane"
-        },
-        {
-          "text": "She was sitting at her desk."
-        },
-        {
-          "text": "She always sits in that chair."
-        },
-        {
-          "text": "Four people sat around the table."
-        },
-        {
-          "text": "It’s too cold to **sit outside**."
-        },
-        {
-          "text": "The children were all **sitting quietly** and listening."
-        },
-        {
-          "text": "Make sure you are **sitting comfortably**, with your back straight and supported."
-        },
-        {
-          "text": "She came over to talk to us, leaving him **sitting alone**."
-        },
-        {
-          "text": "We asked the waiter for a bigger table so that we could all **sit together**."
-        },
-        {
-          "text": "He **just sits** there **watching** the television.",
-          "contextForm": "sit doing something"
-        },
-        {
-          "text": "We sat talking for hours."
-        },
-        {
-          "text": "I **sat waiting** for the soloist to walk onto the stage."
-        },
-        {
-          "text": "Elmer was happily sitting in his high chair."
-        },
-        {
-          "text": "He sat bolt upright, hands folded in front of him."
-        },
-        {
-          "text": "He was sitting against the wall."
-        },
-        {
-          "text": "He would sit quietly and watch what was happening."
-        },
-        {
-          "text": "She sat demurely on the edge of her chair."
-        },
-        {
-          "text": "She sat under an apple tree."
-        },
-        {
-          "text": "She was sitting astride a horse."
-        },
-        {
-          "text": "The children sat cross-legged on the floor."
-        },
-        {
-          "text": "The manager sat behind his desk."
-        },
-        {
-          "text": "They sat opposite each other."
-        },
-        {
-          "text": "The kids sat around a campfire."
-        },
-        {
-          "text": "We sat at a table in the corner."
-        },
-        {
-          "text": "We sat in silence for a few moments."
-        },
-        {
-          "text": "We reached the hospital and were told to sit in the waiting room."
-        },
-        {
-          "text": "I can't just sit in front of the computer for hours."
-        },
-        {
-          "text": "He was sitting on the couch with a book when I got home."
-        },
-        {
-          "text": "She noticed the older man sitting across from her."
-        }
-      ],
-      "collocations": {
-        "adverb": ["motionless", "still", "quietly"],
-        "verb + sit": [
-          "let somebody",
-          "gesture for somebody to",
-          "gesture to somebody to"
-        ],
-        "preposition": ["against", "around", "astride"],
-        "phrases": ["a place to sit", "sit down (with somebody)", "sit and…"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to put somebody in a sitting position",
-      "sensetop": "sit somebody + adv./prep.",
-      "examples": [
-        {
-          "text": "He lifted the child and sat her on the wall."
-        },
-        {
-          "text": "She sat him down in front of the fire with a hot drink."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to be in a particular place",
-      "sensetop": "+ adv./prep.+ adj.",
-      "examples": [
-        {
-          "text": "A large bus was sitting outside.",
-          "contextForm": "+ adv./prep."
-        },
-        {
-          "text": "The pot was sitting in a pool of water."
-        },
-        {
-          "text": "I have an exercise bike just sitting at home not being used."
-        },
-        {
-          "text": "The jacket sat beautifully on her shoulders *(= fitted well)*."
-        },
-        {
-          "text": "The box sat unopened on the shelf.",
-          "contextForm": "+ adj."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to have an official position as something or as a member of something",
-      "sensetop": "sit as somethingsit in/on somethingsit for something",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "He was sitting as a temporary judge.",
-          "contextForm": "sit as something"
-        },
-        {
-          "text": "They both sat as MPs in the House of Commons."
-        },
-        {
-          "text": "She sat on a number of committees.",
-          "contextForm": "sit in/on something"
-        },
-        {
-          "text": "For years he sat for Henley *(= was the MP for that ).",
-          "contextForm": "sit for something"
-        }
-      ],
-      "topics": ["Politics"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to meet in order to do official business",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "Parliament sits for less than six months of the year."
-        }
-      ],
-      "topics": ["Politics"]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to do an exam",
-      "sensetop": "sit somethingsit for something",
-      "labels": "(rather formal)(British English)(especially North American English)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "Candidates will sit the examinations in June.",
-          "contextForm": "sit something"
-        },
-        {
-          "text": "Most of the students sit at least 5 GCSEs."
-        },
-        {
-          "text": "He was about to sit for his entrance exam.",
-          "contextForm": "sit for something"
-        }
-      ],
-      "topics": ["Education"]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to rest on a branch, etc. or to stay on a nest to keep the eggs warm",
-      "sensetop": "(+ adv./prep.)",
-      "examples": []
-    },
-    {
-      "senseNumber": 8,
-      "definition": "to sit on its bottom with its front legs straight",
-      "examples": [
-        {
-          "text": "Rover! Sit!"
-        }
-      ]
-    },
-    {
-      "senseNumber": 9,
-      "definition": "to take care of babies or children for a short time while their parents are out",
-      "sensetop": "sit (for somebody)",
-      "labels": "(especially North American English)British and North American English",
-      "examples": [
-        {
-          "text": "Who's sitting for you?"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be in a good situation, especially when others are not",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "With profits at record levels, the company’s certainly sitting pretty this year."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to feel so satisfied with what you have already achieved that you do not try to do any more",
-      "labels": "(usually disapproving)",
-      "examples": [],
-      "topics": ["Success"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to admire somebody very much, especially a teacher or somebody that you try to learn from",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to sit or stand with your back straight",
-      "examples": [],
-      "topics": ["Appearance"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to seem right, natural, suitable, etc. in a particular place or situation",
-      "examples": [
-        {
-          "text": "His views did not sit comfortably with the management line."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to decide whether somebody’s behaviour is right or wrong, especially when you have no right to do this",
-      "examples": [
-        {
-          "text": "How dare you sit in judgement on me?"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to avoid becoming involved in deciding or influencing something",
-      "examples": [
-        {
-          "text": "He tends to sit on the fence at meetings."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to do or say nothing to help somebody or deal with a difficult situation",
-      "examples": [
-        {
-          "text": "We can’t sit silently by and let them arrest him!"
-        }
-      ]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to stay where you are rather than moving away or changing position",
-      "examples": [
-        {
-          "text": "We sat tight and waited to be rescued."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to stay in the same situation, without changing your mind or taking any action",
-      "examples": [
-        {
-          "text": "Shareholders are being advised to sit tight until the crisis passes."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/sɪt/",
-        "audio": "si/sit/sit__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/sɪts/",
-        "audio": "si/sit/sits__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/sæt/",
-        "audio": "sa/sit/sat__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsɪtɪŋ/",
-        "audio": "si/sit/sitting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/sɪt/",
-        "audio": "si/sit/sit__us_1.mp3"
-      },
-      {
-        "pronunciation": "/sɪts/",
-        "audio": "si/sit/sits__us_1.mp3"
-      },
-      {
-        "pronunciation": "/sæt/",
-        "audio": "sa/sit/sat__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsɪtɪŋ/",
-        "audio": "si/sit/sitting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English sittan, of Germanic origin; related to Dutch zitten, German sitzen, from an Indo-European root shared by Latin sedere and Greek hezesthai."
+	"term": "sit",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "sit",
+			"heSheIt": "sits"
+		},
+		"pastSimple": "sat",
+		"pastParticiple": "sat",
+		"ingForm": "sitting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to rest your weight on your bottom with your back straight, for example on/in a chair",
+			"sensetop": "+ adv./prep.sit doing something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She sat and stared at the letter in front of her."
+				},
+				{
+					"text": "May I sit here?",
+					"contextForm": "+ adv./prep."
+				},
+				{
+					"text": "Don't just sit there—do something!"
+				},
+				{
+					"text": "Just **sit still!**"
+				},
+				{
+					"text": "He went and sat beside her."
+				},
+				{
+					"text": "the man who had sat next to me on the plane"
+				},
+				{
+					"text": "She was sitting at her desk."
+				},
+				{
+					"text": "She always sits in that chair."
+				},
+				{
+					"text": "Four people sat around the table."
+				},
+				{
+					"text": "It’s too cold to **sit outside**."
+				},
+				{
+					"text": "The children were all **sitting quietly** and listening."
+				},
+				{
+					"text": "Make sure you are **sitting comfortably**, with your back straight and supported."
+				},
+				{
+					"text": "She came over to talk to us, leaving him **sitting alone**."
+				},
+				{
+					"text": "We asked the waiter for a bigger table so that we could all **sit together**."
+				},
+				{
+					"text": "He **just sits** there **watching** the television.",
+					"contextForm": "sit doing something"
+				},
+				{
+					"text": "We sat talking for hours."
+				},
+				{
+					"text": "I **sat waiting** for the soloist to walk onto the stage."
+				},
+				{
+					"text": "Elmer was happily sitting in his high chair."
+				},
+				{
+					"text": "He sat bolt upright, hands folded in front of him."
+				},
+				{
+					"text": "He was sitting against the wall."
+				},
+				{
+					"text": "He would sit quietly and watch what was happening."
+				},
+				{
+					"text": "She sat demurely on the edge of her chair."
+				},
+				{
+					"text": "She sat under an apple tree."
+				},
+				{
+					"text": "She was sitting astride a horse."
+				},
+				{
+					"text": "The children sat cross-legged on the floor."
+				},
+				{
+					"text": "The manager sat behind his desk."
+				},
+				{
+					"text": "They sat opposite each other."
+				},
+				{
+					"text": "The kids sat around a campfire."
+				},
+				{
+					"text": "We sat at a table in the corner."
+				},
+				{
+					"text": "We sat in silence for a few moments."
+				},
+				{
+					"text": "We reached the hospital and were told to sit in the waiting room."
+				},
+				{
+					"text": "I can't just sit in front of the computer for hours."
+				},
+				{
+					"text": "He was sitting on the couch with a book when I got home."
+				},
+				{
+					"text": "She noticed the older man sitting across from her."
+				}
+			],
+			"collocations": {
+				"adverb": ["motionless", "still", "quietly"],
+				"verb + sit": [
+					"let somebody",
+					"gesture for somebody to",
+					"gesture to somebody to"
+				],
+				"preposition": ["against", "around", "astride"],
+				"phrases": ["a place to sit", "sit down (with somebody)", "sit and…"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to put somebody in a sitting position",
+			"sensetop": "sit somebody + adv./prep.",
+			"examples": [
+				{
+					"text": "He lifted the child and sat her on the wall."
+				},
+				{
+					"text": "She sat him down in front of the fire with a hot drink."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to be in a particular place",
+			"sensetop": "+ adv./prep.+ adj.",
+			"examples": [
+				{
+					"text": "A large bus was sitting outside.",
+					"contextForm": "+ adv./prep."
+				},
+				{
+					"text": "The pot was sitting in a pool of water."
+				},
+				{
+					"text": "I have an exercise bike just sitting at home not being used."
+				},
+				{
+					"text": "The jacket sat beautifully on her shoulders *(= fitted well)*."
+				},
+				{
+					"text": "The box sat unopened on the shelf.",
+					"contextForm": "+ adj."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to have an official position as something or as a member of something",
+			"sensetop": "sit as somethingsit in/on somethingsit for something",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "He was sitting as a temporary judge.",
+					"contextForm": "sit as something"
+				},
+				{
+					"text": "They both sat as MPs in the House of Commons."
+				},
+				{
+					"text": "She sat on a number of committees.",
+					"contextForm": "sit in/on something"
+				},
+				{
+					"text": "For years he sat for Henley *(= was the MP for that ).",
+					"contextForm": "sit for something"
+				}
+			],
+			"topics": ["Politics"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to meet in order to do official business",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "Parliament sits for less than six months of the year."
+				}
+			],
+			"topics": ["Politics"]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to do an exam",
+			"sensetop": "sit somethingsit for something",
+			"labels": "(rather formal)(British English)(especially North American English)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "Candidates will sit the examinations in June.",
+					"contextForm": "sit something"
+				},
+				{
+					"text": "Most of the students sit at least 5 GCSEs."
+				},
+				{
+					"text": "He was about to sit for his entrance exam.",
+					"contextForm": "sit for something"
+				}
+			],
+			"topics": ["Education"]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to rest on a branch, etc. or to stay on a nest to keep the eggs warm",
+			"sensetop": "(+ adv./prep.)",
+			"examples": []
+		},
+		{
+			"senseNumber": 8,
+			"definition": "to sit on its bottom with its front legs straight",
+			"examples": [
+				{
+					"text": "Rover! Sit!"
+				}
+			]
+		},
+		{
+			"senseNumber": 9,
+			"definition": "to take care of babies or children for a short time while their parents are out",
+			"sensetop": "sit (for somebody)",
+			"labels": "(especially North American English)British and North American English",
+			"examples": [
+				{
+					"text": "Who's sitting for you?"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be in a good situation, especially when others are not",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "With profits at record levels, the company’s certainly sitting pretty this year."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to feel so satisfied with what you have already achieved that you do not try to do any more",
+			"labels": "(usually disapproving)",
+			"examples": [],
+			"topics": ["Success"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to admire somebody very much, especially a teacher or somebody that you try to learn from",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to sit or stand with your back straight",
+			"examples": [],
+			"topics": ["Appearance"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to seem right, natural, suitable, etc. in a particular place or situation",
+			"examples": [
+				{
+					"text": "His views did not sit comfortably with the management line."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to decide whether somebody’s behaviour is right or wrong, especially when you have no right to do this",
+			"examples": [
+				{
+					"text": "How dare you sit in judgement on me?"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to avoid becoming involved in deciding or influencing something",
+			"examples": [
+				{
+					"text": "He tends to sit on the fence at meetings."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to do or say nothing to help somebody or deal with a difficult situation",
+			"examples": [
+				{
+					"text": "We can’t sit silently by and let them arrest him!"
+				}
+			]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to stay where you are rather than moving away or changing position",
+			"examples": [
+				{
+					"text": "We sat tight and waited to be rescued."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to stay in the same situation, without changing your mind or taking any action",
+			"examples": [
+				{
+					"text": "Shareholders are being advised to sit tight until the crisis passes."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/sɪt/",
+				"audio": "si/sit/sit__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/sɪts/",
+				"audio": "si/sit/sits__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/sæt/",
+				"audio": "sa/sit/sat__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsɪtɪŋ/",
+				"audio": "si/sit/sitting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/sɪt/",
+				"audio": "si/sit/sit__us_1.mp3"
+			},
+			{
+				"pronunciation": "/sɪts/",
+				"audio": "si/sit/sits__us_1.mp3"
+			},
+			{
+				"pronunciation": "/sæt/",
+				"audio": "sa/sit/sat__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsɪtɪŋ/",
+				"audio": "si/sit/sitting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English sittan, of Germanic origin; related to Dutch zitten, German sitzen, from an Indo-European root shared by Latin sedere and Greek hezesthai."
 }

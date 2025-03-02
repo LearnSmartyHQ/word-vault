@@ -1,79 +1,79 @@
 {
-  "term": "factory",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "image": "data/images/bu/buildings.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a building or group of buildings where goods are made, mainly by machine",
-      "sensetop": "in/at a factory",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a car factory"
-        },
-        {
-          "text": "The factory closed down ten years ago."
-        },
-        {
-          "text": "She works in the local textile factory.",
-          "contextForm": "in/at a factory"
-        },
-        {
-          "text": "**factory workers**"
-        },
-        {
-          "text": "He works in a shoe factory."
-        },
-        {
-          "text": "They had to close the factory down in the recession."
-        },
-        {
-          "text": "capital to set up a ceramics factory"
-        },
-        {
-          "text": "a chocolate/​clothing/​soap factory"
-        }
-      ],
-      "topics": ["Buildings", "Business"],
-      "collocations": {
-        "adjective": ["large", "small", "modern"],
-        "verb + factory": ["build", "open", "set up"],
-        "factory + verb": ["make something", "produce something", "open"],
-        "factory + noun": ["manager", "owner", "worker"],
-        "preposition": ["at factory", "in factory"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person or organization that continuously produces a large quantity of a particular thing",
-      "labels": "(disapproving)",
-      "examples": [
-        {
-          "text": "This record label has become a real hit factory *(= one that produces a lot of successful songs)*."
-        },
-        {
-          "text": "These universities are becoming colourless degree factories, with no sense of what higher learning is really about."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈfæktri//ˈfæktəri/",
-        "audio": "fa/factory/factory__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈfæktri//ˈfæktəri/",
-        "audio": "fa/factory/factory__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent. (originally referring to a place where traders did business in a foreign country): via Portuguese feitoria. The current sense is based on late Latin factorium, literally ‘oil press’."
+	"term": "factory",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"image": "data/images/bu/buildings.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a building or group of buildings where goods are made, mainly by machine",
+			"sensetop": "in/at a factory",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a car factory"
+				},
+				{
+					"text": "The factory closed down ten years ago."
+				},
+				{
+					"text": "She works in the local textile factory.",
+					"contextForm": "in/at a factory"
+				},
+				{
+					"text": "**factory workers**"
+				},
+				{
+					"text": "He works in a shoe factory."
+				},
+				{
+					"text": "They had to close the factory down in the recession."
+				},
+				{
+					"text": "capital to set up a ceramics factory"
+				},
+				{
+					"text": "a chocolate/​clothing/​soap factory"
+				}
+			],
+			"topics": ["Buildings", "Business"],
+			"collocations": {
+				"adjective": ["large", "small", "modern"],
+				"verb + factory": ["build", "open", "set up"],
+				"factory + verb": ["make something", "produce something", "open"],
+				"factory + noun": ["manager", "owner", "worker"],
+				"preposition": ["at factory", "in factory"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person or organization that continuously produces a large quantity of a particular thing",
+			"labels": "(disapproving)",
+			"examples": [
+				{
+					"text": "This record label has become a real hit factory *(= one that produces a lot of successful songs)*."
+				},
+				{
+					"text": "These universities are becoming colourless degree factories, with no sense of what higher learning is really about."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈfæktri//ˈfæktəri/",
+				"audio": "fa/factory/factory__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈfæktri//ˈfæktəri/",
+				"audio": "fa/factory/factory__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent. (originally referring to a place where traders did business in a foreign country): via Portuguese feitoria. The current sense is based on late Latin factorium, literally ‘oil press’."
 }

@@ -1,120 +1,120 @@
 {
-  "term": "displace",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "displace",
-      "heSheIt": "displaces"
-    },
-    "pastSimple": "displaced",
-    "pastParticiple": "displaced",
-    "ingForm": "displacing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to take the place of somebody/something",
-      "sensetop": "be displaced (by somebody/something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Gradually factory workers have been displaced by machines.",
-          "contextForm": "be displaced (by somebody/something)"
-        }
-      ],
-      "synonyms": "replace"
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to force people to move away from their home to another place",
-      "sensetop": "be displaced (by something)displace somebody",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Around 10 000 people have been displaced by the fighting.",
-          "contextForm": "be displaced (by something)"
-        },
-        {
-          "text": "If the dam is built it will displace 100 000 people.",
-          "contextForm": "displace somebody"
-        }
-      ],
-      "topics": ["Social issues"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to move something from its usual position",
-      "sensetop": "be displaced (by something)",
-      "examples": [
-        {
-          "text": "Check for roof tiles that have been displaced by the wind.",
-          "contextForm": "be displaced (by something)"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to remove somebody from a job or position",
-      "sensetop": "displace somebody",
-      "labels": "(especially North American English)",
-      "examples": [
-        {
-          "text": "displaced workers"
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to take the place of an amount of liquid when put or floating in it, used as a way of measuring size",
-      "sensetop": "displace something",
-      "labels": "(physics)",
-      "examples": [
-        {
-          "text": "The ship displaces 58 000 tonnes."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/dɪsˈpleɪs/",
-        "audio": "di/displace/displace__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪsˈpleɪsɪz/",
-        "audio": "di/displace/displaces__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪsˈpleɪst/",
-        "audio": "di/displace/displaced__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪsˈpleɪsɪŋ/",
-        "audio": "di/displace/displacing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/dɪsˈpleɪs/",
-        "audio": "di/displace/displace__us_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪsˈpleɪsɪz/",
-        "audio": "di/displace/displaces__us_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪsˈpleɪst/",
-        "audio": "di/displace/displaced__us_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪsˈpleɪsɪŋ/",
-        "audio": "di/displace/displacing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent.: from Old French desplacer."
+	"term": "displace",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "displace",
+			"heSheIt": "displaces"
+		},
+		"pastSimple": "displaced",
+		"pastParticiple": "displaced",
+		"ingForm": "displacing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to take the place of somebody/something",
+			"sensetop": "be displaced (by somebody/something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Gradually factory workers have been displaced by machines.",
+					"contextForm": "be displaced (by somebody/something)"
+				}
+			],
+			"synonyms": "replace"
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to force people to move away from their home to another place",
+			"sensetop": "be displaced (by something)displace somebody",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Around 10 000 people have been displaced by the fighting.",
+					"contextForm": "be displaced (by something)"
+				},
+				{
+					"text": "If the dam is built it will displace 100 000 people.",
+					"contextForm": "displace somebody"
+				}
+			],
+			"topics": ["Social issues"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to move something from its usual position",
+			"sensetop": "be displaced (by something)",
+			"examples": [
+				{
+					"text": "Check for roof tiles that have been displaced by the wind.",
+					"contextForm": "be displaced (by something)"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to remove somebody from a job or position",
+			"sensetop": "displace somebody",
+			"labels": "(especially North American English)",
+			"examples": [
+				{
+					"text": "displaced workers"
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to take the place of an amount of liquid when put or floating in it, used as a way of measuring size",
+			"sensetop": "displace something",
+			"labels": "(physics)",
+			"examples": [
+				{
+					"text": "The ship displaces 58 000 tonnes."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/dɪsˈpleɪs/",
+				"audio": "di/displace/displace__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪsˈpleɪsɪz/",
+				"audio": "di/displace/displaces__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪsˈpleɪst/",
+				"audio": "di/displace/displaced__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪsˈpleɪsɪŋ/",
+				"audio": "di/displace/displacing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/dɪsˈpleɪs/",
+				"audio": "di/displace/displace__us_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪsˈpleɪsɪz/",
+				"audio": "di/displace/displaces__us_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪsˈpleɪst/",
+				"audio": "di/displace/displaced__us_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪsˈpleɪsɪŋ/",
+				"audio": "di/displace/displacing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent.: from Old French desplacer."
 }

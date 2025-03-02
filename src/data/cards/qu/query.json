@@ -1,66 +1,66 @@
 {
-  "term": "query",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a question, especially one asking for information or expressing a doubt about something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Our assistants will be happy to answer your queries."
-        },
-        {
-          "text": "If you have a query about your insurance policy, contact our helpline."
-        },
-        {
-          "text": "I posted my query on the website and got an immediate reply."
-        },
-        {
-          "text": "I've a query to put to the last speaker."
-        },
-        {
-          "text": "We had queries from people all over the country."
-        },
-        {
-          "text": "We regret that we cannot deal with queries on individual cases."
-        },
-        {
-          "text": "Have you any queries about what you're supposed to do?"
-        }
-      ],
-      "collocations": {
-        "adjective": ["customer", "email", "search"],
-        "verb + query": ["have", "raise", "email"],
-        "preposition": ["query about", "query as to", "query concerning"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a question mark to show that something has not been finished or decided",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Put a query against Jack's name—I'm not sure if he's coming."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkwɪəri/",
-        "audio": "qu/query/query__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkwɪri/",
-        "audio": "qu/query/query__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 17th cent.: anglicized form of the Latin imperative quaere!, used in the 16th cent. in English as a verb in the sense ‘inquire’ and as a noun meaning ‘query’, from Latin quaerere ‘ask, seek’."
+	"term": "query",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a question, especially one asking for information or expressing a doubt about something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Our assistants will be happy to answer your queries."
+				},
+				{
+					"text": "If you have a query about your insurance policy, contact our helpline."
+				},
+				{
+					"text": "I posted my query on the website and got an immediate reply."
+				},
+				{
+					"text": "I've a query to put to the last speaker."
+				},
+				{
+					"text": "We had queries from people all over the country."
+				},
+				{
+					"text": "We regret that we cannot deal with queries on individual cases."
+				},
+				{
+					"text": "Have you any queries about what you're supposed to do?"
+				}
+			],
+			"collocations": {
+				"adjective": ["customer", "email", "search"],
+				"verb + query": ["have", "raise", "email"],
+				"preposition": ["query about", "query as to", "query concerning"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a question mark to show that something has not been finished or decided",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Put a query against Jack's name—I'm not sure if he's coming."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkwɪəri/",
+				"audio": "qu/query/query__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkwɪri/",
+				"audio": "qu/query/query__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 17th cent.: anglicized form of the Latin imperative quaere!, used in the 16th cent. in English as a verb in the sense ‘inquire’ and as a noun meaning ‘query’, from Latin quaerere ‘ask, seek’."
 }

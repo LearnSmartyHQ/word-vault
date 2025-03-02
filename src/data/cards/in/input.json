@@ -1,156 +1,156 @@
 {
-  "term": "input",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "time, knowledge, ideas, etc. that you put into work, a project, etc. in order to make it succeed; the act of putting something in",
-      "sensetop": "input into somethinginput to somethinginput of somethinginput of something into something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "I'd appreciate your input on this."
-        },
-        {
-          "text": "They all had some input into the discussion.",
-          "contextForm": "input into something"
-        },
-        {
-          "text": "Barley is one of the main inputs to the process of distillation.",
-          "contextForm": "input to something"
-        },
-        {
-          "text": "Growing anything in this soil will require heavy inputs of nutrients.",
-          "contextForm": "input of something"
-        },
-        {
-          "text": "There has been a big input of resources into the project from industry.",
-          "contextForm": "input of something into something"
-        },
-        {
-          "text": "I have no creative input to the projects I work on."
-        },
-        {
-          "text": "If you have ideas for improvements, your input is always appreciated."
-        },
-        {
-          "text": "Once running, the system requires very little input."
-        },
-        {
-          "text": "The report contains a substantial input by the police."
-        },
-        {
-          "text": "The union would like more input on redundancies."
-        },
-        {
-          "text": "We actively solicit input from our users."
-        },
-        {
-          "text": "We have made some adjustments based on user input."
-        },
-        {
-          "text": "an additional input to market analysis"
-        },
-        {
-          "text": "constructive criticism which provided an input into the school's decision-making process"
-        },
-        {
-          "text": "her input into the survey"
-        },
-        {
-          "text": "input from various interested parties"
-        },
-        {
-          "text": "I'd appreciate your input on this."
-        }
-      ],
-      "collocations": {
-        "adjective": ["great", "important", "major"],
-        "verb + input": ["have", "need", "require"],
-        "preposition": ["input by", "input from", "input in"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the act of putting information into a computer; the information that you put in",
-      "sensetop": "input from something",
-      "labels": "(computing)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "data input"
-        },
-        {
-          "text": "The software will accept input from a variety of other programs.",
-          "contextForm": "input from something"
-        },
-        {
-          "text": "Decision tables can be used as computer input."
-        },
-        {
-          "text": "Early computers required input in the form of punched cards."
-        },
-        {
-          "text": "It may be beyond the capability of the hardware to process the input."
-        },
-        {
-          "text": "The cursor is positioned on the first input field of the page."
-        },
-        {
-          "text": "an input device such as a keyboard"
-        },
-        {
-          "text": "input to a computer database"
-        },
-        {
-          "text": "There's the socket for audio input."
-        },
-        {
-          "text": "input from a mouse"
-        }
-      ],
-      "topics": ["Computers"],
-      "collocations": {
-        "adjective": ["data", "user", "keyboard"],
-        "verb + input": ["require", "accept", "process"],
-        "input + noun": ["data", "file", "field"],
-        "preposition": ["input for", "input from", "input to"],
-        "phrases": ["input and output"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a place or means for electricity, data, etc. to enter a machine or system",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "an input lead"
-        },
-        {
-          "text": "Where is the audio input on the computer?"
-        },
-        {
-          "text": "inputs for the printers"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈɪnpʊt/",
-        "audio": "in/input/input__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈɪnpʊt/",
-        "audio": "in/input/input__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "input",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "time, knowledge, ideas, etc. that you put into work, a project, etc. in order to make it succeed; the act of putting something in",
+			"sensetop": "input into somethinginput to somethinginput of somethinginput of something into something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "I'd appreciate your input on this."
+				},
+				{
+					"text": "They all had some input into the discussion.",
+					"contextForm": "input into something"
+				},
+				{
+					"text": "Barley is one of the main inputs to the process of distillation.",
+					"contextForm": "input to something"
+				},
+				{
+					"text": "Growing anything in this soil will require heavy inputs of nutrients.",
+					"contextForm": "input of something"
+				},
+				{
+					"text": "There has been a big input of resources into the project from industry.",
+					"contextForm": "input of something into something"
+				},
+				{
+					"text": "I have no creative input to the projects I work on."
+				},
+				{
+					"text": "If you have ideas for improvements, your input is always appreciated."
+				},
+				{
+					"text": "Once running, the system requires very little input."
+				},
+				{
+					"text": "The report contains a substantial input by the police."
+				},
+				{
+					"text": "The union would like more input on redundancies."
+				},
+				{
+					"text": "We actively solicit input from our users."
+				},
+				{
+					"text": "We have made some adjustments based on user input."
+				},
+				{
+					"text": "an additional input to market analysis"
+				},
+				{
+					"text": "constructive criticism which provided an input into the school's decision-making process"
+				},
+				{
+					"text": "her input into the survey"
+				},
+				{
+					"text": "input from various interested parties"
+				},
+				{
+					"text": "I'd appreciate your input on this."
+				}
+			],
+			"collocations": {
+				"adjective": ["great", "important", "major"],
+				"verb + input": ["have", "need", "require"],
+				"preposition": ["input by", "input from", "input in"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the act of putting information into a computer; the information that you put in",
+			"sensetop": "input from something",
+			"labels": "(computing)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "data input"
+				},
+				{
+					"text": "The software will accept input from a variety of other programs.",
+					"contextForm": "input from something"
+				},
+				{
+					"text": "Decision tables can be used as computer input."
+				},
+				{
+					"text": "Early computers required input in the form of punched cards."
+				},
+				{
+					"text": "It may be beyond the capability of the hardware to process the input."
+				},
+				{
+					"text": "The cursor is positioned on the first input field of the page."
+				},
+				{
+					"text": "an input device such as a keyboard"
+				},
+				{
+					"text": "input to a computer database"
+				},
+				{
+					"text": "There's the socket for audio input."
+				},
+				{
+					"text": "input from a mouse"
+				}
+			],
+			"topics": ["Computers"],
+			"collocations": {
+				"adjective": ["data", "user", "keyboard"],
+				"verb + input": ["require", "accept", "process"],
+				"input + noun": ["data", "file", "field"],
+				"preposition": ["input for", "input from", "input to"],
+				"phrases": ["input and output"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a place or means for electricity, data, etc. to enter a machine or system",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "an input lead"
+				},
+				{
+					"text": "Where is the audio input on the computer?"
+				},
+				{
+					"text": "inputs for the printers"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈɪnpʊt/",
+				"audio": "in/input/input__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈɪnpʊt/",
+				"audio": "in/input/input__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

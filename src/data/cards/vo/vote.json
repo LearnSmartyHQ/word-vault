@@ -1,281 +1,281 @@
 {
-  "term": "vote",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a formal choice that you make in an election or at a meeting in order to choose somebody or decide something",
-      "sensetop": "vote for/against somebody/something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **win/lose votes**"
-        },
-        {
-          "text": "You can **cast your vote** at the local polling station."
-        },
-        {
-          "text": "He took 53% of the votes in the election."
-        },
-        {
-          "text": "They've started opening the ballot boxes and **counting the votes**."
-        },
-        {
-          "text": "No candidate gained a **majority of the votes** in the first round."
-        },
-        {
-          "text": "The Tory candidate received only 4203 votes."
-        },
-        {
-          "text": "There were 21 votes for and 17 against the motion, with 2 abstentions.",
-          "contextForm": "vote for/against somebody/something"
-        },
-        {
-          "text": "The motion was passed by 6 votes to 3."
-        },
-        {
-          "text": "The Green candidate won over 3 000 of the 14 000 **votes cast**."
-        },
-        {
-          "text": "Everyone's vote counts."
-        },
-        {
-          "text": "The chairperson has the deciding vote."
-        },
-        {
-          "text": "It's a cynical attempt to get votes at the next election."
-        },
-        {
-          "text": "They do not yet have the votes needed to pass the bill."
-        },
-        {
-          "text": "The party received its lowest number of votes since 1935."
-        },
-        {
-          "text": "He won the seat thanks to Polish block votes."
-        },
-        {
-          "text": "My vote will go to the party that addresses crime."
-        },
-        {
-          "text": "The bill was passed by a single vote."
-        },
-        {
-          "text": "They want to persuade voters to change their vote."
-        },
-        {
-          "text": "Votes are still being counted."
-        },
-        {
-          "text": "Mr Olsen was approved by a vote of 51–47."
-        },
-        {
-          "text": "a vote for the government"
-        },
-        {
-          "text": "an overwhelming vote in favour of autonomy"
-        },
-        {
-          "text": "factors that could swing the vote against the president"
-        }
-      ],
-      "topics": ["Politics", "Preferences and decisions"],
-      "collocations": {
-        "adjective": ["electoral", "majority", "huge"],
-        "verb + vote": ["have", "hold", "put something to the"],
-        "vote + verb": ["go to somebody/​something", "fall", "increase"],
-        "preposition": ["by vote", "vote against", "vote for"],
-        "phrases": [
-          "change your vote",
-          "force a vote (on something)",
-          "a vote of confidence"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an occasion when a group of people vote on something",
-      "sensetop": "vote on somethingvote in favour of somethingvote to do something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **win/lose a vote**"
-        },
-        {
-          "text": "to **have/take/hold a vote** on an issue",
-          "contextForm": "vote on something"
-        },
-        {
-          "text": "We saw today a decisive vote in favour of *(= for)* industrial action.",
-          "contextForm": "vote in favour of something"
-        },
-        {
-          "text": "The issue was **put to the vote**."
-        },
-        {
-          "text": "The vote was unanimous."
-        },
-        {
-          "text": "He called on the government to delay the vote to authorize military action.",
-          "contextForm": "vote to do something"
-        },
-        {
-          "text": "Decisions have to be ratified by a **majority vote**."
-        },
-        {
-          "text": "They took a vote on who should be their new leader."
-        },
-        {
-          "text": "I think it's time to put this issue to the vote."
-        },
-        {
-          "text": "When will we know the outcome of the vote?"
-        },
-        {
-          "text": "We should put the resolution to the vote."
-        },
-        {
-          "text": "We took a quick vote to decide on a leader."
-        },
-        {
-          "text": "Let's take a vote on the issue."
-        },
-        {
-          "text": "Any senator can force a vote on virtually any proposal."
-        },
-        {
-          "text": "Members are elected by direct vote."
-        },
-        {
-          "text": "Members of Parliament will have a free vote on this bill."
-        },
-        {
-          "text": "The law was ratified by popular vote."
-        },
-        {
-          "text": "a vote on the new law"
-        }
-      ],
-      "collocations": {
-        "adjective": ["electoral", "majority", "huge"],
-        "verb + vote": ["have", "hold", "put something to the"],
-        "vote + verb": ["go to somebody/​something", "fall", "increase"],
-        "preposition": ["by vote", "vote against", "vote for"],
-        "phrases": [
-          "change your vote",
-          "force a vote (on something)",
-          "a vote of confidence"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the right to vote, especially in political elections",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "In Britain and the US, people **get the vote** at 18."
-        },
-        {
-          "text": "How many years is it since women have had the vote?"
-        },
-        {
-          "text": "legislation to **give** prisoners the **vote**"
-        }
-      ],
-      "topics": ["Politics"],
-      "collocations": {
-        "verb + the vote": ["have", "get", "give somebody"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the total number of votes in an election",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She obtained 40% of the vote."
-        },
-        {
-          "text": "The party increased their **share of the vote**."
-        },
-        {
-          "text": "Our candidate polled only 10% of the vote."
-        },
-        {
-          "text": "The party's vote fell by 6%."
-        }
-      ],
-      "topics": ["Politics"],
-      "collocations": {
-        "adjective": ["electoral", "majority", "huge"],
-        "verb + vote": ["have", "hold", "put something to the"],
-        "vote + verb": ["go to somebody/​something", "fall", "increase"],
-        "preposition": ["by vote", "vote against", "vote for"],
-        "phrases": [
-          "change your vote",
-          "force a vote (on something)",
-          "a vote of confidence"
-        ]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "the vote given by a particular group of people, or for a particular party, etc.",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "the student vote"
-        },
-        {
-          "text": "the Labour vote"
-        },
-        {
-          "text": "the Hispanic/Latino vote"
-        },
-        {
-          "text": "Bush had courted the military vote."
-        },
-        {
-          "text": "the party that split the Republican vote"
-        },
-        {
-          "text": "Ferrer got 84% of the Hispanic vote."
-        }
-      ],
-      "collocations": {
-        "adjective": ["electoral", "majority", "huge"],
-        "verb + vote": ["have", "hold", "put something to the"],
-        "vote + verb": ["go to somebody/​something", "fall", "increase"],
-        "preposition": ["by vote", "vote against", "vote for"],
-        "phrases": [
-          "change your vote",
-          "force a vote (on something)",
-          "a vote of confidence"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/vəʊt/",
-        "audio": "vo/vote/vote__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/vəʊt/",
-        "audio": "vo/vote/vote__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Latin votum ‘a vow, wish’, from vovere ‘to vow’. The verb dates from the mid 16th cent."
+	"term": "vote",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a formal choice that you make in an election or at a meeting in order to choose somebody or decide something",
+			"sensetop": "vote for/against somebody/something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **win/lose votes**"
+				},
+				{
+					"text": "You can **cast your vote** at the local polling station."
+				},
+				{
+					"text": "He took 53% of the votes in the election."
+				},
+				{
+					"text": "They've started opening the ballot boxes and **counting the votes**."
+				},
+				{
+					"text": "No candidate gained a **majority of the votes** in the first round."
+				},
+				{
+					"text": "The Tory candidate received only 4203 votes."
+				},
+				{
+					"text": "There were 21 votes for and 17 against the motion, with 2 abstentions.",
+					"contextForm": "vote for/against somebody/something"
+				},
+				{
+					"text": "The motion was passed by 6 votes to 3."
+				},
+				{
+					"text": "The Green candidate won over 3 000 of the 14 000 **votes cast**."
+				},
+				{
+					"text": "Everyone's vote counts."
+				},
+				{
+					"text": "The chairperson has the deciding vote."
+				},
+				{
+					"text": "It's a cynical attempt to get votes at the next election."
+				},
+				{
+					"text": "They do not yet have the votes needed to pass the bill."
+				},
+				{
+					"text": "The party received its lowest number of votes since 1935."
+				},
+				{
+					"text": "He won the seat thanks to Polish block votes."
+				},
+				{
+					"text": "My vote will go to the party that addresses crime."
+				},
+				{
+					"text": "The bill was passed by a single vote."
+				},
+				{
+					"text": "They want to persuade voters to change their vote."
+				},
+				{
+					"text": "Votes are still being counted."
+				},
+				{
+					"text": "Mr Olsen was approved by a vote of 51–47."
+				},
+				{
+					"text": "a vote for the government"
+				},
+				{
+					"text": "an overwhelming vote in favour of autonomy"
+				},
+				{
+					"text": "factors that could swing the vote against the president"
+				}
+			],
+			"topics": ["Politics", "Preferences and decisions"],
+			"collocations": {
+				"adjective": ["electoral", "majority", "huge"],
+				"verb + vote": ["have", "hold", "put something to the"],
+				"vote + verb": ["go to somebody/​something", "fall", "increase"],
+				"preposition": ["by vote", "vote against", "vote for"],
+				"phrases": [
+					"change your vote",
+					"force a vote (on something)",
+					"a vote of confidence"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an occasion when a group of people vote on something",
+			"sensetop": "vote on somethingvote in favour of somethingvote to do something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **win/lose a vote**"
+				},
+				{
+					"text": "to **have/take/hold a vote** on an issue",
+					"contextForm": "vote on something"
+				},
+				{
+					"text": "We saw today a decisive vote in favour of *(= for)* industrial action.",
+					"contextForm": "vote in favour of something"
+				},
+				{
+					"text": "The issue was **put to the vote**."
+				},
+				{
+					"text": "The vote was unanimous."
+				},
+				{
+					"text": "He called on the government to delay the vote to authorize military action.",
+					"contextForm": "vote to do something"
+				},
+				{
+					"text": "Decisions have to be ratified by a **majority vote**."
+				},
+				{
+					"text": "They took a vote on who should be their new leader."
+				},
+				{
+					"text": "I think it's time to put this issue to the vote."
+				},
+				{
+					"text": "When will we know the outcome of the vote?"
+				},
+				{
+					"text": "We should put the resolution to the vote."
+				},
+				{
+					"text": "We took a quick vote to decide on a leader."
+				},
+				{
+					"text": "Let's take a vote on the issue."
+				},
+				{
+					"text": "Any senator can force a vote on virtually any proposal."
+				},
+				{
+					"text": "Members are elected by direct vote."
+				},
+				{
+					"text": "Members of Parliament will have a free vote on this bill."
+				},
+				{
+					"text": "The law was ratified by popular vote."
+				},
+				{
+					"text": "a vote on the new law"
+				}
+			],
+			"collocations": {
+				"adjective": ["electoral", "majority", "huge"],
+				"verb + vote": ["have", "hold", "put something to the"],
+				"vote + verb": ["go to somebody/​something", "fall", "increase"],
+				"preposition": ["by vote", "vote against", "vote for"],
+				"phrases": [
+					"change your vote",
+					"force a vote (on something)",
+					"a vote of confidence"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the right to vote, especially in political elections",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "In Britain and the US, people **get the vote** at 18."
+				},
+				{
+					"text": "How many years is it since women have had the vote?"
+				},
+				{
+					"text": "legislation to **give** prisoners the **vote**"
+				}
+			],
+			"topics": ["Politics"],
+			"collocations": {
+				"verb + the vote": ["have", "get", "give somebody"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the total number of votes in an election",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She obtained 40% of the vote."
+				},
+				{
+					"text": "The party increased their **share of the vote**."
+				},
+				{
+					"text": "Our candidate polled only 10% of the vote."
+				},
+				{
+					"text": "The party's vote fell by 6%."
+				}
+			],
+			"topics": ["Politics"],
+			"collocations": {
+				"adjective": ["electoral", "majority", "huge"],
+				"verb + vote": ["have", "hold", "put something to the"],
+				"vote + verb": ["go to somebody/​something", "fall", "increase"],
+				"preposition": ["by vote", "vote against", "vote for"],
+				"phrases": [
+					"change your vote",
+					"force a vote (on something)",
+					"a vote of confidence"
+				]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "the vote given by a particular group of people, or for a particular party, etc.",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "the student vote"
+				},
+				{
+					"text": "the Labour vote"
+				},
+				{
+					"text": "the Hispanic/Latino vote"
+				},
+				{
+					"text": "Bush had courted the military vote."
+				},
+				{
+					"text": "the party that split the Republican vote"
+				},
+				{
+					"text": "Ferrer got 84% of the Hispanic vote."
+				}
+			],
+			"collocations": {
+				"adjective": ["electoral", "majority", "huge"],
+				"verb + vote": ["have", "hold", "put something to the"],
+				"vote + verb": ["go to somebody/​something", "fall", "increase"],
+				"preposition": ["by vote", "vote against", "vote for"],
+				"phrases": [
+					"change your vote",
+					"force a vote (on something)",
+					"a vote of confidence"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/vəʊt/",
+				"audio": "vo/vote/vote__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/vəʊt/",
+				"audio": "vo/vote/vote__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Latin votum ‘a vow, wish’, from vovere ‘to vow’. The verb dates from the mid 16th cent."
 }

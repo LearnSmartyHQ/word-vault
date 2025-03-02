@@ -1,140 +1,132 @@
 {
-  "term": "grave",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a place in the ground where a dead person is buried",
-      "sensetop": "in a graveon a grave",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "We visited Grandma's grave."
-        },
-        {
-          "text": "British war graves in France and Belgium"
-        },
-        {
-          "text": "The plague victims were buried in a **mass grave**.",
-          "contextForm": "in a grave"
-        },
-        {
-          "text": "There were flowers on the grave.",
-          "contextForm": "on a grave"
-        },
-        {
-          "text": "A mass grave has been discovered in a wood outside the village."
-        },
-        {
-          "text": "His body is buried in an unmarked grave."
-        },
-        {
-          "text": "She puts fresh flowers on her husband's grave every Sunday."
-        },
-        {
-          "text": "Some of the graves have been desecrated by vandals."
-        },
-        {
-          "text": "The body was found in a shallow grave in a nearby wood."
-        },
-        {
-          "text": "The grave was marked by a simple headstone."
-        },
-        {
-          "text": "The mourners threw flowers into the open grave."
-        },
-        {
-          "text": "Whenever he goes home he visits his mother's grave."
-        }
-      ],
-      "topics": ["Religion and festivals", "Life stages"],
-      "collocations": {
-        "adjective": ["deep", "shallow", "open"],
-        "verb + grave": ["dig", "mark", "desecrate"],
-        "preposition": [
-          "beyond the grave",
-          "in a/​the grave",
-          "on a/​the grave"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a way of referring to death or a person’s death",
-      "labels": "(usually literary)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Is there life beyond the grave *(= life after death)*?"
-        },
-        {
-          "text": "He followed her to the grave *(= died soon after her)*."
-        },
-        {
-          "text": "She smoked herself into an early grave *(= died young as a result of smoking)*."
-        },
-        {
-          "text": "He rescued her from a watery grave (= from drowning)"
-        },
-        {
-          "text": "I'll be in my grave by the time that happens!"
-        },
-        {
-          "text": "The old lady still influences the family from beyond the grave."
-        }
-      ],
-      "collocations": {
-        "adjective": ["deep", "shallow", "open"],
-        "verb + grave": ["dig", "mark", "desecrate"],
-        "preposition": [
-          "beyond the grave",
-          "in a/​the grave",
-          "on a/​the grave"
-        ]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to do something that will have very harmful results for you",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "a way of referring to the whole of a person’s life, from birth until death",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be so old or ill that you are not likely to live much longer",
-      "labels": "(informal)",
-      "examples": [],
-      "topics": ["Health problems"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "likely to be very shocked or angry",
-      "examples": [
-        {
-          "text": "My father would turn in his grave if he knew."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɡreɪv/",
-        "audio": "gr/grave/grave__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɡreɪv/",
-        "audio": "gr/grave/grave__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English græf, of Germanic origin; related to Dutch graf and German Grab. The adjective dates from late 15th cent. (originally of a wound in the sense ‘severe, serious’): from Old French grave or Latin gravis ‘heavy, serious’."
+	"term": "grave",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a place in the ground where a dead person is buried",
+			"sensetop": "in a graveon a grave",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "We visited Grandma's grave."
+				},
+				{
+					"text": "British war graves in France and Belgium"
+				},
+				{
+					"text": "The plague victims were buried in a **mass grave**.",
+					"contextForm": "in a grave"
+				},
+				{
+					"text": "There were flowers on the grave.",
+					"contextForm": "on a grave"
+				},
+				{
+					"text": "A mass grave has been discovered in a wood outside the village."
+				},
+				{
+					"text": "His body is buried in an unmarked grave."
+				},
+				{
+					"text": "She puts fresh flowers on her husband's grave every Sunday."
+				},
+				{
+					"text": "Some of the graves have been desecrated by vandals."
+				},
+				{
+					"text": "The body was found in a shallow grave in a nearby wood."
+				},
+				{
+					"text": "The grave was marked by a simple headstone."
+				},
+				{
+					"text": "The mourners threw flowers into the open grave."
+				},
+				{
+					"text": "Whenever he goes home he visits his mother's grave."
+				}
+			],
+			"topics": ["Religion and festivals", "Life stages"],
+			"collocations": {
+				"adjective": ["deep", "shallow", "open"],
+				"verb + grave": ["dig", "mark", "desecrate"],
+				"preposition": ["beyond the grave", "in a/​the grave", "on a/​the grave"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a way of referring to death or a person’s death",
+			"labels": "(usually literary)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Is there life beyond the grave *(= life after death)*?"
+				},
+				{
+					"text": "He followed her to the grave *(= died soon after her)*."
+				},
+				{
+					"text": "She smoked herself into an early grave *(= died young as a result of smoking)*."
+				},
+				{
+					"text": "He rescued her from a watery grave (= from drowning)"
+				},
+				{
+					"text": "I'll be in my grave by the time that happens!"
+				},
+				{
+					"text": "The old lady still influences the family from beyond the grave."
+				}
+			],
+			"collocations": {
+				"adjective": ["deep", "shallow", "open"],
+				"verb + grave": ["dig", "mark", "desecrate"],
+				"preposition": ["beyond the grave", "in a/​the grave", "on a/​the grave"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to do something that will have very harmful results for you",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "a way of referring to the whole of a person’s life, from birth until death",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be so old or ill that you are not likely to live much longer",
+			"labels": "(informal)",
+			"examples": [],
+			"topics": ["Health problems"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "likely to be very shocked or angry",
+			"examples": [
+				{
+					"text": "My father would turn in his grave if he knew."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɡreɪv/",
+				"audio": "gr/grave/grave__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɡreɪv/",
+				"audio": "gr/grave/grave__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English græf, of Germanic origin; related to Dutch graf and German Grab. The adjective dates from late 15th cent. (originally of a wound in the sense ‘severe, serious’): from Old French grave or Latin gravis ‘heavy, serious’."
 }

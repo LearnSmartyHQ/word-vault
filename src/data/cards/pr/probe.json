@@ -1,60 +1,60 @@
 {
-  "term": "probe",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a complete and careful investigation of something",
-      "sensetop": "probe (into something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a police probe into the financial affairs of the company"
-        },
-        {
-          "text": "Arson probe after three die at home."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a spacecraft without people on board that obtains information and sends it back to earth",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Space"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a long, thin metal tool used by doctors for examining inside the body",
-      "labels": "(specialist)",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Healthcare"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a small device put inside something and used by scientists to test something or record information",
-      "labels": "(specialist)",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Engineering"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/prəʊb/",
-        "audio": "pr/probe/probe__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/prəʊb/",
-        "audio": "pr/probe/probe__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "probe",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a complete and careful investigation of something",
+			"sensetop": "probe (into something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a police probe into the financial affairs of the company"
+				},
+				{
+					"text": "Arson probe after three die at home."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a spacecraft without people on board that obtains information and sends it back to earth",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Space"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a long, thin metal tool used by doctors for examining inside the body",
+			"labels": "(specialist)",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Healthcare"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a small device put inside something and used by scientists to test something or record information",
+			"labels": "(specialist)",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Engineering"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/prəʊb/",
+				"audio": "pr/probe/probe__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/prəʊb/",
+				"audio": "pr/probe/probe__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

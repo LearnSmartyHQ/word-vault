@@ -1,105 +1,105 @@
 {
-  "term": "east",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/co/compasses.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the direction that you look towards to see the sun rise; one of the four main points of the compass",
-      "sensetop": "to the east (of…)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Which way is east?"
-        },
-        {
-          "text": "A gale was blowing from the east."
-        },
-        {
-          "text": "an east-facing terrace"
-        },
-        {
-          "text": "a town to the east of *(= further east than)* Chicago",
-          "contextForm": "to the east (of…)"
-        },
-        {
-          "text": "The train line facilitates travel between east and west."
-        }
-      ],
-      "topics": ["Geography"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the eastern part of a country, region or city",
-      "sensetop": "in the east",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The east of the country is especially popular with tourists."
-        },
-        {
-          "text": "Around 2 000 teachers from around the East of England attended the conference."
-        },
-        {
-          "text": "I was born in the East, but now live in San Francisco.",
-          "contextForm": "in the east"
-        },
-        {
-          "text": "Elsewhere in the East, wet, unsettled weather will continue until the weekend."
-        },
-        {
-          "text": "House prices in the east have risen significantly over the last five years."
-        },
-        {
-          "text": "There's been a severe earthquake in the east of the country."
-        }
-      ],
-      "topics": ["Geography"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the countries of Asia, especially China, Japan and India",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "European traders started trading with the East in the 15th century."
-        }
-      ],
-      "topics": ["Geography"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the Communist countries of Central and Eastern Europe",
-      "cefr": "a1",
-      "examples": [
-        {
-          "text": "the centrally planned system of the East"
-        },
-        {
-          "text": "East–West relations"
-        }
-      ],
-      "topics": ["Geography"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/iːst/",
-        "audio": "ea/east/east__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/iːst/",
-        "audio": "ea/east/east__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English ēast-, of Germanic origin; related to Dutch oost and German ost, from an Indo-European root shared by Latin aurora, Greek auōs ‘dawn’."
+	"term": "east",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/co/compasses.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the direction that you look towards to see the sun rise; one of the four main points of the compass",
+			"sensetop": "to the east (of…)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Which way is east?"
+				},
+				{
+					"text": "A gale was blowing from the east."
+				},
+				{
+					"text": "an east-facing terrace"
+				},
+				{
+					"text": "a town to the east of *(= further east than)* Chicago",
+					"contextForm": "to the east (of…)"
+				},
+				{
+					"text": "The train line facilitates travel between east and west."
+				}
+			],
+			"topics": ["Geography"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the eastern part of a country, region or city",
+			"sensetop": "in the east",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The east of the country is especially popular with tourists."
+				},
+				{
+					"text": "Around 2 000 teachers from around the East of England attended the conference."
+				},
+				{
+					"text": "I was born in the East, but now live in San Francisco.",
+					"contextForm": "in the east"
+				},
+				{
+					"text": "Elsewhere in the East, wet, unsettled weather will continue until the weekend."
+				},
+				{
+					"text": "House prices in the east have risen significantly over the last five years."
+				},
+				{
+					"text": "There's been a severe earthquake in the east of the country."
+				}
+			],
+			"topics": ["Geography"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the countries of Asia, especially China, Japan and India",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "European traders started trading with the East in the 15th century."
+				}
+			],
+			"topics": ["Geography"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the Communist countries of Central and Eastern Europe",
+			"cefr": "a1",
+			"examples": [
+				{
+					"text": "the centrally planned system of the East"
+				},
+				{
+					"text": "East–West relations"
+				}
+			],
+			"topics": ["Geography"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/iːst/",
+				"audio": "ea/east/east__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/iːst/",
+				"audio": "ea/east/east__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English ēast-, of Germanic origin; related to Dutch oost and German ost, from an Indo-European root shared by Latin aurora, Greek auōs ‘dawn’."
 }

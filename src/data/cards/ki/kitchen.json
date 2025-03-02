@@ -1,74 +1,74 @@
 {
-  "term": "kitchen",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/ki/kitchen.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a room in which meals are cooked or prepared",
-      "labels": "(especially British English)",
-      "examples": [
-        {
-          "text": "We ate at the **kitchen table**."
-        },
-        {
-          "text": "the kitchen floor/window/door"
-        },
-        {
-          "text": "a stainless steel **kitchen sink**"
-        },
-        {
-          "text": "He stabbed her with a **kitchen knife**."
-        },
-        {
-          "text": "The house has a fully **fitted kitchen** with custom-built units."
-        },
-        {
-          "text": "I sat at the kitchen island eating a bowl of cereal."
-        },
-        {
-          "text": "We handed our trays through the kitchen hatch as we left."
-        }
-      ],
-      "topics": ["Houses and homes", "Cooking and eating"],
-      "collocations": {
-        "adjective": ["clean", "spotless", "modern"],
-        "kitchen + noun": ["area", "door", "floor"],
-        "preposition": ["in a/​the kitchen"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "a very large number of things, probably more than is necessary",
-      "labels": "(informal, humorous)",
-      "examples": [
-        {
-          "text": "We seem to take everything but the kitchen sink when we go camping."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to tell somebody to stop trying to do something if they find it too difficult, especially in order to suggest that they are less able than other people",
-      "labels": "(informal)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkɪtʃɪn/",
-        "audio": "ki/kitchen/kitchen__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkɪtʃɪn/",
-        "audio": "ki/kitchen/kitchen__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English cycene, of West Germanic origin; related to Dutch keuken and German Küche, based on Latin coquere ‘to cook’."
+	"term": "kitchen",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/ki/kitchen.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a room in which meals are cooked or prepared",
+			"labels": "(especially British English)",
+			"examples": [
+				{
+					"text": "We ate at the **kitchen table**."
+				},
+				{
+					"text": "the kitchen floor/window/door"
+				},
+				{
+					"text": "a stainless steel **kitchen sink**"
+				},
+				{
+					"text": "He stabbed her with a **kitchen knife**."
+				},
+				{
+					"text": "The house has a fully **fitted kitchen** with custom-built units."
+				},
+				{
+					"text": "I sat at the kitchen island eating a bowl of cereal."
+				},
+				{
+					"text": "We handed our trays through the kitchen hatch as we left."
+				}
+			],
+			"topics": ["Houses and homes", "Cooking and eating"],
+			"collocations": {
+				"adjective": ["clean", "spotless", "modern"],
+				"kitchen + noun": ["area", "door", "floor"],
+				"preposition": ["in a/​the kitchen"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "a very large number of things, probably more than is necessary",
+			"labels": "(informal, humorous)",
+			"examples": [
+				{
+					"text": "We seem to take everything but the kitchen sink when we go camping."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to tell somebody to stop trying to do something if they find it too difficult, especially in order to suggest that they are less able than other people",
+			"labels": "(informal)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkɪtʃɪn/",
+				"audio": "ki/kitchen/kitchen__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkɪtʃɪn/",
+				"audio": "ki/kitchen/kitchen__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English cycene, of West Germanic origin; related to Dutch keuken and German Küche, based on Latin coquere ‘to cook’."
 }

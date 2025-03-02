@@ -1,71 +1,71 @@
 {
-  "term": "troubled",
-  "partOfSpeech": "adjective",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "worried and anxious",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She looked into his troubled face."
-        },
-        {
-          "text": "She still felt vaguely troubled by it all."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "feel", "look"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["at", "by"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "having a lot of problems",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a troubled marriage"
-        },
-        {
-          "text": "We live in **troubled times**."
-        },
-        {
-          "text": "a singer with an extremely troubled past"
-        },
-        {
-          "text": "financially troubled companies"
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "feel", "look"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["at", "by"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to try to settle an argument",
-      "examples": [],
-      "topics": ["Discussion and agreement"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈtrʌbld/",
-        "audio": "tr/troubled/troubled__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈtrʌbld/",
-        "audio": "tr/troubled/troubled__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "troubled",
+	"partOfSpeech": "adjective",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "worried and anxious",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She looked into his troubled face."
+				},
+				{
+					"text": "She still felt vaguely troubled by it all."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "feel", "look"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["at", "by"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "having a lot of problems",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a troubled marriage"
+				},
+				{
+					"text": "We live in **troubled times**."
+				},
+				{
+					"text": "a singer with an extremely troubled past"
+				},
+				{
+					"text": "financially troubled companies"
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "feel", "look"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["at", "by"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to try to settle an argument",
+			"examples": [],
+			"topics": ["Discussion and agreement"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈtrʌbld/",
+				"audio": "tr/troubled/troubled__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈtrʌbld/",
+				"audio": "tr/troubled/troubled__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

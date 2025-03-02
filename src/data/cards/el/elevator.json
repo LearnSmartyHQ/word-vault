@@ -1,80 +1,80 @@
 {
-  "term": "elevator",
-  "partOfSpeech": "noun",
-  "image": "data/images/ai/airliner.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a machine that carries people or goods up and down to different levels in a building or a mine",
-      "labels": "(North American English)British English",
-      "cefr": "b1",
-      "examples": [
-        {
-          "text": "It's on the fifth floor, so we'd better take the elevator."
-        },
-        {
-          "text": "He rode the elevator to the 43rd floor."
-        },
-        {
-          "text": "One guy fell down the elevator shaft."
-        },
-        {
-          "text": "The agents in the station sent the checked baggage downstairs on a freight elevator."
-        },
-        {
-          "text": "The elevator dinged and the door opened."
-        },
-        {
-          "text": "The elevator doors closed behind her."
-        },
-        {
-          "text": "We took a creaky old elevator up to the third floor."
-        },
-        {
-          "text": "York pressed the button to call the elevator."
-        }
-      ],
-      "topics": ["Buildings"],
-      "collocations": {
-        "adjective": ["glass", "express", "high-speed"],
-        "verb + elevator": ["ride", "take", "use"],
-        "elevator + verb": ["go up", "descend", "go down"],
-        "elevator + noun": ["shaft", "door", "button"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a tall building used to store grain and that contains equipment to move it",
-      "labels": "(North American English)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "In the harbour a giant elevator stores prairie grain."
-        }
-      ],
-      "topics": ["Farming"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a part in the tail of an aircraft that is moved to make it go up and down",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Transport by air"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈelɪveɪtə(r)/",
-        "audio": "el/elevator/elevator__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈelɪveɪtər/",
-        "audio": "el/elevator/elevator__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 17th cent. (denoting a muscle): modern Latin, from Latin elevare ‘raise’; in later use directly from elevate."
+	"term": "elevator",
+	"partOfSpeech": "noun",
+	"image": "data/images/ai/airliner.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a machine that carries people or goods up and down to different levels in a building or a mine",
+			"labels": "(North American English)British English",
+			"cefr": "b1",
+			"examples": [
+				{
+					"text": "It's on the fifth floor, so we'd better take the elevator."
+				},
+				{
+					"text": "He rode the elevator to the 43rd floor."
+				},
+				{
+					"text": "One guy fell down the elevator shaft."
+				},
+				{
+					"text": "The agents in the station sent the checked baggage downstairs on a freight elevator."
+				},
+				{
+					"text": "The elevator dinged and the door opened."
+				},
+				{
+					"text": "The elevator doors closed behind her."
+				},
+				{
+					"text": "We took a creaky old elevator up to the third floor."
+				},
+				{
+					"text": "York pressed the button to call the elevator."
+				}
+			],
+			"topics": ["Buildings"],
+			"collocations": {
+				"adjective": ["glass", "express", "high-speed"],
+				"verb + elevator": ["ride", "take", "use"],
+				"elevator + verb": ["go up", "descend", "go down"],
+				"elevator + noun": ["shaft", "door", "button"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a tall building used to store grain and that contains equipment to move it",
+			"labels": "(North American English)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "In the harbour a giant elevator stores prairie grain."
+				}
+			],
+			"topics": ["Farming"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a part in the tail of an aircraft that is moved to make it go up and down",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Transport by air"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈelɪveɪtə(r)/",
+				"audio": "el/elevator/elevator__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈelɪveɪtər/",
+				"audio": "el/elevator/elevator__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 17th cent. (denoting a muscle): modern Latin, from Latin elevare ‘raise’; in later use directly from elevate."
 }

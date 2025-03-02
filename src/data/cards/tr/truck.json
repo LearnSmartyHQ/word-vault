@@ -1,142 +1,142 @@
 {
-  "term": "truck",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "image": "data/images/ve/vehicles_trucks.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a large vehicle for carrying heavy loads by road",
-      "labels": "(especially North American English)British English usually(British English)(North American English, informal)(especially British English)(British English)(both North American English)(British English)(North American English)(North American English)(British English)(North American English)(especially British English)(both North American English)(British English)(especially North American English)(British English)(especially North American English)(especially British English)(British English)(North American English)(British English)(North American English)(British English)(North American English)(especially British English)(British English)(North American English)(British English)(North American English)(British English)(British English, informal)(both informal)(British English)(British English)(both US English)(British English)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **truck driver**"
-        },
-        {
-          "text": "a 10-ton truck"
-        },
-        {
-          "text": "Scott got a full time job driving a truck."
-        },
-        {
-          "text": "A convoy of heavy trucks rumbled past."
-        },
-        {
-          "text": "A tanker truck filled with gas exploded on the highway."
-        }
-      ],
-      "topics": ["Transport by car or lorry"],
-      "collocations": {
-        "adjective": ["big", "heavy", "heavy-duty"],
-        "… of trucks": ["convoy", "fleet"],
-        "verb + truck": ["drive", "park", "load"],
-        "truck + verb": ["drive", "roll", "rumble"],
-        "truck + noun": ["driver", "stop", "bed"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an open railway vehicle for carrying goods or animals",
-      "labels": "(British English)North American English",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a cattle truck"
-        },
-        {
-          "text": "The truck came loose from the engine and began to roll backwards."
-        },
-        {
-          "text": "The only way of getting out of the city was in a cattle truck."
-        },
-        {
-          "text": "An ammunition truck exploded just yards from the station."
-        },
-        {
-          "text": "a truck load of grain"
-        }
-      ],
-      "topics": ["Transport by bus and train"],
-      "collocations": {
-        "adjective": ["railway", "cattle", "coal"],
-        "verb + truck": ["pull"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a vehicle that is open at the back, used for carrying goods, soldiers, animals, etc.",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a delivery/farm truck"
-        },
-        {
-          "text": "a dump/tow/armoured truck"
-        },
-        {
-          "text": "They heard a truck pull up outside."
-        },
-        {
-          "text": "The soldiers were travelling in the back of the truck."
-        },
-        {
-          "text": "a truck carrying sacks of vegetables"
-        },
-        {
-          "text": "Zach was playing with a toy truck on the floor."
-        },
-        {
-          "text": "She heard the truck parking in front of the building."
-        },
-        {
-          "text": "The bus crashed into a truck loaded with timber."
-        }
-      ],
-      "collocations": {
-        "adjective": ["big", "heavy", "heavy-duty"],
-        "… of trucks": ["convoy", "fleet"],
-        "verb + truck": ["drive", "park", "load"],
-        "truck + verb": ["drive", "roll", "rumble"],
-        "truck + noun": ["driver", "stop", "bed"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a vehicle for carrying things, that is pulled or pushed by hand",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to refuse to deal with somebody; to refuse to accept or consider something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "We in this party will have no truck with illegal organizations."
-        },
-        {
-          "text": "Dave wants no truck with change. For him, things are just fine as they are."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/trʌk/",
-        "audio": "tr/truck/truck__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/trʌk/",
-        "audio": "tr/truck/truck__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (denoting a solid wooden wheel): perhaps short for truckle in the sense ‘wheel, pulley’. The sense ‘wheeled vehicle’ dates from the late 18th cent."
+	"term": "truck",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"image": "data/images/ve/vehicles_trucks.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a large vehicle for carrying heavy loads by road",
+			"labels": "(especially North American English)British English usually(British English)(North American English, informal)(especially British English)(British English)(both North American English)(British English)(North American English)(North American English)(British English)(North American English)(especially British English)(both North American English)(British English)(especially North American English)(British English)(especially North American English)(especially British English)(British English)(North American English)(British English)(North American English)(British English)(North American English)(especially British English)(British English)(North American English)(British English)(North American English)(British English)(British English, informal)(both informal)(British English)(British English)(both US English)(British English)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **truck driver**"
+				},
+				{
+					"text": "a 10-ton truck"
+				},
+				{
+					"text": "Scott got a full time job driving a truck."
+				},
+				{
+					"text": "A convoy of heavy trucks rumbled past."
+				},
+				{
+					"text": "A tanker truck filled with gas exploded on the highway."
+				}
+			],
+			"topics": ["Transport by car or lorry"],
+			"collocations": {
+				"adjective": ["big", "heavy", "heavy-duty"],
+				"… of trucks": ["convoy", "fleet"],
+				"verb + truck": ["drive", "park", "load"],
+				"truck + verb": ["drive", "roll", "rumble"],
+				"truck + noun": ["driver", "stop", "bed"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an open railway vehicle for carrying goods or animals",
+			"labels": "(British English)North American English",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a cattle truck"
+				},
+				{
+					"text": "The truck came loose from the engine and began to roll backwards."
+				},
+				{
+					"text": "The only way of getting out of the city was in a cattle truck."
+				},
+				{
+					"text": "An ammunition truck exploded just yards from the station."
+				},
+				{
+					"text": "a truck load of grain"
+				}
+			],
+			"topics": ["Transport by bus and train"],
+			"collocations": {
+				"adjective": ["railway", "cattle", "coal"],
+				"verb + truck": ["pull"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a vehicle that is open at the back, used for carrying goods, soldiers, animals, etc.",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a delivery/farm truck"
+				},
+				{
+					"text": "a dump/tow/armoured truck"
+				},
+				{
+					"text": "They heard a truck pull up outside."
+				},
+				{
+					"text": "The soldiers were travelling in the back of the truck."
+				},
+				{
+					"text": "a truck carrying sacks of vegetables"
+				},
+				{
+					"text": "Zach was playing with a toy truck on the floor."
+				},
+				{
+					"text": "She heard the truck parking in front of the building."
+				},
+				{
+					"text": "The bus crashed into a truck loaded with timber."
+				}
+			],
+			"collocations": {
+				"adjective": ["big", "heavy", "heavy-duty"],
+				"… of trucks": ["convoy", "fleet"],
+				"verb + truck": ["drive", "park", "load"],
+				"truck + verb": ["drive", "roll", "rumble"],
+				"truck + noun": ["driver", "stop", "bed"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a vehicle for carrying things, that is pulled or pushed by hand",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to refuse to deal with somebody; to refuse to accept or consider something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "We in this party will have no truck with illegal organizations."
+				},
+				{
+					"text": "Dave wants no truck with change. For him, things are just fine as they are."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/trʌk/",
+				"audio": "tr/truck/truck__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/trʌk/",
+				"audio": "tr/truck/truck__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (denoting a solid wooden wheel): perhaps short for truckle in the sense ‘wheel, pulley’. The sense ‘wheeled vehicle’ dates from the late 18th cent."
 }

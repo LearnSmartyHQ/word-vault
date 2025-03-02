@@ -1,53 +1,53 @@
 {
-  "term": "laser",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a device that gives out light in which all the waves oscillate (= change direction and strength) together, typically producing a powerful beam of light that can be used for cutting metal, in medical operations, etc.",
-      "examples": [
-        {
-          "text": "a laser beam"
-        },
-        {
-          "text": "a laser navigation device"
-        },
-        {
-          "text": "The barcodes on the products are read by lasers."
-        },
-        {
-          "text": "a **laser show** *(=  used as entertainment)*"
-        },
-        {
-          "text": "She's had **laser surgery** on her eye."
-        },
-        {
-          "text": "**laser treatment/therapy**"
-        }
-      ],
-      "topics": ["Physics and chemistry"],
-      "collocations": {
-        "adjective": ["powerful", "infrared"],
-        "verb + laser": ["use", "aim", "fire"],
-        "laser + noun": ["beam", "blast", "light"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈleɪzə(r)/",
-        "audio": "la/laser/laser__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈleɪzər/",
-        "audio": "la/laser/laser__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "1960s: acronym from light amplification by stimulated emission of radiation, on the pattern of maser."
+	"term": "laser",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a device that gives out light in which all the waves oscillate (= change direction and strength) together, typically producing a powerful beam of light that can be used for cutting metal, in medical operations, etc.",
+			"examples": [
+				{
+					"text": "a laser beam"
+				},
+				{
+					"text": "a laser navigation device"
+				},
+				{
+					"text": "The barcodes on the products are read by lasers."
+				},
+				{
+					"text": "a **laser show** *(=  used as entertainment)*"
+				},
+				{
+					"text": "She's had **laser surgery** on her eye."
+				},
+				{
+					"text": "**laser treatment/therapy**"
+				}
+			],
+			"topics": ["Physics and chemistry"],
+			"collocations": {
+				"adjective": ["powerful", "infrared"],
+				"verb + laser": ["use", "aim", "fire"],
+				"laser + noun": ["beam", "blast", "light"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈleɪzə(r)/",
+				"audio": "la/laser/laser__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈleɪzər/",
+				"audio": "la/laser/laser__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "1960s: acronym from light amplification by stimulated emission of radiation, on the pattern of maser."
 }

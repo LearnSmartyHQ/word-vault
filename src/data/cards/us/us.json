@@ -1,50 +1,50 @@
 {
-  "term": "us",
-  "partOfSpeech": "pronoun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "used when the speaker or writer and another or others are the object of a verb or preposition, or after the verb be",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "She gave us a picture as a wedding present."
-        },
-        {
-          "text": "We'll take the dog with us."
-        },
-        {
-          "text": "Hello, it's us back again."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "me",
-      "labels": "(British English, informal)",
-      "examples": [
-        {
-          "text": "Give us the newspaper, will you?"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/əs//ʌs/",
-        "audio": "us/us/us__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/əs//ʌs/",
-        "audio": "us/us/us__us_2_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English ūs, accusative and dative of we, of Germanic origin; related to Dutch ons and German uns."
+	"term": "us",
+	"partOfSpeech": "pronoun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "used when the speaker or writer and another or others are the object of a verb or preposition, or after the verb be",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "She gave us a picture as a wedding present."
+				},
+				{
+					"text": "We'll take the dog with us."
+				},
+				{
+					"text": "Hello, it's us back again."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "me",
+			"labels": "(British English, informal)",
+			"examples": [
+				{
+					"text": "Give us the newspaper, will you?"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/əs//ʌs/",
+				"audio": "us/us/us__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/əs//ʌs/",
+				"audio": "us/us/us__us_2_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English ūs, accusative and dative of we, of Germanic origin; related to Dutch ons and German uns."
 }

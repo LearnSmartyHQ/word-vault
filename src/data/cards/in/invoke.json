@@ -1,123 +1,123 @@
 {
-  "term": "invoke",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "invoke",
-      "heSheIt": "invokes"
-    },
-    "pastSimple": "invoked",
-    "pastParticiple": "invoked",
-    "ingForm": "invoking"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to mention or use a law, rule, etc. as a reason for doing something",
-      "sensetop": "invoke something (against somebody)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "It is unlikely that libel laws will be invoked."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to mention a person, a theory, an example, etc. to support your opinions or ideas, or as a reason for something",
-      "sensetop": "invoke somebody/something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She invoked several eminent scholars to back up her argument."
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to mention somebody’s name to make people feel a particular thing or act in a particular way",
-      "sensetop": "invoke something",
-      "examples": [
-        {
-          "text": "His name was invoked as a symbol of the revolution."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to make a request (for help) to somebody, especially a god",
-      "sensetop": "invoke somebody",
-      "examples": []
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to make somebody have a particular feeling or imagine a particular scene",
-      "sensetop": "invoke something",
-      "examples": [
-        {
-          "text": "The opening paragraph invokes a vision of England in the early Middle Ages."
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to begin to run a program, etc.",
-      "sensetop": "invoke something",
-      "labels": "(computing)",
-      "examples": [
-        {
-          "text": "This command will invoke the HELP system."
-        }
-      ]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to make evil appear by using magic",
-      "sensetop": "invoke somebody/something",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈvəʊk/",
-        "audio": "in/invoke/invoke__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈvəʊks/",
-        "audio": "in/invoke/invokes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈvəʊkt/",
-        "audio": "in/invoke/invoked__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈvəʊkɪŋ/",
-        "audio": "in/invoke/invoking__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈvəʊk/",
-        "audio": "in/invoke/invoke__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈvəʊks/",
-        "audio": "in/invoke/invokes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈvəʊkt/",
-        "audio": "in/invoke/invoked__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈvəʊkɪŋ/",
-        "audio": "in/invoke/invoking__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 15th cent.: from French invoquer, from Latin invocare, from in- ‘upon’ + vocare ‘to call’."
+	"term": "invoke",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "invoke",
+			"heSheIt": "invokes"
+		},
+		"pastSimple": "invoked",
+		"pastParticiple": "invoked",
+		"ingForm": "invoking"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to mention or use a law, rule, etc. as a reason for doing something",
+			"sensetop": "invoke something (against somebody)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "It is unlikely that libel laws will be invoked."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to mention a person, a theory, an example, etc. to support your opinions or ideas, or as a reason for something",
+			"sensetop": "invoke somebody/something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She invoked several eminent scholars to back up her argument."
+				}
+			],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to mention somebody’s name to make people feel a particular thing or act in a particular way",
+			"sensetop": "invoke something",
+			"examples": [
+				{
+					"text": "His name was invoked as a symbol of the revolution."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to make a request (for help) to somebody, especially a god",
+			"sensetop": "invoke somebody",
+			"examples": []
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to make somebody have a particular feeling or imagine a particular scene",
+			"sensetop": "invoke something",
+			"examples": [
+				{
+					"text": "The opening paragraph invokes a vision of England in the early Middle Ages."
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to begin to run a program, etc.",
+			"sensetop": "invoke something",
+			"labels": "(computing)",
+			"examples": [
+				{
+					"text": "This command will invoke the HELP system."
+				}
+			]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to make evil appear by using magic",
+			"sensetop": "invoke somebody/something",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈvəʊk/",
+				"audio": "in/invoke/invoke__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈvəʊks/",
+				"audio": "in/invoke/invokes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈvəʊkt/",
+				"audio": "in/invoke/invoked__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈvəʊkɪŋ/",
+				"audio": "in/invoke/invoking__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈvəʊk/",
+				"audio": "in/invoke/invoke__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈvəʊks/",
+				"audio": "in/invoke/invokes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈvəʊkt/",
+				"audio": "in/invoke/invoked__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈvəʊkɪŋ/",
+				"audio": "in/invoke/invoking__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 15th cent.: from French invoquer, from Latin invocare, from in- ‘upon’ + vocare ‘to call’."
 }

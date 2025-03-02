@@ -1,115 +1,115 @@
 {
-  "term": "loan",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "money that an organization such as a bank lends and somebody borrows",
-      "labels": "(informal)(informal)(British English)(North American English)(informal)(informal)(informal)(British English)(US English)(formal)(especially North American English)(British English)(especially British English)(especially British English)(North American English usually)(informal)(informal)especially North American English",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **take out/repay a loan** *(= to borrow money/pay it back)*"
-        },
-        {
-          "text": "She took out an $8  000 **personal loan**."
-        },
-        {
-          "text": "**bank loans** with low interest rates"
-        },
-        {
-          "text": "It took three years to repay my **student loan** *(= money lent to a student)*."
-        },
-        {
-          "text": "a **car/home loan** *(= a loan to buy a car/house)*"
-        },
-        {
-          "text": "The bank almost collapsed under the weight of **bad loans** *(= loans that will never be paid back)*."
-        },
-        {
-          "text": "The **loan repayment** period is 10 years."
-        },
-        {
-          "text": "a loan agreement"
-        },
-        {
-          "text": "He had to use his house as security for the loan."
-        },
-        {
-          "text": "a loan from my brother"
-        },
-        {
-          "text": "The bank provides personal loan facilities at competitive rates."
-        },
-        {
-          "text": "They used the inheritance to pay off their outstanding loan."
-        },
-        {
-          "text": "They were struggling to meet their monthly loan repayments."
-        }
-      ],
-      "topics": ["Houses and homes", "Money", "Education"],
-      "collocations": {
-        "adjective": ["large", "massive", "small"],
-        "verb + loan": ["apply for", "ask for", "request"],
-        "loan + verb": ["total something"],
-        "loan + noun": ["application", "agreement", "arrangement"],
-        "preposition": ["on loan (from)", "loan from"],
-        "phrases": ["security for a loan"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the act of lending something; the state of being lent",
-      "sensetop": "loan of somethingon loanon loan from somebody/something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I even **gave her the loan of** my car.",
-          "contextForm": "loan of something"
-        },
-        {
-          "text": "an exhibition of paintings on loan *(= borrowed)* from private collections",
-          "contextForm": "on loan"
-        },
-        {
-          "text": "The striker, on loan from United, scored his first goal for City today *(= he is playing for City for a fixed period by agreement with his own team, United)*.",
-          "contextForm": "on loan from somebody/something"
-        },
-        {
-          "text": "The midfielder comes to the Premiership on an 18-month loan deal from Roma."
-        },
-        {
-          "text": "The book must be returned by the end of the loan period."
-        }
-      ],
-      "collocations": {
-        "adjective": ["large", "massive", "small"],
-        "verb + loan": ["apply for", "ask for", "request"],
-        "loan + verb": ["total something"],
-        "loan + noun": ["application", "agreement", "arrangement"],
-        "preposition": ["on loan (from)", "loan from"],
-        "phrases": ["security for a loan"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ləʊn/",
-        "audio": "lo/loan/loan__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ləʊn/",
-        "audio": "lo/loan/loan__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (also denoting a gift from a superior): from Old Norse lán, of Germanic origin; related to Dutch leen, German Lehn, also to lend."
+	"term": "loan",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "money that an organization such as a bank lends and somebody borrows",
+			"labels": "(informal)(informal)(British English)(North American English)(informal)(informal)(informal)(British English)(US English)(formal)(especially North American English)(British English)(especially British English)(especially British English)(North American English usually)(informal)(informal)especially North American English",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **take out/repay a loan** *(= to borrow money/pay it back)*"
+				},
+				{
+					"text": "She took out an $8  000 **personal loan**."
+				},
+				{
+					"text": "**bank loans** with low interest rates"
+				},
+				{
+					"text": "It took three years to repay my **student loan** *(= money lent to a student)*."
+				},
+				{
+					"text": "a **car/home loan** *(= a loan to buy a car/house)*"
+				},
+				{
+					"text": "The bank almost collapsed under the weight of **bad loans** *(= loans that will never be paid back)*."
+				},
+				{
+					"text": "The **loan repayment** period is 10 years."
+				},
+				{
+					"text": "a loan agreement"
+				},
+				{
+					"text": "He had to use his house as security for the loan."
+				},
+				{
+					"text": "a loan from my brother"
+				},
+				{
+					"text": "The bank provides personal loan facilities at competitive rates."
+				},
+				{
+					"text": "They used the inheritance to pay off their outstanding loan."
+				},
+				{
+					"text": "They were struggling to meet their monthly loan repayments."
+				}
+			],
+			"topics": ["Houses and homes", "Money", "Education"],
+			"collocations": {
+				"adjective": ["large", "massive", "small"],
+				"verb + loan": ["apply for", "ask for", "request"],
+				"loan + verb": ["total something"],
+				"loan + noun": ["application", "agreement", "arrangement"],
+				"preposition": ["on loan (from)", "loan from"],
+				"phrases": ["security for a loan"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the act of lending something; the state of being lent",
+			"sensetop": "loan of somethingon loanon loan from somebody/something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I even **gave her the loan of** my car.",
+					"contextForm": "loan of something"
+				},
+				{
+					"text": "an exhibition of paintings on loan *(= borrowed)* from private collections",
+					"contextForm": "on loan"
+				},
+				{
+					"text": "The striker, on loan from United, scored his first goal for City today *(= he is playing for City for a fixed period by agreement with his own team, United)*.",
+					"contextForm": "on loan from somebody/something"
+				},
+				{
+					"text": "The midfielder comes to the Premiership on an 18-month loan deal from Roma."
+				},
+				{
+					"text": "The book must be returned by the end of the loan period."
+				}
+			],
+			"collocations": {
+				"adjective": ["large", "massive", "small"],
+				"verb + loan": ["apply for", "ask for", "request"],
+				"loan + verb": ["total something"],
+				"loan + noun": ["application", "agreement", "arrangement"],
+				"preposition": ["on loan (from)", "loan from"],
+				"phrases": ["security for a loan"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ləʊn/",
+				"audio": "lo/loan/loan__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ləʊn/",
+				"audio": "lo/loan/loan__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (also denoting a gift from a superior): from Old Norse lán, of Germanic origin; related to Dutch leen, German Lehn, also to lend."
 }

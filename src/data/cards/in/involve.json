@@ -1,150 +1,150 @@
 {
-  "term": "involve",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "involve",
-      "heSheIt": "involves"
-    },
-    "pastSimple": "involved",
-    "pastParticiple": "involved",
-    "ingForm": "involving"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "if a situation, an event or an activity involves something, that thing is an important or necessary part or result of it",
-      "sensetop": "involve somethinginvolve doing somethinginvolve somebody/something doing something",
-      "labels": "(formal)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Any investment involves an element of risk.",
-          "contextForm": "involve something"
-        },
-        {
-          "text": "The process involves using steam to sterilize the instruments.",
-          "contextForm": "involve doing something"
-        },
-        {
-          "text": "The test will involve answering questions about a photograph."
-        },
-        {
-          "text": "The job involves me travelling all over the country.",
-          "contextForm": "involve somebody/something doing something"
-        },
-        {
-          "text": "The job involves my travelling all over the country."
-        },
-        {
-          "text": "Many of the crimes involved drugs."
-        },
-        {
-          "text": "Inventions typically involve minor improvements in technology."
-        },
-        {
-          "text": "The reforms will inevitably involve a lot of new paperwork for teachers."
-        },
-        {
-          "text": "The measures to improve the health service will involve an increase in government spending."
-        }
-      ],
-      "collocations": {
-        "adverb": ["generally", "typically", "usually"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "if a situation, an event or an activity involves somebody/something, they take part in it or are affected by it",
-      "sensetop": "involve somebody/something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "There was a serious incident involving a group of youths."
-        },
-        {
-          "text": "cases involving the care of young children"
-        }
-      ],
-      "collocations": {
-        "adverb": ["actively", "directly"],
-        "preposition": ["in"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to make somebody take part in something",
-      "sensetop": "involve somebody (in something/in doing something)involve yourself (in something)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "We want to involve as many people as possible in the celebrations.",
-          "contextForm": "involve somebody (in something/in doing something)"
-        },
-        {
-          "text": "Parents should involve themselves in their child's education.",
-          "contextForm": "involve yourself (in something)"
-        }
-      ],
-      "collocations": {
-        "adverb": ["actively", "directly"],
-        "preposition": ["in"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to say or do something to show that somebody took part in something, especially a crime",
-      "sensetop": "involve somebody (in something)",
-      "examples": [
-        {
-          "text": "His confession involved a number of other politicians in the affair."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈvɒlv/",
-        "audio": "in/involve/involve__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈvɒlvz/",
-        "audio": "in/involve/involves__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈvɒlvd/",
-        "audio": "in/involve/involved__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈvɒlvɪŋ/",
-        "audio": "in/involve/involving__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈvɑːlv/",
-        "audio": "in/involve/involve__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈvɑːlvz/",
-        "audio": "in/involve/involves__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈvɑːlvd/",
-        "audio": "in/involve/involved__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈvɑːlvɪŋ/",
-        "audio": "in/involve/involving__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the senses ‘enfold’ and ‘entangle’; formerly also as envolve): from Latin involvere, from in- ‘into’ + volvere ‘to roll’."
+	"term": "involve",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "involve",
+			"heSheIt": "involves"
+		},
+		"pastSimple": "involved",
+		"pastParticiple": "involved",
+		"ingForm": "involving"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "if a situation, an event or an activity involves something, that thing is an important or necessary part or result of it",
+			"sensetop": "involve somethinginvolve doing somethinginvolve somebody/something doing something",
+			"labels": "(formal)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Any investment involves an element of risk.",
+					"contextForm": "involve something"
+				},
+				{
+					"text": "The process involves using steam to sterilize the instruments.",
+					"contextForm": "involve doing something"
+				},
+				{
+					"text": "The test will involve answering questions about a photograph."
+				},
+				{
+					"text": "The job involves me travelling all over the country.",
+					"contextForm": "involve somebody/something doing something"
+				},
+				{
+					"text": "The job involves my travelling all over the country."
+				},
+				{
+					"text": "Many of the crimes involved drugs."
+				},
+				{
+					"text": "Inventions typically involve minor improvements in technology."
+				},
+				{
+					"text": "The reforms will inevitably involve a lot of new paperwork for teachers."
+				},
+				{
+					"text": "The measures to improve the health service will involve an increase in government spending."
+				}
+			],
+			"collocations": {
+				"adverb": ["generally", "typically", "usually"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "if a situation, an event or an activity involves somebody/something, they take part in it or are affected by it",
+			"sensetop": "involve somebody/something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "There was a serious incident involving a group of youths."
+				},
+				{
+					"text": "cases involving the care of young children"
+				}
+			],
+			"collocations": {
+				"adverb": ["actively", "directly"],
+				"preposition": ["in"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to make somebody take part in something",
+			"sensetop": "involve somebody (in something/in doing something)involve yourself (in something)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "We want to involve as many people as possible in the celebrations.",
+					"contextForm": "involve somebody (in something/in doing something)"
+				},
+				{
+					"text": "Parents should involve themselves in their child's education.",
+					"contextForm": "involve yourself (in something)"
+				}
+			],
+			"collocations": {
+				"adverb": ["actively", "directly"],
+				"preposition": ["in"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to say or do something to show that somebody took part in something, especially a crime",
+			"sensetop": "involve somebody (in something)",
+			"examples": [
+				{
+					"text": "His confession involved a number of other politicians in the affair."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈvɒlv/",
+				"audio": "in/involve/involve__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈvɒlvz/",
+				"audio": "in/involve/involves__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈvɒlvd/",
+				"audio": "in/involve/involved__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈvɒlvɪŋ/",
+				"audio": "in/involve/involving__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈvɑːlv/",
+				"audio": "in/involve/involve__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈvɑːlvz/",
+				"audio": "in/involve/involves__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈvɑːlvd/",
+				"audio": "in/involve/involved__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈvɑːlvɪŋ/",
+				"audio": "in/involve/involving__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the senses ‘enfold’ and ‘entangle’; formerly also as envolve): from Latin involvere, from in- ‘into’ + volvere ‘to roll’."
 }

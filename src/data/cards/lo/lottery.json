@@ -1,74 +1,74 @@
 {
-  "term": "lottery",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a way of raising money for a government, charity, etc. by selling tickets that have different numbers on them that people have chosen. Numbers are then chosen by chance and the people who have those numbers on their tickets win prizes.",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "the **national/state lottery**"
-        },
-        {
-          "text": "a lottery ticket"
-        },
-        {
-          "text": "A couple scooped £10 million on the national lottery."
-        },
-        {
-          "text": "I won my car in a lottery"
-        },
-        {
-          "text": "These programs use state lotteries to fund the student awards."
-        },
-        {
-          "text": "We're having a lottery to raise money for homeless families."
-        },
-        {
-          "text": "a $3 million lottery jackpot"
-        }
-      ],
-      "topics": ["Money"],
-      "collocations": {
-        "adjective": ["national", "state"],
-        "verb + lottery": ["have", "hold", "run"],
-        "lottery + verb": ["fund something", "raise something"],
-        "lottery + noun": ["ticket", "winner", "jackpot"],
-        "preposition": ["in a/​the lottery", "on the lottery"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a situation whose success or result is based on luck rather than on effort or careful organization",
-      "labels": "(often disapproving)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "Some people think that marriage is a lottery."
-        },
-        {
-          "text": "Politicians have acknowledged that it is a bit of a lottery who gets funding."
-        }
-      ],
-      "synonyms": "gamble"
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈlɒtəri/",
-        "audio": "lo/lottery/lottery__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈlɑːtəri/",
-        "audio": "lo/lottery/lottery__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent.: probably from Dutch loterij, from lot ‘lot’."
+	"term": "lottery",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a way of raising money for a government, charity, etc. by selling tickets that have different numbers on them that people have chosen. Numbers are then chosen by chance and the people who have those numbers on their tickets win prizes.",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "the **national/state lottery**"
+				},
+				{
+					"text": "a lottery ticket"
+				},
+				{
+					"text": "A couple scooped £10 million on the national lottery."
+				},
+				{
+					"text": "I won my car in a lottery"
+				},
+				{
+					"text": "These programs use state lotteries to fund the student awards."
+				},
+				{
+					"text": "We're having a lottery to raise money for homeless families."
+				},
+				{
+					"text": "a $3 million lottery jackpot"
+				}
+			],
+			"topics": ["Money"],
+			"collocations": {
+				"adjective": ["national", "state"],
+				"verb + lottery": ["have", "hold", "run"],
+				"lottery + verb": ["fund something", "raise something"],
+				"lottery + noun": ["ticket", "winner", "jackpot"],
+				"preposition": ["in a/​the lottery", "on the lottery"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a situation whose success or result is based on luck rather than on effort or careful organization",
+			"labels": "(often disapproving)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "Some people think that marriage is a lottery."
+				},
+				{
+					"text": "Politicians have acknowledged that it is a bit of a lottery who gets funding."
+				}
+			],
+			"synonyms": "gamble"
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈlɒtəri/",
+				"audio": "lo/lottery/lottery__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈlɑːtəri/",
+				"audio": "lo/lottery/lottery__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent.: probably from Dutch loterij, from lot ‘lot’."
 }

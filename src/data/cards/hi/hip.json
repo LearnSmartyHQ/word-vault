@@ -1,108 +1,108 @@
 {
-  "term": "hip",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "image": "data/images/bo/body.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the area at either side of the body between the top of the leg and the middle part of the body; the joint at the top of the leg that connects it with the top part of the body",
-      "labels": "(informal)(formal)(British English)(British English)(disapproving)(both informal, often disapproving)(informal, disapproving)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "She stood with her hands on her hips."
-        },
-        {
-          "text": "These jeans are too tight around the hips."
-        },
-        {
-          "text": "a hip replacement operation"
-        },
-        {
-          "text": "the hip bone"
-        },
-        {
-          "text": "She broke her hip in the fall."
-        },
-        {
-          "text": "He leaned casually against the door frame, hands on hips."
-        },
-        {
-          "text": "He put his hands on his hips and sighed."
-        },
-        {
-          "text": "Her hips were very narrow like a girl's."
-        },
-        {
-          "text": "Her hips were swaying in time to the music."
-        },
-        {
-          "text": "My grandmother's having a hip replacement."
-        },
-        {
-          "text": "She was carrying a baby on her hip."
-        },
-        {
-          "text": "She was wearing a short blue dress, belted across the hips."
-        },
-        {
-          "text": "The gun could be fired from the shoulder or from the hip."
-        },
-        {
-          "text": "Twist your hips in your opponent's direction as you punch."
-        },
-        {
-          "text": "He had his leg amputated at the hip."
-        }
-      ],
-      "topics": ["Body"],
-      "collocations": {
-        "adjective": ["lean", "narrow", "slender"],
-        "verb + hip": ["have your hands on", "put your hands on", "gyrate"],
-        "hip + verb": ["move", "sway", "swing"],
-        "hip + noun": ["fracture", "injury", "pain"],
-        "preposition": ["across the hips", "at the hip", "from the hip"],
-        "phrases": ["hands on (your) hips"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "having hips of the size or shape mentioned",
-      "examples": [
-        {
-          "text": "large-hipped"
-        },
-        {
-          "text": "slim-hipped"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the red fruit that grows on some types of wild rose bush",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to react quickly without thinking carefully first",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/hɪp/",
-        "audio": "hi/hip/hip__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/hɪp/",
-        "audio": "hi/hip/hip__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "noun senses 1 to 2 Old English hype, of Germanic origin; related to Dutch heup and German Hüfte, also to hop (verb). noun sense 3 Old English hēope, hīope, of West Germanic origin; related to Dutch joop and German Hiefe."
+	"term": "hip",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"image": "data/images/bo/body.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the area at either side of the body between the top of the leg and the middle part of the body; the joint at the top of the leg that connects it with the top part of the body",
+			"labels": "(informal)(formal)(British English)(British English)(disapproving)(both informal, often disapproving)(informal, disapproving)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "She stood with her hands on her hips."
+				},
+				{
+					"text": "These jeans are too tight around the hips."
+				},
+				{
+					"text": "a hip replacement operation"
+				},
+				{
+					"text": "the hip bone"
+				},
+				{
+					"text": "She broke her hip in the fall."
+				},
+				{
+					"text": "He leaned casually against the door frame, hands on hips."
+				},
+				{
+					"text": "He put his hands on his hips and sighed."
+				},
+				{
+					"text": "Her hips were very narrow like a girl's."
+				},
+				{
+					"text": "Her hips were swaying in time to the music."
+				},
+				{
+					"text": "My grandmother's having a hip replacement."
+				},
+				{
+					"text": "She was carrying a baby on her hip."
+				},
+				{
+					"text": "She was wearing a short blue dress, belted across the hips."
+				},
+				{
+					"text": "The gun could be fired from the shoulder or from the hip."
+				},
+				{
+					"text": "Twist your hips in your opponent's direction as you punch."
+				},
+				{
+					"text": "He had his leg amputated at the hip."
+				}
+			],
+			"topics": ["Body"],
+			"collocations": {
+				"adjective": ["lean", "narrow", "slender"],
+				"verb + hip": ["have your hands on", "put your hands on", "gyrate"],
+				"hip + verb": ["move", "sway", "swing"],
+				"hip + noun": ["fracture", "injury", "pain"],
+				"preposition": ["across the hips", "at the hip", "from the hip"],
+				"phrases": ["hands on (your) hips"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "having hips of the size or shape mentioned",
+			"examples": [
+				{
+					"text": "large-hipped"
+				},
+				{
+					"text": "slim-hipped"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the red fruit that grows on some types of wild rose bush",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to react quickly without thinking carefully first",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/hɪp/",
+				"audio": "hi/hip/hip__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/hɪp/",
+				"audio": "hi/hip/hip__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "noun senses 1 to 2 Old English hype, of Germanic origin; related to Dutch heup and German Hüfte, also to hop (verb). noun sense 3 Old English hēope, hīope, of West Germanic origin; related to Dutch joop and German Hiefe."
 }

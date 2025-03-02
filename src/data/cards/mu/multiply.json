@@ -1,155 +1,155 @@
 {
-  "term": "multiply",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "multiply",
-      "heSheIt": "multiplies"
-    },
-    "pastSimple": "multiplied",
-    "pastParticiple": "multiplied",
-    "ingForm": "multiplying"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to add a number to itself a particular number of times",
-      "sensetop": "multiply A by Bmultiply A and B (together)multiply something up",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The children are already learning to multiply and divide."
-        },
-        {
-          "text": "2 multiplied by 4 is/equals/makes 8 *(= 2 × 4  =  8)*.",
-          "contextForm": "multiply A by B"
-        },
-        {
-          "text": "Multiply the length by the width."
-        },
-        {
-          "text": "Multiply 2 and 6 together and you get 12.",
-          "contextForm": "multiply A and B (together)"
-        },
-        {
-          "text": "If you are cooking for more people, just multiply up the quantities.",
-          "contextForm": "multiply something up"
-        },
-        {
-          "text": "The results were multiplied by 1 000."
-        },
-        {
-          "text": "Multiply these two figures together."
-        },
-        {
-          "text": "Your pension is a percentage of final salary multiplied by length of service."
-        },
-        {
-          "text": "The momentum of an object is defined as its mass multiplied by its velocity."
-        }
-      ],
-      "topics": ["Maths and measurement"],
-      "collocations": {
-        "adverb": ["endlessly", "indefinitely", "greatly"],
-        "preposition": ["by"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to increase or make something increase very much in number or amount",
-      "sensetop": "multiply something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Our problems have multiplied since last year."
-        },
-        {
-          "text": "Cigarette smoking multiplies the risk of cancer.",
-          "contextForm": "multiply something"
-        },
-        {
-          "text": "The film was a great success, with screenings multiplying week by week."
-        },
-        {
-          "text": "Just imagine all the problems we've been having, multiplied a thousandfold."
-        },
-        {
-          "text": "Her bitterness was multiplied by his refusal to apologize."
-        }
-      ],
-      "topics": ["Change, cause and effect"],
-      "collocations": {
-        "adverb": ["endlessly", "indefinitely", "greatly"],
-        "preposition": ["by"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to produce young animals, bacteria, etc. in large numbers",
-      "sensetop": "multiply something",
-      "labels": "(biology)",
-      "examples": [
-        {
-          "text": "Rabbits multiply rapidly."
-        },
-        {
-          "text": "Protected reserves help tigers survive and multiply."
-        },
-        {
-          "text": "microorganisms that multiply rapidly"
-        },
-        {
-          "text": "It is possible to multiply these bacteria in the laboratory.",
-          "contextForm": "multiply something"
-        }
-      ],
-      "collocations": {
-        "adverb": ["endlessly", "indefinitely", "greatly"],
-        "preposition": ["by"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmʌltɪplaɪ/",
-        "audio": "mu/multiply/multiply__gb_4.mp3"
-      },
-      {
-        "pronunciation": "/ˈmʌltɪplaɪz/",
-        "audio": "mu/multiply/multiplies__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmʌltɪplaɪd/",
-        "audio": "mu/multiply/multiplied__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmʌltɪplaɪɪŋ/",
-        "audio": "mu/multiply/multiplying__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmʌltɪplaɪ/",
-        "audio": "mu/multiply/multiply__us_3.mp3"
-      },
-      {
-        "pronunciation": "/ˈmʌltɪplaɪz/",
-        "audio": "mu/multiply/multiplies__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmʌltɪplaɪd/",
-        "audio": "mu/multiply/multiplied__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmʌltɪplaɪɪŋ/",
-        "audio": "mu/multiply/multiplying__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French multiplier, from Latin multiplicare."
+	"term": "multiply",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "multiply",
+			"heSheIt": "multiplies"
+		},
+		"pastSimple": "multiplied",
+		"pastParticiple": "multiplied",
+		"ingForm": "multiplying"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to add a number to itself a particular number of times",
+			"sensetop": "multiply A by Bmultiply A and B (together)multiply something up",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The children are already learning to multiply and divide."
+				},
+				{
+					"text": "2 multiplied by 4 is/equals/makes 8 *(= 2 × 4  =  8)*.",
+					"contextForm": "multiply A by B"
+				},
+				{
+					"text": "Multiply the length by the width."
+				},
+				{
+					"text": "Multiply 2 and 6 together and you get 12.",
+					"contextForm": "multiply A and B (together)"
+				},
+				{
+					"text": "If you are cooking for more people, just multiply up the quantities.",
+					"contextForm": "multiply something up"
+				},
+				{
+					"text": "The results were multiplied by 1 000."
+				},
+				{
+					"text": "Multiply these two figures together."
+				},
+				{
+					"text": "Your pension is a percentage of final salary multiplied by length of service."
+				},
+				{
+					"text": "The momentum of an object is defined as its mass multiplied by its velocity."
+				}
+			],
+			"topics": ["Maths and measurement"],
+			"collocations": {
+				"adverb": ["endlessly", "indefinitely", "greatly"],
+				"preposition": ["by"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to increase or make something increase very much in number or amount",
+			"sensetop": "multiply something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Our problems have multiplied since last year."
+				},
+				{
+					"text": "Cigarette smoking multiplies the risk of cancer.",
+					"contextForm": "multiply something"
+				},
+				{
+					"text": "The film was a great success, with screenings multiplying week by week."
+				},
+				{
+					"text": "Just imagine all the problems we've been having, multiplied a thousandfold."
+				},
+				{
+					"text": "Her bitterness was multiplied by his refusal to apologize."
+				}
+			],
+			"topics": ["Change, cause and effect"],
+			"collocations": {
+				"adverb": ["endlessly", "indefinitely", "greatly"],
+				"preposition": ["by"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to produce young animals, bacteria, etc. in large numbers",
+			"sensetop": "multiply something",
+			"labels": "(biology)",
+			"examples": [
+				{
+					"text": "Rabbits multiply rapidly."
+				},
+				{
+					"text": "Protected reserves help tigers survive and multiply."
+				},
+				{
+					"text": "microorganisms that multiply rapidly"
+				},
+				{
+					"text": "It is possible to multiply these bacteria in the laboratory.",
+					"contextForm": "multiply something"
+				}
+			],
+			"collocations": {
+				"adverb": ["endlessly", "indefinitely", "greatly"],
+				"preposition": ["by"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmʌltɪplaɪ/",
+				"audio": "mu/multiply/multiply__gb_4.mp3"
+			},
+			{
+				"pronunciation": "/ˈmʌltɪplaɪz/",
+				"audio": "mu/multiply/multiplies__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmʌltɪplaɪd/",
+				"audio": "mu/multiply/multiplied__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmʌltɪplaɪɪŋ/",
+				"audio": "mu/multiply/multiplying__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmʌltɪplaɪ/",
+				"audio": "mu/multiply/multiply__us_3.mp3"
+			},
+			{
+				"pronunciation": "/ˈmʌltɪplaɪz/",
+				"audio": "mu/multiply/multiplies__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmʌltɪplaɪd/",
+				"audio": "mu/multiply/multiplied__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmʌltɪplaɪɪŋ/",
+				"audio": "mu/multiply/multiplying__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French multiplier, from Latin multiplicare."
 }

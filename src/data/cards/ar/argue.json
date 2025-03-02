@@ -1,188 +1,188 @@
 {
-  "term": "argue",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "argue",
-      "heSheIt": "argues"
-    },
-    "pastSimple": "argued",
-    "pastParticiple": "argued",
-    "ingForm": "arguing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to speak angrily to somebody because you disagree with them",
-      "sensetop": "argue with somebody about/over somethingargue about somethingargue over somethingargue with somebody",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "My brothers are always arguing."
-        },
-        {
-          "text": "He's offering to pay so who am I to argue?"
-        },
-        {
-          "text": "We're always arguing with each other about money.",
-          "contextForm": "argue with somebody about/over something"
-        },
-        {
-          "text": "I know it was a stupid thing to argue about.",
-          "contextForm": "argue about something"
-        },
-        {
-          "text": "All families seem to argue over money.",
-          "contextForm": "argue over something"
-        },
-        {
-          "text": "I don't want to argue with you—just do it!",
-          "contextForm": "argue with somebody"
-        },
-        {
-          "text": "She's always arguing with her mother."
-        },
-        {
-          "text": "They were arguing over who should have the car that day."
-        },
-        {
-          "text": "Magda walked out of the room before I could argue back."
-        }
-      ],
-      "topics": ["Opinion and argument", "Feelings"],
-      "collocations": {
-        "adverb": ["bitterly", "fiercely", "furiously"],
-        "preposition": ["about", "over", "with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to give reasons why you think that something is right/wrong, true/not true, etc., especially to persuade people that you are right",
-      "sensetop": "argue for/against something/doing somethingargue somethingargue that…",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They argued for the right to strike.",
-          "contextForm": "argue for/against something/doing something"
-        },
-        {
-          "text": "He argues persuasively against nationalism."
-        },
-        {
-          "text": "She argued the case for bringing back the death penalty.",
-          "contextForm": "argue something"
-        },
-        {
-          "text": "He was too tired to **argue the point** *(= discuss the matter)*."
-        },
-        {
-          "text": "a well-argued article"
-        },
-        {
-          "text": "Critics argue that Britain is not investing enough in broadband.",
-          "contextForm": "argue that…"
-        },
-        {
-          "text": "**It could be argued that** laws are made by and for men."
-        },
-        {
-          "text": "He argued that they needed more time to finish the project."
-        },
-        {
-          "text": "His lawyer successfully argued that the punishment was excessive."
-        },
-        {
-          "text": "The general argued for extending the ceasefire."
-        },
-        {
-          "text": "They argued in favour of stricter punishments."
-        },
-        {
-          "text": "She argued against a rise in interest rates."
-        },
-        {
-          "text": "I would wish to argue that appreciation of the arts should be encouraged for its own sake."
-        },
-        {
-          "text": "In her paper she goes on to argue that scientists do not yet know enough about the nature of the disease."
-        },
-        {
-          "text": "It is possible to argue that the rules are too strict."
-        },
-        {
-          "text": "The report argues convincingly that economic help should be given to these countries."
-        },
-        {
-          "text": "You could easily argue that this policy will have no effect."
-        }
-      ],
-      "topics": ["Opinion and argument", "Discussion and agreement"],
-      "collocations": {
-        "adverb": ["forcefully", "passionately", "strenuously"],
-        "verb + argue": ["wish to", "be prepared to", "attempt to"],
-        "preposition": ["against", "for", "in favour/​favor of"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to show clearly that something exists or is true",
-      "sensetop": "argue something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "These latest developments argue a change in government policy."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to continue to disagree about a decision, especially when it is too late to change it or it is not very important",
-      "labels": "(British English, informal)",
-      "examples": [],
-      "topics": ["Opinion and argument"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈɑːɡjuː/",
-        "audio": "ar/argue/argue__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈɑːɡjuːz/",
-        "audio": "ar/argue/argues__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɑːɡjuːd/",
-        "audio": "ar/argue/argued__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɑːɡjuːɪŋ/",
-        "audio": "ar/argue/arguing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈɑːrɡjuː/",
-        "audio": "ar/argue/argue__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈɑːrɡjuːz/",
-        "audio": "ar/argue/argues__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɑːrɡjuːd/",
-        "audio": "ar/argue/argued__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈɑːrɡjuːɪŋ/",
-        "audio": "ar/argue/arguing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French arguer, from Latin argutari ‘prattle’, frequentative of arguere ‘make clear, prove, accuse’."
+	"term": "argue",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "argue",
+			"heSheIt": "argues"
+		},
+		"pastSimple": "argued",
+		"pastParticiple": "argued",
+		"ingForm": "arguing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to speak angrily to somebody because you disagree with them",
+			"sensetop": "argue with somebody about/over somethingargue about somethingargue over somethingargue with somebody",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "My brothers are always arguing."
+				},
+				{
+					"text": "He's offering to pay so who am I to argue?"
+				},
+				{
+					"text": "We're always arguing with each other about money.",
+					"contextForm": "argue with somebody about/over something"
+				},
+				{
+					"text": "I know it was a stupid thing to argue about.",
+					"contextForm": "argue about something"
+				},
+				{
+					"text": "All families seem to argue over money.",
+					"contextForm": "argue over something"
+				},
+				{
+					"text": "I don't want to argue with you—just do it!",
+					"contextForm": "argue with somebody"
+				},
+				{
+					"text": "She's always arguing with her mother."
+				},
+				{
+					"text": "They were arguing over who should have the car that day."
+				},
+				{
+					"text": "Magda walked out of the room before I could argue back."
+				}
+			],
+			"topics": ["Opinion and argument", "Feelings"],
+			"collocations": {
+				"adverb": ["bitterly", "fiercely", "furiously"],
+				"preposition": ["about", "over", "with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to give reasons why you think that something is right/wrong, true/not true, etc., especially to persuade people that you are right",
+			"sensetop": "argue for/against something/doing somethingargue somethingargue that…",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They argued for the right to strike.",
+					"contextForm": "argue for/against something/doing something"
+				},
+				{
+					"text": "He argues persuasively against nationalism."
+				},
+				{
+					"text": "She argued the case for bringing back the death penalty.",
+					"contextForm": "argue something"
+				},
+				{
+					"text": "He was too tired to **argue the point** *(= discuss the matter)*."
+				},
+				{
+					"text": "a well-argued article"
+				},
+				{
+					"text": "Critics argue that Britain is not investing enough in broadband.",
+					"contextForm": "argue that…"
+				},
+				{
+					"text": "**It could be argued that** laws are made by and for men."
+				},
+				{
+					"text": "He argued that they needed more time to finish the project."
+				},
+				{
+					"text": "His lawyer successfully argued that the punishment was excessive."
+				},
+				{
+					"text": "The general argued for extending the ceasefire."
+				},
+				{
+					"text": "They argued in favour of stricter punishments."
+				},
+				{
+					"text": "She argued against a rise in interest rates."
+				},
+				{
+					"text": "I would wish to argue that appreciation of the arts should be encouraged for its own sake."
+				},
+				{
+					"text": "In her paper she goes on to argue that scientists do not yet know enough about the nature of the disease."
+				},
+				{
+					"text": "It is possible to argue that the rules are too strict."
+				},
+				{
+					"text": "The report argues convincingly that economic help should be given to these countries."
+				},
+				{
+					"text": "You could easily argue that this policy will have no effect."
+				}
+			],
+			"topics": ["Opinion and argument", "Discussion and agreement"],
+			"collocations": {
+				"adverb": ["forcefully", "passionately", "strenuously"],
+				"verb + argue": ["wish to", "be prepared to", "attempt to"],
+				"preposition": ["against", "for", "in favour/​favor of"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to show clearly that something exists or is true",
+			"sensetop": "argue something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "These latest developments argue a change in government policy."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to continue to disagree about a decision, especially when it is too late to change it or it is not very important",
+			"labels": "(British English, informal)",
+			"examples": [],
+			"topics": ["Opinion and argument"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈɑːɡjuː/",
+				"audio": "ar/argue/argue__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈɑːɡjuːz/",
+				"audio": "ar/argue/argues__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɑːɡjuːd/",
+				"audio": "ar/argue/argued__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɑːɡjuːɪŋ/",
+				"audio": "ar/argue/arguing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈɑːrɡjuː/",
+				"audio": "ar/argue/argue__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈɑːrɡjuːz/",
+				"audio": "ar/argue/argues__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɑːrɡjuːd/",
+				"audio": "ar/argue/argued__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈɑːrɡjuːɪŋ/",
+				"audio": "ar/argue/arguing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French arguer, from Latin argutari ‘prattle’, frequentative of arguere ‘make clear, prove, accuse’."
 }

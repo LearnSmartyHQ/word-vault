@@ -1,402 +1,402 @@
 {
-  "term": "cover",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "cover",
-      "heSheIt": "covers"
-    },
-    "pastSimple": "covered",
-    "pastParticiple": "covered",
-    "ingForm": "covering"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to place something over or in front of something in order to hide, protect or decorate it",
-      "sensetop": "cover something with somethingcover something",
-      "labels": "(figurative)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Cover the chicken loosely with foil.",
-          "contextForm": "cover something with something"
-        },
-        {
-          "text": "She covered her face with her hands."
-        },
-        {
-          "text": "I covered my mouth to stifle a yawn.",
-          "contextForm": "cover something"
-        },
-        {
-          "text": "He laughed to cover *(= hide)* his nervousness."
-        },
-        {
-          "text": "He tried to cover his embarrassment by starting to rub his hands together."
-        },
-        {
-          "text": "Her hair partially covered her face."
-        },
-        {
-          "text": "She tried to cover her face with her hands."
-        },
-        {
-          "text": "She used dried leaves and twigs to cover up the hole."
-        }
-      ],
-      "collocations": {
-        "adverb": ["completely", "entirely", "loosely"],
-        "verb + cover": ["try to", "use something to"],
-        "preposition": ["with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to lie or spread over the surface of something",
-      "sensetop": "cover somethingbe covered with somethingbe covered in something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Snow covered the ground.",
-          "contextForm": "cover something"
-        },
-        {
-          "text": "Much of the country is covered by forest."
-        },
-        {
-          "text": "Its head, body, and tail are **completely covered** with brown fur.",
-          "contextForm": "be covered with something"
-        },
-        {
-          "text": "His chest was covered in bruises.",
-          "contextForm": "be covered in something"
-        }
-      ],
-      "collocations": {
-        "adverb": ["completely"],
-        "preposition": ["in", "with"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to put or spread a layer of liquid, dust, etc. on somebody/something",
-      "sensetop": "cover somebody/something with somethingcover somebody/something in somethingbe covered with somethingbe covered in something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The wind blew in from the desert and covered everything with sand.",
-          "contextForm": "cover somebody/something with something"
-        },
-        {
-          "text": "Soak the dried mushrooms by covering them in boiling water for a few minutes.",
-          "contextForm": "cover somebody/something in something"
-        },
-        {
-          "text": "The steps were now completely covered with water.",
-          "contextForm": "be covered with something"
-        },
-        {
-          "text": "The players were soon covered in mud.",
-          "contextForm": "be covered in something"
-        },
-        {
-          "text": "The cars were all covered in snow."
-        },
-        {
-          "text": "The children were completely covered with mud."
-        }
-      ],
-      "collocations": {
-        "adverb": ["completely"],
-        "preposition": ["in", "with"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to include something; to deal with something",
-      "sensetop": "cover something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The lectures **covered a lot of ground** *(= a lot of material, subjects, etc.)*."
-        },
-        {
-          "text": "The survey covers all aspects of the business."
-        },
-        {
-          "text": "The articles **cover a** wide **range** of subjects."
-        },
-        {
-          "text": "Each podcast **covers a** different **topic**."
-        },
-        {
-          "text": "the sales team covering the northern part of the country *(= selling to people in that area)*"
-        },
-        {
-          "text": "Do the rules cover *(= do they apply to)* a case like this?"
-        },
-        {
-          "text": "Don't worry. **I've got it covered** *(= I'm dealing with it)*."
-        },
-        {
-          "text": "The tax may be extended to cover books."
-        },
-        {
-          "text": "We've hardly covered a quarter of the course."
-        }
-      ],
-      "collocations": {
-        "adverb": ["barely", "hardly"],
-        "verb + cover": ["help (to)", "be intended to", "be extended to"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to be or provide enough money for something",
-      "sensetop": "cover something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "$100 should **cover your expenses**."
-        },
-        {
-          "text": "The show barely **covered its costs**."
-        },
-        {
-          "text": "Your parents will have to cover your tuition fees."
-        }
-      ],
-      "collocations": {
-        "adverb": ["barely", "hardly"],
-        "verb + cover": ["help (to)", "be intended to", "be extended to"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to travel the distance mentioned",
-      "sensetop": "cover something",
-      "examples": [
-        {
-          "text": "By sunset we had covered thirty miles."
-        },
-        {
-          "text": "They walked for a long time and **covered** a good deal of **ground**."
-        },
-        {
-          "text": "He covered the journey at top speed."
-        },
-        {
-          "text": "They covered long distances on foot."
-        },
-        {
-          "text": "We must have covered over 20 miles."
-        },
-        {
-          "text": "I covered a lot of ground rapidly and soon caught up with them."
-        }
-      ]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to spread over the area mentioned",
-      "sensetop": "cover something",
-      "examples": [
-        {
-          "text": "The reserve **covers an area** of some 1 140 square kilometres."
-        }
-      ]
-    },
-    {
-      "senseNumber": 8,
-      "definition": "to report on an event for television, a newspaper, etc.; to show an event on television",
-      "sensetop": "cover something",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "She's covering the party's annual conference."
-        },
-        {
-          "text": "The BBC will cover all the major games of the tournament."
-        },
-        {
-          "text": "The media has consistently refused to **cover the story**."
-        }
-      ],
-      "topics": ["TV, radio and news"]
-    },
-    {
-      "senseNumber": 9,
-      "definition": "to do somebody’s work or duties while they are away",
-      "sensetop": "cover for somebody",
-      "examples": [
-        {
-          "text": "I'm covering for Jane while she's on leave."
-        }
-      ]
-    },
-    {
-      "senseNumber": 10,
-      "definition": "to invent a lie or an excuse that will stop somebody from getting into trouble",
-      "sensetop": "cover for somebody",
-      "examples": [
-        {
-          "text": "I have to go out for a minute—will you cover for me if anyone asks where I am?"
-        }
-      ]
-    },
-    {
-      "senseNumber": 11,
-      "definition": "to protect somebody against loss, injury, etc. by insurance",
-      "sensetop": "cover somebody/something (against/for something)cover somebody/something to do something",
-      "examples": [
-        {
-          "text": "Are you fully covered for fire and theft?",
-          "contextForm": "cover somebody/something (against/for something)"
-        },
-        {
-          "text": "Does this policy cover my husband to drive?",
-          "contextForm": "cover somebody/something to do something"
-        },
-        {
-          "text": "This policy should cover you against accidental injury."
-        },
-        {
-          "text": "a policy that covers you for fire and theft"
-        }
-      ],
-      "collocations": {
-        "preposition": ["against", "for"]
-      }
-    },
-    {
-      "senseNumber": 12,
-      "definition": "to take action in order to protect yourself against being blamed for something",
-      "sensetop": "cover yourself (against something)",
-      "examples": [
-        {
-          "text": "Many firms put money aside to cover themselves against possible legal claims."
-        }
-      ]
-    },
-    {
-      "senseNumber": 13,
-      "definition": "to protect somebody by threatening to shoot at anyone who tries to attack them",
-      "sensetop": "cover somebody",
-      "examples": [
-        {
-          "text": "Cover me while I move forward."
-        },
-        {
-          "text": "The artillery gave us covering fire *(= shot to protect us)*."
-        }
-      ]
-    },
-    {
-      "senseNumber": 14,
-      "definition": "to aim a gun at a place or person so that nobody can escape or shoot",
-      "sensetop": "cover somebody/something",
-      "examples": [
-        {
-          "text": "The police covered the exits to the building."
-        },
-        {
-          "text": "Don't move—we've **got you covered**!"
-        }
-      ]
-    },
-    {
-      "senseNumber": 15,
-      "definition": "to record a new version of a song that was originally recorded by another band or singer",
-      "sensetop": "cover something",
-      "examples": [
-        {
-          "text": "They've covered an old Rolling Stones number."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to consider and deal with all the things that could happen or could be needed when you are arranging something",
-      "examples": [
-        {
-          "text": "I am confident this contract covers all the bases."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to realize that you may be blamed or criticized for something later and take action to avoid this",
-      "examples": [
-        {
-          "text": "Get everything in writing in order to cover your back."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to hide the real situation or facts when these are not good or pleasant",
-      "labels": "(often humorous)",
-      "examples": [
-        {
-          "text": "It's a shabby old sofa but cushions and throws can hide a multitude of sins."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to try and hide what you have done, because you do not want other people to find out about it",
-      "examples": [
-        {
-          "text": "He had attempted to cover his tracks by wiping the hard disk on his computer."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkʌvə(r)/",
-        "audio": "co/cover/cover__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkʌvəz/",
-        "audio": "co/cover/covers__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkʌvəd/",
-        "audio": "co/cover/covered__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkʌvərɪŋ/",
-        "audio": "co/cover/covering__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkʌvər/",
-        "audio": "co/cover/cover__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈkʌvərz/",
-        "audio": "co/cover/covers__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkʌvərd/",
-        "audio": "co/cover/covered__us_3.mp3"
-      },
-      {
-        "pronunciation": "/ˈkʌvərɪŋ/",
-        "audio": "co/cover/covering__us_2_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French covrir, from Latin cooperire, from co- (expressing intensive force) + operire ‘to cover’. The noun is partly a variant of covert."
+	"term": "cover",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "cover",
+			"heSheIt": "covers"
+		},
+		"pastSimple": "covered",
+		"pastParticiple": "covered",
+		"ingForm": "covering"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to place something over or in front of something in order to hide, protect or decorate it",
+			"sensetop": "cover something with somethingcover something",
+			"labels": "(figurative)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Cover the chicken loosely with foil.",
+					"contextForm": "cover something with something"
+				},
+				{
+					"text": "She covered her face with her hands."
+				},
+				{
+					"text": "I covered my mouth to stifle a yawn.",
+					"contextForm": "cover something"
+				},
+				{
+					"text": "He laughed to cover *(= hide)* his nervousness."
+				},
+				{
+					"text": "He tried to cover his embarrassment by starting to rub his hands together."
+				},
+				{
+					"text": "Her hair partially covered her face."
+				},
+				{
+					"text": "She tried to cover her face with her hands."
+				},
+				{
+					"text": "She used dried leaves and twigs to cover up the hole."
+				}
+			],
+			"collocations": {
+				"adverb": ["completely", "entirely", "loosely"],
+				"verb + cover": ["try to", "use something to"],
+				"preposition": ["with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to lie or spread over the surface of something",
+			"sensetop": "cover somethingbe covered with somethingbe covered in something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Snow covered the ground.",
+					"contextForm": "cover something"
+				},
+				{
+					"text": "Much of the country is covered by forest."
+				},
+				{
+					"text": "Its head, body, and tail are **completely covered** with brown fur.",
+					"contextForm": "be covered with something"
+				},
+				{
+					"text": "His chest was covered in bruises.",
+					"contextForm": "be covered in something"
+				}
+			],
+			"collocations": {
+				"adverb": ["completely"],
+				"preposition": ["in", "with"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to put or spread a layer of liquid, dust, etc. on somebody/something",
+			"sensetop": "cover somebody/something with somethingcover somebody/something in somethingbe covered with somethingbe covered in something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The wind blew in from the desert and covered everything with sand.",
+					"contextForm": "cover somebody/something with something"
+				},
+				{
+					"text": "Soak the dried mushrooms by covering them in boiling water for a few minutes.",
+					"contextForm": "cover somebody/something in something"
+				},
+				{
+					"text": "The steps were now completely covered with water.",
+					"contextForm": "be covered with something"
+				},
+				{
+					"text": "The players were soon covered in mud.",
+					"contextForm": "be covered in something"
+				},
+				{
+					"text": "The cars were all covered in snow."
+				},
+				{
+					"text": "The children were completely covered with mud."
+				}
+			],
+			"collocations": {
+				"adverb": ["completely"],
+				"preposition": ["in", "with"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to include something; to deal with something",
+			"sensetop": "cover something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The lectures **covered a lot of ground** *(= a lot of material, subjects, etc.)*."
+				},
+				{
+					"text": "The survey covers all aspects of the business."
+				},
+				{
+					"text": "The articles **cover a** wide **range** of subjects."
+				},
+				{
+					"text": "Each podcast **covers a** different **topic**."
+				},
+				{
+					"text": "the sales team covering the northern part of the country *(= selling to people in that area)*"
+				},
+				{
+					"text": "Do the rules cover *(= do they apply to)* a case like this?"
+				},
+				{
+					"text": "Don't worry. **I've got it covered** *(= I'm dealing with it)*."
+				},
+				{
+					"text": "The tax may be extended to cover books."
+				},
+				{
+					"text": "We've hardly covered a quarter of the course."
+				}
+			],
+			"collocations": {
+				"adverb": ["barely", "hardly"],
+				"verb + cover": ["help (to)", "be intended to", "be extended to"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to be or provide enough money for something",
+			"sensetop": "cover something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "$100 should **cover your expenses**."
+				},
+				{
+					"text": "The show barely **covered its costs**."
+				},
+				{
+					"text": "Your parents will have to cover your tuition fees."
+				}
+			],
+			"collocations": {
+				"adverb": ["barely", "hardly"],
+				"verb + cover": ["help (to)", "be intended to", "be extended to"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to travel the distance mentioned",
+			"sensetop": "cover something",
+			"examples": [
+				{
+					"text": "By sunset we had covered thirty miles."
+				},
+				{
+					"text": "They walked for a long time and **covered** a good deal of **ground**."
+				},
+				{
+					"text": "He covered the journey at top speed."
+				},
+				{
+					"text": "They covered long distances on foot."
+				},
+				{
+					"text": "We must have covered over 20 miles."
+				},
+				{
+					"text": "I covered a lot of ground rapidly and soon caught up with them."
+				}
+			]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to spread over the area mentioned",
+			"sensetop": "cover something",
+			"examples": [
+				{
+					"text": "The reserve **covers an area** of some 1 140 square kilometres."
+				}
+			]
+		},
+		{
+			"senseNumber": 8,
+			"definition": "to report on an event for television, a newspaper, etc.; to show an event on television",
+			"sensetop": "cover something",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "She's covering the party's annual conference."
+				},
+				{
+					"text": "The BBC will cover all the major games of the tournament."
+				},
+				{
+					"text": "The media has consistently refused to **cover the story**."
+				}
+			],
+			"topics": ["TV, radio and news"]
+		},
+		{
+			"senseNumber": 9,
+			"definition": "to do somebody’s work or duties while they are away",
+			"sensetop": "cover for somebody",
+			"examples": [
+				{
+					"text": "I'm covering for Jane while she's on leave."
+				}
+			]
+		},
+		{
+			"senseNumber": 10,
+			"definition": "to invent a lie or an excuse that will stop somebody from getting into trouble",
+			"sensetop": "cover for somebody",
+			"examples": [
+				{
+					"text": "I have to go out for a minute—will you cover for me if anyone asks where I am?"
+				}
+			]
+		},
+		{
+			"senseNumber": 11,
+			"definition": "to protect somebody against loss, injury, etc. by insurance",
+			"sensetop": "cover somebody/something (against/for something)cover somebody/something to do something",
+			"examples": [
+				{
+					"text": "Are you fully covered for fire and theft?",
+					"contextForm": "cover somebody/something (against/for something)"
+				},
+				{
+					"text": "Does this policy cover my husband to drive?",
+					"contextForm": "cover somebody/something to do something"
+				},
+				{
+					"text": "This policy should cover you against accidental injury."
+				},
+				{
+					"text": "a policy that covers you for fire and theft"
+				}
+			],
+			"collocations": {
+				"preposition": ["against", "for"]
+			}
+		},
+		{
+			"senseNumber": 12,
+			"definition": "to take action in order to protect yourself against being blamed for something",
+			"sensetop": "cover yourself (against something)",
+			"examples": [
+				{
+					"text": "Many firms put money aside to cover themselves against possible legal claims."
+				}
+			]
+		},
+		{
+			"senseNumber": 13,
+			"definition": "to protect somebody by threatening to shoot at anyone who tries to attack them",
+			"sensetop": "cover somebody",
+			"examples": [
+				{
+					"text": "Cover me while I move forward."
+				},
+				{
+					"text": "The artillery gave us covering fire *(= shot to protect us)*."
+				}
+			]
+		},
+		{
+			"senseNumber": 14,
+			"definition": "to aim a gun at a place or person so that nobody can escape or shoot",
+			"sensetop": "cover somebody/something",
+			"examples": [
+				{
+					"text": "The police covered the exits to the building."
+				},
+				{
+					"text": "Don't move—we've **got you covered**!"
+				}
+			]
+		},
+		{
+			"senseNumber": 15,
+			"definition": "to record a new version of a song that was originally recorded by another band or singer",
+			"sensetop": "cover something",
+			"examples": [
+				{
+					"text": "They've covered an old Rolling Stones number."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to consider and deal with all the things that could happen or could be needed when you are arranging something",
+			"examples": [
+				{
+					"text": "I am confident this contract covers all the bases."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to realize that you may be blamed or criticized for something later and take action to avoid this",
+			"examples": [
+				{
+					"text": "Get everything in writing in order to cover your back."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to hide the real situation or facts when these are not good or pleasant",
+			"labels": "(often humorous)",
+			"examples": [
+				{
+					"text": "It's a shabby old sofa but cushions and throws can hide a multitude of sins."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to try and hide what you have done, because you do not want other people to find out about it",
+			"examples": [
+				{
+					"text": "He had attempted to cover his tracks by wiping the hard disk on his computer."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkʌvə(r)/",
+				"audio": "co/cover/cover__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkʌvəz/",
+				"audio": "co/cover/covers__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkʌvəd/",
+				"audio": "co/cover/covered__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkʌvərɪŋ/",
+				"audio": "co/cover/covering__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkʌvər/",
+				"audio": "co/cover/cover__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈkʌvərz/",
+				"audio": "co/cover/covers__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkʌvərd/",
+				"audio": "co/cover/covered__us_3.mp3"
+			},
+			{
+				"pronunciation": "/ˈkʌvərɪŋ/",
+				"audio": "co/cover/covering__us_2_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French covrir, from Latin cooperire, from co- (expressing intensive force) + operire ‘to cover’. The noun is partly a variant of covert."
 }

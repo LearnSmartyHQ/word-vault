@@ -1,100 +1,100 @@
 {
-  "term": "gravity",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the force that attracts objects in space towards each other, and that on the earth pulls them towards the centre of the planet, so that things fall to the ground when they are dropped",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Newton’s law of gravity"
-        },
-        {
-          "text": "Gravity bends light like a lens."
-        },
-        {
-          "text": "Gravity pulls objects together."
-        },
-        {
-          "text": "The building leans so much that it seems to defy gravity."
-        },
-        {
-          "text": "The water flows from the tank by gravity to the houses below."
-        },
-        {
-          "text": "the weak gravity on the moon"
-        }
-      ],
-      "topics": ["Space", "Physics and chemistry"],
-      "collocations": {
-        "adjective": ["low", "weak", "zero"],
-        "verb + gravity": ["defy"],
-        "gravity + verb": ["pull something", "bend something"],
-        "preposition": ["by gravity"],
-        "phrases": [
-          "centre/​center of gravity",
-          "the force of gravity",
-          "the law of gravity"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "extreme importance and a cause for worry",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "I don't think you realise the gravity of the situation."
-        },
-        {
-          "text": "Punishment varies according to the gravity of the offence."
-        },
-        {
-          "text": "The threat is not being treated with the gravity it deserves."
-        },
-        {
-          "text": "Criminal law does not treat traffic offences with the gravity they deserve."
-        }
-      ],
-      "collocations": {
-        "adjective": ["extreme"],
-        "verb + gravity": ["appreciate", "realize", "understand"],
-        "preposition": ["with gravity"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "serious behaviour, speech or appearance",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "They were asked to behave with the gravity that was appropriate in a court of law."
-        }
-      ],
-      "collocations": {
-        "adjective": ["extreme"],
-        "verb + gravity": ["appreciate", "realize", "understand"],
-        "preposition": ["with gravity"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈɡrævəti/",
-        "audio": "gr/gravity/gravity__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈɡrævəti/",
-        "audio": "gr/gravity/gravity__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 15th cent. (in sense (2)): from Old French, or from Latin gravitas ‘weight, seriousness’, from gravis ‘heavy’. Sense (1) dates from the 17th cent."
+	"term": "gravity",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the force that attracts objects in space towards each other, and that on the earth pulls them towards the centre of the planet, so that things fall to the ground when they are dropped",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Newton’s law of gravity"
+				},
+				{
+					"text": "Gravity bends light like a lens."
+				},
+				{
+					"text": "Gravity pulls objects together."
+				},
+				{
+					"text": "The building leans so much that it seems to defy gravity."
+				},
+				{
+					"text": "The water flows from the tank by gravity to the houses below."
+				},
+				{
+					"text": "the weak gravity on the moon"
+				}
+			],
+			"topics": ["Space", "Physics and chemistry"],
+			"collocations": {
+				"adjective": ["low", "weak", "zero"],
+				"verb + gravity": ["defy"],
+				"gravity + verb": ["pull something", "bend something"],
+				"preposition": ["by gravity"],
+				"phrases": [
+					"centre/​center of gravity",
+					"the force of gravity",
+					"the law of gravity"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "extreme importance and a cause for worry",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "I don't think you realise the gravity of the situation."
+				},
+				{
+					"text": "Punishment varies according to the gravity of the offence."
+				},
+				{
+					"text": "The threat is not being treated with the gravity it deserves."
+				},
+				{
+					"text": "Criminal law does not treat traffic offences with the gravity they deserve."
+				}
+			],
+			"collocations": {
+				"adjective": ["extreme"],
+				"verb + gravity": ["appreciate", "realize", "understand"],
+				"preposition": ["with gravity"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "serious behaviour, speech or appearance",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "They were asked to behave with the gravity that was appropriate in a court of law."
+				}
+			],
+			"collocations": {
+				"adjective": ["extreme"],
+				"verb + gravity": ["appreciate", "realize", "understand"],
+				"preposition": ["with gravity"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈɡrævəti/",
+				"audio": "gr/gravity/gravity__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈɡrævəti/",
+				"audio": "gr/gravity/gravity__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 15th cent. (in sense (2)): from Old French, or from Latin gravitas ‘weight, seriousness’, from gravis ‘heavy’. Sense (1) dates from the 17th cent."
 }

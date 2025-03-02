@@ -1,55 +1,55 @@
 {
-  "term": "microscope",
-  "partOfSpeech": "noun",
-  "image": "data/images/la/laboratory_equipment.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "an instrument used in scientific study for making very small things look larger so that you can examine them carefully",
-      "sensetop": "under a/the microscopethrough a/the microscope",
-      "examples": [
-        {
-          "text": "a microscope slide"
-        },
-        {
-          "text": "The bacteria were then examined under the microscope.",
-          "contextForm": "under a/the microscope"
-        },
-        {
-          "text": "a section of a potato as seen through a microscope",
-          "contextForm": "through a/the microscope"
-        }
-      ],
-      "topics": ["Scientific research"],
-      "collocations": {
-        "adjective": ["binocular", "electron", "high-powered"],
-        "microscope + noun": ["slide"],
-        "preposition": ["through a/​the microscope", "under a/​the microscope"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "if you put something under the microscope you examine or analyse it in great detail",
-      "examples": [
-        {
-          "text": "In the play, love and marriage are put under the microscope."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmaɪkrəskəʊp/",
-        "audio": "mi/microscope/microscope__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmaɪkrəskəʊp/",
-        "audio": "mi/microscope/microscope__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 17th cent.: from modern Latin microscopium (from micro- and -scope, from modern Latin -scopium, from Greek skopein ‘look at’)."
+	"term": "microscope",
+	"partOfSpeech": "noun",
+	"image": "data/images/la/laboratory_equipment.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "an instrument used in scientific study for making very small things look larger so that you can examine them carefully",
+			"sensetop": "under a/the microscopethrough a/the microscope",
+			"examples": [
+				{
+					"text": "a microscope slide"
+				},
+				{
+					"text": "The bacteria were then examined under the microscope.",
+					"contextForm": "under a/the microscope"
+				},
+				{
+					"text": "a section of a potato as seen through a microscope",
+					"contextForm": "through a/the microscope"
+				}
+			],
+			"topics": ["Scientific research"],
+			"collocations": {
+				"adjective": ["binocular", "electron", "high-powered"],
+				"microscope + noun": ["slide"],
+				"preposition": ["through a/​the microscope", "under a/​the microscope"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "if you put something under the microscope you examine or analyse it in great detail",
+			"examples": [
+				{
+					"text": "In the play, love and marriage are put under the microscope."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmaɪkrəskəʊp/",
+				"audio": "mi/microscope/microscope__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmaɪkrəskəʊp/",
+				"audio": "mi/microscope/microscope__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 17th cent.: from modern Latin microscopium (from micro- and -scope, from modern Latin -scopium, from Greek skopein ‘look at’)."
 }

@@ -1,98 +1,98 @@
 {
-  "term": "bulk",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the main part of something; most of something",
-      "sensetop": "the bulk (of something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The bulk of the population lives in cities."
-        },
-        {
-          "text": "The great bulk of the work has now been done."
-        }
-      ],
-      "collocations": {
-        "adjective": ["great", "large", "overwhelming"],
-        "bulk + noun": ["buying", "order", "purchasing"],
-        "preposition": ["in bulk"],
-        "phrases": ["the bulk of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the (large) size or quantity of something",
-      "sensetop": "in bulk",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Despite its bulk and weight, the car is extremely fast."
-        },
-        {
-          "text": "a **bulk order** *(= one for a large number of similar items)*"
-        },
-        {
-          "text": "**bulk buying** *(= buying in large amounts, often at a reduced price)*"
-        },
-        {
-          "text": "It's cheaper to buy in bulk.",
-          "contextForm": "in bulk"
-        },
-        {
-          "text": "I was amazed by the sheer bulk of the creature."
-        },
-        {
-          "text": "Sugar is imported in bulk from the mainland."
-        },
-        {
-          "text": "bulk mailing rates"
-        },
-        {
-          "text": "A charge of £2.50 per copy is made for bulk orders."
-        }
-      ],
-      "collocations": {
-        "adjective": ["considerable", "huge", "massive"],
-        "verb + bulk": ["ease", "heave", "shift"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the weight or shape of somebody/something large",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She heaved her bulk out of the chair."
-        },
-        {
-          "text": "the looming dark bulk of the cathedral"
-        }
-      ],
-      "collocations": {
-        "adjective": ["considerable", "huge", "massive"],
-        "verb + bulk": ["ease", "heave", "shift"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/bʌlk/",
-        "audio": "bu/bulk/bulk__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/bʌlk/",
-        "audio": "bu/bulk/bulk__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: the senses ‘cargo as a whole’ and ‘heap, large quantity’ (the earliest recorded) are probably from Old Norse búlki ‘cargo’; other senses arose perhaps by alteration of obsolete bouk ‘belly, body’."
+	"term": "bulk",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the main part of something; most of something",
+			"sensetop": "the bulk (of something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The bulk of the population lives in cities."
+				},
+				{
+					"text": "The great bulk of the work has now been done."
+				}
+			],
+			"collocations": {
+				"adjective": ["great", "large", "overwhelming"],
+				"bulk + noun": ["buying", "order", "purchasing"],
+				"preposition": ["in bulk"],
+				"phrases": ["the bulk of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the (large) size or quantity of something",
+			"sensetop": "in bulk",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Despite its bulk and weight, the car is extremely fast."
+				},
+				{
+					"text": "a **bulk order** *(= one for a large number of similar items)*"
+				},
+				{
+					"text": "**bulk buying** *(= buying in large amounts, often at a reduced price)*"
+				},
+				{
+					"text": "It's cheaper to buy in bulk.",
+					"contextForm": "in bulk"
+				},
+				{
+					"text": "I was amazed by the sheer bulk of the creature."
+				},
+				{
+					"text": "Sugar is imported in bulk from the mainland."
+				},
+				{
+					"text": "bulk mailing rates"
+				},
+				{
+					"text": "A charge of £2.50 per copy is made for bulk orders."
+				}
+			],
+			"collocations": {
+				"adjective": ["considerable", "huge", "massive"],
+				"verb + bulk": ["ease", "heave", "shift"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the weight or shape of somebody/something large",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She heaved her bulk out of the chair."
+				},
+				{
+					"text": "the looming dark bulk of the cathedral"
+				}
+			],
+			"collocations": {
+				"adjective": ["considerable", "huge", "massive"],
+				"verb + bulk": ["ease", "heave", "shift"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/bʌlk/",
+				"audio": "bu/bulk/bulk__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/bʌlk/",
+				"audio": "bu/bulk/bulk__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: the senses ‘cargo as a whole’ and ‘heap, large quantity’ (the earliest recorded) are probably from Old Norse búlki ‘cargo’; other senses arose perhaps by alteration of obsolete bouk ‘belly, body’."
 }

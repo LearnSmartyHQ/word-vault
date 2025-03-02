@@ -1,102 +1,98 @@
 {
-  "term": "beach",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/co/coast.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "an area of sand or small stones (called shingle), next to the sea or a lake",
-      "sensetop": "on the beachto the beachat the beach",
-      "labels": "(especially British English)(especially North American English)",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "tourists sunbathing on the beach",
-          "contextForm": "on the beach"
-        },
-        {
-          "text": "He decided to go to the beach for a swim.",
-          "contextForm": "to the beach"
-        },
-        {
-          "text": "She often spent summer days at the beach.",
-          "contextForm": "at the beach"
-        },
-        {
-          "text": "a **sandy beach**"
-        },
-        {
-          "text": "a pebble/shingle beach"
-        },
-        {
-          "text": "a beach bar"
-        },
-        {
-          "text": "We rented an airy apartment at a beach resort."
-        },
-        {
-          "text": "He walked along the beach."
-        },
-        {
-          "text": "She took the kids to the beach for the day."
-        },
-        {
-          "text": "She lay on the beach and read her book."
-        },
-        {
-          "text": "We could see tourists sunbathing on the beach."
-        },
-        {
-          "text": "They met at the beach."
-        },
-        {
-          "text": "They sat on a grassy hill overlooking the beach."
-        },
-        {
-          "text": "There are miles of beautiful sandy beaches."
-        },
-        {
-          "text": "The resort has a beautiful golden beach stretching for miles."
-        },
-        {
-          "text": "The island group has over 230 miles of pristine tropical beaches."
-        },
-        {
-          "text": "To the south is West Bay, a small port with a shingle beach."
-        },
-        {
-          "text": "They met in a beach bar."
-        }
-      ],
-      "topics": ["Holidays", "Geography"],
-      "collocations": {
-        "adjective": ["beautiful", "fine", "lovely"],
-        "verb + beach": ["overlook"],
-        "beach + verb": ["stretch"],
-        "beach + noun": ["towel", "umbrella", "house"],
-        "preposition": [
-          "along a/​the beach",
-          "at a/​the beach",
-          "on a/​the beach"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/biːtʃ/",
-        "audio": "be/beach/beach__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/biːtʃ/",
-        "audio": "be/beach/beach__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent. (denoting shingle on the seashore): perhaps related to Old English bæce, bece ‘brook’ (an element that survives in place names such as Wisbech and Sandbach), assuming an intermediate sense ‘pebbly river valley’."
+	"term": "beach",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/co/coast.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "an area of sand or small stones (called shingle), next to the sea or a lake",
+			"sensetop": "on the beachto the beachat the beach",
+			"labels": "(especially British English)(especially North American English)",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "tourists sunbathing on the beach",
+					"contextForm": "on the beach"
+				},
+				{
+					"text": "He decided to go to the beach for a swim.",
+					"contextForm": "to the beach"
+				},
+				{
+					"text": "She often spent summer days at the beach.",
+					"contextForm": "at the beach"
+				},
+				{
+					"text": "a **sandy beach**"
+				},
+				{
+					"text": "a pebble/shingle beach"
+				},
+				{
+					"text": "a beach bar"
+				},
+				{
+					"text": "We rented an airy apartment at a beach resort."
+				},
+				{
+					"text": "He walked along the beach."
+				},
+				{
+					"text": "She took the kids to the beach for the day."
+				},
+				{
+					"text": "She lay on the beach and read her book."
+				},
+				{
+					"text": "We could see tourists sunbathing on the beach."
+				},
+				{
+					"text": "They met at the beach."
+				},
+				{
+					"text": "They sat on a grassy hill overlooking the beach."
+				},
+				{
+					"text": "There are miles of beautiful sandy beaches."
+				},
+				{
+					"text": "The resort has a beautiful golden beach stretching for miles."
+				},
+				{
+					"text": "The island group has over 230 miles of pristine tropical beaches."
+				},
+				{
+					"text": "To the south is West Bay, a small port with a shingle beach."
+				},
+				{
+					"text": "They met in a beach bar."
+				}
+			],
+			"topics": ["Holidays", "Geography"],
+			"collocations": {
+				"adjective": ["beautiful", "fine", "lovely"],
+				"verb + beach": ["overlook"],
+				"beach + verb": ["stretch"],
+				"beach + noun": ["towel", "umbrella", "house"],
+				"preposition": ["along a/​the beach", "at a/​the beach", "on a/​the beach"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/biːtʃ/",
+				"audio": "be/beach/beach__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/biːtʃ/",
+				"audio": "be/beach/beach__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent. (denoting shingle on the seashore): perhaps related to Old English bæce, bece ‘brook’ (an element that survives in place names such as Wisbech and Sandbach), assuming an intermediate sense ‘pebbly river valley’."
 }

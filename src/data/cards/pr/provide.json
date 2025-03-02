@@ -1,142 +1,142 @@
 {
-  "term": "provide",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "provide",
-      "heSheIt": "provides"
-    },
-    "pastSimple": "provided",
-    "pastParticiple": "provided",
-    "ingForm": "providing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to give something to somebody or make it available for them to use",
-      "sensetop": "provide somethingprovide something for somebodyprovide somebody with somethingprovide something to somebody",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Please **provide** the following **information**.",
-          "contextForm": "provide something"
-        },
-        {
-          "text": "The exhibition **provides an opportunity** for local artists to show their work."
-        },
-        {
-          "text": "She did not **provide any evidence** to substantiate the claims."
-        },
-        {
-          "text": "The hospital has a commitment to provide the best possible medical care."
-        },
-        {
-          "text": "Please answer questions in the space provided."
-        },
-        {
-          "text": "Refreshments will be provided."
-        },
-        {
-          "text": "We are here to **provide a service** for the public.",
-          "contextForm": "provide something for somebody"
-        },
-        {
-          "text": "We are here to provide the public with a service.",
-          "contextForm": "provide somebody with something"
-        },
-        {
-          "text": "He provided us with a lot of useful information."
-        },
-        {
-          "text": "We **provide** financial **support** to low-income families.",
-          "contextForm": "provide something to somebody"
-        },
-        {
-          "text": "The rules should provide consumers with a high level of protection."
-        },
-        {
-          "text": "The report was not expected to provide any answers."
-        },
-        {
-          "text": "The agency provides legal services to farmers."
-        },
-        {
-          "text": "The grants were intended to provide financial help to unemployed workers."
-        },
-        {
-          "text": "The organization provides food and shelter for refugees."
-        },
-        {
-          "text": "The charity provides sporting activities for disabled children."
-        },
-        {
-          "text": "a buffet dinner, kindly provided by club members"
-        },
-        {
-          "text": "The article fails to provide any insight into how these trends are likely to develop."
-        }
-      ],
-      "synonyms": "supply",
-      "collocations": {
-        "adverb": ["kindly", "free", "free of charge"],
-        "verb + provide": ["be able to", "can", "aim to"],
-        "preposition": ["for", "to", "with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to state that something will or must happen",
-      "sensetop": "provide that…",
-      "labels": "(formal)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "The final section provides that any work produced for the company is thereafter owned by the company."
-        }
-      ],
-      "topics": ["Permission and obligation"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/prəˈvaɪd/",
-        "audio": "pr/provide/provide__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/prəˈvaɪdz/",
-        "audio": "pr/provide/provides__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/prəˈvaɪdɪd/",
-        "audio": "pr/provide/provided__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/prəˈvaɪdɪŋ/",
-        "audio": "pr/provide/providing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/prəˈvaɪd/",
-        "audio": "pr/provide/provide__us_1.mp3"
-      },
-      {
-        "pronunciation": "/prəˈvaɪdz/",
-        "audio": "pr/provide/provides__us_1.mp3"
-      },
-      {
-        "pronunciation": "/prəˈvaɪdɪd/",
-        "audio": "pr/provide/provided__us_1.mp3"
-      },
-      {
-        "pronunciation": "/prəˈvaɪdɪŋ/",
-        "audio": "pr/provide/providing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (also in the sense ‘prepare to do, get ready’): from Latin providere ‘foresee, attend to’, from pro- ‘before’ + videre ‘to see’."
+	"term": "provide",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "provide",
+			"heSheIt": "provides"
+		},
+		"pastSimple": "provided",
+		"pastParticiple": "provided",
+		"ingForm": "providing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to give something to somebody or make it available for them to use",
+			"sensetop": "provide somethingprovide something for somebodyprovide somebody with somethingprovide something to somebody",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Please **provide** the following **information**.",
+					"contextForm": "provide something"
+				},
+				{
+					"text": "The exhibition **provides an opportunity** for local artists to show their work."
+				},
+				{
+					"text": "She did not **provide any evidence** to substantiate the claims."
+				},
+				{
+					"text": "The hospital has a commitment to provide the best possible medical care."
+				},
+				{
+					"text": "Please answer questions in the space provided."
+				},
+				{
+					"text": "Refreshments will be provided."
+				},
+				{
+					"text": "We are here to **provide a service** for the public.",
+					"contextForm": "provide something for somebody"
+				},
+				{
+					"text": "We are here to provide the public with a service.",
+					"contextForm": "provide somebody with something"
+				},
+				{
+					"text": "He provided us with a lot of useful information."
+				},
+				{
+					"text": "We **provide** financial **support** to low-income families.",
+					"contextForm": "provide something to somebody"
+				},
+				{
+					"text": "The rules should provide consumers with a high level of protection."
+				},
+				{
+					"text": "The report was not expected to provide any answers."
+				},
+				{
+					"text": "The agency provides legal services to farmers."
+				},
+				{
+					"text": "The grants were intended to provide financial help to unemployed workers."
+				},
+				{
+					"text": "The organization provides food and shelter for refugees."
+				},
+				{
+					"text": "The charity provides sporting activities for disabled children."
+				},
+				{
+					"text": "a buffet dinner, kindly provided by club members"
+				},
+				{
+					"text": "The article fails to provide any insight into how these trends are likely to develop."
+				}
+			],
+			"synonyms": "supply",
+			"collocations": {
+				"adverb": ["kindly", "free", "free of charge"],
+				"verb + provide": ["be able to", "can", "aim to"],
+				"preposition": ["for", "to", "with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to state that something will or must happen",
+			"sensetop": "provide that…",
+			"labels": "(formal)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "The final section provides that any work produced for the company is thereafter owned by the company."
+				}
+			],
+			"topics": ["Permission and obligation"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/prəˈvaɪd/",
+				"audio": "pr/provide/provide__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/prəˈvaɪdz/",
+				"audio": "pr/provide/provides__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/prəˈvaɪdɪd/",
+				"audio": "pr/provide/provided__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/prəˈvaɪdɪŋ/",
+				"audio": "pr/provide/providing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/prəˈvaɪd/",
+				"audio": "pr/provide/provide__us_1.mp3"
+			},
+			{
+				"pronunciation": "/prəˈvaɪdz/",
+				"audio": "pr/provide/provides__us_1.mp3"
+			},
+			{
+				"pronunciation": "/prəˈvaɪdɪd/",
+				"audio": "pr/provide/provided__us_1.mp3"
+			},
+			{
+				"pronunciation": "/prəˈvaɪdɪŋ/",
+				"audio": "pr/provide/providing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (also in the sense ‘prepare to do, get ready’): from Latin providere ‘foresee, attend to’, from pro- ‘before’ + videre ‘to see’."
 }

@@ -1,70 +1,70 @@
 {
-  "term": "torture",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the act of causing somebody severe pain in order to punish them or make them say or do something",
-      "sensetop": "under torture",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Many of the refugees have suffered torture."
-        },
-        {
-          "text": "the use of torture"
-        },
-        {
-          "text": "terrible instruments of torture"
-        },
-        {
-          "text": "His confessions were made under torture.",
-          "contextForm": "under torture"
-        },
-        {
-          "text": "I heard stories of gruesome tortures in prisons."
-        }
-      ],
-      "topics": ["War and conflict"],
-      "collocations": {
-        "adjective": ["brutal", "systematic", "mental"],
-        "verb + torture": ["inflict", "endure", "suffer"],
-        "torture + noun": ["camp", "chamber", "room"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "mental or physical pain; something that causes this",
-      "labels": "(informal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The interview was sheer torture from start to finish."
-        }
-      ],
-      "topics": ["Feelings"],
-      "collocations": {
-        "adjective": ["brutal", "systematic", "mental"],
-        "verb + torture": ["inflict", "endure", "suffer"],
-        "torture + noun": ["camp", "chamber", "room"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈtɔːtʃə(r)/",
-        "audio": "to/torture/torture__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈtɔːrtʃər/",
-        "audio": "to/torture/torture__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘distortion, twisting’, or a physical disorder characterized by this): via French from late Latin tortura ‘twisting, torment’, from Latin torquere ‘to twist’."
+	"term": "torture",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the act of causing somebody severe pain in order to punish them or make them say or do something",
+			"sensetop": "under torture",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Many of the refugees have suffered torture."
+				},
+				{
+					"text": "the use of torture"
+				},
+				{
+					"text": "terrible instruments of torture"
+				},
+				{
+					"text": "His confessions were made under torture.",
+					"contextForm": "under torture"
+				},
+				{
+					"text": "I heard stories of gruesome tortures in prisons."
+				}
+			],
+			"topics": ["War and conflict"],
+			"collocations": {
+				"adjective": ["brutal", "systematic", "mental"],
+				"verb + torture": ["inflict", "endure", "suffer"],
+				"torture + noun": ["camp", "chamber", "room"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "mental or physical pain; something that causes this",
+			"labels": "(informal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The interview was sheer torture from start to finish."
+				}
+			],
+			"topics": ["Feelings"],
+			"collocations": {
+				"adjective": ["brutal", "systematic", "mental"],
+				"verb + torture": ["inflict", "endure", "suffer"],
+				"torture + noun": ["camp", "chamber", "room"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈtɔːtʃə(r)/",
+				"audio": "to/torture/torture__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈtɔːrtʃər/",
+				"audio": "to/torture/torture__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘distortion, twisting’, or a physical disorder characterized by this): via French from late Latin tortura ‘twisting, torment’, from Latin torquere ‘to twist’."
 }

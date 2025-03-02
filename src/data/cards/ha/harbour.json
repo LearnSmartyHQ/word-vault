@@ -1,73 +1,73 @@
 {
-  "term": "harbour",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "image": "data/images/co/coast.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "an area of water on the coast, protected from the open sea by strong walls, where ships can shelter",
-      "labels": "(figurative)",
-      "examples": [
-        {
-          "text": "Several boats lay at anchor in the harbour."
-        },
-        {
-          "text": "to **enter/leave harbour**"
-        },
-        {
-          "text": "the harbour front/mouth/wall"
-        },
-        {
-          "text": "She felt as though she'd reached a safe harbour after sailing in a vast, unfriendly sea."
-        },
-        {
-          "text": "The fishing fleet is in harbour."
-        },
-        {
-          "text": "The town has a small natural harbour."
-        },
-        {
-          "text": "They entered the harbour with flags flying."
-        },
-        {
-          "text": "We sailed out of the harbour at daybreak."
-        },
-        {
-          "text": "We landed in a natural sheltered harbour."
-        },
-        {
-          "text": "the old harbour town of Watchet"
-        }
-      ],
-      "topics": ["Transport by water"],
-      "collocations": {
-        "adjective": ["deep", "deep-water", "good"],
-        "verb + harbour/​harbor": ["have", "come into", "enter"],
-        "harbour/​harbor + noun": ["defences/​defenses", "wall", "town"],
-        "preposition": [
-          "in (a/​the) harbour",
-          "into (a/​the) harbour",
-          "out of a/​the harbour"
-        ],
-        "phrases": ["the entrance to a harbour", "the mouth of a harbour"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈhɑːbə(r)/",
-        "audio": "ha/harbour/harbour__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈhɑːrbər/",
-        "audio": "ha/harbour/harbour__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Old English herebeorg ‘shelter, refuge’, herebeorgian ‘occupy shelter’, of Germanic origin; related to Dutch herberge and German Herberge, also to French auberge ‘inn’; see also harbinger."
+	"term": "harbour",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"image": "data/images/co/coast.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "an area of water on the coast, protected from the open sea by strong walls, where ships can shelter",
+			"labels": "(figurative)",
+			"examples": [
+				{
+					"text": "Several boats lay at anchor in the harbour."
+				},
+				{
+					"text": "to **enter/leave harbour**"
+				},
+				{
+					"text": "the harbour front/mouth/wall"
+				},
+				{
+					"text": "She felt as though she'd reached a safe harbour after sailing in a vast, unfriendly sea."
+				},
+				{
+					"text": "The fishing fleet is in harbour."
+				},
+				{
+					"text": "The town has a small natural harbour."
+				},
+				{
+					"text": "They entered the harbour with flags flying."
+				},
+				{
+					"text": "We sailed out of the harbour at daybreak."
+				},
+				{
+					"text": "We landed in a natural sheltered harbour."
+				},
+				{
+					"text": "the old harbour town of Watchet"
+				}
+			],
+			"topics": ["Transport by water"],
+			"collocations": {
+				"adjective": ["deep", "deep-water", "good"],
+				"verb + harbour/​harbor": ["have", "come into", "enter"],
+				"harbour/​harbor + noun": ["defences/​defenses", "wall", "town"],
+				"preposition": [
+					"in (a/​the) harbour",
+					"into (a/​the) harbour",
+					"out of a/​the harbour"
+				],
+				"phrases": ["the entrance to a harbour", "the mouth of a harbour"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈhɑːbə(r)/",
+				"audio": "ha/harbour/harbour__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈhɑːrbər/",
+				"audio": "ha/harbour/harbour__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Old English herebeorg ‘shelter, refuge’, herebeorgian ‘occupy shelter’, of Germanic origin; related to Dutch herberge and German Herberge, also to French auberge ‘inn’; see also harbinger."
 }

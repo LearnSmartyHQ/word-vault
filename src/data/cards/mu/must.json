@@ -1,144 +1,144 @@
 {
-  "term": "must",
-  "partOfSpeech": "modal verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "",
-      "heSheIt": ""
-    },
-    "pastSimple": "",
-    "pastParticiple": "",
-    "ingForm": ""
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "used to say that something is necessary or very important (sometimes involving a rule or a law)",
-      "labels": "(formal)(especially British English)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "All visitors must report to reception."
-        },
-        {
-          "text": "Cars must not be parked in front of the entrance *(= it is not allowed)*."
-        },
-        {
-          "text": "I must ask you not to do that again."
-        },
-        {
-          "text": "You mustn't say things like that."
-        },
-        {
-          "text": "I must go and get the kids from school."
-        },
-        {
-          "text": "**I must admit** *(= I feel that I should admit)* I was surprised it cost so little."
-        },
-        {
-          "text": "Must you always question everything I say? *(= it is annoying)*"
-        },
-        {
-          "text": "‘Do we have to finish this today?’ ‘Yes, you must.’"
-        }
-      ],
-      "topics": ["Permission and obligation"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "used to say that something is likely or logical",
-      "labels": "North American EnglishBritish EnglishBritish EnglishNorth American EnglishBritish English(British English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "You must be hungry after all that walking."
-        },
-        {
-          "text": "He must have known *(= surely he knew)* what she wanted."
-        },
-        {
-          "text": "I'm sorry, she's not here. She must have left already *(= that must be the explanation)*."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "used to recommend that somebody does something because you think it is a good idea",
-      "labels": "(especially British English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "You simply must read this book."
-        },
-        {
-          "text": "We must get together soon for lunch."
-        }
-      ],
-      "topics": ["Suggestions and advice"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that somebody may do something but you do not really want them to",
-      "examples": [
-        {
-          "text": "‘Can I smoke?’ ‘If you must.’"
-        },
-        {
-          "text": "It's from my boyfriend, **if you must know**."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to tell people that something is so good or interesting that they should see, read, get it, etc.",
-      "examples": [
-        {
-          "text": "Sydney is one of the world's must-see cities."
-        },
-        {
-          "text": "The magazine is a must-read in the show business world."
-        },
-        {
-          "text": "This is on my must-do list."
-        },
-        {
-          "text": "a must-have for any fan"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "in certain situations it is necessary for you to do something that you do not like or enjoy",
-      "labels": "(saying)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/məst//mʌst/",
-        "audio": "mu/must/must__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmʌsnt/",
-        "audio": "mu/must/mustn_t_1_gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/məst//mʌst/",
-        "audio": "mu/must/must__us_1_rr.mp3"
-      },
-      {
-        "pronunciation": "/ˈmʌsnt/",
-        "audio": "mu/must/mustn_t_1_us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English mōste, past tense of mōt ‘may’, of Germanic origin; related to Dutch moeten and German müssen."
+	"term": "must",
+	"partOfSpeech": "modal verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "",
+			"heSheIt": ""
+		},
+		"pastSimple": "",
+		"pastParticiple": "",
+		"ingForm": ""
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "used to say that something is necessary or very important (sometimes involving a rule or a law)",
+			"labels": "(formal)(especially British English)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "All visitors must report to reception."
+				},
+				{
+					"text": "Cars must not be parked in front of the entrance *(= it is not allowed)*."
+				},
+				{
+					"text": "I must ask you not to do that again."
+				},
+				{
+					"text": "You mustn't say things like that."
+				},
+				{
+					"text": "I must go and get the kids from school."
+				},
+				{
+					"text": "**I must admit** *(= I feel that I should admit)* I was surprised it cost so little."
+				},
+				{
+					"text": "Must you always question everything I say? *(= it is annoying)*"
+				},
+				{
+					"text": "‘Do we have to finish this today?’ ‘Yes, you must.’"
+				}
+			],
+			"topics": ["Permission and obligation"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "used to say that something is likely or logical",
+			"labels": "North American EnglishBritish EnglishBritish EnglishNorth American EnglishBritish English(British English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "You must be hungry after all that walking."
+				},
+				{
+					"text": "He must have known *(= surely he knew)* what she wanted."
+				},
+				{
+					"text": "I'm sorry, she's not here. She must have left already *(= that must be the explanation)*."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "used to recommend that somebody does something because you think it is a good idea",
+			"labels": "(especially British English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "You simply must read this book."
+				},
+				{
+					"text": "We must get together soon for lunch."
+				}
+			],
+			"topics": ["Suggestions and advice"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that somebody may do something but you do not really want them to",
+			"examples": [
+				{
+					"text": "‘Can I smoke?’ ‘If you must.’"
+				},
+				{
+					"text": "It's from my boyfriend, **if you must know**."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to tell people that something is so good or interesting that they should see, read, get it, etc.",
+			"examples": [
+				{
+					"text": "Sydney is one of the world's must-see cities."
+				},
+				{
+					"text": "The magazine is a must-read in the show business world."
+				},
+				{
+					"text": "This is on my must-do list."
+				},
+				{
+					"text": "a must-have for any fan"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "in certain situations it is necessary for you to do something that you do not like or enjoy",
+			"labels": "(saying)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/məst//mʌst/",
+				"audio": "mu/must/must__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmʌsnt/",
+				"audio": "mu/must/mustn_t_1_gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/məst//mʌst/",
+				"audio": "mu/must/must__us_1_rr.mp3"
+			},
+			{
+				"pronunciation": "/ˈmʌsnt/",
+				"audio": "mu/must/mustn_t_1_us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English mōste, past tense of mōt ‘may’, of Germanic origin; related to Dutch moeten and German müssen."
 }

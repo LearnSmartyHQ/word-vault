@@ -1,73 +1,73 @@
 {
-  "term": "liver",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "image": "data/images/in/internal_organs.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a large organ in the body that cleans the blood and produces bile",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "**liver disease**"
-        },
-        {
-          "text": "He had a **liver transplant** at the age of 12."
-        },
-        {
-          "text": "a nationwide appeal for a donor liver"
-        },
-        {
-          "text": "bile acids returning to the liver"
-        },
-        {
-          "text": "cirrhosis of the liver"
-        },
-        {
-          "text": "enzymes in the liver"
-        }
-      ],
-      "topics": ["Body"],
-      "collocations": {
-        "adjective": ["diseased", "enlarged", "fatty"],
-        "liver + noun": ["cancer", "cirrhosis", "damage"],
-        "preposition": ["in the liver", "of the liver", "to the liver"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the liver of some animals that is cooked and eaten",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "liver and onions"
-        },
-        {
-          "text": "chicken livers"
-        }
-      ],
-      "topics": ["Food"],
-      "collocations": {
-        "adjective": ["chopped", "chicken", "goose"],
-        "liver + noun": ["pâté"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈlɪvə(r)/",
-        "audio": "li/liver/liver__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈlɪvər/",
-        "audio": "li/liver/liver__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English lifer, of Germanic origin; related to German Leber, Dutch lever."
+	"term": "liver",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"image": "data/images/in/internal_organs.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a large organ in the body that cleans the blood and produces bile",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "**liver disease**"
+				},
+				{
+					"text": "He had a **liver transplant** at the age of 12."
+				},
+				{
+					"text": "a nationwide appeal for a donor liver"
+				},
+				{
+					"text": "bile acids returning to the liver"
+				},
+				{
+					"text": "cirrhosis of the liver"
+				},
+				{
+					"text": "enzymes in the liver"
+				}
+			],
+			"topics": ["Body"],
+			"collocations": {
+				"adjective": ["diseased", "enlarged", "fatty"],
+				"liver + noun": ["cancer", "cirrhosis", "damage"],
+				"preposition": ["in the liver", "of the liver", "to the liver"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the liver of some animals that is cooked and eaten",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "liver and onions"
+				},
+				{
+					"text": "chicken livers"
+				}
+			],
+			"topics": ["Food"],
+			"collocations": {
+				"adjective": ["chopped", "chicken", "goose"],
+				"liver + noun": ["pâté"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈlɪvə(r)/",
+				"audio": "li/liver/liver__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈlɪvər/",
+				"audio": "li/liver/liver__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English lifer, of Germanic origin; related to German Leber, Dutch lever."
 }

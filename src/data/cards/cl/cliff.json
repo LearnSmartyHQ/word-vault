@@ -1,80 +1,80 @@
 {
-  "term": "cliff",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "image": "data/images/co/coast.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a high area of rock with a very steep side, often at the edge of the sea or ocean",
-      "examples": [
-        {
-          "text": "the **cliff edge/top**"
-        },
-        {
-          "text": "the chalk cliffs of southern England"
-        },
-        {
-          "text": "a castle perched high on the cliffs above the river"
-        },
-        {
-          "text": "We set off along the cliff path."
-        },
-        {
-          "text": "Steep cliffs towered above the river."
-        },
-        {
-          "text": "The cliffs fall away to the north."
-        },
-        {
-          "text": "The hotel was perched high on a cliff overlooking the ocean."
-        },
-        {
-          "text": "a long line of cliffs surrounding the bay"
-        },
-        {
-          "text": "crumbling cliffs"
-        }
-      ],
-      "topics": ["Geography"],
-      "collocations": {
-        "adjective": ["high", "towering", "low"],
-        "… of cliffs": ["line"],
-        "verb + cliff": ["climb", "scale", "descend"],
-        "cliff + verb": ["fall", "fall away", "rise"],
-        "cliff + noun": ["edge", "face", "ledge"],
-        "phrases": [
-          "be perched on a cliff",
-          "the base of the cliff",
-          "the bottom of the cliff"
-        ]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "to decrease quickly and suddenly in quantity or quality",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Sales fell off a cliff in the first quarter of the year."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/klɪf/",
-        "audio": "cl/cliff/cliff__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/klɪf/",
-        "audio": "cl/cliff/cliff__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English clif, of Germanic origin; related to Dutch klif."
+	"term": "cliff",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"image": "data/images/co/coast.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a high area of rock with a very steep side, often at the edge of the sea or ocean",
+			"examples": [
+				{
+					"text": "the **cliff edge/top**"
+				},
+				{
+					"text": "the chalk cliffs of southern England"
+				},
+				{
+					"text": "a castle perched high on the cliffs above the river"
+				},
+				{
+					"text": "We set off along the cliff path."
+				},
+				{
+					"text": "Steep cliffs towered above the river."
+				},
+				{
+					"text": "The cliffs fall away to the north."
+				},
+				{
+					"text": "The hotel was perched high on a cliff overlooking the ocean."
+				},
+				{
+					"text": "a long line of cliffs surrounding the bay"
+				},
+				{
+					"text": "crumbling cliffs"
+				}
+			],
+			"topics": ["Geography"],
+			"collocations": {
+				"adjective": ["high", "towering", "low"],
+				"… of cliffs": ["line"],
+				"verb + cliff": ["climb", "scale", "descend"],
+				"cliff + verb": ["fall", "fall away", "rise"],
+				"cliff + noun": ["edge", "face", "ledge"],
+				"phrases": [
+					"be perched on a cliff",
+					"the base of the cliff",
+					"the bottom of the cliff"
+				]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "to decrease quickly and suddenly in quantity or quality",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Sales fell off a cliff in the first quarter of the year."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/klɪf/",
+				"audio": "cl/cliff/cliff__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/klɪf/",
+				"audio": "cl/cliff/cliff__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English clif, of Germanic origin; related to Dutch klif."
 }

@@ -1,104 +1,104 @@
 {
-  "term": "enforce",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "enforce",
-      "heSheIt": "enforces"
-    },
-    "pastSimple": "enforced",
-    "pastParticiple": "enforced",
-    "ingForm": "enforcing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to make sure that people obey a particular law or rule",
-      "sensetop": "enforce somethingenforce something against/on somebody/something",
-      "labels": "(formal or law)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "It's the job of the police to enforce the law.",
-          "contextForm": "enforce something"
-        },
-        {
-          "text": "The legislation will be difficult to enforce."
-        },
-        {
-          "text": "United Nations troops enforced a ceasefire in the area."
-        },
-        {
-          "text": "The creditor should be at liberty to enforce his rights against the company's property.",
-          "contextForm": "enforce something against/on somebody/something"
-        },
-        {
-          "text": "The government may take steps to enforce compliance with the new measures."
-        },
-        {
-          "text": "The rules were strictly enforced."
-        },
-        {
-          "text": "a system of local inspectors to help enforce presidential decrees"
-        }
-      ],
-      "topics": ["Permission and obligation", "Law and justice"],
-      "collocations": {
-        "adverb": ["fully", "rigidly", "rigorously"],
-        "verb + enforce": ["can", "be difficult to", "be hard to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to make something happen or force somebody to do something",
-      "sensetop": "enforce something (on somebody)",
-      "examples": [
-        {
-          "text": "You can't enforce cooperation between the players."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈfɔːs/",
-        "audio": "en/enforce/enforce__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɔːsɪz/",
-        "audio": "en/enforce/enforces__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɔːst/",
-        "audio": "en/enforce/enforced__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɔːsɪŋ/",
-        "audio": "en/enforce/enforcing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈfɔːrs/",
-        "audio": "en/enforce/enforce__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɔːrsɪz/",
-        "audio": "en/enforce/enforces__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɔːrst/",
-        "audio": "en/enforce/enforced__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈfɔːrsɪŋ/",
-        "audio": "en/enforce/enforcing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in the senses ‘strive’ and ‘impel by force’; formerly also as inforce): from Old French enforcir, enforcier, based on Latin in- ‘in’ + fortis ‘strong’."
+	"term": "enforce",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "enforce",
+			"heSheIt": "enforces"
+		},
+		"pastSimple": "enforced",
+		"pastParticiple": "enforced",
+		"ingForm": "enforcing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to make sure that people obey a particular law or rule",
+			"sensetop": "enforce somethingenforce something against/on somebody/something",
+			"labels": "(formal or law)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "It's the job of the police to enforce the law.",
+					"contextForm": "enforce something"
+				},
+				{
+					"text": "The legislation will be difficult to enforce."
+				},
+				{
+					"text": "United Nations troops enforced a ceasefire in the area."
+				},
+				{
+					"text": "The creditor should be at liberty to enforce his rights against the company's property.",
+					"contextForm": "enforce something against/on somebody/something"
+				},
+				{
+					"text": "The government may take steps to enforce compliance with the new measures."
+				},
+				{
+					"text": "The rules were strictly enforced."
+				},
+				{
+					"text": "a system of local inspectors to help enforce presidential decrees"
+				}
+			],
+			"topics": ["Permission and obligation", "Law and justice"],
+			"collocations": {
+				"adverb": ["fully", "rigidly", "rigorously"],
+				"verb + enforce": ["can", "be difficult to", "be hard to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to make something happen or force somebody to do something",
+			"sensetop": "enforce something (on somebody)",
+			"examples": [
+				{
+					"text": "You can't enforce cooperation between the players."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈfɔːs/",
+				"audio": "en/enforce/enforce__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɔːsɪz/",
+				"audio": "en/enforce/enforces__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɔːst/",
+				"audio": "en/enforce/enforced__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɔːsɪŋ/",
+				"audio": "en/enforce/enforcing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈfɔːrs/",
+				"audio": "en/enforce/enforce__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɔːrsɪz/",
+				"audio": "en/enforce/enforces__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɔːrst/",
+				"audio": "en/enforce/enforced__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈfɔːrsɪŋ/",
+				"audio": "en/enforce/enforcing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in the senses ‘strive’ and ‘impel by force’; formerly also as inforce): from Old French enforcir, enforcier, based on Latin in- ‘in’ + fortis ‘strong’."
 }

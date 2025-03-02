@@ -1,134 +1,134 @@
 {
-  "term": "transmit",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "transmit",
-      "heSheIt": "transmits"
-    },
-    "pastSimple": "transmitted",
-    "pastParticiple": "transmitted",
-    "ingForm": "transmitting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to send an electronic signal, radio or television broadcast, etc.",
-      "sensetop": "transmit (something) (from…) (to…)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "signals transmitted from a satellite"
-        },
-        {
-          "text": "The ceremony was transmitted live by satellite to over fifty countries."
-        },
-        {
-          "text": "a short-wave radio that can transmit as well as receive"
-        },
-        {
-          "text": "Movies can be transmitted over the internet."
-        },
-        {
-          "text": "The data will be automatically transmitted from one part of the system to another."
-        }
-      ],
-      "topics": ["TV, radio and news"],
-      "collocations": {
-        "adverb": ["automatically", "electronically"],
-        "preposition": ["from", "over", "to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to pass something from one person to another",
-      "sensetop": "transmit somethingtransmit something to somebody",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "sexually transmitted diseases",
-          "contextForm": "transmit something"
-        },
-        {
-          "text": "Parents can unwittingly transmit their own fears to their children.",
-          "contextForm": "transmit something to somebody"
-        },
-        {
-          "text": "The disease cannot be transmitted through coughing or sneezing."
-        },
-        {
-          "text": "The infection can be transmitted from a mother to her baby."
-        },
-        {
-          "text": "The virus is easily transmitted via needles."
-        },
-        {
-          "text": "the study of genetically transmitted diseases"
-        }
-      ],
-      "synonyms": "transfer",
-      "collocations": {
-        "adverb": ["easily", "readily", "genetically"],
-        "preposition": ["from", "through", "to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to allow heat, light, sound, etc. to pass through",
-      "sensetop": "transmit something",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "Steam only transmits heat when it condenses."
-        },
-        {
-          "text": "This chapter explains how sounds are transmitted through the air."
-        }
-      ],
-      "synonyms": "conduct"
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/trænzˈmɪt/",
-        "audio": "tr/transmit/transmit__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/trænzˈmɪts/",
-        "audio": "tr/transmit/transmits__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/trænzˈmɪtɪd/",
-        "audio": "tr/transmit/transmitted__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/trænzˈmɪtɪŋ/",
-        "audio": "tr/transmit/transmitting__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/trænzˈmɪt/",
-        "audio": "tr/transmit/transmit__us_2_rr.mp3"
-      },
-      {
-        "pronunciation": "/trænzˈmɪts/",
-        "audio": "tr/transmit/transmits__us_2.mp3"
-      },
-      {
-        "pronunciation": "/trænzˈmɪtɪd/",
-        "audio": "tr/transmit/transmitted__us_2.mp3"
-      },
-      {
-        "pronunciation": "/trænzˈmɪtɪŋ/",
-        "audio": "tr/transmit/transmitting__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Latin transmittere, from trans- ‘across’ + mittere ‘send’."
+	"term": "transmit",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "transmit",
+			"heSheIt": "transmits"
+		},
+		"pastSimple": "transmitted",
+		"pastParticiple": "transmitted",
+		"ingForm": "transmitting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to send an electronic signal, radio or television broadcast, etc.",
+			"sensetop": "transmit (something) (from…) (to…)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "signals transmitted from a satellite"
+				},
+				{
+					"text": "The ceremony was transmitted live by satellite to over fifty countries."
+				},
+				{
+					"text": "a short-wave radio that can transmit as well as receive"
+				},
+				{
+					"text": "Movies can be transmitted over the internet."
+				},
+				{
+					"text": "The data will be automatically transmitted from one part of the system to another."
+				}
+			],
+			"topics": ["TV, radio and news"],
+			"collocations": {
+				"adverb": ["automatically", "electronically"],
+				"preposition": ["from", "over", "to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to pass something from one person to another",
+			"sensetop": "transmit somethingtransmit something to somebody",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "sexually transmitted diseases",
+					"contextForm": "transmit something"
+				},
+				{
+					"text": "Parents can unwittingly transmit their own fears to their children.",
+					"contextForm": "transmit something to somebody"
+				},
+				{
+					"text": "The disease cannot be transmitted through coughing or sneezing."
+				},
+				{
+					"text": "The infection can be transmitted from a mother to her baby."
+				},
+				{
+					"text": "The virus is easily transmitted via needles."
+				},
+				{
+					"text": "the study of genetically transmitted diseases"
+				}
+			],
+			"synonyms": "transfer",
+			"collocations": {
+				"adverb": ["easily", "readily", "genetically"],
+				"preposition": ["from", "through", "to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to allow heat, light, sound, etc. to pass through",
+			"sensetop": "transmit something",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "Steam only transmits heat when it condenses."
+				},
+				{
+					"text": "This chapter explains how sounds are transmitted through the air."
+				}
+			],
+			"synonyms": "conduct"
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/trænzˈmɪt/",
+				"audio": "tr/transmit/transmit__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/trænzˈmɪts/",
+				"audio": "tr/transmit/transmits__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/trænzˈmɪtɪd/",
+				"audio": "tr/transmit/transmitted__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/trænzˈmɪtɪŋ/",
+				"audio": "tr/transmit/transmitting__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/trænzˈmɪt/",
+				"audio": "tr/transmit/transmit__us_2_rr.mp3"
+			},
+			{
+				"pronunciation": "/trænzˈmɪts/",
+				"audio": "tr/transmit/transmits__us_2.mp3"
+			},
+			{
+				"pronunciation": "/trænzˈmɪtɪd/",
+				"audio": "tr/transmit/transmitted__us_2.mp3"
+			},
+			{
+				"pronunciation": "/trænzˈmɪtɪŋ/",
+				"audio": "tr/transmit/transmitting__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Latin transmittere, from trans- ‘across’ + mittere ‘send’."
 }

@@ -1,119 +1,119 @@
 {
-  "term": "make up",
-  "partOfSpeech": "phrasal verb",
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to put powder, lipstick, etc. on your/somebody’s face to make it more attractive or to prepare for an appearance in the theatre, on television, etc.",
-      "examples": []
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to form something",
-      "sensetop": "be made up of something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Women make up 56 per cent of the student numbers."
-        },
-        {
-          "text": "The course is made up of 12 two-hour sessions.",
-          "contextForm": "be made up of something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to put something together from several different things",
-      "examples": []
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to invent a story, etc., especially in order to trick or entertain somebody",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He made up some excuse about his daughter being sick."
-        },
-        {
-          "text": "I told the kids a story, making it up as I went along."
-        },
-        {
-          "text": "You made that up!"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to complete a number or an amount required",
-      "examples": [
-        {
-          "text": "We need one more person to make up a team."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to replace something that has been lost; to compensate for something",
-      "examples": [
-        {
-          "text": "Can I leave early this afternoon and make up the time tomorrow?"
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to prepare a medicine by mixing different things together",
-      "examples": []
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to prepare a bed for use; to create a temporary bed",
-      "examples": [
-        {
-          "text": "We made up the bed in the spare room."
-        },
-        {
-          "text": "They made up a bed for me on the sofa."
-        }
-      ]
-    },
-    {
-      "senseNumber": 8,
-      "definition": "to clean a hotel room and make the bed",
-      "labels": "(especially North American English)",
-      "examples": [
-        {
-          "text": "The maid asked if she could make up the room."
-        },
-        {
-          "text": "They had forgotten to make up the room."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to end an argument with somebody and become friends again",
-      "examples": [
-        {
-          "text": "Why don't you two **kiss and make up**?"
-        },
-        {
-          "text": "Has he made it up with her yet?"
-        },
-        {
-          "text": "Have they made it up yet?"
-        }
-      ],
-      "topics": ["Discussion and agreement"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [],
-    "us": []
-  },
-  "wordOrigin": null
+	"term": "make up",
+	"partOfSpeech": "phrasal verb",
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to put powder, lipstick, etc. on your/somebody’s face to make it more attractive or to prepare for an appearance in the theatre, on television, etc.",
+			"examples": []
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to form something",
+			"sensetop": "be made up of something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Women make up 56 per cent of the student numbers."
+				},
+				{
+					"text": "The course is made up of 12 two-hour sessions.",
+					"contextForm": "be made up of something"
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to put something together from several different things",
+			"examples": []
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to invent a story, etc., especially in order to trick or entertain somebody",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He made up some excuse about his daughter being sick."
+				},
+				{
+					"text": "I told the kids a story, making it up as I went along."
+				},
+				{
+					"text": "You made that up!"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to complete a number or an amount required",
+			"examples": [
+				{
+					"text": "We need one more person to make up a team."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to replace something that has been lost; to compensate for something",
+			"examples": [
+				{
+					"text": "Can I leave early this afternoon and make up the time tomorrow?"
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to prepare a medicine by mixing different things together",
+			"examples": []
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to prepare a bed for use; to create a temporary bed",
+			"examples": [
+				{
+					"text": "We made up the bed in the spare room."
+				},
+				{
+					"text": "They made up a bed for me on the sofa."
+				}
+			]
+		},
+		{
+			"senseNumber": 8,
+			"definition": "to clean a hotel room and make the bed",
+			"labels": "(especially North American English)",
+			"examples": [
+				{
+					"text": "The maid asked if she could make up the room."
+				},
+				{
+					"text": "They had forgotten to make up the room."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to end an argument with somebody and become friends again",
+			"examples": [
+				{
+					"text": "Why don't you two **kiss and make up**?"
+				},
+				{
+					"text": "Has he made it up with her yet?"
+				},
+				{
+					"text": "Have they made it up yet?"
+				}
+			],
+			"topics": ["Discussion and agreement"]
+		}
+	],
+	"pronunciations": {
+		"uk": [],
+		"us": []
+	},
+	"wordOrigin": null
 }

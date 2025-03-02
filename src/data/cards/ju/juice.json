@@ -1,145 +1,145 @@
 {
-  "term": "juice",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the liquid that comes from fruit or vegetables; a drink made from this",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a glass of **fruit juice**"
-        },
-        {
-          "text": "a carton of **apple juice**"
-        },
-        {
-          "text": "**lemon/lime juice**"
-        },
-        {
-          "text": "Add the juice of two lemons."
-        },
-        {
-          "text": "Two **orange juices**, please."
-        },
-        {
-          "text": "Sprinkle the avocado slices with lemon juice."
-        },
-        {
-          "text": "the grated rind and juice of two lemons"
-        }
-      ],
-      "topics": ["Drinks"],
-      "collocations": {
-        "adjective": ["fruit", "lemon", "tomato"],
-        "verb + juice": ["extract", "squeeze", "drink"],
-        "preposition": ["juice from", "juice of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the liquid that comes out of a piece of meat when it is cooked",
-      "examples": [
-        {
-          "text": "Use the juices of the meat to make gravy."
-        }
-      ],
-      "collocations": {
-        "adjective": ["fruit", "lemon", "tomato"],
-        "verb + juice": ["extract", "squeeze", "drink"],
-        "preposition": ["juice from", "juice of"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the liquid in the stomach that helps you to digest food",
-      "examples": [
-        {
-          "text": "**digestive/gastric juices**"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "electrical energy",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "My phone has run out of juice."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "petrol",
-      "labels": "(especially British English, informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": 6,
-      "definition": "power to influence people or influence what happens",
-      "labels": "(North American English, informal)",
-      "examples": [
-        {
-          "text": "She has a lot of juice with city hall."
-        }
-      ]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "alcoholic drink",
-      "labels": "(North American English, informal)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "He had been on the juice all weekend and was in a bad way."
-        }
-      ],
-      "topics": ["Drinks"]
-    },
-    {
-      "senseNumber": 8,
-      "definition": "anabolic steroids (= chemical substances taken by people to increase the size of their muscles)",
-      "labels": "(North American English, informal)",
-      "cefr": "c2",
-      "examples": []
-    },
-    {
-      "senseNumber": 9,
-      "definition": "a liquid containing nicotine that is used in a device for vaping",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "The shelves are now full of vape pens and juices."
-        },
-        {
-          "text": "He needed some juice for his vape."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to leave somebody to worry and suffer the unpleasant effects of their own actions",
-      "labels": "(informal)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/dʒuːs/",
-        "audio": "ju/juice/juice__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/dʒuːs/",
-        "audio": "ju/juice/juice__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: via Old French from Latin jus ‘broth, vegetable juice’."
+	"term": "juice",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the liquid that comes from fruit or vegetables; a drink made from this",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a glass of **fruit juice**"
+				},
+				{
+					"text": "a carton of **apple juice**"
+				},
+				{
+					"text": "**lemon/lime juice**"
+				},
+				{
+					"text": "Add the juice of two lemons."
+				},
+				{
+					"text": "Two **orange juices**, please."
+				},
+				{
+					"text": "Sprinkle the avocado slices with lemon juice."
+				},
+				{
+					"text": "the grated rind and juice of two lemons"
+				}
+			],
+			"topics": ["Drinks"],
+			"collocations": {
+				"adjective": ["fruit", "lemon", "tomato"],
+				"verb + juice": ["extract", "squeeze", "drink"],
+				"preposition": ["juice from", "juice of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the liquid that comes out of a piece of meat when it is cooked",
+			"examples": [
+				{
+					"text": "Use the juices of the meat to make gravy."
+				}
+			],
+			"collocations": {
+				"adjective": ["fruit", "lemon", "tomato"],
+				"verb + juice": ["extract", "squeeze", "drink"],
+				"preposition": ["juice from", "juice of"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the liquid in the stomach that helps you to digest food",
+			"examples": [
+				{
+					"text": "**digestive/gastric juices**"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "electrical energy",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "My phone has run out of juice."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "petrol",
+			"labels": "(especially British English, informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": 6,
+			"definition": "power to influence people or influence what happens",
+			"labels": "(North American English, informal)",
+			"examples": [
+				{
+					"text": "She has a lot of juice with city hall."
+				}
+			]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "alcoholic drink",
+			"labels": "(North American English, informal)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "He had been on the juice all weekend and was in a bad way."
+				}
+			],
+			"topics": ["Drinks"]
+		},
+		{
+			"senseNumber": 8,
+			"definition": "anabolic steroids (= chemical substances taken by people to increase the size of their muscles)",
+			"labels": "(North American English, informal)",
+			"cefr": "c2",
+			"examples": []
+		},
+		{
+			"senseNumber": 9,
+			"definition": "a liquid containing nicotine that is used in a device for vaping",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "The shelves are now full of vape pens and juices."
+				},
+				{
+					"text": "He needed some juice for his vape."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to leave somebody to worry and suffer the unpleasant effects of their own actions",
+			"labels": "(informal)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/dʒuːs/",
+				"audio": "ju/juice/juice__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/dʒuːs/",
+				"audio": "ju/juice/juice__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: via Old French from Latin jus ‘broth, vegetable juice’."
 }

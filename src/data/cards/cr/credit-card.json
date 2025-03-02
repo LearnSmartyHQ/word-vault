@@ -1,63 +1,63 @@
 {
-  "term": "credit card",
-  "partOfSpeech": "noun",
-  "image": "data/images/mo/money.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a small plastic card that you can use to buy goods and services and pay for them later",
-      "sensetop": "by credit cardon your credit card",
-      "examples": [
-        {
-          "text": "All major credit cards are accepted at our hotels."
-        },
-        {
-          "text": "The safest way to pay for goods ordered online is by credit card.",
-          "contextForm": "by credit card"
-        },
-        {
-          "text": "I put the bill on my credit card.",
-          "contextForm": "on your credit card"
-        },
-        {
-          "text": "Can you give me your credit card number?"
-        },
-        {
-          "text": "He ran up a huge bill on his credit card."
-        },
-        {
-          "text": "My credit card expires at the end of June."
-        },
-        {
-          "text": "We paid by credit card."
-        },
-        {
-          "text": "Your credit card is no longer valid."
-        }
-      ],
-      "topics": ["Shopping", "Money"],
-      "collocations": {
-        "adjective": ["valid"],
-        "verb + credit card": ["pay by", "use", "accept"],
-        "credit card + verb": ["expire"],
-        "credit-card + noun": ["details", "information", "number"],
-        "preposition": ["on your credit card"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkredɪt kɑːd/",
-        "audio": "cr/credit-card/credit_card_1_gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkredɪt kɑːrd/",
-        "audio": "cr/credit-card/credit_card_1_us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "credit card",
+	"partOfSpeech": "noun",
+	"image": "data/images/mo/money.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a small plastic card that you can use to buy goods and services and pay for them later",
+			"sensetop": "by credit cardon your credit card",
+			"examples": [
+				{
+					"text": "All major credit cards are accepted at our hotels."
+				},
+				{
+					"text": "The safest way to pay for goods ordered online is by credit card.",
+					"contextForm": "by credit card"
+				},
+				{
+					"text": "I put the bill on my credit card.",
+					"contextForm": "on your credit card"
+				},
+				{
+					"text": "Can you give me your credit card number?"
+				},
+				{
+					"text": "He ran up a huge bill on his credit card."
+				},
+				{
+					"text": "My credit card expires at the end of June."
+				},
+				{
+					"text": "We paid by credit card."
+				},
+				{
+					"text": "Your credit card is no longer valid."
+				}
+			],
+			"topics": ["Shopping", "Money"],
+			"collocations": {
+				"adjective": ["valid"],
+				"verb + credit card": ["pay by", "use", "accept"],
+				"credit card + verb": ["expire"],
+				"credit-card + noun": ["details", "information", "number"],
+				"preposition": ["on your credit card"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkredɪt kɑːd/",
+				"audio": "cr/credit-card/credit_card_1_gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkredɪt kɑːrd/",
+				"audio": "cr/credit-card/credit_card_1_us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

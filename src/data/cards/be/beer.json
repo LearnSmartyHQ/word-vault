@@ -1,123 +1,123 @@
 {
-  "term": "beer",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an alcoholic drink made from malt with hops added to give it taste. There are many types of beer.",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **pint/can/bottle of beer**"
-        },
-        {
-          "text": "a barrel/glass of beer"
-        },
-        {
-          "text": "beers brewed in Germany"
-        },
-        {
-          "text": "a beer glass/bottle/can"
-        },
-        {
-          "text": "Are you a beer drinker?"
-        },
-        {
-          "text": "The bar has some great beers on tap."
-        },
-        {
-          "text": "Do you drink beer?"
-        },
-        {
-          "text": "I ordered half a pint of beer with my sandwich."
-        },
-        {
-          "text": "I'd love a glass of foaming ice-cold beer."
-        },
-        {
-          "text": "Put the beer in the fridge to chill."
-        },
-        {
-          "text": "The bar smelled of stale beer."
-        },
-        {
-          "text": "The beer flowed freely after the game."
-        },
-        {
-          "text": "The shop specializes in designer beers."
-        },
-        {
-          "text": "This beer should be drawn slowly."
-        },
-        {
-          "text": "He slammed his glass down and the beer slopped over the sides."
-        }
-      ],
-      "topics": ["Drinks"],
-      "collocations": {
-        "adjective": ["good", "great", "quality"],
-        "… of beer": ["pint", "barrel", "bottle"],
-        "verb + beer": ["drink", "have", "get"],
-        "beer + verb": ["chill", "go flat", "flow"],
-        "beer + noun": ["drinker", "lover", "maker"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a glass, bottle or can of beer",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Shall we have a beer?"
-        },
-        {
-          "text": "David bought us a couple of beers."
-        },
-        {
-          "text": "Will you have a beer?"
-        },
-        {
-          "text": "She poured us all a beer."
-        },
-        {
-          "text": "He downed his beer in one go."
-        },
-        {
-          "text": "I have some beers chilling in the cooler."
-        },
-        {
-          "text": "I saw him at the bar ordering a beer."
-        },
-        {
-          "text": "I'm going for a beer with Carl tonight."
-        }
-      ],
-      "collocations": {
-        "adjective": ["good", "great", "quality"],
-        "… of beer": ["pint", "barrel", "bottle"],
-        "verb + beer": ["drink", "have", "get"],
-        "beer + verb": ["chill", "go flat", "flow"],
-        "beer + noun": ["drinker", "lover", "maker"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/bɪə(r)/",
-        "audio": "be/beer/beer__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/bɪr/",
-        "audio": "be/beer/beer__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English bēor, of West Germanic origin, based on monastic Latin biber ‘a drink’, from Latin bibere ‘to drink’; related to Dutch bier and German Bier."
+	"term": "beer",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an alcoholic drink made from malt with hops added to give it taste. There are many types of beer.",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **pint/can/bottle of beer**"
+				},
+				{
+					"text": "a barrel/glass of beer"
+				},
+				{
+					"text": "beers brewed in Germany"
+				},
+				{
+					"text": "a beer glass/bottle/can"
+				},
+				{
+					"text": "Are you a beer drinker?"
+				},
+				{
+					"text": "The bar has some great beers on tap."
+				},
+				{
+					"text": "Do you drink beer?"
+				},
+				{
+					"text": "I ordered half a pint of beer with my sandwich."
+				},
+				{
+					"text": "I'd love a glass of foaming ice-cold beer."
+				},
+				{
+					"text": "Put the beer in the fridge to chill."
+				},
+				{
+					"text": "The bar smelled of stale beer."
+				},
+				{
+					"text": "The beer flowed freely after the game."
+				},
+				{
+					"text": "The shop specializes in designer beers."
+				},
+				{
+					"text": "This beer should be drawn slowly."
+				},
+				{
+					"text": "He slammed his glass down and the beer slopped over the sides."
+				}
+			],
+			"topics": ["Drinks"],
+			"collocations": {
+				"adjective": ["good", "great", "quality"],
+				"… of beer": ["pint", "barrel", "bottle"],
+				"verb + beer": ["drink", "have", "get"],
+				"beer + verb": ["chill", "go flat", "flow"],
+				"beer + noun": ["drinker", "lover", "maker"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a glass, bottle or can of beer",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Shall we have a beer?"
+				},
+				{
+					"text": "David bought us a couple of beers."
+				},
+				{
+					"text": "Will you have a beer?"
+				},
+				{
+					"text": "She poured us all a beer."
+				},
+				{
+					"text": "He downed his beer in one go."
+				},
+				{
+					"text": "I have some beers chilling in the cooler."
+				},
+				{
+					"text": "I saw him at the bar ordering a beer."
+				},
+				{
+					"text": "I'm going for a beer with Carl tonight."
+				}
+			],
+			"collocations": {
+				"adjective": ["good", "great", "quality"],
+				"… of beer": ["pint", "barrel", "bottle"],
+				"verb + beer": ["drink", "have", "get"],
+				"beer + verb": ["chill", "go flat", "flow"],
+				"beer + noun": ["drinker", "lover", "maker"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/bɪə(r)/",
+				"audio": "be/beer/beer__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/bɪr/",
+				"audio": "be/beer/beer__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English bēor, of West Germanic origin, based on monastic Latin biber ‘a drink’, from Latin bibere ‘to drink’; related to Dutch bier and German Bier."
 }

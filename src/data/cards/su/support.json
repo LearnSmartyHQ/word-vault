@@ -1,322 +1,322 @@
 {
-  "term": "support",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "support",
-      "heSheIt": "supports"
-    },
-    "pastSimple": "supported",
-    "pastParticiple": "supported",
-    "ingForm": "supporting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to help or encourage somebody/something by saying or showing that you agree with them/it",
-      "sensetop": "support somebody/somethingsupport somebody/something in something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to support an idea/a view",
-          "contextForm": "support somebody/something"
-        },
-        {
-          "text": "The party **fully supports** new welfare reform bill."
-        },
-        {
-          "text": "Efforts to reduce waste are **strongly supported** by environmental groups."
-        },
-        {
-          "text": "The majority of ordinary citizens did not support the war."
-        },
-        {
-          "text": "If you raise it at the meeting, I'll support you."
-        },
-        {
-          "text": "The government supported the unions in their demand for a minimum wage.",
-          "contextForm": "support somebody/something in something"
-        },
-        {
-          "text": "He has consistently supported the tax cuts."
-        },
-        {
-          "text": "I strongly support the view that education should be available to everyone."
-        },
-        {
-          "text": "The people of this country overwhelmingly support their president."
-        },
-        {
-          "text": "These policies were widely supported in the country."
-        },
-        {
-          "text": "Very few countries supported the United States in its action."
-        }
-      ],
-      "topics": ["Success", "Politics"],
-      "collocations": {
-        "adverb": ["overwhelmingly", "fervently", "fully"],
-        "verb + support": ["agree to", "pledge to", "promise to"],
-        "preposition": ["in"],
-        "phrases": [
-          "be well supported",
-          "be widely supported",
-          "support and encourage somebody/​something"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to give or be ready to give help to somebody if they need it",
-      "sensetop": "support somebody",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "an organization that supports people with AIDS"
-        },
-        {
-          "text": "She supported her husband through many difficult times."
-        },
-        {
-          "text": "The company will support customers in Europe *(= solve their problems with a product)*."
-        },
-        {
-          "text": "Teachers should always support and encourage their students."
-        },
-        {
-          "text": "The group is actively supported by several Members of Parliament."
-        },
-        {
-          "text": "The event was organized by Sam and Alex, ably supported by their classmates."
-        },
-        {
-          "text": "You need colleagues who will support you in your work."
-        },
-        {
-          "text": "The soloists were ably supported by the University Singers."
-        }
-      ],
-      "collocations": {
-        "adverb": ["overwhelmingly", "fervently", "fully"],
-        "verb + support": ["agree to", "pledge to", "promise to"],
-        "preposition": ["in"],
-        "phrases": [
-          "be well supported",
-          "be widely supported",
-          "support and encourage somebody/​something"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to like a particular sports team, watch their games, etc.",
-      "sensetop": "support somebody/something",
-      "labels": "(British English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Which team do you support?"
-        },
-        {
-          "text": "Who do you support?"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to help or encourage something to be successful by giving it money",
-      "sensetop": "support something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The project was supported by grants from various charities."
-        },
-        {
-          "text": "A number of famous actors **actively supported **the campaign."
-        },
-        {
-          "text": "Several major companies are supporting the project."
-        },
-        {
-          "text": "The government has refused to support a new veterinary school in the region."
-        },
-        {
-          "text": "This work was partially supported by the government."
-        }
-      ],
-      "synonyms": "sponsor",
-      "topics": ["Success"],
-      "collocations": {
-        "adverb": ["financially", "generously", "partially"],
-        "verb + support": ["help (to)"],
-        "preposition": ["through"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to provide everything necessary, especially money, so that somebody/something can live or exist",
-      "sensetop": "support somebody/something/yourself",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He struggles to **support his family**."
-        },
-        {
-          "text": "She supported herself through college by working as a waitress in a local bar."
-        },
-        {
-          "text": "He turned to crime to support his drug habit."
-        },
-        {
-          "text": "The atmosphere of Mars could not support life."
-        },
-        {
-          "text": "I have two children to support."
-        },
-        {
-          "text": "Her parents supported her all through university."
-        },
-        {
-          "text": "The town supports a small fishing fleet."
-        }
-      ],
-      "topics": ["Money"],
-      "collocations": {
-        "adverb": ["financially", "generously", "partially"],
-        "verb + support": ["help (to)"],
-        "preposition": ["through"]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to help to show that something is true",
-      "sensetop": "support something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Current data **support this hypothesis**."
-        },
-        {
-          "text": "There is no **evidence to support** his claims."
-        },
-        {
-          "text": "The witness's story was not supported by the evidence."
-        },
-        {
-          "text": "He said the figures were questionable and not **well supported**."
-        },
-        {
-          "text": "The results of the experiment supported her theory."
-        },
-        {
-          "text": "Our results clearly support this view."
-        },
-        {
-          "text": "Research has generally supported these predictions."
-        },
-        {
-          "text": "The sample adequately supports this conclusion."
-        }
-      ],
-      "synonyms": "corroborate",
-      "topics": ["Opinion and argument"],
-      "collocations": {
-        "adverb": ["strongly", "weakly", "adequately"],
-        "verb + support": ["appear to", "seem to", "tend to"],
-        "phrases": [
-          "be supported by data",
-          "be supported by evidence",
-          "be well supported"
-        ]
-      }
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to hold somebody/something in position; to prevent somebody/something from falling",
-      "sensetop": "support somebody/something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a platform supported by concrete pillars"
-        },
-        {
-          "text": "Support the baby's head when you hold it."
-        },
-        {
-          "text": "She walked carefully down the stairs, supported by her grandson."
-        }
-      ],
-      "topics": ["Buildings"]
-    },
-    {
-      "senseNumber": 8,
-      "definition": "to perform in a pop or rock concert before the main performer",
-      "sensetop": "support somebody/something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "They were supported by a local Liverpool band."
-        }
-      ],
-      "topics": ["Music"]
-    },
-    {
-      "senseNumber": 9,
-      "definition": "to allow a particular program, language or device to be used with it",
-      "sensetop": "support something",
-      "examples": [
-        {
-          "text": "This digital audio player supports multiple formats."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/səˈpɔːt/",
-        "audio": "su/support/support__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/səˈpɔːts/",
-        "audio": "su/support/supports__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈpɔːtɪd/",
-        "audio": "su/support/supported__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈpɔːtɪŋ/",
-        "audio": "su/support/supporting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/səˈpɔːrt/",
-        "audio": "su/support/support__us_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈpɔːrts/",
-        "audio": "su/support/supports__us_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈpɔːrtɪd/",
-        "audio": "su/support/supported__us_1.mp3"
-      },
-      {
-        "pronunciation": "/səˈpɔːrtɪŋ/",
-        "audio": "su/support/supporting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (originally in the sense ‘tolerate’): from Old French supporter, from Latin supportare, from sub- ‘from below’ + portare ‘carry’."
+	"term": "support",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "support",
+			"heSheIt": "supports"
+		},
+		"pastSimple": "supported",
+		"pastParticiple": "supported",
+		"ingForm": "supporting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to help or encourage somebody/something by saying or showing that you agree with them/it",
+			"sensetop": "support somebody/somethingsupport somebody/something in something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to support an idea/a view",
+					"contextForm": "support somebody/something"
+				},
+				{
+					"text": "The party **fully supports** new welfare reform bill."
+				},
+				{
+					"text": "Efforts to reduce waste are **strongly supported** by environmental groups."
+				},
+				{
+					"text": "The majority of ordinary citizens did not support the war."
+				},
+				{
+					"text": "If you raise it at the meeting, I'll support you."
+				},
+				{
+					"text": "The government supported the unions in their demand for a minimum wage.",
+					"contextForm": "support somebody/something in something"
+				},
+				{
+					"text": "He has consistently supported the tax cuts."
+				},
+				{
+					"text": "I strongly support the view that education should be available to everyone."
+				},
+				{
+					"text": "The people of this country overwhelmingly support their president."
+				},
+				{
+					"text": "These policies were widely supported in the country."
+				},
+				{
+					"text": "Very few countries supported the United States in its action."
+				}
+			],
+			"topics": ["Success", "Politics"],
+			"collocations": {
+				"adverb": ["overwhelmingly", "fervently", "fully"],
+				"verb + support": ["agree to", "pledge to", "promise to"],
+				"preposition": ["in"],
+				"phrases": [
+					"be well supported",
+					"be widely supported",
+					"support and encourage somebody/​something"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to give or be ready to give help to somebody if they need it",
+			"sensetop": "support somebody",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "an organization that supports people with AIDS"
+				},
+				{
+					"text": "She supported her husband through many difficult times."
+				},
+				{
+					"text": "The company will support customers in Europe *(= solve their problems with a product)*."
+				},
+				{
+					"text": "Teachers should always support and encourage their students."
+				},
+				{
+					"text": "The group is actively supported by several Members of Parliament."
+				},
+				{
+					"text": "The event was organized by Sam and Alex, ably supported by their classmates."
+				},
+				{
+					"text": "You need colleagues who will support you in your work."
+				},
+				{
+					"text": "The soloists were ably supported by the University Singers."
+				}
+			],
+			"collocations": {
+				"adverb": ["overwhelmingly", "fervently", "fully"],
+				"verb + support": ["agree to", "pledge to", "promise to"],
+				"preposition": ["in"],
+				"phrases": [
+					"be well supported",
+					"be widely supported",
+					"support and encourage somebody/​something"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to like a particular sports team, watch their games, etc.",
+			"sensetop": "support somebody/something",
+			"labels": "(British English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Which team do you support?"
+				},
+				{
+					"text": "Who do you support?"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to help or encourage something to be successful by giving it money",
+			"sensetop": "support something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The project was supported by grants from various charities."
+				},
+				{
+					"text": "A number of famous actors **actively supported **the campaign."
+				},
+				{
+					"text": "Several major companies are supporting the project."
+				},
+				{
+					"text": "The government has refused to support a new veterinary school in the region."
+				},
+				{
+					"text": "This work was partially supported by the government."
+				}
+			],
+			"synonyms": "sponsor",
+			"topics": ["Success"],
+			"collocations": {
+				"adverb": ["financially", "generously", "partially"],
+				"verb + support": ["help (to)"],
+				"preposition": ["through"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to provide everything necessary, especially money, so that somebody/something can live or exist",
+			"sensetop": "support somebody/something/yourself",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He struggles to **support his family**."
+				},
+				{
+					"text": "She supported herself through college by working as a waitress in a local bar."
+				},
+				{
+					"text": "He turned to crime to support his drug habit."
+				},
+				{
+					"text": "The atmosphere of Mars could not support life."
+				},
+				{
+					"text": "I have two children to support."
+				},
+				{
+					"text": "Her parents supported her all through university."
+				},
+				{
+					"text": "The town supports a small fishing fleet."
+				}
+			],
+			"topics": ["Money"],
+			"collocations": {
+				"adverb": ["financially", "generously", "partially"],
+				"verb + support": ["help (to)"],
+				"preposition": ["through"]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to help to show that something is true",
+			"sensetop": "support something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Current data **support this hypothesis**."
+				},
+				{
+					"text": "There is no **evidence to support** his claims."
+				},
+				{
+					"text": "The witness's story was not supported by the evidence."
+				},
+				{
+					"text": "He said the figures were questionable and not **well supported**."
+				},
+				{
+					"text": "The results of the experiment supported her theory."
+				},
+				{
+					"text": "Our results clearly support this view."
+				},
+				{
+					"text": "Research has generally supported these predictions."
+				},
+				{
+					"text": "The sample adequately supports this conclusion."
+				}
+			],
+			"synonyms": "corroborate",
+			"topics": ["Opinion and argument"],
+			"collocations": {
+				"adverb": ["strongly", "weakly", "adequately"],
+				"verb + support": ["appear to", "seem to", "tend to"],
+				"phrases": [
+					"be supported by data",
+					"be supported by evidence",
+					"be well supported"
+				]
+			}
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to hold somebody/something in position; to prevent somebody/something from falling",
+			"sensetop": "support somebody/something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a platform supported by concrete pillars"
+				},
+				{
+					"text": "Support the baby's head when you hold it."
+				},
+				{
+					"text": "She walked carefully down the stairs, supported by her grandson."
+				}
+			],
+			"topics": ["Buildings"]
+		},
+		{
+			"senseNumber": 8,
+			"definition": "to perform in a pop or rock concert before the main performer",
+			"sensetop": "support somebody/something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "They were supported by a local Liverpool band."
+				}
+			],
+			"topics": ["Music"]
+		},
+		{
+			"senseNumber": 9,
+			"definition": "to allow a particular program, language or device to be used with it",
+			"sensetop": "support something",
+			"examples": [
+				{
+					"text": "This digital audio player supports multiple formats."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/səˈpɔːt/",
+				"audio": "su/support/support__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/səˈpɔːts/",
+				"audio": "su/support/supports__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈpɔːtɪd/",
+				"audio": "su/support/supported__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈpɔːtɪŋ/",
+				"audio": "su/support/supporting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/səˈpɔːrt/",
+				"audio": "su/support/support__us_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈpɔːrts/",
+				"audio": "su/support/supports__us_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈpɔːrtɪd/",
+				"audio": "su/support/supported__us_1.mp3"
+			},
+			{
+				"pronunciation": "/səˈpɔːrtɪŋ/",
+				"audio": "su/support/supporting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (originally in the sense ‘tolerate’): from Old French supporter, from Latin supportare, from sub- ‘from below’ + portare ‘carry’."
 }

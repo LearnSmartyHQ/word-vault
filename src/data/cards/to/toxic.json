@@ -1,82 +1,82 @@
 {
-  "term": "toxic",
-  "partOfSpeech": "adjective",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "containing poison; poisonous",
-      "sensetop": "toxic to somebody/something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "**toxic chemicals/fumes/gases/substances**"
-        },
-        {
-          "text": "to dispose of **toxic waste**"
-        },
-        {
-          "text": "Many pesticides are **highly toxic**."
-        },
-        {
-          "text": "This chemical is toxic to many forms of life.",
-          "contextForm": "toxic to somebody/something"
-        }
-      ],
-      "topics": ["The environment"],
-      "collocations": {
-        "verbs": ["be", "prove", "stay"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a level of debt or high-risk investment that causes very serious problems for a bank or other financial institution",
-      "sensetop": "toxic debt/loan/asset/investment",
-      "examples": [],
-      "collocations": {
-        "verbs": ["be", "prove", "stay"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "very unpleasant, especially in the way somebody likes to control and influence other people in a dishonest way",
-      "labels": "(informal, disapproving)",
-      "examples": [
-        {
-          "text": "I felt trapped in this toxic relationship."
-        },
-        {
-          "text": "The political situation is highly toxic."
-        },
-        {
-          "text": "the toxic atmosphere that now exists in political life"
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "prove", "stay"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["to"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈtɒksɪk/",
-        "audio": "to/toxic/toxic__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈtɑːksɪk/",
-        "audio": "to/toxic/toxic__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 17th cent.: from medieval Latin toxicus ‘poisoned’, from Latin toxicum ‘poison’, from Greek toxikon (pharmakon) ‘(poison for) arrows’, from toxon ‘bow’."
+	"term": "toxic",
+	"partOfSpeech": "adjective",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "containing poison; poisonous",
+			"sensetop": "toxic to somebody/something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "**toxic chemicals/fumes/gases/substances**"
+				},
+				{
+					"text": "to dispose of **toxic waste**"
+				},
+				{
+					"text": "Many pesticides are **highly toxic**."
+				},
+				{
+					"text": "This chemical is toxic to many forms of life.",
+					"contextForm": "toxic to somebody/something"
+				}
+			],
+			"topics": ["The environment"],
+			"collocations": {
+				"verbs": ["be", "prove", "stay"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a level of debt or high-risk investment that causes very serious problems for a bank or other financial institution",
+			"sensetop": "toxic debt/loan/asset/investment",
+			"examples": [],
+			"collocations": {
+				"verbs": ["be", "prove", "stay"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "very unpleasant, especially in the way somebody likes to control and influence other people in a dishonest way",
+			"labels": "(informal, disapproving)",
+			"examples": [
+				{
+					"text": "I felt trapped in this toxic relationship."
+				},
+				{
+					"text": "The political situation is highly toxic."
+				},
+				{
+					"text": "the toxic atmosphere that now exists in political life"
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "prove", "stay"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["to"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈtɒksɪk/",
+				"audio": "to/toxic/toxic__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈtɑːksɪk/",
+				"audio": "to/toxic/toxic__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 17th cent.: from medieval Latin toxicus ‘poisoned’, from Latin toxicum ‘poison’, from Greek toxikon (pharmakon) ‘(poison for) arrows’, from toxon ‘bow’."
 }

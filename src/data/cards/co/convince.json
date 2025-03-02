@@ -1,107 +1,107 @@
 {
-  "term": "convince",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "convince",
-      "heSheIt": "convinces"
-    },
-    "pastSimple": "convinced",
-    "pastParticiple": "convinced",
-    "ingForm": "convincing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to make somebody/yourself believe that something is true",
-      "sensetop": "convince somebody/yourselfconvince somebody/yourself of somethingconvince somebody/yourself (that)…",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Are the prime minister's assurances enough to convince the public?",
-          "contextForm": "convince somebody/yourself"
-        },
-        {
-          "text": "I'd be very surprised if this argument convinces anybody."
-        },
-        {
-          "text": "to **try/manage/fail to convince** somebody/yourself"
-        },
-        {
-          "text": "She has managed to convince even the sceptics."
-        },
-        {
-          "text": "You'll need to convince them of your enthusiasm for the job.",
-          "contextForm": "convince somebody/yourself of something"
-        },
-        {
-          "text": "I’d convinced myself (that) I was right.",
-          "contextForm": "convince somebody/yourself (that)…"
-        },
-        {
-          "text": "Will the president be able to convince voters that he deserves a second term?"
-        },
-        {
-          "text": "The experience convinced him that Europe was on the brink of a revolution."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to persuade somebody to do something",
-      "sensetop": "convince somebody to do something",
-      "labels": "British English",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I've been trying to convince him to see a doctor."
-        }
-      ],
-      "topics": ["Discussion and agreement"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kənˈvɪns/",
-        "audio": "xc/convince/xconvince__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/kənˈvɪnsɪz/",
-        "audio": "xc/convince/xconvinces__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈvɪnst/",
-        "audio": "xc/convince/xconvinced__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈvɪnsɪŋ/",
-        "audio": "xc/convince/xconvincing__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kənˈvɪns/",
-        "audio": "xc/convince/xconvince__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈvɪnsɪz/",
-        "audio": "xc/convince/xconvinces__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈvɪnst/",
-        "audio": "xc/convince/xconvinced__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kənˈvɪnsɪŋ/",
-        "audio": "xc/convince/xconvincing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent. (in the sense ‘overcome, defeat in argument’): from Latin convincere, from con- ‘with’ + vincere ‘conquer’. Compare with convict."
+	"term": "convince",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "convince",
+			"heSheIt": "convinces"
+		},
+		"pastSimple": "convinced",
+		"pastParticiple": "convinced",
+		"ingForm": "convincing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to make somebody/yourself believe that something is true",
+			"sensetop": "convince somebody/yourselfconvince somebody/yourself of somethingconvince somebody/yourself (that)…",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Are the prime minister's assurances enough to convince the public?",
+					"contextForm": "convince somebody/yourself"
+				},
+				{
+					"text": "I'd be very surprised if this argument convinces anybody."
+				},
+				{
+					"text": "to **try/manage/fail to convince** somebody/yourself"
+				},
+				{
+					"text": "She has managed to convince even the sceptics."
+				},
+				{
+					"text": "You'll need to convince them of your enthusiasm for the job.",
+					"contextForm": "convince somebody/yourself of something"
+				},
+				{
+					"text": "I’d convinced myself (that) I was right.",
+					"contextForm": "convince somebody/yourself (that)…"
+				},
+				{
+					"text": "Will the president be able to convince voters that he deserves a second term?"
+				},
+				{
+					"text": "The experience convinced him that Europe was on the brink of a revolution."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to persuade somebody to do something",
+			"sensetop": "convince somebody to do something",
+			"labels": "British English",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I've been trying to convince him to see a doctor."
+				}
+			],
+			"topics": ["Discussion and agreement"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kənˈvɪns/",
+				"audio": "xc/convince/xconvince__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/kənˈvɪnsɪz/",
+				"audio": "xc/convince/xconvinces__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈvɪnst/",
+				"audio": "xc/convince/xconvinced__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈvɪnsɪŋ/",
+				"audio": "xc/convince/xconvincing__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kənˈvɪns/",
+				"audio": "xc/convince/xconvince__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈvɪnsɪz/",
+				"audio": "xc/convince/xconvinces__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈvɪnst/",
+				"audio": "xc/convince/xconvinced__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kənˈvɪnsɪŋ/",
+				"audio": "xc/convince/xconvincing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent. (in the sense ‘overcome, defeat in argument’): from Latin convincere, from con- ‘with’ + vincere ‘conquer’. Compare with convict."
 }

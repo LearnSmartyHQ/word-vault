@@ -1,85 +1,85 @@
 {
-  "term": "congregation",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a group of people who are gathered together in a church for a religious service, not including the priest and choir",
-      "labels": "(North American English)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The congregation stood to sing the hymn."
-        },
-        {
-          "text": "The minister led the congregation in a hymn."
-        },
-        {
-          "text": "The priest stood up to address the congregation."
-        }
-      ],
-      "collocations": {
-        "adjective": ["large", "small", "local"],
-        "verb + congregation": ["address", "lead", "serve"],
-        "preposition": ["in a/​the congregation"],
-        "phrases": ["a member of a congregation"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a group of people who regularly attend a particular church",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "members of local congregations"
-        },
-        {
-          "text": "The congregation is/are very diverse in terms of background and ethnicity."
-        },
-        {
-          "text": "He had established a small congregation in New York City."
-        },
-        {
-          "text": "a lay minister serving a small rural congregation"
-        },
-        {
-          "text": "people attending the congregation where she and her family worship"
-        }
-      ],
-      "topics": ["Religion and festivals"],
-      "collocations": {
-        "adjective": ["large", "small", "local"],
-        "verb + congregation": ["address", "lead", "serve"],
-        "preposition": ["in a/​the congregation"],
-        "phrases": ["a member of a congregation"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a group or collection of people, animals or things",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "Large congregations of birds filled the evening skies."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌkɒŋɡrɪˈɡeɪʃn/",
-        "audio": "xc/congregation/xcongregation__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌkɑːŋɡrɪˈɡeɪʃn/",
-        "audio": "xc/congregation/xcongregation__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English in the more general sense of a gathering: from Latin congregatio(n-), from congregare ‘collect (into a flock)’, from con- ‘together’ + gregare (from grex, greg- ‘a flock’)."
+	"term": "congregation",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a group of people who are gathered together in a church for a religious service, not including the priest and choir",
+			"labels": "(North American English)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The congregation stood to sing the hymn."
+				},
+				{
+					"text": "The minister led the congregation in a hymn."
+				},
+				{
+					"text": "The priest stood up to address the congregation."
+				}
+			],
+			"collocations": {
+				"adjective": ["large", "small", "local"],
+				"verb + congregation": ["address", "lead", "serve"],
+				"preposition": ["in a/​the congregation"],
+				"phrases": ["a member of a congregation"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a group of people who regularly attend a particular church",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "members of local congregations"
+				},
+				{
+					"text": "The congregation is/are very diverse in terms of background and ethnicity."
+				},
+				{
+					"text": "He had established a small congregation in New York City."
+				},
+				{
+					"text": "a lay minister serving a small rural congregation"
+				},
+				{
+					"text": "people attending the congregation where she and her family worship"
+				}
+			],
+			"topics": ["Religion and festivals"],
+			"collocations": {
+				"adjective": ["large", "small", "local"],
+				"verb + congregation": ["address", "lead", "serve"],
+				"preposition": ["in a/​the congregation"],
+				"phrases": ["a member of a congregation"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a group or collection of people, animals or things",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "Large congregations of birds filled the evening skies."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌkɒŋɡrɪˈɡeɪʃn/",
+				"audio": "xc/congregation/xcongregation__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌkɑːŋɡrɪˈɡeɪʃn/",
+				"audio": "xc/congregation/xcongregation__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English in the more general sense of a gathering: from Latin congregatio(n-), from congregare ‘collect (into a flock)’, from con- ‘together’ + gregare (from grex, greg- ‘a flock’)."
 }

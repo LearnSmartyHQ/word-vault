@@ -1,179 +1,179 @@
 {
-  "term": "brush",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "brush",
-      "heSheIt": "brushes"
-    },
-    "pastSimple": "brushed",
-    "pastParticiple": "brushed",
-    "ingForm": "brushing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to clean, polish or make something smooth with a brush",
-      "sensetop": "brush somethingbrush something + adj.",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **brush your hair/teeth**",
-          "contextForm": "brush something"
-        },
-        {
-          "text": "to brush your shoes"
-        },
-        {
-          "text": "A tiled floor is easy to brush clean.",
-          "contextForm": "brush something + adj."
-        }
-      ],
-      "topics": ["Appearance"],
-      "collocations": {
-        "adverb": ["carefully", "quickly", "slowly"],
-        "preposition": ["at"],
-        "phrases": ["brush something clean"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to remove or try to remove something from a place or surface with a brush or with your hand",
-      "sensetop": "brush something + adv./prep.brush + adv./prep.",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I brushed the dirt off my jacket.",
-          "contextForm": "brush something + adv./prep."
-        },
-        {
-          "text": "He pulled out a handkerchief and **brushed away the tears**."
-        },
-        {
-          "text": "Gail brushed a strand of hair out of her eyes."
-        },
-        {
-          "text": "She brushed the fly away."
-        },
-        {
-          "text": "Lucille brushed at the blood on his jacket.",
-          "contextForm": "brush + adv./prep."
-        },
-        {
-          "text": "He brushed the mud from his coat."
-        },
-        {
-          "text": "She brushed away her tears."
-        },
-        {
-          "text": "Her hair was brushed back in a pony tail."
-        },
-        {
-          "text": "She brushed her hair out of her eyes."
-        },
-        {
-          "text": "I brushed the crumbs off the table."
-        }
-      ],
-      "collocations": {
-        "adverb": ["carefully", "quickly", "slowly"],
-        "preposition": ["at"],
-        "phrases": ["brush something clean"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to put something, for example oil, milk or egg, on something using a brush",
-      "sensetop": "brush A with Bbrush B over, on, etc. A",
-      "examples": [
-        {
-          "text": "Brush the pastry with beaten egg.",
-          "contextForm": "brush A with B"
-        },
-        {
-          "text": "Brush beaten egg over the pastry.",
-          "contextForm": "brush B over, on, etc. A"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to touch somebody/something lightly while moving close to them/it",
-      "sensetop": "brush by/past somebody/somethingbrush against somebody/somethingbrush somethingbrush something with something",
-      "examples": [
-        {
-          "text": "She brushed past him.",
-          "contextForm": "brush by/past somebody/something"
-        },
-        {
-          "text": "His hand accidentally brushed against hers.",
-          "contextForm": "brush against somebody/something"
-        },
-        {
-          "text": "The leaves brushed her cheek.",
-          "contextForm": "brush something"
-        },
-        {
-          "text": "He brushed her lips with his.",
-          "contextForm": "brush something with something"
-        },
-        {
-          "text": "I hardly noticed the man who brushed past me in the corridor."
-        },
-        {
-          "text": "She brushed by him and dashed up the stairs."
-        },
-        {
-          "text": "She carefully avoided brushing against the man sitting beside her at the table."
-        }
-      ],
-      "collocations": {
-        "adverb": ["gently", "lightly", "softly"],
-        "preposition": ["against", "by", "past"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/brʌʃ/",
-        "audio": "br/brush/brush__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈbrʌʃɪz/",
-        "audio": "br/brush/brushes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/brʌʃt/",
-        "audio": "br/brush/brushed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈbrʌʃɪŋ/",
-        "audio": "br/brush/brushing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/brʌʃ/",
-        "audio": "br/brush/brush__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈbrʌʃɪz/",
-        "audio": "br/brush/brushes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/brʌʃt/",
-        "audio": "br/brush/brushed__us_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈbrʌʃɪŋ/",
-        "audio": "br/brush/brushing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "verb Middle English: noun from Old French broisse; verb partly from Old French brosser ‘to sweep’."
+	"term": "brush",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "brush",
+			"heSheIt": "brushes"
+		},
+		"pastSimple": "brushed",
+		"pastParticiple": "brushed",
+		"ingForm": "brushing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to clean, polish or make something smooth with a brush",
+			"sensetop": "brush somethingbrush something + adj.",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **brush your hair/teeth**",
+					"contextForm": "brush something"
+				},
+				{
+					"text": "to brush your shoes"
+				},
+				{
+					"text": "A tiled floor is easy to brush clean.",
+					"contextForm": "brush something + adj."
+				}
+			],
+			"topics": ["Appearance"],
+			"collocations": {
+				"adverb": ["carefully", "quickly", "slowly"],
+				"preposition": ["at"],
+				"phrases": ["brush something clean"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to remove or try to remove something from a place or surface with a brush or with your hand",
+			"sensetop": "brush something + adv./prep.brush + adv./prep.",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I brushed the dirt off my jacket.",
+					"contextForm": "brush something + adv./prep."
+				},
+				{
+					"text": "He pulled out a handkerchief and **brushed away the tears**."
+				},
+				{
+					"text": "Gail brushed a strand of hair out of her eyes."
+				},
+				{
+					"text": "She brushed the fly away."
+				},
+				{
+					"text": "Lucille brushed at the blood on his jacket.",
+					"contextForm": "brush + adv./prep."
+				},
+				{
+					"text": "He brushed the mud from his coat."
+				},
+				{
+					"text": "She brushed away her tears."
+				},
+				{
+					"text": "Her hair was brushed back in a pony tail."
+				},
+				{
+					"text": "She brushed her hair out of her eyes."
+				},
+				{
+					"text": "I brushed the crumbs off the table."
+				}
+			],
+			"collocations": {
+				"adverb": ["carefully", "quickly", "slowly"],
+				"preposition": ["at"],
+				"phrases": ["brush something clean"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to put something, for example oil, milk or egg, on something using a brush",
+			"sensetop": "brush A with Bbrush B over, on, etc. A",
+			"examples": [
+				{
+					"text": "Brush the pastry with beaten egg.",
+					"contextForm": "brush A with B"
+				},
+				{
+					"text": "Brush beaten egg over the pastry.",
+					"contextForm": "brush B over, on, etc. A"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to touch somebody/something lightly while moving close to them/it",
+			"sensetop": "brush by/past somebody/somethingbrush against somebody/somethingbrush somethingbrush something with something",
+			"examples": [
+				{
+					"text": "She brushed past him.",
+					"contextForm": "brush by/past somebody/something"
+				},
+				{
+					"text": "His hand accidentally brushed against hers.",
+					"contextForm": "brush against somebody/something"
+				},
+				{
+					"text": "The leaves brushed her cheek.",
+					"contextForm": "brush something"
+				},
+				{
+					"text": "He brushed her lips with his.",
+					"contextForm": "brush something with something"
+				},
+				{
+					"text": "I hardly noticed the man who brushed past me in the corridor."
+				},
+				{
+					"text": "She brushed by him and dashed up the stairs."
+				},
+				{
+					"text": "She carefully avoided brushing against the man sitting beside her at the table."
+				}
+			],
+			"collocations": {
+				"adverb": ["gently", "lightly", "softly"],
+				"preposition": ["against", "by", "past"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/brʌʃ/",
+				"audio": "br/brush/brush__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈbrʌʃɪz/",
+				"audio": "br/brush/brushes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/brʌʃt/",
+				"audio": "br/brush/brushed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈbrʌʃɪŋ/",
+				"audio": "br/brush/brushing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/brʌʃ/",
+				"audio": "br/brush/brush__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈbrʌʃɪz/",
+				"audio": "br/brush/brushes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/brʌʃt/",
+				"audio": "br/brush/brushed__us_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈbrʌʃɪŋ/",
+				"audio": "br/brush/brushing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "verb Middle English: noun from Old French broisse; verb partly from Old French brosser ‘to sweep’."
 }

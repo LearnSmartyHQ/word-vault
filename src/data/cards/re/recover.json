@@ -1,185 +1,185 @@
 {
-  "term": "recover",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "recover",
-      "heSheIt": "recovers"
-    },
-    "pastSimple": "recovered",
-    "pastParticiple": "recovered",
-    "ingForm": "recovering"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to get well again after being ill, hurt, etc.",
-      "sensetop": "recover from something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He's still recovering from his operation.",
-          "contextForm": "recover from something"
-        },
-        {
-          "text": "She spent many weeks in hospital **recovering from her injuries**."
-        },
-        {
-          "text": "He has **fully recovered** from the shoulder surgery."
-        },
-        {
-          "text": "She remains in serious condition, but is expected to recover."
-        },
-        {
-          "text": "The victim is **recovering well** at home."
-        },
-        {
-          "text": "Mrs Burton was last night recovering from her injuries in hospital."
-        },
-        {
-          "text": "She had hardly recovered from the birth of her last baby."
-        },
-        {
-          "text": "Yates is struggling to recover form a serious knee injury."
-        },
-        {
-          "text": "Your baby is recovering well."
-        },
-        {
-          "text": "Mother and baby are recovering well."
-        }
-      ],
-      "topics": ["Health problems"],
-      "collocations": {
-        "adverb": ["completely", "fully", "partially"],
-        "verb + recover": ["help somebody (to)", "struggle to"],
-        "preposition": ["from"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to return to a normal state after an unpleasant or unusual experience or a period of difficulty",
-      "sensetop": "recover from something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "It can take many years to recover from the death of a loved one.",
-          "contextForm": "recover from something"
-        },
-        {
-          "text": "The economy is at last beginning to recover."
-        }
-      ],
-      "topics": ["Change, cause and effect"],
-      "collocations": {
-        "adverb": ["completely", "fully", "partially"],
-        "verb + recover": ["help somebody (to)", "struggle to"],
-        "preposition": ["from"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to get back the same amount of money that you have spent or that is owed to you",
-      "sensetop": "recover something (from somebody/something)",
-      "examples": [
-        {
-          "text": "He is unlikely to ever recover his legal costs."
-        },
-        {
-          "text": "Creditors have a right to recover their debts."
-        },
-        {
-          "text": "Some investors tried to recover their losses by making further high risk investments."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to get back or find something that was lost, stolen or missing",
-      "sensetop": "recover somethingrecover something from somebody/something",
-      "examples": [
-        {
-          "text": "The police eventually recovered the stolen paintings.",
-          "contextForm": "recover something"
-        },
-        {
-          "text": "Six bodies were recovered from the wreckage.",
-          "contextForm": "recover something from somebody/something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to win back a position, level, status, etc. that has been lost",
-      "sensetop": "recover something",
-      "examples": [
-        {
-          "text": "The team recovered its lead in the second half."
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to get back the use of your senses, control of your emotions, etc.",
-      "sensetop": "recover somethingrecover yourself",
-      "examples": [
-        {
-          "text": "It took her a few minutes to **recover consciousness**.",
-          "contextForm": "recover something"
-        },
-        {
-          "text": "to recover your sight"
-        },
-        {
-          "text": "She seemed upset but quickly recovered herself.",
-          "contextForm": "recover yourself"
-        }
-      ],
-      "synonyms": "regain"
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/rɪˈkʌvə(r)/",
-        "audio": "re/recover/recover__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈkʌvəz/",
-        "audio": "re/recover/recovers__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈkʌvəd/",
-        "audio": "re/recover/recovered__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈkʌvərɪŋ/",
-        "audio": "re/recover/recovering__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/rɪˈkʌvər/",
-        "audio": "re/recover/recover__us_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈkʌvərz/",
-        "audio": "re/recover/recovers__us_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈkʌvərd/",
-        "audio": "re/recover/recovered__us_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈkʌvərɪŋ/",
-        "audio": "re/recover/recovering__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (originally with reference to health): from Anglo-Norman French recoverer, from Latin recuperare ‘get again’."
+	"term": "recover",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "recover",
+			"heSheIt": "recovers"
+		},
+		"pastSimple": "recovered",
+		"pastParticiple": "recovered",
+		"ingForm": "recovering"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to get well again after being ill, hurt, etc.",
+			"sensetop": "recover from something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He's still recovering from his operation.",
+					"contextForm": "recover from something"
+				},
+				{
+					"text": "She spent many weeks in hospital **recovering from her injuries**."
+				},
+				{
+					"text": "He has **fully recovered** from the shoulder surgery."
+				},
+				{
+					"text": "She remains in serious condition, but is expected to recover."
+				},
+				{
+					"text": "The victim is **recovering well** at home."
+				},
+				{
+					"text": "Mrs Burton was last night recovering from her injuries in hospital."
+				},
+				{
+					"text": "She had hardly recovered from the birth of her last baby."
+				},
+				{
+					"text": "Yates is struggling to recover form a serious knee injury."
+				},
+				{
+					"text": "Your baby is recovering well."
+				},
+				{
+					"text": "Mother and baby are recovering well."
+				}
+			],
+			"topics": ["Health problems"],
+			"collocations": {
+				"adverb": ["completely", "fully", "partially"],
+				"verb + recover": ["help somebody (to)", "struggle to"],
+				"preposition": ["from"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to return to a normal state after an unpleasant or unusual experience or a period of difficulty",
+			"sensetop": "recover from something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "It can take many years to recover from the death of a loved one.",
+					"contextForm": "recover from something"
+				},
+				{
+					"text": "The economy is at last beginning to recover."
+				}
+			],
+			"topics": ["Change, cause and effect"],
+			"collocations": {
+				"adverb": ["completely", "fully", "partially"],
+				"verb + recover": ["help somebody (to)", "struggle to"],
+				"preposition": ["from"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to get back the same amount of money that you have spent or that is owed to you",
+			"sensetop": "recover something (from somebody/something)",
+			"examples": [
+				{
+					"text": "He is unlikely to ever recover his legal costs."
+				},
+				{
+					"text": "Creditors have a right to recover their debts."
+				},
+				{
+					"text": "Some investors tried to recover their losses by making further high risk investments."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to get back or find something that was lost, stolen or missing",
+			"sensetop": "recover somethingrecover something from somebody/something",
+			"examples": [
+				{
+					"text": "The police eventually recovered the stolen paintings.",
+					"contextForm": "recover something"
+				},
+				{
+					"text": "Six bodies were recovered from the wreckage.",
+					"contextForm": "recover something from somebody/something"
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to win back a position, level, status, etc. that has been lost",
+			"sensetop": "recover something",
+			"examples": [
+				{
+					"text": "The team recovered its lead in the second half."
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to get back the use of your senses, control of your emotions, etc.",
+			"sensetop": "recover somethingrecover yourself",
+			"examples": [
+				{
+					"text": "It took her a few minutes to **recover consciousness**.",
+					"contextForm": "recover something"
+				},
+				{
+					"text": "to recover your sight"
+				},
+				{
+					"text": "She seemed upset but quickly recovered herself.",
+					"contextForm": "recover yourself"
+				}
+			],
+			"synonyms": "regain"
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/rɪˈkʌvə(r)/",
+				"audio": "re/recover/recover__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈkʌvəz/",
+				"audio": "re/recover/recovers__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈkʌvəd/",
+				"audio": "re/recover/recovered__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈkʌvərɪŋ/",
+				"audio": "re/recover/recovering__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/rɪˈkʌvər/",
+				"audio": "re/recover/recover__us_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈkʌvərz/",
+				"audio": "re/recover/recovers__us_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈkʌvərd/",
+				"audio": "re/recover/recovered__us_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈkʌvərɪŋ/",
+				"audio": "re/recover/recovering__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (originally with reference to health): from Anglo-Norman French recoverer, from Latin recuperare ‘get again’."
 }

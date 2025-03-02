@@ -1,115 +1,115 @@
 {
-  "term": "similarity",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the state of being similar to somebody/something but not exactly the same",
-      "sensetop": "similarity between A and Bsimilarity to somebody/somethingsimilarity in somethingsimilarity with somebody/something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The report highlights the similarity between the two groups.",
-          "contextForm": "similarity between A and B"
-        },
-        {
-          "text": "She bears a **striking similarity** to her mother.",
-          "contextForm": "similarity to somebody/something"
-        },
-        {
-          "text": "There is some similarity in the way they sing.",
-          "contextForm": "similarity in something"
-        },
-        {
-          "text": "In this work we can observe the stylistic similarity with Beethoven.",
-          "contextForm": "similarity with somebody/something"
-        },
-        {
-          "text": "The results also **showed the similarity** of the two groups."
-        },
-        {
-          "text": "They are both doctors but that is where the similarity ends."
-        },
-        {
-          "text": "The area bears a superficial similarity to Tokyo."
-        },
-        {
-          "text": "There are several points of similarity between the two cases."
-        },
-        {
-          "text": "a route across the Pacific which may explain the similarity between the two cultures"
-        },
-        {
-          "text": "the chimpanzee's similarity to humans"
-        },
-        {
-          "text": "the close similarity in our ages"
-        }
-      ],
-      "synonyms": "resemblance",
-      "collocations": {
-        "adjective": ["close", "considerable", "great"],
-        "… of similarity": ["degree"],
-        "verb + similarity": ["bear", "have", "reveal"],
-        "similarity + verb": ["exist", "end"],
-        "preposition": ["similarity between", "similarity in", "similarity to"],
-        "phrases": ["a point of similarity"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a feature that things or people have that makes them like each other",
-      "sensetop": "similarity between A and Bsimilarity in/of somethingsimilarity to/with somebody/something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a study of the **similarities and differences** between the two countries",
-          "contextForm": "similarity between A and B"
-        },
-        {
-          "text": "similarities in/of style",
-          "contextForm": "similarity in/of something"
-        },
-        {
-          "text": "The karate bout has many similarities to a boxing match.",
-          "contextForm": "similarity to/with somebody/something"
-        },
-        {
-          "text": "These theories share certain similarities."
-        },
-        {
-          "text": "The panel shows marked similarities with mosaics found elsewhere."
-        }
-      ],
-      "synonyms": "resemblance",
-      "collocations": {
-        "adjective": ["close", "considerable", "great"],
-        "… of similarity": ["degree"],
-        "verb + similarity": ["bear", "have", "reveal"],
-        "similarity + verb": ["exist", "end"],
-        "preposition": ["similarity between", "similarity in", "similarity to"],
-        "phrases": ["a point of similarity"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌsɪməˈlærəti/",
-        "audio": "si/similarity/similarity__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌsɪməˈlærəti/",
-        "audio": "si/similarity/similarity__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "similarity",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the state of being similar to somebody/something but not exactly the same",
+			"sensetop": "similarity between A and Bsimilarity to somebody/somethingsimilarity in somethingsimilarity with somebody/something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The report highlights the similarity between the two groups.",
+					"contextForm": "similarity between A and B"
+				},
+				{
+					"text": "She bears a **striking similarity** to her mother.",
+					"contextForm": "similarity to somebody/something"
+				},
+				{
+					"text": "There is some similarity in the way they sing.",
+					"contextForm": "similarity in something"
+				},
+				{
+					"text": "In this work we can observe the stylistic similarity with Beethoven.",
+					"contextForm": "similarity with somebody/something"
+				},
+				{
+					"text": "The results also **showed the similarity** of the two groups."
+				},
+				{
+					"text": "They are both doctors but that is where the similarity ends."
+				},
+				{
+					"text": "The area bears a superficial similarity to Tokyo."
+				},
+				{
+					"text": "There are several points of similarity between the two cases."
+				},
+				{
+					"text": "a route across the Pacific which may explain the similarity between the two cultures"
+				},
+				{
+					"text": "the chimpanzee's similarity to humans"
+				},
+				{
+					"text": "the close similarity in our ages"
+				}
+			],
+			"synonyms": "resemblance",
+			"collocations": {
+				"adjective": ["close", "considerable", "great"],
+				"… of similarity": ["degree"],
+				"verb + similarity": ["bear", "have", "reveal"],
+				"similarity + verb": ["exist", "end"],
+				"preposition": ["similarity between", "similarity in", "similarity to"],
+				"phrases": ["a point of similarity"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a feature that things or people have that makes them like each other",
+			"sensetop": "similarity between A and Bsimilarity in/of somethingsimilarity to/with somebody/something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a study of the **similarities and differences** between the two countries",
+					"contextForm": "similarity between A and B"
+				},
+				{
+					"text": "similarities in/of style",
+					"contextForm": "similarity in/of something"
+				},
+				{
+					"text": "The karate bout has many similarities to a boxing match.",
+					"contextForm": "similarity to/with somebody/something"
+				},
+				{
+					"text": "These theories share certain similarities."
+				},
+				{
+					"text": "The panel shows marked similarities with mosaics found elsewhere."
+				}
+			],
+			"synonyms": "resemblance",
+			"collocations": {
+				"adjective": ["close", "considerable", "great"],
+				"… of similarity": ["degree"],
+				"verb + similarity": ["bear", "have", "reveal"],
+				"similarity + verb": ["exist", "end"],
+				"preposition": ["similarity between", "similarity in", "similarity to"],
+				"phrases": ["a point of similarity"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌsɪməˈlærəti/",
+				"audio": "si/similarity/similarity__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌsɪməˈlærəti/",
+				"audio": "si/similarity/similarity__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

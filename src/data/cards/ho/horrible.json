@@ -1,124 +1,124 @@
 {
-  "term": "horrible",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "very bad or unpleasant; used to describe something that you do not like",
-      "sensetop": "it is horrible to do somethingit is horrible doing something",
-      "labels": "(informal)especially British English",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "What horrible weather!"
-        },
-        {
-          "text": "The coffee tasted **absolutely horrible**."
-        },
-        {
-          "text": "a horrible mess/smell/noise"
-        },
-        {
-          "text": "I've got a horrible feeling she lied to us."
-        },
-        {
-          "text": "I **feel horrible** about what happened."
-        },
-        {
-          "text": "He **looks horrible** with that new haircut."
-        },
-        {
-          "text": "He admits that he made a horrible mistake when he left her."
-        },
-        {
-          "text": "It was horrible to have to leave my family behind.",
-          "contextForm": "it is horrible to do something"
-        },
-        {
-          "text": "It was horrible sitting there all on my own.",
-          "contextForm": "it is horrible doing something"
-        }
-      ],
-      "topics": ["Weather"],
-      "collocations": {
-        "verbs": ["be", "feel", "look"],
-        "adverb": ["really", "absolutely", "quite"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "making you feel very shocked and frightened",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a pretty **horrible experience**"
-        },
-        {
-          "text": "a horrible crime/death/nightmare"
-        },
-        {
-          "text": "a horrible tragedy/accident"
-        },
-        {
-          "text": "a truly horrible sight"
-        },
-        {
-          "text": "She woke from a horrible nightmare."
-        }
-      ],
-      "synonyms": "terrible",
-      "collocations": {
-        "verbs": ["be", "feel", "look"],
-        "adverb": ["really", "absolutely", "quite"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "unfriendly, unpleasant or unkind",
-      "sensetop": "horrible to somebody",
-      "labels": "(informal)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a horrible person"
-        },
-        {
-          "text": "What a **horrible thing** to say!"
-        },
-        {
-          "text": "My sister was being horrible to me all day.",
-          "contextForm": "horrible to somebody"
-        }
-      ],
-      "synonyms": "nasty, obnoxious",
-      "topics": ["Personal qualities"],
-      "collocations": {
-        "verbs": ["be", "feel", "look"],
-        "adverb": ["really", "absolutely", "quite"],
-        "preposition": ["to"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈhɒrəbl/",
-        "audio": "ho/horrible/horrible__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈhɔːrəbl/",
-        "audio": "ho/horrible/horrible__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: via Old French from Latin horribilis, from horrere ‘tremble, shudder’."
+	"term": "horrible",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "very bad or unpleasant; used to describe something that you do not like",
+			"sensetop": "it is horrible to do somethingit is horrible doing something",
+			"labels": "(informal)especially British English",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "What horrible weather!"
+				},
+				{
+					"text": "The coffee tasted **absolutely horrible**."
+				},
+				{
+					"text": "a horrible mess/smell/noise"
+				},
+				{
+					"text": "I've got a horrible feeling she lied to us."
+				},
+				{
+					"text": "I **feel horrible** about what happened."
+				},
+				{
+					"text": "He **looks horrible** with that new haircut."
+				},
+				{
+					"text": "He admits that he made a horrible mistake when he left her."
+				},
+				{
+					"text": "It was horrible to have to leave my family behind.",
+					"contextForm": "it is horrible to do something"
+				},
+				{
+					"text": "It was horrible sitting there all on my own.",
+					"contextForm": "it is horrible doing something"
+				}
+			],
+			"topics": ["Weather"],
+			"collocations": {
+				"verbs": ["be", "feel", "look"],
+				"adverb": ["really", "absolutely", "quite"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "making you feel very shocked and frightened",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a pretty **horrible experience**"
+				},
+				{
+					"text": "a horrible crime/death/nightmare"
+				},
+				{
+					"text": "a horrible tragedy/accident"
+				},
+				{
+					"text": "a truly horrible sight"
+				},
+				{
+					"text": "She woke from a horrible nightmare."
+				}
+			],
+			"synonyms": "terrible",
+			"collocations": {
+				"verbs": ["be", "feel", "look"],
+				"adverb": ["really", "absolutely", "quite"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "unfriendly, unpleasant or unkind",
+			"sensetop": "horrible to somebody",
+			"labels": "(informal)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a horrible person"
+				},
+				{
+					"text": "What a **horrible thing** to say!"
+				},
+				{
+					"text": "My sister was being horrible to me all day.",
+					"contextForm": "horrible to somebody"
+				}
+			],
+			"synonyms": "nasty, obnoxious",
+			"topics": ["Personal qualities"],
+			"collocations": {
+				"verbs": ["be", "feel", "look"],
+				"adverb": ["really", "absolutely", "quite"],
+				"preposition": ["to"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈhɒrəbl/",
+				"audio": "ho/horrible/horrible__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈhɔːrəbl/",
+				"audio": "ho/horrible/horrible__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: via Old French from Latin horribilis, from horrere ‘tremble, shudder’."
 }

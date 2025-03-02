@@ -1,98 +1,98 @@
 {
-  "term": "pulse",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the regular beat of the heart as it sends blood around the body, that can be felt in different places, especially on the inside part of the wrist; the number of times the heart beats in a minute",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a **strong/weak pulse**"
-        },
-        {
-          "text": "an abnormally high pulse rate"
-        },
-        {
-          "text": "The doctor **took/felt my pulse**."
-        },
-        {
-          "text": "Fear sent her **pulse racing** *(= made it beat very quickly)*."
-        },
-        {
-          "text": "My at-rest pulse rate is usually about 80 beats per minute."
-        },
-        {
-          "text": "She felt her pulse quicken as she recognized the voice."
-        },
-        {
-          "text": "He reached in through the driver's broken window and checked for a pulse."
-        },
-        {
-          "text": "There was little to quicken the pulse in his dull routine."
-        }
-      ],
-      "topics": ["Body"],
-      "collocations": {
-        "adjective": ["fast", "racing", "rapid"],
-        "verb + pulse": ["check", "feel", "take"],
-        "pulse + verb": ["beat", "quicken", "race"],
-        "pulse + noun": ["rate"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a strong regular beat in music",
-      "examples": [
-        {
-          "text": "the throbbing pulse of the drums"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a single short increase in the amount of light, sound or electricity produced by a machine, etc.",
-      "examples": [
-        {
-          "text": "pulse waves"
-        },
-        {
-          "text": "sound pulses"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the seeds of some plants that are eaten as food, such as peas and lentils",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "Pulses are a good source of protein."
-        }
-      ],
-      "topics": ["Food", "Farming"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to always be aware of the most recent developments in a particular situation",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/pʌls/",
-        "audio": "pu/pulse/pulse__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/pʌls/",
-        "audio": "pu/pulse/pulse__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "noun senses 1 to 3 late Middle English: from Latin pulsus ‘beating’, from pellere ‘to drive, beat’. noun sense 4 Middle English: from Old French pols, from Latin puls ‘porridge of meal or pulse’; related to pollen."
+	"term": "pulse",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the regular beat of the heart as it sends blood around the body, that can be felt in different places, especially on the inside part of the wrist; the number of times the heart beats in a minute",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a **strong/weak pulse**"
+				},
+				{
+					"text": "an abnormally high pulse rate"
+				},
+				{
+					"text": "The doctor **took/felt my pulse**."
+				},
+				{
+					"text": "Fear sent her **pulse racing** *(= made it beat very quickly)*."
+				},
+				{
+					"text": "My at-rest pulse rate is usually about 80 beats per minute."
+				},
+				{
+					"text": "She felt her pulse quicken as she recognized the voice."
+				},
+				{
+					"text": "He reached in through the driver's broken window and checked for a pulse."
+				},
+				{
+					"text": "There was little to quicken the pulse in his dull routine."
+				}
+			],
+			"topics": ["Body"],
+			"collocations": {
+				"adjective": ["fast", "racing", "rapid"],
+				"verb + pulse": ["check", "feel", "take"],
+				"pulse + verb": ["beat", "quicken", "race"],
+				"pulse + noun": ["rate"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a strong regular beat in music",
+			"examples": [
+				{
+					"text": "the throbbing pulse of the drums"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a single short increase in the amount of light, sound or electricity produced by a machine, etc.",
+			"examples": [
+				{
+					"text": "pulse waves"
+				},
+				{
+					"text": "sound pulses"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the seeds of some plants that are eaten as food, such as peas and lentils",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "Pulses are a good source of protein."
+				}
+			],
+			"topics": ["Food", "Farming"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to always be aware of the most recent developments in a particular situation",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/pʌls/",
+				"audio": "pu/pulse/pulse__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/pʌls/",
+				"audio": "pu/pulse/pulse__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "noun senses 1 to 3 late Middle English: from Latin pulsus ‘beating’, from pellere ‘to drive, beat’. noun sense 4 Middle English: from Old French pols, from Latin puls ‘porridge of meal or pulse’; related to pollen."
 }

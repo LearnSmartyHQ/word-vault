@@ -1,147 +1,147 @@
 {
-  "term": "ban",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "ban",
-      "heSheIt": "bans"
-    },
-    "pastSimple": "banned",
-    "pastParticiple": "banned",
-    "ingForm": "banning"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to decide or say officially that something is not allowed",
-      "sensetop": "ban somethingban something from something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "This law bans the use of dangerous pesticides.",
-          "contextForm": "ban something"
-        },
-        {
-          "text": "a list of **banned substances**"
-        },
-        {
-          "text": "The use of these chemicals in homes was banned outright by the government in 2000."
-        },
-        {
-          "text": "a campaign to ban sugary drinks from schools",
-          "contextForm": "ban something from something"
-        },
-        {
-          "text": "Chemical weapons are banned internationally."
-        },
-        {
-          "text": "Congress has voted to ban online gambling."
-        },
-        {
-          "text": "MPs voted to ban hunting with dogs."
-        },
-        {
-          "text": "There's been a move to ban tobacco advertising."
-        },
-        {
-          "text": "He claimed that the government had tried to ban the book."
-        },
-        {
-          "text": "Trade in tiger products is banned under the convention."
-        }
-      ],
-      "synonyms": "prohibit",
-      "topics": ["Permission and obligation"],
-      "collocations": {
-        "adverb": ["effectively", "formally", "officially"],
-        "verb + ban": ["attempt to", "seek to", "try to"],
-        "preposition": ["from"],
-        "phrases": [
-          "an attempt to ban something",
-          "a move to ban something",
-          "a decision to ban something"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to order somebody not to do something, go somewhere, etc., especially officially",
-      "sensetop": "be banned from somethingbe banned from doing somethingbe banned",
-      "labels": "(British English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "He was banned from the meeting.",
-          "contextForm": "be banned from something"
-        },
-        {
-          "text": "She was banned from the road for ten months for drinking and driving."
-        },
-        {
-          "text": "She's been banned from leaving the country while the allegations are investigated.",
-          "contextForm": "be banned from doing something"
-        },
-        {
-          "text": "He was banned from driving for six months."
-        },
-        {
-          "text": "The sprinter has been **banned for life** after failing a drugs test.",
-          "contextForm": "be banned"
-        }
-      ],
-      "collocations": {
-        "adverb": ["effectively", "formally", "officially"],
-        "verb + ban": ["attempt to", "seek to", "try to"],
-        "preposition": ["from"],
-        "phrases": [
-          "an attempt to ban something",
-          "a move to ban something",
-          "a decision to ban something"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/bæn/",
-        "audio": "ba/ban/ban__gb_4.mp3"
-      },
-      {
-        "pronunciation": "/bænz/",
-        "audio": "ba/ban/bans__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/bænd/",
-        "audio": "ba/ban/banned__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈbænɪŋ/",
-        "audio": "ba/ban/banning__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/bæn/",
-        "audio": "ba/ban/ban__us_1.mp3"
-      },
-      {
-        "pronunciation": "/bænz/",
-        "audio": "ba/ban/bans__us_1.mp3"
-      },
-      {
-        "pronunciation": "/bænd/",
-        "audio": "ba/ban/banned__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈbænɪŋ/",
-        "audio": "ba/ban/banning__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English bannan ‘summon by a public proclamation’, of Germanic origin, reinforced by Old Norse banna ‘curse, prohibit’; the noun is partly from Old French ban ‘proclamation, summons, banishment’."
+	"term": "ban",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "ban",
+			"heSheIt": "bans"
+		},
+		"pastSimple": "banned",
+		"pastParticiple": "banned",
+		"ingForm": "banning"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to decide or say officially that something is not allowed",
+			"sensetop": "ban somethingban something from something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "This law bans the use of dangerous pesticides.",
+					"contextForm": "ban something"
+				},
+				{
+					"text": "a list of **banned substances**"
+				},
+				{
+					"text": "The use of these chemicals in homes was banned outright by the government in 2000."
+				},
+				{
+					"text": "a campaign to ban sugary drinks from schools",
+					"contextForm": "ban something from something"
+				},
+				{
+					"text": "Chemical weapons are banned internationally."
+				},
+				{
+					"text": "Congress has voted to ban online gambling."
+				},
+				{
+					"text": "MPs voted to ban hunting with dogs."
+				},
+				{
+					"text": "There's been a move to ban tobacco advertising."
+				},
+				{
+					"text": "He claimed that the government had tried to ban the book."
+				},
+				{
+					"text": "Trade in tiger products is banned under the convention."
+				}
+			],
+			"synonyms": "prohibit",
+			"topics": ["Permission and obligation"],
+			"collocations": {
+				"adverb": ["effectively", "formally", "officially"],
+				"verb + ban": ["attempt to", "seek to", "try to"],
+				"preposition": ["from"],
+				"phrases": [
+					"an attempt to ban something",
+					"a move to ban something",
+					"a decision to ban something"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to order somebody not to do something, go somewhere, etc., especially officially",
+			"sensetop": "be banned from somethingbe banned from doing somethingbe banned",
+			"labels": "(British English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "He was banned from the meeting.",
+					"contextForm": "be banned from something"
+				},
+				{
+					"text": "She was banned from the road for ten months for drinking and driving."
+				},
+				{
+					"text": "She's been banned from leaving the country while the allegations are investigated.",
+					"contextForm": "be banned from doing something"
+				},
+				{
+					"text": "He was banned from driving for six months."
+				},
+				{
+					"text": "The sprinter has been **banned for life** after failing a drugs test.",
+					"contextForm": "be banned"
+				}
+			],
+			"collocations": {
+				"adverb": ["effectively", "formally", "officially"],
+				"verb + ban": ["attempt to", "seek to", "try to"],
+				"preposition": ["from"],
+				"phrases": [
+					"an attempt to ban something",
+					"a move to ban something",
+					"a decision to ban something"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/bæn/",
+				"audio": "ba/ban/ban__gb_4.mp3"
+			},
+			{
+				"pronunciation": "/bænz/",
+				"audio": "ba/ban/bans__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/bænd/",
+				"audio": "ba/ban/banned__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈbænɪŋ/",
+				"audio": "ba/ban/banning__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/bæn/",
+				"audio": "ba/ban/ban__us_1.mp3"
+			},
+			{
+				"pronunciation": "/bænz/",
+				"audio": "ba/ban/bans__us_1.mp3"
+			},
+			{
+				"pronunciation": "/bænd/",
+				"audio": "ba/ban/banned__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈbænɪŋ/",
+				"audio": "ba/ban/banning__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English bannan ‘summon by a public proclamation’, of Germanic origin, reinforced by Old Norse banna ‘curse, prohibit’; the noun is partly from Old French ban ‘proclamation, summons, banishment’."
 }

@@ -1,57 +1,57 @@
 {
-  "term": "refrigerator",
-  "partOfSpeech": "noun",
-  "image": "data/images/ki/kitchen.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a piece of electrical equipment in which food is kept cold so that it stays fresh",
-      "examples": [
-        {
-          "text": "This dessert can be served straight from the refrigerator."
-        },
-        {
-          "text": "I opened the refrigerator to take out some orange juice."
-        },
-        {
-          "text": "I stocked the refrigerator with fruit."
-        },
-        {
-          "text": "I'll raid your refrigerator while we talk."
-        },
-        {
-          "text": "Place the dough in the refrigerator overnight."
-        },
-        {
-          "text": "The refrigerator was humming in the corner."
-        },
-        {
-          "text": "a refrigerator stocked with food"
-        }
-      ],
-      "topics": ["Houses and homes"],
-      "collocations": {
-        "adjective": ["home", "household", "empty"],
-        "verb + refrigerator": ["raid", "fill", "stock"],
-        "refrigerator + verb": ["hum"],
-        "refrigerator + noun": ["door", "magnet", "box"],
-        "preposition": ["in the refrigerator"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/rɪˈfrɪdʒəreɪtə(r)/",
-        "audio": "re/refrigerator/refrigerator__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/rɪˈfrɪdʒəreɪtər/",
-        "audio": "re/refrigerator/refrigerator__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "refrigerator",
+	"partOfSpeech": "noun",
+	"image": "data/images/ki/kitchen.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a piece of electrical equipment in which food is kept cold so that it stays fresh",
+			"examples": [
+				{
+					"text": "This dessert can be served straight from the refrigerator."
+				},
+				{
+					"text": "I opened the refrigerator to take out some orange juice."
+				},
+				{
+					"text": "I stocked the refrigerator with fruit."
+				},
+				{
+					"text": "I'll raid your refrigerator while we talk."
+				},
+				{
+					"text": "Place the dough in the refrigerator overnight."
+				},
+				{
+					"text": "The refrigerator was humming in the corner."
+				},
+				{
+					"text": "a refrigerator stocked with food"
+				}
+			],
+			"topics": ["Houses and homes"],
+			"collocations": {
+				"adjective": ["home", "household", "empty"],
+				"verb + refrigerator": ["raid", "fill", "stock"],
+				"refrigerator + verb": ["hum"],
+				"refrigerator + noun": ["door", "magnet", "box"],
+				"preposition": ["in the refrigerator"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/rɪˈfrɪdʒəreɪtə(r)/",
+				"audio": "re/refrigerator/refrigerator__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/rɪˈfrɪdʒəreɪtər/",
+				"audio": "re/refrigerator/refrigerator__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

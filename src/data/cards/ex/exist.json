@@ -1,134 +1,134 @@
 {
-  "term": "exist",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "exist",
-      "heSheIt": "exists"
-    },
-    "pastSimple": "existed",
-    "pastParticiple": "existed",
-    "ingForm": "existing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to be real; to be present in a place or situation",
-      "sensetop": "exist to do something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Does life exist on other planets?"
-        },
-        {
-          "text": "Few of these monkeys **still exist** in the wild."
-        },
-        {
-          "text": "Major differences **continue to exist** between the two countries."
-        },
-        {
-          "text": "A solution has been found and the problem **no longer exists**."
-        },
-        {
-          "text": "On his retirement the post will **cease to exist**."
-        },
-        {
-          "text": "Adequate facilities **already exist** to serve the needs of people visiting the town."
-        },
-        {
-          "text": "It is an art gallery that **exists only** on the internet."
-        },
-        {
-          "text": "Evidence of their relationship exists in the form of a series of letters."
-        },
-        {
-          "text": "I didn't think people like that existed any more."
-        },
-        {
-          "text": "The charity exists to support victims of crime.",
-          "contextForm": "exist to do something"
-        },
-        {
-          "text": "I'm beginning to see that the problem only exists in my head."
-        },
-        {
-          "text": "The technology did not yet exist."
-        },
-        {
-          "text": "He argued that ideas do not exist independently of the language that expresses them."
-        },
-        {
-          "text": "They appear to exist in significant numbers."
-        },
-        {
-          "text": "companies that exist solely for the purpose of mortgage lending"
-        },
-        {
-          "text": "the enormous volcanoes now known to exist on Mars"
-        },
-        {
-          "text": "A temple existed here hundreds of years ago."
-        }
-      ],
-      "collocations": {
-        "adverb": ["actually", "really", "already"],
-        "verb + exist": ["be known to", "appear to", "be believed to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to live, especially in a difficult situation or with very little money",
-      "sensetop": "exist (on something)",
-      "examples": [
-        {
-          "text": "We existed on a diet of rice."
-        },
-        {
-          "text": "We can't exist on the money I'm earning."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪɡˈzɪst/",
-        "audio": "ex/exist/exist__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/ɪɡˈzɪsts/",
-        "audio": "ex/exist/exists__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪɡˈzɪstɪd/",
-        "audio": "ex/exist/existed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪɡˈzɪstɪŋ/",
-        "audio": "ex/exist/existing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪɡˈzɪst/",
-        "audio": "ex/exist/exist__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪɡˈzɪsts/",
-        "audio": "ex/exist/exists__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪɡˈzɪstɪd/",
-        "audio": "ex/exist/existed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪɡˈzɪstɪŋ/",
-        "audio": "ex/exist/existing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "early 17th cent.: probably a back-formation from existence."
+	"term": "exist",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "exist",
+			"heSheIt": "exists"
+		},
+		"pastSimple": "existed",
+		"pastParticiple": "existed",
+		"ingForm": "existing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to be real; to be present in a place or situation",
+			"sensetop": "exist to do something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Does life exist on other planets?"
+				},
+				{
+					"text": "Few of these monkeys **still exist** in the wild."
+				},
+				{
+					"text": "Major differences **continue to exist** between the two countries."
+				},
+				{
+					"text": "A solution has been found and the problem **no longer exists**."
+				},
+				{
+					"text": "On his retirement the post will **cease to exist**."
+				},
+				{
+					"text": "Adequate facilities **already exist** to serve the needs of people visiting the town."
+				},
+				{
+					"text": "It is an art gallery that **exists only** on the internet."
+				},
+				{
+					"text": "Evidence of their relationship exists in the form of a series of letters."
+				},
+				{
+					"text": "I didn't think people like that existed any more."
+				},
+				{
+					"text": "The charity exists to support victims of crime.",
+					"contextForm": "exist to do something"
+				},
+				{
+					"text": "I'm beginning to see that the problem only exists in my head."
+				},
+				{
+					"text": "The technology did not yet exist."
+				},
+				{
+					"text": "He argued that ideas do not exist independently of the language that expresses them."
+				},
+				{
+					"text": "They appear to exist in significant numbers."
+				},
+				{
+					"text": "companies that exist solely for the purpose of mortgage lending"
+				},
+				{
+					"text": "the enormous volcanoes now known to exist on Mars"
+				},
+				{
+					"text": "A temple existed here hundreds of years ago."
+				}
+			],
+			"collocations": {
+				"adverb": ["actually", "really", "already"],
+				"verb + exist": ["be known to", "appear to", "be believed to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to live, especially in a difficult situation or with very little money",
+			"sensetop": "exist (on something)",
+			"examples": [
+				{
+					"text": "We existed on a diet of rice."
+				},
+				{
+					"text": "We can't exist on the money I'm earning."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪɡˈzɪst/",
+				"audio": "ex/exist/exist__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/ɪɡˈzɪsts/",
+				"audio": "ex/exist/exists__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪɡˈzɪstɪd/",
+				"audio": "ex/exist/existed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪɡˈzɪstɪŋ/",
+				"audio": "ex/exist/existing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪɡˈzɪst/",
+				"audio": "ex/exist/exist__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪɡˈzɪsts/",
+				"audio": "ex/exist/exists__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪɡˈzɪstɪd/",
+				"audio": "ex/exist/existed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪɡˈzɪstɪŋ/",
+				"audio": "ex/exist/existing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "early 17th cent.: probably a back-formation from existence."
 }

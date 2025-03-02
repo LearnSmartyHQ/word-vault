@@ -1,49 +1,49 @@
 {
-  "term": "mushroom",
-  "partOfSpeech": "noun",
-  "image": "data/images/ve/vegetables_misc.png",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a fungus with a round flat head and short stem. Many mushrooms can be eaten.",
-      "examples": [
-        {
-          "text": "a field mushroom *(= the most common type that is eaten, often just called a ‘mushroom’, and often grown to be sold)*"
-        },
-        {
-          "text": "fried mushrooms"
-        },
-        {
-          "text": "cream of mushroom soup"
-        },
-        {
-          "text": "Slice the mushrooms and add to the salad."
-        },
-        {
-          "text": "They went into the woods to pick wild mushrooms."
-        }
-      ],
-      "topics": ["Food", "Plants and trees"],
-      "collocations": {
-        "adjective": ["edible", "poisonous", "cultivated"],
-        "verb + mushroom": ["cultivate", "grow", "pick"],
-        "mushroom + noun": ["cap", "omelette", "risotto"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmʌʃrʊm//ˈmʌʃruːm/",
-        "audio": "mu/mushroom/mushroom__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmʌʃrʊm//ˈmʌʃruːm/",
-        "audio": "mu/mushroom/mushroom__us_1_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (originally denoting any fungus having a fleshy fruiting body): from Old French mousseron, from late Latin mussirio(n-)."
+	"term": "mushroom",
+	"partOfSpeech": "noun",
+	"image": "data/images/ve/vegetables_misc.png",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a fungus with a round flat head and short stem. Many mushrooms can be eaten.",
+			"examples": [
+				{
+					"text": "a field mushroom *(= the most common type that is eaten, often just called a ‘mushroom’, and often grown to be sold)*"
+				},
+				{
+					"text": "fried mushrooms"
+				},
+				{
+					"text": "cream of mushroom soup"
+				},
+				{
+					"text": "Slice the mushrooms and add to the salad."
+				},
+				{
+					"text": "They went into the woods to pick wild mushrooms."
+				}
+			],
+			"topics": ["Food", "Plants and trees"],
+			"collocations": {
+				"adjective": ["edible", "poisonous", "cultivated"],
+				"verb + mushroom": ["cultivate", "grow", "pick"],
+				"mushroom + noun": ["cap", "omelette", "risotto"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmʌʃrʊm//ˈmʌʃruːm/",
+				"audio": "mu/mushroom/mushroom__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmʌʃrʊm//ˈmʌʃruːm/",
+				"audio": "mu/mushroom/mushroom__us_1_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (originally denoting any fungus having a fleshy fruiting body): from Old French mousseron, from late Latin mussirio(n-)."
 }

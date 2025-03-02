@@ -1,60 +1,60 @@
 {
-  "term": "parish",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an area that has its own church and that a priest is responsible for",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a **parish church/priest**"
-        },
-        {
-          "text": "He is vicar of a large rural parish."
-        }
-      ],
-      "topics": ["Religion and festivals"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "(in England) a small country area that has its own elected local government",
-      "examples": [
-        {
-          "text": "This area in the north of the county comprises 26 parishes."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the people living in a particular area, especially those who go to church",
-      "examples": [
-        {
-          "text": "The parish was/were very welcoming when I first arrived."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a county",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈpærɪʃ/",
-        "audio": "pa/parish/parish__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈpærɪʃ/",
-        "audio": "pa/parish/parish__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Anglo-Norman French and Old French paroche, from late Latin parochia, from Greek paroikia ‘sojourning’, based on para- ‘beside, subsidiary’ + oikos ‘dwelling’."
+	"term": "parish",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an area that has its own church and that a priest is responsible for",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a **parish church/priest**"
+				},
+				{
+					"text": "He is vicar of a large rural parish."
+				}
+			],
+			"topics": ["Religion and festivals"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "(in England) a small country area that has its own elected local government",
+			"examples": [
+				{
+					"text": "This area in the north of the county comprises 26 parishes."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the people living in a particular area, especially those who go to church",
+			"examples": [
+				{
+					"text": "The parish was/were very welcoming when I first arrived."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a county",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈpærɪʃ/",
+				"audio": "pa/parish/parish__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈpærɪʃ/",
+				"audio": "pa/parish/parish__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Anglo-Norman French and Old French paroche, from late Latin parochia, from Greek paroikia ‘sojourning’, based on para- ‘beside, subsidiary’ + oikos ‘dwelling’."
 }

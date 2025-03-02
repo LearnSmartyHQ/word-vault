@@ -1,126 +1,126 @@
 {
-  "term": "jury",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a group of members of the public who listen to the facts of a case in a court and decide whether or not somebody is guilty of a crime, or whether a claim has been proved",
-      "sensetop": "on a juryby jury",
-      "labels": "especially in North American English(especially North American English)(especially US English)(especially North American English)(British English)(North American English)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "**members of the jury**"
-        },
-        {
-          "text": "The jury has/have returned a verdict of guilty."
-        },
-        {
-          "text": "to **be/sit/serve on a jury**",
-          "contextForm": "on a jury"
-        },
-        {
-          "text": "the right to trial by jury",
-          "contextForm": "by jury"
-        },
-        {
-          "text": "A retrial was necessary after the original trial ended with a hung jury."
-        },
-        {
-          "text": "Her evidence finally swayed the jury."
-        },
-        {
-          "text": "The jury awarded her damages of £30 000."
-        },
-        {
-          "text": "The jury convicted Menzies of assaulting Smith."
-        },
-        {
-          "text": "The jury delivered a unanimous verdict."
-        },
-        {
-          "text": "The jury were unanimous in their verdict."
-        },
-        {
-          "text": "The new jury were sworn in."
-        },
-        {
-          "text": "There were only three women on the jury."
-        }
-      ],
-      "topics": ["Law and justice"],
-      "collocations": {
-        "adjective": ["inquest", "trial", "grand"],
-        "verb + jury": ["serve on", "sit on", "tell"],
-        "jury + verb": ["hear something", "investigate something", "retire"],
-        "jury + noun": ["duty", "service", "trial"],
-        "preposition": ["before a jury", "on a/​the jury", "jury of"],
-        "phrases": [
-          "the foreman of the jury",
-          "members of the jury",
-          "trial by jury"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a group of people who decide who is the winner of a competition",
-      "sensetop": "on a jury",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "He was on the jury for this year's Booker Prize.",
-          "contextForm": "on a jury"
-        },
-        {
-          "text": "He was on a jury judging a songwriting competition."
-        },
-        {
-          "text": "The jury consisted of an architect, a photographer and an artist."
-        },
-        {
-          "text": "The jury has awarded the prize for best exhibit in the show to Harry Pearson."
-        },
-        {
-          "text": "The jury is selected from the winners in previous years."
-        }
-      ],
-      "collocations": {
-        "verb + jury": ["choose", "select"],
-        "jury + verb": [
-          "judge something",
-          "consist of somebody",
-          "award (somebody) something"
-        ],
-        "preposition": ["on a/​the jury", "jury for"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "used when you are saying that something is still not certain",
-      "examples": [
-        {
-          "text": "The jury is still out on whether this is a good idea or not."
-        }
-      ],
-      "topics": ["Doubt, guessing and certainty"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈdʒʊəri/",
-        "audio": "ju/jury/jury__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈdʒʊri/",
-        "audio": "ju/jury/jury__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French juree ‘oath, inquiry’, from Latin jurata, feminine past participle of jurare ‘swear’, from jus, jur- ‘law’."
+	"term": "jury",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a group of members of the public who listen to the facts of a case in a court and decide whether or not somebody is guilty of a crime, or whether a claim has been proved",
+			"sensetop": "on a juryby jury",
+			"labels": "especially in North American English(especially North American English)(especially US English)(especially North American English)(British English)(North American English)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "**members of the jury**"
+				},
+				{
+					"text": "The jury has/have returned a verdict of guilty."
+				},
+				{
+					"text": "to **be/sit/serve on a jury**",
+					"contextForm": "on a jury"
+				},
+				{
+					"text": "the right to trial by jury",
+					"contextForm": "by jury"
+				},
+				{
+					"text": "A retrial was necessary after the original trial ended with a hung jury."
+				},
+				{
+					"text": "Her evidence finally swayed the jury."
+				},
+				{
+					"text": "The jury awarded her damages of £30 000."
+				},
+				{
+					"text": "The jury convicted Menzies of assaulting Smith."
+				},
+				{
+					"text": "The jury delivered a unanimous verdict."
+				},
+				{
+					"text": "The jury were unanimous in their verdict."
+				},
+				{
+					"text": "The new jury were sworn in."
+				},
+				{
+					"text": "There were only three women on the jury."
+				}
+			],
+			"topics": ["Law and justice"],
+			"collocations": {
+				"adjective": ["inquest", "trial", "grand"],
+				"verb + jury": ["serve on", "sit on", "tell"],
+				"jury + verb": ["hear something", "investigate something", "retire"],
+				"jury + noun": ["duty", "service", "trial"],
+				"preposition": ["before a jury", "on a/​the jury", "jury of"],
+				"phrases": [
+					"the foreman of the jury",
+					"members of the jury",
+					"trial by jury"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a group of people who decide who is the winner of a competition",
+			"sensetop": "on a jury",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "He was on the jury for this year's Booker Prize.",
+					"contextForm": "on a jury"
+				},
+				{
+					"text": "He was on a jury judging a songwriting competition."
+				},
+				{
+					"text": "The jury consisted of an architect, a photographer and an artist."
+				},
+				{
+					"text": "The jury has awarded the prize for best exhibit in the show to Harry Pearson."
+				},
+				{
+					"text": "The jury is selected from the winners in previous years."
+				}
+			],
+			"collocations": {
+				"verb + jury": ["choose", "select"],
+				"jury + verb": [
+					"judge something",
+					"consist of somebody",
+					"award (somebody) something"
+				],
+				"preposition": ["on a/​the jury", "jury for"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "used when you are saying that something is still not certain",
+			"examples": [
+				{
+					"text": "The jury is still out on whether this is a good idea or not."
+				}
+			],
+			"topics": ["Doubt, guessing and certainty"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈdʒʊəri/",
+				"audio": "ju/jury/jury__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈdʒʊri/",
+				"audio": "ju/jury/jury__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French juree ‘oath, inquiry’, from Latin jurata, feminine past participle of jurare ‘swear’, from jus, jur- ‘law’."
 }

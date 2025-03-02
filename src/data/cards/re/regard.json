@@ -1,168 +1,168 @@
 {
-  "term": "regard",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "regard",
-      "heSheIt": "regards"
-    },
-    "pastSimple": "regarded",
-    "pastParticiple": "regarded",
-    "ingForm": "regarding"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to think about somebody/something in a particular way",
-      "sensetop": "regard somebody/something + adv./prep.regard somebody/something/yourself as something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They regarded people outside their own town with suspicion.",
-          "contextForm": "regard somebody/something + adv./prep."
-        },
-        {
-          "text": "Her work is very **highly regarded**."
-        },
-        {
-          "text": "He regards himself as a patriot.",
-          "contextForm": "regard somebody/something/yourself as something"
-        },
-        {
-          "text": "Capital punishment was regarded as inhuman and immoral."
-        },
-        {
-          "text": "She is **widely regarded** as the current leader's natural successor."
-        },
-        {
-          "text": "Civil contempt is not properly regarded as a criminal offence."
-        },
-        {
-          "text": "Foxes were traditionally regarded as vermin."
-        },
-        {
-          "text": "He seemed to regard the whole thing as a joke."
-        },
-        {
-          "text": "I had come to regard him as a close friend."
-        },
-        {
-          "text": "It would be a mistake to regard the incident as unimportant."
-        },
-        {
-          "text": "Many of her works are regarded as classics."
-        },
-        {
-          "text": "She was highly regarded as a sculptor."
-        },
-        {
-          "text": "The crash could be reasonably regarded as an opportunity to invest."
-        },
-        {
-          "text": "The project was widely regarded as a success."
-        },
-        {
-          "text": "The successful are often tempted to regard their success as a kind of reward."
-        },
-        {
-          "text": "They tend to regard the open expression of emotion as being soft and feminine."
-        },
-        {
-          "text": "an agency long regarded as ineffectual"
-        },
-        {
-          "text": "She was well regarded by her contemporaries."
-        },
-        {
-          "text": "Today, the future is typically regarded with dread."
-        },
-        {
-          "text": "This work is generally regarded as his masterpiece."
-        }
-      ],
-      "collocations": {
-        "adverb": ["highly", "well", "generally"],
-        "verb + regard": ["appear to", "seem to", "tend to"],
-        "preposition": ["as", "with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to look at somebody/something, especially in a particular way",
-      "sensetop": "regard somebody/something (+ adv./prep.)",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "He regarded us suspiciously."
-        },
-        {
-          "text": "His eyes continued to regard her steadily."
-        },
-        {
-          "text": "She regarded the mess with distaste."
-        }
-      ],
-      "synonyms": "contemplate",
-      "collocations": {
-        "adverb": ["steadily", "intently", "curiously"],
-        "verb + regard": ["continue to"],
-        "preposition": ["with"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "relating to or in connection with somebody/something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "I have little information as regards her fitness for the post."
-        },
-        {
-          "text": "As regards the first point in your letter…"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/rɪˈɡɑːd/",
-        "audio": "re/regard/regard__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈɡɑːdz/",
-        "audio": "re/regard/regards__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈɡɑːdɪd/",
-        "audio": "re/regard/regarded__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈɡɑːdɪŋ/",
-        "audio": "re/regard/regarding__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/rɪˈɡɑːrd/",
-        "audio": "re/regard/regard__us_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈɡɑːrdz/",
-        "audio": "re/regard/regards__us_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈɡɑːrdɪd/",
-        "audio": "re/regard/regarded__us_1.mp3"
-      },
-      {
-        "pronunciation": "/rɪˈɡɑːrdɪŋ/",
-        "audio": "re/regard/regarding__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French regarder ‘to watch’, from re- ‘back’ (also expressing intensive force) + garder ‘to guard’."
+	"term": "regard",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "regard",
+			"heSheIt": "regards"
+		},
+		"pastSimple": "regarded",
+		"pastParticiple": "regarded",
+		"ingForm": "regarding"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to think about somebody/something in a particular way",
+			"sensetop": "regard somebody/something + adv./prep.regard somebody/something/yourself as something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They regarded people outside their own town with suspicion.",
+					"contextForm": "regard somebody/something + adv./prep."
+				},
+				{
+					"text": "Her work is very **highly regarded**."
+				},
+				{
+					"text": "He regards himself as a patriot.",
+					"contextForm": "regard somebody/something/yourself as something"
+				},
+				{
+					"text": "Capital punishment was regarded as inhuman and immoral."
+				},
+				{
+					"text": "She is **widely regarded** as the current leader's natural successor."
+				},
+				{
+					"text": "Civil contempt is not properly regarded as a criminal offence."
+				},
+				{
+					"text": "Foxes were traditionally regarded as vermin."
+				},
+				{
+					"text": "He seemed to regard the whole thing as a joke."
+				},
+				{
+					"text": "I had come to regard him as a close friend."
+				},
+				{
+					"text": "It would be a mistake to regard the incident as unimportant."
+				},
+				{
+					"text": "Many of her works are regarded as classics."
+				},
+				{
+					"text": "She was highly regarded as a sculptor."
+				},
+				{
+					"text": "The crash could be reasonably regarded as an opportunity to invest."
+				},
+				{
+					"text": "The project was widely regarded as a success."
+				},
+				{
+					"text": "The successful are often tempted to regard their success as a kind of reward."
+				},
+				{
+					"text": "They tend to regard the open expression of emotion as being soft and feminine."
+				},
+				{
+					"text": "an agency long regarded as ineffectual"
+				},
+				{
+					"text": "She was well regarded by her contemporaries."
+				},
+				{
+					"text": "Today, the future is typically regarded with dread."
+				},
+				{
+					"text": "This work is generally regarded as his masterpiece."
+				}
+			],
+			"collocations": {
+				"adverb": ["highly", "well", "generally"],
+				"verb + regard": ["appear to", "seem to", "tend to"],
+				"preposition": ["as", "with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to look at somebody/something, especially in a particular way",
+			"sensetop": "regard somebody/something (+ adv./prep.)",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "He regarded us suspiciously."
+				},
+				{
+					"text": "His eyes continued to regard her steadily."
+				},
+				{
+					"text": "She regarded the mess with distaste."
+				}
+			],
+			"synonyms": "contemplate",
+			"collocations": {
+				"adverb": ["steadily", "intently", "curiously"],
+				"verb + regard": ["continue to"],
+				"preposition": ["with"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "relating to or in connection with somebody/something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "I have little information as regards her fitness for the post."
+				},
+				{
+					"text": "As regards the first point in your letter…"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/rɪˈɡɑːd/",
+				"audio": "re/regard/regard__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈɡɑːdz/",
+				"audio": "re/regard/regards__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈɡɑːdɪd/",
+				"audio": "re/regard/regarded__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈɡɑːdɪŋ/",
+				"audio": "re/regard/regarding__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/rɪˈɡɑːrd/",
+				"audio": "re/regard/regard__us_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈɡɑːrdz/",
+				"audio": "re/regard/regards__us_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈɡɑːrdɪd/",
+				"audio": "re/regard/regarded__us_1.mp3"
+			},
+			{
+				"pronunciation": "/rɪˈɡɑːrdɪŋ/",
+				"audio": "re/regard/regarding__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French regarder ‘to watch’, from re- ‘back’ (also expressing intensive force) + garder ‘to guard’."
 }

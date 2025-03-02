@@ -1,118 +1,118 @@
 {
-  "term": "logic",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a way of thinking or explaining something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "I fail to see the logic behind his argument."
-        },
-        {
-          "text": "The two parts of the plan were governed by the same logic."
-        },
-        {
-          "text": "I can't follow the logic of what you are saying."
-        },
-        {
-          "text": "In their faulty logic, this is a great injustice."
-        },
-        {
-          "text": "What kind of twisted logic is that?"
-        },
-        {
-          "text": "You can't use the same logic in dealing with children."
-        },
-        {
-          "text": "They questioned the logic underlying his actions."
-        },
-        {
-          "text": "The music has its own inner logic."
-        }
-      ],
-      "collocations": {
-        "adjective": ["compelling", "impeccable", "inexorable"],
-        "verb + logic": ["accept", "follow", "see"],
-        "preposition": ["logic behind", "logic in", "logic of"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "sensible reasons for doing something",
-      "sensetop": "logic to/in something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Linking the proposals in a single package did have a certain logic."
-        },
-        {
-          "text": "a strategy based on sound commercial logic"
-        },
-        {
-          "text": "There is no logic in any of their claims.",
-          "contextForm": "logic to/in something"
-        },
-        {
-          "text": "It's a stupid decision that completely defies logic."
-        },
-        {
-          "text": "There doesn't seem to be any logic in the move."
-        },
-        {
-          "text": "The plan had a simple logic to it."
-        }
-      ],
-      "collocations": {
-        "adjective": ["compelling", "impeccable", "inexorable"],
-        "verb + logic": ["accept", "follow", "see"],
-        "preposition": ["logic behind", "logic in", "logic of"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the science of thinking about or explaining the reason for something using formal methods",
-      "labels": "(philosophy)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "the rules of logic"
-        },
-        {
-          "text": "Philosophers use logic to prove their arguments."
-        }
-      ],
-      "collocations": {
-        "adjective": ["formal", "mathematical", "deductive"],
-        "verb + logic": ["apply", "use"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a system or set of principles used in preparing a computer or electronic device to perform a particular task",
-      "labels": "(computing)",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Computers"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈlɒdʒɪk/",
-        "audio": "lo/logic/logic__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈlɑːdʒɪk/",
-        "audio": "lo/logic/logic__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: via Old French logique and late Latin logica from Greek logikē (tekhnē) ‘(art) of reason’, from logos ‘word, reason’."
+	"term": "logic",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a way of thinking or explaining something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "I fail to see the logic behind his argument."
+				},
+				{
+					"text": "The two parts of the plan were governed by the same logic."
+				},
+				{
+					"text": "I can't follow the logic of what you are saying."
+				},
+				{
+					"text": "In their faulty logic, this is a great injustice."
+				},
+				{
+					"text": "What kind of twisted logic is that?"
+				},
+				{
+					"text": "You can't use the same logic in dealing with children."
+				},
+				{
+					"text": "They questioned the logic underlying his actions."
+				},
+				{
+					"text": "The music has its own inner logic."
+				}
+			],
+			"collocations": {
+				"adjective": ["compelling", "impeccable", "inexorable"],
+				"verb + logic": ["accept", "follow", "see"],
+				"preposition": ["logic behind", "logic in", "logic of"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "sensible reasons for doing something",
+			"sensetop": "logic to/in something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Linking the proposals in a single package did have a certain logic."
+				},
+				{
+					"text": "a strategy based on sound commercial logic"
+				},
+				{
+					"text": "There is no logic in any of their claims.",
+					"contextForm": "logic to/in something"
+				},
+				{
+					"text": "It's a stupid decision that completely defies logic."
+				},
+				{
+					"text": "There doesn't seem to be any logic in the move."
+				},
+				{
+					"text": "The plan had a simple logic to it."
+				}
+			],
+			"collocations": {
+				"adjective": ["compelling", "impeccable", "inexorable"],
+				"verb + logic": ["accept", "follow", "see"],
+				"preposition": ["logic behind", "logic in", "logic of"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the science of thinking about or explaining the reason for something using formal methods",
+			"labels": "(philosophy)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "the rules of logic"
+				},
+				{
+					"text": "Philosophers use logic to prove their arguments."
+				}
+			],
+			"collocations": {
+				"adjective": ["formal", "mathematical", "deductive"],
+				"verb + logic": ["apply", "use"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a system or set of principles used in preparing a computer or electronic device to perform a particular task",
+			"labels": "(computing)",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Computers"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈlɒdʒɪk/",
+				"audio": "lo/logic/logic__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈlɑːdʒɪk/",
+				"audio": "lo/logic/logic__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: via Old French logique and late Latin logica from Greek logikē (tekhnē) ‘(art) of reason’, from logos ‘word, reason’."
 }

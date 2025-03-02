@@ -1,66 +1,66 @@
 {
-  "term": "interactive",
-  "partOfSpeech": "adjective",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "that allows information to be passed continuously and in both directions between a computer or other device and the person who uses it",
-      "labels": "(computing)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "**interactive displays/video**"
-        },
-        {
-          "text": "using ICT to create an **interactive** learning **experience**"
-        },
-        {
-          "text": "an **interactive** online **map** that helps people find bicycle routes through the city"
-        },
-        {
-          "text": "A series of **interactive exhibits** will teach visitors about the history of the bridge."
-        },
-        {
-          "text": "The program is fully interactive."
-        }
-      ],
-      "topics": ["Computers"],
-      "collocations": {
-        "verbs": ["be", "become"],
-        "adverb": ["highly", "very", "truly"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "that involves people working together and having an influence on each other",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The school believes in interactive teaching methods."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "become"],
-        "adverb": ["highly", "very", "truly"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌɪntərˈæktɪv/",
-        "audio": "in/interactive/interactive__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌɪntərˈæktɪv/",
-        "audio": "in/interactive/interactive__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 19th cent.: from interact, on the pattern of active."
+	"term": "interactive",
+	"partOfSpeech": "adjective",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "that allows information to be passed continuously and in both directions between a computer or other device and the person who uses it",
+			"labels": "(computing)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "**interactive displays/video**"
+				},
+				{
+					"text": "using ICT to create an **interactive** learning **experience**"
+				},
+				{
+					"text": "an **interactive** online **map** that helps people find bicycle routes through the city"
+				},
+				{
+					"text": "A series of **interactive exhibits** will teach visitors about the history of the bridge."
+				},
+				{
+					"text": "The program is fully interactive."
+				}
+			],
+			"topics": ["Computers"],
+			"collocations": {
+				"verbs": ["be", "become"],
+				"adverb": ["highly", "very", "truly"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "that involves people working together and having an influence on each other",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The school believes in interactive teaching methods."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "become"],
+				"adverb": ["highly", "very", "truly"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌɪntərˈæktɪv/",
+				"audio": "in/interactive/interactive__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌɪntərˈæktɪv/",
+				"audio": "in/interactive/interactive__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 19th cent.: from interact, on the pattern of active."
 }

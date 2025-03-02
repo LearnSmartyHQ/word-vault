@@ -1,134 +1,134 @@
 {
-  "term": "narrative",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a description of events",
-      "labels": "(US English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a gripping narrative of their journey up the Amazon"
-        },
-        {
-          "text": "a collection of personal narratives"
-        },
-        {
-          "text": "She has woven a strong personal narrative filled with lively anecdotes."
-        },
-        {
-          "text": "a historical narrative of the United States"
-        },
-        {
-          "text": "The film lacks a coherent, compelling narrative."
-        },
-        {
-          "text": "the grand narratives of history"
-        },
-        {
-          "text": "events in the narrative"
-        },
-        {
-          "text": "People have always tried to create narratives through stories and painting."
-        },
-        {
-          "text": "Wong's character is a key part of the narrative."
-        },
-        {
-          "text": "The movie has a very traditional linear narrative."
-        },
-        {
-          "text": "It's difficult to construct a narrative out of a series of fast-moving events."
-        },
-        {
-          "text": "The book includes a collection of personal narratives from elderly Kikuyu women and men."
-        },
-        {
-          "text": "The author interrupts her narrative to tell us that the idea for the book had not been well received."
-        },
-        {
-          "text": "The author weaves into this narrative many entertaining historical facts."
-        },
-        {
-          "text": "This book offers no coherent narrative of the American Civil War."
-        },
-        {
-          "text": "the dominant narrative of the Cold War"
-        },
-        {
-          "text": "We need to think differently about the standard historical narrative of the United States."
-        },
-        {
-          "text": "This poetry emulates the slave narrative, a nineteenth century literary form."
-        }
-      ],
-      "synonyms": "story",
-      "topics": ["Literature and writing"],
-      "collocations": {
-        "adjective": ["popular", "compelling", "coherent"],
-        "verb + narrative": ["construct", "create", "develop"],
-        "narrative + verb": ["be based on something"],
-        "narrative + noun": ["form", "style", "technique"],
-        "preposition": ["in a/​the narrative"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the part of a novel that tells the story, rather than the dialogue",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The novel contains too much dialogue and not enough narrative."
-        },
-        {
-          "text": "The book is written in the style of first-person narrative."
-        },
-        {
-          "text": "interruptions to the narrative flow"
-        }
-      ],
-      "collocations": {
-        "adjective": ["popular", "compelling", "coherent"],
-        "verb + narrative": ["construct", "create", "develop"],
-        "narrative + verb": ["be based on something"],
-        "narrative + noun": ["form", "style", "technique"],
-        "preposition": ["in a/​the narrative"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a way of explaining events to illustrate a set of aims or values",
-      "examples": [
-        {
-          "text": "a new narrative about economic globalization"
-        },
-        {
-          "text": "How do we construct a new narrative about economic globalization?"
-        },
-        {
-          "text": "Politicians create narrative from scant facts on a daily basis."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈnærətɪv/",
-        "audio": "na/narrative/narrative__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈnærətɪv/",
-        "audio": "na/narrative/narrative__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (as an adjective): from French narratif, -ive, from late Latin narrativus ‘telling a story’, from the verb narrare (from gnarus ‘knowing’)."
+	"term": "narrative",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a description of events",
+			"labels": "(US English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a gripping narrative of their journey up the Amazon"
+				},
+				{
+					"text": "a collection of personal narratives"
+				},
+				{
+					"text": "She has woven a strong personal narrative filled with lively anecdotes."
+				},
+				{
+					"text": "a historical narrative of the United States"
+				},
+				{
+					"text": "The film lacks a coherent, compelling narrative."
+				},
+				{
+					"text": "the grand narratives of history"
+				},
+				{
+					"text": "events in the narrative"
+				},
+				{
+					"text": "People have always tried to create narratives through stories and painting."
+				},
+				{
+					"text": "Wong's character is a key part of the narrative."
+				},
+				{
+					"text": "The movie has a very traditional linear narrative."
+				},
+				{
+					"text": "It's difficult to construct a narrative out of a series of fast-moving events."
+				},
+				{
+					"text": "The book includes a collection of personal narratives from elderly Kikuyu women and men."
+				},
+				{
+					"text": "The author interrupts her narrative to tell us that the idea for the book had not been well received."
+				},
+				{
+					"text": "The author weaves into this narrative many entertaining historical facts."
+				},
+				{
+					"text": "This book offers no coherent narrative of the American Civil War."
+				},
+				{
+					"text": "the dominant narrative of the Cold War"
+				},
+				{
+					"text": "We need to think differently about the standard historical narrative of the United States."
+				},
+				{
+					"text": "This poetry emulates the slave narrative, a nineteenth century literary form."
+				}
+			],
+			"synonyms": "story",
+			"topics": ["Literature and writing"],
+			"collocations": {
+				"adjective": ["popular", "compelling", "coherent"],
+				"verb + narrative": ["construct", "create", "develop"],
+				"narrative + verb": ["be based on something"],
+				"narrative + noun": ["form", "style", "technique"],
+				"preposition": ["in a/​the narrative"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the part of a novel that tells the story, rather than the dialogue",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The novel contains too much dialogue and not enough narrative."
+				},
+				{
+					"text": "The book is written in the style of first-person narrative."
+				},
+				{
+					"text": "interruptions to the narrative flow"
+				}
+			],
+			"collocations": {
+				"adjective": ["popular", "compelling", "coherent"],
+				"verb + narrative": ["construct", "create", "develop"],
+				"narrative + verb": ["be based on something"],
+				"narrative + noun": ["form", "style", "technique"],
+				"preposition": ["in a/​the narrative"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a way of explaining events to illustrate a set of aims or values",
+			"examples": [
+				{
+					"text": "a new narrative about economic globalization"
+				},
+				{
+					"text": "How do we construct a new narrative about economic globalization?"
+				},
+				{
+					"text": "Politicians create narrative from scant facts on a daily basis."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈnærətɪv/",
+				"audio": "na/narrative/narrative__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈnærətɪv/",
+				"audio": "na/narrative/narrative__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (as an adjective): from French narratif, -ive, from late Latin narrativus ‘telling a story’, from the verb narrare (from gnarus ‘knowing’)."
 }

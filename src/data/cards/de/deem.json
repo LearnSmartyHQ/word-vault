@@ -1,87 +1,87 @@
 {
-  "term": "deem",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "deem",
-      "heSheIt": "deems"
-    },
-    "pastSimple": "deemed",
-    "pastParticiple": "deemed",
-    "ingForm": "deeming"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to have a particular opinion about somebody/something",
-      "sensetop": "deem somebody/something + noundeem somebody/something + adj.deem somebody/something to be somethingdeem (that)…",
-      "examples": [
-        {
-          "text": "The evening was deemed a great success.",
-          "contextForm": "deem somebody/something + noun"
-        },
-        {
-          "text": "She **deemed it** prudent not to say anything.",
-          "contextForm": "deem somebody/something + adj."
-        },
-        {
-          "text": "I deem it an honour to be invited."
-        },
-        {
-          "text": "They would take any action **deemed necessary**."
-        },
-        {
-          "text": "The strike was deemed to be illegal.",
-          "contextForm": "deem somebody/something to be something"
-        },
-        {
-          "text": "Inspectors deemed that the standard of teaching was unsatisfactory.",
-          "contextForm": "deem (that)…"
-        }
-      ],
-      "synonyms": "consider",
-      "topics": ["Opinion and argument"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/diːm/",
-        "audio": "de/deem/deem__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/diːmz/",
-        "audio": "de/deem/deems__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/diːmd/",
-        "audio": "de/deem/deemed__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈdiːmɪŋ/",
-        "audio": "de/deem/deeming__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/diːm/",
-        "audio": "de/deem/deem__us_1.mp3"
-      },
-      {
-        "pronunciation": "/diːmz/",
-        "audio": "de/deem/deems__us_1.mp3"
-      },
-      {
-        "pronunciation": "/diːmd/",
-        "audio": "de/deem/deemed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈdiːmɪŋ/",
-        "audio": "de/deem/deeming__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English dēman (also in the sense ‘act as judge’), of Germanic origin; related to Dutch doeman, also to doom."
+	"term": "deem",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "deem",
+			"heSheIt": "deems"
+		},
+		"pastSimple": "deemed",
+		"pastParticiple": "deemed",
+		"ingForm": "deeming"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to have a particular opinion about somebody/something",
+			"sensetop": "deem somebody/something + noundeem somebody/something + adj.deem somebody/something to be somethingdeem (that)…",
+			"examples": [
+				{
+					"text": "The evening was deemed a great success.",
+					"contextForm": "deem somebody/something + noun"
+				},
+				{
+					"text": "She **deemed it** prudent not to say anything.",
+					"contextForm": "deem somebody/something + adj."
+				},
+				{
+					"text": "I deem it an honour to be invited."
+				},
+				{
+					"text": "They would take any action **deemed necessary**."
+				},
+				{
+					"text": "The strike was deemed to be illegal.",
+					"contextForm": "deem somebody/something to be something"
+				},
+				{
+					"text": "Inspectors deemed that the standard of teaching was unsatisfactory.",
+					"contextForm": "deem (that)…"
+				}
+			],
+			"synonyms": "consider",
+			"topics": ["Opinion and argument"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/diːm/",
+				"audio": "de/deem/deem__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/diːmz/",
+				"audio": "de/deem/deems__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/diːmd/",
+				"audio": "de/deem/deemed__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈdiːmɪŋ/",
+				"audio": "de/deem/deeming__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/diːm/",
+				"audio": "de/deem/deem__us_1.mp3"
+			},
+			{
+				"pronunciation": "/diːmz/",
+				"audio": "de/deem/deems__us_1.mp3"
+			},
+			{
+				"pronunciation": "/diːmd/",
+				"audio": "de/deem/deemed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈdiːmɪŋ/",
+				"audio": "de/deem/deeming__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English dēman (also in the sense ‘act as judge’), of Germanic origin; related to Dutch doeman, also to doom."
 }

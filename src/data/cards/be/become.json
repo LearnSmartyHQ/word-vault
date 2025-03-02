@@ -1,134 +1,134 @@
 {
-  "term": "become",
-  "partOfSpeech": "verblinking verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "become",
-      "heSheIt": "becomes"
-    },
-    "pastSimple": "became",
-    "pastParticiple": "become",
-    "ingForm": "becoming"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to start to be something",
-      "sensetop": "+ adj.+ noun",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "It **soon became** apparent that no one was going to come.",
-          "contextForm": "+ adj."
-        },
-        {
-          "text": "It is **becoming** increasingly **clear** that something has gone seriously wrong."
-        },
-        {
-          "text": "When did you first become aware of the problem?"
-        },
-        {
-          "text": "It was becoming more and more difficult to live on his salary."
-        },
-        {
-          "text": "She was becoming confused."
-        },
-        {
-          "text": "He became king in 2022.",
-          "contextForm": "+ noun"
-        },
-        {
-          "text": "The bill will become law next year."
-        },
-        {
-          "text": "Over the last five years she has **become part** of the family."
-        },
-        {
-          "text": "How can I **become a member** of the society?"
-        },
-        {
-          "text": "She’s studying to become a teacher."
-        },
-        {
-          "text": "His job has become his whole life."
-        }
-      ]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to be suitable for somebody",
-      "sensetop": "become somebody",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "Such behaviour did not become her."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to look attractive on somebody",
-      "sensetop": "become somebody",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "Short hair really becomes you."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to ask what has happened or what will happen to somebody/something",
-      "examples": [
-        {
-          "text": "What became of that student who used to live with you?"
-        },
-        {
-          "text": "I dread to think what will become of them if they lose their home."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/bɪˈkʌm/",
-        "audio": "be/become/become__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/bɪˈkʌmz/",
-        "audio": "be/become/becomes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/bɪˈkeɪm/",
-        "audio": "be/become/became__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/bɪˈkʌmɪŋ/",
-        "audio": "be/become/becoming__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/bɪˈkʌm/",
-        "audio": "be/become/become__us_2.mp3"
-      },
-      {
-        "pronunciation": "/bɪˈkʌmz/",
-        "audio": "be/become/becomes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/bɪˈkeɪm/",
-        "audio": "be/become/became__us_2.mp3"
-      },
-      {
-        "pronunciation": "/bɪˈkʌmɪŋ/",
-        "audio": "be/become/becoming__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English becuman ‘come to a place, come (to be or do something)’ (see be-, come), of Germanic origin; related to Dutch bekomen and German bekommen ‘get, receive’."
+	"term": "become",
+	"partOfSpeech": "verblinking verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "become",
+			"heSheIt": "becomes"
+		},
+		"pastSimple": "became",
+		"pastParticiple": "become",
+		"ingForm": "becoming"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to start to be something",
+			"sensetop": "+ adj.+ noun",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "It **soon became** apparent that no one was going to come.",
+					"contextForm": "+ adj."
+				},
+				{
+					"text": "It is **becoming** increasingly **clear** that something has gone seriously wrong."
+				},
+				{
+					"text": "When did you first become aware of the problem?"
+				},
+				{
+					"text": "It was becoming more and more difficult to live on his salary."
+				},
+				{
+					"text": "She was becoming confused."
+				},
+				{
+					"text": "He became king in 2022.",
+					"contextForm": "+ noun"
+				},
+				{
+					"text": "The bill will become law next year."
+				},
+				{
+					"text": "Over the last five years she has **become part** of the family."
+				},
+				{
+					"text": "How can I **become a member** of the society?"
+				},
+				{
+					"text": "She’s studying to become a teacher."
+				},
+				{
+					"text": "His job has become his whole life."
+				}
+			]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to be suitable for somebody",
+			"sensetop": "become somebody",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "Such behaviour did not become her."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to look attractive on somebody",
+			"sensetop": "become somebody",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "Short hair really becomes you."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to ask what has happened or what will happen to somebody/something",
+			"examples": [
+				{
+					"text": "What became of that student who used to live with you?"
+				},
+				{
+					"text": "I dread to think what will become of them if they lose their home."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/bɪˈkʌm/",
+				"audio": "be/become/become__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/bɪˈkʌmz/",
+				"audio": "be/become/becomes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/bɪˈkeɪm/",
+				"audio": "be/become/became__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/bɪˈkʌmɪŋ/",
+				"audio": "be/become/becoming__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/bɪˈkʌm/",
+				"audio": "be/become/become__us_2.mp3"
+			},
+			{
+				"pronunciation": "/bɪˈkʌmz/",
+				"audio": "be/become/becomes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/bɪˈkeɪm/",
+				"audio": "be/become/became__us_2.mp3"
+			},
+			{
+				"pronunciation": "/bɪˈkʌmɪŋ/",
+				"audio": "be/become/becoming__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English becuman ‘come to a place, come (to be or do something)’ (see be-, come), of Germanic origin; related to Dutch bekomen and German bekommen ‘get, receive’."
 }

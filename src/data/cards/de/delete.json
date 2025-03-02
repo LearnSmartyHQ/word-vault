@@ -1,88 +1,88 @@
 {
-  "term": "delete",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "b2",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "delete",
-      "heSheIt": "deletes"
-    },
-    "pastSimple": "deleted",
-    "pastParticiple": "deleted",
-    "ingForm": "deleting"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to remove something that has been written or printed, or that has been stored on a computer",
-      "sensetop": "delete something (from something)",
-      "labels": "(British English)",
-      "examples": [
-        {
-          "text": "Your name has been deleted from the list."
-        },
-        {
-          "text": "This command deletes files from the directory."
-        },
-        {
-          "text": "Mr/Mrs/Ms (**delete as appropriate**)"
-        },
-        {
-          "text": "Delete the word ‘it’ and insert ‘them’."
-        },
-        {
-          "text": "The file had been accidentally deleted."
-        },
-        {
-          "text": "I deleted your last email by mistake—could you send it again?"
-        }
-      ],
-      "topics": ["Computers", "Phones, email and the internet"],
-      "collocations": {
-        "adverb": ["accidentally", "inadvertently", "automatically"],
-        "preposition": ["from"],
-        "phrases": ["delete as appropriate"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/dɪˈliːt/",
-        "audio": "de/delete/delete__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈliːts/",
-        "audio": "de/delete/deletes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈliːtɪd/",
-        "audio": "de/delete/deleted__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈliːtɪŋ/",
-        "audio": "de/delete/deleting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/dɪˈliːt/",
-        "audio": "de/delete/delete__us_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈliːts/",
-        "audio": "de/delete/deletes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈliːtɪd/",
-        "audio": "de/delete/deleted__us_1.mp3"
-      },
-      {
-        "pronunciation": "/dɪˈliːtɪŋ/",
-        "audio": "de/delete/deleting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘destroy’): from Latin delet- ‘blotted out, effaced’, from the verb delere."
+	"term": "delete",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "b2",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "delete",
+			"heSheIt": "deletes"
+		},
+		"pastSimple": "deleted",
+		"pastParticiple": "deleted",
+		"ingForm": "deleting"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to remove something that has been written or printed, or that has been stored on a computer",
+			"sensetop": "delete something (from something)",
+			"labels": "(British English)",
+			"examples": [
+				{
+					"text": "Your name has been deleted from the list."
+				},
+				{
+					"text": "This command deletes files from the directory."
+				},
+				{
+					"text": "Mr/Mrs/Ms (**delete as appropriate**)"
+				},
+				{
+					"text": "Delete the word ‘it’ and insert ‘them’."
+				},
+				{
+					"text": "The file had been accidentally deleted."
+				},
+				{
+					"text": "I deleted your last email by mistake—could you send it again?"
+				}
+			],
+			"topics": ["Computers", "Phones, email and the internet"],
+			"collocations": {
+				"adverb": ["accidentally", "inadvertently", "automatically"],
+				"preposition": ["from"],
+				"phrases": ["delete as appropriate"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/dɪˈliːt/",
+				"audio": "de/delete/delete__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈliːts/",
+				"audio": "de/delete/deletes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈliːtɪd/",
+				"audio": "de/delete/deleted__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈliːtɪŋ/",
+				"audio": "de/delete/deleting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/dɪˈliːt/",
+				"audio": "de/delete/delete__us_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈliːts/",
+				"audio": "de/delete/deletes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈliːtɪd/",
+				"audio": "de/delete/deleted__us_1.mp3"
+			},
+			{
+				"pronunciation": "/dɪˈliːtɪŋ/",
+				"audio": "de/delete/deleting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘destroy’): from Latin delet- ‘blotted out, effaced’, from the verb delere."
 }

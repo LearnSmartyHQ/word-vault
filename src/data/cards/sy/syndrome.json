@@ -1,63 +1,63 @@
 {
-  "term": "syndrome",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a set of physical conditions that show you have a particular disease or medical problem",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "PMS or premenstrual syndrome"
-        },
-        {
-          "text": "This syndrome is associated with frequent coughing."
-        },
-        {
-          "text": "This syndrome mostly affects women in their forties."
-        }
-      ],
-      "topics": ["Health problems"],
-      "collocations": {
-        "adjective": ["acute", "clinical", "Asperger’s"],
-        "verb + syndrome": ["have", "suffer from", "develop"],
-        "syndrome + verb": [
-          "affect somebody",
-          "be present in somebody",
-          "occur"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a set of opinions or a way of behaving that is typical of a particular type of person, attitude or social problem",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "With teenagers, be prepared for the ‘Me, me, me!’ syndrome *(= they think of themselves first)*."
-        },
-        {
-          "text": "This phenomenon has become known as the ‘Californian syndrome’."
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsɪndrəʊm/",
-        "audio": "sy/syndrome/syndrome__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsɪndrəʊm/",
-        "audio": "sy/syndrome/syndrome__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent.: modern Latin, from Greek sundromē, from sun- ‘together’ + dramein ‘to run’."
+	"term": "syndrome",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a set of physical conditions that show you have a particular disease or medical problem",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "PMS or premenstrual syndrome"
+				},
+				{
+					"text": "This syndrome is associated with frequent coughing."
+				},
+				{
+					"text": "This syndrome mostly affects women in their forties."
+				}
+			],
+			"topics": ["Health problems"],
+			"collocations": {
+				"adjective": ["acute", "clinical", "Asperger’s"],
+				"verb + syndrome": ["have", "suffer from", "develop"],
+				"syndrome + verb": [
+					"affect somebody",
+					"be present in somebody",
+					"occur"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a set of opinions or a way of behaving that is typical of a particular type of person, attitude or social problem",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "With teenagers, be prepared for the ‘Me, me, me!’ syndrome *(= they think of themselves first)*."
+				},
+				{
+					"text": "This phenomenon has become known as the ‘Californian syndrome’."
+				}
+			],
+			"topics": ["Opinion and argument"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsɪndrəʊm/",
+				"audio": "sy/syndrome/syndrome__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsɪndrəʊm/",
+				"audio": "sy/syndrome/syndrome__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent.: modern Latin, from Greek sundromē, from sun- ‘together’ + dramein ‘to run’."
 }

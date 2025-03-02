@@ -1,158 +1,158 @@
 {
-  "term": "translation",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the process of changing something that is written or spoken into another language",
-      "sensetop": "translation from something into somethingtranslation from somethingtranslation into somethingtranslation into somethingtranslation of something (into something)in translation",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "an error in translation"
-        },
-        {
-          "text": "He specializes in translation from Danish into English.",
-          "contextForm": "translation from something into something"
-        },
-        {
-          "text": "The request must have lost something in the translation from the French.",
-          "contextForm": "translation from something"
-        },
-        {
-          "text": "Several books are already in translation into other languages.",
-          "contextForm": "translation into something"
-        },
-        {
-          "text": "The poems do not survive the translation into English.",
-          "contextForm": "translation into something"
-        },
-        {
-          "text": "The systems are used for the online translation of text.",
-          "contextForm": "translation of something (into something)"
-        },
-        {
-          "text": "The book loses something **in translation**.",
-          "contextForm": "in translation"
-        },
-        {
-          "text": "The irony is **lost in translation**."
-        },
-        {
-          "text": "There will be simultaneous translation in English and Chinese."
-        }
-      ],
-      "collocations": {
-        "adjective": ["accurate", "correct", "exact"],
-        "verb + translation": ["do", "make", "produce"],
-        "translation + verb": ["read"],
-        "translation + noun": ["process", "service", "work"],
-        "preposition": [
-          "in translation",
-          "translation from",
-          "translation into"
-        ],
-        "phrases": ["lose something in"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a text or word that has been changed from one language into another",
-      "sensetop": "translation of somethingin translation",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The usual translation of ‘glasnost’ is ‘openness’.",
-          "contextForm": "translation of something"
-        },
-        {
-          "text": "a copy of Dryden’s translation of the Aeneid"
-        },
-        {
-          "text": "A full English translation of this speech is widely available on the internet."
-        },
-        {
-          "text": "a rough translation *(= not translating everything exactly)*"
-        },
-        {
-          "text": "a literal translation *(= following the original words exactly)*"
-        },
-        {
-          "text": "a free translation *(= not following the original words exactly)*"
-        },
-        {
-          "text": "a word-for-word translation"
-        },
-        {
-          "text": "I have only read Tolstoy in translation.",
-          "contextForm": "in translation"
-        },
-        {
-          "text": "I have a translation to do for Friday."
-        },
-        {
-          "text": "She tried making her own translation of the contract."
-        },
-        {
-          "text": "The translation of the Latin motto reads ‘Not for oneself, but for others’."
-        }
-      ],
-      "collocations": {
-        "adjective": ["accurate", "correct", "exact"],
-        "verb + translation": ["do", "make", "produce"],
-        "translation + verb": ["read"],
-        "translation + noun": ["process", "service", "work"],
-        "preposition": [
-          "in translation",
-          "translation from",
-          "translation into"
-        ],
-        "phrases": ["lose something in"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the process of changing something into a different form",
-      "sensetop": "translation (of something) into something",
-      "examples": [
-        {
-          "text": "the translation of theory into practice"
-        },
-        {
-          "text": "the translation of sporting potential into Olympic gold medals"
-        }
-      ],
-      "collocations": {
-        "adjective": ["accurate", "correct", "exact"],
-        "verb + translation": ["do", "make", "produce"],
-        "translation + verb": ["read"],
-        "translation + noun": ["process", "service", "work"],
-        "preposition": [
-          "in translation",
-          "translation from",
-          "translation into"
-        ],
-        "phrases": ["lose something in"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/trænzˈleɪʃn/",
-        "audio": "tr/translation/translation__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/trænzˈleɪʃn/",
-        "audio": "tr/translation/translation__us_2_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French, or from Latin translatio(n-), from translat- ‘carried across’, past participle of transferre, from trans- ‘across’ + ferre ‘to bear’."
+	"term": "translation",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the process of changing something that is written or spoken into another language",
+			"sensetop": "translation from something into somethingtranslation from somethingtranslation into somethingtranslation into somethingtranslation of something (into something)in translation",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "an error in translation"
+				},
+				{
+					"text": "He specializes in translation from Danish into English.",
+					"contextForm": "translation from something into something"
+				},
+				{
+					"text": "The request must have lost something in the translation from the French.",
+					"contextForm": "translation from something"
+				},
+				{
+					"text": "Several books are already in translation into other languages.",
+					"contextForm": "translation into something"
+				},
+				{
+					"text": "The poems do not survive the translation into English.",
+					"contextForm": "translation into something"
+				},
+				{
+					"text": "The systems are used for the online translation of text.",
+					"contextForm": "translation of something (into something)"
+				},
+				{
+					"text": "The book loses something **in translation**.",
+					"contextForm": "in translation"
+				},
+				{
+					"text": "The irony is **lost in translation**."
+				},
+				{
+					"text": "There will be simultaneous translation in English and Chinese."
+				}
+			],
+			"collocations": {
+				"adjective": ["accurate", "correct", "exact"],
+				"verb + translation": ["do", "make", "produce"],
+				"translation + verb": ["read"],
+				"translation + noun": ["process", "service", "work"],
+				"preposition": [
+					"in translation",
+					"translation from",
+					"translation into"
+				],
+				"phrases": ["lose something in"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a text or word that has been changed from one language into another",
+			"sensetop": "translation of somethingin translation",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The usual translation of ‘glasnost’ is ‘openness’.",
+					"contextForm": "translation of something"
+				},
+				{
+					"text": "a copy of Dryden’s translation of the Aeneid"
+				},
+				{
+					"text": "A full English translation of this speech is widely available on the internet."
+				},
+				{
+					"text": "a rough translation *(= not translating everything exactly)*"
+				},
+				{
+					"text": "a literal translation *(= following the original words exactly)*"
+				},
+				{
+					"text": "a free translation *(= not following the original words exactly)*"
+				},
+				{
+					"text": "a word-for-word translation"
+				},
+				{
+					"text": "I have only read Tolstoy in translation.",
+					"contextForm": "in translation"
+				},
+				{
+					"text": "I have a translation to do for Friday."
+				},
+				{
+					"text": "She tried making her own translation of the contract."
+				},
+				{
+					"text": "The translation of the Latin motto reads ‘Not for oneself, but for others’."
+				}
+			],
+			"collocations": {
+				"adjective": ["accurate", "correct", "exact"],
+				"verb + translation": ["do", "make", "produce"],
+				"translation + verb": ["read"],
+				"translation + noun": ["process", "service", "work"],
+				"preposition": [
+					"in translation",
+					"translation from",
+					"translation into"
+				],
+				"phrases": ["lose something in"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the process of changing something into a different form",
+			"sensetop": "translation (of something) into something",
+			"examples": [
+				{
+					"text": "the translation of theory into practice"
+				},
+				{
+					"text": "the translation of sporting potential into Olympic gold medals"
+				}
+			],
+			"collocations": {
+				"adjective": ["accurate", "correct", "exact"],
+				"verb + translation": ["do", "make", "produce"],
+				"translation + verb": ["read"],
+				"translation + noun": ["process", "service", "work"],
+				"preposition": [
+					"in translation",
+					"translation from",
+					"translation into"
+				],
+				"phrases": ["lose something in"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/trænzˈleɪʃn/",
+				"audio": "tr/translation/translation__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/trænzˈleɪʃn/",
+				"audio": "tr/translation/translation__us_2_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French, or from Latin translatio(n-), from translat- ‘carried across’, past participle of transferre, from trans- ‘across’ + ferre ‘to bear’."
 }

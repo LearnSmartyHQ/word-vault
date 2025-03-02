@@ -1,90 +1,90 @@
 {
-  "term": "badge",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "image": "data/images/je/jewellery.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a small piece of metal or plastic, with a design or words on it, that a person wears or carries to show that they belong to an organization, support something, have achieved something, have a particular rank, etc.",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "She wore a badge saying ‘Vote for Coates’."
-        },
-        {
-          "text": "All employees have to wear name badges."
-        },
-        {
-          "text": "He pulled out a badge and said he was a cop."
-        },
-        {
-          "text": "parking for disabled badge holders"
-        },
-        {
-          "text": "The police officer flashed his badge."
-        }
-      ],
-      "topics": ["Clothes and Fashion"],
-      "collocations": {
-        "adjective": ["name", "police", "merit"],
-        "verb + badge": ["wear", "display", "flash"],
-        "badge + noun": ["holder", "holder"],
-        "phrases": ["a badge of honour/​honor", "a badge of office"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a piece of material that you sew onto clothes as part of a uniform",
-      "labels": "(British English)North American English",
-      "examples": [
-        {
-          "text": "the school badge"
-        }
-      ],
-      "collocations": {
-        "adjective": ["name", "police", "merit"],
-        "verb + badge": ["wear", "display", "flash"],
-        "badge + noun": ["holder", "holder"],
-        "phrases": ["a badge of honour/​honor", "a badge of office"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a symbol of a particular quality or status",
-      "examples": [
-        {
-          "text": "He saw his injuries as a badge of honour."
-        },
-        {
-          "text": "For some consultants, a waiting list was a badge of status."
-        },
-        {
-          "text": "Her badge of office, a large gold key, hung around her neck."
-        }
-      ],
-      "collocations": {
-        "adjective": ["name", "police", "merit"],
-        "verb + badge": ["wear", "display", "flash"],
-        "badge + noun": ["holder", "holder"],
-        "phrases": ["a badge of honour/​honor", "a badge of office"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/bædʒ/",
-        "audio": "ba/badge/badge__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/bædʒ/",
-        "audio": "ba/badge/badge__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: of unknown origin."
+	"term": "badge",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"image": "data/images/je/jewellery.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a small piece of metal or plastic, with a design or words on it, that a person wears or carries to show that they belong to an organization, support something, have achieved something, have a particular rank, etc.",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "She wore a badge saying ‘Vote for Coates’."
+				},
+				{
+					"text": "All employees have to wear name badges."
+				},
+				{
+					"text": "He pulled out a badge and said he was a cop."
+				},
+				{
+					"text": "parking for disabled badge holders"
+				},
+				{
+					"text": "The police officer flashed his badge."
+				}
+			],
+			"topics": ["Clothes and Fashion"],
+			"collocations": {
+				"adjective": ["name", "police", "merit"],
+				"verb + badge": ["wear", "display", "flash"],
+				"badge + noun": ["holder", "holder"],
+				"phrases": ["a badge of honour/​honor", "a badge of office"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a piece of material that you sew onto clothes as part of a uniform",
+			"labels": "(British English)North American English",
+			"examples": [
+				{
+					"text": "the school badge"
+				}
+			],
+			"collocations": {
+				"adjective": ["name", "police", "merit"],
+				"verb + badge": ["wear", "display", "flash"],
+				"badge + noun": ["holder", "holder"],
+				"phrases": ["a badge of honour/​honor", "a badge of office"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a symbol of a particular quality or status",
+			"examples": [
+				{
+					"text": "He saw his injuries as a badge of honour."
+				},
+				{
+					"text": "For some consultants, a waiting list was a badge of status."
+				},
+				{
+					"text": "Her badge of office, a large gold key, hung around her neck."
+				}
+			],
+			"collocations": {
+				"adjective": ["name", "police", "merit"],
+				"verb + badge": ["wear", "display", "flash"],
+				"badge + noun": ["holder", "holder"],
+				"phrases": ["a badge of honour/​honor", "a badge of office"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/bædʒ/",
+				"audio": "ba/badge/badge__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/bædʒ/",
+				"audio": "ba/badge/badge__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: of unknown origin."
 }

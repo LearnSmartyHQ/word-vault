@@ -1,202 +1,202 @@
 {
-  "term": "seize",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "seize",
-      "heSheIt": "seizes"
-    },
-    "pastSimple": "seized",
-    "pastParticiple": "seized",
-    "ingForm": "seizing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to take somebody/something in your hand suddenly and using force",
-      "sensetop": "seize something from somebodyseize somebody/something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She tried to seize the gun from him.",
-          "contextForm": "seize something from somebody"
-        },
-        {
-          "text": "He seized her by the arm.",
-          "contextForm": "seize somebody/something"
-        },
-        {
-          "text": "She **seized hold of** my hand."
-        },
-        {
-          "text": "He seized the book from her hand."
-        },
-        {
-          "text": "The wrestlers try to seize hold of each other."
-        }
-      ],
-      "collocations": {
-        "adverb": ["immediately", "suddenly"],
-        "preposition": ["by", "from"],
-        "phrases": ["seize hold of somebody/​something"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to take control of a place or situation, often suddenly and violently",
-      "sensetop": "seize something (from somebody)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "They seized the airport in a surprise attack."
-        },
-        {
-          "text": "The army has **seized control of** the country."
-        },
-        {
-          "text": "He **seized power** in a military coup."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to arrest or capture somebody",
-      "sensetop": "seize somebody",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The men were seized as they left the building."
-        },
-        {
-          "text": "Terrorists have seized five hostages."
-        },
-        {
-          "text": "He was immediately seized and thrown into prison."
-        },
-        {
-          "text": "A Briton has been seized by border guards and jailed for eight years."
-        }
-      ],
-      "topics": ["Law and justice", "Crime and punishment"],
-      "collocations": {
-        "adverb": ["immediately", "suddenly"],
-        "preposition": ["by", "from"],
-        "phrases": ["seize hold of somebody/​something"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to take illegal or stolen goods away from somebody",
-      "sensetop": "seize something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "A large quantity of drugs was seized during the raid."
-        },
-        {
-          "text": "We have the legal right to seize his property."
-        }
-      ],
-      "collocations": {
-        "adverb": ["immediately", "instantly", "quickly"],
-        "verb + seize": ["be quick to", "be ready to", "be determined to"],
-        "preposition": ["on", "upon"],
-        "phrases": [
-          "an attempt to seize something",
-          "the power to seize something",
-          "the right to seize something"
-        ]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to be quick to make use of a chance, an opportunity, etc.",
-      "sensetop": "seize a chance, an opportunity, the initiative, etc.",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The party **seized** the initiative **with both hands** *(= quickly and with enthusiasm)*."
-        },
-        {
-          "text": "She promptly seized the opportunity his absence gave her."
-        }
-      ],
-      "collocations": {
-        "adverb": ["immediately", "instantly", "quickly"],
-        "verb + seize": ["be quick to", "be ready to", "be determined to"],
-        "preposition": ["on", "upon"],
-        "phrases": [
-          "an attempt to seize something",
-          "the power to seize something",
-          "the right to seize something"
-        ]
-      }
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to affect somebody suddenly and deeply",
-      "sensetop": "seize somebody",
-      "examples": [
-        {
-          "text": "Panic seized her."
-        },
-        {
-          "text": "He was seized by curiosity."
-        }
-      ]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "if a machine seizes, it no longer works because the parts are stuck and cannot move",
-      "labels": "(North American English)British and North American English",
-      "examples": []
-    },
-    {
-      "senseNumber": 8,
-      "definition": "if a part of your body seizes, you are unable to move it easily and it is often painful",
-      "labels": "(North American English)British and North American English",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/siːz/",
-        "audio": "se/seize/seize__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsiːzɪz/",
-        "audio": "se/seize/seizes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/siːzd/",
-        "audio": "se/seize/seized__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsiːzɪŋ/",
-        "audio": "se/seize/seizing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/siːz/",
-        "audio": "se/seize/seize__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsiːzɪz/",
-        "audio": "se/seize/seizes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/siːzd/",
-        "audio": "se/seize/seized__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsiːzɪŋ/",
-        "audio": "se/seize/seizing__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French seizir ‘give seisin (possession of land)’, from medieval Latin sacire, in the phrase ad proprium sacire ‘claim as one's own’, from a Germanic base meaning ‘procedure’."
+	"term": "seize",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "seize",
+			"heSheIt": "seizes"
+		},
+		"pastSimple": "seized",
+		"pastParticiple": "seized",
+		"ingForm": "seizing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to take somebody/something in your hand suddenly and using force",
+			"sensetop": "seize something from somebodyseize somebody/something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She tried to seize the gun from him.",
+					"contextForm": "seize something from somebody"
+				},
+				{
+					"text": "He seized her by the arm.",
+					"contextForm": "seize somebody/something"
+				},
+				{
+					"text": "She **seized hold of** my hand."
+				},
+				{
+					"text": "He seized the book from her hand."
+				},
+				{
+					"text": "The wrestlers try to seize hold of each other."
+				}
+			],
+			"collocations": {
+				"adverb": ["immediately", "suddenly"],
+				"preposition": ["by", "from"],
+				"phrases": ["seize hold of somebody/​something"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to take control of a place or situation, often suddenly and violently",
+			"sensetop": "seize something (from somebody)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "They seized the airport in a surprise attack."
+				},
+				{
+					"text": "The army has **seized control of** the country."
+				},
+				{
+					"text": "He **seized power** in a military coup."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to arrest or capture somebody",
+			"sensetop": "seize somebody",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The men were seized as they left the building."
+				},
+				{
+					"text": "Terrorists have seized five hostages."
+				},
+				{
+					"text": "He was immediately seized and thrown into prison."
+				},
+				{
+					"text": "A Briton has been seized by border guards and jailed for eight years."
+				}
+			],
+			"topics": ["Law and justice", "Crime and punishment"],
+			"collocations": {
+				"adverb": ["immediately", "suddenly"],
+				"preposition": ["by", "from"],
+				"phrases": ["seize hold of somebody/​something"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to take illegal or stolen goods away from somebody",
+			"sensetop": "seize something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "A large quantity of drugs was seized during the raid."
+				},
+				{
+					"text": "We have the legal right to seize his property."
+				}
+			],
+			"collocations": {
+				"adverb": ["immediately", "instantly", "quickly"],
+				"verb + seize": ["be quick to", "be ready to", "be determined to"],
+				"preposition": ["on", "upon"],
+				"phrases": [
+					"an attempt to seize something",
+					"the power to seize something",
+					"the right to seize something"
+				]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to be quick to make use of a chance, an opportunity, etc.",
+			"sensetop": "seize a chance, an opportunity, the initiative, etc.",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The party **seized** the initiative **with both hands** *(= quickly and with enthusiasm)*."
+				},
+				{
+					"text": "She promptly seized the opportunity his absence gave her."
+				}
+			],
+			"collocations": {
+				"adverb": ["immediately", "instantly", "quickly"],
+				"verb + seize": ["be quick to", "be ready to", "be determined to"],
+				"preposition": ["on", "upon"],
+				"phrases": [
+					"an attempt to seize something",
+					"the power to seize something",
+					"the right to seize something"
+				]
+			}
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to affect somebody suddenly and deeply",
+			"sensetop": "seize somebody",
+			"examples": [
+				{
+					"text": "Panic seized her."
+				},
+				{
+					"text": "He was seized by curiosity."
+				}
+			]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "if a machine seizes, it no longer works because the parts are stuck and cannot move",
+			"labels": "(North American English)British and North American English",
+			"examples": []
+		},
+		{
+			"senseNumber": 8,
+			"definition": "if a part of your body seizes, you are unable to move it easily and it is often painful",
+			"labels": "(North American English)British and North American English",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/siːz/",
+				"audio": "se/seize/seize__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsiːzɪz/",
+				"audio": "se/seize/seizes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/siːzd/",
+				"audio": "se/seize/seized__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsiːzɪŋ/",
+				"audio": "se/seize/seizing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/siːz/",
+				"audio": "se/seize/seize__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsiːzɪz/",
+				"audio": "se/seize/seizes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/siːzd/",
+				"audio": "se/seize/seized__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsiːzɪŋ/",
+				"audio": "se/seize/seizing__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French seizir ‘give seisin (possession of land)’, from medieval Latin sacire, in the phrase ad proprium sacire ‘claim as one's own’, from a Germanic base meaning ‘procedure’."
 }

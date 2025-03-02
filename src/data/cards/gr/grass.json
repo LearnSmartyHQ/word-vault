@@ -1,173 +1,173 @@
 {
-  "term": "grass",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "image": "data/images/bl/blades.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a common wild plant with narrow green leaves and stems that are eaten by cows, horses, sheep, etc.",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**a blade of grass**"
-        },
-        {
-          "text": "The dry grass caught fire."
-        },
-        {
-          "text": "I sowed a little bag of grass seed."
-        },
-        {
-          "text": "I've walked along that path for so many years I know every blade of grass."
-        },
-        {
-          "text": "The dog came running through the long grass."
-        },
-        {
-          "text": "There were only a few clumps of coarse grass for the animals to eat."
-        },
-        {
-          "text": "We parked on the grass verge by the side of the road."
-        }
-      ],
-      "topics": ["Plants and trees"],
-      "collocations": {
-        "adjective": ["green", "coarse", "rough"],
-        "… of grass": ["blade", "clump", "tuft"],
-        "verb + grass": ["eat", "cut", "mow"],
-        "grass + verb": ["grow"],
-        "grass + noun": ["clippings", "cuttings", "seed"],
-        "preposition": ["across the grass", "in the grass", "on the grass"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "any type of grass",
-      "examples": [
-        {
-          "text": "ornamental grasses"
-        }
-      ],
-      "collocations": {
-        "adjective": ["green", "coarse", "rough"],
-        "… of grass": ["blade", "clump", "tuft"],
-        "verb + grass": ["eat", "cut", "mow"],
-        "grass + verb": ["grow"],
-        "grass + noun": ["clippings", "cuttings", "seed"],
-        "preposition": ["across the grass", "in the grass", "on the grass"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "an area of ground covered with grass",
-      "sensetop": "on the grasson grass",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **cut/mow the grass**"
-        },
-        {
-          "text": "Don't walk on the grass.",
-          "contextForm": "on the grass"
-        },
-        {
-          "text": "**Keep off the grass.** *(= on a sign)*"
-        },
-        {
-          "text": "He plays better on grass *(= on a grass court, when playing tennis)*.",
-          "contextForm": "on grass"
-        },
-        {
-          "text": "You're not allowed to walk on the grass."
-        },
-        {
-          "text": "They all set off across the grass."
-        },
-        {
-          "text": "We all sat down on the grass."
-        }
-      ],
-      "topics": ["Gardens"],
-      "collocations": {
-        "adjective": ["green", "coarse", "rough"],
-        "… of grass": ["blade", "clump", "tuft"],
-        "verb + grass": ["eat", "cut", "mow"],
-        "grass + verb": ["grow"],
-        "grass + noun": ["clippings", "cuttings", "seed"],
-        "preposition": ["across the grass", "in the grass", "on the grass"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "marijuana",
-      "labels": "(informal)",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Social issues"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a person, usually a criminal, who tells the police about somebody’s criminal activities and plans",
-      "labels": "(British English, informal, usually disapproving)",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Crime and punishment"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "said about people who never seem happy with what they have and always think they could be happier in a different place or situation",
-      "labels": "(saying)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to reject something or treat it as not important; to stop dealing with a problem",
-      "labels": "(British English)",
-      "examples": [
-        {
-          "text": "He tends to deal with disputes by kicking them into the long grass."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to not delay in getting things done",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to force somebody to stop doing their job, especially because they are old",
-      "labels": "(informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "a person who pretends to be your friend but who cannot be trusted",
-      "labels": "(disapproving)",
-      "examples": [
-        {
-          "text": "I came to realize that he's just a snake in the grass."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɡrɑːs/",
-        "audio": "gr/grass/grass_1_gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɡræs/",
-        "audio": "gr/grass/grass__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English græs, of Germanic origin; related to Dutch gras, German Gras, also ultimately to green and grow."
+	"term": "grass",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"image": "data/images/bl/blades.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a common wild plant with narrow green leaves and stems that are eaten by cows, horses, sheep, etc.",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**a blade of grass**"
+				},
+				{
+					"text": "The dry grass caught fire."
+				},
+				{
+					"text": "I sowed a little bag of grass seed."
+				},
+				{
+					"text": "I've walked along that path for so many years I know every blade of grass."
+				},
+				{
+					"text": "The dog came running through the long grass."
+				},
+				{
+					"text": "There were only a few clumps of coarse grass for the animals to eat."
+				},
+				{
+					"text": "We parked on the grass verge by the side of the road."
+				}
+			],
+			"topics": ["Plants and trees"],
+			"collocations": {
+				"adjective": ["green", "coarse", "rough"],
+				"… of grass": ["blade", "clump", "tuft"],
+				"verb + grass": ["eat", "cut", "mow"],
+				"grass + verb": ["grow"],
+				"grass + noun": ["clippings", "cuttings", "seed"],
+				"preposition": ["across the grass", "in the grass", "on the grass"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "any type of grass",
+			"examples": [
+				{
+					"text": "ornamental grasses"
+				}
+			],
+			"collocations": {
+				"adjective": ["green", "coarse", "rough"],
+				"… of grass": ["blade", "clump", "tuft"],
+				"verb + grass": ["eat", "cut", "mow"],
+				"grass + verb": ["grow"],
+				"grass + noun": ["clippings", "cuttings", "seed"],
+				"preposition": ["across the grass", "in the grass", "on the grass"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "an area of ground covered with grass",
+			"sensetop": "on the grasson grass",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **cut/mow the grass**"
+				},
+				{
+					"text": "Don't walk on the grass.",
+					"contextForm": "on the grass"
+				},
+				{
+					"text": "**Keep off the grass.** *(= on a sign)*"
+				},
+				{
+					"text": "He plays better on grass *(= on a grass court, when playing tennis)*.",
+					"contextForm": "on grass"
+				},
+				{
+					"text": "You're not allowed to walk on the grass."
+				},
+				{
+					"text": "They all set off across the grass."
+				},
+				{
+					"text": "We all sat down on the grass."
+				}
+			],
+			"topics": ["Gardens"],
+			"collocations": {
+				"adjective": ["green", "coarse", "rough"],
+				"… of grass": ["blade", "clump", "tuft"],
+				"verb + grass": ["eat", "cut", "mow"],
+				"grass + verb": ["grow"],
+				"grass + noun": ["clippings", "cuttings", "seed"],
+				"preposition": ["across the grass", "in the grass", "on the grass"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "marijuana",
+			"labels": "(informal)",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Social issues"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a person, usually a criminal, who tells the police about somebody’s criminal activities and plans",
+			"labels": "(British English, informal, usually disapproving)",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Crime and punishment"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "said about people who never seem happy with what they have and always think they could be happier in a different place or situation",
+			"labels": "(saying)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to reject something or treat it as not important; to stop dealing with a problem",
+			"labels": "(British English)",
+			"examples": [
+				{
+					"text": "He tends to deal with disputes by kicking them into the long grass."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to not delay in getting things done",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to force somebody to stop doing their job, especially because they are old",
+			"labels": "(informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "a person who pretends to be your friend but who cannot be trusted",
+			"labels": "(disapproving)",
+			"examples": [
+				{
+					"text": "I came to realize that he's just a snake in the grass."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɡrɑːs/",
+				"audio": "gr/grass/grass_1_gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɡræs/",
+				"audio": "gr/grass/grass__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English græs, of Germanic origin; related to Dutch gras, German Gras, also ultimately to green and grow."
 }

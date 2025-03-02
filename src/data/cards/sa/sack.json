@@ -1,94 +1,94 @@
 {
-  "term": "sack",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "sack",
-      "heSheIt": "sacks"
-    },
-    "pastSimple": "sacked",
-    "pastParticiple": "sacked",
-    "ingForm": "sacking"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to dismiss somebody from a job",
-      "sensetop": "sack somebody",
-      "labels": "(especially British English, informal)(British English)(British English)(British English)(especially British English)(Australian English, New Zealand English, South African English)(British English)(both British English)(British English, informal)(British English, informal)(North American English)(North American English)(North American English)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "She was sacked for refusing to work on Sundays."
-        }
-      ],
-      "topics": ["Social issues", "Working life"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "(of an army, etc., especially in the past) to destroy things and steal property in a town or building",
-      "sensetop": "sack something",
-      "examples": [
-        {
-          "text": "Rome was sacked by the Goths in 410."
-        },
-        {
-          "text": "The army rebelled and sacked the palace."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to knock down the quarterback",
-      "sensetop": "sack somebody",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "The quarterback was sacked on the 45 yard line, and it was first down for the other team."
-        }
-      ],
-      "topics": ["Sports: ball and racket sports"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/sæk/",
-        "audio": "sa/sack/sack__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/sæks/",
-        "audio": "sa/sack/sacks__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/sækt/",
-        "audio": "sa/sack/sacked__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsækɪŋ/",
-        "audio": "sa/sack/sacking__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/sæk/",
-        "audio": "sa/sack/sack__us_1.mp3"
-      },
-      {
-        "pronunciation": "/sæks/",
-        "audio": "sa/sack/sacks__us_1.mp3"
-      },
-      {
-        "pronunciation": "/sækt/",
-        "audio": "sa/sack/sacked__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈsækɪŋ/",
-        "audio": "sa/sack/sacking__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "verb sense 1 and verb sense 3 Old English sacc, from Latin saccus ‘sack, sackcloth’, from Greek sakkos, of Semitic origin. Sense 1 of the verb dates from the mid 19th cent. verb sense 2 mid 16th cent.: from French sac, in the phrase mettre à sac ‘put to sack’, on the model of Italian fare il sacco, mettere a sacco, which perhaps originally referred to filling a sack with plunder."
+	"term": "sack",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "sack",
+			"heSheIt": "sacks"
+		},
+		"pastSimple": "sacked",
+		"pastParticiple": "sacked",
+		"ingForm": "sacking"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to dismiss somebody from a job",
+			"sensetop": "sack somebody",
+			"labels": "(especially British English, informal)(British English)(British English)(British English)(especially British English)(Australian English, New Zealand English, South African English)(British English)(both British English)(British English, informal)(British English, informal)(North American English)(North American English)(North American English)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "She was sacked for refusing to work on Sundays."
+				}
+			],
+			"topics": ["Social issues", "Working life"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "(of an army, etc., especially in the past) to destroy things and steal property in a town or building",
+			"sensetop": "sack something",
+			"examples": [
+				{
+					"text": "Rome was sacked by the Goths in 410."
+				},
+				{
+					"text": "The army rebelled and sacked the palace."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to knock down the quarterback",
+			"sensetop": "sack somebody",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "The quarterback was sacked on the 45 yard line, and it was first down for the other team."
+				}
+			],
+			"topics": ["Sports: ball and racket sports"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/sæk/",
+				"audio": "sa/sack/sack__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/sæks/",
+				"audio": "sa/sack/sacks__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/sækt/",
+				"audio": "sa/sack/sacked__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsækɪŋ/",
+				"audio": "sa/sack/sacking__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/sæk/",
+				"audio": "sa/sack/sack__us_1.mp3"
+			},
+			{
+				"pronunciation": "/sæks/",
+				"audio": "sa/sack/sacks__us_1.mp3"
+			},
+			{
+				"pronunciation": "/sækt/",
+				"audio": "sa/sack/sacked__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈsækɪŋ/",
+				"audio": "sa/sack/sacking__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "verb sense 1 and verb sense 3 Old English sacc, from Latin saccus ‘sack, sackcloth’, from Greek sakkos, of Semitic origin. Sense 1 of the verb dates from the mid 19th cent. verb sense 2 mid 16th cent.: from French sac, in the phrase mettre à sac ‘put to sack’, on the model of Italian fare il sacco, mettere a sacco, which perhaps originally referred to filling a sack with plunder."
 }

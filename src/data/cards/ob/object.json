@@ -1,142 +1,142 @@
 {
-  "term": "object",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a thing that can be seen and touched, but is not alive",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**everyday objects** such as cups and saucers"
-        },
-        {
-          "text": "**inanimate objects** *(= things that are not alive)*"
-        },
-        {
-          "text": "a **physical/material object** *(= that you can see and touch)*"
-        },
-        {
-          "text": "The scanner detected a metal object."
-        },
-        {
-          "text": "We now know that solid objects are largely made up of empty space."
-        },
-        {
-          "text": "art objects from the ancient world"
-        },
-        {
-          "text": "Furniture and other household objects were piled up outside the house."
-        },
-        {
-          "text": "This looks a very unusual object. What is it exactly?"
-        },
-        {
-          "text": "He looked down at the drumsticks as if turning to inanimate objects for emotional support."
-        },
-        {
-          "text": "The internet cannot replace the thrill of holding the physical object of a book in your hands."
-        },
-        {
-          "text": "Glass and plastic objects lined the shelves."
-        },
-        {
-          "text": "books, paintings, sculpture and other precious objects"
-        }
-      ],
-      "collocations": {
-        "adjective": ["inanimate", "solid", "three-dimensional"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person or thing that somebody desires, studies, pays attention to, etc.",
-      "sensetop": "object of desire, study, attention, etc.",
-      "examples": [
-        {
-          "text": "He felt he was nothing more to her than an object of desire."
-        },
-        {
-          "text": "Her objects of study are all paintings."
-        },
-        {
-          "text": "an object of affection/ridicule/worship"
-        },
-        {
-          "text": "The Rolls Royce was an object of desire, and I desired one."
-        },
-        {
-          "text": "Such a product aims to become an object of desire."
-        },
-        {
-          "text": "The strange creature became the object of much curiosity."
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "an aim or a purpose",
-      "sensetop": "with the object of doing something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Her sole object in life is to become a travel writer."
-        },
-        {
-          "text": "The object is to educate people about road safety."
-        },
-        {
-          "text": "The object of the game is to score points by combining cards."
-        },
-        {
-          "text": "If you're late, you'll defeat the whole **object of the exercise**."
-        },
-        {
-          "text": "He put together an army with the object of taking back the lost territory.",
-          "contextForm": "with the object of doing something"
-        }
-      ],
-      "collocations": {
-        "adjective": ["main", "primary", "principal"],
-        "object + noun": ["lesson"],
-        "phrases": ["the object of the exercise", "the object of the game"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "a noun, noun phrase or pronoun that refers to a person or thing that is affected by the action of the verb (called the direct object), or that the action is done to or for (called the indirect object)",
-      "labels": "(grammar)",
-      "cefr": "b1",
-      "examples": [],
-      "topics": ["Language"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "money is not something that needs to be considered, because there is plenty of it available",
-      "examples": [
-        {
-          "text": "She travels around the world as if money is no object."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈɒbdʒɪkt//ˈɒbdʒekt/",
-        "audio": "ob/object/object__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈɑːbdʒɪkt//ˈɑːbdʒekt/",
-        "audio": "ob/object/object__us_2_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from medieval Latin objectum ‘thing presented to the mind’, neuter past participle (used as a noun) of Latin obicere, from ob- ‘in the way of’ + jacere ‘to throw’; the verb may also partly represent the Latin frequentative objectare."
+	"term": "object",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a thing that can be seen and touched, but is not alive",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**everyday objects** such as cups and saucers"
+				},
+				{
+					"text": "**inanimate objects** *(= things that are not alive)*"
+				},
+				{
+					"text": "a **physical/material object** *(= that you can see and touch)*"
+				},
+				{
+					"text": "The scanner detected a metal object."
+				},
+				{
+					"text": "We now know that solid objects are largely made up of empty space."
+				},
+				{
+					"text": "art objects from the ancient world"
+				},
+				{
+					"text": "Furniture and other household objects were piled up outside the house."
+				},
+				{
+					"text": "This looks a very unusual object. What is it exactly?"
+				},
+				{
+					"text": "He looked down at the drumsticks as if turning to inanimate objects for emotional support."
+				},
+				{
+					"text": "The internet cannot replace the thrill of holding the physical object of a book in your hands."
+				},
+				{
+					"text": "Glass and plastic objects lined the shelves."
+				},
+				{
+					"text": "books, paintings, sculpture and other precious objects"
+				}
+			],
+			"collocations": {
+				"adjective": ["inanimate", "solid", "three-dimensional"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person or thing that somebody desires, studies, pays attention to, etc.",
+			"sensetop": "object of desire, study, attention, etc.",
+			"examples": [
+				{
+					"text": "He felt he was nothing more to her than an object of desire."
+				},
+				{
+					"text": "Her objects of study are all paintings."
+				},
+				{
+					"text": "an object of affection/ridicule/worship"
+				},
+				{
+					"text": "The Rolls Royce was an object of desire, and I desired one."
+				},
+				{
+					"text": "Such a product aims to become an object of desire."
+				},
+				{
+					"text": "The strange creature became the object of much curiosity."
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "an aim or a purpose",
+			"sensetop": "with the object of doing something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Her sole object in life is to become a travel writer."
+				},
+				{
+					"text": "The object is to educate people about road safety."
+				},
+				{
+					"text": "The object of the game is to score points by combining cards."
+				},
+				{
+					"text": "If you're late, you'll defeat the whole **object of the exercise**."
+				},
+				{
+					"text": "He put together an army with the object of taking back the lost territory.",
+					"contextForm": "with the object of doing something"
+				}
+			],
+			"collocations": {
+				"adjective": ["main", "primary", "principal"],
+				"object + noun": ["lesson"],
+				"phrases": ["the object of the exercise", "the object of the game"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "a noun, noun phrase or pronoun that refers to a person or thing that is affected by the action of the verb (called the direct object), or that the action is done to or for (called the indirect object)",
+			"labels": "(grammar)",
+			"cefr": "b1",
+			"examples": [],
+			"topics": ["Language"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "money is not something that needs to be considered, because there is plenty of it available",
+			"examples": [
+				{
+					"text": "She travels around the world as if money is no object."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈɒbdʒɪkt//ˈɒbdʒekt/",
+				"audio": "ob/object/object__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈɑːbdʒɪkt//ˈɑːbdʒekt/",
+				"audio": "ob/object/object__us_2_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from medieval Latin objectum ‘thing presented to the mind’, neuter past participle (used as a noun) of Latin obicere, from ob- ‘in the way of’ + jacere ‘to throw’; the verb may also partly represent the Latin frequentative objectare."
 }

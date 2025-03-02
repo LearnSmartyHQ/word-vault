@@ -1,476 +1,476 @@
 {
-  "term": "change",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "change",
-      "heSheIt": "changes"
-    },
-    "pastSimple": "changed",
-    "pastParticiple": "changed",
-    "ingForm": "changing"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to become different",
-      "sensetop": "change with something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Rick hasn't changed. He looks exactly the same as he did at school."
-        },
-        {
-          "text": "We examined changing attitudes towards education."
-        },
-        {
-          "text": "The company failed to adapt to **changing circumstances**."
-        },
-        {
-          "text": "Things have **changed dramatically** since then."
-        },
-        {
-          "text": "Her life changed completely when she won the lottery."
-        },
-        {
-          "text": "My attitude to life has changed with age.",
-          "contextForm": "change with something"
-        },
-        {
-          "text": "Social attitudes are changing fast."
-        },
-        {
-          "text": "Her voice changed subtly."
-        },
-        {
-          "text": "Jane has changed a lot since she went to college."
-        },
-        {
-          "text": "Our way of life has changed dramatically over the last ten years."
-        },
-        {
-          "text": "The language is changing all the time."
-        },
-        {
-          "text": "The place had changed out of all recognition."
-        },
-        {
-          "text": "The town has actually changed very little in the last hundred years."
-        }
-      ],
-      "topics": ["Change, cause and effect", "Weather"],
-      "collocations": {
-        "adverb": ["considerably", "dramatically", "drastically"],
-        "preposition": ["from", "into", "to"],
-        "phrases": ["change out of all recognition"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to make somebody/something different",
-      "sensetop": "change somebody/something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Fame hasn't really changed him."
-        },
-        {
-          "text": "That experience **changed my life**."
-        },
-        {
-          "text": "The internet has changed the way people work."
-        },
-        {
-          "text": "Technology has changed the way people work."
-        },
-        {
-          "text": "It can be hard to get people to change their habits."
-        },
-        {
-          "text": "Technology has forever changed the way businesses operate."
-        },
-        {
-          "text": "This incident changed the whole course of events."
-        }
-      ],
-      "topics": ["Change, cause and effect"],
-      "collocations": {
-        "adverb": ["considerably", "dramatically", "drastically"],
-        "preposition": ["from", "into", "to"],
-        "phrases": ["change out of all recognition"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to pass from one state or form into another; to make somebody/something pass from one state or form into another",
-      "sensetop": "change from A to/into Bchange to/into somethingchange A to/into Bchange somebody/something from A to/into B",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Wait for the traffic lights to change."
-        },
-        {
-          "text": "The lights changed from red to green.",
-          "contextForm": "change from A to/into B"
-        },
-        {
-          "text": "The lights changed to green.",
-          "contextForm": "change to/into something"
-        },
-        {
-          "text": "Caterpillars change into butterflies."
-        },
-        {
-          "text": "With a wave of her magic wand, she changed the frog into a handsome prince.",
-          "contextForm": "change A to/into B"
-        },
-        {
-          "text": "He managed to change the mood from tense to relaxed in minutes.",
-          "contextForm": "change somebody/something from A to/into B"
-        },
-        {
-          "text": "Caracas changed from a small town into a busy city."
-        },
-        {
-          "text": "His anger changed to sadness."
-        }
-      ],
-      "topics": ["Change, cause and effect"],
-      "collocations": {
-        "adverb": ["considerably", "dramatically", "drastically"],
-        "preposition": ["from", "into", "to"],
-        "phrases": ["change out of all recognition"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "to stop having one state, position or direction and start having another",
-      "sensetop": "change something",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Leaves change colour in autumn."
-        },
-        {
-          "text": "The wind has changed direction."
-        },
-        {
-          "text": "Our ship changed course."
-        },
-        {
-          "text": "The fruit changes colour as it ripens."
-        }
-      ],
-      "topics": ["Change, cause and effect"]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "to replace one thing, person, service, etc. with something new or different",
-      "sensetop": "change somebody/somethingchange A for Bchange A to B",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I want to change my doctor.",
-          "contextForm": "change somebody/something"
-        },
-        {
-          "text": "I didn't **change my name** when I got married."
-        },
-        {
-          "text": "That back tyre needs changing."
-        },
-        {
-          "text": "We change our car every two years."
-        },
-        {
-          "text": "The law was changed in 2001."
-        },
-        {
-          "text": "Don't change the subject!"
-        },
-        {
-          "text": "We changed the car for a bigger one.",
-          "contextForm": "change A for B"
-        },
-        {
-          "text": "She decided not to change her name to his.",
-          "contextForm": "change A to B"
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "to exchange positions, places, etc. with somebody else, so that you have what they have, and they have what you have",
-      "sensetop": "change somethingchange something with somebody",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "At half-time the teams change ends.",
-          "contextForm": "change something"
-        },
-        {
-          "text": "We asked the waiter if we could change tables."
-        },
-        {
-          "text": "Can I change seats with you?",
-          "contextForm": "change something with somebody"
-        }
-      ]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "to exchange money into the money of another country",
-      "sensetop": "change somethingchange A into B",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I need to change some euros.",
-          "contextForm": "change something"
-        },
-        {
-          "text": "to change dollars into yen",
-          "contextForm": "change A into B"
-        }
-      ],
-      "topics": ["Money"]
-    },
-    {
-      "senseNumber": 8,
-      "definition": "to exchange money for the same amount in different coins or notes",
-      "sensetop": "change somethingchange A for/into B",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Can you change a £20 note?",
-          "contextForm": "change something"
-        },
-        {
-          "text": "The storekeeper changed my dollar bill for four quarters.",
-          "contextForm": "change A for/into B"
-        }
-      ],
-      "topics": ["Money"]
-    },
-    {
-      "senseNumber": 9,
-      "definition": "to exchange something that you have bought for something else, especially because there is something wrong with it; to give a customer a new item because there is something wrong with the one they have bought",
-      "sensetop": "change A for Bchange something",
-      "labels": "(British English)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "This shirt I bought's too small—I'll have to change it for a bigger one.",
-          "contextForm": "change A for B"
-        },
-        {
-          "text": "Of course we'll change it for a larger size, Madam."
-        },
-        {
-          "text": "If you bring the dress back with the receipt, you can change it.",
-          "contextForm": "change something"
-        }
-      ]
-    },
-    {
-      "senseNumber": 10,
-      "definition": "to go from one bus, train, etc. to another in order to continue a journey",
-      "sensetop": "change something",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "Where do I have to change?"
-        },
-        {
-          "text": "Change at Reading (for London)."
-        },
-        {
-          "text": "I stopped in Moscow only to change planes.",
-          "contextForm": "change something"
-        }
-      ],
-      "topics": ["Transport by bus and train", "Transport by air"]
-    },
-    {
-      "senseNumber": 11,
-      "definition": "to put on different or clean clothes",
-      "sensetop": "change into somethingchange out of somethingchange something",
-      "labels": "(especially North American English)(especially British English)",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I went into the bedroom to change."
-        },
-        {
-          "text": "She changed into her swimsuit.",
-          "contextForm": "change into something"
-        },
-        {
-          "text": "You need to change out of those wet things.",
-          "contextForm": "change out of something"
-        },
-        {
-          "text": "I didn't have time to **change clothes** before the party."
-        },
-        {
-          "text": "I didn't have time to **get changed** before the party *(= to put different clothes on)*."
-        }
-      ]
-    },
-    {
-      "senseNumber": 12,
-      "definition": "to put clean clothes or a clean nappy on a baby",
-      "sensetop": "change somebody/something",
-      "examples": [
-        {
-          "text": "She can't even change a nappy."
-        },
-        {
-          "text": "The baby needs changing."
-        },
-        {
-          "text": "There are baby changing facilities in all our stores."
-        }
-      ]
-    },
-    {
-      "senseNumber": 13,
-      "definition": "to put clean sheets, etc. on a bed",
-      "sensetop": "change something",
-      "examples": [
-        {
-          "text": "to change the sheets"
-        },
-        {
-          "text": "Could you help me change the bed?"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to pass to a different owner",
-      "examples": [
-        {
-          "text": "The house has changed hands several times."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to change to a different or new activity while you are in the middle of something else; to change from supporting one person or thing to another",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "to change a decision or an opinion",
-      "examples": [
-        {
-          "text": "Nothing will make me change my mind."
-        },
-        {
-          "text": "What made you change your mind?"
-        }
-      ],
-      "topics": ["Preferences and decisions", "Opinion and argument"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be in somebody else’s situation",
-      "examples": [
-        {
-          "text": "I'm perfectly happy—I wouldn't change places with anyone."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to express a different opinion or behave in a different way when your situation changes",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Wait until it happens to him—he'll soon change his tune."
-        }
-      ],
-      "topics": ["Opinion and argument"]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to start to live or behave in a different way from before",
-      "examples": [
-        {
-          "text": "He was in trouble with the police as a teenager but now he’s completely changed his ways."
-        },
-        {
-          "text": "Your father is unlikely to change his ways now."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to keep changing your mind or what you are doing",
-      "labels": "(British English, informal)",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "people cannot change their character, especially if they have a bad character",
-      "labels": "(saying)",
-      "examples": [
-        {
-          "text": "You didn’t really expect her to be on time, did you? A leopard can’t change its spots."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/tʃeɪndʒ/",
-        "audio": "ch/change/change__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/ˈtʃeɪndʒɪz/",
-        "audio": "ch/change/changes__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/tʃeɪndʒd/",
-        "audio": "ch/change/changed__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/ˈtʃeɪndʒɪŋ/",
-        "audio": "ch/change/changing__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/tʃeɪndʒ/",
-        "audio": "ch/change/change__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtʃeɪndʒɪz/",
-        "audio": "ch/change/changes__us_1.mp3"
-      },
-      {
-        "pronunciation": "/tʃeɪndʒd/",
-        "audio": "ch/change/changed__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈtʃeɪndʒɪŋ/",
-        "audio": "ch/change/changing__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French change (noun), changer (verb), from late Latin cambiare, from Latin cambire ‘barter’, probably of Celtic origin."
+	"term": "change",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "change",
+			"heSheIt": "changes"
+		},
+		"pastSimple": "changed",
+		"pastParticiple": "changed",
+		"ingForm": "changing"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to become different",
+			"sensetop": "change with something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Rick hasn't changed. He looks exactly the same as he did at school."
+				},
+				{
+					"text": "We examined changing attitudes towards education."
+				},
+				{
+					"text": "The company failed to adapt to **changing circumstances**."
+				},
+				{
+					"text": "Things have **changed dramatically** since then."
+				},
+				{
+					"text": "Her life changed completely when she won the lottery."
+				},
+				{
+					"text": "My attitude to life has changed with age.",
+					"contextForm": "change with something"
+				},
+				{
+					"text": "Social attitudes are changing fast."
+				},
+				{
+					"text": "Her voice changed subtly."
+				},
+				{
+					"text": "Jane has changed a lot since she went to college."
+				},
+				{
+					"text": "Our way of life has changed dramatically over the last ten years."
+				},
+				{
+					"text": "The language is changing all the time."
+				},
+				{
+					"text": "The place had changed out of all recognition."
+				},
+				{
+					"text": "The town has actually changed very little in the last hundred years."
+				}
+			],
+			"topics": ["Change, cause and effect", "Weather"],
+			"collocations": {
+				"adverb": ["considerably", "dramatically", "drastically"],
+				"preposition": ["from", "into", "to"],
+				"phrases": ["change out of all recognition"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to make somebody/something different",
+			"sensetop": "change somebody/something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Fame hasn't really changed him."
+				},
+				{
+					"text": "That experience **changed my life**."
+				},
+				{
+					"text": "The internet has changed the way people work."
+				},
+				{
+					"text": "Technology has changed the way people work."
+				},
+				{
+					"text": "It can be hard to get people to change their habits."
+				},
+				{
+					"text": "Technology has forever changed the way businesses operate."
+				},
+				{
+					"text": "This incident changed the whole course of events."
+				}
+			],
+			"topics": ["Change, cause and effect"],
+			"collocations": {
+				"adverb": ["considerably", "dramatically", "drastically"],
+				"preposition": ["from", "into", "to"],
+				"phrases": ["change out of all recognition"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to pass from one state or form into another; to make somebody/something pass from one state or form into another",
+			"sensetop": "change from A to/into Bchange to/into somethingchange A to/into Bchange somebody/something from A to/into B",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Wait for the traffic lights to change."
+				},
+				{
+					"text": "The lights changed from red to green.",
+					"contextForm": "change from A to/into B"
+				},
+				{
+					"text": "The lights changed to green.",
+					"contextForm": "change to/into something"
+				},
+				{
+					"text": "Caterpillars change into butterflies."
+				},
+				{
+					"text": "With a wave of her magic wand, she changed the frog into a handsome prince.",
+					"contextForm": "change A to/into B"
+				},
+				{
+					"text": "He managed to change the mood from tense to relaxed in minutes.",
+					"contextForm": "change somebody/something from A to/into B"
+				},
+				{
+					"text": "Caracas changed from a small town into a busy city."
+				},
+				{
+					"text": "His anger changed to sadness."
+				}
+			],
+			"topics": ["Change, cause and effect"],
+			"collocations": {
+				"adverb": ["considerably", "dramatically", "drastically"],
+				"preposition": ["from", "into", "to"],
+				"phrases": ["change out of all recognition"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "to stop having one state, position or direction and start having another",
+			"sensetop": "change something",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Leaves change colour in autumn."
+				},
+				{
+					"text": "The wind has changed direction."
+				},
+				{
+					"text": "Our ship changed course."
+				},
+				{
+					"text": "The fruit changes colour as it ripens."
+				}
+			],
+			"topics": ["Change, cause and effect"]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "to replace one thing, person, service, etc. with something new or different",
+			"sensetop": "change somebody/somethingchange A for Bchange A to B",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I want to change my doctor.",
+					"contextForm": "change somebody/something"
+				},
+				{
+					"text": "I didn't **change my name** when I got married."
+				},
+				{
+					"text": "That back tyre needs changing."
+				},
+				{
+					"text": "We change our car every two years."
+				},
+				{
+					"text": "The law was changed in 2001."
+				},
+				{
+					"text": "Don't change the subject!"
+				},
+				{
+					"text": "We changed the car for a bigger one.",
+					"contextForm": "change A for B"
+				},
+				{
+					"text": "She decided not to change her name to his.",
+					"contextForm": "change A to B"
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "to exchange positions, places, etc. with somebody else, so that you have what they have, and they have what you have",
+			"sensetop": "change somethingchange something with somebody",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "At half-time the teams change ends.",
+					"contextForm": "change something"
+				},
+				{
+					"text": "We asked the waiter if we could change tables."
+				},
+				{
+					"text": "Can I change seats with you?",
+					"contextForm": "change something with somebody"
+				}
+			]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "to exchange money into the money of another country",
+			"sensetop": "change somethingchange A into B",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I need to change some euros.",
+					"contextForm": "change something"
+				},
+				{
+					"text": "to change dollars into yen",
+					"contextForm": "change A into B"
+				}
+			],
+			"topics": ["Money"]
+		},
+		{
+			"senseNumber": 8,
+			"definition": "to exchange money for the same amount in different coins or notes",
+			"sensetop": "change somethingchange A for/into B",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Can you change a £20 note?",
+					"contextForm": "change something"
+				},
+				{
+					"text": "The storekeeper changed my dollar bill for four quarters.",
+					"contextForm": "change A for/into B"
+				}
+			],
+			"topics": ["Money"]
+		},
+		{
+			"senseNumber": 9,
+			"definition": "to exchange something that you have bought for something else, especially because there is something wrong with it; to give a customer a new item because there is something wrong with the one they have bought",
+			"sensetop": "change A for Bchange something",
+			"labels": "(British English)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "This shirt I bought's too small—I'll have to change it for a bigger one.",
+					"contextForm": "change A for B"
+				},
+				{
+					"text": "Of course we'll change it for a larger size, Madam."
+				},
+				{
+					"text": "If you bring the dress back with the receipt, you can change it.",
+					"contextForm": "change something"
+				}
+			]
+		},
+		{
+			"senseNumber": 10,
+			"definition": "to go from one bus, train, etc. to another in order to continue a journey",
+			"sensetop": "change something",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "Where do I have to change?"
+				},
+				{
+					"text": "Change at Reading (for London)."
+				},
+				{
+					"text": "I stopped in Moscow only to change planes.",
+					"contextForm": "change something"
+				}
+			],
+			"topics": ["Transport by bus and train", "Transport by air"]
+		},
+		{
+			"senseNumber": 11,
+			"definition": "to put on different or clean clothes",
+			"sensetop": "change into somethingchange out of somethingchange something",
+			"labels": "(especially North American English)(especially British English)",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I went into the bedroom to change."
+				},
+				{
+					"text": "She changed into her swimsuit.",
+					"contextForm": "change into something"
+				},
+				{
+					"text": "You need to change out of those wet things.",
+					"contextForm": "change out of something"
+				},
+				{
+					"text": "I didn't have time to **change clothes** before the party."
+				},
+				{
+					"text": "I didn't have time to **get changed** before the party *(= to put different clothes on)*."
+				}
+			]
+		},
+		{
+			"senseNumber": 12,
+			"definition": "to put clean clothes or a clean nappy on a baby",
+			"sensetop": "change somebody/something",
+			"examples": [
+				{
+					"text": "She can't even change a nappy."
+				},
+				{
+					"text": "The baby needs changing."
+				},
+				{
+					"text": "There are baby changing facilities in all our stores."
+				}
+			]
+		},
+		{
+			"senseNumber": 13,
+			"definition": "to put clean sheets, etc. on a bed",
+			"sensetop": "change something",
+			"examples": [
+				{
+					"text": "to change the sheets"
+				},
+				{
+					"text": "Could you help me change the bed?"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to pass to a different owner",
+			"examples": [
+				{
+					"text": "The house has changed hands several times."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to change to a different or new activity while you are in the middle of something else; to change from supporting one person or thing to another",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "to change a decision or an opinion",
+			"examples": [
+				{
+					"text": "Nothing will make me change my mind."
+				},
+				{
+					"text": "What made you change your mind?"
+				}
+			],
+			"topics": ["Preferences and decisions", "Opinion and argument"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be in somebody else’s situation",
+			"examples": [
+				{
+					"text": "I'm perfectly happy—I wouldn't change places with anyone."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to express a different opinion or behave in a different way when your situation changes",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Wait until it happens to him—he'll soon change his tune."
+				}
+			],
+			"topics": ["Opinion and argument"]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to start to live or behave in a different way from before",
+			"examples": [
+				{
+					"text": "He was in trouble with the police as a teenager but now he’s completely changed his ways."
+				},
+				{
+					"text": "Your father is unlikely to change his ways now."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to keep changing your mind or what you are doing",
+			"labels": "(British English, informal)",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "people cannot change their character, especially if they have a bad character",
+			"labels": "(saying)",
+			"examples": [
+				{
+					"text": "You didn’t really expect her to be on time, did you? A leopard can’t change its spots."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/tʃeɪndʒ/",
+				"audio": "ch/change/change__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/ˈtʃeɪndʒɪz/",
+				"audio": "ch/change/changes__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/tʃeɪndʒd/",
+				"audio": "ch/change/changed__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/ˈtʃeɪndʒɪŋ/",
+				"audio": "ch/change/changing__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/tʃeɪndʒ/",
+				"audio": "ch/change/change__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtʃeɪndʒɪz/",
+				"audio": "ch/change/changes__us_1.mp3"
+			},
+			{
+				"pronunciation": "/tʃeɪndʒd/",
+				"audio": "ch/change/changed__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈtʃeɪndʒɪŋ/",
+				"audio": "ch/change/changing__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French change (noun), changer (verb), from late Latin cambiare, from Latin cambire ‘barter’, probably of Celtic origin."
 }

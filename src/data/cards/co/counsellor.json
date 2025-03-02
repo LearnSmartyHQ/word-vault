@@ -1,66 +1,66 @@
 {
-  "term": "counsellor",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person who has been trained to advise people with problems, especially personal problems",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "I went to see a debt counsellor and she agreed to come to the bank with me."
-        },
-        {
-          "text": "He talked to a counsellor about his marriage difficulties."
-        },
-        {
-          "text": "Have you thought of talking to a marriage guidance counsellor?"
-        },
-        {
-          "text": "She turned to a professional counsellor for help."
-        },
-        {
-          "text": "The centre is staffed by specially trained counsellors."
-        }
-      ],
-      "topics": ["Suggestions and advice", "Jobs"],
-      "collocations": {
-        "adjective": ["accredited", "certified", "professional"],
-        "verb + counsellor": ["see", "talk to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a lawyer",
-      "labels": "(North American English, Irish English)",
-      "examples": []
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a person who is in charge of young people at a summer camp",
-      "labels": "(North American English)",
-      "examples": [],
-      "collocations": {
-        "adjective": ["accredited", "certified", "professional"],
-        "verb + counsellor": ["see", "talk to"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkaʊnsələ(r)/",
-        "audio": "co/counsellor/counsellor__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkaʊnsələr/",
-        "audio": "co/counsellor/counsellor__us_2_rr.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in the general sense ‘adviser’): from Old French conseiller, from Latin consiliarius, and Old French conseillour, from Latin consiliator, both from consilium ‘consultation or advice’."
+	"term": "counsellor",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person who has been trained to advise people with problems, especially personal problems",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "I went to see a debt counsellor and she agreed to come to the bank with me."
+				},
+				{
+					"text": "He talked to a counsellor about his marriage difficulties."
+				},
+				{
+					"text": "Have you thought of talking to a marriage guidance counsellor?"
+				},
+				{
+					"text": "She turned to a professional counsellor for help."
+				},
+				{
+					"text": "The centre is staffed by specially trained counsellors."
+				}
+			],
+			"topics": ["Suggestions and advice", "Jobs"],
+			"collocations": {
+				"adjective": ["accredited", "certified", "professional"],
+				"verb + counsellor": ["see", "talk to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a lawyer",
+			"labels": "(North American English, Irish English)",
+			"examples": []
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a person who is in charge of young people at a summer camp",
+			"labels": "(North American English)",
+			"examples": [],
+			"collocations": {
+				"adjective": ["accredited", "certified", "professional"],
+				"verb + counsellor": ["see", "talk to"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkaʊnsələ(r)/",
+				"audio": "co/counsellor/counsellor__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkaʊnsələr/",
+				"audio": "co/counsellor/counsellor__us_2_rr.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in the general sense ‘adviser’): from Old French conseiller, from Latin consiliarius, and Old French conseillour, from Latin consiliator, both from consilium ‘consultation or advice’."
 }

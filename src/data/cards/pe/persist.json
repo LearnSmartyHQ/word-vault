@@ -1,136 +1,136 @@
 {
-  "term": "persist",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "persist",
-      "heSheIt": "persists"
-    },
-    "pastSimple": "persisted",
-    "pastParticiple": "persisted",
-    "ingForm": "persisting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to continue to do something despite difficulties or opposition, in a way that can seem unreasonable",
-      "sensetop": "persist in doing somethingpersist in somethingpersist with something+ speech",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Why do you persist in blaming yourself for what happened?",
-          "contextForm": "persist in doing something"
-        },
-        {
-          "text": "She persisted in her search for the truth.",
-          "contextForm": "persist in something"
-        },
-        {
-          "text": "He persisted with his questioning.",
-          "contextForm": "persist with something"
-        },
-        {
-          "text": "‘So, did you agree or not?’ he persisted.",
-          "contextForm": "+ speech"
-        },
-        {
-          "text": "If you persist in upsetting her, I will have to punish you."
-        },
-        {
-          "text": "The detective stubbornly persisted with his questions."
-        }
-      ],
-      "collocations": {
-        "adverb": ["doggedly", "stubbornly"],
-        "preposition": ["in", "with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to continue to exist",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The belief that the earth was flat persisted for many centuries."
-        },
-        {
-          "text": "If the symptoms persist, consult your doctor."
-        },
-        {
-          "text": "If symptoms persist for more than a few days, see a doctor."
-        },
-        {
-          "text": "The condition almost always persists beyond childhood."
-        },
-        {
-          "text": "The depression persisted through much of the 1930s."
-        },
-        {
-          "text": "The snows persisted until the second month of the new year."
-        },
-        {
-          "text": "The trade network persisted in spite of the political chaos."
-        },
-        {
-          "text": "These practices persisted into the Middle Ages."
-        },
-        {
-          "text": "This situation cannot be allowed to persist."
-        },
-        {
-          "text": "a belief that persists to this day"
-        },
-        {
-          "text": "the problems that persisted during the three-day conference"
-        }
-      ],
-      "collocations": {
-        "adverb": ["still", "to this day", "indefinitely"],
-        "verb + persist": ["be likely to", "tend to", "be allowed to"],
-        "preposition": ["beyond", "despite", "in spite of"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/pəˈsɪst/",
-        "audio": "pe/persist/persist__gb_2.mp3"
-      },
-      {
-        "pronunciation": "/pəˈsɪsts/",
-        "audio": "pe/persist/persists__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/pəˈsɪstɪd/",
-        "audio": "pe/persist/persisted__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/pəˈsɪstɪŋ/",
-        "audio": "pe/persist/persisting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/pərˈsɪst/",
-        "audio": "pe/persist/persist__us_1.mp3"
-      },
-      {
-        "pronunciation": "/pərˈsɪsts/",
-        "audio": "pe/persist/persists__us_1.mp3"
-      },
-      {
-        "pronunciation": "/pərˈsɪstɪd/",
-        "audio": "pe/persist/persisted__us_1.mp3"
-      },
-      {
-        "pronunciation": "/pərˈsɪstɪŋ/",
-        "audio": "pe/persist/persisting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 16th cent.: from Latin persistere, from per- ‘through, steadfastly’ + sistere ‘to stand’."
+	"term": "persist",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "persist",
+			"heSheIt": "persists"
+		},
+		"pastSimple": "persisted",
+		"pastParticiple": "persisted",
+		"ingForm": "persisting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to continue to do something despite difficulties or opposition, in a way that can seem unreasonable",
+			"sensetop": "persist in doing somethingpersist in somethingpersist with something+ speech",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Why do you persist in blaming yourself for what happened?",
+					"contextForm": "persist in doing something"
+				},
+				{
+					"text": "She persisted in her search for the truth.",
+					"contextForm": "persist in something"
+				},
+				{
+					"text": "He persisted with his questioning.",
+					"contextForm": "persist with something"
+				},
+				{
+					"text": "‘So, did you agree or not?’ he persisted.",
+					"contextForm": "+ speech"
+				},
+				{
+					"text": "If you persist in upsetting her, I will have to punish you."
+				},
+				{
+					"text": "The detective stubbornly persisted with his questions."
+				}
+			],
+			"collocations": {
+				"adverb": ["doggedly", "stubbornly"],
+				"preposition": ["in", "with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to continue to exist",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The belief that the earth was flat persisted for many centuries."
+				},
+				{
+					"text": "If the symptoms persist, consult your doctor."
+				},
+				{
+					"text": "If symptoms persist for more than a few days, see a doctor."
+				},
+				{
+					"text": "The condition almost always persists beyond childhood."
+				},
+				{
+					"text": "The depression persisted through much of the 1930s."
+				},
+				{
+					"text": "The snows persisted until the second month of the new year."
+				},
+				{
+					"text": "The trade network persisted in spite of the political chaos."
+				},
+				{
+					"text": "These practices persisted into the Middle Ages."
+				},
+				{
+					"text": "This situation cannot be allowed to persist."
+				},
+				{
+					"text": "a belief that persists to this day"
+				},
+				{
+					"text": "the problems that persisted during the three-day conference"
+				}
+			],
+			"collocations": {
+				"adverb": ["still", "to this day", "indefinitely"],
+				"verb + persist": ["be likely to", "tend to", "be allowed to"],
+				"preposition": ["beyond", "despite", "in spite of"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/pəˈsɪst/",
+				"audio": "pe/persist/persist__gb_2.mp3"
+			},
+			{
+				"pronunciation": "/pəˈsɪsts/",
+				"audio": "pe/persist/persists__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/pəˈsɪstɪd/",
+				"audio": "pe/persist/persisted__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/pəˈsɪstɪŋ/",
+				"audio": "pe/persist/persisting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/pərˈsɪst/",
+				"audio": "pe/persist/persist__us_1.mp3"
+			},
+			{
+				"pronunciation": "/pərˈsɪsts/",
+				"audio": "pe/persist/persists__us_1.mp3"
+			},
+			{
+				"pronunciation": "/pərˈsɪstɪd/",
+				"audio": "pe/persist/persisted__us_1.mp3"
+			},
+			{
+				"pronunciation": "/pərˈsɪstɪŋ/",
+				"audio": "pe/persist/persisting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 16th cent.: from Latin persistere, from per- ‘through, steadfastly’ + sistere ‘to stand’."
 }

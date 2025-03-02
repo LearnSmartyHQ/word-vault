@@ -1,85 +1,85 @@
 {
-  "term": "poisonous",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "causing death or illness if swallowed or taken into the body",
-      "sensetop": "poisonous to somebody/something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "poisonous chemicals/fumes/plants"
-        },
-        {
-          "text": "a poisonous substance"
-        },
-        {
-          "text": "This gas is highly poisonous."
-        },
-        {
-          "text": "The leaves of certain trees are poisonous to cattle.",
-          "contextForm": "poisonous to somebody/something"
-        }
-      ],
-      "synonyms": "toxic",
-      "topics": ["The environment"],
-      "collocations": {
-        "verbs": ["be", "become"],
-        "adverb": ["deadly", "extremely", "highly"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "producing a poison that can cause death or illness if the animal or insect bites you",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "poisonous snakes"
-        },
-        {
-          "text": "a tiny spider with a poisonous bite"
-        }
-      ],
-      "synonyms": "venomous",
-      "topics": ["Animals", "Insects, worms, etc."],
-      "collocations": {
-        "verbs": ["be", "become"],
-        "adverb": ["deadly", "extremely", "highly"],
-        "preposition": ["to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "extremely unpleasant or unfriendly",
-      "examples": [
-        {
-          "text": "a poisonous person"
-        },
-        {
-          "text": "the poisonous atmosphere in the office"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈpɔɪzənəs/",
-        "audio": "po/poisonous/poisonous__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈpɔɪzənəs/",
-        "audio": "po/poisonous/poisonous__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "poisonous",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "causing death or illness if swallowed or taken into the body",
+			"sensetop": "poisonous to somebody/something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "poisonous chemicals/fumes/plants"
+				},
+				{
+					"text": "a poisonous substance"
+				},
+				{
+					"text": "This gas is highly poisonous."
+				},
+				{
+					"text": "The leaves of certain trees are poisonous to cattle.",
+					"contextForm": "poisonous to somebody/something"
+				}
+			],
+			"synonyms": "toxic",
+			"topics": ["The environment"],
+			"collocations": {
+				"verbs": ["be", "become"],
+				"adverb": ["deadly", "extremely", "highly"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "producing a poison that can cause death or illness if the animal or insect bites you",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "poisonous snakes"
+				},
+				{
+					"text": "a tiny spider with a poisonous bite"
+				}
+			],
+			"synonyms": "venomous",
+			"topics": ["Animals", "Insects, worms, etc."],
+			"collocations": {
+				"verbs": ["be", "become"],
+				"adverb": ["deadly", "extremely", "highly"],
+				"preposition": ["to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "extremely unpleasant or unfriendly",
+			"examples": [
+				{
+					"text": "a poisonous person"
+				},
+				{
+					"text": "the poisonous atmosphere in the office"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈpɔɪzənəs/",
+				"audio": "po/poisonous/poisonous__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈpɔɪzənəs/",
+				"audio": "po/poisonous/poisonous__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

@@ -1,124 +1,124 @@
 {
-  "term": "salad",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "image": "data/images/ve/vegetables_salad.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a mixture of raw vegetables such as lettuce, tomato and cucumber, usually served with other food as part of a meal",
-      "labels": "(British English)(North American English)(British English)(North American English)(especially North American English)(British English)(British English)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "All main courses come with salad or vegetables."
-        },
-        {
-          "text": "Is cold meat and salad OK for lunch?"
-        },
-        {
-          "text": "a **side salad** *(= a small bowl of salad served with the main course of a meal)*"
-        },
-        {
-          "text": "a **salad bowl** *(= a large bowl for serving salad in)*"
-        },
-        {
-          "text": "a salad sandwich"
-        },
-        {
-          "text": "Toss the salad with the dressing."
-        },
-        {
-          "text": "She tossed and dressed the salad."
-        },
-        {
-          "text": "The sandwiches came with a rather limp salad garnish."
-        }
-      ],
-      "topics": ["Food"],
-      "collocations": {
-        "adjective": ["fresh", "crisp", "crunchy"],
-        "verb + salad": ["eat", "make", "prepare"],
-        "salad + noun": ["greens", "leaves", "cream"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "meat, fish, cheese, etc. served with salad",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a chicken/tuna/seafood/egg salad"
-        }
-      ],
-      "collocations": {
-        "adjective": ["fresh", "crisp", "crunchy"],
-        "verb + salad": ["eat", "make", "prepare"],
-        "salad + noun": ["greens", "leaves", "cream"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "raw or cooked vegetables, etc. that are cut into small pieces, often mixed with mayonnaise and served cold with other food",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "potato salad"
-        },
-        {
-          "text": "a pasta salad"
-        }
-      ],
-      "collocations": {
-        "adjective": ["fresh", "crisp", "crunchy"],
-        "verb + salad": ["eat", "make", "prepare"],
-        "salad + noun": ["greens", "leaves", "cream"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "any green vegetable, especially lettuce, that is eaten raw in a salad",
-      "examples": [
-        {
-          "text": "salad plants/leaves"
-        },
-        {
-          "text": "baby octopus served with salad greens"
-        },
-        {
-          "text": "Sow salads like lettuce, rocket and spring onions."
-        }
-      ],
-      "collocations": {
-        "adjective": ["fresh", "crisp", "crunchy"],
-        "verb + salad": ["eat", "make", "prepare"],
-        "salad + noun": ["greens", "leaves", "cream"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "the time when you are young and do not have much experience of life",
-      "labels": "(old-fashioned)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈsæləd/",
-        "audio": "sa/salad/salad__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈsæləd/",
-        "audio": "sa/salad/salad__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Old French salade, from Provençal salada, based on Latin sal ‘salt’."
+	"term": "salad",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"image": "data/images/ve/vegetables_salad.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a mixture of raw vegetables such as lettuce, tomato and cucumber, usually served with other food as part of a meal",
+			"labels": "(British English)(North American English)(British English)(North American English)(especially North American English)(British English)(British English)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "All main courses come with salad or vegetables."
+				},
+				{
+					"text": "Is cold meat and salad OK for lunch?"
+				},
+				{
+					"text": "a **side salad** *(= a small bowl of salad served with the main course of a meal)*"
+				},
+				{
+					"text": "a **salad bowl** *(= a large bowl for serving salad in)*"
+				},
+				{
+					"text": "a salad sandwich"
+				},
+				{
+					"text": "Toss the salad with the dressing."
+				},
+				{
+					"text": "She tossed and dressed the salad."
+				},
+				{
+					"text": "The sandwiches came with a rather limp salad garnish."
+				}
+			],
+			"topics": ["Food"],
+			"collocations": {
+				"adjective": ["fresh", "crisp", "crunchy"],
+				"verb + salad": ["eat", "make", "prepare"],
+				"salad + noun": ["greens", "leaves", "cream"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "meat, fish, cheese, etc. served with salad",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a chicken/tuna/seafood/egg salad"
+				}
+			],
+			"collocations": {
+				"adjective": ["fresh", "crisp", "crunchy"],
+				"verb + salad": ["eat", "make", "prepare"],
+				"salad + noun": ["greens", "leaves", "cream"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "raw or cooked vegetables, etc. that are cut into small pieces, often mixed with mayonnaise and served cold with other food",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "potato salad"
+				},
+				{
+					"text": "a pasta salad"
+				}
+			],
+			"collocations": {
+				"adjective": ["fresh", "crisp", "crunchy"],
+				"verb + salad": ["eat", "make", "prepare"],
+				"salad + noun": ["greens", "leaves", "cream"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "any green vegetable, especially lettuce, that is eaten raw in a salad",
+			"examples": [
+				{
+					"text": "salad plants/leaves"
+				},
+				{
+					"text": "baby octopus served with salad greens"
+				},
+				{
+					"text": "Sow salads like lettuce, rocket and spring onions."
+				}
+			],
+			"collocations": {
+				"adjective": ["fresh", "crisp", "crunchy"],
+				"verb + salad": ["eat", "make", "prepare"],
+				"salad + noun": ["greens", "leaves", "cream"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "the time when you are young and do not have much experience of life",
+			"labels": "(old-fashioned)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈsæləd/",
+				"audio": "sa/salad/salad__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈsæləd/",
+				"audio": "sa/salad/salad__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Old French salade, from Provençal salada, based on Latin sal ‘salt’."
 }

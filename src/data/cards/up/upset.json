@@ -1,78 +1,78 @@
 {
-  "term": "upset",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "unhappy or disappointed because of something unpleasant that has happened",
-      "sensetop": "upset about/at/over somethingupset about/at/over doing somethingupset (that)…upset with somebody",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I understand how upset you must be feeling."
-        },
-        {
-          "text": "There's no point **getting upset** about it.",
-          "contextForm": "upset about/at/over something"
-        },
-        {
-          "text": "He was **really upset** over not getting the present he wanted from Father Christmas.",
-          "contextForm": "upset about/at/over doing something"
-        },
-        {
-          "text": "I was upset at missing all the excitement."
-        },
-        {
-          "text": "She was upset that he had left without saying goodbye.",
-          "contextForm": "upset (that)…"
-        },
-        {
-          "text": "I think she may be a bit upset with you.",
-          "contextForm": "upset with somebody"
-        },
-        {
-          "text": "She was still upset about her divorce."
-        },
-        {
-          "text": "The incident had left him visibly angry and upset."
-        }
-      ],
-      "topics": ["Feelings"],
-      "collocations": {
-        "verbs": ["appear", "be", "feel"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["about", "at", "with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "an illness in the stomach that makes you feel sick (= want to vomit) or have diarrhoea",
-      "sensetop": "an upset stomach",
-      "cefr": "b1",
-      "examples": [
-        {
-          "text": "I've been off work with an upset stomach."
-        }
-      ],
-      "topics": ["Health problems"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌʌpˈset/",
-        "audio": "up/upset/upset__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌʌpˈset/",
-        "audio": "up/upset/upset__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "upset",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "unhappy or disappointed because of something unpleasant that has happened",
+			"sensetop": "upset about/at/over somethingupset about/at/over doing somethingupset (that)…upset with somebody",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I understand how upset you must be feeling."
+				},
+				{
+					"text": "There's no point **getting upset** about it.",
+					"contextForm": "upset about/at/over something"
+				},
+				{
+					"text": "He was **really upset** over not getting the present he wanted from Father Christmas.",
+					"contextForm": "upset about/at/over doing something"
+				},
+				{
+					"text": "I was upset at missing all the excitement."
+				},
+				{
+					"text": "She was upset that he had left without saying goodbye.",
+					"contextForm": "upset (that)…"
+				},
+				{
+					"text": "I think she may be a bit upset with you.",
+					"contextForm": "upset with somebody"
+				},
+				{
+					"text": "She was still upset about her divorce."
+				},
+				{
+					"text": "The incident had left him visibly angry and upset."
+				}
+			],
+			"topics": ["Feelings"],
+			"collocations": {
+				"verbs": ["appear", "be", "feel"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["about", "at", "with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "an illness in the stomach that makes you feel sick (= want to vomit) or have diarrhoea",
+			"sensetop": "an upset stomach",
+			"cefr": "b1",
+			"examples": [
+				{
+					"text": "I've been off work with an upset stomach."
+				}
+			],
+			"topics": ["Health problems"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌʌpˈset/",
+				"audio": "up/upset/upset__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌʌpˈset/",
+				"audio": "up/upset/upset__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

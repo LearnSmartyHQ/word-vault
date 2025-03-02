@@ -1,92 +1,92 @@
 {
-  "term": "contributor",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person who writes articles for a magazine, book or website, or who talks on a radio or television programme or at a meeting",
-      "sensetop": "contributor (to something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a regular contributor to this magazine"
-        },
-        {
-          "text": "I am a contributor to several blogs."
-        },
-        {
-          "text": "She was a long-time contributor to Time Magazine."
-        },
-        {
-          "text": "The core of regular contributors is essential to the magazine."
-        },
-        {
-          "text": "She continues to be a regular contributor to the journal."
-        }
-      ],
-      "topics": ["TV, radio and news"],
-      "collocations": {
-        "adjective": ["important", "key", "significant"],
-        "preposition": ["contributor to"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person or thing that provides money or goods to help pay for or support something",
-      "sensetop": "contributor (to something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Older people are important contributors to the economy."
-        },
-        {
-          "text": "the largest net contributor to EU funds"
-        },
-        {
-          "text": "Politicians are often suspected of trying to appease campaign contributors from the oil industry."
-        },
-        {
-          "text": "net contributors to the economy"
-        }
-      ],
-      "collocations": {
-        "adjective": ["important", "key", "significant"],
-        "preposition": ["contributor to"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "something that helps to cause something",
-      "sensetop": "contributor (to something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Sulphur dioxide is a pollutant and a major contributor to acid rain."
-        }
-      ],
-      "topics": ["Change, cause and effect"],
-      "collocations": {
-        "adjective": ["important", "key", "significant"],
-        "preposition": ["contributor to"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kənˈtrɪbjətə(r)/",
-        "audio": "xc/contributor/xcontributor__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kənˈtrɪbjətər/",
-        "audio": "xc/contributor/xcontributor__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from Anglo-Norman French contributour, from Latin contribut- ‘added’, from the verb contribuere, from con- ‘with’ + tribuere ‘bestow’."
+	"term": "contributor",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person who writes articles for a magazine, book or website, or who talks on a radio or television programme or at a meeting",
+			"sensetop": "contributor (to something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a regular contributor to this magazine"
+				},
+				{
+					"text": "I am a contributor to several blogs."
+				},
+				{
+					"text": "She was a long-time contributor to Time Magazine."
+				},
+				{
+					"text": "The core of regular contributors is essential to the magazine."
+				},
+				{
+					"text": "She continues to be a regular contributor to the journal."
+				}
+			],
+			"topics": ["TV, radio and news"],
+			"collocations": {
+				"adjective": ["important", "key", "significant"],
+				"preposition": ["contributor to"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person or thing that provides money or goods to help pay for or support something",
+			"sensetop": "contributor (to something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Older people are important contributors to the economy."
+				},
+				{
+					"text": "the largest net contributor to EU funds"
+				},
+				{
+					"text": "Politicians are often suspected of trying to appease campaign contributors from the oil industry."
+				},
+				{
+					"text": "net contributors to the economy"
+				}
+			],
+			"collocations": {
+				"adjective": ["important", "key", "significant"],
+				"preposition": ["contributor to"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "something that helps to cause something",
+			"sensetop": "contributor (to something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Sulphur dioxide is a pollutant and a major contributor to acid rain."
+				}
+			],
+			"topics": ["Change, cause and effect"],
+			"collocations": {
+				"adjective": ["important", "key", "significant"],
+				"preposition": ["contributor to"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kənˈtrɪbjətə(r)/",
+				"audio": "xc/contributor/xcontributor__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kənˈtrɪbjətər/",
+				"audio": "xc/contributor/xcontributor__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from Anglo-Norman French contributour, from Latin contribut- ‘added’, from the verb contribuere, from con- ‘with’ + tribuere ‘bestow’."
 }

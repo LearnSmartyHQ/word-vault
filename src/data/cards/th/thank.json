@@ -1,153 +1,153 @@
 {
-  "term": "thank",
-  "partOfSpeech": "verb",
-  "ox3000": true,
-  "cefr": "a1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "thank",
-      "heSheIt": "thanks"
-    },
-    "pastSimple": "thanked",
-    "pastParticiple": "thanked",
-    "ingForm": "thanking"
-  },
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "to tell somebody that you are grateful for something",
-      "sensetop": "thank somebody for somethingthank somebody for doing somethingthank somebody",
-      "examples": [
-        {
-          "text": "I must write and thank Mary for the present.",
-          "contextForm": "thank somebody for something"
-        },
-        {
-          "text": "In his speech, he thanked everyone for all their hard work."
-        },
-        {
-          "text": "She said goodbye and thanked us for coming.",
-          "contextForm": "thank somebody for doing something"
-        },
-        {
-          "text": "There's no need to thank me—I enjoyed doing it.",
-          "contextForm": "thank somebody"
-        },
-        {
-          "text": "**I'd like to take this opportunity to thank** everyone I've worked with over the years."
-        },
-        {
-          "text": "The organizing committee **wish to thank** their sponsors and all who helped."
-        },
-        {
-          "text": "I **would like to thank** you all most sincerely."
-        },
-        {
-          "text": "I wanted to thank him personally."
-        },
-        {
-          "text": "I have to thank you all so much."
-        }
-      ],
-      "collocations": {
-        "adverb": ["gratefully", "heartily", "profusely"],
-        "verb + thank": ["must", "want to", "would like to"],
-        "preposition": ["for"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "used when you are saying who or what is responsible for something",
-      "examples": [
-        {
-          "text": "I have my parents to thank for my success."
-        },
-        {
-          "text": "Largely we have science to thank for our longer, healthier lives."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to tell somebody that you are annoyed and do not want them to do something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "I'll thank you to mind your own business."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that you are pleased about something",
-      "examples": [
-        {
-          "text": "Thank God you're safe!"
-        },
-        {
-          "text": "‘Thank goodness for that!’ she said with a sigh of relief."
-        },
-        {
-          "text": "Thank heavens I've found my keys."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to feel very grateful and lucky about something",
-      "examples": [
-        {
-          "text": "Just thank your lucky stars you weren’t in the house at the time."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that somebody will not be pleased or will be annoyed about something",
-      "examples": [
-        {
-          "text": "John won't thank you for interfering."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/θæŋk/",
-        "audio": "th/thank/thank__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/θæŋks/",
-        "audio": "th/thank/thanks__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/θæŋkt/",
-        "audio": "th/thank/thanked__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈθæŋkɪŋ/",
-        "audio": "th/thank/thanking__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/θæŋk/",
-        "audio": "th/thank/thank__us_1.mp3"
-      },
-      {
-        "pronunciation": "/θæŋks/",
-        "audio": "th/thank/thanks__us_1.mp3"
-      },
-      {
-        "pronunciation": "/θæŋkt/",
-        "audio": "th/thank/thanked__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈθæŋkɪŋ/",
-        "audio": "th/thank/thanking__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English thancian, of Germanic origin; related to Dutch and German danken; compare with thanks."
+	"term": "thank",
+	"partOfSpeech": "verb",
+	"ox3000": true,
+	"cefr": "a1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "thank",
+			"heSheIt": "thanks"
+		},
+		"pastSimple": "thanked",
+		"pastParticiple": "thanked",
+		"ingForm": "thanking"
+	},
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "to tell somebody that you are grateful for something",
+			"sensetop": "thank somebody for somethingthank somebody for doing somethingthank somebody",
+			"examples": [
+				{
+					"text": "I must write and thank Mary for the present.",
+					"contextForm": "thank somebody for something"
+				},
+				{
+					"text": "In his speech, he thanked everyone for all their hard work."
+				},
+				{
+					"text": "She said goodbye and thanked us for coming.",
+					"contextForm": "thank somebody for doing something"
+				},
+				{
+					"text": "There's no need to thank me—I enjoyed doing it.",
+					"contextForm": "thank somebody"
+				},
+				{
+					"text": "**I'd like to take this opportunity to thank** everyone I've worked with over the years."
+				},
+				{
+					"text": "The organizing committee **wish to thank** their sponsors and all who helped."
+				},
+				{
+					"text": "I **would like to thank** you all most sincerely."
+				},
+				{
+					"text": "I wanted to thank him personally."
+				},
+				{
+					"text": "I have to thank you all so much."
+				}
+			],
+			"collocations": {
+				"adverb": ["gratefully", "heartily", "profusely"],
+				"verb + thank": ["must", "want to", "would like to"],
+				"preposition": ["for"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "used when you are saying who or what is responsible for something",
+			"examples": [
+				{
+					"text": "I have my parents to thank for my success."
+				},
+				{
+					"text": "Largely we have science to thank for our longer, healthier lives."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to tell somebody that you are annoyed and do not want them to do something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "I'll thank you to mind your own business."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that you are pleased about something",
+			"examples": [
+				{
+					"text": "Thank God you're safe!"
+				},
+				{
+					"text": "‘Thank goodness for that!’ she said with a sigh of relief."
+				},
+				{
+					"text": "Thank heavens I've found my keys."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to feel very grateful and lucky about something",
+			"examples": [
+				{
+					"text": "Just thank your lucky stars you weren’t in the house at the time."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that somebody will not be pleased or will be annoyed about something",
+			"examples": [
+				{
+					"text": "John won't thank you for interfering."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/θæŋk/",
+				"audio": "th/thank/thank__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/θæŋks/",
+				"audio": "th/thank/thanks__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/θæŋkt/",
+				"audio": "th/thank/thanked__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈθæŋkɪŋ/",
+				"audio": "th/thank/thanking__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/θæŋk/",
+				"audio": "th/thank/thank__us_1.mp3"
+			},
+			{
+				"pronunciation": "/θæŋks/",
+				"audio": "th/thank/thanks__us_1.mp3"
+			},
+			{
+				"pronunciation": "/θæŋkt/",
+				"audio": "th/thank/thanked__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈθæŋkɪŋ/",
+				"audio": "th/thank/thanking__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English thancian, of Germanic origin; related to Dutch and German danken; compare with thanks."
 }

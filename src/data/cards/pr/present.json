@@ -1,130 +1,130 @@
 {
-  "term": "present",
-  "partOfSpeech": "adjective",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "existing or happening now",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I am not satisfied with the **present situation**."
-        },
-        {
-          "text": "The **present study** has two main aims."
-        },
-        {
-          "text": "the present owner of the house"
-        },
-        {
-          "text": "a list of all club members, **past and present**"
-        },
-        {
-          "text": "We do not have any more information **at the present time**."
-        },
-        {
-          "text": "A few brief comments are sufficient **for present purposes**."
-        },
-        {
-          "text": "You can’t use it in its present condition."
-        }
-      ],
-      "topics": ["Time"],
-      "collocations": {
-        "verbs": ["be", "remain"],
-        "adverb": ["ever", "physically", "naturally"],
-        "phrases": ["past and present"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "being in a particular place",
-      "sensetop": "present at something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "I wasn’t present when the doctor examined him."
-        },
-        {
-          "text": "The mistake was obvious to all those present."
-        },
-        {
-          "text": "There were 200 people present at the meeting.",
-          "contextForm": "present at something"
-        },
-        {
-          "text": "Most fathers wish to be present at the birth of their child."
-        },
-        {
-          "text": "Simply to be physically present was all that was required."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "remain"],
-        "adverb": ["ever", "physically", "naturally"],
-        "phrases": ["past and present"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "existing in a particular place or thing",
-      "sensetop": "present in something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The threat of force was always present."
-        },
-        {
-          "text": "the ever present risk of pollution"
-        },
-        {
-          "text": "Levels of pollution present in the atmosphere are increasing.",
-          "contextForm": "present in something"
-        },
-        {
-          "text": "Analysis showed that traces of arsenic were present in the body."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "remain"],
-        "adverb": ["ever", "physically", "naturally"],
-        "phrases": ["past and present"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "used to say that all the things or people who should be there are now there",
-      "examples": []
-    },
-    {
-      "senseNumber": null,
-      "definition": "used after being rude or critical about somebody to say that the people you are talking to are not included in the criticism",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "The people in this office are so narrow-minded, present company excepted, of course."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈpreznt/",
-        "audio": "pr/present/present__gb_4.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈpreznt/",
-        "audio": "pr/present/present__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "adjective Middle English: via Old French from Latin praesent- ‘being at hand’, present participle of praeesse, from prae ‘before’ + esse ‘be’."
+	"term": "present",
+	"partOfSpeech": "adjective",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "existing or happening now",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I am not satisfied with the **present situation**."
+				},
+				{
+					"text": "The **present study** has two main aims."
+				},
+				{
+					"text": "the present owner of the house"
+				},
+				{
+					"text": "a list of all club members, **past and present**"
+				},
+				{
+					"text": "We do not have any more information **at the present time**."
+				},
+				{
+					"text": "A few brief comments are sufficient **for present purposes**."
+				},
+				{
+					"text": "You can’t use it in its present condition."
+				}
+			],
+			"topics": ["Time"],
+			"collocations": {
+				"verbs": ["be", "remain"],
+				"adverb": ["ever", "physically", "naturally"],
+				"phrases": ["past and present"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "being in a particular place",
+			"sensetop": "present at something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "I wasn’t present when the doctor examined him."
+				},
+				{
+					"text": "The mistake was obvious to all those present."
+				},
+				{
+					"text": "There were 200 people present at the meeting.",
+					"contextForm": "present at something"
+				},
+				{
+					"text": "Most fathers wish to be present at the birth of their child."
+				},
+				{
+					"text": "Simply to be physically present was all that was required."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "remain"],
+				"adverb": ["ever", "physically", "naturally"],
+				"phrases": ["past and present"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "existing in a particular place or thing",
+			"sensetop": "present in something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The threat of force was always present."
+				},
+				{
+					"text": "the ever present risk of pollution"
+				},
+				{
+					"text": "Levels of pollution present in the atmosphere are increasing.",
+					"contextForm": "present in something"
+				},
+				{
+					"text": "Analysis showed that traces of arsenic were present in the body."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "remain"],
+				"adverb": ["ever", "physically", "naturally"],
+				"phrases": ["past and present"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "used to say that all the things or people who should be there are now there",
+			"examples": []
+		},
+		{
+			"senseNumber": null,
+			"definition": "used after being rude or critical about somebody to say that the people you are talking to are not included in the criticism",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "The people in this office are so narrow-minded, present company excepted, of course."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈpreznt/",
+				"audio": "pr/present/present__gb_4.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈpreznt/",
+				"audio": "pr/present/present__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "adjective Middle English: via Old French from Latin praesent- ‘being at hand’, present participle of praeesse, from prae ‘before’ + esse ‘be’."
 }

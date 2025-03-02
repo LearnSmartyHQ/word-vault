@@ -1,157 +1,157 @@
 {
-  "term": "management",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the activity of running and controlling a business or similar organization",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a career in management"
-        },
-        {
-          "text": "hotel/project management"
-        },
-        {
-          "text": "a management training course"
-        },
-        {
-          "text": "the day-to-day management of the business"
-        },
-        {
-          "text": "The report blames bad management."
-        },
-        {
-          "text": "Effective financial management is essential."
-        },
-        {
-          "text": "The company's top-down management style made decision-making slow and inflexible."
-        },
-        {
-          "text": "The business thrives under her unique style of management."
-        },
-        {
-          "text": "She eliminated several layers of management."
-        },
-        {
-          "text": "He is one of the highest paid management gurus in the world."
-        },
-        {
-          "text": "Does he have the necessary management skills?"
-        }
-      ],
-      "topics": ["Business"],
-      "collocations": {
-        "adjective": ["careful", "competent", "effective"],
-        "verb + management": ["need", "perform", "provide"],
-        "management + noun": ["agency", "company", "consultancy"],
-        "preposition": ["in management", "under somebody’s management"],
-        "phrases": ["a board of management", "under new management"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the people who run and control a business or similar organization",
-      "sensetop": "under… management",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The management is/are considering closing the factory."
-        },
-        {
-          "text": "The shop is now **under new management**.",
-          "contextForm": "under… management"
-        },
-        {
-          "text": "junior/middle/senior management"
-        },
-        {
-          "text": "the bank's/airline's/hospital's management"
-        },
-        {
-          "text": "a management decision/job"
-        },
-        {
-          "text": "A new board and management team took over."
-        },
-        {
-          "text": "My role is to act as a mediator between employees and management."
-        },
-        {
-          "text": "Most managements are keen to avoid strikes."
-        },
-        {
-          "text": "Management expects demand to grow faster than supply."
-        },
-        {
-          "text": "Management is confident about future growth."
-        }
-      ],
-      "topics": ["Business"],
-      "collocations": {
-        "adjective": ["junior", "lower", "middle"],
-        "verb + management": ["criticize"],
-        "management + noun": ["board", "committee", "personnel"],
-        "preposition": ["in… management"],
-        "phrases": ["a layer, level, tier, etc. of management"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the act or skill of dealing with people or situations in a successful way",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "**classroom management**"
-        },
-        {
-          "text": "a waste management system/company/plan"
-        },
-        {
-          "text": "management of staff/patients/resources"
-        },
-        {
-          "text": "Diet plays an important role in the management of heart disease."
-        },
-        {
-          "text": "The clinic makes pain management in children a priority."
-        },
-        {
-          "text": "The NGO carries out projects around wildlife and natural resource management."
-        },
-        {
-          "text": "Changes in land management practices can improve water quality in streams over time."
-        }
-      ],
-      "topics": ["Success"],
-      "collocations": {
-        "adjective": ["careful", "competent", "effective"],
-        "verb + management": ["need", "perform", "provide"],
-        "management + noun": ["agency", "company", "consultancy"],
-        "preposition": ["in management", "under somebody’s management"],
-        "phrases": ["a board of management", "under new management"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmænɪdʒmənt/",
-        "audio": "ma/management/management__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmænɪdʒmənt/",
-        "audio": "ma/management/management__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "management",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the activity of running and controlling a business or similar organization",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a career in management"
+				},
+				{
+					"text": "hotel/project management"
+				},
+				{
+					"text": "a management training course"
+				},
+				{
+					"text": "the day-to-day management of the business"
+				},
+				{
+					"text": "The report blames bad management."
+				},
+				{
+					"text": "Effective financial management is essential."
+				},
+				{
+					"text": "The company's top-down management style made decision-making slow and inflexible."
+				},
+				{
+					"text": "The business thrives under her unique style of management."
+				},
+				{
+					"text": "She eliminated several layers of management."
+				},
+				{
+					"text": "He is one of the highest paid management gurus in the world."
+				},
+				{
+					"text": "Does he have the necessary management skills?"
+				}
+			],
+			"topics": ["Business"],
+			"collocations": {
+				"adjective": ["careful", "competent", "effective"],
+				"verb + management": ["need", "perform", "provide"],
+				"management + noun": ["agency", "company", "consultancy"],
+				"preposition": ["in management", "under somebody’s management"],
+				"phrases": ["a board of management", "under new management"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the people who run and control a business or similar organization",
+			"sensetop": "under… management",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The management is/are considering closing the factory."
+				},
+				{
+					"text": "The shop is now **under new management**.",
+					"contextForm": "under… management"
+				},
+				{
+					"text": "junior/middle/senior management"
+				},
+				{
+					"text": "the bank's/airline's/hospital's management"
+				},
+				{
+					"text": "a management decision/job"
+				},
+				{
+					"text": "A new board and management team took over."
+				},
+				{
+					"text": "My role is to act as a mediator between employees and management."
+				},
+				{
+					"text": "Most managements are keen to avoid strikes."
+				},
+				{
+					"text": "Management expects demand to grow faster than supply."
+				},
+				{
+					"text": "Management is confident about future growth."
+				}
+			],
+			"topics": ["Business"],
+			"collocations": {
+				"adjective": ["junior", "lower", "middle"],
+				"verb + management": ["criticize"],
+				"management + noun": ["board", "committee", "personnel"],
+				"preposition": ["in… management"],
+				"phrases": ["a layer, level, tier, etc. of management"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the act or skill of dealing with people or situations in a successful way",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "**classroom management**"
+				},
+				{
+					"text": "a waste management system/company/plan"
+				},
+				{
+					"text": "management of staff/patients/resources"
+				},
+				{
+					"text": "Diet plays an important role in the management of heart disease."
+				},
+				{
+					"text": "The clinic makes pain management in children a priority."
+				},
+				{
+					"text": "The NGO carries out projects around wildlife and natural resource management."
+				},
+				{
+					"text": "Changes in land management practices can improve water quality in streams over time."
+				}
+			],
+			"topics": ["Success"],
+			"collocations": {
+				"adjective": ["careful", "competent", "effective"],
+				"verb + management": ["need", "perform", "provide"],
+				"management + noun": ["agency", "company", "consultancy"],
+				"preposition": ["in management", "under somebody’s management"],
+				"phrases": ["a board of management", "under new management"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmænɪdʒmənt/",
+				"audio": "ma/management/management__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmænɪdʒmənt/",
+				"audio": "ma/management/management__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

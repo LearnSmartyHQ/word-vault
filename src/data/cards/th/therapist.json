@@ -1,50 +1,50 @@
 {
-  "term": "therapist",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a specialist who treats a particular type of illness or problem, or who uses a particular type of treatment",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a speech therapist"
-        },
-        {
-          "text": "a beauty therapist"
-        }
-      ],
-      "topics": ["Healthcare"],
-      "collocations": {
-        "adjective": ["experienced", "certified", "licensed"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a person who is trained to treat somebody who has problems with their mental health by talking with them",
-      "cefr": "b2",
-      "examples": [],
-      "topics": ["Mental health"],
-      "collocations": {
-        "adjective": ["experienced", "certified", "licensed"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈθerəpɪst/",
-        "audio": "th/therapist/therapist__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈθerəpɪst/",
-        "audio": "th/therapist/therapist__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "therapist",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a specialist who treats a particular type of illness or problem, or who uses a particular type of treatment",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a speech therapist"
+				},
+				{
+					"text": "a beauty therapist"
+				}
+			],
+			"topics": ["Healthcare"],
+			"collocations": {
+				"adjective": ["experienced", "certified", "licensed"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a person who is trained to treat somebody who has problems with their mental health by talking with them",
+			"cefr": "b2",
+			"examples": [],
+			"topics": ["Mental health"],
+			"collocations": {
+				"adjective": ["experienced", "certified", "licensed"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈθerəpɪst/",
+				"audio": "th/therapist/therapist__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈθerəpɪst/",
+				"audio": "th/therapist/therapist__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

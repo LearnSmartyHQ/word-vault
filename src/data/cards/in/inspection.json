@@ -1,155 +1,155 @@
 {
-  "term": "inspection",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an official visit to a school, factory, etc. in order to check that rules are being obeyed and that standards are acceptable",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Regular **inspections** are **carried out** at the prison."
-        },
-        {
-          "text": "The head went on a **tour of inspection** of all the classrooms."
-        },
-        {
-          "text": "A standard home-inspection report summarizes the condition of the house."
-        },
-        {
-          "text": "Following an on-site inspection, the surveyor prepared a written report on the property."
-        },
-        {
-          "text": "Nursing agencies are subject to inspection by the health authority."
-        },
-        {
-          "text": "The architect is carrying out a thorough inspection of the building."
-        },
-        {
-          "text": "The hotel passed its annual inspection."
-        },
-        {
-          "text": "The problem was not discovered during the home inspection."
-        },
-        {
-          "text": "a surprise inspection of the premises by the health inspector"
-        },
-        {
-          "text": "an inspection of the troops by the commander-in-chief"
-        },
-        {
-          "text": "the UN weapons inspection team"
-        },
-        {
-          "text": "They have refused to allow international inspection of their nuclear facilities."
-        },
-        {
-          "text": "Council officials made an on-site inspection of the property."
-        },
-        {
-          "text": "The regional manager carried out a surprise inspection of the factory's safety equipment."
-        }
-      ],
-      "topics": ["Crime and punishment"],
-      "collocations": {
-        "adjective": ["careful", "close", "detailed"],
-        "verb + inspection": ["be available for", "be open for", "be open to"],
-        "inspection + verb": [
-          "confirm something",
-          "determine something",
-          "reveal something"
-        ],
-        "inspection + noun": ["tour", "visit", "report"],
-        "preposition": ["for inspection", "on inspection", "upon inspection"],
-        "phrases": [
-          "bear close inspection",
-          "bear inspection",
-          "closer inspection reveals something"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the act of looking closely at something/somebody, especially to check that everything is as it should be",
-      "sensetop": "on inspection",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The documents are available for inspection."
-        },
-        {
-          "text": "Engineers **carried out a** thorough **inspection** of the track."
-        },
-        {
-          "text": "Following an 8 a.m. **pitch inspection** by the referee, today's game has been called off due to a waterlogged pitch."
-        },
-        {
-          "text": "**On closer inspection**, the notes proved to be forgeries.",
-          "contextForm": "on inspection"
-        },
-        {
-          "text": "A company's accounting records must be open for inspection at all times."
-        },
-        {
-          "text": "All packages arriving at the building undergo an inspection."
-        },
-        {
-          "text": "Closer inspection of the vase revealed it to be a fake."
-        },
-        {
-          "text": "He held out the saucepan for inspection."
-        },
-        {
-          "text": "She knew that her motives would not bear close inspection (= would be revealed as bad if somebody inspected them)."
-        },
-        {
-          "text": "The artwork requires close inspection by the viewer."
-        },
-        {
-          "text": "The report seemed impressive at first, but on closer inspection there were several inaccuracies."
-        },
-        {
-          "text": "a creature which closer inspection revealed to be a bat"
-        },
-        {
-          "text": "The records are open to public inspection."
-        }
-      ],
-      "synonyms": "examination",
-      "collocations": {
-        "adjective": ["careful", "close", "detailed"],
-        "verb + inspection": ["be available for", "be open for", "be open to"],
-        "inspection + verb": [
-          "confirm something",
-          "determine something",
-          "reveal something"
-        ],
-        "inspection + noun": ["tour", "visit", "report"],
-        "preposition": ["for inspection", "on inspection", "upon inspection"],
-        "phrases": [
-          "bear close inspection",
-          "bear inspection",
-          "closer inspection reveals something"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈspekʃn/",
-        "audio": "in/inspection/inspection__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈspekʃn/",
-        "audio": "in/inspection/inspection__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "inspection",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an official visit to a school, factory, etc. in order to check that rules are being obeyed and that standards are acceptable",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Regular **inspections** are **carried out** at the prison."
+				},
+				{
+					"text": "The head went on a **tour of inspection** of all the classrooms."
+				},
+				{
+					"text": "A standard home-inspection report summarizes the condition of the house."
+				},
+				{
+					"text": "Following an on-site inspection, the surveyor prepared a written report on the property."
+				},
+				{
+					"text": "Nursing agencies are subject to inspection by the health authority."
+				},
+				{
+					"text": "The architect is carrying out a thorough inspection of the building."
+				},
+				{
+					"text": "The hotel passed its annual inspection."
+				},
+				{
+					"text": "The problem was not discovered during the home inspection."
+				},
+				{
+					"text": "a surprise inspection of the premises by the health inspector"
+				},
+				{
+					"text": "an inspection of the troops by the commander-in-chief"
+				},
+				{
+					"text": "the UN weapons inspection team"
+				},
+				{
+					"text": "They have refused to allow international inspection of their nuclear facilities."
+				},
+				{
+					"text": "Council officials made an on-site inspection of the property."
+				},
+				{
+					"text": "The regional manager carried out a surprise inspection of the factory's safety equipment."
+				}
+			],
+			"topics": ["Crime and punishment"],
+			"collocations": {
+				"adjective": ["careful", "close", "detailed"],
+				"verb + inspection": ["be available for", "be open for", "be open to"],
+				"inspection + verb": [
+					"confirm something",
+					"determine something",
+					"reveal something"
+				],
+				"inspection + noun": ["tour", "visit", "report"],
+				"preposition": ["for inspection", "on inspection", "upon inspection"],
+				"phrases": [
+					"bear close inspection",
+					"bear inspection",
+					"closer inspection reveals something"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the act of looking closely at something/somebody, especially to check that everything is as it should be",
+			"sensetop": "on inspection",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The documents are available for inspection."
+				},
+				{
+					"text": "Engineers **carried out a** thorough **inspection** of the track."
+				},
+				{
+					"text": "Following an 8 a.m. **pitch inspection** by the referee, today's game has been called off due to a waterlogged pitch."
+				},
+				{
+					"text": "**On closer inspection**, the notes proved to be forgeries.",
+					"contextForm": "on inspection"
+				},
+				{
+					"text": "A company's accounting records must be open for inspection at all times."
+				},
+				{
+					"text": "All packages arriving at the building undergo an inspection."
+				},
+				{
+					"text": "Closer inspection of the vase revealed it to be a fake."
+				},
+				{
+					"text": "He held out the saucepan for inspection."
+				},
+				{
+					"text": "She knew that her motives would not bear close inspection (= would be revealed as bad if somebody inspected them)."
+				},
+				{
+					"text": "The artwork requires close inspection by the viewer."
+				},
+				{
+					"text": "The report seemed impressive at first, but on closer inspection there were several inaccuracies."
+				},
+				{
+					"text": "a creature which closer inspection revealed to be a bat"
+				},
+				{
+					"text": "The records are open to public inspection."
+				}
+			],
+			"synonyms": "examination",
+			"collocations": {
+				"adjective": ["careful", "close", "detailed"],
+				"verb + inspection": ["be available for", "be open for", "be open to"],
+				"inspection + verb": [
+					"confirm something",
+					"determine something",
+					"reveal something"
+				],
+				"inspection + noun": ["tour", "visit", "report"],
+				"preposition": ["for inspection", "on inspection", "upon inspection"],
+				"phrases": [
+					"bear close inspection",
+					"bear inspection",
+					"closer inspection reveals something"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈspekʃn/",
+				"audio": "in/inspection/inspection__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈspekʃn/",
+				"audio": "in/inspection/inspection__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

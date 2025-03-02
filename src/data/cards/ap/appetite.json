@@ -1,121 +1,121 @@
 {
-  "term": "appetite",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "physical desire for food",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "He suffered from headaches and **loss of appetite**."
-        },
-        {
-          "text": "The walk gave me a good appetite."
-        },
-        {
-          "text": "Don't **spoil your appetite** by eating between meals."
-        },
-        {
-          "text": "The cold air had given an edge to my appetite."
-        },
-        {
-          "text": "I have always had a small appetite."
-        },
-        {
-          "text": "special double-decker sandwiches for big appetites"
-        },
-        {
-          "text": "She's always had a healthy appetite."
-        },
-        {
-          "text": "She had no appetite and began to lose weight."
-        },
-        {
-          "text": "His appetite has returned to normal."
-        },
-        {
-          "text": "Some drugs can suppress the appetite."
-        },
-        {
-          "text": "The symptoms of depression can include poor appetite and weight loss."
-        },
-        {
-          "text": "This is something you can eat between meals without ruining your appetite."
-        },
-        {
-          "text": "magnificent meals to tempt the most jaded appetites"
-        }
-      ],
-      "topics": ["Cooking and eating"],
-      "collocations": {
-        "adjective": ["big", "enormous", "gargantuan"],
-        "verb + appetite": ["have", "lose", "build"],
-        "appetite + verb": ["grow", "increase", "come back"],
-        "phrases": ["a lack of appetite", "a loss of appetite"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a strong desire for something",
-      "sensetop": "appetite for something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "sexual appetites"
-        },
-        {
-          "text": "The preview was intended to **whet your appetite** *(= make you want more)*."
-        },
-        {
-          "text": "The public have an insatiable appetite for scandal.",
-          "contextForm": "appetite for something"
-        },
-        {
-          "text": "There is **no appetite for** *(= people do not want)* massive federal investment in the US."
-        },
-        {
-          "text": "an insatiable appetite for books"
-        },
-        {
-          "text": "We get into debt to indulge our appetite for consumer goods."
-        },
-        {
-          "text": "The airport cannot accommodate the growing appetite for flights."
-        },
-        {
-          "text": "The BBC recognizes the public appetite for serious information."
-        },
-        {
-          "text": "His appetite for power had grown."
-        },
-        {
-          "text": "The website has enough good content to satisfy its users' intellectual appetite."
-        }
-      ],
-      "collocations": {
-        "adjective": ["enormous", "great", "huge"],
-        "verb + appetite": ["have", "lose", "give somebody"],
-        "appetite + verb": ["grow", "increase"],
-        "preposition": ["appetite for"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈæpɪtaɪt/",
-        "audio": "ap/appetite/appetite__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈæpɪtaɪt/",
-        "audio": "ap/appetite/appetite__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French apetit (modern appétit), from Latin appetitus ‘desire for’, from appetere ‘seek after’, from ad- ‘to’ + petere ‘seek’."
+	"term": "appetite",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "physical desire for food",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "He suffered from headaches and **loss of appetite**."
+				},
+				{
+					"text": "The walk gave me a good appetite."
+				},
+				{
+					"text": "Don't **spoil your appetite** by eating between meals."
+				},
+				{
+					"text": "The cold air had given an edge to my appetite."
+				},
+				{
+					"text": "I have always had a small appetite."
+				},
+				{
+					"text": "special double-decker sandwiches for big appetites"
+				},
+				{
+					"text": "She's always had a healthy appetite."
+				},
+				{
+					"text": "She had no appetite and began to lose weight."
+				},
+				{
+					"text": "His appetite has returned to normal."
+				},
+				{
+					"text": "Some drugs can suppress the appetite."
+				},
+				{
+					"text": "The symptoms of depression can include poor appetite and weight loss."
+				},
+				{
+					"text": "This is something you can eat between meals without ruining your appetite."
+				},
+				{
+					"text": "magnificent meals to tempt the most jaded appetites"
+				}
+			],
+			"topics": ["Cooking and eating"],
+			"collocations": {
+				"adjective": ["big", "enormous", "gargantuan"],
+				"verb + appetite": ["have", "lose", "build"],
+				"appetite + verb": ["grow", "increase", "come back"],
+				"phrases": ["a lack of appetite", "a loss of appetite"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a strong desire for something",
+			"sensetop": "appetite for something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "sexual appetites"
+				},
+				{
+					"text": "The preview was intended to **whet your appetite** *(= make you want more)*."
+				},
+				{
+					"text": "The public have an insatiable appetite for scandal.",
+					"contextForm": "appetite for something"
+				},
+				{
+					"text": "There is **no appetite for** *(= people do not want)* massive federal investment in the US."
+				},
+				{
+					"text": "an insatiable appetite for books"
+				},
+				{
+					"text": "We get into debt to indulge our appetite for consumer goods."
+				},
+				{
+					"text": "The airport cannot accommodate the growing appetite for flights."
+				},
+				{
+					"text": "The BBC recognizes the public appetite for serious information."
+				},
+				{
+					"text": "His appetite for power had grown."
+				},
+				{
+					"text": "The website has enough good content to satisfy its users' intellectual appetite."
+				}
+			],
+			"collocations": {
+				"adjective": ["enormous", "great", "huge"],
+				"verb + appetite": ["have", "lose", "give somebody"],
+				"appetite + verb": ["grow", "increase"],
+				"preposition": ["appetite for"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈæpɪtaɪt/",
+				"audio": "ap/appetite/appetite__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈæpɪtaɪt/",
+				"audio": "ap/appetite/appetite__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French apetit (modern appétit), from Latin appetitus ‘desire for’, from appetere ‘seek after’, from ad- ‘to’ + petere ‘seek’."
 }

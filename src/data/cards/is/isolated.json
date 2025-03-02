@@ -1,90 +1,90 @@
 {
-  "term": "isolated",
-  "partOfSpeech": "adjective",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "far away from any others",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "isolated rural areas"
-        }
-      ],
-      "synonyms": "remote",
-      "topics": ["Buildings"],
-      "collocations": {
-        "verbs": ["appear", "be", "feel"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["from"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "without much contact with other people or other countries",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "I felt very isolated in my new job."
-        },
-        {
-          "text": "Elderly people easily become socially isolated."
-        },
-        {
-          "text": "The decision left the country isolated from its allies."
-        },
-        {
-          "text": "Without help, many elderly people would be left isolated."
-        },
-        {
-          "text": "a child who is isolated from other children"
-        },
-        {
-          "text": "It can be a lonely, isolated life on a farm."
-        },
-        {
-          "text": "The President is looking increasingly isolated from the whole agenda."
-        },
-        {
-          "text": "Unless a compromise could be reached the country would be diplomatically isolated on this issue."
-        },
-        {
-          "text": "a culturally isolated community"
-        }
-      ],
-      "collocations": {
-        "verbs": ["appear", "be", "feel"],
-        "adverb": ["extremely", "fairly", "very"],
-        "preposition": ["from"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "single; happening once",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The police said the attack was an isolated incident."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈaɪsəleɪtɪd/",
-        "audio": "is/isolated/isolated__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈaɪsəleɪtɪd/",
-        "audio": "is/isolated/isolated__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 18th cent.: from French isolé, from Italian isolato, from late Latin insulatus ‘made into an island’, from Latin insula ‘island’."
+	"term": "isolated",
+	"partOfSpeech": "adjective",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "far away from any others",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "isolated rural areas"
+				}
+			],
+			"synonyms": "remote",
+			"topics": ["Buildings"],
+			"collocations": {
+				"verbs": ["appear", "be", "feel"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["from"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "without much contact with other people or other countries",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "I felt very isolated in my new job."
+				},
+				{
+					"text": "Elderly people easily become socially isolated."
+				},
+				{
+					"text": "The decision left the country isolated from its allies."
+				},
+				{
+					"text": "Without help, many elderly people would be left isolated."
+				},
+				{
+					"text": "a child who is isolated from other children"
+				},
+				{
+					"text": "It can be a lonely, isolated life on a farm."
+				},
+				{
+					"text": "The President is looking increasingly isolated from the whole agenda."
+				},
+				{
+					"text": "Unless a compromise could be reached the country would be diplomatically isolated on this issue."
+				},
+				{
+					"text": "a culturally isolated community"
+				}
+			],
+			"collocations": {
+				"verbs": ["appear", "be", "feel"],
+				"adverb": ["extremely", "fairly", "very"],
+				"preposition": ["from"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "single; happening once",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The police said the attack was an isolated incident."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈaɪsəleɪtɪd/",
+				"audio": "is/isolated/isolated__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈaɪsəleɪtɪd/",
+				"audio": "is/isolated/isolated__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 18th cent.: from French isolé, from Italian isolato, from late Latin insulatus ‘made into an island’, from Latin insula ‘island’."
 }

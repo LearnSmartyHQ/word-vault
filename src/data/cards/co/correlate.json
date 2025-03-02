@@ -1,95 +1,95 @@
 {
-  "term": "correlate",
-  "partOfSpeech": "verb",
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "correlate",
-      "heSheIt": "correlates"
-    },
-    "pastSimple": "correlated",
-    "pastParticiple": "correlated",
-    "ingForm": "correlating"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "if two or more facts, figures, etc. correlate or if a fact, figure, etc. correlates with another, the facts are closely connected and affect or depend on each other",
-      "sensetop": "correlate with something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The figures do not seem to correlate."
-        },
-        {
-          "text": "A high-fat diet correlates with a greater risk of heart disease.",
-          "contextForm": "correlate with something"
-        },
-        {
-          "text": "The average speed of the vehicles correlates closely with the severity of the accident caused."
-        }
-      ],
-      "topics": ["Scientific research"],
-      "collocations": {
-        "adverb": ["closely", "highly", "significantly"],
-        "verb + correlate": ["be found to", "be shown to"],
-        "preposition": ["to", "with"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to show that there is a close connection between two or more facts, figures, etc.",
-      "sensetop": "correlate something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "Researchers are trying to correlate the two sets of figures."
-        },
-        {
-          "text": "Property values are negatively correlated to the tax rate."
-        }
-      ],
-      "topics": ["Scientific research"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkɒrəleɪt/",
-        "audio": "co/correlate/correlate__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkɒrəleɪts/",
-        "audio": "co/correlate/correlates__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkɒrəleɪtɪd/",
-        "audio": "co/correlate/correlated__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkɒrəleɪtɪŋ/",
-        "audio": "co/correlate/correlating__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkɔːrəleɪt/",
-        "audio": "co/correlate/correlate__us_1_rr.mp3"
-      },
-      {
-        "pronunciation": "/ˈkɔːrəleɪts/",
-        "audio": "co/correlate/correlates__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkɔːrəleɪtɪd/",
-        "audio": "co/correlate/correlated__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkɔːrəleɪtɪŋ/",
-        "audio": "co/correlate/correlating__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "mid 17th cent. (as a noun): back-formation from correlation and correlative."
+	"term": "correlate",
+	"partOfSpeech": "verb",
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "correlate",
+			"heSheIt": "correlates"
+		},
+		"pastSimple": "correlated",
+		"pastParticiple": "correlated",
+		"ingForm": "correlating"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "if two or more facts, figures, etc. correlate or if a fact, figure, etc. correlates with another, the facts are closely connected and affect or depend on each other",
+			"sensetop": "correlate with something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The figures do not seem to correlate."
+				},
+				{
+					"text": "A high-fat diet correlates with a greater risk of heart disease.",
+					"contextForm": "correlate with something"
+				},
+				{
+					"text": "The average speed of the vehicles correlates closely with the severity of the accident caused."
+				}
+			],
+			"topics": ["Scientific research"],
+			"collocations": {
+				"adverb": ["closely", "highly", "significantly"],
+				"verb + correlate": ["be found to", "be shown to"],
+				"preposition": ["to", "with"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to show that there is a close connection between two or more facts, figures, etc.",
+			"sensetop": "correlate something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "Researchers are trying to correlate the two sets of figures."
+				},
+				{
+					"text": "Property values are negatively correlated to the tax rate."
+				}
+			],
+			"topics": ["Scientific research"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkɒrəleɪt/",
+				"audio": "co/correlate/correlate__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkɒrəleɪts/",
+				"audio": "co/correlate/correlates__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkɒrəleɪtɪd/",
+				"audio": "co/correlate/correlated__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkɒrəleɪtɪŋ/",
+				"audio": "co/correlate/correlating__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkɔːrəleɪt/",
+				"audio": "co/correlate/correlate__us_1_rr.mp3"
+			},
+			{
+				"pronunciation": "/ˈkɔːrəleɪts/",
+				"audio": "co/correlate/correlates__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkɔːrəleɪtɪd/",
+				"audio": "co/correlate/correlated__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkɔːrəleɪtɪŋ/",
+				"audio": "co/correlate/correlating__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "mid 17th cent. (as a noun): back-formation from correlation and correlative."
 }

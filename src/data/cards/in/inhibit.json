@@ -1,99 +1,99 @@
 {
-  "term": "inhibit",
-  "partOfSpeech": "verb",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "inhibit",
-      "heSheIt": "inhibits"
-    },
-    "pastSimple": "inhibited",
-    "pastParticiple": "inhibited",
-    "ingForm": "inhibiting"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to prevent something from happening or make it happen more slowly or less frequently than normal",
-      "sensetop": "inhibit something",
-      "labels": "(formal)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "A lack of oxygen may inhibit brain development in the unborn child."
-        },
-        {
-          "text": "Financial considerations are inhibiting access to higher education."
-        },
-        {
-          "text": "Alcohol significantly inhibits the action of the drug."
-        }
-      ],
-      "collocations": {
-        "adverb": ["greatly", "markedly", "seriously"],
-        "verb + inhibit": ["tend to"],
-        "preposition": ["from"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to make somebody nervous or embarrassed so that they are unable to do something",
-      "sensetop": "inhibit somebody (from something/from doing something)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The managing director's presence inhibited them from airing their problems."
-        },
-        {
-          "text": "The fear of dismissal inhibited employees from raising problems."
-        }
-      ],
-      "collocations": {
-        "adverb": ["greatly", "markedly", "seriously"],
-        "verb + inhibit": ["tend to"],
-        "preposition": ["from"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɪnˈhɪbɪt/",
-        "audio": "in/inhibit/inhibit__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈhɪbɪts/",
-        "audio": "in/inhibit/inhibits__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈhɪbɪtɪd/",
-        "audio": "in/inhibit/inhibited__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈhɪbɪtɪŋ/",
-        "audio": "in/inhibit/inhibiting__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɪnˈhɪbɪt/",
-        "audio": "in/inhibit/inhibit__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈhɪbɪts/",
-        "audio": "in/inhibit/inhibits__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈhɪbɪtɪd/",
-        "audio": "in/inhibit/inhibited__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ɪnˈhɪbɪtɪŋ/",
-        "audio": "in/inhibit/inhibiting__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English (in the sense ‘forbid (a person) to do something’): from Latin inhibere ‘hinder’, from in- ‘in’ + habere ‘hold’."
+	"term": "inhibit",
+	"partOfSpeech": "verb",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "inhibit",
+			"heSheIt": "inhibits"
+		},
+		"pastSimple": "inhibited",
+		"pastParticiple": "inhibited",
+		"ingForm": "inhibiting"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to prevent something from happening or make it happen more slowly or less frequently than normal",
+			"sensetop": "inhibit something",
+			"labels": "(formal)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "A lack of oxygen may inhibit brain development in the unborn child."
+				},
+				{
+					"text": "Financial considerations are inhibiting access to higher education."
+				},
+				{
+					"text": "Alcohol significantly inhibits the action of the drug."
+				}
+			],
+			"collocations": {
+				"adverb": ["greatly", "markedly", "seriously"],
+				"verb + inhibit": ["tend to"],
+				"preposition": ["from"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to make somebody nervous or embarrassed so that they are unable to do something",
+			"sensetop": "inhibit somebody (from something/from doing something)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The managing director's presence inhibited them from airing their problems."
+				},
+				{
+					"text": "The fear of dismissal inhibited employees from raising problems."
+				}
+			],
+			"collocations": {
+				"adverb": ["greatly", "markedly", "seriously"],
+				"verb + inhibit": ["tend to"],
+				"preposition": ["from"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɪnˈhɪbɪt/",
+				"audio": "in/inhibit/inhibit__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈhɪbɪts/",
+				"audio": "in/inhibit/inhibits__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈhɪbɪtɪd/",
+				"audio": "in/inhibit/inhibited__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈhɪbɪtɪŋ/",
+				"audio": "in/inhibit/inhibiting__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɪnˈhɪbɪt/",
+				"audio": "in/inhibit/inhibit__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈhɪbɪts/",
+				"audio": "in/inhibit/inhibits__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈhɪbɪtɪd/",
+				"audio": "in/inhibit/inhibited__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ɪnˈhɪbɪtɪŋ/",
+				"audio": "in/inhibit/inhibiting__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English (in the sense ‘forbid (a person) to do something’): from Latin inhibere ‘hinder’, from in- ‘in’ + habere ‘hold’."
 }

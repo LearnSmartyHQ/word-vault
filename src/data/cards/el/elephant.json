@@ -1,61 +1,61 @@
 {
-  "term": "elephant",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": null,
-      "definition": "a very large animal with thick grey skin, large ears, two curved outer teeth called tusks and a long nose called a trunk. There are two types of elephant, the African and the Asian.",
-      "examples": [
-        {
-          "text": "herds of elephants"
-        },
-        {
-          "text": "a bull elephant"
-        },
-        {
-          "text": "a baby elephant"
-        },
-        {
-          "text": "a conservationist who cares for orphaned elephants"
-        }
-      ],
-      "topics": ["Animals"],
-      "collocations": {
-        "adjective": ["African", "Asian", "Indian"],
-        "… of elephants": ["herd"],
-        "verb + elephant": ["hunt", "poach", "shoot"],
-        "elephant + verb": ["trumpet", "charge", "stampede"],
-        "elephant + noun": ["herd", "population", "tusk"]
-      }
-    },
-    {
-      "senseNumber": null,
-      "definition": "a problem or question that everyone knows about but does not mention because it is easier not to discuss it",
-      "examples": [
-        {
-          "text": "The elephant in the room was the money that had to be paid in bribes."
-        },
-        {
-          "text": "There’s a big elephant in the room and it’s gun control."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈelɪfənt/",
-        "audio": "el/elephant/elephant__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈelɪfənt/",
-        "audio": "el/elephant/elephant__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French elefant, via Latin from Greek elephas, elephant- ‘ivory, elephant’."
+	"term": "elephant",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": null,
+			"definition": "a very large animal with thick grey skin, large ears, two curved outer teeth called tusks and a long nose called a trunk. There are two types of elephant, the African and the Asian.",
+			"examples": [
+				{
+					"text": "herds of elephants"
+				},
+				{
+					"text": "a bull elephant"
+				},
+				{
+					"text": "a baby elephant"
+				},
+				{
+					"text": "a conservationist who cares for orphaned elephants"
+				}
+			],
+			"topics": ["Animals"],
+			"collocations": {
+				"adjective": ["African", "Asian", "Indian"],
+				"… of elephants": ["herd"],
+				"verb + elephant": ["hunt", "poach", "shoot"],
+				"elephant + verb": ["trumpet", "charge", "stampede"],
+				"elephant + noun": ["herd", "population", "tusk"]
+			}
+		},
+		{
+			"senseNumber": null,
+			"definition": "a problem or question that everyone knows about but does not mention because it is easier not to discuss it",
+			"examples": [
+				{
+					"text": "The elephant in the room was the money that had to be paid in bribes."
+				},
+				{
+					"text": "There’s a big elephant in the room and it’s gun control."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈelɪfənt/",
+				"audio": "el/elephant/elephant__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈelɪfənt/",
+				"audio": "el/elephant/elephant__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French elefant, via Latin from Greek elephas, elephant- ‘ivory, elephant’."
 }

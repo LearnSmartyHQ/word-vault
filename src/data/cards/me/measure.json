@@ -1,194 +1,194 @@
 {
-  "term": "measure",
-  "partOfSpeech": "verblinking verb",
-  "ox3000": true,
-  "cefr": "b1",
-  "image": "data/images/ki/kitchen_measuring.png",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "measure",
-      "heSheIt": "measures"
-    },
-    "pastSimple": "measured",
-    "pastParticiple": "measured",
-    "ingForm": "measuring"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to find the size, quantity, etc. of something in standard units",
-      "sensetop": "measure something/somebodymeasure something in somethingmeasure somebody/something for somethingmeasure how much, how long, etc…",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a device that measures the level of radiation in the atmosphere",
-          "contextForm": "measure something/somebody"
-        },
-        {
-          "text": "Blood pressure and heart rate should be measured before treatment."
-        },
-        {
-          "text": "A nurse visited country schools to weigh and measure children."
-        },
-        {
-          "text": "measuring equipment/instruments"
-        },
-        {
-          "text": "A ship's speed is measured in knots.",
-          "contextForm": "measure something in something"
-        },
-        {
-          "text": "He's gone to be measured for a new suit.",
-          "contextForm": "measure somebody/something for something"
-        },
-        {
-          "text": "A dipstick is used to measure how much oil is left in an engine.",
-          "contextForm": "measure how much, how long, etc…"
-        },
-        {
-          "text": "Body temperatures were measured with a digital thermometer."
-        },
-        {
-          "text": "The wage price index measures hourly rates of pay."
-        },
-        {
-          "text": "Cloth is measured in metres."
-        },
-        {
-          "text": "You can now measure its length more accurately."
-        },
-        {
-          "text": "They measure the time taken by each rat to find the centre of the maze."
-        },
-        {
-          "text": "Biomarkers can measure your biological age, regardless of what your birth certificate says."
-        },
-        {
-          "text": "Any type of data that could not be directly measured was rejected."
-        },
-        {
-          "text": "Education policy places too much emphasis on things that can be quantitatively measured."
-        }
-      ],
-      "topics": ["Cooking and eating", "Maths and measurement"],
-      "collocations": {
-        "adverb": ["accurately", "exactly", "precisely"],
-        "verb + measure": ["be able to", "can", "be easy to"],
-        "preposition": ["for", "in"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to be a particular size, length, amount, etc.",
-      "sensetop": "+ noun",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "The main bedroom measures 12ft by 15ft."
-        },
-        {
-          "text": "The pond measures about 2 metres across."
-        },
-        {
-          "text": "The whole plot measures just 13ft wide at the front."
-        },
-        {
-          "text": "The earthquake measured 8.4 on the Richter scale."
-        },
-        {
-          "text": "The burial chamber measures approximately 85m wide and stands 12m high."
-        },
-        {
-          "text": "The mantis nymph typically measures 4mm in size."
-        }
-      ],
-      "topics": ["Maths and measurement"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "to judge the importance, value or effect of something",
-      "sensetop": "measure somethingmeasure how, what, etc…",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "It is difficult to measure the success of the campaign at this stage."
-        },
-        {
-          "text": "The company never measures success in dollars alone."
-        },
-        {
-          "text": "Regular tests are used to measure students' progress."
-        },
-        {
-          "text": "How does a teacher measure performance in music or gym, for example?"
-        },
-        {
-          "text": "Success is measured by the enjoyment of the audience."
-        },
-        {
-          "text": "Is it really possible to measure the skills of such jobs according to objective standards?"
-        },
-        {
-          "text": "It is hard to measure the benefits to society of the system."
-        },
-        {
-          "text": "Success cannot be measured merely in terms of the size of your salary."
-        },
-        {
-          "text": "The policy's effectiveness cannot be measured by numbers alone."
-        }
-      ],
-      "collocations": {
-        "adverb": ["easily", "effectively", "objectively"],
-        "verb + measure": ["can", "be easy to", "be possible to"],
-        "preposition": ["according to", "against", "by"],
-        "phrases": [
-          "a method of measuring something",
-          "a way of measuring something"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmeʒə(r)/",
-        "audio": "me/measure/measure__gb_3.mp3"
-      },
-      {
-        "pronunciation": "/ˈmeʒəz/",
-        "audio": "me/measure/measures__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmeʒəd/",
-        "audio": "me/measure/measured__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmeʒərɪŋ/",
-        "audio": "me/measure/measuring__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmeʒər/",
-        "audio": "me/measure/measure__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmeʒərz/",
-        "audio": "me/measure/measures__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmeʒərd/",
-        "audio": "me/measure/measured__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈmeʒərɪŋ/",
-        "audio": "me/measure/measuring__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (as a noun in the senses ‘moderation’, ‘instrument for measuring’, ‘unit of capacity’): from Old French mesure, from Latin mensura, from mens- ‘measured’, from the verb metiri."
+	"term": "measure",
+	"partOfSpeech": "verblinking verb",
+	"ox3000": true,
+	"cefr": "b1",
+	"image": "data/images/ki/kitchen_measuring.png",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "measure",
+			"heSheIt": "measures"
+		},
+		"pastSimple": "measured",
+		"pastParticiple": "measured",
+		"ingForm": "measuring"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to find the size, quantity, etc. of something in standard units",
+			"sensetop": "measure something/somebodymeasure something in somethingmeasure somebody/something for somethingmeasure how much, how long, etc…",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a device that measures the level of radiation in the atmosphere",
+					"contextForm": "measure something/somebody"
+				},
+				{
+					"text": "Blood pressure and heart rate should be measured before treatment."
+				},
+				{
+					"text": "A nurse visited country schools to weigh and measure children."
+				},
+				{
+					"text": "measuring equipment/instruments"
+				},
+				{
+					"text": "A ship's speed is measured in knots.",
+					"contextForm": "measure something in something"
+				},
+				{
+					"text": "He's gone to be measured for a new suit.",
+					"contextForm": "measure somebody/something for something"
+				},
+				{
+					"text": "A dipstick is used to measure how much oil is left in an engine.",
+					"contextForm": "measure how much, how long, etc…"
+				},
+				{
+					"text": "Body temperatures were measured with a digital thermometer."
+				},
+				{
+					"text": "The wage price index measures hourly rates of pay."
+				},
+				{
+					"text": "Cloth is measured in metres."
+				},
+				{
+					"text": "You can now measure its length more accurately."
+				},
+				{
+					"text": "They measure the time taken by each rat to find the centre of the maze."
+				},
+				{
+					"text": "Biomarkers can measure your biological age, regardless of what your birth certificate says."
+				},
+				{
+					"text": "Any type of data that could not be directly measured was rejected."
+				},
+				{
+					"text": "Education policy places too much emphasis on things that can be quantitatively measured."
+				}
+			],
+			"topics": ["Cooking and eating", "Maths and measurement"],
+			"collocations": {
+				"adverb": ["accurately", "exactly", "precisely"],
+				"verb + measure": ["be able to", "can", "be easy to"],
+				"preposition": ["for", "in"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to be a particular size, length, amount, etc.",
+			"sensetop": "+ noun",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "The main bedroom measures 12ft by 15ft."
+				},
+				{
+					"text": "The pond measures about 2 metres across."
+				},
+				{
+					"text": "The whole plot measures just 13ft wide at the front."
+				},
+				{
+					"text": "The earthquake measured 8.4 on the Richter scale."
+				},
+				{
+					"text": "The burial chamber measures approximately 85m wide and stands 12m high."
+				},
+				{
+					"text": "The mantis nymph typically measures 4mm in size."
+				}
+			],
+			"topics": ["Maths and measurement"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "to judge the importance, value or effect of something",
+			"sensetop": "measure somethingmeasure how, what, etc…",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "It is difficult to measure the success of the campaign at this stage."
+				},
+				{
+					"text": "The company never measures success in dollars alone."
+				},
+				{
+					"text": "Regular tests are used to measure students' progress."
+				},
+				{
+					"text": "How does a teacher measure performance in music or gym, for example?"
+				},
+				{
+					"text": "Success is measured by the enjoyment of the audience."
+				},
+				{
+					"text": "Is it really possible to measure the skills of such jobs according to objective standards?"
+				},
+				{
+					"text": "It is hard to measure the benefits to society of the system."
+				},
+				{
+					"text": "Success cannot be measured merely in terms of the size of your salary."
+				},
+				{
+					"text": "The policy's effectiveness cannot be measured by numbers alone."
+				}
+			],
+			"collocations": {
+				"adverb": ["easily", "effectively", "objectively"],
+				"verb + measure": ["can", "be easy to", "be possible to"],
+				"preposition": ["according to", "against", "by"],
+				"phrases": [
+					"a method of measuring something",
+					"a way of measuring something"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmeʒə(r)/",
+				"audio": "me/measure/measure__gb_3.mp3"
+			},
+			{
+				"pronunciation": "/ˈmeʒəz/",
+				"audio": "me/measure/measures__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmeʒəd/",
+				"audio": "me/measure/measured__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmeʒərɪŋ/",
+				"audio": "me/measure/measuring__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmeʒər/",
+				"audio": "me/measure/measure__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmeʒərz/",
+				"audio": "me/measure/measures__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmeʒərd/",
+				"audio": "me/measure/measured__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈmeʒərɪŋ/",
+				"audio": "me/measure/measuring__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (as a noun in the senses ‘moderation’, ‘instrument for measuring’, ‘unit of capacity’): from Old French mesure, from Latin mensura, from mens- ‘measured’, from the verb metiri."
 }

@@ -1,68 +1,68 @@
 {
-  "term": "literacy",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the ability to read and write",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a campaign to promote adult literacy"
-        },
-        {
-          "text": "basic **literacy skills**"
-        },
-        {
-          "text": "Most of the students here need help with **literacy and numeracy**."
-        },
-        {
-          "text": "All the children are tested in basic literacy."
-        },
-        {
-          "text": "Literacy rates are lower among people from the poorer income groups."
-        },
-        {
-          "text": "Standards of literacy are slowly rising in the 5–8 age group."
-        }
-      ],
-      "topics": ["Education"],
-      "collocations": {
-        "adjective": ["basic", "adult", "mass"],
-        "verb + literacy": ["achieve", "acquire", "develop"],
-        "literacy + noun": ["campaign", "initiative", "programme/​program"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "knowledge or skills in a specific area",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "**financial/health literacy**"
-        },
-        {
-          "text": "We’re looking to hire an assistant with a high level of **digital literacy**."
-        }
-      ],
-      "topics": ["Education"]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈlɪtərəsi/",
-        "audio": "li/literacy/literacy__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈlɪtərəsi/",
-        "audio": "li/literacy/literacy__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 19th cent.: from literate, on the pattern of illiteracy."
+	"term": "literacy",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the ability to read and write",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a campaign to promote adult literacy"
+				},
+				{
+					"text": "basic **literacy skills**"
+				},
+				{
+					"text": "Most of the students here need help with **literacy and numeracy**."
+				},
+				{
+					"text": "All the children are tested in basic literacy."
+				},
+				{
+					"text": "Literacy rates are lower among people from the poorer income groups."
+				},
+				{
+					"text": "Standards of literacy are slowly rising in the 5–8 age group."
+				}
+			],
+			"topics": ["Education"],
+			"collocations": {
+				"adjective": ["basic", "adult", "mass"],
+				"verb + literacy": ["achieve", "acquire", "develop"],
+				"literacy + noun": ["campaign", "initiative", "programme/​program"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "knowledge or skills in a specific area",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "**financial/health literacy**"
+				},
+				{
+					"text": "We’re looking to hire an assistant with a high level of **digital literacy**."
+				}
+			],
+			"topics": ["Education"]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈlɪtərəsi/",
+				"audio": "li/literacy/literacy__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈlɪtərəsi/",
+				"audio": "li/literacy/literacy__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 19th cent.: from literate, on the pattern of illiteracy."
 }

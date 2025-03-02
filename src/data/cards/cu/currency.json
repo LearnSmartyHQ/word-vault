@@ -1,111 +1,111 @@
 {
-  "term": "currency",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "the system of money that a country uses",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "trading in **foreign currencies**"
-        },
-        {
-          "text": "the single European currency"
-        },
-        {
-          "text": "You'll need some cash in **local currency** but you can also use your credit card."
-        },
-        {
-          "text": "Argentina's currency was pegged to the dollar."
-        },
-        {
-          "text": "For four months all major currencies floated."
-        },
-        {
-          "text": "Many emerging countries have their currencies pegged to the dollar."
-        },
-        {
-          "text": "She had $500 in foreign currency."
-        },
-        {
-          "text": "The disappointing profits are due to unfavourable currency translations."
-        },
-        {
-          "text": "The fund supports weak currencies."
-        },
-        {
-          "text": "The system allows currencies to fluctuate within certain limits."
-        },
-        {
-          "text": "They make money by speculating on the currency markets."
-        },
-        {
-          "text": "They prefer to be paid in foreign currencies."
-        },
-        {
-          "text": "US dollars are considered common currency in international transactions."
-        },
-        {
-          "text": "You can convert sterling into the local currency."
-        },
-        {
-          "text": "The country may be forced to completely devalue its currency."
-        }
-      ],
-      "topics": ["Money", "Shopping", "Holidays"],
-      "collocations": {
-        "adjective": ["domestic", "foreign", "common"],
-        "verb + currency": [
-          "change",
-          "convert something into",
-          "convert something to"
-        ],
-        "currency + verb": ["rise", "depreciate", "fall"],
-        "currency + noun": ["conversion", "exchange", "translation"],
-        "preposition": ["in…currency"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the fact that something is used or accepted by a lot of people",
-      "examples": [
-        {
-          "text": "The term ‘post-industrial’ now has **wide currency**."
-        },
-        {
-          "text": "The qualification has **gained currency** all over the world."
-        },
-        {
-          "text": "This belief has general currency."
-        },
-        {
-          "text": "How did the idea gain currency?"
-        }
-      ],
-      "collocations": {
-        "adjective": ["common", "general", "wide"],
-        "verb + currency": ["enjoy", "have", "gain"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈkʌrənsi/",
-        "audio": "cu/currency/currency__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈkɜːrənsi/",
-        "audio": "cu/currency/currency__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "currency",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "the system of money that a country uses",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "trading in **foreign currencies**"
+				},
+				{
+					"text": "the single European currency"
+				},
+				{
+					"text": "You'll need some cash in **local currency** but you can also use your credit card."
+				},
+				{
+					"text": "Argentina's currency was pegged to the dollar."
+				},
+				{
+					"text": "For four months all major currencies floated."
+				},
+				{
+					"text": "Many emerging countries have their currencies pegged to the dollar."
+				},
+				{
+					"text": "She had $500 in foreign currency."
+				},
+				{
+					"text": "The disappointing profits are due to unfavourable currency translations."
+				},
+				{
+					"text": "The fund supports weak currencies."
+				},
+				{
+					"text": "The system allows currencies to fluctuate within certain limits."
+				},
+				{
+					"text": "They make money by speculating on the currency markets."
+				},
+				{
+					"text": "They prefer to be paid in foreign currencies."
+				},
+				{
+					"text": "US dollars are considered common currency in international transactions."
+				},
+				{
+					"text": "You can convert sterling into the local currency."
+				},
+				{
+					"text": "The country may be forced to completely devalue its currency."
+				}
+			],
+			"topics": ["Money", "Shopping", "Holidays"],
+			"collocations": {
+				"adjective": ["domestic", "foreign", "common"],
+				"verb + currency": [
+					"change",
+					"convert something into",
+					"convert something to"
+				],
+				"currency + verb": ["rise", "depreciate", "fall"],
+				"currency + noun": ["conversion", "exchange", "translation"],
+				"preposition": ["in…currency"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the fact that something is used or accepted by a lot of people",
+			"examples": [
+				{
+					"text": "The term ‘post-industrial’ now has **wide currency**."
+				},
+				{
+					"text": "The qualification has **gained currency** all over the world."
+				},
+				{
+					"text": "This belief has general currency."
+				},
+				{
+					"text": "How did the idea gain currency?"
+				}
+			],
+			"collocations": {
+				"adjective": ["common", "general", "wide"],
+				"verb + currency": ["enjoy", "have", "gain"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈkʌrənsi/",
+				"audio": "cu/currency/currency__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈkɜːrənsi/",
+				"audio": "cu/currency/currency__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

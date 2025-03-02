@@ -1,160 +1,160 @@
 {
-  "term": "nest",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "image": "data/images/bi/birds.png",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a hollow place or structure that a bird makes or chooses for laying its eggs in and sheltering its young",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "sparrows building a nest of twigs and dry grass"
-        },
-        {
-          "text": "A rat took the egg while the mother was away from the nest."
-        },
-        {
-          "text": "The female spends all her time on the nest."
-        },
-        {
-          "text": "The litters of several different females often occupy the same nest."
-        },
-        {
-          "text": "The male and female take turns to sit on the nest."
-        },
-        {
-          "text": "The male uses song to attract a female to his nest site."
-        },
-        {
-          "text": "You should avoid disturbing the nest until after the eggs are hatched."
-        }
-      ],
-      "topics": ["Birds"],
-      "collocations": {
-        "adjective": ["ant’s", "bird’s", "wasp’s"],
-        "verb + nest": ["build", "construct", "make"],
-        "nest + noun": ["site", "hole", "box"],
-        "preposition": [
-          "away from a/​the nest",
-          "in a/​the nest",
-          "inside a/​the nest"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a place where insects or other small creatures live and produce their young",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a wasps’ nest"
-        },
-        {
-          "text": "a nest of mice"
-        },
-        {
-          "text": "The snake will attack if disturbed inside its nest."
-        }
-      ],
-      "topics": ["Insects, worms, etc."],
-      "collocations": {
-        "adjective": ["ant’s", "bird’s", "wasp’s"],
-        "verb + nest": ["build", "construct", "make"],
-        "nest + noun": ["site", "hole", "box"],
-        "preposition": [
-          "away from a/​the nest",
-          "in a/​the nest",
-          "inside a/​the nest"
-        ]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a secret place which is full of bad people and their activities",
-      "examples": [
-        {
-          "text": "a nest of thieves"
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the home, thought of as the safe place where parents bring up their children",
-      "examples": [
-        {
-          "text": "to **leave the nest** *(= leave your parents’ home)*"
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a group or set of similar things that are made to fit inside each other",
-      "examples": [
-        {
-          "text": "a nest of tables"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to make yourself richer, especially at somebody else's expense, by spending money on yourself that should be spent on somebody/something else",
-      "examples": []
-    },
-    {
-      "senseNumber": 1,
-      "definition": "to become able to fly and leave its nest",
-      "examples": []
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to leave home and live somewhere else",
-      "labels": "(informal)",
-      "examples": [
-        {
-          "text": "Her children have flown the nest."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "a difficult situation in which a lot of people get very angry",
-      "examples": [
-        {
-          "text": "His letter to the papers **stirred up a** real **hornets' nest**."
-        }
-      ]
-    },
-    {
-      "senseNumber": 1,
-      "definition": "a discovery that seems interesting but is found to have no value",
-      "examples": []
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a very complicated situation",
-      "examples": [
-        {
-          "text": "This area of the law is a veritable mare’s nest."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/nest/",
-        "audio": "ne/nest/nest__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/nest/",
-        "audio": "ne/nest/nest__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English, of Germanic origin; related to Latin nidus, from the Indo-European bases of nether (meaning ‘down’) and sit."
+	"term": "nest",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"image": "data/images/bi/birds.png",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a hollow place or structure that a bird makes or chooses for laying its eggs in and sheltering its young",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "sparrows building a nest of twigs and dry grass"
+				},
+				{
+					"text": "A rat took the egg while the mother was away from the nest."
+				},
+				{
+					"text": "The female spends all her time on the nest."
+				},
+				{
+					"text": "The litters of several different females often occupy the same nest."
+				},
+				{
+					"text": "The male and female take turns to sit on the nest."
+				},
+				{
+					"text": "The male uses song to attract a female to his nest site."
+				},
+				{
+					"text": "You should avoid disturbing the nest until after the eggs are hatched."
+				}
+			],
+			"topics": ["Birds"],
+			"collocations": {
+				"adjective": ["ant’s", "bird’s", "wasp’s"],
+				"verb + nest": ["build", "construct", "make"],
+				"nest + noun": ["site", "hole", "box"],
+				"preposition": [
+					"away from a/​the nest",
+					"in a/​the nest",
+					"inside a/​the nest"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a place where insects or other small creatures live and produce their young",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a wasps’ nest"
+				},
+				{
+					"text": "a nest of mice"
+				},
+				{
+					"text": "The snake will attack if disturbed inside its nest."
+				}
+			],
+			"topics": ["Insects, worms, etc."],
+			"collocations": {
+				"adjective": ["ant’s", "bird’s", "wasp’s"],
+				"verb + nest": ["build", "construct", "make"],
+				"nest + noun": ["site", "hole", "box"],
+				"preposition": [
+					"away from a/​the nest",
+					"in a/​the nest",
+					"inside a/​the nest"
+				]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a secret place which is full of bad people and their activities",
+			"examples": [
+				{
+					"text": "a nest of thieves"
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the home, thought of as the safe place where parents bring up their children",
+			"examples": [
+				{
+					"text": "to **leave the nest** *(= leave your parents’ home)*"
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a group or set of similar things that are made to fit inside each other",
+			"examples": [
+				{
+					"text": "a nest of tables"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to make yourself richer, especially at somebody else's expense, by spending money on yourself that should be spent on somebody/something else",
+			"examples": []
+		},
+		{
+			"senseNumber": 1,
+			"definition": "to become able to fly and leave its nest",
+			"examples": []
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to leave home and live somewhere else",
+			"labels": "(informal)",
+			"examples": [
+				{
+					"text": "Her children have flown the nest."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "a difficult situation in which a lot of people get very angry",
+			"examples": [
+				{
+					"text": "His letter to the papers **stirred up a** real **hornets' nest**."
+				}
+			]
+		},
+		{
+			"senseNumber": 1,
+			"definition": "a discovery that seems interesting but is found to have no value",
+			"examples": []
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a very complicated situation",
+			"examples": [
+				{
+					"text": "This area of the law is a veritable mare’s nest."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/nest/",
+				"audio": "ne/nest/nest__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/nest/",
+				"audio": "ne/nest/nest__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English, of Germanic origin; related to Latin nidus, from the Indo-European bases of nether (meaning ‘down’) and sit."
 }

@@ -1,138 +1,138 @@
 {
-  "term": "breakdown",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an occasion when a vehicle or machine stops working",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "a breakdown on the motorway"
-        },
-        {
-          "text": "a breakdown recovery service"
-        },
-        {
-          "text": "Most breakdown services give priority to women travelling alone."
-        },
-        {
-          "text": "The national breakdown organizations are on hand to help motorists 24 hours a day."
-        }
-      ],
-      "topics": ["Transport by car or lorry", "Engineering"],
-      "collocations": {
-        "adjective": ["mechanical"],
-        "breakdown + verb": ["occur"],
-        "breakdown + noun": ["service", "truck", "vehicle"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a failure of a relationship, discussion or system",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The only ground for divorce is the irretrievable breakdown of the marriage."
-        },
-        {
-          "text": "marriage breakdown"
-        },
-        {
-          "text": "There has obviously been a breakdown in communications between the two sides."
-        },
-        {
-          "text": "The breakdown of the negotiations was not unexpected."
-        },
-        {
-          "text": "the complete breakdown of law and order"
-        },
-        {
-          "text": "A growing proportion of children are affected by family breakdown."
-        },
-        {
-          "text": "Marital breakdown can be followed by debt problems."
-        },
-        {
-          "text": "Both sides blame each other for the breakdown in negotiations."
-        }
-      ],
-      "topics": ["Difficulty and failure"],
-      "collocations": {
-        "adjective": ["serious", "complete", "irretrievable"],
-        "verb + breakdown": ["cause", "lead to", "prevent"],
-        "preposition": ["breakdown in", "breakdown of"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "detailed information that you get by studying a set of figures",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "First, let's look at a breakdown of the costs."
-        },
-        {
-          "text": "Please provide us with a breakdown of expenditure by department."
-        }
-      ],
-      "collocations": {
-        "adjective": ["detailed", "full", "cost"],
-        "verb + breakdown": [
-          "prepare",
-          "give somebody",
-          "provide (somebody with)"
-        ],
-        "preposition": ["breakdown by", "breakdown of"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the process of a substance breaking into the parts of which it is made",
-      "labels": "(specialist)",
-      "examples": [
-        {
-          "text": "the breakdown of proteins in the digestive system"
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a period of serious mental illness in which somebody is unable to deal with normal life",
-      "labels": "(old-fashioned)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "It all became too much and he had some sort of breakdown."
-        }
-      ],
-      "topics": ["Mental health"],
-      "collocations": {
-        "adjective": ["emotional", "mental", "nervous"],
-        "verb + breakdown": ["have", "suffer"],
-        "phrases": [
-          "the brink of a nervous breakdown",
-          "the edge of a nervous breakdown",
-          "the verge of a nervous breakdown"
-        ]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈbreɪkdaʊn/",
-        "audio": "br/breakdown/breakdown__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈbreɪkdaʊn/",
-        "audio": "br/breakdown/breakdown__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "breakdown",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an occasion when a vehicle or machine stops working",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "a breakdown on the motorway"
+				},
+				{
+					"text": "a breakdown recovery service"
+				},
+				{
+					"text": "Most breakdown services give priority to women travelling alone."
+				},
+				{
+					"text": "The national breakdown organizations are on hand to help motorists 24 hours a day."
+				}
+			],
+			"topics": ["Transport by car or lorry", "Engineering"],
+			"collocations": {
+				"adjective": ["mechanical"],
+				"breakdown + verb": ["occur"],
+				"breakdown + noun": ["service", "truck", "vehicle"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a failure of a relationship, discussion or system",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The only ground for divorce is the irretrievable breakdown of the marriage."
+				},
+				{
+					"text": "marriage breakdown"
+				},
+				{
+					"text": "There has obviously been a breakdown in communications between the two sides."
+				},
+				{
+					"text": "The breakdown of the negotiations was not unexpected."
+				},
+				{
+					"text": "the complete breakdown of law and order"
+				},
+				{
+					"text": "A growing proportion of children are affected by family breakdown."
+				},
+				{
+					"text": "Marital breakdown can be followed by debt problems."
+				},
+				{
+					"text": "Both sides blame each other for the breakdown in negotiations."
+				}
+			],
+			"topics": ["Difficulty and failure"],
+			"collocations": {
+				"adjective": ["serious", "complete", "irretrievable"],
+				"verb + breakdown": ["cause", "lead to", "prevent"],
+				"preposition": ["breakdown in", "breakdown of"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "detailed information that you get by studying a set of figures",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "First, let's look at a breakdown of the costs."
+				},
+				{
+					"text": "Please provide us with a breakdown of expenditure by department."
+				}
+			],
+			"collocations": {
+				"adjective": ["detailed", "full", "cost"],
+				"verb + breakdown": [
+					"prepare",
+					"give somebody",
+					"provide (somebody with)"
+				],
+				"preposition": ["breakdown by", "breakdown of"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the process of a substance breaking into the parts of which it is made",
+			"labels": "(specialist)",
+			"examples": [
+				{
+					"text": "the breakdown of proteins in the digestive system"
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a period of serious mental illness in which somebody is unable to deal with normal life",
+			"labels": "(old-fashioned)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "It all became too much and he had some sort of breakdown."
+				}
+			],
+			"topics": ["Mental health"],
+			"collocations": {
+				"adjective": ["emotional", "mental", "nervous"],
+				"verb + breakdown": ["have", "suffer"],
+				"phrases": [
+					"the brink of a nervous breakdown",
+					"the edge of a nervous breakdown",
+					"the verge of a nervous breakdown"
+				]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈbreɪkdaʊn/",
+				"audio": "br/breakdown/breakdown__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈbreɪkdaʊn/",
+				"audio": "br/breakdown/breakdown__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

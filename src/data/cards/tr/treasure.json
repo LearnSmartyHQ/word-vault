@@ -1,75 +1,75 @@
 {
-  "term": "treasure",
-  "partOfSpeech": "noun",
-  "ox5000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a collection of valuable things such as gold, silver and jewellery",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "buried treasure"
-        },
-        {
-          "text": "a pirate’s treasure chest"
-        }
-      ],
-      "collocations": {
-        "adjective": ["buried", "hidden", "lost"],
-        "verb + treasure": ["hunt for", "look for", "search for"],
-        "treasure + noun": ["chest", "house", "trove"],
-        "phrases": ["a hoard of treasure"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a highly valued object",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "the priceless art treasures of the Uffizi Gallery"
-        },
-        {
-          "text": "Many forgotten treasures have been discovered in the attics of old houses."
-        },
-        {
-          "text": "a vast treasure of medieval manuscripts"
-        }
-      ],
-      "collocations": {
-        "adjective": ["great", "precious", "priceless"],
-        "verb + treasure": ["discover", "find", "uncover"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a person who is much loved or valued",
-      "examples": [
-        {
-          "text": "Liz is an absolute treasure—I couldn’t do without her."
-        }
-      ],
-      "collocations": {
-        "adjective": ["great", "precious", "priceless"],
-        "verb + treasure": ["discover", "find", "uncover"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈtreʒə(r)/",
-        "audio": "tr/treasure/treasure__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈtreʒər/",
-        "audio": "tr/treasure/treasure__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French tresor, based on Greek thēsauros ‘storehouse, treasure’."
+	"term": "treasure",
+	"partOfSpeech": "noun",
+	"ox5000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a collection of valuable things such as gold, silver and jewellery",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "buried treasure"
+				},
+				{
+					"text": "a pirate’s treasure chest"
+				}
+			],
+			"collocations": {
+				"adjective": ["buried", "hidden", "lost"],
+				"verb + treasure": ["hunt for", "look for", "search for"],
+				"treasure + noun": ["chest", "house", "trove"],
+				"phrases": ["a hoard of treasure"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a highly valued object",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "the priceless art treasures of the Uffizi Gallery"
+				},
+				{
+					"text": "Many forgotten treasures have been discovered in the attics of old houses."
+				},
+				{
+					"text": "a vast treasure of medieval manuscripts"
+				}
+			],
+			"collocations": {
+				"adjective": ["great", "precious", "priceless"],
+				"verb + treasure": ["discover", "find", "uncover"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a person who is much loved or valued",
+			"examples": [
+				{
+					"text": "Liz is an absolute treasure—I couldn’t do without her."
+				}
+			],
+			"collocations": {
+				"adjective": ["great", "precious", "priceless"],
+				"verb + treasure": ["discover", "find", "uncover"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈtreʒə(r)/",
+				"audio": "tr/treasure/treasure__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈtreʒər/",
+				"audio": "tr/treasure/treasure__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French tresor, based on Greek thēsauros ‘storehouse, treasure’."
 }

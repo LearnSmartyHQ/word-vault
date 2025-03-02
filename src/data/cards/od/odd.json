@@ -1,176 +1,176 @@
 {
-  "term": "odd",
-  "partOfSpeech": "adjective",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "strange or unusual",
-      "sensetop": "it is/seems odd that…it is odd to do something",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "They're very odd people."
-        },
-        {
-          "text": "There's something odd about that man."
-        },
-        {
-          "text": "That painting looks very odd."
-        },
-        {
-          "text": "a teenage girl with **rather odd** hair"
-        },
-        {
-          "text": "After a while she noticed something quite odd."
-        },
-        {
-          "text": "When we got inside something struck me as odd."
-        },
-        {
-          "text": "It's an odd little movie."
-        },
-        {
-          "text": "It seems odd that nobody noticed anything wrong.",
-          "contextForm": "it is/seems odd that…"
-        },
-        {
-          "text": "It's **most odd that** *(= very odd that)* she hasn't written."
-        },
-        {
-          "text": "The **odd thing** was that he didn't recognize me."
-        },
-        {
-          "text": "It's odd to think I will never see her again.",
-          "contextForm": "it is odd to do something"
-        },
-        {
-          "text": "I didn't think it odd at the time."
-        },
-        {
-          "text": "I find it odd that she takes so long to do that job."
-        },
-        {
-          "text": "She had the oddest feeling that he was avoiding her."
-        }
-      ],
-      "collocations": {
-        "verbs": ["be", "feel", "look"],
-        "adverb": ["extremely", "fairly", "very"],
-        "phrases": ["how odd", "it is odd to think", "something odd"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "strange or unusual in the way mentioned",
-      "examples": [
-        {
-          "text": "an odd-looking house"
-        },
-        {
-          "text": "an odd-sounding name"
-        }
-      ]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "that cannot be divided exactly by the number two",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "1, 3, 5 and 7 are odd numbers."
-        },
-        {
-          "text": "Each section may have an odd or even number of players."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "happening or appearing occasionally; not happening often",
-      "examples": [
-        {
-          "text": "He makes the odd mistake—nothing too serious."
-        }
-      ],
-      "synonyms": "occasional"
-    },
-    {
-      "senseNumber": 5,
-      "definition": "of no particular type or size; various",
-      "examples": [
-        {
-          "text": "decorations made of odd scraps of paper"
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "not with the pair or set that it belongs to; not matching",
-      "examples": [
-        {
-          "text": "You're wearing odd socks!"
-        }
-      ]
-    },
-    {
-      "senseNumber": 7,
-      "definition": "available; that somebody can use",
-      "examples": [
-        {
-          "text": "Could I see you when you've got an **odd moment**?"
-        }
-      ],
-      "synonyms": "spare"
-    },
-    {
-      "senseNumber": 8,
-      "definition": "approximately or a little more than the number mentioned",
-      "examples": [
-        {
-          "text": "How old is she—seventy odd?"
-        },
-        {
-          "text": "He's worked there for twenty-odd years."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "a person or thing that is different from others or does not fit easily into a group or set",
-      "examples": [
-        {
-          "text": "At school he was always the odd man out."
-        },
-        {
-          "text": "Dog, cat, horse, shoe—which is the odd one out?"
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "a person who is slightly strange or crazy",
-      "labels": "(old-fashioned, British English)",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ɒd/",
-        "audio": "od/odd/odd__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ɑːd/",
-        "audio": "od/odd/odd__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in the numerical sense): from Old Norse odda-, found in combinations such as odda-mathr ‘third or odd man’, from oddi ‘angle’."
+	"term": "odd",
+	"partOfSpeech": "adjective",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "strange or unusual",
+			"sensetop": "it is/seems odd that…it is odd to do something",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "They're very odd people."
+				},
+				{
+					"text": "There's something odd about that man."
+				},
+				{
+					"text": "That painting looks very odd."
+				},
+				{
+					"text": "a teenage girl with **rather odd** hair"
+				},
+				{
+					"text": "After a while she noticed something quite odd."
+				},
+				{
+					"text": "When we got inside something struck me as odd."
+				},
+				{
+					"text": "It's an odd little movie."
+				},
+				{
+					"text": "It seems odd that nobody noticed anything wrong.",
+					"contextForm": "it is/seems odd that…"
+				},
+				{
+					"text": "It's **most odd that** *(= very odd that)* she hasn't written."
+				},
+				{
+					"text": "The **odd thing** was that he didn't recognize me."
+				},
+				{
+					"text": "It's odd to think I will never see her again.",
+					"contextForm": "it is odd to do something"
+				},
+				{
+					"text": "I didn't think it odd at the time."
+				},
+				{
+					"text": "I find it odd that she takes so long to do that job."
+				},
+				{
+					"text": "She had the oddest feeling that he was avoiding her."
+				}
+			],
+			"collocations": {
+				"verbs": ["be", "feel", "look"],
+				"adverb": ["extremely", "fairly", "very"],
+				"phrases": ["how odd", "it is odd to think", "something odd"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "strange or unusual in the way mentioned",
+			"examples": [
+				{
+					"text": "an odd-looking house"
+				},
+				{
+					"text": "an odd-sounding name"
+				}
+			]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "that cannot be divided exactly by the number two",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "1, 3, 5 and 7 are odd numbers."
+				},
+				{
+					"text": "Each section may have an odd or even number of players."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "happening or appearing occasionally; not happening often",
+			"examples": [
+				{
+					"text": "He makes the odd mistake—nothing too serious."
+				}
+			],
+			"synonyms": "occasional"
+		},
+		{
+			"senseNumber": 5,
+			"definition": "of no particular type or size; various",
+			"examples": [
+				{
+					"text": "decorations made of odd scraps of paper"
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "not with the pair or set that it belongs to; not matching",
+			"examples": [
+				{
+					"text": "You're wearing odd socks!"
+				}
+			]
+		},
+		{
+			"senseNumber": 7,
+			"definition": "available; that somebody can use",
+			"examples": [
+				{
+					"text": "Could I see you when you've got an **odd moment**?"
+				}
+			],
+			"synonyms": "spare"
+		},
+		{
+			"senseNumber": 8,
+			"definition": "approximately or a little more than the number mentioned",
+			"examples": [
+				{
+					"text": "How old is she—seventy odd?"
+				},
+				{
+					"text": "He's worked there for twenty-odd years."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "a person or thing that is different from others or does not fit easily into a group or set",
+			"examples": [
+				{
+					"text": "At school he was always the odd man out."
+				},
+				{
+					"text": "Dog, cat, horse, shoe—which is the odd one out?"
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "a person who is slightly strange or crazy",
+			"labels": "(old-fashioned, British English)",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ɒd/",
+				"audio": "od/odd/odd__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ɑːd/",
+				"audio": "od/odd/odd__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in the numerical sense): from Old Norse odda-, found in combinations such as odda-mathr ‘third or odd man’, from oddi ‘angle’."
 }

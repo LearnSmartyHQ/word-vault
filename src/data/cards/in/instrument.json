@@ -1,233 +1,233 @@
 {
-  "term": "instrument",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "an object used for producing musical sounds, for example a piano or a drum",
-      "cefr": "a2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "to **play an instrument**"
-        },
-        {
-          "text": "Is he learning an instrument?"
-        },
-        {
-          "text": "percussion/brass/string instruments"
-        },
-        {
-          "text": "an instrument maker"
-        },
-        {
-          "text": "Ensure the instrument is tuned to concert pitch."
-        },
-        {
-          "text": "The instrument sounds like a cello."
-        },
-        {
-          "text": "The piece can be played on a keyboard instrument."
-        },
-        {
-          "text": "The score was written to be played on a keyboard instrument."
-        },
-        {
-          "text": "an instrument made by a violin maker in Canada"
-        },
-        {
-          "text": "baroque music played on period instruments"
-        }
-      ],
-      "topics": ["Music"],
-      "collocations": {
-        "adjective": ["musical", "beautiful", "fine"],
-        "verb + instrument": ["play", "learn", "learn to play"],
-        "instrument + verb": ["sound"],
-        "instrument + noun": ["maker"],
-        "preposition": ["on an/​the instrument"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a tool or device used for a particular task, especially for specialist or scientific work",
-      "sensetop": "instrument for somethinginstrument for doing something",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "surgical/optical/scientific instruments"
-        },
-        {
-          "text": "Scientists then began using powerful instruments to peer through the planet's dense atmosphere."
-        },
-        {
-          "text": "syringes, needles or other sharp instruments"
-        },
-        {
-          "text": "medieval instruments of torture such as the rack and the wheel"
-        },
-        {
-          "text": "Instruments for diagnosis and surgery have become hugely more sophisticated.",
-          "contextForm": "instrument for something"
-        },
-        {
-          "text": "the world's most powerful instrument for detecting gamma rays",
-          "contextForm": "instrument for doing something"
-        },
-        {
-          "text": "All pupils should learn to use drawing instruments."
-        },
-        {
-          "text": "All the instruments are made from glass capillary tubing."
-        },
-        {
-          "text": "a set of mathematical instruments"
-        },
-        {
-          "text": "This pen is the ideal precision instrument for all your graphic needs."
-        },
-        {
-          "text": "The autopsy revealed that the deceased had been hit with a blunt instrument."
-        }
-      ],
-      "topics": ["Scientific research"],
-      "collocations": {
-        "adjective": ["precision", "sensitive", "sophisticated"],
-        "… of instruments": ["set"],
-        "verb + instrument": ["use", "check", "read"],
-        "instrument + verb": ["measure something"],
-        "instrument + noun": ["check", "maker", "panel"],
-        "phrases": ["an instrument of torture"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a device used for measuring speed, distance, temperature, etc. in a vehicle or on a machine",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "data gathered by instruments aboard the satellite"
-        },
-        {
-          "text": "the flight instruments"
-        },
-        {
-          "text": "There was a warning light flashing on the instrument panel."
-        },
-        {
-          "text": "to read the instruments and make a note of the wind speed and direction"
-        },
-        {
-          "text": "an instrument that measures light intensity"
-        },
-        {
-          "text": "The pilot did his instrument checks in preparation for take-off."
-        }
-      ],
-      "topics": ["Engineering"],
-      "collocations": {
-        "adjective": ["precision", "sensitive", "sophisticated"],
-        "… of instruments": ["set"],
-        "verb + instrument": ["use", "check", "read"],
-        "instrument + verb": ["measure something"],
-        "instrument + noun": ["check", "maker", "panel"],
-        "phrases": ["an instrument of torture"]
-      }
-    },
-    {
-      "senseNumber": 4,
-      "definition": "something that is used by somebody in order to achieve something; a person or thing that makes something happen",
-      "sensetop": "instrument for (doing) somethinginstrument of something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "The law is not the best instrument for dealing with family matters.",
-          "contextForm": "instrument for (doing) something"
-        },
-        {
-          "text": "an instrument of change",
-          "contextForm": "instrument of something"
-        },
-        {
-          "text": "Even though it was a somewhat blunt instrument (= not very precise), our questionnaire provided us with some interesting ideas."
-        },
-        {
-          "text": "Internet polls are considered to be better instruments than telephone polls."
-        },
-        {
-          "text": "More effective instruments of oversight are needed."
-        },
-        {
-          "text": "They agreed that the UN was the best instrument for reaching agreement."
-        },
-        {
-          "text": "They saw criminal law as an instrument for improving public morals."
-        },
-        {
-          "text": "the use of language as an instrument of power and social control"
-        },
-        {
-          "text": "Financial aid can become an instrument of control rather than a support."
-        },
-        {
-          "text": "She was accused of making a public service an instrument of private advantage."
-        },
-        {
-          "text": "Some cynics say that popular music is a mere instrument of capitalist domination."
-        }
-      ],
-      "collocations": {
-        "adjective": ["chief", "key", "main"],
-        "verb + instrument": [
-          "regard somebody/​something as",
-          "see somebody/​something as",
-          "view somebody/​something as"
-        ],
-        "preposition": ["instrument for", "instrument of"]
-      }
-    },
-    {
-      "senseNumber": 5,
-      "definition": "a person who is used and controlled by somebody/something that is more powerful",
-      "sensetop": "instrument of somebody/something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "an instrument of fate"
-        },
-        {
-          "text": "The despot claimed to be the chosen instrument of divine providence."
-        }
-      ]
-    },
-    {
-      "senseNumber": 6,
-      "definition": "a formal legal document",
-      "labels": "(law)",
-      "examples": [
-        {
-          "text": "credit instruments issued by banks"
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈɪnstrəmənt/",
-        "audio": "in/instrument/instrument__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈɪnstrəmənt/",
-        "audio": "in/instrument/instrument__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English: from Old French, or from Latin instrumentum ‘equipment, implement’, from the verb instruere ‘construct, equip’."
+	"term": "instrument",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "an object used for producing musical sounds, for example a piano or a drum",
+			"cefr": "a2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "to **play an instrument**"
+				},
+				{
+					"text": "Is he learning an instrument?"
+				},
+				{
+					"text": "percussion/brass/string instruments"
+				},
+				{
+					"text": "an instrument maker"
+				},
+				{
+					"text": "Ensure the instrument is tuned to concert pitch."
+				},
+				{
+					"text": "The instrument sounds like a cello."
+				},
+				{
+					"text": "The piece can be played on a keyboard instrument."
+				},
+				{
+					"text": "The score was written to be played on a keyboard instrument."
+				},
+				{
+					"text": "an instrument made by a violin maker in Canada"
+				},
+				{
+					"text": "baroque music played on period instruments"
+				}
+			],
+			"topics": ["Music"],
+			"collocations": {
+				"adjective": ["musical", "beautiful", "fine"],
+				"verb + instrument": ["play", "learn", "learn to play"],
+				"instrument + verb": ["sound"],
+				"instrument + noun": ["maker"],
+				"preposition": ["on an/​the instrument"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a tool or device used for a particular task, especially for specialist or scientific work",
+			"sensetop": "instrument for somethinginstrument for doing something",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "surgical/optical/scientific instruments"
+				},
+				{
+					"text": "Scientists then began using powerful instruments to peer through the planet's dense atmosphere."
+				},
+				{
+					"text": "syringes, needles or other sharp instruments"
+				},
+				{
+					"text": "medieval instruments of torture such as the rack and the wheel"
+				},
+				{
+					"text": "Instruments for diagnosis and surgery have become hugely more sophisticated.",
+					"contextForm": "instrument for something"
+				},
+				{
+					"text": "the world's most powerful instrument for detecting gamma rays",
+					"contextForm": "instrument for doing something"
+				},
+				{
+					"text": "All pupils should learn to use drawing instruments."
+				},
+				{
+					"text": "All the instruments are made from glass capillary tubing."
+				},
+				{
+					"text": "a set of mathematical instruments"
+				},
+				{
+					"text": "This pen is the ideal precision instrument for all your graphic needs."
+				},
+				{
+					"text": "The autopsy revealed that the deceased had been hit with a blunt instrument."
+				}
+			],
+			"topics": ["Scientific research"],
+			"collocations": {
+				"adjective": ["precision", "sensitive", "sophisticated"],
+				"… of instruments": ["set"],
+				"verb + instrument": ["use", "check", "read"],
+				"instrument + verb": ["measure something"],
+				"instrument + noun": ["check", "maker", "panel"],
+				"phrases": ["an instrument of torture"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a device used for measuring speed, distance, temperature, etc. in a vehicle or on a machine",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "data gathered by instruments aboard the satellite"
+				},
+				{
+					"text": "the flight instruments"
+				},
+				{
+					"text": "There was a warning light flashing on the instrument panel."
+				},
+				{
+					"text": "to read the instruments and make a note of the wind speed and direction"
+				},
+				{
+					"text": "an instrument that measures light intensity"
+				},
+				{
+					"text": "The pilot did his instrument checks in preparation for take-off."
+				}
+			],
+			"topics": ["Engineering"],
+			"collocations": {
+				"adjective": ["precision", "sensitive", "sophisticated"],
+				"… of instruments": ["set"],
+				"verb + instrument": ["use", "check", "read"],
+				"instrument + verb": ["measure something"],
+				"instrument + noun": ["check", "maker", "panel"],
+				"phrases": ["an instrument of torture"]
+			}
+		},
+		{
+			"senseNumber": 4,
+			"definition": "something that is used by somebody in order to achieve something; a person or thing that makes something happen",
+			"sensetop": "instrument for (doing) somethinginstrument of something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "The law is not the best instrument for dealing with family matters.",
+					"contextForm": "instrument for (doing) something"
+				},
+				{
+					"text": "an instrument of change",
+					"contextForm": "instrument of something"
+				},
+				{
+					"text": "Even though it was a somewhat blunt instrument (= not very precise), our questionnaire provided us with some interesting ideas."
+				},
+				{
+					"text": "Internet polls are considered to be better instruments than telephone polls."
+				},
+				{
+					"text": "More effective instruments of oversight are needed."
+				},
+				{
+					"text": "They agreed that the UN was the best instrument for reaching agreement."
+				},
+				{
+					"text": "They saw criminal law as an instrument for improving public morals."
+				},
+				{
+					"text": "the use of language as an instrument of power and social control"
+				},
+				{
+					"text": "Financial aid can become an instrument of control rather than a support."
+				},
+				{
+					"text": "She was accused of making a public service an instrument of private advantage."
+				},
+				{
+					"text": "Some cynics say that popular music is a mere instrument of capitalist domination."
+				}
+			],
+			"collocations": {
+				"adjective": ["chief", "key", "main"],
+				"verb + instrument": [
+					"regard somebody/​something as",
+					"see somebody/​something as",
+					"view somebody/​something as"
+				],
+				"preposition": ["instrument for", "instrument of"]
+			}
+		},
+		{
+			"senseNumber": 5,
+			"definition": "a person who is used and controlled by somebody/something that is more powerful",
+			"sensetop": "instrument of somebody/something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "an instrument of fate"
+				},
+				{
+					"text": "The despot claimed to be the chosen instrument of divine providence."
+				}
+			]
+		},
+		{
+			"senseNumber": 6,
+			"definition": "a formal legal document",
+			"labels": "(law)",
+			"examples": [
+				{
+					"text": "credit instruments issued by banks"
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈɪnstrəmənt/",
+				"audio": "in/instrument/instrument__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈɪnstrəmənt/",
+				"audio": "in/instrument/instrument__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English: from Old French, or from Latin instrumentum ‘equipment, implement’, from the verb instruere ‘construct, equip’."
 }

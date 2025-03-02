@@ -1,141 +1,141 @@
 {
-  "term": "driver",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "a1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a person who drives a vehicle",
-      "labels": "(British English)(North American English)(British English)(especially North American English)",
-      "cefr": "a1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "a **bus/train/taxi driver**"
-        },
-        {
-          "text": "a car/van driver"
-        },
-        {
-          "text": "an ambulance driver"
-        },
-        {
-          "text": "a good/careful driver"
-        },
-        {
-          "text": "She climbed into the driver's seat."
-        },
-        {
-          "text": "The accident was the other driver's fault."
-        },
-        {
-          "text": "Police have warned drivers to take care in the icy conditions."
-        },
-        {
-          "text": "a **learner driver** *(= one who has not yet passed a driving test)*"
-        },
-        {
-          "text": "a **student driver**"
-        },
-        {
-          "text": "a **lorry driver**"
-        },
-        {
-          "text": "a **truck driver**"
-        },
-        {
-          "text": "What he wanted most was to be a **racing driver**."
-        },
-        {
-          "text": "The car comes equipped with a driver's airbag."
-        },
-        {
-          "text": "The driver of the other car walked away from the crash with minor cuts and bruises."
-        },
-        {
-          "text": "a campaign aimed at car drivers to promote walking and cycling"
-        },
-        {
-          "text": "Dangerous drivers face imprisonment."
-        },
-        {
-          "text": "She's a good driver."
-        },
-        {
-          "text": "He told the driver to turn back."
-        },
-        {
-          "text": "She was run over by a hit-and-run driver."
-        },
-        {
-          "text": "She's an experienced and careful driver."
-        },
-        {
-          "text": "The ambassador and his driver were both killed in the explosion."
-        },
-        {
-          "text": "The window on the driver's side was open."
-        },
-        {
-          "text": "There are parking places for disabled drivers."
-        }
-      ],
-      "topics": ["Transport by car or lorry", "Jobs"],
-      "collocations": {
-        "adjective": ["careful", "good", "safe"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a club with a large head, used for hitting the ball long distances from the tee",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Sports: ball and racket sports"]
-    },
-    {
-      "senseNumber": 3,
-      "definition": "software that controls the sending of data between a computer and a piece of equipment that is attached to it, such as a printer",
-      "labels": "(computing)",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "I downloaded and installed the drivers."
-        }
-      ],
-      "topics": ["Computers"]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "one of the main things that influence something or cause it to make progress",
-      "examples": [
-        {
-          "text": "Housing is a key driver of the economy."
-        },
-        {
-          "text": "Young people are widely perceived as the big pop industry drivers."
-        }
-      ]
-    },
-    {
-      "senseNumber": null,
-      "definition": "to be the person in control of a situation",
-      "examples": []
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈdraɪvə(r)/",
-        "audio": "dr/driver/driver__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈdraɪvər/",
-        "audio": "dr/driver/driver__us_2.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "driver",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "a1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a person who drives a vehicle",
+			"labels": "(British English)(North American English)(British English)(especially North American English)",
+			"cefr": "a1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "a **bus/train/taxi driver**"
+				},
+				{
+					"text": "a car/van driver"
+				},
+				{
+					"text": "an ambulance driver"
+				},
+				{
+					"text": "a good/careful driver"
+				},
+				{
+					"text": "She climbed into the driver's seat."
+				},
+				{
+					"text": "The accident was the other driver's fault."
+				},
+				{
+					"text": "Police have warned drivers to take care in the icy conditions."
+				},
+				{
+					"text": "a **learner driver** *(= one who has not yet passed a driving test)*"
+				},
+				{
+					"text": "a **student driver**"
+				},
+				{
+					"text": "a **lorry driver**"
+				},
+				{
+					"text": "a **truck driver**"
+				},
+				{
+					"text": "What he wanted most was to be a **racing driver**."
+				},
+				{
+					"text": "The car comes equipped with a driver's airbag."
+				},
+				{
+					"text": "The driver of the other car walked away from the crash with minor cuts and bruises."
+				},
+				{
+					"text": "a campaign aimed at car drivers to promote walking and cycling"
+				},
+				{
+					"text": "Dangerous drivers face imprisonment."
+				},
+				{
+					"text": "She's a good driver."
+				},
+				{
+					"text": "He told the driver to turn back."
+				},
+				{
+					"text": "She was run over by a hit-and-run driver."
+				},
+				{
+					"text": "She's an experienced and careful driver."
+				},
+				{
+					"text": "The ambassador and his driver were both killed in the explosion."
+				},
+				{
+					"text": "The window on the driver's side was open."
+				},
+				{
+					"text": "There are parking places for disabled drivers."
+				}
+			],
+			"topics": ["Transport by car or lorry", "Jobs"],
+			"collocations": {
+				"adjective": ["careful", "good", "safe"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a club with a large head, used for hitting the ball long distances from the tee",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Sports: ball and racket sports"]
+		},
+		{
+			"senseNumber": 3,
+			"definition": "software that controls the sending of data between a computer and a piece of equipment that is attached to it, such as a printer",
+			"labels": "(computing)",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "I downloaded and installed the drivers."
+				}
+			],
+			"topics": ["Computers"]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "one of the main things that influence something or cause it to make progress",
+			"examples": [
+				{
+					"text": "Housing is a key driver of the economy."
+				},
+				{
+					"text": "Young people are widely perceived as the big pop industry drivers."
+				}
+			]
+		},
+		{
+			"senseNumber": null,
+			"definition": "to be the person in control of a situation",
+			"examples": []
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈdraɪvə(r)/",
+				"audio": "dr/driver/driver__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈdraɪvər/",
+				"audio": "dr/driver/driver__us_2.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

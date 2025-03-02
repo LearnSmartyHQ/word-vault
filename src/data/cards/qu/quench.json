@@ -1,74 +1,74 @@
 {
-  "term": "quench",
-  "partOfSpeech": "verb",
-  "verbForms": {
-    "presentSimple": {
-      "iYouWeThey": "quench",
-      "heSheIt": "quenches"
-    },
-    "pastSimple": "quenched",
-    "pastParticiple": "quenched",
-    "ingForm": "quenching"
-  },
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "to drink so that you no longer feel thirsty",
-      "sensetop": "quench your thirst",
-      "cefr": "c2",
-      "examples": [],
-      "topics": ["Feelings", "Drinks"]
-    },
-    {
-      "senseNumber": 2,
-      "definition": "to stop a fire from burning",
-      "sensetop": "quench something",
-      "labels": "(formal)",
-      "examples": [
-        {
-          "text": "Firemen tried to quench the flames raging through the building."
-        }
-      ],
-      "synonyms": "extinguish"
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/kwentʃ/",
-        "audio": "qu/quench/quench__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkwentʃɪz/",
-        "audio": "qu/quench/quenches__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/kwentʃt/",
-        "audio": "qu/quench/quenched__gb_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkwentʃɪŋ/",
-        "audio": "qu/quench/quenching__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/kwentʃ/",
-        "audio": "qu/quench/quench__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkwentʃɪz/",
-        "audio": "qu/quench/quenches__us_1.mp3"
-      },
-      {
-        "pronunciation": "/kwentʃt/",
-        "audio": "qu/quench/quenched__us_1.mp3"
-      },
-      {
-        "pronunciation": "/ˈkwentʃɪŋ/",
-        "audio": "qu/quench/quenching__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Old English -cwencan (in acwencan ‘put out, extinguish’), of Germanic origin."
+	"term": "quench",
+	"partOfSpeech": "verb",
+	"verbForms": {
+		"presentSimple": {
+			"iYouWeThey": "quench",
+			"heSheIt": "quenches"
+		},
+		"pastSimple": "quenched",
+		"pastParticiple": "quenched",
+		"ingForm": "quenching"
+	},
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "to drink so that you no longer feel thirsty",
+			"sensetop": "quench your thirst",
+			"cefr": "c2",
+			"examples": [],
+			"topics": ["Feelings", "Drinks"]
+		},
+		{
+			"senseNumber": 2,
+			"definition": "to stop a fire from burning",
+			"sensetop": "quench something",
+			"labels": "(formal)",
+			"examples": [
+				{
+					"text": "Firemen tried to quench the flames raging through the building."
+				}
+			],
+			"synonyms": "extinguish"
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/kwentʃ/",
+				"audio": "qu/quench/quench__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkwentʃɪz/",
+				"audio": "qu/quench/quenches__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/kwentʃt/",
+				"audio": "qu/quench/quenched__gb_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkwentʃɪŋ/",
+				"audio": "qu/quench/quenching__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/kwentʃ/",
+				"audio": "qu/quench/quench__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkwentʃɪz/",
+				"audio": "qu/quench/quenches__us_1.mp3"
+			},
+			{
+				"pronunciation": "/kwentʃt/",
+				"audio": "qu/quench/quenched__us_1.mp3"
+			},
+			{
+				"pronunciation": "/ˈkwentʃɪŋ/",
+				"audio": "qu/quench/quenching__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Old English -cwencan (in acwencan ‘put out, extinguish’), of Germanic origin."
 }

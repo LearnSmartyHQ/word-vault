@@ -1,139 +1,139 @@
 {
-  "term": "procedure",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox3000": true,
-  "cefr": "b2",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a way of doing something, especially the usual or correct way",
-      "sensetop": "procedure for (doing) somethingunder a procedureaccording to a procedure",
-      "cefr": "b2",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "emergency/safety/disciplinary procedures"
-        },
-        {
-          "text": "Making a complaint is quite a simple procedure."
-        },
-        {
-          "text": "The school in this case did not **follow** the correct **procedure**."
-        },
-        {
-          "text": "to follow **normal/standard/the proper procedure**"
-        },
-        {
-          "text": "To ensure high quality, all products **go through** rigorous testing **procedures**."
-        },
-        {
-          "text": "The procedure for logging on to the network involves a password.",
-          "contextForm": "procedure for (doing) something"
-        },
-        {
-          "text": "Any complaint has to be investigated under our complaints procedure.",
-          "contextForm": "under a procedure"
-        },
-        {
-          "text": "All experiments were performed according to standard procedures.",
-          "contextForm": "according to a procedure"
-        },
-        {
-          "text": "A straightforward complaints procedure must be established from the outset."
-        },
-        {
-          "text": "An attempt was made to standardize the procedure."
-        },
-        {
-          "text": "Banks began to review their credit procedures."
-        },
-        {
-          "text": "The pilots completed the emergency procedures."
-        },
-        {
-          "text": "There are standard procedures for dismissing staff."
-        },
-        {
-          "text": "If you consult a solicitor, making a will is a simple procedure."
-        },
-        {
-          "text": "She explained the procedure for calling a Special General Meeting."
-        },
-        {
-          "text": "They found the complex procedures bewildering and confusing."
-        },
-        {
-          "text": "This is standard procedure after a customer complaint."
-        }
-      ],
-      "topics": ["Scientific research"],
-      "collocations": {
-        "adjective": ["complex", "complicated", "simple"],
-        "verb + procedure": ["adopt", "apply", "carry out"],
-        "preposition": ["under a/​the procedure", "procedure for"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the official or formal order or way of doing something, especially in business, law or politics",
-      "examples": [
-        {
-          "text": "court/legal/parliamentary procedure"
-        }
-      ],
-      "collocations": {
-        "adjective": ["complex", "complicated", "simple"],
-        "verb + procedure": ["adopt", "apply", "carry out"],
-        "preposition": ["under a/​the procedure", "procedure for"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "a medical operation",
-      "labels": "(medical)",
-      "cefr": "b2",
-      "examples": [
-        {
-          "text": "a routine **surgical procedure**"
-        },
-        {
-          "text": "to **perform/undergo** a procedure"
-        },
-        {
-          "text": "He could no longer perform delicate procedures such as angioplasty."
-        },
-        {
-          "text": "Women who undergo the procedure may be unable to breastfeed."
-        },
-        {
-          "text": "invasive surgical procedures"
-        },
-        {
-          "text": "the most popular cosmetic procedure in the nation"
-        }
-      ],
-      "topics": ["Healthcare"],
-      "collocations": {
-        "adjective": ["complex", "complicated", "simple"],
-        "verb + procedure": ["adopt", "apply", "carry out"],
-        "preposition": ["under a/​the procedure", "procedure for"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/prəˈsiːdʒə(r)/",
-        "audio": "pr/procedure/procedure__gb_3.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/prəˈsiːdʒər/",
-        "audio": "pr/procedure/procedure__us_3.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late 16th cent.: from French procédure, from procéder, from Latin procedere, from pro- ‘forward’ + cedere ‘go’."
+	"term": "procedure",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox3000": true,
+	"cefr": "b2",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a way of doing something, especially the usual or correct way",
+			"sensetop": "procedure for (doing) somethingunder a procedureaccording to a procedure",
+			"cefr": "b2",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "emergency/safety/disciplinary procedures"
+				},
+				{
+					"text": "Making a complaint is quite a simple procedure."
+				},
+				{
+					"text": "The school in this case did not **follow** the correct **procedure**."
+				},
+				{
+					"text": "to follow **normal/standard/the proper procedure**"
+				},
+				{
+					"text": "To ensure high quality, all products **go through** rigorous testing **procedures**."
+				},
+				{
+					"text": "The procedure for logging on to the network involves a password.",
+					"contextForm": "procedure for (doing) something"
+				},
+				{
+					"text": "Any complaint has to be investigated under our complaints procedure.",
+					"contextForm": "under a procedure"
+				},
+				{
+					"text": "All experiments were performed according to standard procedures.",
+					"contextForm": "according to a procedure"
+				},
+				{
+					"text": "A straightforward complaints procedure must be established from the outset."
+				},
+				{
+					"text": "An attempt was made to standardize the procedure."
+				},
+				{
+					"text": "Banks began to review their credit procedures."
+				},
+				{
+					"text": "The pilots completed the emergency procedures."
+				},
+				{
+					"text": "There are standard procedures for dismissing staff."
+				},
+				{
+					"text": "If you consult a solicitor, making a will is a simple procedure."
+				},
+				{
+					"text": "She explained the procedure for calling a Special General Meeting."
+				},
+				{
+					"text": "They found the complex procedures bewildering and confusing."
+				},
+				{
+					"text": "This is standard procedure after a customer complaint."
+				}
+			],
+			"topics": ["Scientific research"],
+			"collocations": {
+				"adjective": ["complex", "complicated", "simple"],
+				"verb + procedure": ["adopt", "apply", "carry out"],
+				"preposition": ["under a/​the procedure", "procedure for"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the official or formal order or way of doing something, especially in business, law or politics",
+			"examples": [
+				{
+					"text": "court/legal/parliamentary procedure"
+				}
+			],
+			"collocations": {
+				"adjective": ["complex", "complicated", "simple"],
+				"verb + procedure": ["adopt", "apply", "carry out"],
+				"preposition": ["under a/​the procedure", "procedure for"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "a medical operation",
+			"labels": "(medical)",
+			"cefr": "b2",
+			"examples": [
+				{
+					"text": "a routine **surgical procedure**"
+				},
+				{
+					"text": "to **perform/undergo** a procedure"
+				},
+				{
+					"text": "He could no longer perform delicate procedures such as angioplasty."
+				},
+				{
+					"text": "Women who undergo the procedure may be unable to breastfeed."
+				},
+				{
+					"text": "invasive surgical procedures"
+				},
+				{
+					"text": "the most popular cosmetic procedure in the nation"
+				}
+			],
+			"topics": ["Healthcare"],
+			"collocations": {
+				"adjective": ["complex", "complicated", "simple"],
+				"verb + procedure": ["adopt", "apply", "carry out"],
+				"preposition": ["under a/​the procedure", "procedure for"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/prəˈsiːdʒə(r)/",
+				"audio": "pr/procedure/procedure__gb_3.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/prəˈsiːdʒər/",
+				"audio": "pr/procedure/procedure__us_3.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late 16th cent.: from French procédure, from procéder, from Latin procedere, from pro- ‘forward’ + cedere ‘go’."
 }

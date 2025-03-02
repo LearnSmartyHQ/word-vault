@@ -1,78 +1,78 @@
 {
-  "term": "poetry",
-  "partOfSpeech": "noun",
-  "ox3000": true,
-  "cefr": "b1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "poems in general; poems as a genre of literature",
-      "labels": "(US English)",
-      "cefr": "b1",
-      "ox3000": true,
-      "examples": [
-        {
-          "text": "lyric/epic poetry"
-        },
-        {
-          "text": "to write poetry"
-        },
-        {
-          "text": "a poetry reading"
-        },
-        {
-          "text": "Maya Angelou’s poetry"
-        },
-        {
-          "text": "a book/collection/anthology of poetry"
-        },
-        {
-          "text": "At school we had to learn a lot of poetry by heart."
-        },
-        {
-          "text": "He began his speech with a few lines of poetry."
-        },
-        {
-          "text": "an essay on imagery in poetry"
-        },
-        {
-          "text": "the New York poetry scene"
-        }
-      ],
-      "synonyms": "verse",
-      "topics": ["Literature and writing", "Hobbies"],
-      "collocations": {
-        "adjective": ["good", "great", "bad"],
-        "… of poetry": ["line", "piece", "anthology"],
-        "verb + poetry": ["compose", "write", "read"],
-        "poetry + noun": ["book", "collection", "reading"],
-        "preposition": ["in poetry"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "a quality of beauty, style and feeling",
-      "labels": "(approving)",
-      "examples": [
-        {
-          "text": "There was poetry in all her gestures."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈpəʊətri/",
-        "audio": "po/poetry/poetry__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈpəʊətri/",
-        "audio": "po/poetry/poetry__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "late Middle English: from medieval Latin poetria, from Latin poeta ‘poet’. In early use the word sometimes referred to creative literature in general."
+	"term": "poetry",
+	"partOfSpeech": "noun",
+	"ox3000": true,
+	"cefr": "b1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "poems in general; poems as a genre of literature",
+			"labels": "(US English)",
+			"cefr": "b1",
+			"ox3000": true,
+			"examples": [
+				{
+					"text": "lyric/epic poetry"
+				},
+				{
+					"text": "to write poetry"
+				},
+				{
+					"text": "a poetry reading"
+				},
+				{
+					"text": "Maya Angelou’s poetry"
+				},
+				{
+					"text": "a book/collection/anthology of poetry"
+				},
+				{
+					"text": "At school we had to learn a lot of poetry by heart."
+				},
+				{
+					"text": "He began his speech with a few lines of poetry."
+				},
+				{
+					"text": "an essay on imagery in poetry"
+				},
+				{
+					"text": "the New York poetry scene"
+				}
+			],
+			"synonyms": "verse",
+			"topics": ["Literature and writing", "Hobbies"],
+			"collocations": {
+				"adjective": ["good", "great", "bad"],
+				"… of poetry": ["line", "piece", "anthology"],
+				"verb + poetry": ["compose", "write", "read"],
+				"poetry + noun": ["book", "collection", "reading"],
+				"preposition": ["in poetry"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "a quality of beauty, style and feeling",
+			"labels": "(approving)",
+			"examples": [
+				{
+					"text": "There was poetry in all her gestures."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈpəʊətri/",
+				"audio": "po/poetry/poetry__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈpəʊətri/",
+				"audio": "po/poetry/poetry__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "late Middle English: from medieval Latin poetria, from Latin poeta ‘poet’. In early use the word sometimes referred to creative literature in general."
 }

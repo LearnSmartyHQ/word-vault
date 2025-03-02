@@ -1,111 +1,111 @@
 {
-  "term": "intervention",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "action taken to improve or help a situation",
-      "sensetop": "intervention in something",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "calls for government intervention to save the steel industry"
-        },
-        {
-          "text": "In the second group of states, direct intervention in the economy was limited.",
-          "contextForm": "intervention in something"
-        }
-      ],
-      "topics": ["Discussion and agreement"],
-      "collocations": {
-        "adjective": ["active", "direct", "decisive"],
-        "verb + intervention": ["make", "call for", "demand"],
-        "preposition": [
-          "intervention against",
-          "intervention by",
-          "intervention from"
-        ],
-        "phrases": ["powers of intervention", "the right of intervention"]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "action by a country to become involved in the affairs of another country when they have not been asked to do so",
-      "sensetop": "intervention in something",
-      "labels": "(US English)(British English)(North American English)",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "**armed/military intervention**"
-        },
-        {
-          "text": "NATO intervention in the troubled region",
-          "contextForm": "intervention in something"
-        }
-      ],
-      "collocations": {
-        "adjective": ["active", "direct", "decisive"],
-        "verb + intervention": ["make", "call for", "demand"],
-        "preposition": [
-          "intervention against",
-          "intervention by",
-          "intervention from"
-        ],
-        "phrases": ["powers of intervention", "the right of intervention"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "action taken to improve a medical condition or illness",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "**a medical/surgical intervention**"
-        },
-        {
-          "text": "Most patients make a recovery without further intervention."
-        }
-      ]
-    },
-    {
-      "senseNumber": 4,
-      "definition": "the act of interrupting somebody when they are speaking in order to say something",
-      "sensetop": "intervention (in something)",
-      "examples": [
-        {
-          "text": "People resented his repeated interventions in the debate."
-        }
-      ]
-    },
-    {
-      "senseNumber": 5,
-      "definition": "an occasion when a group of people meet to take action with a friend or family member who has an addiction to drugs or alcohol, in order to help them recover",
-      "examples": [
-        {
-          "text": "Her daughters staged an intervention."
-        },
-        {
-          "text": "Family intervention is an essential component of treatment for adolescent drug abuse."
-        }
-      ]
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˌɪntəˈvenʃn/",
-        "audio": "in/intervention/intervention__gb_1.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˌɪntərˈvenʃn/",
-        "audio": "in/intervention/intervention__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": null
+	"term": "intervention",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "action taken to improve or help a situation",
+			"sensetop": "intervention in something",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "calls for government intervention to save the steel industry"
+				},
+				{
+					"text": "In the second group of states, direct intervention in the economy was limited.",
+					"contextForm": "intervention in something"
+				}
+			],
+			"topics": ["Discussion and agreement"],
+			"collocations": {
+				"adjective": ["active", "direct", "decisive"],
+				"verb + intervention": ["make", "call for", "demand"],
+				"preposition": [
+					"intervention against",
+					"intervention by",
+					"intervention from"
+				],
+				"phrases": ["powers of intervention", "the right of intervention"]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "action by a country to become involved in the affairs of another country when they have not been asked to do so",
+			"sensetop": "intervention in something",
+			"labels": "(US English)(British English)(North American English)",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "**armed/military intervention**"
+				},
+				{
+					"text": "NATO intervention in the troubled region",
+					"contextForm": "intervention in something"
+				}
+			],
+			"collocations": {
+				"adjective": ["active", "direct", "decisive"],
+				"verb + intervention": ["make", "call for", "demand"],
+				"preposition": [
+					"intervention against",
+					"intervention by",
+					"intervention from"
+				],
+				"phrases": ["powers of intervention", "the right of intervention"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "action taken to improve a medical condition or illness",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "**a medical/surgical intervention**"
+				},
+				{
+					"text": "Most patients make a recovery without further intervention."
+				}
+			]
+		},
+		{
+			"senseNumber": 4,
+			"definition": "the act of interrupting somebody when they are speaking in order to say something",
+			"sensetop": "intervention (in something)",
+			"examples": [
+				{
+					"text": "People resented his repeated interventions in the debate."
+				}
+			]
+		},
+		{
+			"senseNumber": 5,
+			"definition": "an occasion when a group of people meet to take action with a friend or family member who has an addiction to drugs or alcohol, in order to help them recover",
+			"examples": [
+				{
+					"text": "Her daughters staged an intervention."
+				},
+				{
+					"text": "Family intervention is an essential component of treatment for adolescent drug abuse."
+				}
+			]
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˌɪntəˈvenʃn/",
+				"audio": "in/intervention/intervention__gb_1.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˌɪntərˈvenʃn/",
+				"audio": "in/intervention/intervention__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": null
 }

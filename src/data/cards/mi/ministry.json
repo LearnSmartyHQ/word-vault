@@ -1,108 +1,108 @@
 {
-  "term": "ministry",
-  "partOfSpeech": "noun",
-  "academic": true,
-  "ox5000": true,
-  "cefr": "c1",
-  "definitions": [
-    {
-      "senseNumber": 1,
-      "definition": "a government department that has a particular area of responsibility",
-      "cefr": "c1",
-      "examples": [
-        {
-          "text": "The Ministry of Defence has issued the following statement."
-        },
-        {
-          "text": "A ministry spokesperson defended the measures."
-        },
-        {
-          "text": "He assumed direct control of key ministries."
-        },
-        {
-          "text": "The plan was approved by the Ministry of Housing."
-        },
-        {
-          "text": "The president took over the Ministry of Justice."
-        },
-        {
-          "text": "a senior man in the Ministry of Health"
-        },
-        {
-          "text": "a spokesman for the Ministry of Culture"
-        },
-        {
-          "text": "on ministry-owned land"
-        },
-        {
-          "text": "staff at the Greek Foreign Ministry"
-        }
-      ],
-      "topics": ["Politics"],
-      "collocations": {
-        "adjective": ["government", "Agriculture", "Defence"],
-        "verb + ministry": ["run", "take over", "create"],
-        "ministry + verb": [
-          "approve something",
-          "support something",
-          "control something"
-        ],
-        "ministry + noun": ["official", "spokesman", "spokesperson"],
-        "preposition": [
-          "at the ministry",
-          "in the ministry",
-          "within the ministry"
-        ],
-        "phrases": [
-          "a department at the ministry",
-          "a department in the ministry"
-        ]
-      }
-    },
-    {
-      "senseNumber": 2,
-      "definition": "the work of a minister of religion",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "He was an excellent candidate for the Baptist ministry."
-        }
-      ],
-      "topics": ["Religion and festivals"],
-      "collocations": {
-        "adjective": ["church", "Christian", "evangelical"],
-        "verb + ministry": ["begin", "enter", "leave"]
-      }
-    },
-    {
-      "senseNumber": 3,
-      "definition": "the spiritual work or service of a Christian or group of Christians; the period of time spent serving the Church",
-      "cefr": "c2",
-      "examples": [
-        {
-          "text": "The church provides a valuable ministry to a growing population."
-        }
-      ],
-      "topics": ["Religion and festivals"],
-      "collocations": {
-        "adjective": ["church", "Christian", "evangelical"],
-        "verb + ministry": ["begin", "enter", "leave"]
-      }
-    }
-  ],
-  "pronunciations": {
-    "uk": [
-      {
-        "pronunciation": "/ˈmɪnɪstri/",
-        "audio": "mi/ministry/ministry__gb_2.mp3"
-      }
-    ],
-    "us": [
-      {
-        "pronunciation": "/ˈmɪnɪstri/",
-        "audio": "mi/ministry/ministry__us_1.mp3"
-      }
-    ]
-  },
-  "wordOrigin": "Middle English (in senses (2) and (3)): from Latin ministerium, from minister ‘servant’, from minus ‘less’."
+	"term": "ministry",
+	"partOfSpeech": "noun",
+	"academic": true,
+	"ox5000": true,
+	"cefr": "c1",
+	"definitions": [
+		{
+			"senseNumber": 1,
+			"definition": "a government department that has a particular area of responsibility",
+			"cefr": "c1",
+			"examples": [
+				{
+					"text": "The Ministry of Defence has issued the following statement."
+				},
+				{
+					"text": "A ministry spokesperson defended the measures."
+				},
+				{
+					"text": "He assumed direct control of key ministries."
+				},
+				{
+					"text": "The plan was approved by the Ministry of Housing."
+				},
+				{
+					"text": "The president took over the Ministry of Justice."
+				},
+				{
+					"text": "a senior man in the Ministry of Health"
+				},
+				{
+					"text": "a spokesman for the Ministry of Culture"
+				},
+				{
+					"text": "on ministry-owned land"
+				},
+				{
+					"text": "staff at the Greek Foreign Ministry"
+				}
+			],
+			"topics": ["Politics"],
+			"collocations": {
+				"adjective": ["government", "Agriculture", "Defence"],
+				"verb + ministry": ["run", "take over", "create"],
+				"ministry + verb": [
+					"approve something",
+					"support something",
+					"control something"
+				],
+				"ministry + noun": ["official", "spokesman", "spokesperson"],
+				"preposition": [
+					"at the ministry",
+					"in the ministry",
+					"within the ministry"
+				],
+				"phrases": [
+					"a department at the ministry",
+					"a department in the ministry"
+				]
+			}
+		},
+		{
+			"senseNumber": 2,
+			"definition": "the work of a minister of religion",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "He was an excellent candidate for the Baptist ministry."
+				}
+			],
+			"topics": ["Religion and festivals"],
+			"collocations": {
+				"adjective": ["church", "Christian", "evangelical"],
+				"verb + ministry": ["begin", "enter", "leave"]
+			}
+		},
+		{
+			"senseNumber": 3,
+			"definition": "the spiritual work or service of a Christian or group of Christians; the period of time spent serving the Church",
+			"cefr": "c2",
+			"examples": [
+				{
+					"text": "The church provides a valuable ministry to a growing population."
+				}
+			],
+			"topics": ["Religion and festivals"],
+			"collocations": {
+				"adjective": ["church", "Christian", "evangelical"],
+				"verb + ministry": ["begin", "enter", "leave"]
+			}
+		}
+	],
+	"pronunciations": {
+		"uk": [
+			{
+				"pronunciation": "/ˈmɪnɪstri/",
+				"audio": "mi/ministry/ministry__gb_2.mp3"
+			}
+		],
+		"us": [
+			{
+				"pronunciation": "/ˈmɪnɪstri/",
+				"audio": "mi/ministry/ministry__us_1.mp3"
+			}
+		]
+	},
+	"wordOrigin": "Middle English (in senses (2) and (3)): from Latin ministerium, from minister ‘servant’, from minus ‘less’."
 }
