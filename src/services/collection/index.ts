@@ -1,4 +1,5 @@
 export * from "./findCollection.js";
+export * from "./getAllCollectionCards.js";
 export * from "./getAllCollections.js";
 export * from "./getCollectionCards.js";
 export * from "./getCollectionCategories.js";
