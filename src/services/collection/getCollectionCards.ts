@@ -16,5 +16,5 @@ export function getCollectionCards(collectionSlug: string): string[] | null {
 		}
 	}
 
-	return Array.from(words);
+	return Array.from(words).sort();
 }
