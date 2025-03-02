@@ -1,6 +1,6 @@
 export type CollectionStatus = "published" | "draft" | "deleted" | "locked";
 
-export type ICollectionCardSlugs = string[];
+export type ICollectionCardList = string[];
 
 export interface ICollectionCategory {
 	id: number;
@@ -9,7 +9,7 @@ export interface ICollectionCategory {
 	description?: string;
 	image?: string;
 	totalCards: number;
-	cards: ICollectionCardSlugs;
+	cards: ICollectionCardList;
 }
 
 export interface ICollectionCardDifficulties {
