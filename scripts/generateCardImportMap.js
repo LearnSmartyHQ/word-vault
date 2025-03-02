@@ -19,7 +19,7 @@ function generateSubfolderIndexes() {
 
 		const exportName = "dir_" + subfolder.replace(/\W/g, "_");
 
-		let imports = 'import type { IOxford } from "../../../types/index.js";\n';
+		const imports = 'import type { IOxford } from "../../../types/index.js";\n';
 		let mappings = `export const ${exportName}: Record<string, () => Promise<IOxford>> = {\n`;
 
 		for (const file of files) {
