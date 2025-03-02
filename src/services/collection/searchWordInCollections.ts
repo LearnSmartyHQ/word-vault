@@ -14,7 +14,7 @@ export function searchWordInCollections(word: string): string[] | null {
 	}
 
 	const results: string[] = [];
-	allCollections.forEach((collection) => {
+	for (const collection of allCollections) {
 		const found = collection.categories.some((category) =>
 			category.cards.some((lesson) => lesson.includes(word)),
 		);
@@ -22,7 +22,7 @@ export function searchWordInCollections(word: string): string[] | null {
 		if (found) {
 			results.push(collection.slug);
 		}
-	});
+	}
 
 	return results;
 }

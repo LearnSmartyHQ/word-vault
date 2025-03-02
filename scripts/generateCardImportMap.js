@@ -1,6 +1,6 @@
-import * as fs from "fs";
-import * as path from "path";
-import { fileURLToPath } from "url";
+import * as fs from "node:fs";
+import * as path from "node:path";
+import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const cardsDir = path.join(__dirname, "../src/data/cards");
@@ -17,7 +17,7 @@ function generateSubfolderIndexes() {
 			.readdirSync(subfolderPath)
 			.filter((file) => file.endsWith(".json"));
 
-		const exportName = "dir_" + subfolder.replace(/\W/g, "_");
+		const exportName = `dir_${subfolder.replace(/\W/g, "_")}`;
 
 		const imports = 'import type { IOxford } from "../../../types/index.js";\n';
 		let mappings = `export const ${exportName}: Record<string, () => Promise<IOxford>> = {\n`;
@@ -43,7 +43,7 @@ function generateRootIndex() {
 		"export const cards: Record<string, () => Promise<IOxford>> = {\n";
 
 	for (const subfolder of subfolders) {
-		const exportName = "dir_" + subfolder.replace(/\W/g, "_");
+		const exportName = `dir_${subfolder.replace(/\W/g, "_")}`;
 		imports += `import { ${exportName} } from "./${subfolder}/index.js";\n`;
 		mappings += `  ...${exportName},\n`;
 	}

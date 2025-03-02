@@ -77,9 +77,9 @@ describe("findCollection", () => {
 		expect(result?.categories).toHaveLength(42);
 
 		// Verify each category has exactly 12 cards
-		result?.categories.forEach((category) => {
+		for (const category of result?.categories ?? []) {
 			expect(category.cards).toHaveLength(12);
-		});
+		}
 	});
 
 	// This test requires creating a temporary invalid JSON file

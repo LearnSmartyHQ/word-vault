@@ -20,18 +20,18 @@ export function getTotalCardsByDifficulty(): ICollectionCardDifficulties {
 		return totalCounts;
 	}
 
-	allCollections.forEach((collection) => {
+	for (const collection of allCollections) {
 		if (collection?.totalCardsByDifficulty) {
-			Object.keys(collection.totalCardsByDifficulty).forEach((difficulty) => {
+			for (const difficulty of Object.keys(collection.totalCardsByDifficulty)) {
 				const key = difficulty as keyof ICollectionCardDifficulties;
 				const difficultyCount = collection.totalCardsByDifficulty?.[key];
 
 				if (difficultyCount) {
 					totalCounts[key] += difficultyCount;
 				}
-			});
+			}
 		}
-	});
+	}
 
 	return totalCounts;
 }
