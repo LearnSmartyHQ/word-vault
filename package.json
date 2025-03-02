@@ -5,13 +5,7 @@
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"type": "module",
-	"keywords": [
-		"dictionary",
-		"words",
-		"english",
-		"typescript",
-		"504"
-	],
+	"keywords": ["dictionary", "words", "english", "typescript", "504"],
 	"author": {
 		"name": "John Adib",
 		"url": "https://mradib.com"
@@ -31,20 +25,16 @@
 	"scripts": {
 		"build": "tsc",
 		"start": "node dist/index.js",
-		"lint": "biome lint",
-		"lint:fix": "biome lint --write",
 		"format": "biome format",
 		"format:fix": "biome format --write",
-		"format:fix:unsafe": "biome format --write --unsafe",
+		"lint": "biome lint",
+		"lint:fix": "biome lint --write",
+		"lint:fix:unsafe": "biome lint --write --unsafe",
 		"check": "biome check",
 		"check:fix": "biome check --write",
 		"test": "vitest"
 	},
-	"files": [
-		"dist",
-		"data",
-		"README.md"
-	],
+	"files": ["dist", "data", "README.md"],
 	"devDependencies": {
 		"@babel/preset-typescript": "^7.26.0",
 		"@biomejs/biome": "1.9.4",
