@@ -36,11 +36,11 @@
 	},
 	"files": ["dist", "data", "README.md"],
 	"devDependencies": {
-		"@babel/preset-typescript": "^7.26.0",
-		"@biomejs/biome": "1.9.4",
-		"@types/node": "^22.13.8",
-		"globals": "^16.0.0",
-		"typescript": "^5.8.2",
-		"vitest": "^3.0.7"
+		"@babel/preset-typescript": "^7.27.1",
+		"@biomejs/biome": "2.2.2",
+		"@types/node": "^24.3.0",
+		"globals": "^16.3.0",
+		"typescript": "^5.9.2",
+		"vitest": "^3.2.4"
 	}
 }
